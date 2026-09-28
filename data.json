@@ -1,7 +1,46 @@
 {
- "updated_at": "2026-09-28 20:18",
+ "updated_at": "2026-09-28 21:20",
  "total": 40,
  "items": [
+  {
+   "id": "ecf89dd531e46a32c40bc2235fb3c125",
+   "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+   "summary": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
+   "link": "https://www.qbitai.com/2026/09/498877.html",
+   "source": "量子位",
+   "category": "资讯",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-28 20:43",
+   "ts": 1790599433
+  },
+  {
+   "id": "00e3006050290494b6e49f97cc2a620a",
+   "title": "Show HN: Hntui – A TUI for Hacker News",
+   "summary": "hi there! i'd like you to try out a tui i made for browsing hackernews. it's built using opentui and also effect (learning experiment). i really like it and i t",
+   "link": "https://github.com/ahmd-sh/hntui",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-28 20:11",
+   "ts": 1790597480
+  },
+  {
+   "id": "d69985027b628016347045153df20e35",
+   "title": "The smart home graveyard is getting crowded",
+   "summary": "Article URL: https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard\nComments URL: https://news.ycombinator.com/item?id=49876373\nPoints: 28\n# Com",
+   "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-28 19:27",
+   "ts": 1790594820
+  },
   {
    "id": "cac404a38d519f2d92aade1c785b8727",
    "title": "HC归来，华为正重新定义AIDC基础设施",
@@ -18,7 +57,7 @@
   {
    "id": "c1341b4efeee009a8a5ce548b70ff8a0",
    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-   "summary": "Article URL: https://git.mills.io/prologic/parley\nComments URL: https://news.ycombinator.com/item?id=49875913\nPoints: 71\n# Comments: 18",
+   "summary": "Article URL: https://git.mills.io/prologic/parley\nComments URL: https://news.ycombinator.com/item?id=49875913\nPoints: 115\n# Comments: 39",
    "link": "https://git.mills.io/prologic/parley",
    "source": "Hacker News",
    "category": "资讯",
@@ -40,6 +79,19 @@
    "urgent": false,
    "fetched_at": "09-28 18:22",
    "ts": 1790590948
+  },
+  {
+   "id": "55b103eb50061f5f307db8a96817c764",
+   "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
+   "summary": "Fridge magnet shopping list on an M5Stack PaperMono (ESP32-S3, e-ink\ntouchscreen), synced with a phone web app over Wi-Fi. Works offline,\n~2,400 lines of C++.Th",
+   "link": "https://github.com/seamusc/papermono-shopping-list",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-28 18:14",
+   "ts": 1790590481
   },
   {
    "id": "8a425a42da7791cf14ce898761fb1a2f",
@@ -83,7 +135,7 @@
   {
    "id": "e24ca601ac0784379e78db9553571cb4",
    "title": "Three Days in August: What a DDoS Attack Exposed in Our Network",
-   "summary": "Article URL: https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/\nComments URL: https://news.ycombinator.com/item?id=49875401\nPoints: 9\n# Comments: 6",
+   "summary": "Article URL: https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/\nComments URL: https://news.ycombinator.com/item?id=49875401\nPoints: 12\n# Comments: 7",
    "link": "https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +174,7 @@
   {
    "id": "9c9fb6ff815c5573c039a0ad6eb470fc",
    "title": "37,500 border drawings: a map of the world as people remember it",
-   "summary": "Article URL: https://www.habibicode.org/thedrawnworld\nComments URL: https://news.ycombinator.com/item?id=49875142\nPoints: 29\n# Comments: 10",
+   "summary": "Article URL: https://www.habibicode.org/thedrawnworld\nComments URL: https://news.ycombinator.com/item?id=49875142\nPoints: 56\n# Comments: 17",
    "link": "https://www.habibicode.org/thedrawnworld",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +213,7 @@
   {
    "id": "3debae8b31e018c4ea5870fc1971c0e7",
    "title": "Made by Mechanical Means",
-   "summary": "Article URL: https://felixrieseberg.com/made-by-mechanical-means/\nComments URL: https://news.ycombinator.com/item?id=49874551\nPoints: 39\n# Comments: 9",
+   "summary": "Article URL: https://felixrieseberg.com/made-by-mechanical-means/\nComments URL: https://news.ycombinator.com/item?id=49874551\nPoints: 44\n# Comments: 13",
    "link": "https://felixrieseberg.com/made-by-mechanical-means/",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +252,7 @@
   {
    "id": "b650422dd93f8eba6dfa6403b1d17406",
    "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-   "summary": "Article URL: https://arxiv.org/abs/2110.01834\nComments URL: https://news.ycombinator.com/item?id=49873241\nPoints: 123\n# Comments: 39",
+   "summary": "Article URL: https://arxiv.org/abs/2110.01834\nComments URL: https://news.ycombinator.com/item?id=49873241\nPoints: 128\n# Comments: 44",
    "link": "https://arxiv.org/abs/2110.01834",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +265,7 @@
   {
    "id": "43ae1b11b19cbb2bc94299231727d8d3",
    "title": "Nissan's third generation e-POWER powertrain",
-   "summary": "Article URL: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/\nComments URL: https://news.ycombinator.com/item?id=49872883\nPoints: 87",
+   "summary": "Article URL: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/\nComments URL: https://news.ycombinator.com/item?id=49872883\nPoints: 99",
    "link": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
    "source": "Hacker News",
    "category": "资讯",
@@ -226,7 +278,7 @@
   {
    "id": "e82f7d1d81874c6aeb2955e7152fd7eb",
    "title": "Owed a billion dollars in Nvidia stock",
-   "summary": "Article URL: https://colo.to/nvidia-stock-narrative.html\nComments URL: https://news.ycombinator.com/item?id=49872723\nPoints: 797\n# Comments: 333",
+   "summary": "Article URL: https://colo.to/nvidia-stock-narrative.html\nComments URL: https://news.ycombinator.com/item?id=49872723\nPoints: 837\n# Comments: 354",
    "link": "https://colo.to/nvidia-stock-narrative.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -239,7 +291,7 @@
   {
    "id": "7d37c22aa2a578224b2c39e04ff8943b",
    "title": "Lunar Terminator Paradox",
-   "summary": "Article URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html\nComments URL: https://news.ycombinator.com/item?id=49870837\nPoints: 90",
+   "summary": "Article URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html\nComments URL: https://news.ycombinator.com/item?id=49870837\nPoints: 92",
    "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -252,7 +304,7 @@
   {
    "id": "4a950c0822bd8f2c0119f42e503287b2",
    "title": "When did Google get so weird?",
-   "summary": "Article URL: https://sancho.bearblog.dev/google-weird/\nComments URL: https://news.ycombinator.com/item?id=49870367\nPoints: 1407\n# Comments: 761",
+   "summary": "Article URL: https://sancho.bearblog.dev/google-weird/\nComments URL: https://news.ycombinator.com/item?id=49870367\nPoints: 1461\n# Comments: 775",
    "link": "https://sancho.bearblog.dev/google-weird/",
    "source": "Hacker News",
    "category": "资讯",
@@ -261,45 +313,6 @@
    "urgent": false,
    "fetched_at": "09-28 04:12",
    "ts": 1790539974
-  },
-  {
-   "id": "d5a24e917657a28596d157e6d9b12ef0",
-   "title": "Self-Hosting on the Dark Web",
-   "summary": "Article URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/\nComments URL: https://news.ycombinator.com/item?id=49870295\nPoints: 229\n# Comment",
-   "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 04:03",
-   "ts": 1790539416
-  },
-  {
-   "id": "0927e8c597cdf4f1f173b8afda7f5565",
-   "title": "Alan Kay's answer to “Did the ENIAC have a BIOS”?",
-   "summary": "Article URL: https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11\nComments URL: https://news.ycombinator.com/item?id=49870070\nPoints: 147\n# Commen",
-   "link": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 03:37",
-   "ts": 1790537825
-  },
-  {
-   "id": "79ead1f46795c09bbb838589c0acc55b",
-   "title": "Imp is a full port of DSPy to the BEAM",
-   "summary": "https://hex.pm/packages/imphttps://dspy.ai/current/\n\nComments URL: https://news.ycombinator.com/item?id=49869995\nPoints: 82\n# Comments: 7",
-   "link": "https://github.com/deepfates/imp",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 03:28",
-   "ts": 1790537303
   },
   {
    "id": "44a5bee1682e48737243e814d607c614",
@@ -508,19 +521,6 @@
    "urgent": false,
    "fetched_at": "09-26 15:18",
    "ts": 1790407085
-  },
-  {
-   "id": "16b1fd1dfc682ad120cdc2c26920a80f",
-   "title": "谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架",
-   "summary": "vLLM人马创业公司团队出品",
-   "link": "https://www.qbitai.com/2026/09/497425.html",
-   "source": "量子位",
-   "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-26 15:12",
-   "ts": 1790406725
   }
  ]
 }
