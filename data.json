@@ -1,7 +1,33 @@
 {
- "updated_at": "2026-09-29 01:03",
+ "updated_at": "2026-09-29 01:36",
  "total": 40,
  "items": [
+  {
+   "id": "68abb09dc2b385c4c93ff672a6f6c027",
+   "title": "How Pew Research Center is – and is not – using AI in our work",
+   "summary": "Article URL: https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/\nComments URL: https://news.ycombinator",
+   "link": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 01:08",
+   "ts": 1790615286
+  },
+  {
+   "id": "51c257e55d8f67e0378eee721a57b66c",
+   "title": "Driver Ticketed for No Insurance Just Because Flock (YC 2017) Said She Didn't",
+   "summary": "Article URL: https://www.techdirt.com/2026/09/28/driver-ticketed-for-no-insurance-despite-having-insurance-just-because-flock-said-she-didnt/\nComments URL: http",
+   "link": "https://www.techdirt.com/2026/09/28/driver-ticketed-for-no-insurance-despite-having-insurance-just-because-flock-said-she-didnt/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 00:58",
+   "ts": 1790614705
+  },
   {
    "id": "e00fdc8a7905812edd953b146c609f14",
    "title": "Starship 完成首次轨道发射",
@@ -17,7 +43,7 @@
   },
   {
    "id": "d89783c6c067132e8cbe1fde5e16ca5b",
-   "title": "The problem is not the AI code, but nobody knows anything anymore",
+   "title": "The problem is not AI code, but not knowing about system architecture or intent",
    "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/\nComments URL: https://news.ycombinator.com/item?id=49880",
    "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
    "source": "Hacker News",
@@ -31,7 +57,7 @@
   {
    "id": "b2ee0c76b2671aa604d9e4dce33bb6da",
    "title": "13 Months Sober (2025)",
-   "summary": "Article URL: https://www.bobbytables.io/p/13-months-sober\nComments URL: https://news.ycombinator.com/item?id=49880311\nPoints: 13\n# Comments: 9",
+   "summary": "Article URL: https://www.bobbytables.io/p/13-months-sober\nComments URL: https://news.ycombinator.com/item?id=49880311\nPoints: 41\n# Comments: 27",
    "link": "https://www.bobbytables.io/p/13-months-sober",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +83,7 @@
   {
    "id": "bf135649213d0e4c0c1664faf0c8852e",
    "title": "Pirating the Pirates",
-   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 50\n# Comments: 11",
+   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 87\n# Comments: 17",
    "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +96,7 @@
   {
    "id": "83d76b9917eee6bb74354c7eb3d7b8d6",
    "title": "Hijacking the PS5's RTMP Stream",
-   "summary": "Article URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/\nComments URL: https://news.ycombinator.com/item?id=49879702\nPoints: 24\n# Comments: 2",
+   "summary": "Article URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/\nComments URL: https://news.ycombinator.com/item?id=49879702\nPoints: 43\n# Comments: 3",
    "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +109,7 @@
   {
    "id": "f1b5f8ede6b7a58da3588ef46af5d9f4",
    "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-   "summary": "Article URL: https://www.thisamericanlife.org/897/transcript\nComments URL: https://news.ycombinator.com/item?id=49879697\nPoints: 78\n# Comments: 49",
+   "summary": "Article URL: https://www.thisamericanlife.org/897/transcript\nComments URL: https://news.ycombinator.com/item?id=49879697\nPoints: 100\n# Comments: 71",
    "link": "https://www.thisamericanlife.org/897/transcript",
    "source": "Hacker News",
    "category": "资讯",
@@ -94,21 +120,34 @@
    "ts": 1790609709
   },
   {
-   "id": "4218dbe8ecba16cc488756c30d0f111e",
-   "title": "What makes Lisp difficult to read?",
-   "summary": "Article URL: https://paultm.nl/paren-thesis\nComments URL: https://news.ycombinator.com/item?id=49879343\nPoints: 15\n# Comments: 11",
-   "link": "https://paultm.nl/paren-thesis",
+   "id": "f918b2b0dacc2cb1859d4d0dc47f8baa",
+   "title": "Cf: The Agentic CLI for the Cloudflare API",
+   "summary": "Article URL: https://blog.cloudflare.com/cloudflare-cf-cli-launch/\nComments URL: https://news.ycombinator.com/item?id=49879577\nPoints: 16\n# Comments: 1",
+   "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
    "source": "Hacker News",
-   "category": "资讯",
+   "category": "发布/大事件",
    "topic": "科技社区",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "09-28 23:12",
-   "ts": 1790608350
+   "fetched_at": "09-28 23:28",
+   "ts": 1790609293
+  },
+  {
+   "id": "d5b6cbb600a6c56977180540135839ef",
+   "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+   "summary": "Hi HN, I’m Per, founder of Scrimba (YC S20). We’ve spent the last decade teaching people how to code with an HTML-based video format. We’ve now plugged an LLM i",
+   "link": "https://hn.watch/",
+   "source": "Hacker News",
+   "category": "教程",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-28 23:16",
+   "ts": 1790608573
   },
   {
    "id": "8c53312a6187ca30d79d3e68ea34271b",
-   "title": "MongoDB CEO resigns \"effective immediately\" to join Meta, stock drops 20%",
+   "title": "MongoDB CEO resigns to join Meta",
    "summary": "Article URL: https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/\nComments URL: https://news.ycombinator.c",
    "link": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
    "source": "Hacker News",
@@ -122,7 +161,7 @@
   {
    "id": "31ba0ba792096566b2f5568baf45ee43",
    "title": "What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators",
-   "summary": "Article URL: https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/\nComments URL: https://news.ycombinator.com/item?id=49878900\nPoints: 26\n# Comment",
+   "summary": "Article URL: https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/\nComments URL: https://news.ycombinator.com/item?id=49878900\nPoints: 35\n# Comment",
    "link": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +174,7 @@
   {
    "id": "4652490e060b661b1e3e8be232ac7846",
    "title": "Coding Is Not Solved",
-   "summary": "Article URL: https://blog.alexewerlof.com/p/coding-is-not-solved\nComments URL: https://news.ycombinator.com/item?id=49877988\nPoints: 272\n# Comments: 273",
+   "summary": "Article URL: https://blog.alexewerlof.com/p/coding-is-not-solved\nComments URL: https://news.ycombinator.com/item?id=49877988\nPoints: 291\n# Comments: 299",
    "link": "https://blog.alexewerlof.com/p/coding-is-not-solved",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +239,7 @@
   {
    "id": "fb2d16987dd39c9c9b608788e3ecd7c8",
    "title": "What Would a Serious AI Product Look Like?",
-   "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html\nComments URL: https://news.ycombinator.com/item?id=49876148\nPoints: 34\n# Comments: 12",
+   "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html\nComments URL: https://news.ycombinator.com/item?id=49876148\nPoints: 46\n# Comments: 18",
    "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +252,7 @@
   {
    "id": "c1341b4efeee009a8a5ce548b70ff8a0",
    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-   "summary": "Article URL: https://git.mills.io/prologic/parley\nComments URL: https://news.ycombinator.com/item?id=49875913\nPoints: 225\n# Comments: 108",
+   "summary": "Article URL: https://git.mills.io/prologic/parley\nComments URL: https://news.ycombinator.com/item?id=49875913\nPoints: 236\n# Comments: 112",
    "link": "https://git.mills.io/prologic/parley",
    "source": "Hacker News",
    "category": "资讯",
@@ -235,19 +274,6 @@
    "urgent": false,
    "fetched_at": "09-28 18:22",
    "ts": 1790590948
-  },
-  {
-   "id": "55b103eb50061f5f307db8a96817c764",
-   "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
-   "summary": "Fridge magnet shopping list on an M5Stack PaperMono (ESP32-S3, e-ink\ntouchscreen), synced with a phone web app over Wi-Fi. Works offline,\n~2,400 lines of C++.Th",
-   "link": "https://github.com/seamusc/papermono-shopping-list",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 18:14",
-   "ts": 1790590481
   },
   {
    "id": "8a425a42da7791cf14ce898761fb1a2f",
@@ -287,32 +313,6 @@
    "urgent": false,
    "fetched_at": "09-28 17:03",
    "ts": 1790586236
-  },
-  {
-   "id": "1b3195d631a78e6140d0ef0735930fa6",
-   "title": "Show HN: Free alternative to graphics design giants",
-   "summary": "A webassembly web based app that help editing raster and vector on browser without any subscription or signups\n\nComments URL: https://news.ycombinator.com/item?",
-   "link": "https://scissor.studio/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 16:55",
-   "ts": 1790585731
-  },
-  {
-   "id": "9c9fb6ff815c5573c039a0ad6eb470fc",
-   "title": "37,500 border drawings: a map of the world as people remember it",
-   "summary": "Article URL: https://www.habibicode.org/thedrawnworld\nComments URL: https://news.ycombinator.com/item?id=49875142\nPoints: 127\n# Comments: 30",
-   "link": "https://www.habibicode.org/thedrawnworld",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 16:35",
-   "ts": 1790584510
   },
   {
    "id": "38aa3e6f2ddd051898c45e26122a2487",
