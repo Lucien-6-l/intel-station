@@ -1,7 +1,46 @@
 {
- "updated_at": "2026-09-29 01:36",
+ "updated_at": "2026-09-29 02:03",
  "total": 40,
  "items": [
+  {
+   "id": "925381ccadfb1d1827fb3d270161f9ee",
+   "title": "I made a visual workspace for AI Automations",
+   "summary": "Article URL: https://www.biom.dev/\nComments URL: https://news.ycombinator.com/item?id=49881777\nPoints: 3\n# Comments: 1",
+   "link": "https://www.biom.dev/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 01:53",
+   "ts": 1790617994
+  },
+  {
+   "id": "fe11720f49107eb2d78f4e4b51ed4695",
+   "title": "Launch HN: Vespper (YC F24) – SOTA Docx MCP",
+   "summary": "Hey HN! We're Dudu and Topaz from Vespper (https://vespper.com). Vespper is an MCP that lets AI agents efficiently edit Word documents, powered by our fine-tune",
+   "link": "https://www.vespper.com/blog/launching-vespper-docx-mcp",
+   "source": "Hacker News",
+   "category": "发布/大事件",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 01:34",
+   "ts": 1790616876
+  },
+  {
+   "id": "5d655a2faab1dcd2fc3614aa6aea8a24",
+   "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
+   "summary": "Article URL: https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/\nComments URL: https://news.ycombinator",
+   "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 01:33",
+   "ts": 1790616814
+  },
   {
    "id": "68abb09dc2b385c4c93ff672a6f6c027",
    "title": "How Pew Research Center is – and is not – using AI in our work",
@@ -57,7 +96,7 @@
   {
    "id": "b2ee0c76b2671aa604d9e4dce33bb6da",
    "title": "13 Months Sober (2025)",
-   "summary": "Article URL: https://www.bobbytables.io/p/13-months-sober\nComments URL: https://news.ycombinator.com/item?id=49880311\nPoints: 41\n# Comments: 27",
+   "summary": "Article URL: https://www.bobbytables.io/p/13-months-sober\nComments URL: https://news.ycombinator.com/item?id=49880311\nPoints: 63\n# Comments: 49",
    "link": "https://www.bobbytables.io/p/13-months-sober",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +122,7 @@
   {
    "id": "bf135649213d0e4c0c1664faf0c8852e",
    "title": "Pirating the Pirates",
-   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 87\n# Comments: 17",
+   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 127\n# Comments: 28",
    "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +135,7 @@
   {
    "id": "83d76b9917eee6bb74354c7eb3d7b8d6",
    "title": "Hijacking the PS5's RTMP Stream",
-   "summary": "Article URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/\nComments URL: https://news.ycombinator.com/item?id=49879702\nPoints: 43\n# Comments: 3",
+   "summary": "Article URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/\nComments URL: https://news.ycombinator.com/item?id=49879702\nPoints: 66\n# Comments: 9",
    "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +148,7 @@
   {
    "id": "f1b5f8ede6b7a58da3588ef46af5d9f4",
    "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-   "summary": "Article URL: https://www.thisamericanlife.org/897/transcript\nComments URL: https://news.ycombinator.com/item?id=49879697\nPoints: 100\n# Comments: 71",
+   "summary": "Article URL: https://www.thisamericanlife.org/897/transcript\nComments URL: https://news.ycombinator.com/item?id=49879697\nPoints: 116\n# Comments: 81",
    "link": "https://www.thisamericanlife.org/897/transcript",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +161,7 @@
   {
    "id": "f918b2b0dacc2cb1859d4d0dc47f8baa",
    "title": "Cf: The Agentic CLI for the Cloudflare API",
-   "summary": "Article URL: https://blog.cloudflare.com/cloudflare-cf-cli-launch/\nComments URL: https://news.ycombinator.com/item?id=49879577\nPoints: 16\n# Comments: 1",
+   "summary": "Article URL: https://blog.cloudflare.com/cloudflare-cf-cli-launch/\nComments URL: https://news.ycombinator.com/item?id=49879577\nPoints: 25\n# Comments: 8",
    "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -161,7 +200,7 @@
   {
    "id": "31ba0ba792096566b2f5568baf45ee43",
    "title": "What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators",
-   "summary": "Article URL: https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/\nComments URL: https://news.ycombinator.com/item?id=49878900\nPoints: 35\n# Comment",
+   "summary": "Article URL: https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/\nComments URL: https://news.ycombinator.com/item?id=49878900\nPoints: 36\n# Comment",
    "link": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +213,7 @@
   {
    "id": "4652490e060b661b1e3e8be232ac7846",
    "title": "Coding Is Not Solved",
-   "summary": "Article URL: https://blog.alexewerlof.com/p/coding-is-not-solved\nComments URL: https://news.ycombinator.com/item?id=49877988\nPoints: 291\n# Comments: 299",
+   "summary": "Article URL: https://blog.alexewerlof.com/p/coding-is-not-solved\nComments URL: https://news.ycombinator.com/item?id=49877988\nPoints: 312\n# Comments: 323",
    "link": "https://blog.alexewerlof.com/p/coding-is-not-solved",
    "source": "Hacker News",
    "category": "资讯",
@@ -211,19 +250,6 @@
    "ts": 1790599433
   },
   {
-   "id": "00e3006050290494b6e49f97cc2a620a",
-   "title": "Show HN: Hntui – A TUI for Hacker News",
-   "summary": "hi there! i'd like you to try out a tui i made for browsing hackernews. it's built using opentui and also effect (learning experiment). i really like it and i t",
-   "link": "https://github.com/ahmd-sh/hntui",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 20:11",
-   "ts": 1790597480
-  },
-  {
    "id": "cac404a38d519f2d92aade1c785b8727",
    "title": "HC归来，华为正重新定义AIDC基础设施",
    "summary": "AI基础设施下一站：算电协同",
@@ -235,32 +261,6 @@
    "urgent": false,
    "fetched_at": "09-28 19:18",
    "ts": 1790594307
-  },
-  {
-   "id": "fb2d16987dd39c9c9b608788e3ecd7c8",
-   "title": "What Would a Serious AI Product Look Like?",
-   "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html\nComments URL: https://news.ycombinator.com/item?id=49876148\nPoints: 46\n# Comments: 18",
-   "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 19:02",
-   "ts": 1790593332
-  },
-  {
-   "id": "c1341b4efeee009a8a5ce548b70ff8a0",
-   "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-   "summary": "Article URL: https://git.mills.io/prologic/parley\nComments URL: https://news.ycombinator.com/item?id=49875913\nPoints: 236\n# Comments: 112",
-   "link": "https://git.mills.io/prologic/parley",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 18:30",
-   "ts": 1790591454
   },
   {
    "id": "4aa9749beb11a8428124f522c8bd1a3b",
