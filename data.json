@@ -1,11 +1,37 @@
 {
- "updated_at": "2026-09-29 04:02",
- "total": 40,
+ "updated_at": "2026-09-29 04:38",
+ "total": 30,
  "items": [
+  {
+   "id": "5ba1753e4ffd224fe432b992bd8603d9",
+   "title": "California Farmers Are Struggling to Sell Grapes as Demand for Wine Drops",
+   "summary": "Article URL: https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops\nComments URL: https://news.ycombinator",
+   "link": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 04:00",
+   "ts": 1790625606
+  },
+  {
+   "id": "a1b1d15155f7b98f1658844f000a4f58",
+   "title": "SB 923 is Law: CCPA deletion rights now reach third-party data",
+   "summary": "Article URL: https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed\nComments URL: https://news.ycombinator.com/item?id=49883345\nPoints: 30\n# Comment",
+   "link": "https://www.getprivisy.com/blog/sb-923-ccpa-right-to-delete-signed",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 03:44",
+   "ts": 1790624689
+  },
   {
    "id": "88ef13710086dd8340dfbe264399894b",
    "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
-   "summary": "Article URL: https://blog.plcred.org/3mwlphq42d227\nComments URL: https://news.ycombinator.com/item?id=49883159\nPoints: 4\n# Comments: 0",
+   "summary": "Article URL: https://blog.plcred.org/3mwlphq42d227\nComments URL: https://news.ycombinator.com/item?id=49883159\nPoints: 21\n# Comments: 7",
    "link": "https://blog.plcred.org/3mwlphq42d227",
    "source": "Hacker News",
    "category": "资讯",
@@ -16,9 +42,22 @@
    "ts": 1790623665
   },
   {
+   "id": "1e2f179f2d6d5674fdad55b42520be0b",
+   "title": "Neal Stephenson responds with wit and humor (2004)",
+   "summary": "Article URL: https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor\nComments URL: https://news.ycombinator.com/item?id=49882894",
+   "link": "https://slashdot.org/story/04/10/20/1518217/neal-stephenson-responds-with-wit-and-humor",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 03:06",
+   "ts": 1790622376
+  },
+  {
    "id": "0c0b3e739b560d0d55c0b3d37e796650",
    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 19\n# Comments: 2",
+   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 55\n# Comments: 12",
    "link": "https://stateofutopia.com/experiments/microllmlab/",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +70,7 @@
   {
    "id": "39dcca8a203932b9a0386839abaf9aaa",
    "title": "GrapheneOS – When an app is slow",
-   "summary": "Article URL: https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html\nComments URL: https://news.ycombinator.com/item?id=49882208\nPoints: 37\n#",
+   "summary": "Article URL: https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html\nComments URL: https://news.ycombinator.com/item?id=49882208\nPoints: 49\n#",
    "link": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -44,7 +83,7 @@
   {
    "id": "80d7b8b14f94492cbabd3f923d6ebc85",
    "title": "So long Google, and thanks for all the nudes",
-   "summary": "Article URL: https://lecaro.me/20260921-google-less.html\nComments URL: https://news.ycombinator.com/item?id=49881951\nPoints: 111\n# Comments: 40",
+   "summary": "Article URL: https://lecaro.me/20260921-google-less.html\nComments URL: https://news.ycombinator.com/item?id=49881951\nPoints: 134\n# Comments: 52",
    "link": "https://lecaro.me/20260921-google-less.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +96,7 @@
   {
    "id": "b49463c6824ee59e21416eecea01e9f7",
    "title": "Sonnet 5.5",
-   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 296\n# Comments: 191",
+   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 372\n# Comments: 242",
    "link": "https://www.anthropic.com/claude-sonnet-5-5",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +109,7 @@
   {
    "id": "925381ccadfb1d1827fb3d270161f9ee",
    "title": "I made a visual workspace for AI Automations",
-   "summary": "Article URL: https://www.biom.dev/\nComments URL: https://news.ycombinator.com/item?id=49881777\nPoints: 16\n# Comments: 9",
+   "summary": "Article URL: https://www.biom.dev/\nComments URL: https://news.ycombinator.com/item?id=49881777\nPoints: 17\n# Comments: 15",
    "link": "https://www.biom.dev/",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +122,7 @@
   {
    "id": "68d4bfe323ffa6caa80a8e9aa500dcc2",
    "title": "Windows 11½",
-   "summary": "Article URL: https://definitelynotwindows.com/\nComments URL: https://news.ycombinator.com/item?id=49881747\nPoints: 251\n# Comments: 69",
+   "summary": "Article URL: https://definitelynotwindows.com/\nComments URL: https://news.ycombinator.com/item?id=49881747\nPoints: 319\n# Comments: 90",
    "link": "https://definitelynotwindows.com/",
    "source": "Hacker News",
    "category": "资讯",
@@ -133,22 +172,9 @@
    "ts": 1790616876
   },
   {
-   "id": "5d655a2faab1dcd2fc3614aa6aea8a24",
-   "title": "OpenAI still doesn't seem to have a handle on all of its rogue AI activity",
-   "summary": "Article URL: https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/\nComments URL: https://news.ycombinator",
-   "link": "https://techcrunch.com/2026/09/28/openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 01:33",
-   "ts": 1790616814
-  },
-  {
    "id": "84efde901a681ca2659e997df86202d0",
    "title": "Show HN: Destroy Any Website with Stickman",
-   "summary": "Article URL: https://destroy.spritefusion.com/\nComments URL: https://news.ycombinator.com/item?id=49880601\nPoints: 38\n# Comments: 9",
+   "summary": "Article URL: https://destroy.spritefusion.com/\nComments URL: https://news.ycombinator.com/item?id=49880601\nPoints: 55\n# Comments: 12",
    "link": "https://destroy.spritefusion.com/",
    "source": "Hacker News",
    "category": "资讯",
@@ -172,19 +198,6 @@
    "ts": 1790612189
   },
   {
-   "id": "d89783c6c067132e8cbe1fde5e16ca5b",
-   "title": "The problem is not AI code, but not knowing about system architecture or intent",
-   "summary": "Article URL: https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/\nComments URL: https://news.ycombinator.com/item?id=49880",
-   "link": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 00:11",
-   "ts": 1790611902
-  },
-  {
    "id": "32238b7f3d10f0ddb22c55035d5c185a",
    "title": "在汽车旅馆里研究生命的起源",
    "summary": "Julia Van Etten 博士热衷于坐在沙发上用一台 300 美元的显微镜观察水滴，寻找其中的生命痕迹。2021 年她还是罗格斯大学的一名研究生时在位于北卡罗来纳州的家中度假。由于连日阴雨她被困在室内，母亲知道什么能让她振作起来，建议去室外采集些样本。她不抱什么希望，随便找个了公路旁的码头收集水样。但当她对其进行",
@@ -200,7 +213,7 @@
   {
    "id": "bf135649213d0e4c0c1664faf0c8852e",
    "title": "Pirating the Pirates",
-   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 240\n# Comments: 88",
+   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 291\n# Comments: 123",
    "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
    "source": "Hacker News",
    "category": "资讯",
@@ -209,19 +222,6 @@
    "urgent": false,
    "fetched_at": "09-28 23:54",
    "ts": 1790610855
-  },
-  {
-   "id": "83d76b9917eee6bb74354c7eb3d7b8d6",
-   "title": "Hijacking the PS5's RTMP stream",
-   "summary": "Article URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/\nComments URL: https://news.ycombinator.com/item?id=49879702\nPoints: 119\n# Comments: 31",
-   "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 23:35",
-   "ts": 1790609723
   },
   {
    "id": "2096b3761030665c8b8ef15e6b11c5cc",
@@ -235,32 +235,6 @@
    "urgent": false,
    "fetched_at": "09-28 21:15",
    "ts": 1790601328
-  },
-  {
-   "id": "ecf89dd531e46a32c40bc2235fb3c125",
-   "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
-   "summary": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
-   "link": "https://www.qbitai.com/2026/09/498877.html",
-   "source": "量子位",
-   "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-28 20:43",
-   "ts": 1790599433
-  },
-  {
-   "id": "cac404a38d519f2d92aade1c785b8727",
-   "title": "HC归来，华为正重新定义AIDC基础设施",
-   "summary": "AI基础设施下一站：算电协同",
-   "link": "https://www.qbitai.com/2026/09/498787.html",
-   "source": "量子位",
-   "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-28 19:18",
-   "ts": 1790594307
   },
   {
    "id": "4aa9749beb11a8428124f522c8bd1a3b",
@@ -354,45 +328,6 @@
    "ts": 1790575398
   },
   {
-   "id": "44a5bee1682e48737243e814d607c614",
-   "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
-   "summary": "",
-   "link": "https://www.qbitai.com/2026/09/498633.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "09-27 22:20",
-   "ts": 1790518835
-  },
-  {
-   "id": "d5549349db781865eec1bdd1f6f3a4bb",
-   "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
-   "summary": "想让开发者“说句话就能跑量子计算”",
-   "link": "https://www.qbitai.com/2026/09/498605.html",
-   "source": "量子位",
-   "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-27 21:57",
-   "ts": 1790517477
-  },
-  {
-   "id": "2f6c930837c31dbca62dffd69dd1d0ea",
-   "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
-   "summary": "中秋假期文具OpenRouter调用日榜榜首",
-   "link": "https://www.qbitai.com/2026/09/498584.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "09-27 21:40",
-   "ts": 1790516402
-  },
-  {
    "id": "9327e87504a168726c9e5f8c842bfc68",
    "title": "Meta 屏蔽了巴西总统的 FB 主页以及竞选广告",
    "summary": "距离 2026 年 10 月巴西大选不到两周，Meta 本周短暂屏蔽了巴西现任总统卢拉的 FB 主页以及竞选连任广告，在抗议和投诉之后，Meta 恢复了主页，但卢拉的竞选团队认为此举损害了总统的竞选活动。Meta 是在本周三屏蔽了卢拉的主页，未给出任何理由。卢拉竞选团队投诉称，数字环境在政治辩论中发挥着核心作用，限制卢",
@@ -445,19 +380,6 @@
    "ts": 1790503036
   },
   {
-   "id": "58a68790de8f25682f6b430061d2b08f",
-   "title": "啥题啊能干崩OpenAI最强模型训练…",
-   "summary": "",
-   "link": "https://www.qbitai.com/2026/09/498546.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "09-27 17:44",
-   "ts": 1790502256
-  },
-  {
    "id": "67a2c8a0aad7bfc3cea9261341643b53",
    "title": "太平洋西北下方的板块在分裂",
    "summary": "科学家捕捉到了太平洋西北下方的一个大型构造系统分裂的细节。最新研究发现了一个俯冲带正在活跃分裂。俯冲带形成于一个构造板块俯冲到另一个板块下并深入地球内部，是大型地震、强火山爆发以及大陆和海洋盆地长期变化的源头。现在科学家有机会清晰观察大型构造系统如何走向终结。构造系统会持续活跃数百万年，但不会永远持续下去。利用声波回声",
@@ -469,58 +391,6 @@
    "urgent": false,
    "fetched_at": "09-27 16:34",
    "ts": 1790498048
-  },
-  {
-   "id": "fc0dd68c0d678f545bd9476683d99407",
-   "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-   "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-   "link": "https://www.qbitai.com/2026/09/498478.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "09-26 19:49",
-   "ts": 1790423383
-  },
-  {
-   "id": "78f2a34d111aedce8661ed61c54f91c0",
-   "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-   "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
-   "link": "https://www.qbitai.com/2026/09/498271.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "09-26 17:07",
-   "ts": 1790413661
-  },
-  {
-   "id": "e83a397f575d0460c30eae6660751ad7",
-   "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-   "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-   "link": "https://www.qbitai.com/2026/09/497624.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-26 17:01",
-   "ts": 1790413260
-  },
-  {
-   "id": "7b6b40b810eb08984e30a0ae693c14e9",
-   "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-   "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
-   "link": "https://www.qbitai.com/2026/09/497613.html",
-   "source": "量子位",
-   "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-26 15:18",
-   "ts": 1790407085
   }
  ]
 }
