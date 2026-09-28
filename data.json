@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-09-29 07:02",
+ "updated_at": "2026-09-29 07:36",
  "total": 40,
  "items": [
   {
-   "id": "70131d471ef7aadb7a0db163cf190843",
-   "title": "Who should be held accountable when an AI Agent (accidentally) acts maliciously?",
-   "summary": "Article URL: https://blog.greenpants.net/ai-accountability/\nComments URL: https://news.ycombinator.com/item?id=49885109\nPoints: 17\n# Comments: 16",
-   "link": "https://blog.greenpants.net/ai-accountability/",
+   "id": "11499a36814c40f390ab78aebf4a36d3",
+   "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
+   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 3\n# Comments: 0",
+   "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
    "source": "Hacker News",
    "category": "资讯",
    "topic": "科技社区",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "09-29 06:05",
-   "ts": 1790633146
+   "fetched_at": "09-29 05:26",
+   "ts": 1790630801
   },
   {
    "id": "0679b7684695fca59449b64b19169706",
@@ -44,7 +44,7 @@
   {
    "id": "99a582242e4c3f69d75b83261ec03c20",
    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 139\n# Comments: 38",
+   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 169\n# Comments: 52",
    "link": "https://github.com/firelex/jeff",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +57,7 @@
   {
    "id": "f28c318522b85d3abedb24d6f74a1cad",
    "title": "Best of British Design",
-   "summary": "Article URL: https://best-of-british-design.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49883817\nPoints: 44\n# Comments: 21",
+   "summary": "Article URL: https://best-of-british-design.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49883817\nPoints: 50\n# Comments: 26",
    "link": "https://best-of-british-design.vercel.app/",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +70,7 @@
   {
    "id": "0eb85d0574d080049e87d82fad8f1853",
    "title": "World Labs Is Joining AMD",
-   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 130\n# Comments: 45",
+   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 143\n# Comments: 47",
    "link": "https://www.worldlabs.ai/blog/amd-announcement",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -96,7 +96,7 @@
   {
    "id": "a76ab3e57ba35580c22eef86ebdfb706",
    "title": "It's Time to Investigate the AI Labs",
-   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 158\n# Comments: 49",
+   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 188\n# Comments: 58",
    "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +109,7 @@
   {
    "id": "88ef13710086dd8340dfbe264399894b",
    "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
-   "summary": "Article URL: https://blog.plcred.org/3mwlphq42d227\nComments URL: https://news.ycombinator.com/item?id=49883159\nPoints: 32\n# Comments: 18",
+   "summary": "Article URL: https://blog.plcred.org/3mwlphq42d227\nComments URL: https://news.ycombinator.com/item?id=49883159\nPoints: 33\n# Comments: 18",
    "link": "https://blog.plcred.org/3mwlphq42d227",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +122,7 @@
   {
    "id": "0c0b3e739b560d0d55c0b3d37e796650",
    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 99\n# Comments: 42",
+   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 102\n# Comments: 45",
    "link": "https://stateofutopia.com/experiments/microllmlab/",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +148,7 @@
   {
    "id": "b49463c6824ee59e21416eecea01e9f7",
    "title": "Sonnet 5.5",
-   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 504\n# Comments: 341",
+   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 515\n# Comments: 346",
    "link": "https://www.anthropic.com/claude-sonnet-5-5",
    "source": "Hacker News",
    "category": "资讯",
