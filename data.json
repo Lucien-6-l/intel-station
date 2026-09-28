@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-09-28 22:39",
+ "updated_at": "2026-09-28 23:05",
  "total": 40,
  "items": [
   {
    "id": "4652490e060b661b1e3e8be232ac7846",
    "title": "Coding Is Not Solved – Alex Ewerlöf Notes",
-   "summary": "Article URL: https://blog.alexewerlof.com/p/coding-is-not-solved\nComments URL: https://news.ycombinator.com/item?id=49877988\nPoints: 37\n# Comments: 28",
+   "summary": "Article URL: https://blog.alexewerlof.com/p/coding-is-not-solved\nComments URL: https://news.ycombinator.com/item?id=49877988\nPoints: 94\n# Comments: 88",
    "link": "https://blog.alexewerlof.com/p/coding-is-not-solved",
    "source": "Hacker News",
    "category": "资讯",
@@ -14,6 +14,32 @@
    "urgent": false,
    "fetched_at": "09-28 21:52",
    "ts": 1790603577
+  },
+  {
+   "id": "06a0a5f493da4c6c1e35546fd164e7c4",
+   "title": "Has Violence Against Teachers Become Accepted by Society?",
+   "summary": "Article URL: https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/\nComments URL: https://news.ycombinator.com/item?id=49877813\n",
+   "link": "https://theeducatorsroom.com/has-violence-against-teachers-become-accepted-by-society/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-28 21:40",
+   "ts": 1790602828
+  },
+  {
+   "id": "2096b3761030665c8b8ef15e6b11c5cc",
+   "title": "美国逾七成沿海地区每年沉降逾 0.1 厘米",
+   "summary": "沿海居民不仅需要担心海平面上升，还需要担心地面沉降。研究人员分析了卫星雷达测量的逾 1.9 亿垂直地面运动数据点，发现 2007-2020 年间美国沿海地区普遍存在地面沉降。全美 71.5% 的沿海地区沉降速度每年逾 0.1 厘米，墨西哥湾沿海沉降速度最快。43% 的美国海岸线每年沉降 0.2厘米或以上，23.3% 每",
+   "link": "https://www.solidot.org/story?sid=85495",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-28 21:15",
+   "ts": 1790601328
   },
   {
    "id": "ecf89dd531e46a32c40bc2235fb3c125",
@@ -57,7 +83,7 @@
   {
    "id": "c1341b4efeee009a8a5ce548b70ff8a0",
    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-   "summary": "Article URL: https://git.mills.io/prologic/parley\nComments URL: https://news.ycombinator.com/item?id=49875913\nPoints: 151\n# Comments: 72",
+   "summary": "Article URL: https://git.mills.io/prologic/parley\nComments URL: https://news.ycombinator.com/item?id=49875913\nPoints: 169\n# Comments: 80",
    "link": "https://git.mills.io/prologic/parley",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +187,7 @@
   {
    "id": "9c9fb6ff815c5573c039a0ad6eb470fc",
    "title": "37,500 border drawings: a map of the world as people remember it",
-   "summary": "Article URL: https://www.habibicode.org/thedrawnworld\nComments URL: https://news.ycombinator.com/item?id=49875142\nPoints: 90\n# Comments: 24",
+   "summary": "Article URL: https://www.habibicode.org/thedrawnworld\nComments URL: https://news.ycombinator.com/item?id=49875142\nPoints: 97\n# Comments: 25",
    "link": "https://www.habibicode.org/thedrawnworld",
    "source": "Hacker News",
    "category": "资讯",
@@ -183,19 +209,6 @@
    "urgent": false,
    "fetched_at": "09-28 15:40",
    "ts": 1790581236
-  },
-  {
-   "id": "964cb61da0d38449da9e5b348aaea6d6",
-   "title": "Prompting Claude Opus 5.5",
-   "summary": "Article URL: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5\nComments URL: https://news.ycombinator.com/item?",
-   "link": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 15:33",
-   "ts": 1790580809
   },
   {
    "id": "3debae8b31e018c4ea5870fc1971c0e7",
@@ -239,7 +252,7 @@
   {
    "id": "b650422dd93f8eba6dfa6403b1d17406",
    "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-   "summary": "Article URL: https://arxiv.org/abs/2110.01834\nComments URL: https://news.ycombinator.com/item?id=49873241\nPoints: 138\n# Comments: 48",
+   "summary": "Article URL: https://arxiv.org/abs/2110.01834\nComments URL: https://news.ycombinator.com/item?id=49873241\nPoints: 146\n# Comments: 54",
    "link": "https://arxiv.org/abs/2110.01834",
    "source": "Hacker News",
    "category": "资讯",
@@ -252,7 +265,7 @@
   {
    "id": "43ae1b11b19cbb2bc94299231727d8d3",
    "title": "Nissan's third generation e-POWER powertrain",
-   "summary": "Article URL: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/\nComments URL: https://news.ycombinator.com/item?id=49872883\nPoints: 10",
+   "summary": "Article URL: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/\nComments URL: https://news.ycombinator.com/item?id=49872883\nPoints: 11",
    "link": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
    "source": "Hacker News",
    "category": "资讯",
@@ -265,7 +278,7 @@
   {
    "id": "e82f7d1d81874c6aeb2955e7152fd7eb",
    "title": "Owed a billion dollars in Nvidia stock",
-   "summary": "Article URL: https://colo.to/nvidia-stock-narrative.html\nComments URL: https://news.ycombinator.com/item?id=49872723\nPoints: 887\n# Comments: 381",
+   "summary": "Article URL: https://colo.to/nvidia-stock-narrative.html\nComments URL: https://news.ycombinator.com/item?id=49872723\nPoints: 900\n# Comments: 384",
    "link": "https://colo.to/nvidia-stock-narrative.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -291,7 +304,7 @@
   {
    "id": "4a950c0822bd8f2c0119f42e503287b2",
    "title": "When did Google get so weird?",
-   "summary": "Article URL: https://sancho.bearblog.dev/google-weird/\nComments URL: https://news.ycombinator.com/item?id=49870367\nPoints: 1516\n# Comments: 813",
+   "summary": "Article URL: https://sancho.bearblog.dev/google-weird/\nComments URL: https://news.ycombinator.com/item?id=49870367\nPoints: 1543\n# Comments: 830",
    "link": "https://sancho.bearblog.dev/google-weird/",
    "source": "Hacker News",
    "category": "资讯",
@@ -304,7 +317,7 @@
   {
    "id": "d5a24e917657a28596d157e6d9b12ef0",
    "title": "Self-Hosting on the Dark Web",
-   "summary": "Article URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/\nComments URL: https://news.ycombinator.com/item?id=49870295\nPoints: 278\n# Comment",
+   "summary": "Article URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/\nComments URL: https://news.ycombinator.com/item?id=49870295\nPoints: 286\n# Comment",
    "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
    "source": "Hacker News",
    "category": "资讯",
@@ -469,19 +482,6 @@
    "urgent": true,
    "fetched_at": "09-26 19:49",
    "ts": 1790423383
-  },
-  {
-   "id": "df8e43ca394235cd72c1a732cb3375e0",
-   "title": "YouTube、TikTok 和 Meta 都拒绝投放马斯克纪录片的商业广告",
-   "summary": "负责发行 Alex Gibney 拍摄的马斯克（Elon Musk）纪录片《Musk》的公司 Bleecker Street 发现，主流社交平台 YouTube、TikTok 和旗下包括 Instagram 和 Facebook 的 Meta 公司，以及马斯克旗下的 X 平台都拒绝投放该纪录片的商业广告。这是一部批评马",
-   "link": "https://www.solidot.org/story?sid=85480",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-26 18:59",
-   "ts": 1790420387
   },
   {
    "id": "78f2a34d111aedce8661ed61c54f91c0",
