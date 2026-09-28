@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-09-28 23:38",
+ "updated_at": "2026-09-29 00:04",
  "total": 40,
  "items": [
   {
-   "id": "bd684e1d91ac6e87d9961c82c1bfac93",
-   "title": "Jensen Huang says AI distillation is 'competition.'",
-   "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html\nComments URL: https://news.ycombinator.com/item?id=49879032\nPoints:",
-   "link": "https://www.cnbc.com/2026/09/28/nvidias-jensen-huang-ai-distillation-china.html",
+   "id": "f1b5f8ede6b7a58da3588ef46af5d9f4",
+   "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
+   "summary": "Article URL: https://www.thisamericanlife.org/897/transcript\nComments URL: https://news.ycombinator.com/item?id=49879697\nPoints: 16\n# Comments: 1",
+   "link": "https://www.thisamericanlife.org/897/transcript",
    "source": "Hacker News",
    "category": "资讯",
    "topic": "科技社区",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "09-28 22:55",
-   "ts": 1790607334
+   "fetched_at": "09-28 23:35",
+   "ts": 1790609709
   },
   {
    "id": "8c53312a6187ca30d79d3e68ea34271b",
@@ -31,7 +31,7 @@
   {
    "id": "31ba0ba792096566b2f5568baf45ee43",
    "title": "What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators",
-   "summary": "Article URL: https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/\nComments URL: https://news.ycombinator.com/item?id=49878900\nPoints: 6\n# Comments",
+   "summary": "Article URL: https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/\nComments URL: https://news.ycombinator.com/item?id=49878900\nPoints: 14\n# Comment",
    "link": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
    "source": "Hacker News",
    "category": "资讯",
@@ -42,22 +42,9 @@
    "ts": 1790606924
   },
   {
-   "id": "01f384bf523b998a7a654ecd585ea8f2",
-   "title": "I Switched to Brave Browser",
-   "summary": "Article URL: https://kevquirk.com/i-switched-to-brave-browser\nComments URL: https://news.ycombinator.com/item?id=49878759\nPoints: 14\n# Comments: 4",
-   "link": "https://kevquirk.com/i-switched-to-brave-browser",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 22:40",
-   "ts": 1790606443
-  },
-  {
    "id": "4652490e060b661b1e3e8be232ac7846",
    "title": "Coding Is Not Solved",
-   "summary": "Article URL: https://blog.alexewerlof.com/p/coding-is-not-solved\nComments URL: https://news.ycombinator.com/item?id=49877988\nPoints: 154\n# Comments: 136",
+   "summary": "Article URL: https://blog.alexewerlof.com/p/coding-is-not-solved\nComments URL: https://news.ycombinator.com/item?id=49877988\nPoints: 195\n# Comments: 188",
    "link": "https://blog.alexewerlof.com/p/coding-is-not-solved",
    "source": "Hacker News",
    "category": "资讯",
@@ -120,9 +107,22 @@
    "ts": 1790594307
   },
   {
+   "id": "fb2d16987dd39c9c9b608788e3ecd7c8",
+   "title": "What Would a Serious AI Product Look Like?",
+   "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html\nComments URL: https://news.ycombinator.com/item?id=49876148\nPoints: 8\n# Comments: 0",
+   "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-28 19:02",
+   "ts": 1790593332
+  },
+  {
    "id": "c1341b4efeee009a8a5ce548b70ff8a0",
    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-   "summary": "Article URL: https://git.mills.io/prologic/parley\nComments URL: https://news.ycombinator.com/item?id=49875913\nPoints: 193\n# Comments: 88",
+   "summary": "Article URL: https://git.mills.io/prologic/parley\nComments URL: https://news.ycombinator.com/item?id=49875913\nPoints: 206\n# Comments: 98",
    "link": "https://git.mills.io/prologic/parley",
    "source": "Hacker News",
    "category": "资讯",
@@ -185,19 +185,6 @@
    "ts": 1790587006
   },
   {
-   "id": "e24ca601ac0784379e78db9553571cb4",
-   "title": "Three Days in August: What a DDoS Attack Exposed in Our Network",
-   "summary": "Article URL: https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/\nComments URL: https://news.ycombinator.com/item?id=49875401\nPoints: 17\n# Comments: 16",
-   "link": "https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 17:13",
-   "ts": 1790586816
-  },
-  {
    "id": "2c9b80a96c67e222d2b05ba2696fc7cd",
    "title": "KDE 和 GNOME 考虑如何处理 AI 生成的贡献",
    "summary": "众多大型自由软件开源项目近期都在讨论如何处理 AI 生成代码，其中包括了两大桌面环境 KDE 和 GNOME。两位近期没有贡献的 KDE 知名开发者在 KDE 年度 Akademy 大会上发表了 lovable, sovereign, AI-native KDE 的主题演讲，随后开发者 Nate Graham 发起了如",
@@ -226,7 +213,7 @@
   {
    "id": "9c9fb6ff815c5573c039a0ad6eb470fc",
    "title": "37,500 border drawings: a map of the world as people remember it",
-   "summary": "Article URL: https://www.habibicode.org/thedrawnworld\nComments URL: https://news.ycombinator.com/item?id=49875142\nPoints: 108\n# Comments: 28",
+   "summary": "Article URL: https://www.habibicode.org/thedrawnworld\nComments URL: https://news.ycombinator.com/item?id=49875142\nPoints: 114\n# Comments: 28",
    "link": "https://www.habibicode.org/thedrawnworld",
    "source": "Hacker News",
    "category": "资讯",
@@ -252,7 +239,7 @@
   {
    "id": "3debae8b31e018c4ea5870fc1971c0e7",
    "title": "Made by Mechanical Means",
-   "summary": "Article URL: https://felixrieseberg.com/made-by-mechanical-means/\nComments URL: https://news.ycombinator.com/item?id=49874551\nPoints: 58\n# Comments: 21",
+   "summary": "Article URL: https://felixrieseberg.com/made-by-mechanical-means/\nComments URL: https://news.ycombinator.com/item?id=49874551\nPoints: 60\n# Comments: 22",
    "link": "https://felixrieseberg.com/made-by-mechanical-means/",
    "source": "Hacker News",
    "category": "资讯",
@@ -291,7 +278,7 @@
   {
    "id": "b650422dd93f8eba6dfa6403b1d17406",
    "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-   "summary": "Article URL: https://arxiv.org/abs/2110.01834\nComments URL: https://news.ycombinator.com/item?id=49873241\nPoints: 149\n# Comments: 57",
+   "summary": "Article URL: https://arxiv.org/abs/2110.01834\nComments URL: https://news.ycombinator.com/item?id=49873241\nPoints: 150\n# Comments: 60",
    "link": "https://arxiv.org/abs/2110.01834",
    "source": "Hacker News",
    "category": "资讯",
@@ -317,7 +304,7 @@
   {
    "id": "e82f7d1d81874c6aeb2955e7152fd7eb",
    "title": "Owed a billion dollars in Nvidia stock",
-   "summary": "Article URL: https://colo.to/nvidia-stock-narrative.html\nComments URL: https://news.ycombinator.com/item?id=49872723\nPoints: 922\n# Comments: 392",
+   "summary": "Article URL: https://colo.to/nvidia-stock-narrative.html\nComments URL: https://news.ycombinator.com/item?id=49872723\nPoints: 943\n# Comments: 399",
    "link": "https://colo.to/nvidia-stock-narrative.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -326,6 +313,19 @@
    "urgent": false,
    "fetched_at": "09-28 10:05",
    "ts": 1790561113
+  },
+  {
+   "id": "7d37c22aa2a578224b2c39e04ff8943b",
+   "title": "Lunar Terminator Paradox",
+   "summary": "Article URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html\nComments URL: https://news.ycombinator.com/item?id=49870837\nPoints: 94",
+   "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-28 05:06",
+   "ts": 1790543177
   },
   {
    "id": "44a5bee1682e48737243e814d607c614",
