@@ -1,19 +1,19 @@
 {
- "updated_at": "2026-09-28 22:05",
+ "updated_at": "2026-09-28 22:39",
  "total": 40,
  "items": [
   {
-   "id": "144801c183c017afee3a4734266cf2fb",
-   "title": "Does Reddit have an astroturfing problem? What the data suggests",
-   "summary": "Article URL: https://www.petervijeh.com/projects/reddit-astroturf\nComments URL: https://news.ycombinator.com/item?id=49877678\nPoints: 18\n# Comments: 6",
-   "link": "https://www.petervijeh.com/projects/reddit-astroturf",
+   "id": "4652490e060b661b1e3e8be232ac7846",
+   "title": "Coding Is Not Solved – Alex Ewerlöf Notes",
+   "summary": "Article URL: https://blog.alexewerlof.com/p/coding-is-not-solved\nComments URL: https://news.ycombinator.com/item?id=49877988\nPoints: 37\n# Comments: 28",
+   "link": "https://blog.alexewerlof.com/p/coding-is-not-solved",
    "source": "Hacker News",
    "category": "资讯",
    "topic": "科技社区",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "09-28 21:30",
-   "ts": 1790602254
+   "fetched_at": "09-28 21:52",
+   "ts": 1790603577
   },
   {
    "id": "ecf89dd531e46a32c40bc2235fb3c125",
@@ -42,19 +42,6 @@
    "ts": 1790597480
   },
   {
-   "id": "d69985027b628016347045153df20e35",
-   "title": "The smart home graveyard is getting crowded",
-   "summary": "Article URL: https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard\nComments URL: https://news.ycombinator.com/item?id=49876373\nPoints: 37\n# Com",
-   "link": "https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 19:27",
-   "ts": 1790594820
-  },
-  {
    "id": "cac404a38d519f2d92aade1c785b8727",
    "title": "HC归来，华为正重新定义AIDC基础设施",
    "summary": "AI基础设施下一站：算电协同",
@@ -70,7 +57,7 @@
   {
    "id": "c1341b4efeee009a8a5ce548b70ff8a0",
    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-   "summary": "Article URL: https://git.mills.io/prologic/parley\nComments URL: https://news.ycombinator.com/item?id=49875913\nPoints: 137\n# Comments: 56",
+   "summary": "Article URL: https://git.mills.io/prologic/parley\nComments URL: https://news.ycombinator.com/item?id=49875913\nPoints: 151\n# Comments: 72",
    "link": "https://git.mills.io/prologic/parley",
    "source": "Hacker News",
    "category": "资讯",
@@ -133,19 +120,6 @@
    "ts": 1790587006
   },
   {
-   "id": "69b00d5e5ee28b3fe3019dc4ca77d516",
-   "title": "SpaceX's Starship launching to orbit for first time ever today",
-   "summary": "Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-li",
-   "link": "https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live",
-   "source": "Hacker News",
-   "category": "发布/大事件",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "09-28 17:15",
-   "ts": 1790586904
-  },
-  {
    "id": "2c9b80a96c67e222d2b05ba2696fc7cd",
    "title": "KDE 和 GNOME 考虑如何处理 AI 生成的贡献",
    "summary": "众多大型自由软件开源项目近期都在讨论如何处理 AI 生成代码，其中包括了两大桌面环境 KDE 和 GNOME。两位近期没有贡献的 KDE 知名开发者在 KDE 年度 Akademy 大会上发表了 lovable, sovereign, AI-native KDE 的主题演讲，随后开发者 Nate Graham 发起了如",
@@ -157,6 +131,19 @@
    "urgent": false,
    "fetched_at": "09-28 17:03",
    "ts": 1790586236
+  },
+  {
+   "id": "1b3195d631a78e6140d0ef0735930fa6",
+   "title": "Show HN: Free alternative to graphics design giants",
+   "summary": "A webassembly web based app that help editing raster and vector on browser without any subscription or signups\n\nComments URL: https://news.ycombinator.com/item?",
+   "link": "https://scissor.studio/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-28 16:55",
+   "ts": 1790585731
   },
   {
    "id": "9a458288668fc9491e4b3602fe0cbaf9",
@@ -174,7 +161,7 @@
   {
    "id": "9c9fb6ff815c5573c039a0ad6eb470fc",
    "title": "37,500 border drawings: a map of the world as people remember it",
-   "summary": "Article URL: https://www.habibicode.org/thedrawnworld\nComments URL: https://news.ycombinator.com/item?id=49875142\nPoints: 77\n# Comments: 22",
+   "summary": "Article URL: https://www.habibicode.org/thedrawnworld\nComments URL: https://news.ycombinator.com/item?id=49875142\nPoints: 90\n# Comments: 24",
    "link": "https://www.habibicode.org/thedrawnworld",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +200,7 @@
   {
    "id": "3debae8b31e018c4ea5870fc1971c0e7",
    "title": "Made by Mechanical Means",
-   "summary": "Article URL: https://felixrieseberg.com/made-by-mechanical-means/\nComments URL: https://news.ycombinator.com/item?id=49874551\nPoints: 49\n# Comments: 14",
+   "summary": "Article URL: https://felixrieseberg.com/made-by-mechanical-means/\nComments URL: https://news.ycombinator.com/item?id=49874551\nPoints: 55\n# Comments: 18",
    "link": "https://felixrieseberg.com/made-by-mechanical-means/",
    "source": "Hacker News",
    "category": "资讯",
@@ -252,7 +239,7 @@
   {
    "id": "b650422dd93f8eba6dfa6403b1d17406",
    "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-   "summary": "Article URL: https://arxiv.org/abs/2110.01834\nComments URL: https://news.ycombinator.com/item?id=49873241\nPoints: 135\n# Comments: 46",
+   "summary": "Article URL: https://arxiv.org/abs/2110.01834\nComments URL: https://news.ycombinator.com/item?id=49873241\nPoints: 138\n# Comments: 48",
    "link": "https://arxiv.org/abs/2110.01834",
    "source": "Hacker News",
    "category": "资讯",
@@ -278,7 +265,7 @@
   {
    "id": "e82f7d1d81874c6aeb2955e7152fd7eb",
    "title": "Owed a billion dollars in Nvidia stock",
-   "summary": "Article URL: https://colo.to/nvidia-stock-narrative.html\nComments URL: https://news.ycombinator.com/item?id=49872723\nPoints: 868\n# Comments: 373",
+   "summary": "Article URL: https://colo.to/nvidia-stock-narrative.html\nComments URL: https://news.ycombinator.com/item?id=49872723\nPoints: 887\n# Comments: 381",
    "link": "https://colo.to/nvidia-stock-narrative.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -291,7 +278,7 @@
   {
    "id": "7d37c22aa2a578224b2c39e04ff8943b",
    "title": "Lunar Terminator Paradox",
-   "summary": "Article URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html\nComments URL: https://news.ycombinator.com/item?id=49870837\nPoints: 92",
+   "summary": "Article URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html\nComments URL: https://news.ycombinator.com/item?id=49870837\nPoints: 93",
    "link": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -304,7 +291,7 @@
   {
    "id": "4a950c0822bd8f2c0119f42e503287b2",
    "title": "When did Google get so weird?",
-   "summary": "Article URL: https://sancho.bearblog.dev/google-weird/\nComments URL: https://news.ycombinator.com/item?id=49870367\nPoints: 1494\n# Comments: 802",
+   "summary": "Article URL: https://sancho.bearblog.dev/google-weird/\nComments URL: https://news.ycombinator.com/item?id=49870367\nPoints: 1516\n# Comments: 813",
    "link": "https://sancho.bearblog.dev/google-weird/",
    "source": "Hacker News",
    "category": "资讯",
@@ -313,6 +300,19 @@
    "urgent": false,
    "fetched_at": "09-28 04:12",
    "ts": 1790539974
+  },
+  {
+   "id": "d5a24e917657a28596d157e6d9b12ef0",
+   "title": "Self-Hosting on the Dark Web",
+   "summary": "Article URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/\nComments URL: https://news.ycombinator.com/item?id=49870295\nPoints: 278\n# Comment",
+   "link": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-28 04:03",
+   "ts": 1790539416
   },
   {
    "id": "44a5bee1682e48737243e814d607c614",
