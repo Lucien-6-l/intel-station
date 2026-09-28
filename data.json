@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-09-29 06:07",
- "total": 30,
+ "updated_at": "2026-09-29 06:35",
+ "total": 40,
  "items": [
   {
    "id": "0679b7684695fca59449b64b19169706",
@@ -44,7 +44,7 @@
   {
    "id": "99a582242e4c3f69d75b83261ec03c20",
    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 90\n# Comments: 8",
+   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 117\n# Comments: 26",
    "link": "https://github.com/firelex/jeff",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +57,7 @@
   {
    "id": "f28c318522b85d3abedb24d6f74a1cad",
    "title": "Best of British Design",
-   "summary": "Article URL: https://best-of-british-design.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49883817\nPoints: 27\n# Comments: 14",
+   "summary": "Article URL: https://best-of-british-design.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49883817\nPoints: 34\n# Comments: 17",
    "link": "https://best-of-british-design.vercel.app/",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +70,7 @@
   {
    "id": "0eb85d0574d080049e87d82fad8f1853",
    "title": "World Labs Is Joining AMD",
-   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 91\n# Comments: 21",
+   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 118\n# Comments: 38",
    "link": "https://www.worldlabs.ai/blog/amd-announcement",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -96,7 +96,7 @@
   {
    "id": "a76ab3e57ba35580c22eef86ebdfb706",
    "title": "It's Time to Investigate the AI Labs",
-   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 96\n# Comments: 21",
+   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 130\n# Comments: 30",
    "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +109,7 @@
   {
    "id": "88ef13710086dd8340dfbe264399894b",
    "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
-   "summary": "Article URL: https://blog.plcred.org/3mwlphq42d227\nComments URL: https://news.ycombinator.com/item?id=49883159\nPoints: 29\n# Comments: 15",
+   "summary": "Article URL: https://blog.plcred.org/3mwlphq42d227\nComments URL: https://news.ycombinator.com/item?id=49883159\nPoints: 32\n# Comments: 17",
    "link": "https://blog.plcred.org/3mwlphq42d227",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +135,7 @@
   {
    "id": "0c0b3e739b560d0d55c0b3d37e796650",
    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 86\n# Comments: 31",
+   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 90\n# Comments: 36",
    "link": "https://stateofutopia.com/experiments/microllmlab/",
    "source": "Hacker News",
    "category": "资讯",
@@ -159,9 +159,22 @@
    "ts": 1790619691
   },
   {
+   "id": "80d7b8b14f94492cbabd3f923d6ebc85",
+   "title": "So long Google, and thanks for all the nudes",
+   "summary": "Article URL: https://lecaro.me/20260921-google-less.html\nComments URL: https://news.ycombinator.com/item?id=49881951\nPoints: 187\n# Comments: 77",
+   "link": "https://lecaro.me/20260921-google-less.html",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 02:04",
+   "ts": 1790618687
+  },
+  {
    "id": "b49463c6824ee59e21416eecea01e9f7",
    "title": "Sonnet 5.5",
-   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 450\n# Comments: 307",
+   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 478\n# Comments: 321",
    "link": "https://www.anthropic.com/claude-sonnet-5-5",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +187,7 @@
   {
    "id": "925381ccadfb1d1827fb3d270161f9ee",
    "title": "I made a visual workspace for AI Automations",
-   "summary": "Article URL: https://www.biom.dev/\nComments URL: https://news.ycombinator.com/item?id=49881777\nPoints: 24\n# Comments: 18",
+   "summary": "Article URL: https://www.biom.dev/\nComments URL: https://news.ycombinator.com/item?id=49881777\nPoints: 27\n# Comments: 21",
    "link": "https://www.biom.dev/",
    "source": "Hacker News",
    "category": "资讯",
@@ -183,19 +196,6 @@
    "urgent": false,
    "fetched_at": "09-29 01:53",
    "ts": 1790617994
-  },
-  {
-   "id": "68d4bfe323ffa6caa80a8e9aa500dcc2",
-   "title": "Windows 11½",
-   "summary": "Article URL: https://definitelynotwindows.com/\nComments URL: https://news.ycombinator.com/item?id=49881747\nPoints: 380\n# Comments: 116",
-   "link": "https://definitelynotwindows.com/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 01:51",
-   "ts": 1790617884
   },
   {
    "id": "e00fdc8a7905812edd953b146c609f14",
@@ -235,6 +235,32 @@
    "urgent": false,
    "fetched_at": "09-28 21:15",
    "ts": 1790601328
+  },
+  {
+   "id": "ecf89dd531e46a32c40bc2235fb3c125",
+   "title": "工业创新进入“组队局”，拆解西门子Xcelerator开放生态的赋能链路",
+   "summary": "工业平台已经卷到帮伙伴拿线索、做Agent、出海了",
+   "link": "https://www.qbitai.com/2026/09/498877.html",
+   "source": "量子位",
+   "category": "资讯",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-28 20:43",
+   "ts": 1790599433
+  },
+  {
+   "id": "cac404a38d519f2d92aade1c785b8727",
+   "title": "HC归来，华为正重新定义AIDC基础设施",
+   "summary": "AI基础设施下一站：算电协同",
+   "link": "https://www.qbitai.com/2026/09/498787.html",
+   "source": "量子位",
+   "category": "资讯",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-28 19:18",
+   "ts": 1790594307
   },
   {
    "id": "4aa9749beb11a8428124f522c8bd1a3b",
@@ -328,6 +354,45 @@
    "ts": 1790575398
   },
   {
+   "id": "44a5bee1682e48737243e814d607c614",
+   "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
+   "summary": "",
+   "link": "https://www.qbitai.com/2026/09/498633.html",
+   "source": "量子位",
+   "category": "发布/大事件",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": true,
+   "fetched_at": "09-27 22:20",
+   "ts": 1790518835
+  },
+  {
+   "id": "d5549349db781865eec1bdd1f6f3a4bb",
+   "title": "量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门",
+   "summary": "想让开发者“说句话就能跑量子计算”",
+   "link": "https://www.qbitai.com/2026/09/498605.html",
+   "source": "量子位",
+   "category": "资讯",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-27 21:57",
+   "ts": 1790517477
+  },
+  {
+   "id": "2f6c930837c31dbca62dffd69dd1d0ea",
+   "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
+   "summary": "中秋假期文具OpenRouter调用日榜榜首",
+   "link": "https://www.qbitai.com/2026/09/498584.html",
+   "source": "量子位",
+   "category": "发布/大事件",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": true,
+   "fetched_at": "09-27 21:40",
+   "ts": 1790516402
+  },
+  {
    "id": "9327e87504a168726c9e5f8c842bfc68",
    "title": "Meta 屏蔽了巴西总统的 FB 主页以及竞选广告",
    "summary": "距离 2026 年 10 月巴西大选不到两周，Meta 本周短暂屏蔽了巴西现任总统卢拉的 FB 主页以及竞选连任广告，在抗议和投诉之后，Meta 恢复了主页，但卢拉的竞选团队认为此举损害了总统的竞选活动。Meta 是在本周三屏蔽了卢拉的主页，未给出任何理由。卢拉竞选团队投诉称，数字环境在政治辩论中发挥着核心作用，限制卢",
@@ -380,6 +445,19 @@
    "ts": 1790503036
   },
   {
+   "id": "58a68790de8f25682f6b430061d2b08f",
+   "title": "啥题啊能干崩OpenAI最强模型训练…",
+   "summary": "",
+   "link": "https://www.qbitai.com/2026/09/498546.html",
+   "source": "量子位",
+   "category": "发布/大事件",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": true,
+   "fetched_at": "09-27 17:44",
+   "ts": 1790502256
+  },
+  {
    "id": "67a2c8a0aad7bfc3cea9261341643b53",
    "title": "太平洋西北下方的板块在分裂",
    "summary": "科学家捕捉到了太平洋西北下方的一个大型构造系统分裂的细节。最新研究发现了一个俯冲带正在活跃分裂。俯冲带形成于一个构造板块俯冲到另一个板块下并深入地球内部，是大型地震、强火山爆发以及大陆和海洋盆地长期变化的源头。现在科学家有机会清晰观察大型构造系统如何走向终结。构造系统会持续活跃数百万年，但不会永远持续下去。利用声波回声",
@@ -391,6 +469,58 @@
    "urgent": false,
    "fetched_at": "09-27 16:34",
    "ts": 1790498048
+  },
+  {
+   "id": "fc0dd68c0d678f545bd9476683d99407",
+   "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
+   "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
+   "link": "https://www.qbitai.com/2026/09/498478.html",
+   "source": "量子位",
+   "category": "发布/大事件",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": true,
+   "fetched_at": "09-26 19:49",
+   "ts": 1790423383
+  },
+  {
+   "id": "78f2a34d111aedce8661ed61c54f91c0",
+   "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
+   "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
+   "link": "https://www.qbitai.com/2026/09/498271.html",
+   "source": "量子位",
+   "category": "发布/大事件",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": true,
+   "fetched_at": "09-26 17:07",
+   "ts": 1790413661
+  },
+  {
+   "id": "e83a397f575d0460c30eae6660751ad7",
+   "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
+   "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
+   "link": "https://www.qbitai.com/2026/09/497624.html",
+   "source": "量子位",
+   "category": "发布/大事件",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-26 17:01",
+   "ts": 1790413260
+  },
+  {
+   "id": "7b6b40b810eb08984e30a0ae693c14e9",
+   "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
+   "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
+   "link": "https://www.qbitai.com/2026/09/497613.html",
+   "source": "量子位",
+   "category": "资讯",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-26 15:18",
+   "ts": 1790407085
   }
  ]
 }
