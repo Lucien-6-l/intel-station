@@ -1,11 +1,37 @@
 {
- "updated_at": "2026-09-29 02:03",
+ "updated_at": "2026-09-29 02:41",
  "total": 40,
  "items": [
   {
+   "id": "80d7b8b14f94492cbabd3f923d6ebc85",
+   "title": "So long Google, and thanks for all the nudes",
+   "summary": "Article URL: https://lecaro.me/20260921-google-less.html\nComments URL: https://news.ycombinator.com/item?id=49881951\nPoints: 10\n# Comments: 2",
+   "link": "https://lecaro.me/20260921-google-less.html",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 02:04",
+   "ts": 1790618687
+  },
+  {
+   "id": "63e2abd34388cef5405e6edb0926a25d",
+   "title": "Claude Sonnet 5.5",
+   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 118\n# Comments: 79",
+   "link": "https://www.anthropic.com/claude-sonnet-5-5",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 01:58",
+   "ts": 1790618291
+  },
+  {
    "id": "925381ccadfb1d1827fb3d270161f9ee",
    "title": "I made a visual workspace for AI Automations",
-   "summary": "Article URL: https://www.biom.dev/\nComments URL: https://news.ycombinator.com/item?id=49881777\nPoints: 3\n# Comments: 1",
+   "summary": "Article URL: https://www.biom.dev/\nComments URL: https://news.ycombinator.com/item?id=49881777\nPoints: 6\n# Comments: 2",
    "link": "https://www.biom.dev/",
    "source": "Hacker News",
    "category": "资讯",
@@ -14,6 +40,45 @@
    "urgent": false,
    "fetched_at": "09-29 01:53",
    "ts": 1790617994
+  },
+  {
+   "id": "0f2eb77cbabf23b746b3c82eaf187709",
+   "title": "Definitely not Windows (Win 11 parody)",
+   "summary": "Article URL: https://definitelynotwindows.com/\nComments URL: https://news.ycombinator.com/item?id=49881747\nPoints: 54\n# Comments: 13",
+   "link": "https://definitelynotwindows.com/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 01:51",
+   "ts": 1790617884
+  },
+  {
+   "id": "2b466c8208c8974c2700bc1880fa5cea",
+   "title": "Who Wrote Elizabeth I's Most Scathing Letters?",
+   "summary": "Article URL: https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised",
+   "link": "https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 01:47",
+   "ts": 1790617628
+  },
+  {
+   "id": "1f0cb8e6139a515f99697c1a024ddb31",
+   "title": "The Teen Portraits That Captivated Sofia Coppola",
+   "summary": "Article URL: https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola\nComments URL: https://news.ycombinator.com/item?id=4",
+   "link": "https://www.newyorker.com/culture/photo-booth/the-teen-portraits-that-captivated-sofia-coppola",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 01:41",
+   "ts": 1790617288
   },
   {
    "id": "fe11720f49107eb2d78f4e4b51ed4695",
@@ -42,30 +107,17 @@
    "ts": 1790616814
   },
   {
-   "id": "68abb09dc2b385c4c93ff672a6f6c027",
-   "title": "How Pew Research Center is – and is not – using AI in our work",
-   "summary": "Article URL: https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/\nComments URL: https://news.ycombinator",
-   "link": "https://www.pewresearch.org/decoded/2026/09/28/how-pew-research-center-is-and-is-not-using-ai-in-our-work-2/",
+   "id": "84efde901a681ca2659e997df86202d0",
+   "title": "Show HN: Destroy Any Website with Stickman",
+   "summary": "Article URL: https://destroy.spritefusion.com/\nComments URL: https://news.ycombinator.com/item?id=49880601\nPoints: 9\n# Comments: 3",
+   "link": "https://destroy.spritefusion.com/",
    "source": "Hacker News",
    "category": "资讯",
    "topic": "科技社区",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "09-29 01:08",
-   "ts": 1790615286
-  },
-  {
-   "id": "51c257e55d8f67e0378eee721a57b66c",
-   "title": "Driver Ticketed for No Insurance Just Because Flock (YC 2017) Said She Didn't",
-   "summary": "Article URL: https://www.techdirt.com/2026/09/28/driver-ticketed-for-no-insurance-despite-having-insurance-just-because-flock-said-she-didnt/\nComments URL: http",
-   "link": "https://www.techdirt.com/2026/09/28/driver-ticketed-for-no-insurance-despite-having-insurance-just-because-flock-said-she-didnt/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 00:58",
-   "ts": 1790614705
+   "fetched_at": "09-29 00:31",
+   "ts": 1790613088
   },
   {
    "id": "e00fdc8a7905812edd953b146c609f14",
@@ -94,19 +146,6 @@
    "ts": 1790611902
   },
   {
-   "id": "b2ee0c76b2671aa604d9e4dce33bb6da",
-   "title": "13 Months Sober (2025)",
-   "summary": "Article URL: https://www.bobbytables.io/p/13-months-sober\nComments URL: https://news.ycombinator.com/item?id=49880311\nPoints: 63\n# Comments: 49",
-   "link": "https://www.bobbytables.io/p/13-months-sober",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 00:11",
-   "ts": 1790611900
-  },
-  {
    "id": "32238b7f3d10f0ddb22c55035d5c185a",
    "title": "在汽车旅馆里研究生命的起源",
    "summary": "Julia Van Etten 博士热衷于坐在沙发上用一台 300 美元的显微镜观察水滴，寻找其中的生命痕迹。2021 年她还是罗格斯大学的一名研究生时在位于北卡罗来纳州的家中度假。由于连日阴雨她被困在室内，母亲知道什么能让她振作起来，建议去室外采集些样本。她不抱什么希望，随便找个了公路旁的码头收集水样。但当她对其进行",
@@ -122,7 +161,7 @@
   {
    "id": "bf135649213d0e4c0c1664faf0c8852e",
    "title": "Pirating the Pirates",
-   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 127\n# Comments: 28",
+   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 157\n# Comments: 45",
    "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +174,7 @@
   {
    "id": "83d76b9917eee6bb74354c7eb3d7b8d6",
    "title": "Hijacking the PS5's RTMP Stream",
-   "summary": "Article URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/\nComments URL: https://news.ycombinator.com/item?id=49879702\nPoints: 66\n# Comments: 9",
+   "summary": "Article URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/\nComments URL: https://news.ycombinator.com/item?id=49879702\nPoints: 82\n# Comments: 10",
    "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +187,7 @@
   {
    "id": "f1b5f8ede6b7a58da3588ef46af5d9f4",
    "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-   "summary": "Article URL: https://www.thisamericanlife.org/897/transcript\nComments URL: https://news.ycombinator.com/item?id=49879697\nPoints: 116\n# Comments: 81",
+   "summary": "Article URL: https://www.thisamericanlife.org/897/transcript\nComments URL: https://news.ycombinator.com/item?id=49879697\nPoints: 127\n# Comments: 89",
    "link": "https://www.thisamericanlife.org/897/transcript",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +200,7 @@
   {
    "id": "f918b2b0dacc2cb1859d4d0dc47f8baa",
    "title": "Cf: The Agentic CLI for the Cloudflare API",
-   "summary": "Article URL: https://blog.cloudflare.com/cloudflare-cf-cli-launch/\nComments URL: https://news.ycombinator.com/item?id=49879577\nPoints: 25\n# Comments: 8",
+   "summary": "Article URL: https://blog.cloudflare.com/cloudflare-cf-cli-launch/\nComments URL: https://news.ycombinator.com/item?id=49879577\nPoints: 33\n# Comments: 11",
    "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -183,45 +222,6 @@
    "urgent": false,
    "fetched_at": "09-28 23:16",
    "ts": 1790608573
-  },
-  {
-   "id": "8c53312a6187ca30d79d3e68ea34271b",
-   "title": "MongoDB CEO resigns to join Meta",
-   "summary": "Article URL: https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/\nComments URL: https://news.ycombinator.c",
-   "link": "https://www.reuters.com/technology/mongodb-ceo-desai-steps-down-lead-metas-enterprise-platform-2026-09-28/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 22:54",
-   "ts": 1790607261
-  },
-  {
-   "id": "31ba0ba792096566b2f5568baf45ee43",
-   "title": "What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators",
-   "summary": "Article URL: https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/\nComments URL: https://news.ycombinator.com/item?id=49878900\nPoints: 36\n# Comment",
-   "link": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 22:48",
-   "ts": 1790606924
-  },
-  {
-   "id": "4652490e060b661b1e3e8be232ac7846",
-   "title": "Coding Is Not Solved",
-   "summary": "Article URL: https://blog.alexewerlof.com/p/coding-is-not-solved\nComments URL: https://news.ycombinator.com/item?id=49877988\nPoints: 312\n# Comments: 323",
-   "link": "https://blog.alexewerlof.com/p/coding-is-not-solved",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 21:52",
-   "ts": 1790603577
   },
   {
    "id": "2096b3761030665c8b8ef15e6b11c5cc",
