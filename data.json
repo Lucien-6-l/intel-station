@@ -1,11 +1,24 @@
 {
- "updated_at": "2026-09-29 03:37",
+ "updated_at": "2026-09-29 04:02",
  "total": 40,
  "items": [
   {
+   "id": "88ef13710086dd8340dfbe264399894b",
+   "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
+   "summary": "Article URL: https://blog.plcred.org/3mwlphq42d227\nComments URL: https://news.ycombinator.com/item?id=49883159\nPoints: 4\n# Comments: 0",
+   "link": "https://blog.plcred.org/3mwlphq42d227",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 03:27",
+   "ts": 1790623665
+  },
+  {
    "id": "0c0b3e739b560d0d55c0b3d37e796650",
    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 4\n# Comments: 1",
+   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 19\n# Comments: 2",
    "link": "https://stateofutopia.com/experiments/microllmlab/",
    "source": "Hacker News",
    "category": "资讯",
@@ -18,7 +31,7 @@
   {
    "id": "39dcca8a203932b9a0386839abaf9aaa",
    "title": "GrapheneOS – When an app is slow",
-   "summary": "Article URL: https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html\nComments URL: https://news.ycombinator.com/item?id=49882208\nPoints: 33\n#",
+   "summary": "Article URL: https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html\nComments URL: https://news.ycombinator.com/item?id=49882208\nPoints: 37\n#",
    "link": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +44,7 @@
   {
    "id": "80d7b8b14f94492cbabd3f923d6ebc85",
    "title": "So long Google, and thanks for all the nudes",
-   "summary": "Article URL: https://lecaro.me/20260921-google-less.html\nComments URL: https://news.ycombinator.com/item?id=49881951\nPoints: 103\n# Comments: 36",
+   "summary": "Article URL: https://lecaro.me/20260921-google-less.html\nComments URL: https://news.ycombinator.com/item?id=49881951\nPoints: 111\n# Comments: 40",
    "link": "https://lecaro.me/20260921-google-less.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -44,7 +57,7 @@
   {
    "id": "b49463c6824ee59e21416eecea01e9f7",
    "title": "Sonnet 5.5",
-   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 269\n# Comments: 174",
+   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 296\n# Comments: 191",
    "link": "https://www.anthropic.com/claude-sonnet-5-5",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +70,7 @@
   {
    "id": "925381ccadfb1d1827fb3d270161f9ee",
    "title": "I made a visual workspace for AI Automations",
-   "summary": "Article URL: https://www.biom.dev/\nComments URL: https://news.ycombinator.com/item?id=49881777\nPoints: 13\n# Comments: 9",
+   "summary": "Article URL: https://www.biom.dev/\nComments URL: https://news.ycombinator.com/item?id=49881777\nPoints: 16\n# Comments: 9",
    "link": "https://www.biom.dev/",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +83,7 @@
   {
    "id": "68d4bfe323ffa6caa80a8e9aa500dcc2",
    "title": "Windows 11½",
-   "summary": "Article URL: https://definitelynotwindows.com/\nComments URL: https://news.ycombinator.com/item?id=49881747\nPoints: 229\n# Comments: 67",
+   "summary": "Article URL: https://definitelynotwindows.com/\nComments URL: https://news.ycombinator.com/item?id=49881747\nPoints: 251\n# Comments: 69",
    "link": "https://definitelynotwindows.com/",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +148,7 @@
   {
    "id": "84efde901a681ca2659e997df86202d0",
    "title": "Show HN: Destroy Any Website with Stickman",
-   "summary": "Article URL: https://destroy.spritefusion.com/\nComments URL: https://news.ycombinator.com/item?id=49880601\nPoints: 32\n# Comments: 8",
+   "summary": "Article URL: https://destroy.spritefusion.com/\nComments URL: https://news.ycombinator.com/item?id=49880601\nPoints: 38\n# Comments: 9",
    "link": "https://destroy.spritefusion.com/",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +200,7 @@
   {
    "id": "bf135649213d0e4c0c1664faf0c8852e",
    "title": "Pirating the Pirates",
-   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 223\n# Comments: 77",
+   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 240\n# Comments: 88",
    "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +213,7 @@
   {
    "id": "83d76b9917eee6bb74354c7eb3d7b8d6",
    "title": "Hijacking the PS5's RTMP stream",
-   "summary": "Article URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/\nComments URL: https://news.ycombinator.com/item?id=49879702\nPoints: 113\n# Comments: 28",
+   "summary": "Article URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/\nComments URL: https://news.ycombinator.com/item?id=49879702\nPoints: 119\n# Comments: 31",
    "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
    "source": "Hacker News",
    "category": "资讯",
@@ -209,19 +222,6 @@
    "urgent": false,
    "fetched_at": "09-28 23:35",
    "ts": 1790609723
-  },
-  {
-   "id": "f1b5f8ede6b7a58da3588ef46af5d9f4",
-   "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-   "summary": "Article URL: https://www.thisamericanlife.org/897/transcript\nComments URL: https://news.ycombinator.com/item?id=49879697\nPoints: 158\n# Comments: 106",
-   "link": "https://www.thisamericanlife.org/897/transcript",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 23:35",
-   "ts": 1790609709
   },
   {
    "id": "2096b3761030665c8b8ef15e6b11c5cc",
