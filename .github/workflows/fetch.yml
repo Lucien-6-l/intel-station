@@ -1,0 +1,39 @@
+name: Fetch Intelligence
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install feedparser requests
+
+      - name: Fetch RSS feeds
+        run: python fetcher.py
+
+      - name: Optional - push digest via WxPusher
+        env:
+          WXPUSHER_TOKEN: ${{ secrets.WXPUSHER_TOKEN }}
+        run: |
+          if [ -n "$WXPUSHER_TOKEN" ]; then python push_wxpusher.py; else echo "skip push"; fi
+
+      - name: Commit updated data
+        run: |
+          git config user.name "intel-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data.json
+          git diff --cached --quiet && echo "no changes" || git commit -m "auto: update data"
+          git push
