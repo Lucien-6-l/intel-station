@@ -1,0 +1,326 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>个人情报站 · 实时数据版</title>
+<style>
+:root{--bg:#f4f6fa;--surface:#fff;--fg:#101426;--muted:#6b7280;--border:#e4e8f0;--accent:#2563eb;--accent-soft:rgba(37,99,235,.1)}
+*{box-sizing:border-box}html,body{margin:0;padding:0}
+body{background:var(--bg);color:var(--fg);font:15px/1.5 "PingFang SC","Microsoft YaHei",sans-serif;-webkit-font-smoothing:antialiased}
+.app{max-width:520px;margin:0 auto;min-height:100vh;display:flex;flex-direction:column}
+header{padding:18px 20px 8px}
+header .g{font:600 11px/1 ui-monospace,monospace;letter-spacing:.08em;color:var(--muted);text-transform:uppercase;margin:0 0 4px}
+header h1{font-size:24px;margin:0;letter-spacing:-.02em}
+.chips{display:flex;gap:8px;overflow-x:auto;padding:10px 20px 12px;scrollbar-width:none}
+.chips::-webkit-scrollbar{display:none}
+.chip{flex:0 0 auto;padding:7px 14px;border-radius:999px;border:1px solid var(--border);background:var(--surface);color:var(--muted);font-size:13px;cursor:pointer;white-space:nowrap;font-family:inherit}
+.chip.active{background:var(--accent);border-color:var(--accent);color:#fff;font-weight:600}
+.feed{padding:0 20px 40px;display:flex;flex-direction:column}
+.item{display:block;text-decoration:none;color:inherit;background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:14px 16px;margin-bottom:10px}
+.item:active{background:#f0f4ff}
+.src{font:500 11px/1.4 ui-monospace,monospace;color:var(--muted)}
+.title{font-size:15px;font-weight:600;line-height:1.4;margin-top:6px}
+.sum{font-size:13px;color:var(--muted);line-height:1.5;margin-top:5px}
+.foot{margin-top:9px;display:flex;gap:8px;align-items:center}
+.cat-tag{padding:2px 9px;border-radius:999px;font-size:11px;background:rgba(16,20,38,.06);color:var(--muted)}
+.cat-tag.urgent{background:rgba(220,38,38,.1);color:#dc2626;font-weight:600}
+.meta-bar{padding:0 20px 8px;font:500 11px/1.4 ui-monospace,monospace;color:var(--muted)}
+.empty{text-align:center;color:var(--muted);padding:40px 0}
+</style>
+</head>
+<body>
+<div class="app">
+<header><p class="g">2026-09-28 20:18 更新 · 真实 RSS 数据</p><h1>情报流</h1></header>
+<div class="meta-bar">共 40 条 · 来源：量子位 / Hacker News / Solidot · 点击卡片阅读原文</div>
+<nav class="chips" id="chips"><button class="chip active" data-f="all">全部 · 40</button><button class="chip" data-f="AI 动态">AI 动态 · 10</button><button class="chip" data-f="科技社区">科技社区 · 15</button><button class="chip" data-f="科技资讯">科技资讯 · 15</button></nav>
+<main class="feed" id="feed"><a class="item" href="https://www.qbitai.com/2026/09/498787.html" target="_blank" rel="noopener" data-topic="AI 动态">
+  <div class="src">量子位 · AI 动态 · 09-28 19:18</div>
+  <div class="title">HC归来，华为正重新定义AIDC基础设施</div>
+  <div class="sum">AI基础设施下一站：算电协同</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://git.mills.io/prologic/parley" target="_blank" rel="noopener" data-topic="科技社区">
+  <div class="src">Hacker News · 科技社区 · 09-28 18:30</div>
+  <div class="title">Parley: Federated, decentralised chat that speaks plain IRC</div>
+  <div class="sum">Article URL: https://git.mills.io/prologic/parley
+Comments URL: https://news.ycombinator.com/item?id=49875913
+Points: 71
+# Comments: 18</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.solidot.org/story?sid=85494" target="_blank" rel="noopener" data-topic="科技资讯">
+  <div class="src">Solidot · 科技资讯 · 09-28 18:22</div>
+  <div class="title">冲动与拖延之间共享神经遗传基础</div>
+  <div class="sum">你是否有过这样的经历，明知截止时间越来越近，却忍不住频繁刷手机、告诉自己“明天再说”？这种情况被称为拖延。一直以来，拖延被贴上懒惰、自律不足或意志力薄弱的标签，但这种看似影响学习工作以及身心健康的行为，为什么普遍存在且在进化过程中被保留下来？中国科学院心理研究所等团队证实，拖延与冲动这两种看似相反的行为，存在部分共同的</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.solidot.org/story?sid=85493" target="_blank" rel="noopener" data-topic="科技资讯">
+  <div class="src">Solidot · 科技资讯 · 09-28 17:52</div>
+  <div class="title">英伟达 GeForce RTX 5090 成为热门走私商品</div>
+  <div class="sum">澳门海关公布，近日积极打击水客活动，加强口岸关检执法，并运用科技手段严厉打击偷运物品进出本澳的不法行为。海关仅于一周内便破获 12 宗走私案，货物总市值达 151 万，当中包括 359 件 Apple AirPods 耳机及 2 张 GeForce RTX 5090 显卡等。12 名涉案人士年龄介乎 18 至 53 岁</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.solidot.org/story?sid=85492" target="_blank" rel="noopener" data-topic="科技资讯">
+  <div class="src">Solidot · 科技资讯 · 09-28 17:16</div>
+  <div class="title">小偷想要偷英伟达芯片结果偷了 20 吨沙子</div>
+  <div class="sum">上周小偷在加州 Fremont 偷走了两辆印有英伟达和 PlusAI 公司 logo 的拖车，他们可能以为发了大财，因为英伟达芯片一直在涨价，结果他们发现拖车装载了 20 吨沙子。警方和公司代表证实，两辆拖车属于自动驾驶卡车公司 PlusAI，于上周三深夜在 Fremont 仓库的装卸区被盗。PlusAI 高级营销经理</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-live" target="_blank" rel="noopener" data-topic="科技社区">
+  <div class="src">Hacker News · 科技社区 · 09-28 17:15</div>
+  <div class="title">SpaceX&#x27;s Starship launching to orbit for first time ever today</div>
+  <div class="sum">Article URL: https://www.space.com/space-exploration/launches-spacecraft/spacexs-starship-megarocket-launching-to-orbit-for-1st-time-ever-on-sept-28-watch-it-li</div>
+  <div class="foot"><span class="cat-tag urgent">发布/大事件</span></div>
+</a>
+<a class="item" href="https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/" target="_blank" rel="noopener" data-topic="科技社区">
+  <div class="src">Hacker News · 科技社区 · 09-28 17:13</div>
+  <div class="title">Three Days in August: What a DDoS Attack Exposed in Our Network</div>
+  <div class="sum">Article URL: https://nine.ch/en/blog/ddos-attack-august-2026-postmortem/
+Comments URL: https://news.ycombinator.com/item?id=49875401
+Points: 9
+# Comments: 6</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.solidot.org/story?sid=85491" target="_blank" rel="noopener" data-topic="科技资讯">
+  <div class="src">Solidot · 科技资讯 · 09-28 17:03</div>
+  <div class="title">KDE 和 GNOME 考虑如何处理 AI 生成的贡献</div>
+  <div class="sum">众多大型自由软件开源项目近期都在讨论如何处理 AI 生成代码，其中包括了两大桌面环境 KDE 和 GNOME。两位近期没有贡献的 KDE 知名开发者在 KDE 年度 Akademy 大会上发表了 lovable, sovereign, AI-native KDE 的主题演讲，随后开发者 Nate Graham 发起了如</div>
+  <div class="foot"><span class="cat-tag urgent">发布/大事件</span></div>
+</a>
+<a class="item" href="https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/" target="_blank" rel="noopener" data-topic="科技社区">
+  <div class="src">Hacker News · 科技社区 · 09-28 16:35</div>
+  <div class="title">AI companies in race to demonstrate their model most threatening to humanity</div>
+  <div class="sum">Article URL: https://thecivilian.co.nz/2026/09/27/ai-companies-in-fierce-arms-race-to-demonstrate-their-model-is-the-most-existentially-threatening-to-humanity/</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.habibicode.org/thedrawnworld" target="_blank" rel="noopener" data-topic="科技社区">
+  <div class="src">Hacker News · 科技社区 · 09-28 16:35</div>
+  <div class="title">37,500 border drawings: a map of the world as people remember it</div>
+  <div class="sum">Article URL: https://www.habibicode.org/thedrawnworld
+Comments URL: https://news.ycombinator.com/item?id=49875142
+Points: 29
+# Comments: 10</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.solidot.org/story?sid=85490" target="_blank" rel="noopener" data-topic="科技资讯">
+  <div class="src">Solidot · 科技资讯 · 09-28 15:40</div>
+  <div class="title">考古学家在土耳其发现已知最古老的和平条约</div>
+  <div class="sum">考古学家在土耳其中北部古代 Hittite 帝国首都 Hattusha 的一处建筑物内发掘出了一块楔形文字泥板残片，其中记录了已知最古老的和平条约 Treaty of Kadesh。条约由埃及统治者法老 Ramesses II 与 Hittite 国王 Hattusili III 在公元前 1269 年左右签署，标志着</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5" target="_blank" rel="noopener" data-topic="科技社区">
+  <div class="src">Hacker News · 科技社区 · 09-28 15:33</div>
+  <div class="title">Prompting Claude Opus 5.5</div>
+  <div class="sum">Article URL: https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5
+Comments URL: https://news.ycombinator.com/item?</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://felixrieseberg.com/made-by-mechanical-means/" target="_blank" rel="noopener" data-topic="科技社区">
+  <div class="src">Hacker News · 科技社区 · 09-28 15:06</div>
+  <div class="title">Made by Mechanical Means</div>
+  <div class="sum">Article URL: https://felixrieseberg.com/made-by-mechanical-means/
+Comments URL: https://news.ycombinator.com/item?id=49874551
+Points: 39
+# Comments: 9</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.solidot.org/story?sid=85489" target="_blank" rel="noopener" data-topic="科技资讯">
+  <div class="src">Solidot · 科技资讯 · 09-28 14:45</div>
+  <div class="title">美国农药中有至少 485 种化合物与乳腺癌相关</div>
+  <div class="sum">根据发表在《Environmental Health Perspectives》期刊上的一项研究，美国农药产品中至少有 485 种化合物与乳腺癌相关。全球早发性乳腺癌发病率激增，这一发现引发了对食品及其它产品安全性的担忧。根据美国癌症协会的数据，乳腺癌发病率正以每年 1% 的速度上升，而 50 岁以下女性的增长速度甚至</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.solidot.org/story?sid=85488" target="_blank" rel="noopener" data-topic="科技资讯">
+  <div class="src">Solidot · 科技资讯 · 09-28 14:03</div>
+  <div class="title">玫瑰也可以是蓝色的</div>
+  <div class="sum">玫瑰不只是红色的，它也可以是蓝色的。玫瑰缺乏产生蓝色色素所需的基因。日本三得利集团于 1990 年启动了研发蓝色玫瑰的工作。2004 年它通过引入了能产生蓝色色素 delphinidin 的基因，成功培育出能积累蓝色的玫瑰。三得利此后继续研发色泽更蓝的玫瑰的工作。花色并非仅由色素的种类或含量决定，还会因周围的化合物及花</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://arxiv.org/abs/2110.01834" target="_blank" rel="noopener" data-topic="科技社区">
+  <div class="src">Hacker News · 科技社区 · 09-28 11:23</div>
+  <div class="title">Thinking fast and slow in AI: The role of metacognition (2021)</div>
+  <div class="sum">Article URL: https://arxiv.org/abs/2110.01834
+Comments URL: https://news.ycombinator.com/item?id=49873241
+Points: 123
+# Comments: 39</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/" target="_blank" rel="noopener" data-topic="科技社区">
+  <div class="src">Hacker News · 科技社区 · 09-28 10:31</div>
+  <div class="title">Nissan&#x27;s third generation e-POWER powertrain</div>
+  <div class="sum">Article URL: https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/
+Comments URL: https://news.ycombinator.com/item?id=49872883
+Points: 87</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://colo.to/nvidia-stock-narrative.html" target="_blank" rel="noopener" data-topic="科技社区">
+  <div class="src">Hacker News · 科技社区 · 09-28 10:05</div>
+  <div class="title">Owed a billion dollars in Nvidia stock</div>
+  <div class="sum">Article URL: https://colo.to/nvidia-stock-narrative.html
+Comments URL: https://news.ycombinator.com/item?id=49872723
+Points: 797
+# Comments: 333</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html" target="_blank" rel="noopener" data-topic="科技社区">
+  <div class="src">Hacker News · 科技社区 · 09-28 05:06</div>
+  <div class="title">Lunar Terminator Paradox</div>
+  <div class="sum">Article URL: https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html
+Comments URL: https://news.ycombinator.com/item?id=49870837
+Points: 90</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://sancho.bearblog.dev/google-weird/" target="_blank" rel="noopener" data-topic="科技社区">
+  <div class="src">Hacker News · 科技社区 · 09-28 04:12</div>
+  <div class="title">When did Google get so weird?</div>
+  <div class="sum">Article URL: https://sancho.bearblog.dev/google-weird/
+Comments URL: https://news.ycombinator.com/item?id=49870367
+Points: 1407
+# Comments: 761</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/" target="_blank" rel="noopener" data-topic="科技社区">
+  <div class="src">Hacker News · 科技社区 · 09-28 04:03</div>
+  <div class="title">Self-Hosting on the Dark Web</div>
+  <div class="sum">Article URL: https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/
+Comments URL: https://news.ycombinator.com/item?id=49870295
+Points: 229
+# Comment</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11" target="_blank" rel="noopener" data-topic="科技社区">
+  <div class="src">Hacker News · 科技社区 · 09-28 03:37</div>
+  <div class="title">Alan Kay&#x27;s answer to “Did the ENIAC have a BIOS”?</div>
+  <div class="sum">Article URL: https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11
+Comments URL: https://news.ycombinator.com/item?id=49870070
+Points: 147
+# Commen</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://github.com/deepfates/imp" target="_blank" rel="noopener" data-topic="科技社区">
+  <div class="src">Hacker News · 科技社区 · 09-28 03:28</div>
+  <div class="title">Imp is a full port of DSPy to the BEAM</div>
+  <div class="sum">https://hex.pm/packages/imphttps://dspy.ai/current/
+
+Comments URL: https://news.ycombinator.com/item?id=49869995
+Points: 82
+# Comments: 7</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.qbitai.com/2026/09/498633.html" target="_blank" rel="noopener" data-topic="AI 动态">
+  <div class="src">量子位 · AI 动态 · 09-27 22:20</div>
+  <div class="title">量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层</div>
+  <div class="sum">（无摘要，点击查看原文）</div>
+  <div class="foot"><span class="cat-tag urgent">发布/大事件</span></div>
+</a>
+<a class="item" href="https://www.qbitai.com/2026/09/498605.html" target="_blank" rel="noopener" data-topic="AI 动态">
+  <div class="src">量子位 · AI 动态 · 09-27 21:57</div>
+  <div class="title">量子计算走上桌面！“小盒子”跑通端到端，数据全程不出门</div>
+  <div class="sum">想让开发者“说句话就能跑量子计算”</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.qbitai.com/2026/09/498584.html" target="_blank" rel="noopener" data-topic="AI 动态">
+  <div class="src">量子位 · AI 动态 · 09-27 21:40</div>
+  <div class="title">又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录</div>
+  <div class="sum">中秋假期文具OpenRouter调用日榜榜首</div>
+  <div class="foot"><span class="cat-tag urgent">发布/大事件</span></div>
+</a>
+<a class="item" href="https://www.solidot.org/story?sid=85487" target="_blank" rel="noopener" data-topic="科技资讯">
+  <div class="src">Solidot · 科技资讯 · 09-27 19:13</div>
+  <div class="title">Meta 屏蔽了巴西总统的 FB 主页以及竞选广告</div>
+  <div class="sum">距离 2026 年 10 月巴西大选不到两周，Meta 本周短暂屏蔽了巴西现任总统卢拉的 FB 主页以及竞选连任广告，在抗议和投诉之后，Meta 恢复了主页，但卢拉的竞选团队认为此举损害了总统的竞选活动。Meta 是在本周三屏蔽了卢拉的主页，未给出任何理由。卢拉竞选团队投诉称，数字环境在政治辩论中发挥着核心作用，限制卢</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.solidot.org/story?sid=85486" target="_blank" rel="noopener" data-topic="科技资讯">
+  <div class="src">Solidot · 科技资讯 · 09-27 18:45</div>
+  <div class="title">Bitget 被盗走价值 3.875 亿美元加密货币</div>
+  <div class="sum">Bitget 交易所被盗走价值 3.875 亿美元的加密货币。攻击发生在 9 月 24 日 18:31 UTC。区块链情报公司 Arkham 发表报告称，从 18:58 至 19:16 之间的 18 分钟内，价值 2.28 亿美元的数字资产从 Bitget 钱包中转出。价值 1.53 亿美元的 XRP 从一个被识别为​</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.solidot.org/story?sid=85485" target="_blank" rel="noopener" data-topic="科技资讯">
+  <div class="src">Solidot · 科技资讯 · 09-27 18:21</div>
+  <div class="title">科学家研制出至今最精确的原子钟</div>
+  <div class="sum">新加坡国立大学研制出至今最精确的原子钟，运行 2600 亿年误差不到 1 秒。新设备是一台光学原子钟，靠镥离子固有而稳定的特性计时。特定频率的光，能把电子送上更高能量的激发态，而这一跃迁频率恒定不变。团队持续观测镥离子的跃迁，把激光锁定在触发跃迁的精确频率上，再以激光振荡作为计时标尺。在最新研究中，团队把镥钟频率测到小</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.solidot.org/story?sid=85484" target="_blank" rel="noopener" data-topic="科技资讯">
+  <div class="src">Solidot · 科技资讯 · 09-27 17:57</div>
+  <div class="title">龙芯 CPU 的原子加指令偶尔会丢失</div>
+  <div class="sum">今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让 AI 去找最小复现</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.qbitai.com/2026/09/498546.html" target="_blank" rel="noopener" data-topic="AI 动态">
+  <div class="src">量子位 · AI 动态 · 09-27 17:44</div>
+  <div class="title">啥题啊能干崩OpenAI最强模型训练…</div>
+  <div class="sum">（无摘要，点击查看原文）</div>
+  <div class="foot"><span class="cat-tag urgent">发布/大事件</span></div>
+</a>
+<a class="item" href="https://www.solidot.org/story?sid=85483" target="_blank" rel="noopener" data-topic="科技资讯">
+  <div class="src">Solidot · 科技资讯 · 09-27 16:34</div>
+  <div class="title">太平洋西北下方的板块在分裂</div>
+  <div class="sum">科学家捕捉到了太平洋西北下方的一个大型构造系统分裂的细节。最新研究发现了一个俯冲带正在活跃分裂。俯冲带形成于一个构造板块俯冲到另一个板块下并深入地球内部，是大型地震、强火山爆发以及大陆和海洋盆地长期变化的源头。现在科学家有机会清晰观察大型构造系统如何走向终结。构造系统会持续活跃数百万年，但不会永远持续下去。利用声波回声</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.solidot.org/story?sid=85482" target="_blank" rel="noopener" data-topic="科技资讯">
+  <div class="src">Solidot · 科技资讯 · 09-26 23:06</div>
+  <div class="title">Excel 的单元格将支持输入多个值</div>
+  <div class="sum">微软宣布其电子表格软件 Excel 的单元格将支持输入多个值，而不是以前的只能一个值。Excel 将通过“列表”（Lists）、“单元格内数组”（arrays in cells）和“嵌套数组”（nested arrays）三个功能实现在单元格内输入多个值。微软称，某个项目可能会将“Carlos，Henrietta，Ja</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.solidot.org/story?sid=85481" target="_blank" rel="noopener" data-topic="科技资讯">
+  <div class="src">Solidot · 科技资讯 · 09-26 22:44</div>
+  <div class="title">荷兰政府测试本土发行版 NixOS</div>
+  <div class="sum">2025 年美国政府制裁了位于荷兰海牙的国际刑事法庭，导致了依赖微软软件的法庭工作陷入瘫痪，此事促使欧洲各国政府推动数字主权，减少对美国科技公司的依赖。其中荷兰政府正在本土 Linux 发行版 NixOS 基础上上构建数字工作环境 Digitaal Autonome Werkomgeving Overheid (DAW</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.qbitai.com/2026/09/498478.html" target="_blank" rel="noopener" data-topic="AI 动态">
+  <div class="src">量子位 · AI 动态 · 09-26 19:49</div>
+  <div class="title">索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准</div>
+  <div class="sum">“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。</div>
+  <div class="foot"><span class="cat-tag urgent">发布/大事件</span></div>
+</a>
+<a class="item" href="https://www.solidot.org/story?sid=85480" target="_blank" rel="noopener" data-topic="科技资讯">
+  <div class="src">Solidot · 科技资讯 · 09-26 18:59</div>
+  <div class="title">YouTube、TikTok 和 Meta 都拒绝投放马斯克纪录片的商业广告</div>
+  <div class="sum">负责发行 Alex Gibney 拍摄的马斯克（Elon Musk）纪录片《Musk》的公司 Bleecker Street 发现，主流社交平台 YouTube、TikTok 和旗下包括 Instagram 和 Facebook 的 Meta 公司，以及马斯克旗下的 X 平台都拒绝投放该纪录片的商业广告。这是一部批评马</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.qbitai.com/2026/09/498271.html" target="_blank" rel="noopener" data-topic="AI 动态">
+  <div class="src">量子位 · AI 动态 · 09-26 17:07</div>
+  <div class="title">AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo</div>
+  <div class="sum">Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。</div>
+  <div class="foot"><span class="cat-tag urgent">发布/大事件</span></div>
+</a>
+<a class="item" href="https://www.qbitai.com/2026/09/497624.html" target="_blank" rel="noopener" data-topic="AI 动态">
+  <div class="src">量子位 · AI 动态 · 09-26 17:01</div>
+  <div class="title">笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub</div>
+  <div class="sum">GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？</div>
+  <div class="foot"><span class="cat-tag urgent">发布/大事件</span></div>
+</a>
+<a class="item" href="https://www.qbitai.com/2026/09/497613.html" target="_blank" rel="noopener" data-topic="AI 动态">
+  <div class="src">量子位 · AI 动态 · 09-26 15:18</div>
+  <div class="title">在云栖大会，我终于看懂了米哈游千亿AI野心</div>
+  <div class="sum">大伟哥：如果做不到，一年两年之后过来打我脸</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a>
+<a class="item" href="https://www.qbitai.com/2026/09/497425.html" target="_blank" rel="noopener" data-topic="AI 动态">
+  <div class="src">量子位 · AI 动态 · 09-26 15:12</div>
+  <div class="title">谷歌TPU跑Kimi比英伟达GPU快57%！用的还是DeepSeek推理框架</div>
+  <div class="sum">vLLM人马创业公司团队出品</div>
+  <div class="foot"><span class="cat-tag ">资讯</span></div>
+</a></main>
+</div>
+<script>
+var chips=document.querySelectorAll('.chip');
+chips.forEach(function(ch){ch.addEventListener('click',function(){
+  chips.forEach(function(c){c.classList.remove('active')});ch.classList.add('active');
+  var f=ch.getAttribute('data-f'),n=0;
+  document.querySelectorAll('.item').forEach(function(it){
+    var show=(f==='all'||it.getAttribute('data-topic')===f);
+    it.style.display=show?'':'none';if(show)n++;
+  });
+});});
+</script>
+</body>
+</html>
