@@ -1,11 +1,24 @@
 {
- "updated_at": "2026-09-29 02:41",
+ "updated_at": "2026-09-29 03:04",
  "total": 40,
  "items": [
   {
+   "id": "39dcca8a203932b9a0386839abaf9aaa",
+   "title": "GrapheneOS – When an app is slow",
+   "summary": "Article URL: https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html\nComments URL: https://news.ycombinator.com/item?id=49882208\nPoints: 21\n#",
+   "link": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 02:21",
+   "ts": 1790619691
+  },
+  {
    "id": "80d7b8b14f94492cbabd3f923d6ebc85",
    "title": "So long Google, and thanks for all the nudes",
-   "summary": "Article URL: https://lecaro.me/20260921-google-less.html\nComments URL: https://news.ycombinator.com/item?id=49881951\nPoints: 10\n# Comments: 2",
+   "summary": "Article URL: https://lecaro.me/20260921-google-less.html\nComments URL: https://news.ycombinator.com/item?id=49881951\nPoints: 71\n# Comments: 25",
    "link": "https://lecaro.me/20260921-google-less.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -16,9 +29,9 @@
    "ts": 1790618687
   },
   {
-   "id": "63e2abd34388cef5405e6edb0926a25d",
-   "title": "Claude Sonnet 5.5",
-   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 118\n# Comments: 79",
+   "id": "b49463c6824ee59e21416eecea01e9f7",
+   "title": "Sonnet 5.5",
+   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 204\n# Comments: 142",
    "link": "https://www.anthropic.com/claude-sonnet-5-5",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +44,7 @@
   {
    "id": "925381ccadfb1d1827fb3d270161f9ee",
    "title": "I made a visual workspace for AI Automations",
-   "summary": "Article URL: https://www.biom.dev/\nComments URL: https://news.ycombinator.com/item?id=49881777\nPoints: 6\n# Comments: 2",
+   "summary": "Article URL: https://www.biom.dev/\nComments URL: https://news.ycombinator.com/item?id=49881777\nPoints: 9\n# Comments: 9",
    "link": "https://www.biom.dev/",
    "source": "Hacker News",
    "category": "资讯",
@@ -44,7 +57,7 @@
   {
    "id": "0f2eb77cbabf23b746b3c82eaf187709",
    "title": "Definitely not Windows (Win 11 parody)",
-   "summary": "Article URL: https://definitelynotwindows.com/\nComments URL: https://news.ycombinator.com/item?id=49881747\nPoints: 54\n# Comments: 13",
+   "summary": "Article URL: https://definitelynotwindows.com/\nComments URL: https://news.ycombinator.com/item?id=49881747\nPoints: 184\n# Comments: 55",
    "link": "https://definitelynotwindows.com/",
    "source": "Hacker News",
    "category": "资讯",
@@ -56,7 +69,7 @@
   },
   {
    "id": "2b466c8208c8974c2700bc1880fa5cea",
-   "title": "Who Wrote Elizabeth I's Most Scathing Letters?",
+   "title": "Who wrote Elizabeth I's most scathing letters?",
    "summary": "Article URL: https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised",
    "link": "https://www.smithsonianmag.com/history/who-wrote-elizabeth-is-most-scathing-letters-new-research-suggests-the-tudor-queens-male-secretaries-revised-her-correspondence-to-emphasize-her-temper-180989565/",
    "source": "Hacker News",
@@ -109,7 +122,7 @@
   {
    "id": "84efde901a681ca2659e997df86202d0",
    "title": "Show HN: Destroy Any Website with Stickman",
-   "summary": "Article URL: https://destroy.spritefusion.com/\nComments URL: https://news.ycombinator.com/item?id=49880601\nPoints: 9\n# Comments: 3",
+   "summary": "Article URL: https://destroy.spritefusion.com/\nComments URL: https://news.ycombinator.com/item?id=49880601\nPoints: 18\n# Comments: 7",
    "link": "https://destroy.spritefusion.com/",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +174,7 @@
   {
    "id": "bf135649213d0e4c0c1664faf0c8852e",
    "title": "Pirating the Pirates",
-   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 157\n# Comments: 45",
+   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 184\n# Comments: 60",
    "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
    "source": "Hacker News",
    "category": "资讯",
@@ -173,8 +186,8 @@
   },
   {
    "id": "83d76b9917eee6bb74354c7eb3d7b8d6",
-   "title": "Hijacking the PS5's RTMP Stream",
-   "summary": "Article URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/\nComments URL: https://news.ycombinator.com/item?id=49879702\nPoints: 82\n# Comments: 10",
+   "title": "Hijacking the ps5's rtmp stream",
+   "summary": "Article URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/\nComments URL: https://news.ycombinator.com/item?id=49879702\nPoints: 94\n# Comments: 17",
    "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +200,7 @@
   {
    "id": "f1b5f8ede6b7a58da3588ef46af5d9f4",
    "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-   "summary": "Article URL: https://www.thisamericanlife.org/897/transcript\nComments URL: https://news.ycombinator.com/item?id=49879697\nPoints: 127\n# Comments: 89",
+   "summary": "Article URL: https://www.thisamericanlife.org/897/transcript\nComments URL: https://news.ycombinator.com/item?id=49879697\nPoints: 144\n# Comments: 93",
    "link": "https://www.thisamericanlife.org/897/transcript",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +213,7 @@
   {
    "id": "f918b2b0dacc2cb1859d4d0dc47f8baa",
    "title": "Cf: The Agentic CLI for the Cloudflare API",
-   "summary": "Article URL: https://blog.cloudflare.com/cloudflare-cf-cli-launch/\nComments URL: https://news.ycombinator.com/item?id=49879577\nPoints: 33\n# Comments: 11",
+   "summary": "Article URL: https://blog.cloudflare.com/cloudflare-cf-cli-launch/\nComments URL: https://news.ycombinator.com/item?id=49879577\nPoints: 41\n# Comments: 17",
    "link": "https://blog.cloudflare.com/cloudflare-cf-cli-launch/",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -209,19 +222,6 @@
    "urgent": false,
    "fetched_at": "09-28 23:28",
    "ts": 1790609293
-  },
-  {
-   "id": "d5b6cbb600a6c56977180540135839ef",
-   "title": "Show HN: HN.watch – Videos of all Hacker News posts",
-   "summary": "Hi HN, I’m Per, founder of Scrimba (YC S20). We’ve spent the last decade teaching people how to code with an HTML-based video format. We’ve now plugged an LLM i",
-   "link": "https://hn.watch/",
-   "source": "Hacker News",
-   "category": "教程",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 23:16",
-   "ts": 1790608573
   },
   {
    "id": "2096b3761030665c8b8ef15e6b11c5cc",
