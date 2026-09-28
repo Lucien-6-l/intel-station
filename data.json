@@ -1,7 +1,20 @@
 {
- "updated_at": "2026-09-29 00:38",
+ "updated_at": "2026-09-29 01:03",
  "total": 40,
  "items": [
+  {
+   "id": "e00fdc8a7905812edd953b146c609f14",
+   "title": "Starship 完成首次轨道发射",
+   "summary": "SpaceX 于 9 月 28 日 8:15 a.m. EDT 在德州的 Starbase 发射了其重型火箭 Starship，执行第 14 次飞行任务，也是首次轨道发射，将 26 颗 Starlink V3 卫星送到轨道上。这次发射仍然是测试飞行，SpaceX 未尝试回收火箭，上面级 Ship 41 执行了减速点火，",
+   "link": "https://www.solidot.org/story?sid=85497",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 00:16",
+   "ts": 1790612189
+  },
   {
    "id": "d89783c6c067132e8cbe1fde5e16ca5b",
    "title": "The problem is not the AI code, but nobody knows anything anymore",
@@ -16,9 +29,35 @@
    "ts": 1790611902
   },
   {
+   "id": "b2ee0c76b2671aa604d9e4dce33bb6da",
+   "title": "13 Months Sober (2025)",
+   "summary": "Article URL: https://www.bobbytables.io/p/13-months-sober\nComments URL: https://news.ycombinator.com/item?id=49880311\nPoints: 13\n# Comments: 9",
+   "link": "https://www.bobbytables.io/p/13-months-sober",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 00:11",
+   "ts": 1790611900
+  },
+  {
+   "id": "32238b7f3d10f0ddb22c55035d5c185a",
+   "title": "在汽车旅馆里研究生命的起源",
+   "summary": "Julia Van Etten 博士热衷于坐在沙发上用一台 300 美元的显微镜观察水滴，寻找其中的生命痕迹。2021 年她还是罗格斯大学的一名研究生时在位于北卡罗来纳州的家中度假。由于连日阴雨她被困在室内，母亲知道什么能让她振作起来，建议去室外采集些样本。她不抱什么希望，随便找个了公路旁的码头收集水样。但当她对其进行",
+   "link": "https://www.solidot.org/story?sid=85496",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-28 23:57",
+   "ts": 1790611039
+  },
+  {
    "id": "bf135649213d0e4c0c1664faf0c8852e",
    "title": "Pirating the Pirates",
-   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 23\n# Comments: 2",
+   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 50\n# Comments: 11",
    "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
    "source": "Hacker News",
    "category": "资讯",
@@ -29,22 +68,9 @@
    "ts": 1790610855
   },
   {
-   "id": "c2c8b0a567ccee843d5a80144bc76f83",
-   "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-   "summary": "Article URL: https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/\nComments URL: https://news.ycombinator.com/ite",
-   "link": "https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 23:46",
-   "ts": 1790610396
-  },
-  {
    "id": "83d76b9917eee6bb74354c7eb3d7b8d6",
    "title": "Hijacking the PS5's RTMP Stream",
-   "summary": "Article URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/\nComments URL: https://news.ycombinator.com/item?id=49879702\nPoints: 10\n# Comments: 0",
+   "summary": "Article URL: https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/\nComments URL: https://news.ycombinator.com/item?id=49879702\nPoints: 24\n# Comments: 2",
    "link": "https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +83,7 @@
   {
    "id": "f1b5f8ede6b7a58da3588ef46af5d9f4",
    "title": "Kids turned low-traffic NPR Spotify comments into a secret group chat",
-   "summary": "Article URL: https://www.thisamericanlife.org/897/transcript\nComments URL: https://news.ycombinator.com/item?id=49879697\nPoints: 49\n# Comments: 24",
+   "summary": "Article URL: https://www.thisamericanlife.org/897/transcript\nComments URL: https://news.ycombinator.com/item?id=49879697\nPoints: 78\n# Comments: 49",
    "link": "https://www.thisamericanlife.org/897/transcript",
    "source": "Hacker News",
    "category": "资讯",
@@ -68,17 +94,17 @@
    "ts": 1790609709
   },
   {
-   "id": "9db00258171441b81cb7773384275f8c",
-   "title": "Updated Google Maps shows destruction of the city of Rafah",
-   "summary": "Article URL: https://twitter.com/AliAbunimah/status/2103890594137309425\nComments URL: https://news.ycombinator.com/item?id=49879645\nPoints: 20\n# Comments: 1",
-   "link": "https://twitter.com/AliAbunimah/status/2103890594137309425",
+   "id": "4218dbe8ecba16cc488756c30d0f111e",
+   "title": "What makes Lisp difficult to read?",
+   "summary": "Article URL: https://paultm.nl/paren-thesis\nComments URL: https://news.ycombinator.com/item?id=49879343\nPoints: 15\n# Comments: 11",
+   "link": "https://paultm.nl/paren-thesis",
    "source": "Hacker News",
    "category": "资讯",
    "topic": "科技社区",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "09-28 23:32",
-   "ts": 1790609538
+   "fetched_at": "09-28 23:12",
+   "ts": 1790608350
   },
   {
    "id": "8c53312a6187ca30d79d3e68ea34271b",
@@ -96,7 +122,7 @@
   {
    "id": "31ba0ba792096566b2f5568baf45ee43",
    "title": "What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators",
-   "summary": "Article URL: https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/\nComments URL: https://news.ycombinator.com/item?id=49878900\nPoints: 21\n# Comment",
+   "summary": "Article URL: https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/\nComments URL: https://news.ycombinator.com/item?id=49878900\nPoints: 26\n# Comment",
    "link": "https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/",
    "source": "Hacker News",
    "category": "资讯",
@@ -107,22 +133,9 @@
    "ts": 1790606924
   },
   {
-   "id": "01f384bf523b998a7a654ecd585ea8f2",
-   "title": "I Switched to Brave Browser",
-   "summary": "Article URL: https://kevquirk.com/i-switched-to-brave-browser\nComments URL: https://news.ycombinator.com/item?id=49878759\nPoints: 41\n# Comments: 40",
-   "link": "https://kevquirk.com/i-switched-to-brave-browser",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 22:40",
-   "ts": 1790606443
-  },
-  {
    "id": "4652490e060b661b1e3e8be232ac7846",
    "title": "Coding Is Not Solved",
-   "summary": "Article URL: https://blog.alexewerlof.com/p/coding-is-not-solved\nComments URL: https://news.ycombinator.com/item?id=49877988\nPoints: 249\n# Comments: 243",
+   "summary": "Article URL: https://blog.alexewerlof.com/p/coding-is-not-solved\nComments URL: https://news.ycombinator.com/item?id=49877988\nPoints: 272\n# Comments: 273",
    "link": "https://blog.alexewerlof.com/p/coding-is-not-solved",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +200,7 @@
   {
    "id": "fb2d16987dd39c9c9b608788e3ecd7c8",
    "title": "What Would a Serious AI Product Look Like?",
-   "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html\nComments URL: https://news.ycombinator.com/item?id=49876148\nPoints: 22\n# Comments: 4",
+   "summary": "Article URL: https://blog.glyph.im/2026/09/serious-ai-product.html\nComments URL: https://news.ycombinator.com/item?id=49876148\nPoints: 34\n# Comments: 12",
    "link": "https://blog.glyph.im/2026/09/serious-ai-product.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +213,7 @@
   {
    "id": "c1341b4efeee009a8a5ce548b70ff8a0",
    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-   "summary": "Article URL: https://git.mills.io/prologic/parley\nComments URL: https://news.ycombinator.com/item?id=49875913\nPoints: 217\n# Comments: 108",
+   "summary": "Article URL: https://git.mills.io/prologic/parley\nComments URL: https://news.ycombinator.com/item?id=49875913\nPoints: 225\n# Comments: 108",
    "link": "https://git.mills.io/prologic/parley",
    "source": "Hacker News",
    "category": "资讯",
@@ -287,6 +300,19 @@
    "urgent": false,
    "fetched_at": "09-28 16:55",
    "ts": 1790585731
+  },
+  {
+   "id": "9c9fb6ff815c5573c039a0ad6eb470fc",
+   "title": "37,500 border drawings: a map of the world as people remember it",
+   "summary": "Article URL: https://www.habibicode.org/thedrawnworld\nComments URL: https://news.ycombinator.com/item?id=49875142\nPoints: 127\n# Comments: 30",
+   "link": "https://www.habibicode.org/thedrawnworld",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-28 16:35",
+   "ts": 1790584510
   },
   {
    "id": "38aa3e6f2ddd051898c45e26122a2487",
@@ -443,32 +469,6 @@
    "urgent": false,
    "fetched_at": "09-27 16:34",
    "ts": 1790498048
-  },
-  {
-   "id": "d300720a366dd1a45ed8a8674ab81bf8",
-   "title": "Excel 的单元格将支持输入多个值",
-   "summary": "微软宣布其电子表格软件 Excel 的单元格将支持输入多个值，而不是以前的只能一个值。Excel 将通过“列表”（Lists）、“单元格内数组”（arrays in cells）和“嵌套数组”（nested arrays）三个功能实现在单元格内输入多个值。微软称，某个项目可能会将“Carlos，Henrietta，Ja",
-   "link": "https://www.solidot.org/story?sid=85482",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-26 23:06",
-   "ts": 1790435201
-  },
-  {
-   "id": "846130dff37814d2b878a1fc1827755a",
-   "title": "荷兰政府测试本土发行版 NixOS",
-   "summary": "2025 年美国政府制裁了位于荷兰海牙的国际刑事法庭，导致了依赖微软软件的法庭工作陷入瘫痪，此事促使欧洲各国政府推动数字主权，减少对美国科技公司的依赖。其中荷兰政府正在本土 Linux 发行版 NixOS 基础上上构建数字工作环境 Digitaal Autonome Werkomgeving Overheid (DAW",
-   "link": "https://www.solidot.org/story?sid=85481",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-26 22:44",
-   "ts": 1790433892
   },
   {
    "id": "fc0dd68c0d678f545bd9476683d99407",
