@@ -1,11 +1,24 @@
 {
- "updated_at": "2026-09-30 00:04",
+ "updated_at": "2026-09-30 00:39",
  "total": 40,
  "items": [
   {
+   "id": "115e4cf058eb82f7152943a5da45eefb",
+   "title": "Show HN: NSL – WSL for Linux",
+   "summary": "One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distr",
+   "link": "https://frostyard.github.io/nsl/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 22:51",
+   "ts": 1790693496
+  },
+  {
    "id": "d1ee3973af17b95d3d433ce7e51f8535",
    "title": "macOS Golden Gate Is a Buggy Mess",
-   "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/\nComments URL: https://news.ycombinator.com/item?id=49894005\nPoints: 19",
+   "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/\nComments URL: https://news.ycombinator.com/item?id=49894005\nPoints: 24",
    "link": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
    "source": "Hacker News",
    "category": "资讯",
@@ -18,7 +31,7 @@
   {
    "id": "43b8ff227f98c158d42bb132d4643562",
    "title": "Claude partial outage",
-   "summary": "Article URL: https://status.claude.com/incidents/4xvtc2gnq73l\nComments URL: https://news.ycombinator.com/item?id=49893876\nPoints: 152\n# Comments: 112",
+   "summary": "Article URL: https://status.claude.com/incidents/4xvtc2gnq73l\nComments URL: https://news.ycombinator.com/item?id=49893876\nPoints: 162\n# Comments: 131",
    "link": "https://status.claude.com/incidents/4xvtc2gnq73l",
    "source": "Hacker News",
    "category": "资讯",
@@ -42,19 +55,6 @@
    "ts": 1790691815
   },
   {
-   "id": "8ce5b750abaa63181d91ff8d90a56620",
-   "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
-   "summary": "Article URL: https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions\nComments URL: https://news.ycombinator.com/item?i",
-   "link": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 22:15",
-   "ts": 1790691324
-  },
-  {
    "id": "857a6406a12c65f18337d6d9c0224d08",
    "title": "Google ending ChromeOS support two years early",
    "summary": "Article URL: https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674\nComments URL: https://news.ycombinator.c",
@@ -66,32 +66,6 @@
    "urgent": false,
    "fetched_at": "09-29 22:12",
    "ts": 1790691135
-  },
-  {
-   "id": "32a91e8a16ec0740579ec661aea9e7b8",
-   "title": "America.gov – Whatever you need from government, start here",
-   "summary": "Article URL: https://america.gov/\nComments URL: https://news.ycombinator.com/item?id=49893509\nPoints: 62\n# Comments: 48",
-   "link": "https://america.gov/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 22:04",
-   "ts": 1790690697
-  },
-  {
-   "id": "ece6343a8d854592c201119a14ff14ed",
-   "title": "What makes software development engineering",
-   "summary": "Article URL: https://parksb.github.io/en/article/44.html\nComments URL: https://news.ycombinator.com/item?id=49892958\nPoints: 32\n# Comments: 37",
-   "link": "https://parksb.github.io/en/article/44.html",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 21:31",
-   "ts": 1790688691
   },
   {
    "id": "64a9725900301e6dc664060865ee163f",
@@ -108,8 +82,8 @@
   },
   {
    "id": "d58666c30ee9c4e6386f9c4a0cbeb107",
-   "title": "How Delhi Cut Electricity Loss from 50 to 5 Percent",
-   "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 216\n# Comments: 137",
+   "title": "How Delhi cut electricity loss from 50 to 5 percent",
+   "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 260\n# Comments: 153",
    "link": "https://spectrum.ieee.org/delhi-electricity-loss",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +96,7 @@
   {
    "id": "713c05866cceef46a2ee3b1ff54eb219",
    "title": "Without the Hot Air",
-   "summary": "Article URL: https://www.withouthotair.com/\nComments URL: https://news.ycombinator.com/item?id=49892175\nPoints: 70\n# Comments: 38",
+   "summary": "Article URL: https://www.withouthotair.com/\nComments URL: https://news.ycombinator.com/item?id=49892175\nPoints: 76\n# Comments: 40",
    "link": "https://www.withouthotair.com/",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +109,7 @@
   {
    "id": "6f8df7489201cf04b865ea5329ad94e3",
    "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
-   "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622\nComments URL: https://news.ycombinator.com/item?id=49892120\nPoints: 82\n# Comments: 51",
+   "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622\nComments URL: https://news.ycombinator.com/item?id=49892120\nPoints: 101\n# Comments: 66",
    "link": "https://www.cbc.ca/lite/story/9.7361622",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +135,7 @@
   {
    "id": "0bb7d10a3072bfb08824f93878d01b7f",
    "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
-   "summary": "Article URL: https://jevstiller.pages.dev/posts/the-guarantee/\nComments URL: https://news.ycombinator.com/item?id=49891769\nPoints: 17\n# Comments: 3",
+   "summary": "Article URL: https://jevstiller.pages.dev/posts/the-guarantee/\nComments URL: https://news.ycombinator.com/item?id=49891769\nPoints: 25\n# Comments: 3",
    "link": "https://jevstiller.pages.dev/posts/the-guarantee/",
    "source": "Hacker News",
    "category": "资讯",
@@ -170,19 +144,6 @@
    "urgent": false,
    "fetched_at": "09-29 20:05",
    "ts": 1790683507
-  },
-  {
-   "id": "6d79b4751fa07ffd113d705077e1059f",
-   "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
-   "summary": "Article URL: https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microso",
-   "link": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 19:44",
-   "ts": 1790682265
   },
   {
    "id": "9f66406daf75927422bcf2ecd9611f1d",
@@ -199,8 +160,8 @@
   },
   {
    "id": "47a6e9867a9c243ad2a4c0cc65ade88b",
-   "title": "You Are No Longer Invited to Dinner",
-   "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 452\n# Comments: ",
+   "title": "You are no longer invited to dinner",
+   "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 484\n# Comments: ",
    "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +174,7 @@
   {
    "id": "33c7530568395cf88c7383f8ec9f7917",
    "title": "Jeeves. Reasoning improves Jev-like decision models",
-   "summary": "Article URL: https://github.com/PostHog/jeeves\nComments URL: https://news.ycombinator.com/item?id=49891290\nPoints: 152\n# Comments: 64",
+   "summary": "Article URL: https://github.com/PostHog/jeeves\nComments URL: https://news.ycombinator.com/item?id=49891290\nPoints: 167\n# Comments: 69",
    "link": "https://github.com/PostHog/jeeves",
    "source": "Hacker News",
    "category": "资讯",
@@ -250,6 +211,19 @@
    "ts": 1790676651
   },
   {
+   "id": "f2c46f32926ab18dec50772dca558bf3",
+   "title": "Show HN: Raven – The harness of harnesses, built for RSI",
+   "summary": "Article URL: https://github.com/EverMind-AI/Raven\nComments URL: https://news.ycombinator.com/item?id=49890647\nPoints: 46\n# Comments: 37",
+   "link": "https://github.com/EverMind-AI/Raven",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 17:58",
+   "ts": 1790675904
+  },
+  {
    "id": "7c3465e9362746ab844aa85fa2994b04",
    "title": "不易变黑的香蕉准备上市",
    "summary": "切开的香蕉片会在短时间内变成棕褐色。一种利用基因编辑技术修改过的新香蕉品种将能大幅延长香蕉保持新鲜的时间。英国农业生物技术公司 Tropi CEO Gilad Gershon 表示，新香蕉能延缓一到两天变黑，如果冷藏保存则保鲜期还会更长。Tropic 利用 CRISPR-Cas9 基因编辑技术，对香蕉的一个特定基因的所",
@@ -261,6 +235,32 @@
    "urgent": false,
    "fetched_at": "09-29 17:44",
    "ts": 1790675067
+  },
+  {
+   "id": "2f80c9ddbb91434d73bbb2919d601ea6",
+   "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
+   "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf\nComments URL: https://news",
+   "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 17:03",
+   "ts": 1790672621
+  },
+  {
+   "id": "12219c3599a537e2499f9b5d201d2682",
+   "title": "Using any C++ library in Godot",
+   "summary": "Article URL: https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html\nComments URL: https://news.ycombinator.com/item?",
+   "link": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 16:40",
+   "ts": 1790671237
   },
   {
    "id": "d8bba85f52dfc7f13a66cee96c357211",
