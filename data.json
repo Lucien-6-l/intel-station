@@ -1,10 +1,10 @@
 {
- "updated_at": "2026-09-30 04:38",
+ "updated_at": "2026-09-30 05:02",
  "total": 40,
  "items": [
   {
-   "id": "e4f5f72607b08162dc8e019abd6bc786",
-   "title": "USPS shuts down site that sold 5M counterfeit postage labels for $2 each",
+   "id": "dbc017b422e4902a09e10de3d2d37a94",
+   "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
    "summary": "Article URL: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/\nComments ",
    "link": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
    "source": "Hacker News",
@@ -57,7 +57,7 @@
   {
    "id": "7aaf1ff327f033d756e10af4832c3106",
    "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
-   "summary": "Inspired by minGPT for home experiments.Requires CUDA 13.4; build script is Windows only.\n\nComments URL: https://news.ycombinator.com/item?id=49898931\nPoints: 4",
+   "summary": "Inspired by minGPT for home experiments.Requires CUDA 13.4; build script is Windows only.\n\nComments URL: https://news.ycombinator.com/item?id=49898931\nPoints: 8",
    "link": "https://github.com/lostmsu/TurboGPT",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +70,7 @@
   {
    "id": "02e0fbec0fcad3cdc946f761cbc5a5f0",
    "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
-   "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/08/27/258/\nComments URL: https://news.ycombinator.com/item?id=49898877\nPoints: 70\n# Comments: 45",
+   "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/08/27/258/\nComments URL: https://news.ycombinator.com/item?id=49898877\nPoints: 79\n# Comments: 52",
    "link": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +83,7 @@
   {
    "id": "40f3a1cca11936b6f558d4dfba4300ce",
    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 6\n# Comments: 3",
+   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 9\n# Comments: 3",
    "link": "https://space.bl2.net/",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +109,7 @@
   {
    "id": "7911defa076329daab8594e05a72bc2e",
    "title": "Tcl/Tk 9.1 Released",
-   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 155\n# Comments: 45",
+   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 173\n# Comments: 49",
    "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -122,7 +122,7 @@
   {
    "id": "4ed376fa923cb6ff0cfed623c25189c7",
    "title": "Dots: Always-on agents",
-   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 364\n# Comments: 276",
+   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 372\n# Comments: 280",
    "link": "https://openai.com/index/introducing-dots/",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +135,7 @@
   {
    "id": "9eb6cc7a834f6bab610d6a63ab4896f0",
    "title": "DevDay 2026 Recap",
-   "summary": "Article URL: https://openai.com/index/devday-2026-recap/\nComments URL: https://news.ycombinator.com/item?id=49896600\nPoints: 71\n# Comments: 28",
+   "summary": "Article URL: https://openai.com/index/devday-2026-recap/\nComments URL: https://news.ycombinator.com/item?id=49896600\nPoints: 74\n# Comments: 29",
    "link": "https://openai.com/index/devday-2026-recap/",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +148,7 @@
   {
    "id": "9a18ab83b14740d253f390f41a667e0f",
    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 594\n# Comments: 513",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 617\n# Comments: 537",
    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +174,7 @@
   {
    "id": "80234fad7220f8c9d569a6e8ade0c05d",
    "title": "What if Jev spoke Arrow?",
-   "summary": "Article URL: https://columnar.tech/blog/what-if-jev-spoke-arrow/\nComments URL: https://news.ycombinator.com/item?id=49895970\nPoints: 22\n# Comments: 5",
+   "summary": "Article URL: https://columnar.tech/blog/what-if-jev-spoke-arrow/\nComments URL: https://news.ycombinator.com/item?id=49895970\nPoints: 24\n# Comments: 5",
    "link": "https://columnar.tech/blog/what-if-jev-spoke-arrow/",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +187,7 @@
   {
    "id": "f1f1273c241d67c0a4c2a1b0aec6f494",
    "title": "PS5 Relapse Exploit",
-   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 146\n# Comments: 74",
+   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 154\n# Comments: 79",
    "link": "https://github.com/ntfargo/Relapse-Exploit",
    "source": "Hacker News",
    "category": "资讯",
