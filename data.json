@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-09-29 15:37",
+ "updated_at": "2026-09-29 16:05",
  "total": 40,
  "items": [
+  {
+   "id": "a8116bf0ab1d4bb8e4008bfe53c1c863",
+   "title": "OpenAI因新模型太强叫停发布",
+   "summary": "AGI计划暂停。",
+   "link": "https://www.qbitai.com/2026/09/499140.html",
+   "source": "量子位",
+   "category": "发布/大事件",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": true,
+   "fetched_at": "09-29 15:49",
+   "ts": 1790668160
+  },
+  {
+   "id": "41660660fec6c08a4d728a4fd98672b9",
+   "title": "Windows 10 更新 bug 远少于 Windows 11",
+   "summary": "微软每次释出 Windows 11 例行安全更新，都会给 Windows 11 用户带来一系列新问题。9 月份的安全更新带来了远程桌面、USB 音频、Linux/WSL 应用、企业域、文件历史、Explorer.exe 以及 AMD 显卡相关的新故障。微软仍然在支持上一代的操作系统 Windows 10。Windows",
+   "link": "https://www.solidot.org/story?sid=85499",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 15:17",
+   "ts": 1790666274
+  },
+  {
+   "id": "df4d00927ab7ef04781b3b258aa9e000",
+   "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
+   "summary": "诺因从Demo走向家庭",
+   "link": "https://www.qbitai.com/2026/09/499135.html",
+   "source": "量子位",
+   "category": "发布/大事件",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": true,
+   "fetched_at": "09-29 15:10",
+   "ts": 1790665859
+  },
+  {
+   "id": "411f413c3f3fc85104f6a3fb4f5c5e38",
+   "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription",
+   "summary": "Article URL: https://twitter.com/thsottiaux/status/2104823812042940713\nComments URL: https://news.ycombinator.com/item?id=49889306\nPoints: 23\n# Comments: 13",
+   "link": "https://twitter.com/thsottiaux/status/2104823812042940713",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 15:07",
+   "ts": 1790665673
+  },
   {
    "id": "f72a2f98ffd64b670743cd2590d4dd17",
    "title": "US Forces Exit Iraq",
@@ -44,7 +96,7 @@
   {
    "id": "fcbff09cdb11a65b8f5a74a677a256fb",
    "title": "Tank Body Problem",
-   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 77\n# Comments: 17",
+   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 82\n# Comments: 19",
    "link": "http://www.jimsitu.com",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +109,7 @@
   {
    "id": "de9c054c9c90d66b64064db109f3578e",
    "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-   "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 102\n# Comments: 44",
+   "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 106\n# Comments: 44",
    "link": "https://lolchat.rip/",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +135,7 @@
   {
    "id": "11499a36814c40f390ab78aebf4a36d3",
    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 84\n# Comments: 16",
+   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 88\n# Comments: 16",
    "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +148,7 @@
   {
    "id": "99a582242e4c3f69d75b83261ec03c20",
    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 461\n# Comments: 171",
+   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 468\n# Comments: 176",
    "link": "https://github.com/firelex/jeff",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +161,7 @@
   {
    "id": "0eb85d0574d080049e87d82fad8f1853",
    "title": "World Labs Is Joining AMD",
-   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 260\n# Comments: 109",
+   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 265\n# Comments: 110",
    "link": "https://www.worldlabs.ai/blog/amd-announcement",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -148,7 +200,7 @@
   {
    "id": "a76ab3e57ba35580c22eef86ebdfb706",
    "title": "It's Time to Investigate the AI Labs",
-   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 442\n# Comments: 169",
+   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 450\n# Comments: 173",
    "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +213,7 @@
   {
    "id": "0c0b3e739b560d0d55c0b3d37e796650",
    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 216\n# Comments: 79",
+   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 220\n# Comments: 81",
    "link": "https://stateofutopia.com/experiments/microllmlab/",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +226,7 @@
   {
    "id": "b49463c6824ee59e21416eecea01e9f7",
    "title": "Sonnet 5.5",
-   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 736\n# Comments: 494",
+   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 747\n# Comments: 500",
    "link": "https://www.anthropic.com/claude-sonnet-5-5",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +239,7 @@
   {
    "id": "05cfc08cf0c31495d690b2dc5dcd4212",
    "title": "Phyllotaxis: An audio-reactive LED display",
-   "summary": "Article URL: https://jagi.studio/posts/phyllotaxis/\nComments URL: https://news.ycombinator.com/item?id=49880411\nPoints: 98\n# Comments: 10",
+   "summary": "Article URL: https://jagi.studio/posts/phyllotaxis/\nComments URL: https://news.ycombinator.com/item?id=49880411\nPoints: 111\n# Comments: 11",
    "link": "https://jagi.studio/posts/phyllotaxis/",
    "source": "Hacker News",
    "category": "资讯",
@@ -226,7 +278,7 @@
   {
    "id": "bf135649213d0e4c0c1664faf0c8852e",
    "title": "Pirating the Pirates",
-   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 531\n# Comments: 262",
+   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 543\n# Comments: 269",
    "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
    "source": "Hacker News",
    "category": "资讯",
@@ -235,19 +287,6 @@
    "urgent": false,
    "fetched_at": "09-28 23:54",
    "ts": 1790610855
-  },
-  {
-   "id": "b2dc82bc75e2a328bcb6ac9ff6bea9c1",
-   "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-   "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html\nComments URL: https://news.ycombinator.com/item?id=49879883\nPoints: 157\n# Comments: 192",
-   "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
-   "source": "Hacker News",
-   "category": "发布/大事件",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 23:46",
-   "ts": 1790610396
   },
   {
    "id": "2096b3761030665c8b8ef15e6b11c5cc",
@@ -458,19 +497,6 @@
    "ts": 1790504466
   },
   {
-   "id": "492807bb5d88de6f34578ea1546d4c19",
-   "title": "龙芯 CPU 的原子加指令偶尔会丢失",
-   "summary": "今年 2 月 Debian 13 的龙芯架构移植版 loong13 的维护者在编译打包过程中发现，normaliz 的自带测试会死循环导致打包超时。第一次排查发现原子加指令会在特定情况下丢失更新，但原因未知。今年 8 月，开发者在 AI 的帮助下重新寻找 normaliz 中原子加丢失的问题。他们让 AI 去找最小复现",
-   "link": "https://www.solidot.org/story?sid=85484",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-27 17:57",
-   "ts": 1790503036
-  },
-  {
    "id": "58a68790de8f25682f6b430061d2b08f",
    "title": "啥题啊能干崩OpenAI最强模型训练…",
    "summary": "",
@@ -495,32 +521,6 @@
    "urgent": true,
    "fetched_at": "09-26 19:49",
    "ts": 1790423383
-  },
-  {
-   "id": "78f2a34d111aedce8661ed61c54f91c0",
-   "title": "AI开始研究Physical AI：FSD级团队亮出首版模型Simate-beta，空降RoboDojo",
-   "summary": "Simate将训练、推理与评测全流程接入自研Infra，通过极致的任务编排与资源调度，同时并行推进数十条相互独立的研究路线。",
-   "link": "https://www.qbitai.com/2026/09/498271.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "09-26 17:07",
-   "ts": 1790413661
-  },
-  {
-   "id": "e83a397f575d0460c30eae6660751ad7",
-   "title": "笔记本跑7000亿参数GLM！无GPU也行? SSD当显存用火爆GitHub",
-   "summary": "GitHub现在最火热的大模型开源小蜂鸟Colibrì是个啥？",
-   "link": "https://www.qbitai.com/2026/09/497624.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-26 17:01",
-   "ts": 1790413260
   }
  ]
 }
