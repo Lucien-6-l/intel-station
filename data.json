@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-09-29 07:36",
+ "updated_at": "2026-09-29 08:03",
  "total": 40,
  "items": [
   {
    "id": "11499a36814c40f390ab78aebf4a36d3",
    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 3\n# Comments: 0",
+   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 6\n# Comments: 0",
    "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
    "source": "Hacker News",
    "category": "资讯",
@@ -14,6 +14,19 @@
    "urgent": false,
    "fetched_at": "09-29 05:26",
    "ts": 1790630801
+  },
+  {
+   "id": "117ddab89714351aac6ede217b54e43f",
+   "title": "Deutsche Bahn \"joke\" is no longer funny",
+   "summary": "Article URL: https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/\nComments URL: https://news.ycombinator.com/item?id=49884560\nPoints: 9\n# Comments: 3",
+   "link": "https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 05:21",
+   "ts": 1790630510
   },
   {
    "id": "0679b7684695fca59449b64b19169706",
@@ -29,22 +42,9 @@
    "ts": 1790629690
   },
   {
-   "id": "8f313ad5701c2df2e4f4a8d18640c37d",
-   "title": "Pacing the Frontier is not the actual goal for AI labs",
-   "summary": "Article URL: https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs\nComments URL: https://news.ycombinator.com",
-   "link": "https://www.lesswrong.com/posts/Nm4ewbYovtjq69dvH/pacing-the-frontier-is-not-the-actual-goal-for-ai-labs",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 04:47",
-   "ts": 1790628446
-  },
-  {
    "id": "99a582242e4c3f69d75b83261ec03c20",
    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 169\n# Comments: 52",
+   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 196\n# Comments: 62",
    "link": "https://github.com/firelex/jeff",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +57,7 @@
   {
    "id": "f28c318522b85d3abedb24d6f74a1cad",
    "title": "Best of British Design",
-   "summary": "Article URL: https://best-of-british-design.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49883817\nPoints: 50\n# Comments: 26",
+   "summary": "Article URL: https://best-of-british-design.vercel.app/\nComments URL: https://news.ycombinator.com/item?id=49883817\nPoints: 52\n# Comments: 29",
    "link": "https://best-of-british-design.vercel.app/",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +70,7 @@
   {
    "id": "0eb85d0574d080049e87d82fad8f1853",
    "title": "World Labs Is Joining AMD",
-   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 143\n# Comments: 47",
+   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 149\n# Comments: 51",
    "link": "https://www.worldlabs.ai/blog/amd-announcement",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -96,7 +96,7 @@
   {
    "id": "a76ab3e57ba35580c22eef86ebdfb706",
    "title": "It's Time to Investigate the AI Labs",
-   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 188\n# Comments: 58",
+   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 211\n# Comments: 71",
    "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +109,7 @@
   {
    "id": "88ef13710086dd8340dfbe264399894b",
    "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
-   "summary": "Article URL: https://blog.plcred.org/3mwlphq42d227\nComments URL: https://news.ycombinator.com/item?id=49883159\nPoints: 33\n# Comments: 18",
+   "summary": "Article URL: https://blog.plcred.org/3mwlphq42d227\nComments URL: https://news.ycombinator.com/item?id=49883159\nPoints: 35\n# Comments: 19",
    "link": "https://blog.plcred.org/3mwlphq42d227",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +122,7 @@
   {
    "id": "0c0b3e739b560d0d55c0b3d37e796650",
    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 102\n# Comments: 45",
+   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 107\n# Comments: 50",
    "link": "https://stateofutopia.com/experiments/microllmlab/",
    "source": "Hacker News",
    "category": "资讯",
@@ -133,22 +133,9 @@
    "ts": 1790621933
   },
   {
-   "id": "39dcca8a203932b9a0386839abaf9aaa",
-   "title": "GrapheneOS – When an app is slow",
-   "summary": "Article URL: https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html\nComments URL: https://news.ycombinator.com/item?id=49882208\nPoints: 74\n#",
-   "link": "https://blog.wirelessmoves.com/2026/09/grapheneos-when-an-app-is-slow.html",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 02:21",
-   "ts": 1790619691
-  },
-  {
    "id": "b49463c6824ee59e21416eecea01e9f7",
    "title": "Sonnet 5.5",
-   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 515\n# Comments: 346",
+   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 529\n# Comments: 357",
    "link": "https://www.anthropic.com/claude-sonnet-5-5",
    "source": "Hacker News",
    "category": "资讯",
@@ -196,6 +183,19 @@
    "urgent": false,
    "fetched_at": "09-29 01:34",
    "ts": 1790616876
+  },
+  {
+   "id": "84efde901a681ca2659e997df86202d0",
+   "title": "Show HN: Destroy Any Website with Stickman",
+   "summary": "Article URL: https://destroy.spritefusion.com/\nComments URL: https://news.ycombinator.com/item?id=49880601\nPoints: 93\n# Comments: 27",
+   "link": "https://destroy.spritefusion.com/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 00:31",
+   "ts": 1790613088
   },
   {
    "id": "e00fdc8a7905812edd953b146c609f14",
