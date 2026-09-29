@@ -1,7 +1,33 @@
 {
- "updated_at": "2026-09-29 17:39",
+ "updated_at": "2026-09-29 18:03",
  "total": 40,
  "items": [
+  {
+   "id": "7c3465e9362746ab844aa85fa2994b04",
+   "title": "不易变黑的香蕉准备上市",
+   "summary": "切开的香蕉片会在短时间内变成棕褐色。一种利用基因编辑技术修改过的新香蕉品种将能大幅延长香蕉保持新鲜的时间。英国农业生物技术公司 Tropi CEO Gilad Gershon 表示，新香蕉能延缓一到两天变黑，如果冷藏保存则保鲜期还会更长。Tropic 利用 CRISPR-Cas9 基因编辑技术，对香蕉的一个特定基因的所",
+   "link": "https://www.solidot.org/story?sid=85502",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 17:44",
+   "ts": 1790675067
+  },
+  {
+   "id": "1430080957dc70e697c61b2703615637",
+   "title": "AI companies leak data to advertisers [pdf]",
+   "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf\nComments URL: https://news",
+   "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 17:03",
+   "ts": 1790672621
+  },
   {
    "id": "12219c3599a537e2499f9b5d201d2682",
    "title": "Using any C++ library in Godot",
@@ -18,7 +44,7 @@
   {
    "id": "c3e6db1b019027f4b94f679631223f3d",
    "title": "Firebase SDK is CRASHING ALLLL iOS Apps, since today morning",
-   "summary": "Article URL: https://twitter.com/GergelyOrosz/status/2104825886922911981\nComments URL: https://news.ycombinator.com/item?id=49889934\nPoints: 33\n# Comments: 12",
+   "summary": "Article URL: https://twitter.com/GergelyOrosz/status/2104825886922911981\nComments URL: https://news.ycombinator.com/item?id=49889934\nPoints: 55\n# Comments: 29",
    "link": "https://twitter.com/GergelyOrosz/status/2104825886922911981",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +148,7 @@
   {
    "id": "e235c3a86bcf04e0a3d91b1a1092fd69",
    "title": "Uncensored and Offensive Security AI Models Benchmark",
-   "summary": "Article URL: https://github.com/JoasASantos/Offensive-Security-AI-Models\nComments URL: https://news.ycombinator.com/item?id=49888937\nPoints: 14\n# Comments: 4",
+   "summary": "Article URL: https://github.com/JoasASantos/Offensive-Security-AI-Models\nComments URL: https://news.ycombinator.com/item?id=49888937\nPoints: 23\n# Comments: 5",
    "link": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +174,7 @@
   {
    "id": "fcbff09cdb11a65b8f5a74a677a256fb",
    "title": "Tank Body Problem",
-   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 109\n# Comments: 24",
+   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 114\n# Comments: 24",
    "link": "http://www.jimsitu.com",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +187,7 @@
   {
    "id": "de9c054c9c90d66b64064db109f3578e",
    "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-   "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 110\n# Comments: 45",
+   "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 112\n# Comments: 45",
    "link": "https://lolchat.rip/",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +213,7 @@
   {
    "id": "11499a36814c40f390ab78aebf4a36d3",
    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 97\n# Comments: 19",
+   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 100\n# Comments: 20",
    "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +226,7 @@
   {
    "id": "99a582242e4c3f69d75b83261ec03c20",
    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 492\n# Comments: 184",
+   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 498\n# Comments: 188",
    "link": "https://github.com/firelex/jeff",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +239,7 @@
   {
    "id": "0eb85d0574d080049e87d82fad8f1853",
    "title": "World Labs is Joining AMD",
-   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 276\n# Comments: 110",
+   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 278\n# Comments: 110",
    "link": "https://www.worldlabs.ai/blog/amd-announcement",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -252,7 +278,7 @@
   {
    "id": "a76ab3e57ba35580c22eef86ebdfb706",
    "title": "It's Time to Investigate the AI Labs",
-   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 484\n# Comments: 199",
+   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 497\n# Comments: 201",
    "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
    "source": "Hacker News",
    "category": "资讯",
@@ -265,7 +291,7 @@
   {
    "id": "0c0b3e739b560d0d55c0b3d37e796650",
    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 241\n# Comments: 83",
+   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 245\n# Comments: 87",
    "link": "https://stateofutopia.com/experiments/microllmlab/",
    "source": "Hacker News",
    "category": "资讯",
@@ -278,7 +304,7 @@
   {
    "id": "b49463c6824ee59e21416eecea01e9f7",
    "title": "Sonnet 5.5",
-   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 779\n# Comments: 523",
+   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 785\n# Comments: 528",
    "link": "https://www.anthropic.com/claude-sonnet-5-5",
    "source": "Hacker News",
    "category": "资讯",
@@ -287,19 +313,6 @@
    "urgent": false,
    "fetched_at": "09-29 01:58",
    "ts": 1790618291
-  },
-  {
-   "id": "05cfc08cf0c31495d690b2dc5dcd4212",
-   "title": "Phyllotaxis: An audio-reactive LED display",
-   "summary": "Article URL: https://jagi.studio/posts/phyllotaxis/\nComments URL: https://news.ycombinator.com/item?id=49880411\nPoints: 138\n# Comments: 15",
-   "link": "https://jagi.studio/posts/phyllotaxis/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 00:18",
-   "ts": 1790612337
   },
   {
    "id": "e00fdc8a7905812edd953b146c609f14",
@@ -495,19 +508,6 @@
    "urgent": true,
    "fetched_at": "09-27 21:40",
    "ts": 1790516402
-  },
-  {
-   "id": "9327e87504a168726c9e5f8c842bfc68",
-   "title": "Meta 屏蔽了巴西总统的 FB 主页以及竞选广告",
-   "summary": "距离 2026 年 10 月巴西大选不到两周，Meta 本周短暂屏蔽了巴西现任总统卢拉的 FB 主页以及竞选连任广告，在抗议和投诉之后，Meta 恢复了主页，但卢拉的竞选团队认为此举损害了总统的竞选活动。Meta 是在本周三屏蔽了卢拉的主页，未给出任何理由。卢拉竞选团队投诉称，数字环境在政治辩论中发挥着核心作用，限制卢",
-   "link": "https://www.solidot.org/story?sid=85487",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-27 19:13",
-   "ts": 1790507613
   },
   {
    "id": "58a68790de8f25682f6b430061d2b08f",
