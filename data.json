@@ -1,7 +1,46 @@
 {
- "updated_at": "2026-09-30 01:03",
+ "updated_at": "2026-09-30 01:37",
  "total": 40,
  "items": [
+  {
+   "id": "7911defa076329daab8594e05a72bc2e",
+   "title": "Tcl/Tk 9.1 Released",
+   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 3\n# Comments: 0",
+   "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+   "source": "Hacker News",
+   "category": "发布/大事件",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 01:13",
+   "ts": 1790702018
+  },
+  {
+   "id": "ae3560b81bd791f518bd84aa7a16fdac",
+   "title": "Dots",
+   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 91\n# Comments: 41",
+   "link": "https://openai.com/index/introducing-dots/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 01:07",
+   "ts": 1790701677
+  },
+  {
+   "id": "9a18ab83b14740d253f390f41a667e0f",
+   "title": "GPT 6.1 Sol",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 161\n# Comments: 79",
+   "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 01:06",
+   "ts": 1790701605
+  },
   {
    "id": "f82fed61791c1e1dde86dd1f02530641",
    "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
@@ -14,6 +53,32 @@
    "urgent": false,
    "fetched_at": "09-30 00:30",
    "ts": 1790699448
+  },
+  {
+   "id": "fdb79563dcf391deb532dc49acee0290",
+   "title": "八分之一癌症病例由感染引起",
+   "summary": "根据本周发表在《The Lancet Oncology》期刊上的一项研究，全世界八分之一癌症病例由感染引起。研究发现，2024 年感染性病原体相关的新癌症病例有 230 万例，占到了总新癌症病例的 12%。其中幽门螺杆菌会增加胃癌风险，这种病菌导致了 76 万例新癌症病例，数量最多，主要集中在东亚地区。其次是人乳头瘤病",
+   "link": "https://www.solidot.org/story?sid=85507",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 23:25",
+   "ts": 1790695525
+  },
+  {
+   "id": "38921692cd40d5b16bf3f42e227411d6",
+   "title": "银行高管被 Deepfake 语音骗走 1 亿美元",
+   "summary": "意大利最大银行 Intesa Sanpaolo 旗下私人银行业务部门 Fideuram 的总裁 Paolo Molesini 今年 2 月成为一起组合利用 WhatsApp 假信息和 Deepfake 语音的诈骗行动目标，导致逾 1 亿美元被骗走，他本人则在 3 月份辞职。Molesini 首先是收到了看起来是母公司 ",
+   "link": "https://www.solidot.org/story?sid=85506",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 22:57",
+   "ts": 1790693877
   },
   {
    "id": "115e4cf058eb82f7152943a5da45eefb",
@@ -31,7 +96,7 @@
   {
    "id": "d1ee3973af17b95d3d433ce7e51f8535",
    "title": "macOS Golden Gate Is a Buggy Mess",
-   "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/\nComments URL: https://news.ycombinator.com/item?id=49894005\nPoints: 27",
+   "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/\nComments URL: https://news.ycombinator.com/item?id=49894005\nPoints: 31",
    "link": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +135,7 @@
   {
    "id": "d58666c30ee9c4e6386f9c4a0cbeb107",
    "title": "How Delhi cut electricity loss from 50 to 5 percent",
-   "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 286\n# Comments: 163",
+   "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 301\n# Comments: 175",
    "link": "https://spectrum.ieee.org/delhi-electricity-loss",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +148,7 @@
   {
    "id": "713c05866cceef46a2ee3b1ff54eb219",
    "title": "Without the Hot Air",
-   "summary": "Article URL: https://www.withouthotair.com/\nComments URL: https://news.ycombinator.com/item?id=49892175\nPoints: 83\n# Comments: 45",
+   "summary": "Article URL: https://www.withouthotair.com/\nComments URL: https://news.ycombinator.com/item?id=49892175\nPoints: 95\n# Comments: 47",
    "link": "https://www.withouthotair.com/",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +161,7 @@
   {
    "id": "6f8df7489201cf04b865ea5329ad94e3",
    "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
-   "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622\nComments URL: https://news.ycombinator.com/item?id=49892120\nPoints: 122\n# Comments: 79",
+   "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622\nComments URL: https://news.ycombinator.com/item?id=49892120\nPoints: 141\n# Comments: 88",
    "link": "https://www.cbc.ca/lite/story/9.7361622",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +187,7 @@
   {
    "id": "0bb7d10a3072bfb08824f93878d01b7f",
    "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
-   "summary": "Article URL: https://jevstiller.pages.dev/posts/the-guarantee/\nComments URL: https://news.ycombinator.com/item?id=49891769\nPoints: 32\n# Comments: 4",
+   "summary": "Article URL: https://jevstiller.pages.dev/posts/the-guarantee/\nComments URL: https://news.ycombinator.com/item?id=49891769\nPoints: 36\n# Comments: 5",
    "link": "https://jevstiller.pages.dev/posts/the-guarantee/",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +213,7 @@
   {
    "id": "47a6e9867a9c243ad2a4c0cc65ade88b",
    "title": "You are no longer invited to dinner",
-   "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 515\n# Comments: ",
+   "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 546\n# Comments: ",
    "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +226,7 @@
   {
    "id": "33c7530568395cf88c7383f8ec9f7917",
    "title": "Jeeves. Reasoning improves Jev-like decision models",
-   "summary": "Article URL: https://github.com/PostHog/jeeves\nComments URL: https://news.ycombinator.com/item?id=49891290\nPoints: 174\n# Comments: 71",
+   "summary": "Article URL: https://github.com/PostHog/jeeves\nComments URL: https://news.ycombinator.com/item?id=49891290\nPoints: 178\n# Comments: 75",
    "link": "https://github.com/PostHog/jeeves",
    "source": "Hacker News",
    "category": "资讯",
@@ -198,19 +263,6 @@
    "ts": 1790676651
   },
   {
-   "id": "f2c46f32926ab18dec50772dca558bf3",
-   "title": "Show HN: Raven – The harness of harnesses, built for RSI",
-   "summary": "Article URL: https://github.com/EverMind-AI/Raven\nComments URL: https://news.ycombinator.com/item?id=49890647\nPoints: 49\n# Comments: 39",
-   "link": "https://github.com/EverMind-AI/Raven",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 17:58",
-   "ts": 1790675904
-  },
-  {
    "id": "7c3465e9362746ab844aa85fa2994b04",
    "title": "不易变黑的香蕉准备上市",
    "summary": "切开的香蕉片会在短时间内变成棕褐色。一种利用基因编辑技术修改过的新香蕉品种将能大幅延长香蕉保持新鲜的时间。英国农业生物技术公司 Tropi CEO Gilad Gershon 表示，新香蕉能延缓一到两天变黑，如果冷藏保存则保鲜期还会更长。Tropic 利用 CRISPR-Cas9 基因编辑技术，对香蕉的一个特定基因的所",
@@ -235,19 +287,6 @@
    "urgent": false,
    "fetched_at": "09-29 17:03",
    "ts": 1790672621
-  },
-  {
-   "id": "12219c3599a537e2499f9b5d201d2682",
-   "title": "Using any C++ library in Godot",
-   "summary": "Article URL: https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html\nComments URL: https://news.ycombinator.com/item?",
-   "link": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 16:40",
-   "ts": 1790671237
   },
   {
    "id": "d8bba85f52dfc7f13a66cee96c357211",
@@ -354,19 +393,6 @@
    "ts": 1790642970
   },
   {
-   "id": "fcbff09cdb11a65b8f5a74a677a256fb",
-   "title": "Tank Body Problem",
-   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 169\n# Comments: 38",
-   "link": "http://www.jimsitu.com",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 08:41",
-   "ts": 1790642505
-  },
-  {
    "id": "e00fdc8a7905812edd953b146c609f14",
    "title": "Starship 完成首次轨道发射",
    "summary": "SpaceX 于 9 月 28 日 8:15 a.m. EDT 在德州的 Starbase 发射了其重型火箭 Starship，执行第 14 次飞行任务，也是首次轨道发射，将 26 颗 Starlink V3 卫星送到轨道上。这次发射仍然是测试飞行，SpaceX 未尝试回收火箭，上面级 Ship 41 执行了减速点火，",
@@ -456,32 +482,6 @@
    "urgent": false,
    "fetched_at": "09-28 17:52",
    "ts": 1790589136
-  },
-  {
-   "id": "76f8b773c144f6242fc16b679b14e177",
-   "title": "小偷想要偷英伟达芯片结果偷了 20 吨沙子",
-   "summary": "上周小偷在加州 Fremont 偷走了两辆印有英伟达和 PlusAI 公司 logo 的拖车，他们可能以为发了大财，因为英伟达芯片一直在涨价，结果他们发现拖车装载了 20 吨沙子。警方和公司代表证实，两辆拖车属于自动驾驶卡车公司 PlusAI，于上周三深夜在 Fremont 仓库的装卸区被盗。PlusAI 高级营销经理",
-   "link": "https://www.solidot.org/story?sid=85492",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 17:16",
-   "ts": 1790587006
-  },
-  {
-   "id": "2c9b80a96c67e222d2b05ba2696fc7cd",
-   "title": "KDE 和 GNOME 考虑如何处理 AI 生成的贡献",
-   "summary": "众多大型自由软件开源项目近期都在讨论如何处理 AI 生成代码，其中包括了两大桌面环境 KDE 和 GNOME。两位近期没有贡献的 KDE 知名开发者在 KDE 年度 Akademy 大会上发表了 lovable, sovereign, AI-native KDE 的主题演讲，随后开发者 Nate Graham 发起了如",
-   "link": "https://www.solidot.org/story?sid=85491",
-   "source": "Solidot",
-   "category": "发布/大事件",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 17:03",
-   "ts": 1790586236
   },
   {
    "id": "44a5bee1682e48737243e814d607c614",
