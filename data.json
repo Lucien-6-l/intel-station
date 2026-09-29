@@ -1,7 +1,20 @@
 {
- "updated_at": "2026-09-30 00:39",
+ "updated_at": "2026-09-30 01:03",
  "total": 40,
  "items": [
+  {
+   "id": "f82fed61791c1e1dde86dd1f02530641",
+   "title": "DraftKings Is Using AI to Behaviorally Target Chronic Gamblers",
+   "summary": "Article URL: https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising\nComments URL: https://news.ycombinator.co",
+   "link": "https://www.eff.org/deeplinks/2026/09/draftkings-using-ai-supercharge-harms-online-behavioral-advertising",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 00:30",
+   "ts": 1790699448
+  },
   {
    "id": "115e4cf058eb82f7152943a5da45eefb",
    "title": "Show HN: NSL – WSL for Linux",
@@ -18,7 +31,7 @@
   {
    "id": "d1ee3973af17b95d3d433ce7e51f8535",
    "title": "macOS Golden Gate Is a Buggy Mess",
-   "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/\nComments URL: https://news.ycombinator.com/item?id=49894005\nPoints: 24",
+   "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/\nComments URL: https://news.ycombinator.com/item?id=49894005\nPoints: 27",
    "link": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
    "source": "Hacker News",
    "category": "资讯",
@@ -27,32 +40,6 @@
    "urgent": false,
    "fetched_at": "09-29 22:32",
    "ts": 1790692353
-  },
-  {
-   "id": "43b8ff227f98c158d42bb132d4643562",
-   "title": "Claude partial outage",
-   "summary": "Article URL: https://status.claude.com/incidents/4xvtc2gnq73l\nComments URL: https://news.ycombinator.com/item?id=49893876\nPoints: 162\n# Comments: 131",
-   "link": "https://status.claude.com/incidents/4xvtc2gnq73l",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 22:25",
-   "ts": 1790691941
-  },
-  {
-   "id": "0212bd46906b17c1fe38b5d078fe90a2",
-   "title": "Why Doesn't Anyone Want to Fix One of America's Scariest Roads?",
-   "summary": "Article URL: https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads\nComments URL: https://news.ycombinator.c",
-   "link": "https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 22:23",
-   "ts": 1790691815
   },
   {
    "id": "857a6406a12c65f18337d6d9c0224d08",
@@ -83,7 +70,7 @@
   {
    "id": "d58666c30ee9c4e6386f9c4a0cbeb107",
    "title": "How Delhi cut electricity loss from 50 to 5 percent",
-   "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 260\n# Comments: 153",
+   "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 286\n# Comments: 163",
    "link": "https://spectrum.ieee.org/delhi-electricity-loss",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +83,7 @@
   {
    "id": "713c05866cceef46a2ee3b1ff54eb219",
    "title": "Without the Hot Air",
-   "summary": "Article URL: https://www.withouthotair.com/\nComments URL: https://news.ycombinator.com/item?id=49892175\nPoints: 76\n# Comments: 40",
+   "summary": "Article URL: https://www.withouthotair.com/\nComments URL: https://news.ycombinator.com/item?id=49892175\nPoints: 83\n# Comments: 45",
    "link": "https://www.withouthotair.com/",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +96,7 @@
   {
    "id": "6f8df7489201cf04b865ea5329ad94e3",
    "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
-   "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622\nComments URL: https://news.ycombinator.com/item?id=49892120\nPoints: 101\n# Comments: 66",
+   "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622\nComments URL: https://news.ycombinator.com/item?id=49892120\nPoints: 122\n# Comments: 79",
    "link": "https://www.cbc.ca/lite/story/9.7361622",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +122,7 @@
   {
    "id": "0bb7d10a3072bfb08824f93878d01b7f",
    "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
-   "summary": "Article URL: https://jevstiller.pages.dev/posts/the-guarantee/\nComments URL: https://news.ycombinator.com/item?id=49891769\nPoints: 25\n# Comments: 3",
+   "summary": "Article URL: https://jevstiller.pages.dev/posts/the-guarantee/\nComments URL: https://news.ycombinator.com/item?id=49891769\nPoints: 32\n# Comments: 4",
    "link": "https://jevstiller.pages.dev/posts/the-guarantee/",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +148,7 @@
   {
    "id": "47a6e9867a9c243ad2a4c0cc65ade88b",
    "title": "You are no longer invited to dinner",
-   "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 484\n# Comments: ",
+   "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 515\n# Comments: ",
    "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +161,7 @@
   {
    "id": "33c7530568395cf88c7383f8ec9f7917",
    "title": "Jeeves. Reasoning improves Jev-like decision models",
-   "summary": "Article URL: https://github.com/PostHog/jeeves\nComments URL: https://news.ycombinator.com/item?id=49891290\nPoints: 167\n# Comments: 69",
+   "summary": "Article URL: https://github.com/PostHog/jeeves\nComments URL: https://news.ycombinator.com/item?id=49891290\nPoints: 174\n# Comments: 71",
    "link": "https://github.com/PostHog/jeeves",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +200,7 @@
   {
    "id": "f2c46f32926ab18dec50772dca558bf3",
    "title": "Show HN: Raven – The harness of harnesses, built for RSI",
-   "summary": "Article URL: https://github.com/EverMind-AI/Raven\nComments URL: https://news.ycombinator.com/item?id=49890647\nPoints: 46\n# Comments: 37",
+   "summary": "Article URL: https://github.com/EverMind-AI/Raven\nComments URL: https://news.ycombinator.com/item?id=49890647\nPoints: 49\n# Comments: 39",
    "link": "https://github.com/EverMind-AI/Raven",
    "source": "Hacker News",
    "category": "资讯",
@@ -365,6 +352,19 @@
    "urgent": true,
    "fetched_at": "09-29 08:49",
    "ts": 1790642970
+  },
+  {
+   "id": "fcbff09cdb11a65b8f5a74a677a256fb",
+   "title": "Tank Body Problem",
+   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 169\n# Comments: 38",
+   "link": "http://www.jimsitu.com",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 08:41",
+   "ts": 1790642505
   },
   {
    "id": "e00fdc8a7905812edd953b146c609f14",
