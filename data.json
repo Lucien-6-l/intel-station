@@ -1,24 +1,24 @@
 {
- "updated_at": "2026-09-29 08:43",
+ "updated_at": "2026-09-29 09:05",
  "total": 40,
  "items": [
   {
-   "id": "516e8f590e91857ee37bf6efcce7ad49",
-   "title": "Anthropic's IPO prospectus shows AI vision, surging costs",
-   "summary": "Article URL: https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/\nComments URL: https://news.yc",
-   "link": "https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 07:40",
-   "ts": 1790638859
+   "id": "5c5ba971a847433736d0b40768ec96e5",
+   "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
+   "summary": "李飞飞将入职AMD首席科学家",
+   "link": "https://www.qbitai.com/2026/09/499098.html",
+   "source": "量子位",
+   "category": "发布/大事件",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": true,
+   "fetched_at": "09-29 08:49",
+   "ts": 1790642970
   },
   {
    "id": "11499a36814c40f390ab78aebf4a36d3",
    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 9\n# Comments: 0",
+   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 11\n# Comments: 1",
    "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +31,7 @@
   {
    "id": "117ddab89714351aac6ede217b54e43f",
    "title": "Deutsche Bahn \"joke\" is no longer funny",
-   "summary": "Article URL: https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/\nComments URL: https://news.ycombinator.com/item?id=49884560\nPoints: 14\n# Comments: 6",
+   "summary": "Article URL: https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/\nComments URL: https://news.ycombinator.com/item?id=49884560\nPoints: 16\n# Comments: 9",
    "link": "https://jonworth.eu/your-deutsche-bahn-joke-is-no-longer-fu/",
    "source": "Hacker News",
    "category": "资讯",
@@ -44,7 +44,7 @@
   {
    "id": "99a582242e4c3f69d75b83261ec03c20",
    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 228\n# Comments: 77",
+   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 237\n# Comments: 84",
    "link": "https://github.com/firelex/jeff",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +57,7 @@
   {
    "id": "0eb85d0574d080049e87d82fad8f1853",
    "title": "World Labs Is Joining AMD",
-   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 164\n# Comments: 51",
+   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 172\n# Comments: 65",
    "link": "https://www.worldlabs.ai/blog/amd-announcement",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -66,6 +66,19 @@
    "urgent": false,
    "fetched_at": "09-29 04:18",
    "ts": 1790626685
+  },
+  {
+   "id": "5ba1753e4ffd224fe432b992bd8603d9",
+   "title": "California farmers are struggling to sell grapes as demand for wine drops",
+   "summary": "Article URL: https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops\nComments URL: https://news.ycombinator",
+   "link": "https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 04:00",
+   "ts": 1790625606
   },
   {
    "id": "3a530f3c99b8be8f7a292a2f320ceaa2",
@@ -83,7 +96,7 @@
   {
    "id": "a76ab3e57ba35580c22eef86ebdfb706",
    "title": "It's Time to Investigate the AI Labs",
-   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 249\n# Comments: 80",
+   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 260\n# Comments: 86",
    "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +109,7 @@
   {
    "id": "88ef13710086dd8340dfbe264399894b",
    "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
-   "summary": "Article URL: https://blog.plcred.org/3mwlphq42d227\nComments URL: https://news.ycombinator.com/item?id=49883159\nPoints: 39\n# Comments: 19",
+   "summary": "Article URL: https://blog.plcred.org/3mwlphq42d227\nComments URL: https://news.ycombinator.com/item?id=49883159\nPoints: 40\n# Comments: 19",
    "link": "https://blog.plcred.org/3mwlphq42d227",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +122,7 @@
   {
    "id": "0c0b3e739b560d0d55c0b3d37e796650",
    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 114\n# Comments: 56",
+   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 116\n# Comments: 57",
    "link": "https://stateofutopia.com/experiments/microllmlab/",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +135,7 @@
   {
    "id": "b49463c6824ee59e21416eecea01e9f7",
    "title": "Sonnet 5.5",
-   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 544\n# Comments: 375",
+   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 551\n# Comments: 378",
    "link": "https://www.anthropic.com/claude-sonnet-5-5",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +187,7 @@
   {
    "id": "84efde901a681ca2659e997df86202d0",
    "title": "Show HN: Destroy Any Website with Stickman",
-   "summary": "Article URL: https://destroy.spritefusion.com/\nComments URL: https://news.ycombinator.com/item?id=49880601\nPoints: 99\n# Comments: 27",
+   "summary": "Article URL: https://destroy.spritefusion.com/\nComments URL: https://news.ycombinator.com/item?id=49880601\nPoints: 100\n# Comments: 27",
    "link": "https://destroy.spritefusion.com/",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +226,7 @@
   {
    "id": "bf135649213d0e4c0c1664faf0c8852e",
    "title": "Pirating the Pirates",
-   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 396\n# Comments: 206",
+   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 398\n# Comments: 207",
    "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
    "source": "Hacker News",
    "category": "资讯",
@@ -508,19 +521,6 @@
    "urgent": false,
    "fetched_at": "09-26 17:01",
    "ts": 1790413260
-  },
-  {
-   "id": "7b6b40b810eb08984e30a0ae693c14e9",
-   "title": "在云栖大会，我终于看懂了米哈游千亿AI野心",
-   "summary": "大伟哥：如果做不到，一年两年之后过来打我脸",
-   "link": "https://www.qbitai.com/2026/09/497613.html",
-   "source": "量子位",
-   "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-26 15:18",
-   "ts": 1790407085
   }
  ]
 }
