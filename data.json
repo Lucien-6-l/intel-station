@@ -1,11 +1,24 @@
 {
- "updated_at": "2026-09-30 01:37",
+ "updated_at": "2026-09-30 02:04",
  "total": 40,
  "items": [
   {
+   "id": "a2d4947dc04eb8d6c4817b81c625a84d",
+   "title": "ChatGPT Pro 500",
+   "summary": "Article URL: https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers\nComments URL: https://news.ycombinator.com/item?id=49896975\nPoints: 64\n# Commen",
+   "link": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 01:26",
+   "ts": 1790702787
+  },
+  {
    "id": "7911defa076329daab8594e05a72bc2e",
    "title": "Tcl/Tk 9.1 Released",
-   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 3\n# Comments: 0",
+   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 36\n# Comments: 5",
    "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -18,7 +31,7 @@
   {
    "id": "ae3560b81bd791f518bd84aa7a16fdac",
    "title": "Dots",
-   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 91\n# Comments: 41",
+   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 185\n# Comments: 98",
    "link": "https://openai.com/index/introducing-dots/",
    "source": "Hacker News",
    "category": "资讯",
@@ -29,9 +42,22 @@
    "ts": 1790701677
   },
   {
+   "id": "9eb6cc7a834f6bab610d6a63ab4896f0",
+   "title": "DevDay 2026 Recap",
+   "summary": "Article URL: https://openai.com/index/devday-2026-recap/\nComments URL: https://news.ycombinator.com/item?id=49896600\nPoints: 24\n# Comments: 2",
+   "link": "https://openai.com/index/devday-2026-recap/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 01:07",
+   "ts": 1790701665
+  },
+  {
    "id": "9a18ab83b14740d253f390f41a667e0f",
    "title": "GPT 6.1 Sol",
-   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 161\n# Comments: 79",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 287\n# Comments: 197",
    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
    "source": "Hacker News",
    "category": "资讯",
@@ -53,6 +79,19 @@
    "urgent": false,
    "fetched_at": "09-30 00:30",
    "ts": 1790699448
+  },
+  {
+   "id": "7e7b59974ce409814122560d055af324",
+   "title": "New PlayStation 5 Console Jailbreak Released",
+   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 9\n# Comments: 1",
+   "link": "https://github.com/ntfargo/Relapse-Exploit",
+   "source": "Hacker News",
+   "category": "发布/大事件",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 23:44",
+   "ts": 1790696681
   },
   {
    "id": "fdb79563dcf391deb532dc49acee0290",
@@ -96,7 +135,7 @@
   {
    "id": "d1ee3973af17b95d3d433ce7e51f8535",
    "title": "macOS Golden Gate Is a Buggy Mess",
-   "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/\nComments URL: https://news.ycombinator.com/item?id=49894005\nPoints: 31",
+   "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/\nComments URL: https://news.ycombinator.com/item?id=49894005\nPoints: 33",
    "link": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +174,7 @@
   {
    "id": "d58666c30ee9c4e6386f9c4a0cbeb107",
    "title": "How Delhi cut electricity loss from 50 to 5 percent",
-   "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 301\n# Comments: 175",
+   "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 317\n# Comments: 187",
    "link": "https://spectrum.ieee.org/delhi-electricity-loss",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +187,7 @@
   {
    "id": "713c05866cceef46a2ee3b1ff54eb219",
    "title": "Without the Hot Air",
-   "summary": "Article URL: https://www.withouthotair.com/\nComments URL: https://news.ycombinator.com/item?id=49892175\nPoints: 95\n# Comments: 47",
+   "summary": "Article URL: https://www.withouthotair.com/\nComments URL: https://news.ycombinator.com/item?id=49892175\nPoints: 99\n# Comments: 48",
    "link": "https://www.withouthotair.com/",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +200,7 @@
   {
    "id": "6f8df7489201cf04b865ea5329ad94e3",
    "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
-   "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622\nComments URL: https://news.ycombinator.com/item?id=49892120\nPoints: 141\n# Comments: 88",
+   "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622\nComments URL: https://news.ycombinator.com/item?id=49892120\nPoints: 152\n# Comments: 92",
    "link": "https://www.cbc.ca/lite/story/9.7361622",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +226,7 @@
   {
    "id": "0bb7d10a3072bfb08824f93878d01b7f",
    "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
-   "summary": "Article URL: https://jevstiller.pages.dev/posts/the-guarantee/\nComments URL: https://news.ycombinator.com/item?id=49891769\nPoints: 36\n# Comments: 5",
+   "summary": "Article URL: https://jevstiller.pages.dev/posts/the-guarantee/\nComments URL: https://news.ycombinator.com/item?id=49891769\nPoints: 42\n# Comments: 6",
    "link": "https://jevstiller.pages.dev/posts/the-guarantee/",
    "source": "Hacker News",
    "category": "资讯",
@@ -209,32 +248,6 @@
    "urgent": false,
    "fetched_at": "09-29 19:35",
    "ts": 1790681718
-  },
-  {
-   "id": "47a6e9867a9c243ad2a4c0cc65ade88b",
-   "title": "You are no longer invited to dinner",
-   "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 546\n# Comments: ",
-   "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 19:14",
-   "ts": 1790680485
-  },
-  {
-   "id": "33c7530568395cf88c7383f8ec9f7917",
-   "title": "Jeeves. Reasoning improves Jev-like decision models",
-   "summary": "Article URL: https://github.com/PostHog/jeeves\nComments URL: https://news.ycombinator.com/item?id=49891290\nPoints: 178\n# Comments: 75",
-   "link": "https://github.com/PostHog/jeeves",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 19:13",
-   "ts": 1790680434
   },
   {
    "id": "09f55891a08b62901c2d032d090e2c5d",
@@ -274,19 +287,6 @@
    "urgent": false,
    "fetched_at": "09-29 17:44",
    "ts": 1790675067
-  },
-  {
-   "id": "2f80c9ddbb91434d73bbb2919d601ea6",
-   "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-   "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf\nComments URL: https://news",
-   "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 17:03",
-   "ts": 1790672621
   },
   {
    "id": "d8bba85f52dfc7f13a66cee96c357211",
