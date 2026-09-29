@@ -1,7 +1,72 @@
 {
- "updated_at": "2026-09-29 16:39",
+ "updated_at": "2026-09-29 17:04",
  "total": 40,
  "items": [
+  {
+   "id": "12219c3599a537e2499f9b5d201d2682",
+   "title": "Using any C++ library in Godot",
+   "summary": "Article URL: https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html\nComments URL: https://news.ycombinator.com/item?",
+   "link": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 16:40",
+   "ts": 1790671237
+  },
+  {
+   "id": "c3e6db1b019027f4b94f679631223f3d",
+   "title": "Firebase SDK is CRASHING ALLLL iOS Apps, since today morning",
+   "summary": "Article URL: https://twitter.com/GergelyOrosz/status/2104825886922911981\nComments URL: https://news.ycombinator.com/item?id=49889934\nPoints: 19\n# Comments: 3",
+   "link": "https://twitter.com/GergelyOrosz/status/2104825886922911981",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 16:26",
+   "ts": 1790670388
+  },
+  {
+   "id": "d8bba85f52dfc7f13a66cee96c357211",
+   "title": "AMD 以 82 亿美元收购李飞飞的 World Labs",
+   "summary": "AMD 宣布收购李飞飞联合创办的 AI 初创公司 World Labs，交易总额约 82 亿美元，采用全股票形式支付。 World Labs 成立于 2024 年，由李飞飞与 Justin Johnson、Christoph Lassner 和 Ben Mildenhall 等人联合创办，专注于开发世界模型，但目前还没",
+   "link": "https://www.solidot.org/story?sid=85501",
+   "source": "Solidot",
+   "category": "发布/大事件",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 16:19",
+   "ts": 1790669955
+  },
+  {
+   "id": "98ebba78f69ffc4dec14ac4e3fd101d6",
+   "title": "精准揪出RL训练数据Bug，Prompt直出小游戏，IQuest-Q1夯爆了！",
+   "summary": "",
+   "link": "https://www.qbitai.com/2026/09/499188.html",
+   "source": "量子位",
+   "category": "资讯",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-29 15:59",
+   "ts": 1790668786
+  },
+  {
+   "id": "700c86f93919aef0c26d248fd61dd949",
+   "title": "Google 计划到 2034 年停止支持 ChromeOS",
+   "summary": "运行 Android 操作系统的 Googlebooks 新笔电即将上市，那么运行 ChromeOS 的旧设备将何去何从？根据 Google 支持页面“What the Googlebook announcement means for your ChromeOS devices”，搜索巨人声明：它将向 ChromeO",
+   "link": "https://www.solidot.org/story?sid=85500",
+   "source": "Solidot",
+   "category": "发布/大事件",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 15:50",
+   "ts": 1790668212
+  },
   {
    "id": "a8116bf0ab1d4bb8e4008bfe53c1c863",
    "title": "OpenAI因新模型太强叫停发布",
@@ -42,19 +107,6 @@
    "ts": 1790665859
   },
   {
-   "id": "411f413c3f3fc85104f6a3fb4f5c5e38",
-   "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription",
-   "summary": "Article URL: https://twitter.com/thsottiaux/status/2104823812042940713\nComments URL: https://news.ycombinator.com/item?id=49889306\nPoints: 41\n# Comments: 35",
-   "link": "https://twitter.com/thsottiaux/status/2104823812042940713",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 15:07",
-   "ts": 1790665673
-  },
-  {
    "id": "7e4c2d189917ea7b9d983cc214c9fac0",
    "title": "中国冰川大幅减少",
    "summary": "中国冰川主要分布在昆仑山、天山、念青唐古拉山、喜马拉雅山、喀喇昆仑山五大山系，新疆、西藏两地冰川面积与冰储量占全国总量九成左右。第三次中国冰川编目显示，截至 2020 年前后，全国冰川面积约 4.6 万平方公里，冰川共计约 6.9 万条。但对比 1960 年代基准数据，冰川总面积已经减少约 26%，有约 7000 条小",
@@ -70,7 +122,7 @@
   {
    "id": "e235c3a86bcf04e0a3d91b1a1092fd69",
    "title": "Uncensored and Offensive Security AI Models Benchmark",
-   "summary": "Article URL: https://github.com/JoasASantos/Offensive-Security-AI-Models\nComments URL: https://news.ycombinator.com/item?id=49888937\nPoints: 3\n# Comments: 0",
+   "summary": "Article URL: https://github.com/JoasASantos/Offensive-Security-AI-Models\nComments URL: https://news.ycombinator.com/item?id=49888937\nPoints: 10\n# Comments: 0",
    "link": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +148,7 @@
   {
    "id": "fcbff09cdb11a65b8f5a74a677a256fb",
    "title": "Tank Body Problem",
-   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 93\n# Comments: 21",
+   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 101\n# Comments: 22",
    "link": "http://www.jimsitu.com",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +161,7 @@
   {
    "id": "de9c054c9c90d66b64064db109f3578e",
    "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-   "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 106\n# Comments: 44",
+   "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 107\n# Comments: 44",
    "link": "https://lolchat.rip/",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +187,7 @@
   {
    "id": "11499a36814c40f390ab78aebf4a36d3",
    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 90\n# Comments: 18",
+   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 95\n# Comments: 18",
    "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +200,7 @@
   {
    "id": "99a582242e4c3f69d75b83261ec03c20",
    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 478\n# Comments: 179",
+   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 491\n# Comments: 184",
    "link": "https://github.com/firelex/jeff",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +213,7 @@
   {
    "id": "0eb85d0574d080049e87d82fad8f1853",
    "title": "World Labs is Joining AMD",
-   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 269\n# Comments: 110",
+   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 273\n# Comments: 110",
    "link": "https://www.worldlabs.ai/blog/amd-announcement",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -200,7 +252,7 @@
   {
    "id": "a76ab3e57ba35580c22eef86ebdfb706",
    "title": "It's Time to Investigate the AI Labs",
-   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 462\n# Comments: 182",
+   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 471\n# Comments: 192",
    "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +265,7 @@
   {
    "id": "0c0b3e739b560d0d55c0b3d37e796650",
    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 226\n# Comments: 81",
+   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 233\n# Comments: 82",
    "link": "https://stateofutopia.com/experiments/microllmlab/",
    "source": "Hacker News",
    "category": "资讯",
@@ -226,7 +278,7 @@
   {
    "id": "b49463c6824ee59e21416eecea01e9f7",
    "title": "Sonnet 5.5",
-   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 760\n# Comments: 505",
+   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 772\n# Comments: 517",
    "link": "https://www.anthropic.com/claude-sonnet-5-5",
    "source": "Hacker News",
    "category": "资讯",
@@ -239,7 +291,7 @@
   {
    "id": "05cfc08cf0c31495d690b2dc5dcd4212",
    "title": "Phyllotaxis: An audio-reactive LED display",
-   "summary": "Article URL: https://jagi.studio/posts/phyllotaxis/\nComments URL: https://news.ycombinator.com/item?id=49880411\nPoints: 124\n# Comments: 13",
+   "summary": "Article URL: https://jagi.studio/posts/phyllotaxis/\nComments URL: https://news.ycombinator.com/item?id=49880411\nPoints: 134\n# Comments: 14",
    "link": "https://jagi.studio/posts/phyllotaxis/",
    "source": "Hacker News",
    "category": "资讯",
@@ -274,19 +326,6 @@
    "urgent": false,
    "fetched_at": "09-28 23:57",
    "ts": 1790611039
-  },
-  {
-   "id": "bf135649213d0e4c0c1664faf0c8852e",
-   "title": "Pirating the Pirates",
-   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 558\n# Comments: 272",
-   "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 23:54",
-   "ts": 1790610855
   },
   {
    "id": "2096b3761030665c8b8ef15e6b11c5cc",
@@ -471,32 +510,6 @@
    "ts": 1790507613
   },
   {
-   "id": "612c159511530131006f2d92c9220ab0",
-   "title": "Bitget 被盗走价值 3.875 亿美元加密货币",
-   "summary": "Bitget 交易所被盗走价值 3.875 亿美元的加密货币。攻击发生在 9 月 24 日 18:31 UTC。区块链情报公司 Arkham 发表报告称，从 18:58 至 19:16 之间的 18 分钟内，价值 2.28 亿美元的数字资产从 Bitget 钱包中转出。价值 1.53 亿美元的 XRP 从一个被识别为​",
-   "link": "https://www.solidot.org/story?sid=85486",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-27 18:45",
-   "ts": 1790505923
-  },
-  {
-   "id": "fdb971ef28f2946b14c430aee4653425",
-   "title": "科学家研制出至今最精确的原子钟",
-   "summary": "新加坡国立大学研制出至今最精确的原子钟，运行 2600 亿年误差不到 1 秒。新设备是一台光学原子钟，靠镥离子固有而稳定的特性计时。特定频率的光，能把电子送上更高能量的激发态，而这一跃迁频率恒定不变。团队持续观测镥离子的跃迁，把激光锁定在触发跃迁的精确频率上，再以激光振荡作为计时标尺。在最新研究中，团队把镥钟频率测到小",
-   "link": "https://www.solidot.org/story?sid=85485",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-27 18:21",
-   "ts": 1790504466
-  },
-  {
    "id": "58a68790de8f25682f6b430061d2b08f",
    "title": "啥题啊能干崩OpenAI最强模型训练…",
    "summary": "",
@@ -508,19 +521,6 @@
    "urgent": true,
    "fetched_at": "09-27 17:44",
    "ts": 1790502256
-  },
-  {
-   "id": "fc0dd68c0d678f545bd9476683d99407",
-   "title": "索辰科技加码世界模型，与战略投资企业美梦空间联合发布具身模型与物理测评标准",
-   "summary": "“世界模型”开始成为具身智能跨越商业化“奇点”的新叙事。",
-   "link": "https://www.qbitai.com/2026/09/498478.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "09-26 19:49",
-   "ts": 1790423383
   }
  ]
 }
