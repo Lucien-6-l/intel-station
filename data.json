@@ -1,7 +1,20 @@
 {
- "updated_at": "2026-09-29 18:03",
+ "updated_at": "2026-09-29 18:38",
  "total": 40,
  "items": [
+  {
+   "id": "e223b97bed87c52dd2f89cff1a5ca7b8",
+   "title": "New Cyber-OSINT model released",
+   "summary": "Article URL: https://twitter.com/0x0SojalSec/status/2104736980768866439\nComments URL: https://news.ycombinator.com/item?id=49890829\nPoints: 4\n# Comments: 0",
+   "link": "https://twitter.com/0x0SojalSec/status/2104736980768866439",
+   "source": "Hacker News",
+   "category": "发布/大事件",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "09-29 18:23",
+   "ts": 1790677413
+  },
   {
    "id": "7c3465e9362746ab844aa85fa2994b04",
    "title": "不易变黑的香蕉准备上市",
@@ -44,7 +57,7 @@
   {
    "id": "c3e6db1b019027f4b94f679631223f3d",
    "title": "Firebase SDK is CRASHING ALLLL iOS Apps, since today morning",
-   "summary": "Article URL: https://twitter.com/GergelyOrosz/status/2104825886922911981\nComments URL: https://news.ycombinator.com/item?id=49889934\nPoints: 55\n# Comments: 29",
+   "summary": "Article URL: https://twitter.com/GergelyOrosz/status/2104825886922911981\nComments URL: https://news.ycombinator.com/item?id=49889934\nPoints: 81\n# Comments: 42",
    "link": "https://twitter.com/GergelyOrosz/status/2104825886922911981",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +161,7 @@
   {
    "id": "e235c3a86bcf04e0a3d91b1a1092fd69",
    "title": "Uncensored and Offensive Security AI Models Benchmark",
-   "summary": "Article URL: https://github.com/JoasASantos/Offensive-Security-AI-Models\nComments URL: https://news.ycombinator.com/item?id=49888937\nPoints: 23\n# Comments: 5",
+   "summary": "Article URL: https://github.com/JoasASantos/Offensive-Security-AI-Models\nComments URL: https://news.ycombinator.com/item?id=49888937\nPoints: 31\n# Comments: 9",
    "link": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +187,7 @@
   {
    "id": "fcbff09cdb11a65b8f5a74a677a256fb",
    "title": "Tank Body Problem",
-   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 114\n# Comments: 24",
+   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 116\n# Comments: 25",
    "link": "http://www.jimsitu.com",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +226,7 @@
   {
    "id": "11499a36814c40f390ab78aebf4a36d3",
    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 100\n# Comments: 20",
+   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 102\n# Comments: 20",
    "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
    "source": "Hacker News",
    "category": "资讯",
@@ -226,7 +239,7 @@
   {
    "id": "99a582242e4c3f69d75b83261ec03c20",
    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 498\n# Comments: 188",
+   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 498\n# Comments: 190",
    "link": "https://github.com/firelex/jeff",
    "source": "Hacker News",
    "category": "资讯",
@@ -239,7 +252,7 @@
   {
    "id": "0eb85d0574d080049e87d82fad8f1853",
    "title": "World Labs is Joining AMD",
-   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 278\n# Comments: 110",
+   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 280\n# Comments: 111",
    "link": "https://www.worldlabs.ai/blog/amd-announcement",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -278,7 +291,7 @@
   {
    "id": "a76ab3e57ba35580c22eef86ebdfb706",
    "title": "It's Time to Investigate the AI Labs",
-   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 497\n# Comments: 201",
+   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 507\n# Comments: 206",
    "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
    "source": "Hacker News",
    "category": "资讯",
@@ -291,7 +304,7 @@
   {
    "id": "0c0b3e739b560d0d55c0b3d37e796650",
    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 245\n# Comments: 87",
+   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 246\n# Comments: 86",
    "link": "https://stateofutopia.com/experiments/microllmlab/",
    "source": "Hacker News",
    "category": "资讯",
@@ -300,19 +313,6 @@
    "urgent": false,
    "fetched_at": "09-29 02:58",
    "ts": 1790621933
-  },
-  {
-   "id": "b49463c6824ee59e21416eecea01e9f7",
-   "title": "Sonnet 5.5",
-   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 785\n# Comments: 528",
-   "link": "https://www.anthropic.com/claude-sonnet-5-5",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 01:58",
-   "ts": 1790618291
   },
   {
    "id": "e00fdc8a7905812edd953b146c609f14",
