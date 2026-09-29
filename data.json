@@ -1,11 +1,24 @@
 {
- "updated_at": "2026-09-29 23:06",
+ "updated_at": "2026-09-29 23:39",
  "total": 40,
  "items": [
   {
+   "id": "d1ee3973af17b95d3d433ce7e51f8535",
+   "title": "macOS Golden Gate Is a Buggy Mess",
+   "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/\nComments URL: https://news.ycombinator.com/item?id=49894005\nPoints: 87",
+   "link": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 22:32",
+   "ts": 1790692353
+  },
+  {
    "id": "43b8ff227f98c158d42bb132d4643562",
    "title": "Claude partial outage",
-   "summary": "Article URL: https://status.claude.com/incidents/4xvtc2gnq73l\nComments URL: https://news.ycombinator.com/item?id=49893876\nPoints: 62\n# Comments: 28",
+   "summary": "Article URL: https://status.claude.com/incidents/4xvtc2gnq73l\nComments URL: https://news.ycombinator.com/item?id=49893876\nPoints: 112\n# Comments: 77",
    "link": "https://status.claude.com/incidents/4xvtc2gnq73l",
    "source": "Hacker News",
    "category": "资讯",
@@ -14,6 +27,19 @@
    "urgent": false,
    "fetched_at": "09-29 22:25",
    "ts": 1790691941
+  },
+  {
+   "id": "0212bd46906b17c1fe38b5d078fe90a2",
+   "title": "Why Doesn't Anyone Want to Fix One of America's Scariest Roads?",
+   "summary": "Article URL: https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads\nComments URL: https://news.ycombinator.c",
+   "link": "https://www.newyorker.com/magazine/2026/10/05/why-doesnt-anyone-want-to-fix-one-of-americas-scariest-roads",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 22:23",
+   "ts": 1790691815
   },
   {
    "id": "8ce5b750abaa63181d91ff8d90a56620",
@@ -42,22 +68,22 @@
    "ts": 1790691135
   },
   {
-   "id": "780c052217f1aa8c74669e30188b56db",
-   "title": "Where's the \"Intelligence Explosion\"?",
-   "summary": "Article URL: https://www.noahpinion.blog/p/wheres-the-intelligence-explosion\nComments URL: https://news.ycombinator.com/item?id=49893266\nPoints: 9\n# Comments: 1",
-   "link": "https://www.noahpinion.blog/p/wheres-the-intelligence-explosion",
+   "id": "32a91e8a16ec0740579ec661aea9e7b8",
+   "title": "America.gov – Whatever you need from government, start here",
+   "summary": "Article URL: https://america.gov/\nComments URL: https://news.ycombinator.com/item?id=49893509\nPoints: 18\n# Comments: 2",
+   "link": "https://america.gov/",
    "source": "Hacker News",
    "category": "资讯",
    "topic": "科技社区",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "09-29 21:51",
-   "ts": 1790689869
+   "fetched_at": "09-29 22:04",
+   "ts": 1790690697
   },
   {
    "id": "ece6343a8d854592c201119a14ff14ed",
    "title": "What makes software development engineering",
-   "summary": "Article URL: https://parksb.github.io/en/article/44.html\nComments URL: https://news.ycombinator.com/item?id=49892958\nPoints: 13\n# Comments: 16",
+   "summary": "Article URL: https://parksb.github.io/en/article/44.html\nComments URL: https://news.ycombinator.com/item?id=49892958\nPoints: 22\n# Comments: 25",
    "link": "https://parksb.github.io/en/article/44.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +109,7 @@
   {
    "id": "d58666c30ee9c4e6386f9c4a0cbeb107",
    "title": "How Delhi Cut Electricity Loss from 50 to 5 Percent",
-   "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 172\n# Comments: 96",
+   "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 199\n# Comments: 121",
    "link": "https://spectrum.ieee.org/delhi-electricity-loss",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +122,7 @@
   {
    "id": "713c05866cceef46a2ee3b1ff54eb219",
    "title": "Without the Hot Air",
-   "summary": "Article URL: https://www.withouthotair.com/\nComments URL: https://news.ycombinator.com/item?id=49892175\nPoints: 53\n# Comments: 27",
+   "summary": "Article URL: https://www.withouthotair.com/\nComments URL: https://news.ycombinator.com/item?id=49892175\nPoints: 66\n# Comments: 33",
    "link": "https://www.withouthotair.com/",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +135,7 @@
   {
    "id": "6f8df7489201cf04b865ea5329ad94e3",
    "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
-   "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622\nComments URL: https://news.ycombinator.com/item?id=49892120\nPoints: 52\n# Comments: 21",
+   "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622\nComments URL: https://news.ycombinator.com/item?id=49892120\nPoints: 62\n# Comments: 37",
    "link": "https://www.cbc.ca/lite/story/9.7361622",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +161,7 @@
   {
    "id": "0bb7d10a3072bfb08824f93878d01b7f",
    "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
-   "summary": "Article URL: https://jevstiller.pages.dev/posts/the-guarantee/\nComments URL: https://news.ycombinator.com/item?id=49891769\nPoints: 9\n# Comments: 1",
+   "summary": "Article URL: https://jevstiller.pages.dev/posts/the-guarantee/\nComments URL: https://news.ycombinator.com/item?id=49891769\nPoints: 15\n# Comments: 2",
    "link": "https://jevstiller.pages.dev/posts/the-guarantee/",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +200,7 @@
   {
    "id": "47a6e9867a9c243ad2a4c0cc65ade88b",
    "title": "You Are No Longer Invited to Dinner",
-   "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 387\n# Comments: ",
+   "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 427\n# Comments: ",
    "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +213,7 @@
   {
    "id": "33c7530568395cf88c7383f8ec9f7917",
    "title": "Jeeves. Reasoning improves Jev-like decision models",
-   "summary": "Article URL: https://github.com/PostHog/jeeves\nComments URL: https://news.ycombinator.com/item?id=49891290\nPoints: 126\n# Comments: 54",
+   "summary": "Article URL: https://github.com/PostHog/jeeves\nComments URL: https://news.ycombinator.com/item?id=49891290\nPoints: 142\n# Comments: 61",
    "link": "https://github.com/PostHog/jeeves",
    "source": "Hacker News",
    "category": "资讯",
@@ -224,19 +250,6 @@
    "ts": 1790676651
   },
   {
-   "id": "f2c46f32926ab18dec50772dca558bf3",
-   "title": "Show HN: Raven – The harness of harnesses, built for RSI",
-   "summary": "Article URL: https://github.com/EverMind-AI/Raven\nComments URL: https://news.ycombinator.com/item?id=49890647\nPoints: 37\n# Comments: 30",
-   "link": "https://github.com/EverMind-AI/Raven",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 17:58",
-   "ts": 1790675904
-  },
-  {
    "id": "7c3465e9362746ab844aa85fa2994b04",
    "title": "不易变黑的香蕉准备上市",
    "summary": "切开的香蕉片会在短时间内变成棕褐色。一种利用基因编辑技术修改过的新香蕉品种将能大幅延长香蕉保持新鲜的时间。英国农业生物技术公司 Tropi CEO Gilad Gershon 表示，新香蕉能延缓一到两天变黑，如果冷藏保存则保鲜期还会更长。Tropic 利用 CRISPR-Cas9 基因编辑技术，对香蕉的一个特定基因的所",
@@ -248,19 +261,6 @@
    "urgent": false,
    "fetched_at": "09-29 17:44",
    "ts": 1790675067
-  },
-  {
-   "id": "1430080957dc70e697c61b2703615637",
-   "title": "AI companies leak data to advertisers [pdf]",
-   "summary": "Article URL: https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf\nComments URL: https://news",
-   "link": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 17:03",
-   "ts": 1790672621
   },
   {
    "id": "d8bba85f52dfc7f13a66cee96c357211",
