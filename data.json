@@ -1,11 +1,24 @@
 {
- "updated_at": "2026-09-29 18:38",
+ "updated_at": "2026-09-29 19:03",
  "total": 40,
  "items": [
   {
+   "id": "09f55891a08b62901c2d032d090e2c5d",
+   "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
+   "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
+   "link": "https://www.qbitai.com/2026/09/499239.html",
+   "source": "量子位",
+   "category": "发布/大事件",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-29 18:56",
+   "ts": 1790679393
+  },
+  {
    "id": "e223b97bed87c52dd2f89cff1a5ca7b8",
    "title": "New Cyber-OSINT model released",
-   "summary": "Article URL: https://twitter.com/0x0SojalSec/status/2104736980768866439\nComments URL: https://news.ycombinator.com/item?id=49890829\nPoints: 4\n# Comments: 0",
+   "summary": "Article URL: https://twitter.com/0x0SojalSec/status/2104736980768866439\nComments URL: https://news.ycombinator.com/item?id=49890829\nPoints: 9\n# Comments: 2",
    "link": "https://twitter.com/0x0SojalSec/status/2104736980768866439",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -14,6 +27,19 @@
    "urgent": true,
    "fetched_at": "09-29 18:23",
    "ts": 1790677413
+  },
+  {
+   "id": "b862a54bc3f94805a88cf210d853ad0a",
+   "title": "微软告诉非营利组织他们被删除的数据无法恢复",
+   "summary": "微软曾从 2013 年起向全世界的小型非营利组织免费提供 Microsoft 365 Business Premium，但在 2025 年 5 月它宣布将从 2025 年 7 月起停止提供免费授权，转为提供折扣价付费订阅。今年早些时候没有转为付费的账号内相关数据都被删除了。根据一封发送给受影响客户的邮件，微软承认“由于",
+   "link": "https://www.solidot.org/story?sid=85503",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 18:10",
+   "ts": 1790676651
   },
   {
    "id": "7c3465e9362746ab844aa85fa2994b04",
@@ -57,7 +83,7 @@
   {
    "id": "c3e6db1b019027f4b94f679631223f3d",
    "title": "Firebase SDK is CRASHING ALLLL iOS Apps, since today morning",
-   "summary": "Article URL: https://twitter.com/GergelyOrosz/status/2104825886922911981\nComments URL: https://news.ycombinator.com/item?id=49889934\nPoints: 81\n# Comments: 42",
+   "summary": "Article URL: https://twitter.com/GergelyOrosz/status/2104825886922911981\nComments URL: https://news.ycombinator.com/item?id=49889934\nPoints: 89\n# Comments: 48",
    "link": "https://twitter.com/GergelyOrosz/status/2104825886922911981",
    "source": "Hacker News",
    "category": "资讯",
@@ -120,6 +146,19 @@
    "ts": 1790668160
   },
   {
+   "id": "09cb7b1e72ad9f016c65ff821d029efd",
+   "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
+   "summary": "Article URL: https://www.startup-nights.ch/event/\nComments URL: https://news.ycombinator.com/item?id=49889633\nPoints: 4\n# Comments: 1",
+   "link": "https://www.startup-nights.ch/event/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 15:49",
+   "ts": 1790668152
+  },
+  {
    "id": "41660660fec6c08a4d728a4fd98672b9",
    "title": "Windows 10 更新 bug 远少于 Windows 11",
    "summary": "微软每次释出 Windows 11 例行安全更新，都会给 Windows 11 用户带来一系列新问题。9 月份的安全更新带来了远程桌面、USB 音频、Linux/WSL 应用、企业域、文件历史、Explorer.exe 以及 AMD 显卡相关的新故障。微软仍然在支持上一代的操作系统 Windows 10。Windows",
@@ -159,19 +198,6 @@
    "ts": 1790664034
   },
   {
-   "id": "e235c3a86bcf04e0a3d91b1a1092fd69",
-   "title": "Uncensored and Offensive Security AI Models Benchmark",
-   "summary": "Article URL: https://github.com/JoasASantos/Offensive-Security-AI-Models\nComments URL: https://news.ycombinator.com/item?id=49888937\nPoints: 31\n# Comments: 9",
-   "link": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 14:16",
-   "ts": 1790662564
-  },
-  {
    "id": "5c5ba971a847433736d0b40768ec96e5",
    "title": "李飞飞创业公司被苏姿丰550亿收购！世界模型最大交易落地",
    "summary": "李飞飞将入职AMD首席科学家",
@@ -187,7 +213,7 @@
   {
    "id": "fcbff09cdb11a65b8f5a74a677a256fb",
    "title": "Tank Body Problem",
-   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 116\n# Comments: 25",
+   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 117\n# Comments: 26",
    "link": "http://www.jimsitu.com",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +226,7 @@
   {
    "id": "de9c054c9c90d66b64064db109f3578e",
    "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-   "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 112\n# Comments: 45",
+   "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 115\n# Comments: 45",
    "link": "https://lolchat.rip/",
    "source": "Hacker News",
    "category": "资讯",
@@ -211,22 +237,9 @@
    "ts": 1790640408
   },
   {
-   "id": "a9dd3e9bf292214a6e9c4f84d58205cb",
-   "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
-   "summary": "Benchmarks how well Harness+models can create a Pac-Man game from a single prompt:“Create a Pac-Man game in a single HTML page”Each model gets one shot — no fol",
-   "link": "https://jonclegg.github.io/pacman-bakeoff/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 06:43",
-   "ts": 1790635392
-  },
-  {
    "id": "11499a36814c40f390ab78aebf4a36d3",
    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 102\n# Comments: 20",
+   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 103\n# Comments: 21",
    "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
    "source": "Hacker News",
    "category": "资讯",
@@ -239,7 +252,7 @@
   {
    "id": "99a582242e4c3f69d75b83261ec03c20",
    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 498\n# Comments: 190",
+   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 505\n# Comments: 192",
    "link": "https://github.com/firelex/jeff",
    "source": "Hacker News",
    "category": "资讯",
@@ -252,7 +265,7 @@
   {
    "id": "0eb85d0574d080049e87d82fad8f1853",
    "title": "World Labs is Joining AMD",
-   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 280\n# Comments: 111",
+   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 282\n# Comments: 111",
    "link": "https://www.worldlabs.ai/blog/amd-announcement",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -291,7 +304,7 @@
   {
    "id": "a76ab3e57ba35580c22eef86ebdfb706",
    "title": "It's Time to Investigate the AI Labs",
-   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 507\n# Comments: 206",
+   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 517\n# Comments: 211",
    "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
    "source": "Hacker News",
    "category": "资讯",
@@ -304,7 +317,7 @@
   {
    "id": "0c0b3e739b560d0d55c0b3d37e796650",
    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 246\n# Comments: 86",
+   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 249\n# Comments: 86",
    "link": "https://stateofutopia.com/experiments/microllmlab/",
    "source": "Hacker News",
    "category": "资讯",
@@ -313,6 +326,19 @@
    "urgent": false,
    "fetched_at": "09-29 02:58",
    "ts": 1790621933
+  },
+  {
+   "id": "b49463c6824ee59e21416eecea01e9f7",
+   "title": "Sonnet 5.5",
+   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 809\n# Comments: 539",
+   "link": "https://www.anthropic.com/claude-sonnet-5-5",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 01:58",
+   "ts": 1790618291
   },
   {
    "id": "e00fdc8a7905812edd953b146c609f14",
@@ -458,19 +484,6 @@
    "ts": 1790577915
   },
   {
-   "id": "e194c0206eccb151c97688840a7766bf",
-   "title": "玫瑰也可以是蓝色的",
-   "summary": "玫瑰不只是红色的，它也可以是蓝色的。玫瑰缺乏产生蓝色色素所需的基因。日本三得利集团于 1990 年启动了研发蓝色玫瑰的工作。2004 年它通过引入了能产生蓝色色素 delphinidin 的基因，成功培育出能积累蓝色的玫瑰。三得利此后继续研发色泽更蓝的玫瑰的工作。花色并非仅由色素的种类或含量决定，还会因周围的化合物及花",
-   "link": "https://www.solidot.org/story?sid=85488",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 14:03",
-   "ts": 1790575398
-  },
-  {
    "id": "44a5bee1682e48737243e814d607c614",
    "title": "量子AI创业来了一支“清华梦之队”：10亿估值，用量子改造大模型底层",
    "summary": "",
@@ -508,19 +521,6 @@
    "urgent": true,
    "fetched_at": "09-27 21:40",
    "ts": 1790516402
-  },
-  {
-   "id": "58a68790de8f25682f6b430061d2b08f",
-   "title": "啥题啊能干崩OpenAI最强模型训练…",
-   "summary": "",
-   "link": "https://www.qbitai.com/2026/09/498546.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "09-27 17:44",
-   "ts": 1790502256
   }
  ]
 }
