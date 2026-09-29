@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-09-29 22:39",
+ "updated_at": "2026-09-29 23:06",
  "total": 40,
  "items": [
   {
    "id": "43b8ff227f98c158d42bb132d4643562",
    "title": "Claude partial outage",
-   "summary": "Article URL: https://status.claude.com/incidents/4xvtc2gnq73l\nComments URL: https://news.ycombinator.com/item?id=49893876\nPoints: 30\n# Comments: 9",
+   "summary": "Article URL: https://status.claude.com/incidents/4xvtc2gnq73l\nComments URL: https://news.ycombinator.com/item?id=49893876\nPoints: 62\n# Comments: 28",
    "link": "https://status.claude.com/incidents/4xvtc2gnq73l",
    "source": "Hacker News",
    "category": "资讯",
@@ -42,9 +42,22 @@
    "ts": 1790691135
   },
   {
+   "id": "780c052217f1aa8c74669e30188b56db",
+   "title": "Where's the \"Intelligence Explosion\"?",
+   "summary": "Article URL: https://www.noahpinion.blog/p/wheres-the-intelligence-explosion\nComments URL: https://news.ycombinator.com/item?id=49893266\nPoints: 9\n# Comments: 1",
+   "link": "https://www.noahpinion.blog/p/wheres-the-intelligence-explosion",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 21:51",
+   "ts": 1790689869
+  },
+  {
    "id": "ece6343a8d854592c201119a14ff14ed",
    "title": "What makes software development engineering",
-   "summary": "Article URL: https://parksb.github.io/en/article/44.html\nComments URL: https://news.ycombinator.com/item?id=49892958\nPoints: 11\n# Comments: 10",
+   "summary": "Article URL: https://parksb.github.io/en/article/44.html\nComments URL: https://news.ycombinator.com/item?id=49892958\nPoints: 13\n# Comments: 16",
    "link": "https://parksb.github.io/en/article/44.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +83,7 @@
   {
    "id": "d58666c30ee9c4e6386f9c4a0cbeb107",
    "title": "How Delhi Cut Electricity Loss from 50 to 5 Percent",
-   "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 159\n# Comments: 81",
+   "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 172\n# Comments: 96",
    "link": "https://spectrum.ieee.org/delhi-electricity-loss",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +96,7 @@
   {
    "id": "713c05866cceef46a2ee3b1ff54eb219",
    "title": "Without the Hot Air",
-   "summary": "Article URL: https://www.withouthotair.com/\nComments URL: https://news.ycombinator.com/item?id=49892175\nPoints: 45\n# Comments: 27",
+   "summary": "Article URL: https://www.withouthotair.com/\nComments URL: https://news.ycombinator.com/item?id=49892175\nPoints: 53\n# Comments: 27",
    "link": "https://www.withouthotair.com/",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +109,7 @@
   {
    "id": "6f8df7489201cf04b865ea5329ad94e3",
    "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
-   "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622\nComments URL: https://news.ycombinator.com/item?id=49892120\nPoints: 47\n# Comments: 16",
+   "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622\nComments URL: https://news.ycombinator.com/item?id=49892120\nPoints: 52\n# Comments: 21",
    "link": "https://www.cbc.ca/lite/story/9.7361622",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +135,7 @@
   {
    "id": "0bb7d10a3072bfb08824f93878d01b7f",
    "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
-   "summary": "Article URL: https://jevstiller.pages.dev/posts/the-guarantee/\nComments URL: https://news.ycombinator.com/item?id=49891769\nPoints: 6\n# Comments: 1",
+   "summary": "Article URL: https://jevstiller.pages.dev/posts/the-guarantee/\nComments URL: https://news.ycombinator.com/item?id=49891769\nPoints: 9\n# Comments: 1",
    "link": "https://jevstiller.pages.dev/posts/the-guarantee/",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +174,7 @@
   {
    "id": "47a6e9867a9c243ad2a4c0cc65ade88b",
    "title": "You Are No Longer Invited to Dinner",
-   "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 370\n# Comments: ",
+   "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 387\n# Comments: ",
    "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +187,7 @@
   {
    "id": "33c7530568395cf88c7383f8ec9f7917",
    "title": "Jeeves. Reasoning improves Jev-like decision models",
-   "summary": "Article URL: https://github.com/PostHog/jeeves\nComments URL: https://news.ycombinator.com/item?id=49891290\nPoints: 121\n# Comments: 50",
+   "summary": "Article URL: https://github.com/PostHog/jeeves\nComments URL: https://news.ycombinator.com/item?id=49891290\nPoints: 126\n# Comments: 54",
    "link": "https://github.com/PostHog/jeeves",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +226,7 @@
   {
    "id": "f2c46f32926ab18dec50772dca558bf3",
    "title": "Show HN: Raven – The harness of harnesses, built for RSI",
-   "summary": "Article URL: https://github.com/EverMind-AI/Raven\nComments URL: https://news.ycombinator.com/item?id=49890647\nPoints: 33\n# Comments: 24",
+   "summary": "Article URL: https://github.com/EverMind-AI/Raven\nComments URL: https://news.ycombinator.com/item?id=49890647\nPoints: 37\n# Comments: 30",
    "link": "https://github.com/EverMind-AI/Raven",
    "source": "Hacker News",
    "category": "资讯",
@@ -248,19 +261,6 @@
    "urgent": false,
    "fetched_at": "09-29 17:03",
    "ts": 1790672621
-  },
-  {
-   "id": "12219c3599a537e2499f9b5d201d2682",
-   "title": "Using any C++ library in Godot",
-   "summary": "Article URL: https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html\nComments URL: https://news.ycombinator.com/item?",
-   "link": "https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 16:40",
-   "ts": 1790671237
   },
   {
    "id": "d8bba85f52dfc7f13a66cee96c357211",
