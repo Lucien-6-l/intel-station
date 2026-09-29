@@ -1,11 +1,37 @@
 {
- "updated_at": "2026-09-30 07:02",
+ "updated_at": "2026-09-30 07:34",
  "total": 40,
  "items": [
   {
+   "id": "4118d8edffa62932ea086f0108aa4722",
+   "title": "How our vibe coded website looks like a designer made it",
+   "summary": "Article URL: https://railcode.dev/blog/vibe-coded-website\nComments URL: https://news.ycombinator.com/item?id=49901973\nPoints: 13\n# Comments: 13",
+   "link": "https://railcode.dev/blog/vibe-coded-website",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 06:59",
+   "ts": 1790722768
+  },
+  {
+   "id": "4621e9088030f6676e293a26a8895340",
+   "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 38\n# Comments: 9",
+   "link": "https://github.com/ninjahawk/livenerf",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 06:36",
+   "ts": 1790721374
+  },
+  {
    "id": "310ff059dbf920bcb7144186d60eb73f",
    "title": "UnoDOS",
-   "summary": "Article URL: https://github.com/hmofet/unodos\nComments URL: https://news.ycombinator.com/item?id=49901437\nPoints: 3\n# Comments: 0",
+   "summary": "Article URL: https://github.com/hmofet/unodos\nComments URL: https://news.ycombinator.com/item?id=49901437\nPoints: 8\n# Comments: 2",
    "link": "https://github.com/hmofet/unodos",
    "source": "Hacker News",
    "category": "资讯",
@@ -14,6 +40,19 @@
    "urgent": false,
    "fetched_at": "09-30 06:10",
    "ts": 1790719823
+  },
+  {
+   "id": "7290a342d0cd302557bc31084e62ea44",
+   "title": "Deser: Rethinking Rust Serialization",
+   "summary": "Article URL: https://lucumr.pocoo.org/2026/9/29/deser/\nComments URL: https://news.ycombinator.com/item?id=49901149\nPoints: 8\n# Comments: 2",
+   "link": "https://lucumr.pocoo.org/2026/9/29/deser/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 05:48",
+   "ts": 1790718507
   },
   {
    "id": "dbc017b422e4902a09e10de3d2d37a94",
@@ -29,22 +68,9 @@
    "ts": 1790710217
   },
   {
-   "id": "c235f5981502d6525e3cd6a2c2f105ac",
-   "title": "Galaxy Game",
-   "summary": "Article URL: https://icm.museum/blog/?p=698\nComments URL: https://news.ycombinator.com/item?id=49899004\nPoints: 12\n# Comments: 1",
-   "link": "https://icm.museum/blog/?p=698",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 03:24",
-   "ts": 1790709867
-  },
-  {
    "id": "7aaf1ff327f033d756e10af4832c3106",
    "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
-   "summary": "Inspired by minGPT for home experiments.Requires CUDA 13.4; build script is Windows only.\n\nComments URL: https://news.ycombinator.com/item?id=49898931\nPoints: 3",
+   "summary": "Inspired by minGPT for home experiments.Requires CUDA 13.4; build script is Windows only.\n\nComments URL: https://news.ycombinator.com/item?id=49898931\nPoints: 4",
    "link": "https://github.com/lostmsu/TurboGPT",
    "source": "Hacker News",
    "category": "资讯",
@@ -55,22 +81,9 @@
    "ts": 1790709602
   },
   {
-   "id": "02e0fbec0fcad3cdc946f761cbc5a5f0",
-   "title": "Nicholas Polson has authored 258 academic papers in 2026 so far",
-   "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/08/27/258/\nComments URL: https://news.ycombinator.com/item?id=49898877\nPoints: 124\n# Comments: 86",
-   "link": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 03:15",
-   "ts": 1790709358
-  },
-  {
    "id": "40f3a1cca11936b6f558d4dfba4300ce",
    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 51\n# Comments: 21",
+   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 69\n# Comments: 22",
    "link": "https://space.bl2.net/",
    "source": "Hacker News",
    "category": "资讯",
@@ -81,22 +94,35 @@
    "ts": 1790708881
   },
   {
-   "id": "a2d4947dc04eb8d6c4817b81c625a84d",
-   "title": "ChatGPT Pro 500",
-   "summary": "Article URL: https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers\nComments URL: https://news.ycombinator.com/item?id=49896975\nPoints: 178\n# Comme",
-   "link": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
+   "id": "a8c223138714037474611ccc16cdc7d0",
+   "title": "Vermont replacing power plants with home batteries",
+   "summary": "Article URL: https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms\nComments URL: http",
+   "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
    "source": "Hacker News",
    "category": "资讯",
    "topic": "科技社区",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "09-30 01:26",
-   "ts": 1790702787
+   "fetched_at": "09-30 02:19",
+   "ts": 1790705942
+  },
+  {
+   "id": "f805f94dfb2d73cd0006cbb9ca4761cf",
+   "title": "Show HN: A working 3D model of an Enigma machine",
+   "summary": "I watched the excellent Veritasium video [1] on the Enigma machine, and watched the full animation by Jared Owen [2], but was still a bit confused on how the in",
+   "link": "https://enigma.design",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 01:15",
+   "ts": 1790702156
   },
   {
    "id": "7911defa076329daab8594e05a72bc2e",
    "title": "Tcl/Tk 9.1",
-   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 225\n# Comments: 74",
+   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 228\n# Comments: 77",
    "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +135,7 @@
   {
    "id": "4ed376fa923cb6ff0cfed623c25189c7",
    "title": "Dots: Always-on agents",
-   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 425\n# Comments: 327",
+   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 435\n# Comments: 332",
    "link": "https://openai.com/index/introducing-dots/",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +148,7 @@
   {
    "id": "9a18ab83b14740d253f390f41a667e0f",
    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 716\n# Comments: 643",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 733\n# Comments: 670",
    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
    "source": "Hacker News",
    "category": "资讯",
@@ -133,22 +159,22 @@
    "ts": 1790701605
   },
   {
-   "id": "80234fad7220f8c9d569a6e8ade0c05d",
-   "title": "What if Jev spoke Arrow?",
-   "summary": "Article URL: https://columnar.tech/blog/what-if-jev-spoke-arrow/\nComments URL: https://news.ycombinator.com/item?id=49895970\nPoints: 31\n# Comments: 5",
-   "link": "https://columnar.tech/blog/what-if-jev-spoke-arrow/",
+   "id": "6d36669c8eeb280645da82be3b0c225a",
+   "title": "Needed 1+1, built a functional programming language",
+   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 3\n# Comments: 0",
+   "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
    "source": "Hacker News",
    "category": "资讯",
    "topic": "科技社区",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "09-30 00:25",
-   "ts": 1790699109
+   "fetched_at": "09-30 00:18",
+   "ts": 1790698706
   },
   {
    "id": "f1f1273c241d67c0a4c2a1b0aec6f494",
    "title": "PS5 Relapse Exploit",
-   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 197\n# Comments: 101",
+   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 210\n# Comments: 110",
    "link": "https://github.com/ntfargo/Relapse-Exploit",
    "source": "Hacker News",
    "category": "资讯",
@@ -196,32 +222,6 @@
    "urgent": false,
    "fetched_at": "09-29 22:51",
    "ts": 1790693496
-  },
-  {
-   "id": "32a91e8a16ec0740579ec661aea9e7b8",
-   "title": "America.gov",
-   "summary": "Article URL: https://america.gov/\nComments URL: https://news.ycombinator.com/item?id=49893509\nPoints: 226\n# Comments: 188",
-   "link": "https://america.gov/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 22:04",
-   "ts": 1790690697
-  },
-  {
-   "id": "57af9537fbc809cf86126f7300208a2b",
-   "title": "Ask HN: What are you reading?",
-   "summary": "I'm plowing through the Dungeon Crawler Carl series, which is not particularly challenging as sci-fi/LitRPG goes, but entertaining enough.  I'm also wrapping up",
-   "link": "https://news.ycombinator.com/item?id=49893157",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 21:44",
-   "ts": 1790689483
   },
   {
    "id": "64a9725900301e6dc664060865ee163f",
