@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-29 19:03",
+ "updated_at": "2026-09-29 19:36",
  "total": 40,
  "items": [
   {
@@ -18,7 +18,7 @@
   {
    "id": "e223b97bed87c52dd2f89cff1a5ca7b8",
    "title": "New Cyber-OSINT model released",
-   "summary": "Article URL: https://twitter.com/0x0SojalSec/status/2104736980768866439\nComments URL: https://news.ycombinator.com/item?id=49890829\nPoints: 9\n# Comments: 2",
+   "summary": "Article URL: https://twitter.com/0x0SojalSec/status/2104736980768866439\nComments URL: https://news.ycombinator.com/item?id=49890829\nPoints: 14\n# Comments: 3",
    "link": "https://twitter.com/0x0SojalSec/status/2104736980768866439",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -81,19 +81,6 @@
    "ts": 1790671237
   },
   {
-   "id": "c3e6db1b019027f4b94f679631223f3d",
-   "title": "Firebase SDK is CRASHING ALLLL iOS Apps, since today morning",
-   "summary": "Article URL: https://twitter.com/GergelyOrosz/status/2104825886922911981\nComments URL: https://news.ycombinator.com/item?id=49889934\nPoints: 89\n# Comments: 48",
-   "link": "https://twitter.com/GergelyOrosz/status/2104825886922911981",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 16:26",
-   "ts": 1790670388
-  },
-  {
    "id": "d8bba85f52dfc7f13a66cee96c357211",
    "title": "AMD 以 82 亿美元收购李飞飞的 World Labs",
    "summary": "AMD 宣布收购李飞飞联合创办的 AI 初创公司 World Labs，交易总额约 82 亿美元，采用全股票形式支付。 World Labs 成立于 2024 年，由李飞飞与 Justin Johnson、Christoph Lassner 和 Ben Mildenhall 等人联合创办，专注于开发世界模型，但目前还没",
@@ -148,7 +135,7 @@
   {
    "id": "09cb7b1e72ad9f016c65ff821d029efd",
    "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
-   "summary": "Article URL: https://www.startup-nights.ch/event/\nComments URL: https://news.ycombinator.com/item?id=49889633\nPoints: 4\n# Comments: 1",
+   "summary": "Article URL: https://www.startup-nights.ch/event/\nComments URL: https://news.ycombinator.com/item?id=49889633\nPoints: 12\n# Comments: 3",
    "link": "https://www.startup-nights.ch/event/",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +200,7 @@
   {
    "id": "fcbff09cdb11a65b8f5a74a677a256fb",
    "title": "Tank Body Problem",
-   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 117\n# Comments: 26",
+   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 122\n# Comments: 27",
    "link": "http://www.jimsitu.com",
    "source": "Hacker News",
    "category": "资讯",
@@ -226,7 +213,7 @@
   {
    "id": "de9c054c9c90d66b64064db109f3578e",
    "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-   "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 115\n# Comments: 45",
+   "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 116\n# Comments: 46",
    "link": "https://lolchat.rip/",
    "source": "Hacker News",
    "category": "资讯",
@@ -239,7 +226,7 @@
   {
    "id": "11499a36814c40f390ab78aebf4a36d3",
    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 103\n# Comments: 21",
+   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 108\n# Comments: 23",
    "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
    "source": "Hacker News",
    "category": "资讯",
@@ -252,7 +239,7 @@
   {
    "id": "99a582242e4c3f69d75b83261ec03c20",
    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 505\n# Comments: 192",
+   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 513\n# Comments: 196",
    "link": "https://github.com/firelex/jeff",
    "source": "Hacker News",
    "category": "资讯",
@@ -265,7 +252,7 @@
   {
    "id": "0eb85d0574d080049e87d82fad8f1853",
    "title": "World Labs is Joining AMD",
-   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 282\n# Comments: 111",
+   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 283\n# Comments: 111",
    "link": "https://www.worldlabs.ai/blog/amd-announcement",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -304,7 +291,7 @@
   {
    "id": "a76ab3e57ba35580c22eef86ebdfb706",
    "title": "It's Time to Investigate the AI Labs",
-   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 517\n# Comments: 211",
+   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 526\n# Comments: 217",
    "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
    "source": "Hacker News",
    "category": "资讯",
@@ -317,7 +304,7 @@
   {
    "id": "0c0b3e739b560d0d55c0b3d37e796650",
    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 249\n# Comments: 86",
+   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 251\n# Comments: 87",
    "link": "https://stateofutopia.com/experiments/microllmlab/",
    "source": "Hacker News",
    "category": "资讯",
@@ -330,7 +317,7 @@
   {
    "id": "b49463c6824ee59e21416eecea01e9f7",
    "title": "Sonnet 5.5",
-   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 809\n# Comments: 539",
+   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 818\n# Comments: 551",
    "link": "https://www.anthropic.com/claude-sonnet-5-5",
    "source": "Hacker News",
    "category": "资讯",
@@ -339,6 +326,19 @@
    "urgent": false,
    "fetched_at": "09-29 01:58",
    "ts": 1790618291
+  },
+  {
+   "id": "05cfc08cf0c31495d690b2dc5dcd4212",
+   "title": "Phyllotaxis: An audio-reactive LED display",
+   "summary": "Article URL: https://jagi.studio/posts/phyllotaxis/\nComments URL: https://news.ycombinator.com/item?id=49880411\nPoints: 159\n# Comments: 19",
+   "link": "https://jagi.studio/posts/phyllotaxis/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 00:18",
+   "ts": 1790612337
   },
   {
    "id": "e00fdc8a7905812edd953b146c609f14",
