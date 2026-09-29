@@ -1,7 +1,20 @@
 {
- "updated_at": "2026-09-30 02:41",
+ "updated_at": "2026-09-30 03:04",
  "total": 40,
  "items": [
+  {
+   "id": "bea9d887fb0c2e6fa13619b3807fc603",
+   "title": "Electrification efficiency: The world will need less energy after the transition",
+   "summary": "Article URL: https://hannahritchie.substack.com/p/electrification-energy-efficiency\nComments URL: https://news.ycombinator.com/item?id=49898301\nPoints: 4\n# Comm",
+   "link": "https://hannahritchie.substack.com/p/electrification-energy-efficiency",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 02:39",
+   "ts": 1790707163
+  },
   {
    "id": "6b1c98fa55f3777d7667d3d1c85c43c7",
    "title": "The End of a Fair Price: Dynamic Pricing and the Normalization of Gouging",
@@ -18,7 +31,7 @@
   {
    "id": "a2d4947dc04eb8d6c4817b81c625a84d",
    "title": "ChatGPT Pro 500",
-   "summary": "Article URL: https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers\nComments URL: https://news.ycombinator.com/item?id=49896975\nPoints: 106\n# Comme",
+   "summary": "Article URL: https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers\nComments URL: https://news.ycombinator.com/item?id=49896975\nPoints: 125\n# Comme",
    "link": "https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +44,7 @@
   {
    "id": "7911defa076329daab8594e05a72bc2e",
    "title": "Tcl/Tk 9.1 Released",
-   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 62\n# Comments: 13",
+   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 89\n# Comments: 19",
    "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -44,7 +57,7 @@
   {
    "id": "4ed376fa923cb6ff0cfed623c25189c7",
    "title": "Dots: Always-on agents",
-   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 267\n# Comments: 157",
+   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 301\n# Comments: 199",
    "link": "https://openai.com/index/introducing-dots/",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +70,7 @@
   {
    "id": "9eb6cc7a834f6bab610d6a63ab4896f0",
    "title": "DevDay 2026 Recap",
-   "summary": "Article URL: https://openai.com/index/devday-2026-recap/\nComments URL: https://news.ycombinator.com/item?id=49896600\nPoints: 43\n# Comments: 10",
+   "summary": "Article URL: https://openai.com/index/devday-2026-recap/\nComments URL: https://news.ycombinator.com/item?id=49896600\nPoints: 52\n# Comments: 15",
    "link": "https://openai.com/index/devday-2026-recap/",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +83,7 @@
   {
    "id": "9a18ab83b14740d253f390f41a667e0f",
    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 361\n# Comments: 295",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 440\n# Comments: 343",
    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
    "source": "Hacker News",
    "category": "资讯",
@@ -94,9 +107,22 @@
    "ts": 1790699448
   },
   {
+   "id": "80234fad7220f8c9d569a6e8ade0c05d",
+   "title": "What if Jev spoke Arrow?",
+   "summary": "Article URL: https://columnar.tech/blog/what-if-jev-spoke-arrow/\nComments URL: https://news.ycombinator.com/item?id=49895970\nPoints: 7\n# Comments: 1",
+   "link": "https://columnar.tech/blog/what-if-jev-spoke-arrow/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 00:25",
+   "ts": 1790699109
+  },
+  {
    "id": "7e7b59974ce409814122560d055af324",
    "title": "New PlayStation 5 Console Jailbreak Released",
-   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 47\n# Comments: 13",
+   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 80\n# Comments: 32",
    "link": "https://github.com/ntfargo/Relapse-Exploit",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -133,22 +159,9 @@
    "ts": 1790693877
   },
   {
-   "id": "115e4cf058eb82f7152943a5da45eefb",
-   "title": "Show HN: NSL – WSL for Linux",
-   "summary": "One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distr",
-   "link": "https://frostyard.github.io/nsl/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 22:51",
-   "ts": 1790693496
-  },
-  {
    "id": "d1ee3973af17b95d3d433ce7e51f8535",
    "title": "macOS Golden Gate Is a Buggy Mess",
-   "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/\nComments URL: https://news.ycombinator.com/item?id=49894005\nPoints: 35",
+   "summary": "Article URL: https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/\nComments URL: https://news.ycombinator.com/item?id=49894005\nPoints: 37",
    "link": "https://www.squareorbits.com/blog/2026/09/macos-golden-gate-is-a-buggy-mess/",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +200,7 @@
   {
    "id": "d58666c30ee9c4e6386f9c4a0cbeb107",
    "title": "How Delhi cut electricity loss from 50 to 5 percent",
-   "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 338\n# Comments: 190",
+   "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 348\n# Comments: 197",
    "link": "https://spectrum.ieee.org/delhi-electricity-loss",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +213,7 @@
   {
    "id": "713c05866cceef46a2ee3b1ff54eb219",
    "title": "Without the Hot Air",
-   "summary": "Article URL: https://www.withouthotair.com/\nComments URL: https://news.ycombinator.com/item?id=49892175\nPoints: 105\n# Comments: 50",
+   "summary": "Article URL: https://www.withouthotair.com/\nComments URL: https://news.ycombinator.com/item?id=49892175\nPoints: 106\n# Comments: 55",
    "link": "https://www.withouthotair.com/",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +226,7 @@
   {
    "id": "6f8df7489201cf04b865ea5329ad94e3",
    "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
-   "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622\nComments URL: https://news.ycombinator.com/item?id=49892120\nPoints: 165\n# Comments: 96",
+   "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622\nComments URL: https://news.ycombinator.com/item?id=49892120\nPoints: 175\n# Comments: 102",
    "link": "https://www.cbc.ca/lite/story/9.7361622",
    "source": "Hacker News",
    "category": "资讯",
@@ -235,19 +248,6 @@
    "urgent": false,
    "fetched_at": "09-29 20:10",
    "ts": 1790683842
-  },
-  {
-   "id": "0bb7d10a3072bfb08824f93878d01b7f",
-   "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
-   "summary": "Article URL: https://jevstiller.pages.dev/posts/the-guarantee/\nComments URL: https://news.ycombinator.com/item?id=49891769\nPoints: 45\n# Comments: 6",
-   "link": "https://jevstiller.pages.dev/posts/the-guarantee/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 20:05",
-   "ts": 1790683507
   },
   {
    "id": "09f55891a08b62901c2d032d090e2c5d",
