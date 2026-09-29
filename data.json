@@ -1,7 +1,20 @@
 {
- "updated_at": "2026-09-29 20:04",
+ "updated_at": "2026-09-29 20:44",
  "total": 40,
  "items": [
+  {
+   "id": "6d79b4751fa07ffd113d705077e1059f",
+   "title": "US sanctions force The Netherlands off Microsoft and toward alternative NixOS",
+   "summary": "Article URL: https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microso",
+   "link": "https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 19:44",
+   "ts": 1790682265
+  },
   {
    "id": "9f66406daf75927422bcf2ecd9611f1d",
    "title": "500k facial scans at UK stations yield no arrests, 1 false positive",
@@ -18,7 +31,7 @@
   {
    "id": "47a6e9867a9c243ad2a4c0cc65ade88b",
    "title": "You Are No Longer Invited to Dinner",
-   "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 22\n# Comments: 2",
+   "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 131\n# Comments: ",
    "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +44,7 @@
   {
    "id": "33c7530568395cf88c7383f8ec9f7917",
    "title": "Jeeves. Reasoning improves Jev-like decision models",
-   "summary": "Article URL: https://github.com/PostHog/jeeves\nComments URL: https://news.ycombinator.com/item?id=49891290\nPoints: 26\n# Comments: 3",
+   "summary": "Article URL: https://github.com/PostHog/jeeves\nComments URL: https://news.ycombinator.com/item?id=49891290\nPoints: 53\n# Comments: 13",
    "link": "https://github.com/PostHog/jeeves",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +70,7 @@
   {
    "id": "e223b97bed87c52dd2f89cff1a5ca7b8",
    "title": "New Cyber-OSINT model released",
-   "summary": "Article URL: https://twitter.com/0x0SojalSec/status/2104736980768866439\nComments URL: https://news.ycombinator.com/item?id=49890829\nPoints: 14\n# Comments: 5",
+   "summary": "Article URL: https://twitter.com/0x0SojalSec/status/2104736980768866439\nComments URL: https://news.ycombinator.com/item?id=49890829\nPoints: 25\n# Comments: 6",
    "link": "https://twitter.com/0x0SojalSec/status/2104736980768866439",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -79,6 +92,19 @@
    "urgent": false,
    "fetched_at": "09-29 18:10",
    "ts": 1790676651
+  },
+  {
+   "id": "f2c46f32926ab18dec50772dca558bf3",
+   "title": "Show HN: Raven – The harness of harnesses, built for RSI",
+   "summary": "Article URL: https://github.com/EverMind-AI/Raven\nComments URL: https://news.ycombinator.com/item?id=49890647\nPoints: 9\n# Comments: 0",
+   "link": "https://github.com/EverMind-AI/Raven",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 17:58",
+   "ts": 1790675904
   },
   {
    "id": "7c3465e9362746ab844aa85fa2994b04",
@@ -105,6 +131,19 @@
    "urgent": false,
    "fetched_at": "09-29 17:03",
    "ts": 1790672621
+  },
+  {
+   "id": "8e7eed095363ed973c26ed05b92a2a37",
+   "title": "Evan Doorbell's Phone Tapes – Brought to You by Telephone World",
+   "summary": "Article URL: https://evan-doorbell.com/\nComments URL: https://news.ycombinator.com/item?id=49890054\nPoints: 9\n# Comments: 0",
+   "link": "https://evan-doorbell.com/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 16:40",
+   "ts": 1790671253
   },
   {
    "id": "12219c3599a537e2499f9b5d201d2682",
@@ -174,7 +213,7 @@
   {
    "id": "09cb7b1e72ad9f016c65ff821d029efd",
    "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
-   "summary": "Article URL: https://www.startup-nights.ch/event/\nComments URL: https://news.ycombinator.com/item?id=49889633\nPoints: 15\n# Comments: 7",
+   "summary": "Article URL: https://www.startup-nights.ch/event/\nComments URL: https://news.ycombinator.com/item?id=49889633\nPoints: 28\n# Comments: 11",
    "link": "https://www.startup-nights.ch/event/",
    "source": "Hacker News",
    "category": "资讯",
@@ -239,7 +278,7 @@
   {
    "id": "fcbff09cdb11a65b8f5a74a677a256fb",
    "title": "Tank Body Problem",
-   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 125\n# Comments: 28",
+   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 132\n# Comments: 30",
    "link": "http://www.jimsitu.com",
    "source": "Hacker News",
    "category": "资讯",
@@ -250,22 +289,9 @@
    "ts": 1790642505
   },
   {
-   "id": "a9dd3e9bf292214a6e9c4f84d58205cb",
-   "title": "Show HN: Pac-Bench – How well can models one-shot a Pac-Man game?",
-   "summary": "Benchmarks how well Harness+models can create a Pac-Man game from a single prompt:“Create a Pac-Man game in a single HTML page”Each model gets one shot — no fol",
-   "link": "https://jonclegg.github.io/pacman-bakeoff/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 06:43",
-   "ts": 1790635392
-  },
-  {
    "id": "11499a36814c40f390ab78aebf4a36d3",
    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 108\n# Comments: 23",
+   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 113\n# Comments: 24",
    "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
    "source": "Hacker News",
    "category": "资讯",
@@ -278,7 +304,7 @@
   {
    "id": "99a582242e4c3f69d75b83261ec03c20",
    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 515\n# Comments: 196",
+   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 522\n# Comments: 197",
    "link": "https://github.com/firelex/jeff",
    "source": "Hacker News",
    "category": "资讯",
@@ -287,19 +313,6 @@
    "urgent": false,
    "fetched_at": "09-29 04:23",
    "ts": 1790627016
-  },
-  {
-   "id": "0eb85d0574d080049e87d82fad8f1853",
-   "title": "World Labs is Joining AMD",
-   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 284\n# Comments: 111",
-   "link": "https://www.worldlabs.ai/blog/amd-announcement",
-   "source": "Hacker News",
-   "category": "发布/大事件",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 04:18",
-   "ts": 1790626685
   },
   {
    "id": "5ba1753e4ffd224fe432b992bd8603d9",
@@ -326,19 +339,6 @@
    "urgent": false,
    "fetched_at": "09-29 04:00",
    "ts": 1790625603
-  },
-  {
-   "id": "0c0b3e739b560d0d55c0b3d37e796650",
-   "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 254\n# Comments: 88",
-   "link": "https://stateofutopia.com/experiments/microllmlab/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 02:58",
-   "ts": 1790621933
   },
   {
    "id": "e00fdc8a7905812edd953b146c609f14",
