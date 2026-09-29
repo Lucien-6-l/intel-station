@@ -1,11 +1,24 @@
 {
- "updated_at": "2026-09-29 11:03",
+ "updated_at": "2026-09-29 11:38",
  "total": 40,
  "items": [
   {
+   "id": "13b504a1161fa01c19a41e4666951de7",
+   "title": "U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982",
+   "summary": "Article URL: https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html\nComments URL: https://news.",
+   "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 10:26",
+   "ts": 1790648819
+  },
+  {
    "id": "1916a4f205cbb6004c8b542a77ddbf68",
    "title": "Bluegraph – Explore NOAA buoy data, rebuilt in 3D from measured spectra",
-   "summary": "Article URL: https://bluegraph.io/\nComments URL: https://news.ycombinator.com/item?id=49886901\nPoints: 3\n# Comments: 0",
+   "summary": "Article URL: https://bluegraph.io/\nComments URL: https://news.ycombinator.com/item?id=49886901\nPoints: 8\n# Comments: 2",
    "link": "https://bluegraph.io/",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +44,7 @@
   {
    "id": "fcbff09cdb11a65b8f5a74a677a256fb",
    "title": "Tank Body Problem",
-   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 13\n# Comments: 5",
+   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 26\n# Comments: 7",
    "link": "http://www.jimsitu.com",
    "source": "Hacker News",
    "category": "资讯",
@@ -44,7 +57,7 @@
   {
    "id": "de9c054c9c90d66b64064db109f3578e",
    "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-   "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 27\n# Comments: 15",
+   "summary": "Article URL: https://lolchat.rip/\nComments URL: https://news.ycombinator.com/item?id=49886195\nPoints: 41\n# Comments: 28",
    "link": "https://lolchat.rip/",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +70,7 @@
   {
    "id": "11499a36814c40f390ab78aebf4a36d3",
    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 37\n# Comments: 3",
+   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 43\n# Comments: 5",
    "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +83,7 @@
   {
    "id": "99a582242e4c3f69d75b83261ec03c20",
    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 307\n# Comments: 122",
+   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 337\n# Comments: 134",
    "link": "https://github.com/firelex/jeff",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +96,7 @@
   {
    "id": "0eb85d0574d080049e87d82fad8f1853",
    "title": "World Labs Is Joining AMD",
-   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 198\n# Comments: 77",
+   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 211\n# Comments: 81",
    "link": "https://www.worldlabs.ai/blog/amd-announcement",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -122,7 +135,7 @@
   {
    "id": "a76ab3e57ba35580c22eef86ebdfb706",
    "title": "It's Time to Investigate the AI Labs",
-   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 321\n# Comments: 120",
+   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 338\n# Comments: 131",
    "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
    "source": "Hacker News",
    "category": "资讯",
@@ -133,22 +146,9 @@
    "ts": 1790625215
   },
   {
-   "id": "88ef13710086dd8340dfbe264399894b",
-   "title": "First Steps of the PLC Organization – Independent Public Ledger of Credentials",
-   "summary": "Article URL: https://blog.plcred.org/3mwlphq42d227\nComments URL: https://news.ycombinator.com/item?id=49883159\nPoints: 42\n# Comments: 19",
-   "link": "https://blog.plcred.org/3mwlphq42d227",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 03:27",
-   "ts": 1790623665
-  },
-  {
    "id": "0c0b3e739b560d0d55c0b3d37e796650",
    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 143\n# Comments: 65",
+   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 155\n# Comments: 66",
    "link": "https://stateofutopia.com/experiments/microllmlab/",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +161,7 @@
   {
    "id": "b49463c6824ee59e21416eecea01e9f7",
    "title": "Sonnet 5.5",
-   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 606\n# Comments: 418",
+   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 637\n# Comments: 429",
    "link": "https://www.anthropic.com/claude-sonnet-5-5",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +174,7 @@
   {
    "id": "84efde901a681ca2659e997df86202d0",
    "title": "Show HN: Destroy Any Website with Stickman",
-   "summary": "Article URL: https://destroy.spritefusion.com/\nComments URL: https://news.ycombinator.com/item?id=49880601\nPoints: 112\n# Comments: 28",
+   "summary": "Article URL: https://destroy.spritefusion.com/\nComments URL: https://news.ycombinator.com/item?id=49880601\nPoints: 115\n# Comments: 28",
    "link": "https://destroy.spritefusion.com/",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +213,7 @@
   {
    "id": "bf135649213d0e4c0c1664faf0c8852e",
    "title": "Pirating the Pirates",
-   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 431\n# Comments: 230",
+   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 446\n# Comments: 235",
    "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
    "source": "Hacker News",
    "category": "资讯",
@@ -226,7 +226,7 @@
   {
    "id": "b2dc82bc75e2a328bcb6ac9ff6bea9c1",
    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-   "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html\nComments URL: https://news.ycombinator.com/item?id=49879883\nPoints: 110\n# Comments: 150",
+   "summary": "Article URL: https://www.cnbc.com/2026/09/28/nvidia-releases.html\nComments URL: https://news.ycombinator.com/item?id=49879883\nPoints: 118\n# Comments: 153",
    "link": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
    "source": "Hacker News",
    "category": "发布/大事件",
