@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-29 16:05",
+ "updated_at": "2026-09-29 16:39",
  "total": 40,
  "items": [
   {
@@ -44,7 +44,7 @@
   {
    "id": "411f413c3f3fc85104f6a3fb4f5c5e38",
    "title": "OpenAI: Tomorrow we are re-opening the Pro $200 subscription",
-   "summary": "Article URL: https://twitter.com/thsottiaux/status/2104823812042940713\nComments URL: https://news.ycombinator.com/item?id=49889306\nPoints: 23\n# Comments: 13",
+   "summary": "Article URL: https://twitter.com/thsottiaux/status/2104823812042940713\nComments URL: https://news.ycombinator.com/item?id=49889306\nPoints: 41\n# Comments: 35",
    "link": "https://twitter.com/thsottiaux/status/2104823812042940713",
    "source": "Hacker News",
    "category": "资讯",
@@ -53,19 +53,6 @@
    "urgent": false,
    "fetched_at": "09-29 15:07",
    "ts": 1790665673
-  },
-  {
-   "id": "f72a2f98ffd64b670743cd2590d4dd17",
-   "title": "US Forces Exit Iraq",
-   "summary": "Article URL: https://www.reuters.com/world/middle-east/us-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29/\nComments URL: https://news.ycombin",
-   "link": "https://www.reuters.com/world/middle-east/us-forces-exit-iraq-after-two-decades-leaving-opening-iran-2026-09-29/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 15:04",
-   "ts": 1790665466
   },
   {
    "id": "7e4c2d189917ea7b9d983cc214c9fac0",
@@ -79,6 +66,19 @@
    "urgent": false,
    "fetched_at": "09-29 14:40",
    "ts": 1790664034
+  },
+  {
+   "id": "e235c3a86bcf04e0a3d91b1a1092fd69",
+   "title": "Uncensored and Offensive Security AI Models Benchmark",
+   "summary": "Article URL: https://github.com/JoasASantos/Offensive-Security-AI-Models\nComments URL: https://news.ycombinator.com/item?id=49888937\nPoints: 3\n# Comments: 0",
+   "link": "https://github.com/JoasASantos/Offensive-Security-AI-Models",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 14:16",
+   "ts": 1790662564
   },
   {
    "id": "5c5ba971a847433736d0b40768ec96e5",
@@ -96,7 +96,7 @@
   {
    "id": "fcbff09cdb11a65b8f5a74a677a256fb",
    "title": "Tank Body Problem",
-   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 82\n# Comments: 19",
+   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 93\n# Comments: 21",
    "link": "http://www.jimsitu.com",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +135,7 @@
   {
    "id": "11499a36814c40f390ab78aebf4a36d3",
    "title": "ESP32S3 cluster running 1.58-bit (BitNet) Language model",
-   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 88\n# Comments: 16",
+   "summary": "Article URL: https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster\nComments URL: https://news.ycombinator.com/item?id=49884625\nPoints: 90\n# Comments: 18",
    "link": "https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +148,7 @@
   {
    "id": "99a582242e4c3f69d75b83261ec03c20",
    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 468\n# Comments: 176",
+   "summary": "Article URL: https://github.com/firelex/jeff\nComments URL: https://news.ycombinator.com/item?id=49883844\nPoints: 478\n# Comments: 179",
    "link": "https://github.com/firelex/jeff",
    "source": "Hacker News",
    "category": "资讯",
@@ -160,8 +160,8 @@
   },
   {
    "id": "0eb85d0574d080049e87d82fad8f1853",
-   "title": "World Labs Is Joining AMD",
-   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 265\n# Comments: 110",
+   "title": "World Labs is Joining AMD",
+   "summary": "Article URL: https://www.worldlabs.ai/blog/amd-announcement\nComments URL: https://news.ycombinator.com/item?id=49883760\nPoints: 269\n# Comments: 110",
    "link": "https://www.worldlabs.ai/blog/amd-announcement",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -200,7 +200,7 @@
   {
    "id": "a76ab3e57ba35580c22eef86ebdfb706",
    "title": "It's Time to Investigate the AI Labs",
-   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 450\n# Comments: 173",
+   "summary": "Article URL: https://calnewport.com/its-time-to-investigate-the-ai-labs/\nComments URL: https://news.ycombinator.com/item?id=49883471\nPoints: 462\n# Comments: 182",
    "link": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +213,7 @@
   {
    "id": "0c0b3e739b560d0d55c0b3d37e796650",
    "title": "MicroLLM Lab – Try 7 tiny LLM's in the browser",
-   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 220\n# Comments: 81",
+   "summary": "Article URL: https://stateofutopia.com/experiments/microllmlab/\nComments URL: https://news.ycombinator.com/item?id=49882781\nPoints: 226\n# Comments: 81",
    "link": "https://stateofutopia.com/experiments/microllmlab/",
    "source": "Hacker News",
    "category": "资讯",
@@ -226,7 +226,7 @@
   {
    "id": "b49463c6824ee59e21416eecea01e9f7",
    "title": "Sonnet 5.5",
-   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 747\n# Comments: 500",
+   "summary": "Article URL: https://www.anthropic.com/claude-sonnet-5-5\nComments URL: https://news.ycombinator.com/item?id=49881850\nPoints: 760\n# Comments: 505",
    "link": "https://www.anthropic.com/claude-sonnet-5-5",
    "source": "Hacker News",
    "category": "资讯",
@@ -239,7 +239,7 @@
   {
    "id": "05cfc08cf0c31495d690b2dc5dcd4212",
    "title": "Phyllotaxis: An audio-reactive LED display",
-   "summary": "Article URL: https://jagi.studio/posts/phyllotaxis/\nComments URL: https://news.ycombinator.com/item?id=49880411\nPoints: 111\n# Comments: 11",
+   "summary": "Article URL: https://jagi.studio/posts/phyllotaxis/\nComments URL: https://news.ycombinator.com/item?id=49880411\nPoints: 124\n# Comments: 13",
    "link": "https://jagi.studio/posts/phyllotaxis/",
    "source": "Hacker News",
    "category": "资讯",
@@ -278,7 +278,7 @@
   {
    "id": "bf135649213d0e4c0c1664faf0c8852e",
    "title": "Pirating the Pirates",
-   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 543\n# Comments: 269",
+   "summary": "Article URL: https://mubi.com/en/notebook/posts/pirating-the-pirates\nComments URL: https://news.ycombinator.com/item?id=49880036\nPoints: 558\n# Comments: 272",
    "link": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
    "source": "Hacker News",
    "category": "资讯",
