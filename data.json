@@ -1,7 +1,20 @@
 {
- "updated_at": "2026-09-30 05:02",
+ "updated_at": "2026-09-30 05:36",
  "total": 40,
  "items": [
+  {
+   "id": "3e296b0d90db2b8ba0cff23d9769a4ee",
+   "title": "YC employee blocks Jews from hackathon",
+   "summary": "Article URL: https://twitter.com/realAdamLevi/status/2104921647081799899\nComments URL: https://news.ycombinator.com/item?id=49900878\nPoints: 5\n# Comments: 0",
+   "link": "https://twitter.com/realAdamLevi/status/2104921647081799899",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 05:28",
+   "ts": 1790717280
+  },
   {
    "id": "dbc017b422e4902a09e10de3d2d37a94",
    "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
@@ -29,35 +42,9 @@
    "ts": 1790710061
   },
   {
-   "id": "c235f5981502d6525e3cd6a2c2f105ac",
-   "title": "Galaxy Game – Interim Computer Museum",
-   "summary": "Article URL: https://icm.museum/blog/?p=698\nComments URL: https://news.ycombinator.com/item?id=49899004\nPoints: 5\n# Comments: 0",
-   "link": "https://icm.museum/blog/?p=698",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 03:24",
-   "ts": 1790709867
-  },
-  {
-   "id": "fecb6794ac5b694f93c2e8082997233a",
-   "title": "AI needs $6T in annual revenue to justify data centre boom",
-   "summary": "Article URL: https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/\nComments URL: ht",
-   "link": "https://www.thenationalnews.com/future/technology/2026/09/29/ai-industry-needs-to-earn-6-trillion-by-2031-to-justify-data-centres/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 03:21",
-   "ts": 1790709685
-  },
-  {
    "id": "7aaf1ff327f033d756e10af4832c3106",
    "title": "Show HN: TurboGPT: train 22KiB transformer in 13s",
-   "summary": "Inspired by minGPT for home experiments.Requires CUDA 13.4; build script is Windows only.\n\nComments URL: https://news.ycombinator.com/item?id=49898931\nPoints: 8",
+   "summary": "Inspired by minGPT for home experiments.Requires CUDA 13.4; build script is Windows only.\n\nComments URL: https://news.ycombinator.com/item?id=49898931\nPoints: 1",
    "link": "https://github.com/lostmsu/TurboGPT",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +57,7 @@
   {
    "id": "02e0fbec0fcad3cdc946f761cbc5a5f0",
    "title": "Nicholas Polson has authored 258 academic papers in 2026 (so far)",
-   "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/08/27/258/\nComments URL: https://news.ycombinator.com/item?id=49898877\nPoints: 79\n# Comments: 52",
+   "summary": "Article URL: https://statmodeling.stat.columbia.edu/2026/08/27/258/\nComments URL: https://news.ycombinator.com/item?id=49898877\nPoints: 105\n# Comments: 69",
    "link": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +70,7 @@
   {
    "id": "40f3a1cca11936b6f558d4dfba4300ce",
    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 9\n# Comments: 3",
+   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 21\n# Comments: 7",
    "link": "https://space.bl2.net/",
    "source": "Hacker News",
    "category": "资讯",
@@ -108,11 +95,11 @@
   },
   {
    "id": "7911defa076329daab8594e05a72bc2e",
-   "title": "Tcl/Tk 9.1 Released",
-   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 173\n# Comments: 49",
+   "title": "Tcl/Tk 9.1",
+   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 195\n# Comments: 64",
    "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
    "source": "Hacker News",
-   "category": "发布/大事件",
+   "category": "资讯",
    "topic": "科技社区",
    "weight": 2,
    "urgent": false,
@@ -122,7 +109,7 @@
   {
    "id": "4ed376fa923cb6ff0cfed623c25189c7",
    "title": "Dots: Always-on agents",
-   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 372\n# Comments: 280",
+   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 393\n# Comments: 300",
    "link": "https://openai.com/index/introducing-dots/",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +122,7 @@
   {
    "id": "9eb6cc7a834f6bab610d6a63ab4896f0",
    "title": "DevDay 2026 Recap",
-   "summary": "Article URL: https://openai.com/index/devday-2026-recap/\nComments URL: https://news.ycombinator.com/item?id=49896600\nPoints: 74\n# Comments: 29",
+   "summary": "Article URL: https://openai.com/index/devday-2026-recap/\nComments URL: https://news.ycombinator.com/item?id=49896600\nPoints: 79\n# Comments: 35",
    "link": "https://openai.com/index/devday-2026-recap/",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +135,7 @@
   {
    "id": "9a18ab83b14740d253f390f41a667e0f",
    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 617\n# Comments: 537",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 648\n# Comments: 586",
    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +161,7 @@
   {
    "id": "80234fad7220f8c9d569a6e8ade0c05d",
    "title": "What if Jev spoke Arrow?",
-   "summary": "Article URL: https://columnar.tech/blog/what-if-jev-spoke-arrow/\nComments URL: https://news.ycombinator.com/item?id=49895970\nPoints: 24\n# Comments: 5",
+   "summary": "Article URL: https://columnar.tech/blog/what-if-jev-spoke-arrow/\nComments URL: https://news.ycombinator.com/item?id=49895970\nPoints: 25\n# Comments: 5",
    "link": "https://columnar.tech/blog/what-if-jev-spoke-arrow/",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +174,7 @@
   {
    "id": "f1f1273c241d67c0a4c2a1b0aec6f494",
    "title": "PS5 Relapse Exploit",
-   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 154\n# Comments: 79",
+   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 168\n# Comments: 87",
    "link": "https://github.com/ntfargo/Relapse-Exploit",
    "source": "Hacker News",
    "category": "资讯",
@@ -222,6 +209,19 @@
    "urgent": false,
    "fetched_at": "09-29 22:57",
    "ts": 1790693877
+  },
+  {
+   "id": "32a91e8a16ec0740579ec661aea9e7b8",
+   "title": "America.gov",
+   "summary": "Article URL: https://america.gov/\nComments URL: https://news.ycombinator.com/item?id=49893509\nPoints: 140\n# Comments: 110",
+   "link": "https://america.gov/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 22:04",
+   "ts": 1790690697
   },
   {
    "id": "64a9725900301e6dc664060865ee163f",
