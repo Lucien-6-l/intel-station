@@ -1,24 +1,76 @@
 {
- "updated_at": "2026-09-29 22:05",
+ "updated_at": "2026-09-29 22:39",
  "total": 40,
  "items": [
   {
-   "id": "ca61c411e1c6dc4438cecdcd4f613ec2",
-   "title": "The new Firefox design is here",
-   "summary": "Article URL: https://blog.mozilla.org/en/firefox/new-firefox-design-is-here/\nComments URL: https://news.ycombinator.com/item?id=49892721\nPoints: 15\n# Comments: ",
-   "link": "https://blog.mozilla.org/en/firefox/new-firefox-design-is-here/",
+   "id": "43b8ff227f98c158d42bb132d4643562",
+   "title": "Claude partial outage",
+   "summary": "Article URL: https://status.claude.com/incidents/4xvtc2gnq73l\nComments URL: https://news.ycombinator.com/item?id=49893876\nPoints: 30\n# Comments: 9",
+   "link": "https://status.claude.com/incidents/4xvtc2gnq73l",
    "source": "Hacker News",
    "category": "资讯",
    "topic": "科技社区",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "09-29 21:16",
-   "ts": 1790687770
+   "fetched_at": "09-29 22:25",
+   "ts": 1790691941
   },
   {
-   "id": "5e3e8b75e89e0ed49cf216e099bbd0bc",
-   "title": "Delhi Cut Electricity Loss from 50 to 5 Percent",
-   "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 92\n# Comments: 44",
+   "id": "8ce5b750abaa63181d91ff8d90a56620",
+   "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+   "summary": "Article URL: https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions\nComments URL: https://news.ycombinator.com/item?i",
+   "link": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 22:15",
+   "ts": 1790691324
+  },
+  {
+   "id": "857a6406a12c65f18337d6d9c0224d08",
+   "title": "Google ending ChromeOS support two years early",
+   "summary": "Article URL: https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674\nComments URL: https://news.ycombinator.c",
+   "link": "https://www.theregister.com/os-platforms/2026/09/29/google-ending-chromeos-support-two-years-early/5299674",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 22:12",
+   "ts": 1790691135
+  },
+  {
+   "id": "ece6343a8d854592c201119a14ff14ed",
+   "title": "What makes software development engineering",
+   "summary": "Article URL: https://parksb.github.io/en/article/44.html\nComments URL: https://news.ycombinator.com/item?id=49892958\nPoints: 11\n# Comments: 10",
+   "link": "https://parksb.github.io/en/article/44.html",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 21:31",
+   "ts": 1790688691
+  },
+  {
+   "id": "64a9725900301e6dc664060865ee163f",
+   "title": "美光台工厂工会准备罢工",
+   "summary": "继三星、海力士之后，全球第三大 DRAM 厂美光（Micron）在台湾的两个工厂，罢工行动也蠢蠢欲动。9 月 24 日，工会人数 2100 人，占全厂七成的美光桃园工会决定依据劳资争议处理法，10 月 1 日起进行为期一周的罢工投票。一旦支持罢工者超过工会会员数一半，就取得罢工权。有 1 万 2 千人的美光台中厂，台中",
+   "link": "https://www.solidot.org/story?sid=85505",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 21:08",
+   "ts": 1790687314
+  },
+  {
+   "id": "d58666c30ee9c4e6386f9c4a0cbeb107",
+   "title": "How Delhi Cut Electricity Loss from 50 to 5 Percent",
+   "summary": "Article URL: https://spectrum.ieee.org/delhi-electricity-loss\nComments URL: https://news.ycombinator.com/item?id=49892245\nPoints: 159\n# Comments: 81",
    "link": "https://spectrum.ieee.org/delhi-electricity-loss",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +83,7 @@
   {
    "id": "713c05866cceef46a2ee3b1ff54eb219",
    "title": "Without the Hot Air",
-   "summary": "Article URL: https://www.withouthotair.com/\nComments URL: https://news.ycombinator.com/item?id=49892175\nPoints: 20\n# Comments: 8",
+   "summary": "Article URL: https://www.withouthotair.com/\nComments URL: https://news.ycombinator.com/item?id=49892175\nPoints: 45\n# Comments: 27",
    "link": "https://www.withouthotair.com/",
    "source": "Hacker News",
    "category": "资讯",
@@ -44,7 +96,7 @@
   {
    "id": "6f8df7489201cf04b865ea5329ad94e3",
    "title": "1 in 8 cancer cases worldwide are caused by infections, study finds",
-   "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622\nComments URL: https://news.ycombinator.com/item?id=49892120\nPoints: 24\n# Comments: 2",
+   "summary": "Article URL: https://www.cbc.ca/lite/story/9.7361622\nComments URL: https://news.ycombinator.com/item?id=49892120\nPoints: 47\n# Comments: 16",
    "link": "https://www.cbc.ca/lite/story/9.7361622",
    "source": "Hacker News",
    "category": "资讯",
@@ -55,17 +107,30 @@
    "ts": 1790685230
   },
   {
-   "id": "c4656a1a283558c5fc027fc9c8b06efb",
-   "title": "Climate is accumulating 4 Hiroshima atomic bombs worth of heat per second",
-   "summary": "Article URL: https://4hiroshimas.info/\nComments URL: https://news.ycombinator.com/item?id=49891881\nPoints: 24\n# Comments: 11",
-   "link": "https://4hiroshimas.info/",
+   "id": "46d7ee7f7d07023430552d5f3956bc1e",
+   "title": "Firefox 157 释出",
+   "summary": "Mozilla 释出了 Firefox 157。主要变化包括：新的 Nova UI，现代化浏览器界面边框、侧边栏及菜单外观；在兼容设备上支持 WebRTC 视频通话 AV1 硬件解码，此前它一直依赖于软件解码；修复 HDR 视频问题；改进了更改视频播放速度时的音画同步；移除内置搜索引擎 Amazon；等等。",
+   "link": "https://www.solidot.org/story?sid=85504",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 20:10",
+   "ts": 1790683842
+  },
+  {
+   "id": "0bb7d10a3072bfb08824f93878d01b7f",
+   "title": "Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound",
+   "summary": "Article URL: https://jevstiller.pages.dev/posts/the-guarantee/\nComments URL: https://news.ycombinator.com/item?id=49891769\nPoints: 6\n# Comments: 1",
+   "link": "https://jevstiller.pages.dev/posts/the-guarantee/",
    "source": "Hacker News",
    "category": "资讯",
    "topic": "科技社区",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "09-29 20:14",
-   "ts": 1790684066
+   "fetched_at": "09-29 20:05",
+   "ts": 1790683507
   },
   {
    "id": "6d79b4751fa07ffd113d705077e1059f",
@@ -96,7 +161,7 @@
   {
    "id": "47a6e9867a9c243ad2a4c0cc65ade88b",
    "title": "You Are No Longer Invited to Dinner",
-   "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 297\n# Comments: ",
+   "summary": "Article URL: https://www.derekthompson.org/p/the-death-of-the-american-host\nComments URL: https://news.ycombinator.com/item?id=49891295\nPoints: 370\n# Comments: ",
    "link": "https://www.derekthompson.org/p/the-death-of-the-american-host",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +174,7 @@
   {
    "id": "33c7530568395cf88c7383f8ec9f7917",
    "title": "Jeeves. Reasoning improves Jev-like decision models",
-   "summary": "Article URL: https://github.com/PostHog/jeeves\nComments URL: https://news.ycombinator.com/item?id=49891290\nPoints: 97\n# Comments: 37",
+   "summary": "Article URL: https://github.com/PostHog/jeeves\nComments URL: https://news.ycombinator.com/item?id=49891290\nPoints: 121\n# Comments: 50",
    "link": "https://github.com/PostHog/jeeves",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +213,7 @@
   {
    "id": "f2c46f32926ab18dec50772dca558bf3",
    "title": "Show HN: Raven – The harness of harnesses, built for RSI",
-   "summary": "Article URL: https://github.com/EverMind-AI/Raven\nComments URL: https://news.ycombinator.com/item?id=49890647\nPoints: 21\n# Comments: 16",
+   "summary": "Article URL: https://github.com/EverMind-AI/Raven\nComments URL: https://news.ycombinator.com/item?id=49890647\nPoints: 33\n# Comments: 24",
    "link": "https://github.com/EverMind-AI/Raven",
    "source": "Hacker News",
    "category": "资讯",
@@ -183,19 +248,6 @@
    "urgent": false,
    "fetched_at": "09-29 17:03",
    "ts": 1790672621
-  },
-  {
-   "id": "8e7eed095363ed973c26ed05b92a2a37",
-   "title": "Evan Doorbell's Phone Tapes – Brought to You by Telephone World",
-   "summary": "Article URL: https://evan-doorbell.com/\nComments URL: https://news.ycombinator.com/item?id=49890054\nPoints: 19\n# Comments: 4",
-   "link": "https://evan-doorbell.com/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 16:40",
-   "ts": 1790671253
   },
   {
    "id": "12219c3599a537e2499f9b5d201d2682",
@@ -263,19 +315,6 @@
    "ts": 1790668160
   },
   {
-   "id": "09cb7b1e72ad9f016c65ff821d029efd",
-   "title": "Startup Nights 2026 is comming up on 5-6 Nov. in Switzerland",
-   "summary": "Article URL: https://www.startup-nights.ch/event/\nComments URL: https://news.ycombinator.com/item?id=49889633\nPoints: 34\n# Comments: 17",
-   "link": "https://www.startup-nights.ch/event/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 15:49",
-   "ts": 1790668152
-  },
-  {
    "id": "41660660fec6c08a4d728a4fd98672b9",
    "title": "Windows 10 更新 bug 远少于 Windows 11",
    "summary": "微软每次释出 Windows 11 例行安全更新，都会给 Windows 11 用户带来一系列新问题。9 月份的安全更新带来了远程桌面、USB 音频、Linux/WSL 应用、企业域、文件历史、Explorer.exe 以及 AMD 显卡相关的新故障。微软仍然在支持上一代的操作系统 Windows 10。Windows",
@@ -326,19 +365,6 @@
    "urgent": true,
    "fetched_at": "09-29 08:49",
    "ts": 1790642970
-  },
-  {
-   "id": "fcbff09cdb11a65b8f5a74a677a256fb",
-   "title": "Tank Body Problem",
-   "summary": "Article URL: http://www.jimsitu.com\nComments URL: https://news.ycombinator.com/item?id=49886482\nPoints: 144\n# Comments: 32",
-   "link": "http://www.jimsitu.com",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 08:41",
-   "ts": 1790642505
   },
   {
    "id": "e00fdc8a7905812edd953b146c609f14",
@@ -456,32 +482,6 @@
    "urgent": false,
    "fetched_at": "09-28 17:03",
    "ts": 1790586236
-  },
-  {
-   "id": "38aa3e6f2ddd051898c45e26122a2487",
-   "title": "考古学家在土耳其发现已知最古老的和平条约",
-   "summary": "考古学家在土耳其中北部古代 Hittite 帝国首都 Hattusha 的一处建筑物内发掘出了一块楔形文字泥板残片，其中记录了已知最古老的和平条约 Treaty of Kadesh。条约由埃及统治者法老 Ramesses II 与 Hittite 国王 Hattusili III 在公元前 1269 年左右签署，标志着",
-   "link": "https://www.solidot.org/story?sid=85490",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 15:40",
-   "ts": 1790581236
-  },
-  {
-   "id": "81bf79b984d06de2a58a01faa52b2606",
-   "title": "美国农药中有至少 485 种化合物与乳腺癌相关",
-   "summary": "根据发表在《Environmental Health Perspectives》期刊上的一项研究，美国农药产品中至少有 485 种化合物与乳腺癌相关。全球早发性乳腺癌发病率激增，这一发现引发了对食品及其它产品安全性的担忧。根据美国癌症协会的数据，乳腺癌发病率正以每年 1% 的速度上升，而 50 岁以下女性的增长速度甚至",
-   "link": "https://www.solidot.org/story?sid=85489",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 14:45",
-   "ts": 1790577915
   },
   {
    "id": "44a5bee1682e48737243e814d607c614",
