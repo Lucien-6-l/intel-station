@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-10-01 05:38",
+ "updated_at": "2026-10-01 06:03",
  "total": 40,
  "items": [
   {
    "id": "0f725f56ea62dd7fe9675e1d15ede9d7",
    "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-   "summary": "Article URL: https://artificialanalysis.ai/models/gemini-4-argon\nComments URL: https://news.ycombinator.com/item?id=49914236\nPoints: 10\n# Comments: 1",
+   "summary": "Article URL: https://artificialanalysis.ai/models/gemini-4-argon\nComments URL: https://news.ycombinator.com/item?id=49914236\nPoints: 37\n# Comments: 17",
    "link": "https://artificialanalysis.ai/models/gemini-4-argon",
    "source": "Hacker News",
    "category": "资讯",
@@ -18,7 +18,7 @@
   {
    "id": "9f19ec5c3d43885cbde75d74c7f06817",
    "title": "Gitea 28.0",
-   "summary": "Article URL: https://blog.gitea.com/release-of-28.0.0/\nComments URL: https://news.ycombinator.com/item?id=49913975\nPoints: 33\n# Comments: 8",
+   "summary": "Article URL: https://blog.gitea.com/release-of-28.0.0/\nComments URL: https://news.ycombinator.com/item?id=49913975\nPoints: 43\n# Comments: 15",
    "link": "https://blog.gitea.com/release-of-28.0.0/",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -29,22 +29,9 @@
    "ts": 1790800343
   },
   {
-   "id": "84a8b0ca1ede1c4588f1bde257b01546",
-   "title": "Dear User, email is here to stay",
-   "summary": "Article URL: https://github.com/tursomari/machtiani/tree/main\nComments URL: https://news.ycombinator.com/item?id=49913724\nPoints: 3\n# Comments: 0",
-   "link": "https://github.com/tursomari/machtiani/tree/main",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 04:14",
-   "ts": 1790799272
-  },
-  {
    "id": "8cc9ad38c94dce4c7be1f3af40e5f547",
-   "title": "Functional Ultrasound Imaging from Scratch",
-   "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from\nComments URL: https://news.ycombinator.com/item?id=49913604\nPoints: 3\n# Comments: ",
+   "title": "Functional Ultrasound Imaging (fUSI) from scratch",
+   "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from\nComments URL: https://news.ycombinator.com/item?id=49913604\nPoints: 9\n# Comments: ",
    "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +57,7 @@
   {
    "id": "06fdcf15656866f63e2fa4e085ab610f",
    "title": "CS240 AI Cheating Retrospective",
-   "summary": "Article URL: https://turkeyland.net/thoughts/ai.php\nComments URL: https://news.ycombinator.com/item?id=49913458\nPoints: 11\n# Comments: 0",
+   "summary": "Article URL: https://turkeyland.net/thoughts/ai.php\nComments URL: https://news.ycombinator.com/item?id=49913458\nPoints: 22\n# Comments: 8",
    "link": "https://turkeyland.net/thoughts/ai.php",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +70,7 @@
   {
    "id": "d15835b5b1a7b93b8b89381fb56acd39",
    "title": "Dear Software Makers",
-   "summary": "Article URL: https://blog.jim-nielsen.com/2026/dear-software-makers/\nComments URL: https://news.ycombinator.com/item?id=49913364\nPoints: 18\n# Comments: 3",
+   "summary": "Article URL: https://blog.jim-nielsen.com/2026/dear-software-makers/\nComments URL: https://news.ycombinator.com/item?id=49913364\nPoints: 23\n# Comments: 7",
    "link": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +83,7 @@
   {
    "id": "80e3a54dba40567fe8ee4543c07dca19",
    "title": "Halfspace experimental IDE for solid modeling with distance fields",
-   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 30\n# Comments: 5",
+   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 35\n# Comments: 6",
    "link": "https://www.mattkeeter.com/projects/halfspace/",
    "source": "Hacker News",
    "category": "资讯",
@@ -107,22 +94,9 @@
    "ts": 1790797477
   },
   {
-   "id": "1ac7fa0e6af6135661bee8c99678cae7",
-   "title": "America.gov goes crazy on \"play Minecraft\"",
-   "summary": "Article URL: https://america.gov/chat\nComments URL: https://news.ycombinator.com/item?id=49913255\nPoints: 83\n# Comments: 31",
-   "link": "https://america.gov/chat",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 03:34",
-   "ts": 1790796843
-  },
-  {
    "id": "b14b7467b1275c501fa03d68cc75edcc",
    "title": "EDG C++ front-end goes public",
-   "summary": "Article URL: https://edgcpp.org/#transition\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 78\n# Comments: 28",
+   "summary": "Article URL: https://edgcpp.org/#transition\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 90\n# Comments: 32",
    "link": "https://edgcpp.org/#transition",
    "source": "Hacker News",
    "category": "资讯",
@@ -146,9 +120,22 @@
    "ts": 1790795090
   },
   {
+   "id": "6f8ec1dca85073d6e880b2b4b8619a69",
+   "title": "Before pixels: Modular industrial dashboards",
+   "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/\nComments URL: https://news.ycombinator.com/item?id=49912792\nPoints: 12\n# C",
+   "link": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 02:49",
+   "ts": 1790794146
+  },
+  {
    "id": "873897a04fb3de9f773c3bde9bee3527",
    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 64\n# Comments",
+   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 71\n# Comments",
    "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
    "source": "Hacker News",
    "category": "资讯",
@@ -159,17 +146,30 @@
    "ts": 1790792265
   },
   {
-   "id": "96ad81d2fdb6478137852170572b4f9f",
-   "title": "Carnegie Mellon University Announces Historic $3B Gift from Ken Griffin",
-   "summary": "Article URL: https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-announces-historic-3-billion-gift-from-ken-griffin-pioneering-a",
-   "link": "https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-announces-historic-3-billion-gift-from-ken-griffin-pioneering-a-new-model",
+   "id": "f35a3b906c79ca89c01a45a454b6a9f4",
+   "title": "Recursive `make` and `-j`",
+   "summary": "Article URL: https://quuxplusone.github.io/blog/2026/09/30/recursive-make-j/\nComments URL: https://news.ycombinator.com/item?id=49912094\nPoints: 13\n# Comments: ",
+   "link": "https://quuxplusone.github.io/blog/2026/09/30/recursive-make-j/",
    "source": "Hacker News",
-   "category": "发布/大事件",
+   "category": "资讯",
    "topic": "科技社区",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-01 02:06",
-   "ts": 1790791573
+   "fetched_at": "10-01 01:46",
+   "ts": 1790790386
+  },
+  {
+   "id": "3f1b218782ec0570c6d0ff50ab294bd1",
+   "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
+   "summary": "Article URL: https://www.chompiclub.com/opensource\nComments URL: https://news.ycombinator.com/item?id=49912048\nPoints: 10\n# Comments: 2",
+   "link": "https://www.chompiclub.com/opensource",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 01:42",
+   "ts": 1790790133
   },
   {
    "id": "ca00f4216eb9d7c186a67cea3f8f0b06",
@@ -187,7 +187,7 @@
   {
    "id": "e4acb54939aa358e6605926128792173",
    "title": "Commit description as a thinking tool",
-   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 97\n# Comments: 55",
+   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 102\n# Comments: 5",
    "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
    "source": "Hacker News",
    "category": "资讯",
