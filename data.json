@@ -1,11 +1,37 @@
 {
- "updated_at": "2026-10-01 01:04",
+ "updated_at": "2026-10-01 01:37",
  "total": 40,
  "items": [
   {
+   "id": "e6807c90b42624d6f117a863f4049825",
+   "title": "Let's Ditch Google (Verb)",
+   "summary": "Article URL: https://adam.farkas.pro/lets-ditch-google-verb/\nComments URL: https://news.ycombinator.com/item?id=49911759\nPoints: 25\n# Comments: 13",
+   "link": "https://adam.farkas.pro/lets-ditch-google-verb/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 01:18",
+   "ts": 1790788698
+  },
+  {
+   "id": "42b2a71e3da504a9a47bcfdd4f7aafcc",
+   "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+   "summary": "Article URL: https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer\nComments URL: https://news.ycombinator.com/item?id=49911531\nPo",
+   "link": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 01:00",
+   "ts": 1790787620
+  },
+  {
    "id": "a49b8e19d995e58400ea4fe308d14c76",
    "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
-   "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 14\n# Comments: ",
+   "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 21\n# Comments: ",
    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
    "source": "Hacker News",
    "category": "资讯",
@@ -14,19 +40,6 @@
    "urgent": false,
    "fetched_at": "09-30 23:54",
    "ts": 1790783699
-  },
-  {
-   "id": "f62893212205e25abda910f7acfbe510",
-   "title": "The AI Race Just Got Awkward",
-   "summary": "Article URL: https://insufferable.dev/posts/the-ai-race-just-got-awkward/\nComments URL: https://news.ycombinator.com/item?id=49910553\nPoints: 252\n# Comments: 21",
-   "link": "https://insufferable.dev/posts/the-ai-race-just-got-awkward/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 23:50",
-   "ts": 1790783411
   },
   {
    "id": "ba5de8e48c96cc714ff768a3113464bc",
@@ -70,7 +83,7 @@
   {
    "id": "ad9ed2b764d30c8a0cfdfc3a58104c29",
    "title": "SDF Public Access Unix System ... est. 1987",
-   "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 9\n# Comments: 1",
+   "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 23\n# Comments: 1",
    "link": "https://sdf.org/",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +96,7 @@
   {
    "id": "4f22a659ee9f601059ca086dd43f0626",
    "title": "A Brief History of the Bloomberg Terminal",
-   "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 46\n# Comments: 11",
+   "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 71\n# Comments: 19",
    "link": "https://spectrum.ieee.org/bloomberg-terminal",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +122,7 @@
   {
    "id": "cc19c4d58331bfcbb11d94d45b13ed67",
    "title": "What TLA+ can and can't check",
-   "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\nComments URL: https://news.ycombinator.com/item?id=49909056\nPoints: 9\n# Com",
+   "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\nComments URL: https://news.ycombinator.com/item?id=49909056\nPoints: 18\n# Co",
    "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +135,7 @@
   {
    "id": "d2562118fe8e5917ff0040206ffaa315",
    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-   "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\nComments URL: https://news.ycombinator.com/item?id=49908962\nPoints: 64\n# ",
+   "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\nComments URL: https://news.ycombinator.com/item?id=49908962\nPoints: 72\n# ",
    "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +200,7 @@
   {
    "id": "af01083df0568c8e3df514187d745135",
    "title": "You Said No MCP",
-   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 436\n# Comments: 240",
+   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 459\n# Comments: 263",
    "link": "https://earendil.com/posts/you-said-no-mcp/",
    "source": "Hacker News",
    "category": "资讯",
@@ -263,19 +276,6 @@
    "ts": 1790753227
   },
   {
-   "id": "4a62adf7a78710dbefe2d52c9c402e43",
-   "title": "September 2026: The world today, as seen by one Polish guy",
-   "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\nComments URL: https://news.ycombinator.com/item?id=49905487\nPoints: 454\n# Co",
-   "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 15:12",
-   "ts": 1790752351
-  },
-  {
    "id": "b2beade8f8683e4e0eca17ff273d93a1",
    "title": "FBI 与荷兰合作逮捕 ShinyHunters 组织领导成员",
    "summary": "FBI 与荷兰合作逮捕了疑似 ShinyHunters 组织领导成员、24 岁的 Pepijn van der Stap。他是在  9 月 16 日左右被捕的，发生在 ShinyHunters 入侵 FBI 招聘网站 apply.fbijobs.gov 纂改网页窃取逾 2TB 雇员数据之前——有一种解释是 ShinyH",
@@ -343,7 +343,7 @@
   {
    "id": "bc321440369ea50be7218a97815b6226",
    "title": "RSS Feeds for Last.fm",
-   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 111\n# Comments: 36",
+   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 112\n# Comments: 38",
    "link": "https://lfm.xiffy.nl/",
    "source": "Hacker News",
    "category": "资讯",
@@ -365,6 +365,32 @@
    "urgent": true,
    "fetched_at": "09-30 10:53",
    "ts": 1790736797
+  },
+  {
+   "id": "df2859dc7be0d117256622769e7e8c66",
+   "title": "Show HN: I created a BGP-based blackhole system that you can set up in minutes",
+   "summary": "Hey friends, I've been working on this idea since 2019, and wanted to share it and see who might be interested.  I built a BGP network full of nodes that collec",
+   "link": "https://setecastronomyinc.com/shield",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 08:28",
+   "ts": 1790728109
+  },
+  {
+   "id": "0e0267e5f683aef7c7ba8181912a9895",
+   "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
+   "summary": "Hi HN,Ledge is a Markdown notebook that runs shell commands, code, SQL, etc from inside your own notes.I built Ledge because I spend much of my day copy/pasting",
+   "link": "https://ledge.sh",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 07:41",
+   "ts": 1790725294
   },
   {
    "id": "14f13c552532e01006e40eb59a449399",
@@ -395,7 +421,7 @@
   {
    "id": "4621e9088030f6676e293a26a8895340",
    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 809\n# Comments: 338",
+   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 822\n# Comments: 340",
    "link": "https://github.com/ninjahawk/livenerf",
    "source": "Hacker News",
    "category": "资讯",
@@ -421,7 +447,7 @@
   {
    "id": "40f3a1cca11936b6f558d4dfba4300ce",
    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 342\n# Comments: 92",
+   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 349\n# Comments: 93",
    "link": "https://space.bl2.net/",
    "source": "Hacker News",
    "category": "资讯",
@@ -430,32 +456,6 @@
    "urgent": false,
    "fetched_at": "09-30 03:08",
    "ts": 1790708881
-  },
-  {
-   "id": "a8c223138714037474611ccc16cdc7d0",
-   "title": "Vermont replacing power plants with home batteries",
-   "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...\n\nComments URL: https://news.ycombinator.com/item?id=49897993\nPoints: 321\n# Comments: 24",
-   "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 02:19",
-   "ts": 1790705942
-  },
-  {
-   "id": "4ed376fa923cb6ff0cfed623c25189c7",
-   "title": "Dots: Always-on agents",
-   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 714\n# Comments: 593",
-   "link": "https://openai.com/index/introducing-dots/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 01:07",
-   "ts": 1790701677
   },
   {
    "id": "fdb79563dcf391deb532dc49acee0290",
