@@ -1,7 +1,46 @@
 {
- "updated_at": "2026-09-30 14:03",
+ "updated_at": "2026-09-30 14:43",
  "total": 40,
  "items": [
+  {
+   "id": "d8bba85f52dfc7f13a66cee96c357211",
+   "title": "AMD CEO 苏姿丰成为清华经管学院顾问委员会委员",
+   "summary": "据清华大学经济管理学院官方微信公号称，今年清华经管学院顾问委员会新增委员三人，新增接任委员五人。三位新增委员分别是黄仁勋、苏姿丰，以及瑞士百达集团高级管理合伙人百达铭（Marc Pictet）。五位新增接任委员分别是宝马集团董事长聂科维（Milan Nedeljković）、沃尔玛公司总裁兼首席执行官方威翰（John ",
+   "link": "https://www.solidot.org/story?sid=85510",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 14:08",
+   "ts": 1790748501
+  },
+  {
+   "id": "1474fb13c1ddbe92729a87009d9eb40e",
+   "title": "加州禁止公职人员发行模因币",
+   "summary": "加州州长 Gavin Newsom 签署了 AB 2409 法案，禁止加州公职人员发行模因币（memecoin），也禁止企业使用公职人员的肖像或形象发行模因币。这项新法规的背景是美国总统特朗普及第一夫人在正式上任前夕发行了自己的模因币，据报道百万购买特朗普模因币的投资者损失了 38 亿美元——模因币的币值与热度密切相关",
+   "link": "https://www.solidot.org/story?sid=85509",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 14:03",
+   "ts": 1790748230
+  },
+  {
+   "id": "8ed221650ff7d5f70752e267503c1ed1",
+   "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+   "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+   "link": "https://www.qbitai.com/2026/09/499308.html",
+   "source": "量子位",
+   "category": "发布/大事件",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-30 13:18",
+   "ts": 1790745485
+  },
   {
    "id": "a8cc0342a6fc6665cc9f0f6c4c85c810",
    "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
@@ -29,22 +68,9 @@
    "ts": 1790743057
   },
   {
-   "id": "778f1f65f5c989eeba9f384f6af7a85c",
-   "title": "LinkedIn Larpmaxxing",
-   "summary": "Article URL: https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/\nComments URL: https://news.ycombinator.com/item?id=49904314\nPoints: 40\n# Comments: 38",
-   "link": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 12:19",
-   "ts": 1790741997
-  },
-  {
    "id": "8ffc7cb31f76e40cb2a0deef36d6caee",
    "title": "PSSA: A non-transformer language model written from scratch in Rust",
-   "summary": "Article URL: https://github.com/Sparticle62ops/pssa\nComments URL: https://news.ycombinator.com/item?id=49903993\nPoints: 48\n# Comments: 12",
+   "summary": "Article URL: https://github.com/Sparticle62ops/pssa\nComments URL: https://news.ycombinator.com/item?id=49903993\nPoints: 59\n# Comments: 15",
    "link": "https://github.com/Sparticle62ops/pssa",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +83,7 @@
   {
    "id": "bc321440369ea50be7218a97815b6226",
    "title": "RSS Feeds for Last.fm",
-   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 18\n# Comments: 4",
+   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 27\n# Comments: 5",
    "link": "https://lfm.xiffy.nl/",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +109,7 @@
   {
    "id": "3b07c2beb1f7ada24b676d8ac00892a0",
    "title": "Responsible Release of AI-Generated Mathematics",
-   "summary": "Article URL: https://agmai.org/general-sep29/\nComments URL: https://news.ycombinator.com/item?id=49903713\nPoints: 23\n# Comments: 16",
+   "summary": "Article URL: https://agmai.org/general-sep29/\nComments URL: https://news.ycombinator.com/item?id=49903713\nPoints: 28\n# Comments: 21",
    "link": "https://agmai.org/general-sep29/",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -96,7 +122,7 @@
   {
    "id": "c79edc9c50c97341affe6c10399f20a6",
    "title": "Ballmer Peak",
-   "summary": "Article URL: https://en.wikipedia.org/wiki/Ballmer_Peak\nComments URL: https://news.ycombinator.com/item?id=49903712\nPoints: 33\n# Comments: 1",
+   "summary": "Article URL: https://en.wikipedia.org/wiki/Ballmer_Peak\nComments URL: https://news.ycombinator.com/item?id=49903712\nPoints: 37\n# Comments: 3",
    "link": "https://en.wikipedia.org/wiki/Ballmer_Peak",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +135,7 @@
   {
    "id": "4876d8e8e156233be06d0b11904cb4ea",
    "title": "Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)",
-   "summary": "Article URL: https://mightygodking.com/2008/04/21/fun-from-yesterday/\nComments URL: https://news.ycombinator.com/item?id=49903383\nPoints: 29\n# Comments: 21",
+   "summary": "Article URL: https://mightygodking.com/2008/04/21/fun-from-yesterday/\nComments URL: https://news.ycombinator.com/item?id=49903383\nPoints: 34\n# Comments: 21",
    "link": "https://mightygodking.com/2008/04/21/fun-from-yesterday/",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +161,7 @@
   {
    "id": "4621e9088030f6676e293a26a8895340",
    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 439\n# Comments: 181",
+   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 462\n# Comments: 195",
    "link": "https://github.com/ninjahawk/livenerf",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +187,7 @@
   {
    "id": "40f3a1cca11936b6f558d4dfba4300ce",
    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 178\n# Comments: 40",
+   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 186\n# Comments: 44",
    "link": "https://space.bl2.net/",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +213,7 @@
   {
    "id": "a8c223138714037474611ccc16cdc7d0",
    "title": "Vermont replacing power plants with home batteries",
-   "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...\n\nComments URL: https://news.ycombinator.com/item?id=49897993\nPoints: 141\n# Comments: 11",
+   "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...\n\nComments URL: https://news.ycombinator.com/item?id=49897993\nPoints: 146\n# Comments: 11",
    "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +239,7 @@
   {
    "id": "7911defa076329daab8594e05a72bc2e",
    "title": "Tcl/Tk 9.1",
-   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 260\n# Comments: 101",
+   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 261\n# Comments: 105",
    "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -226,7 +252,7 @@
   {
    "id": "4ed376fa923cb6ff0cfed623c25189c7",
    "title": "Dots: Always-on agents",
-   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 533\n# Comments: 397",
+   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 545\n# Comments: 405",
    "link": "https://openai.com/index/introducing-dots/",
    "source": "Hacker News",
    "category": "资讯",
@@ -235,6 +261,19 @@
    "urgent": false,
    "fetched_at": "09-30 01:07",
    "ts": 1790701677
+  },
+  {
+   "id": "9a18ab83b14740d253f390f41a667e0f",
+   "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 872\n# Comments: 792",
+   "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 01:06",
+   "ts": 1790701605
   },
   {
    "id": "fdb79563dcf391deb532dc49acee0290",
@@ -326,19 +365,6 @@
    "urgent": false,
    "fetched_at": "09-29 17:44",
    "ts": 1790675067
-  },
-  {
-   "id": "d8bba85f52dfc7f13a66cee96c357211",
-   "title": "AMD 以 82 亿美元收购李飞飞的 World Labs",
-   "summary": "AMD 宣布收购李飞飞联合创办的 AI 初创公司 World Labs，交易总额约 82 亿美元，采用全股票形式支付。 World Labs 成立于 2024 年，由李飞飞与 Justin Johnson、Christoph Lassner 和 Ben Mildenhall 等人联合创办，专注于开发世界模型，但目前还没",
-   "link": "https://www.solidot.org/story?sid=85501",
-   "source": "Solidot",
-   "category": "发布/大事件",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 16:19",
-   "ts": 1790669955
   },
   {
    "id": "98ebba78f69ffc4dec14ac4e3fd101d6",
@@ -484,19 +510,6 @@
    "ts": 1790599433
   },
   {
-   "id": "cac404a38d519f2d92aade1c785b8727",
-   "title": "HC归来，华为正重新定义AIDC基础设施",
-   "summary": "AI基础设施下一站：算电协同",
-   "link": "https://www.qbitai.com/2026/09/498787.html",
-   "source": "量子位",
-   "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-28 19:18",
-   "ts": 1790594307
-  },
-  {
    "id": "4aa9749beb11a8428124f522c8bd1a3b",
    "title": "冲动与拖延之间共享神经遗传基础",
    "summary": "你是否有过这样的经历，明知截止时间越来越近，却忍不住频繁刷手机、告诉自己“明天再说”？这种情况被称为拖延。一直以来，拖延被贴上懒惰、自律不足或意志力薄弱的标签，但这种看似影响学习工作以及身心健康的行为，为什么普遍存在且在进化过程中被保留下来？中国科学院心理研究所等团队证实，拖延与冲动这两种看似相反的行为，存在部分共同的",
@@ -508,19 +521,6 @@
    "urgent": false,
    "fetched_at": "09-28 18:22",
    "ts": 1790590948
-  },
-  {
-   "id": "8a425a42da7791cf14ce898761fb1a2f",
-   "title": "英伟达 GeForce RTX 5090 成为热门走私商品",
-   "summary": "澳门海关公布，近日积极打击水客活动，加强口岸关检执法，并运用科技手段严厉打击偷运物品进出本澳的不法行为。海关仅于一周内便破获 12 宗走私案，货物总市值达 151 万，当中包括 359 件 Apple AirPods 耳机及 2 张 GeForce RTX 5090 显卡等。12 名涉案人士年龄介乎 18 至 53 岁",
-   "link": "https://www.solidot.org/story?sid=85493",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 17:52",
-   "ts": 1790589136
   }
  ]
 }
