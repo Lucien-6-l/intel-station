@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30 17:39",
+ "updated_at": "2026-09-30 18:04",
  "total": 40,
  "items": [
   {
@@ -44,7 +44,7 @@
   {
    "id": "4a62adf7a78710dbefe2d52c9c402e43",
    "title": "September 2026: The world today, as seen by one Polish guy",
-   "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\nComments URL: https://news.ycombinator.com/item?id=49905487\nPoints: 173\n# Co",
+   "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\nComments URL: https://news.ycombinator.com/item?id=49905487\nPoints: 198\n# Co",
    "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +109,7 @@
   {
    "id": "bc321440369ea50be7218a97815b6226",
    "title": "RSS Feeds for Last.fm",
-   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 70\n# Comments: 13",
+   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 72\n# Comments: 14",
    "link": "https://lfm.xiffy.nl/",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +174,7 @@
   {
    "id": "4621e9088030f6676e293a26a8895340",
    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 606\n# Comments: 247",
+   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 614\n# Comments: 251",
    "link": "https://github.com/ninjahawk/livenerf",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +200,7 @@
   {
    "id": "40f3a1cca11936b6f558d4dfba4300ce",
    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 246\n# Comments: 52",
+   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 250\n# Comments: 53",
    "link": "https://space.bl2.net/",
    "source": "Hacker News",
    "category": "资讯",
@@ -226,7 +226,7 @@
   {
    "id": "a8c223138714037474611ccc16cdc7d0",
    "title": "Vermont replacing power plants with home batteries",
-   "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...\n\nComments URL: https://news.ycombinator.com/item?id=49897993\nPoints: 196\n# Comments: 15",
+   "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...\n\nComments URL: https://news.ycombinator.com/item?id=49897993\nPoints: 198\n# Comments: 15",
    "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
    "source": "Hacker News",
    "category": "资讯",
@@ -252,7 +252,7 @@
   {
    "id": "4ed376fa923cb6ff0cfed623c25189c7",
    "title": "Dots: Always-on agents",
-   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 614\n# Comments: 477",
+   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 621\n# Comments: 480",
    "link": "https://openai.com/index/introducing-dots/",
    "source": "Hacker News",
    "category": "资讯",
@@ -265,7 +265,7 @@
   {
    "id": "9a18ab83b14740d253f390f41a667e0f",
    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 938\n# Comments: 823",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 941\n# Comments: 826",
    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
    "source": "Hacker News",
    "category": "资讯",
@@ -278,7 +278,7 @@
   {
    "id": "6d36669c8eeb280645da82be3b0c225a",
    "title": "Needed 1+1, built a functional programming language",
-   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 101\n# Comments: 30",
+   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 103\n# Comments: 30",
    "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
    "source": "Hacker News",
    "category": "资讯",
@@ -291,7 +291,7 @@
   {
    "id": "f1f1273c241d67c0a4c2a1b0aec6f494",
    "title": "PS5 Relapse Exploit",
-   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 308\n# Comments: 185",
+   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 310\n# Comments: 186",
    "link": "https://github.com/ntfargo/Relapse-Exploit",
    "source": "Hacker News",
    "category": "资讯",
