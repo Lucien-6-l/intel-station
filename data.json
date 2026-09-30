@@ -1,11 +1,37 @@
 {
- "updated_at": "2026-10-01 03:06",
+ "updated_at": "2026-10-01 03:36",
  "total": 40,
  "items": [
   {
+   "id": "b14b7467b1275c501fa03d68cc75edcc",
+   "title": "EDG C++ front-end goes public",
+   "summary": "Article URL: https://edgcpp.org/#transition\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 4\n# Comments: 0",
+   "link": "https://edgcpp.org/#transition",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 03:26",
+   "ts": 1790796397
+  },
+  {
+   "id": "376aa41a379758ec281e0dcc862edc88",
+   "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+   "summary": "Article URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/\nComments URL: https://news.ycombinator.com/ite",
+   "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 03:04",
+   "ts": 1790795090
+  },
+  {
    "id": "873897a04fb3de9f773c3bde9bee3527",
    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 9\n# Comments:",
+   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 17\n# Comments",
    "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
    "source": "Hacker News",
    "category": "资讯",
@@ -30,8 +56,8 @@
   },
   {
    "id": "e4acb54939aa358e6605926128792173",
-   "title": "Commit Description as a Thinking Tool",
-   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 58\n# Comments: 22",
+   "title": "Commit description as a thinking tool",
+   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 70\n# Comments: 32",
    "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +96,7 @@
   {
    "id": "a49b8e19d995e58400ea4fe308d14c76",
    "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
-   "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 36\n# Comments: ",
+   "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 40\n# Comments: ",
    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
    "source": "Hacker News",
    "category": "资讯",
@@ -79,19 +105,6 @@
    "urgent": false,
    "fetched_at": "09-30 23:54",
    "ts": 1790783699
-  },
-  {
-   "id": "866f61b7d08c70e1c40bf4a20774df08",
-   "title": "Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
-   "summary": "Hello Hacker NewsI am Uygar, I am an entrepreneur from London. I run my businesses on calls everyday, customers, partners and suppliers. And i have a horrible m",
-   "link": "https://openparrot.app",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 23:33",
-   "ts": 1790782392
   },
   {
    "id": "ba5de8e48c96cc714ff768a3113464bc",
@@ -120,10 +133,10 @@
    "ts": 1790780473
   },
   {
-   "id": "c79ede1c63b7da9df407290577c485ba",
+   "id": "848543784b36780e842e9a3f8eef8829",
    "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
    "summary": "Hello HN, I'm Ajo and I built Strata.I spent 4 years at Netflix solving self service for non-technical business users. I think I cracked it with my unique appro",
-   "link": "https://strata.do/try/",
+   "link": "https://strata.do/",
    "source": "Hacker News",
    "category": "资讯",
    "topic": "科技社区",
@@ -148,7 +161,7 @@
   {
    "id": "ad9ed2b764d30c8a0cfdfc3a58104c29",
    "title": "SDF Public Access Unix System ... est. 1987",
-   "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 46\n# Comments: 5",
+   "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 51\n# Comments: 5",
    "link": "https://sdf.org/",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +174,7 @@
   {
    "id": "4f22a659ee9f601059ca086dd43f0626",
    "title": "A brief history of the Bloomberg terminal",
-   "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 135\n# Comments: 46",
+   "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 146\n# Comments: 52",
    "link": "https://spectrum.ieee.org/bloomberg-terminal",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +200,7 @@
   {
    "id": "cc19c4d58331bfcbb11d94d45b13ed67",
    "title": "What TLA+ can and can't check",
-   "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\nComments URL: https://news.ycombinator.com/item?id=49909056\nPoints: 61\n# Co",
+   "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\nComments URL: https://news.ycombinator.com/item?id=49909056\nPoints: 74\n# Co",
    "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +213,7 @@
   {
    "id": "d2562118fe8e5917ff0040206ffaa315",
    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-   "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\nComments URL: https://news.ycombinator.com/item?id=49908962\nPoints: 95\n# ",
+   "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\nComments URL: https://news.ycombinator.com/item?id=49908962\nPoints: 100\n#",
    "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
    "source": "Hacker News",
    "category": "资讯",
@@ -277,8 +290,8 @@
   },
   {
    "id": "af01083df0568c8e3df514187d745135",
-   "title": "You Said No MCP",
-   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 508\n# Comments: 287",
+   "title": "You said no MCP",
+   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 517\n# Comments: 300",
    "link": "https://earendil.com/posts/you-said-no-mcp/",
    "source": "Hacker News",
    "category": "资讯",
@@ -421,7 +434,7 @@
   {
    "id": "778f1f65f5c989eeba9f384f6af7a85c",
    "title": "LinkedIn Larpmaxxing",
-   "summary": "Article URL: https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/\nComments URL: https://news.ycombinator.com/item?id=49904314\nPoints: 76\n# Comments: 80",
+   "summary": "Article URL: https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/\nComments URL: https://news.ycombinator.com/item?id=49904314\nPoints: 85\n# Comments: 92",
    "link": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
    "source": "Hacker News",
    "category": "资讯",
@@ -443,19 +456,6 @@
    "urgent": true,
    "fetched_at": "09-30 10:53",
    "ts": 1790736797
-  },
-  {
-   "id": "0e0267e5f683aef7c7ba8181912a9895",
-   "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
-   "summary": "Hi HN,Ledge is a Markdown notebook that runs shell commands, code, SQL, etc from inside your own notes.I built Ledge because I spend much of my day copy/pasting",
-   "link": "https://ledge.sh",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 07:41",
-   "ts": 1790725294
   },
   {
    "id": "2d330bc7323de90190b7bb8aa2c10ba2",
