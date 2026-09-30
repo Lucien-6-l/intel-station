@@ -1,7 +1,20 @@
 {
- "updated_at": "2026-09-30 18:04",
+ "updated_at": "2026-09-30 18:38",
  "total": 40,
  "items": [
+  {
+   "id": "8bca15ede15bb090951766ac9360c0e3",
+   "title": "Pi.dev: You Said No MCP",
+   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 21\n# Comments: 1",
+   "link": "https://earendil.com/posts/you-said-no-mcp/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 17:55",
+   "ts": 1790762123
+  },
   {
    "id": "bfa5e2fb8dc08debd499bb578a897baa",
    "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
@@ -14,6 +27,19 @@
    "urgent": false,
    "fetched_at": "09-30 15:58",
    "ts": 1790755117
+  },
+  {
+   "id": "4ec415dbb181d0c2fdff2532a196dd4f",
+   "title": "日本人身高增长停滞",
+   "summary": "日本人的身高在 1896～1996 年的 100 年间，男性增长约 14.6 厘米，女性增长了约 16 厘米。但 1990 年代之后升高增长日益乏力，相比下中韩平均身高则在快速增长。2019 年日本 19 岁男性平均身高约 172.1 厘米，女性约 158.5 厘米。韩国男性为 175.5 厘米，女性为 163.2 厘",
+   "link": "https://www.solidot.org/story?sid=85514",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 15:56",
+   "ts": 1790754985
   },
   {
    "id": "e62305d221eecb741bb4c12ac3b94719",
@@ -29,6 +55,19 @@
    "ts": 1790754894
   },
   {
+   "id": "7986ae309178aca791d792d435e04a48",
+   "title": "日本老龄化达到 29.4%， 一人家庭比例首次超过 4 成",
+   "summary": "日本总务省公布的 2025 年人口普查确定值显示，截至 2025 年 10 月 1 日，包含外国人在内的日本总人口为 122,972,528 人，较 2020 年的上次调查减少 3,173,571 人，降幅为 2.5%。自 2015 年的调查起连续3次负增长。65 岁以上人口在总人口中的占比（老龄化率）为 29.4%，",
+   "link": "https://www.solidot.org/story?sid=85513",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 15:43",
+   "ts": 1790754209
+  },
+  {
    "id": "1c0c3d432aca27df870bb4675ba19e26",
    "title": "Why Is Sam Altman a Free Man?",
    "summary": "Article URL: https://prospect.org/2026/09/29/artificial-intelligence-agents-openai-microsoft-sam-altman-greg-brockman-ah-nice/\nComments URL: https://news.ycombi",
@@ -42,9 +81,22 @@
    "ts": 1790753560
   },
   {
+   "id": "3ea76ce699cb2a448133d4e262da9fc4",
+   "title": "夜空每年增亮 10%",
+   "summary": "世界正日益城市化，夜空的亮度每年都在增加10%。全球八成的人口生活在受光污染影响的夜空之下，真正的黑暗日益稀缺，对大部分人而言正变得遥不可及。享受黑暗的意义不止于观星。黑夜本身就是一个独特的生态环境。人造光会干扰依靠月光导航的动物：无论是误将停车场当成大海而迷途的幼龟，还是绕着灯泡团团转的飞蛾，都深受其害。萤火虫和青​",
+   "link": "https://www.solidot.org/story?sid=85512",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 15:27",
+   "ts": 1790753227
+  },
+  {
    "id": "4a62adf7a78710dbefe2d52c9c402e43",
    "title": "September 2026: The world today, as seen by one Polish guy",
-   "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\nComments URL: https://news.ycombinator.com/item?id=49905487\nPoints: 198\n# Co",
+   "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\nComments URL: https://news.ycombinator.com/item?id=49905487\nPoints: 237\n# Co",
    "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
    "source": "Hacker News",
    "category": "资讯",
@@ -53,6 +105,19 @@
    "urgent": false,
    "fetched_at": "09-30 15:12",
    "ts": 1790752351
+  },
+  {
+   "id": "b2beade8f8683e4e0eca17ff273d93a1",
+   "title": "FBI 与荷兰合作逮捕 ShinyHunters 组织领导成员",
+   "summary": "FBI 与荷兰合作逮捕了疑似 ShinyHunters 组织领导成员、24 岁的 Pepijn van der Stap。他是在  9 月 16 日左右被捕的，发生在 ShinyHunters 入侵 FBI 招聘网站 apply.fbijobs.gov 纂改网页窃取逾 2TB 雇员数据之前——有一种解释是 ShinyH",
+   "link": "https://www.solidot.org/story?sid=85511",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 14:52",
+   "ts": 1790751165
   },
   {
    "id": "d8bba85f52dfc7f13a66cee96c357211",
@@ -109,7 +174,7 @@
   {
    "id": "bc321440369ea50be7218a97815b6226",
    "title": "RSS Feeds for Last.fm",
-   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 72\n# Comments: 14",
+   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 77\n# Comments: 15",
    "link": "https://lfm.xiffy.nl/",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +239,7 @@
   {
    "id": "4621e9088030f6676e293a26a8895340",
    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 614\n# Comments: 251",
+   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 638\n# Comments: 254",
    "link": "https://github.com/ninjahawk/livenerf",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +265,7 @@
   {
    "id": "40f3a1cca11936b6f558d4dfba4300ce",
    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 250\n# Comments: 53",
+   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 256\n# Comments: 59",
    "link": "https://space.bl2.net/",
    "source": "Hacker News",
    "category": "资讯",
@@ -211,22 +276,9 @@
    "ts": 1790708881
   },
   {
-   "id": "6ebc9a3839ba12140aede83b9c6a8cb6",
-   "title": "We’re forgetting what darkness feels like",
-   "summary": "Article URL: https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation\nComments URL: https://news.ycombinator.com/item?id=49898050\n",
-   "link": "https://www.theguardian.com/environment/2026/sep/29/night-sky-darkness-city-regulation",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 02:22",
-   "ts": 1790706160
-  },
-  {
    "id": "a8c223138714037474611ccc16cdc7d0",
    "title": "Vermont replacing power plants with home batteries",
-   "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...\n\nComments URL: https://news.ycombinator.com/item?id=49897993\nPoints: 198\n# Comments: 15",
+   "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...\n\nComments URL: https://news.ycombinator.com/item?id=49897993\nPoints: 205\n# Comments: 16",
    "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
    "source": "Hacker News",
    "category": "资讯",
@@ -237,22 +289,9 @@
    "ts": 1790705942
   },
   {
-   "id": "f805f94dfb2d73cd0006cbb9ca4761cf",
-   "title": "Show HN: A working 3D model of an Enigma machine",
-   "summary": "I watched the excellent Veritasium video [1] on the Enigma machine, and watched the full animation by Jared Owen [2], but was still a bit confused on how the in",
-   "link": "https://enigma.design",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 01:15",
-   "ts": 1790702156
-  },
-  {
    "id": "4ed376fa923cb6ff0cfed623c25189c7",
    "title": "Dots: Always-on agents",
-   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 621\n# Comments: 480",
+   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 627\n# Comments: 487",
    "link": "https://openai.com/index/introducing-dots/",
    "source": "Hacker News",
    "category": "资讯",
@@ -265,7 +304,7 @@
   {
    "id": "9a18ab83b14740d253f390f41a667e0f",
    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 941\n# Comments: 826",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 949\n# Comments: 835",
    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
    "source": "Hacker News",
    "category": "资讯",
@@ -278,7 +317,7 @@
   {
    "id": "6d36669c8eeb280645da82be3b0c225a",
    "title": "Needed 1+1, built a functional programming language",
-   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 103\n# Comments: 30",
+   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 108\n# Comments: 32",
    "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
    "source": "Hacker News",
    "category": "资讯",
@@ -291,7 +330,7 @@
   {
    "id": "f1f1273c241d67c0a4c2a1b0aec6f494",
    "title": "PS5 Relapse Exploit",
-   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 310\n# Comments: 186",
+   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 312\n# Comments: 189",
    "link": "https://github.com/ntfargo/Relapse-Exploit",
    "source": "Hacker News",
    "category": "资讯",
@@ -326,6 +365,19 @@
    "urgent": false,
    "fetched_at": "09-29 22:57",
    "ts": 1790693877
+  },
+  {
+   "id": "115e4cf058eb82f7152943a5da45eefb",
+   "title": "Show HN: NSL – WSL for Linux",
+   "summary": "One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distr",
+   "link": "https://frostyard.github.io/nsl/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 22:51",
+   "ts": 1790693496
   },
   {
    "id": "64a9725900301e6dc664060865ee163f",
@@ -469,58 +521,6 @@
    "urgent": false,
    "fetched_at": "09-29 14:40",
    "ts": 1790664034
-  },
-  {
-   "id": "e00fdc8a7905812edd953b146c609f14",
-   "title": "Starship 完成首次轨道发射",
-   "summary": "SpaceX 于 9 月 28 日 8:15 a.m. EDT 在德州的 Starbase 发射了其重型火箭 Starship，执行第 14 次飞行任务，也是首次轨道发射，将 26 颗 Starlink V3 卫星送到轨道上。这次发射仍然是测试飞行，SpaceX 未尝试回收火箭，上面级 Ship 41 执行了减速点火，",
-   "link": "https://www.solidot.org/story?sid=85497",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 00:16",
-   "ts": 1790612189
-  },
-  {
-   "id": "32238b7f3d10f0ddb22c55035d5c185a",
-   "title": "在汽车旅馆里研究生命的起源",
-   "summary": "Julia Van Etten 博士热衷于坐在沙发上用一台 300 美元的显微镜观察水滴，寻找其中的生命痕迹。2021 年她还是罗格斯大学的一名研究生时在位于北卡罗来纳州的家中度假。由于连日阴雨她被困在室内，母亲知道什么能让她振作起来，建议去室外采集些样本。她不抱什么希望，随便找个了公路旁的码头收集水样。但当她对其进行",
-   "link": "https://www.solidot.org/story?sid=85496",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 23:57",
-   "ts": 1790611039
-  },
-  {
-   "id": "2096b3761030665c8b8ef15e6b11c5cc",
-   "title": "美国逾七成沿海地区每年沉降逾 0.1 厘米",
-   "summary": "沿海居民不仅需要担心海平面上升，还需要担心地面沉降。研究人员分析了卫星雷达测量的逾 1.9 亿垂直地面运动数据点，发现 2007-2020 年间美国沿海地区普遍存在地面沉降。全美 71.5% 的沿海地区沉降速度每年逾 0.1 厘米，墨西哥湾沿海沉降速度最快。43% 的美国海岸线每年沉降 0.2厘米或以上，23.3% 每",
-   "link": "https://www.solidot.org/story?sid=85495",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 21:15",
-   "ts": 1790601328
-  },
-  {
-   "id": "4aa9749beb11a8428124f522c8bd1a3b",
-   "title": "冲动与拖延之间共享神经遗传基础",
-   "summary": "你是否有过这样的经历，明知截止时间越来越近，却忍不住频繁刷手机、告诉自己“明天再说”？这种情况被称为拖延。一直以来，拖延被贴上懒惰、自律不足或意志力薄弱的标签，但这种看似影响学习工作以及身心健康的行为，为什么普遍存在且在进化过程中被保留下来？中国科学院心理研究所等团队证实，拖延与冲动这两种看似相反的行为，存在部分共同的",
-   "link": "https://www.solidot.org/story?sid=85494",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 18:22",
-   "ts": 1790590948
   }
  ]
 }
