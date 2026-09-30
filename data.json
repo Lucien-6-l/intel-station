@@ -1,11 +1,50 @@
 {
- "updated_at": "2026-10-01 04:03",
+ "updated_at": "2026-10-01 04:37",
  "total": 40,
  "items": [
   {
+   "id": "c94fb0b9ecfa6f4723a1b54d6f8409e4",
+   "title": "Gemini 4 Argon",
+   "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/\nComments URL: https://news.ycombinator.com/item?id=49913571",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 04:04",
+   "ts": 1790798677
+  },
+  {
+   "id": "80e3a54dba40567fe8ee4543c07dca19",
+   "title": "Halfspace experimental IDE for solid modeling with distance fields",
+   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 17\n# Comments: 1",
+   "link": "https://www.mattkeeter.com/projects/halfspace/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 03:44",
+   "ts": 1790797477
+  },
+  {
+   "id": "1ac7fa0e6af6135661bee8c99678cae7",
+   "title": "America.gov goes crazy on \"play Minecraft\"",
+   "summary": "Article URL: https://america.gov/chat\nComments URL: https://news.ycombinator.com/item?id=49913255\nPoints: 39\n# Comments: 13",
+   "link": "https://america.gov/chat",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 03:34",
+   "ts": 1790796843
+  },
+  {
    "id": "b14b7467b1275c501fa03d68cc75edcc",
    "title": "EDG C++ front-end goes public",
-   "summary": "Article URL: https://edgcpp.org/#transition\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 17\n# Comments: 4",
+   "summary": "Article URL: https://edgcpp.org/#transition\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 51\n# Comments: 19",
    "link": "https://edgcpp.org/#transition",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +70,7 @@
   {
    "id": "873897a04fb3de9f773c3bde9bee3527",
    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 28\n# Comments",
+   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 50\n# Comments",
    "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
    "source": "Hacker News",
    "category": "资讯",
@@ -40,6 +79,19 @@
    "urgent": false,
    "fetched_at": "10-01 02:17",
    "ts": 1790792265
+  },
+  {
+   "id": "96ad81d2fdb6478137852170572b4f9f",
+   "title": "Carnegie Mellon University Announces Historic $3B Gift from Ken Griffin",
+   "summary": "Article URL: https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-announces-historic-3-billion-gift-from-ken-griffin-pioneering-a",
+   "link": "https://www.cmu.edu/news/stories/archives/2026/september/carnegie-mellon-university-announces-historic-3-billion-gift-from-ken-griffin-pioneering-a-new-model",
+   "source": "Hacker News",
+   "category": "发布/大事件",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 02:06",
+   "ts": 1790791573
   },
   {
    "id": "ca00f4216eb9d7c186a67cea3f8f0b06",
@@ -55,9 +107,22 @@
    "ts": 1790789860
   },
   {
+   "id": "1a62bbdfc7871d4e406cf659f2ab4422",
+   "title": "Claude Says",
+   "summary": "Article URL: https://ohhfishal.net/Posts/claude\nComments URL: https://news.ycombinator.com/item?id=49911928\nPoints: 34\n# Comments: 8",
+   "link": "https://ohhfishal.net/Posts/claude",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 01:32",
+   "ts": 1790789526
+  },
+  {
    "id": "e4acb54939aa358e6605926128792173",
    "title": "Commit description as a thinking tool",
-   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 78\n# Comments: 35",
+   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 85\n# Comments: 48",
    "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +161,7 @@
   {
    "id": "a49b8e19d995e58400ea4fe308d14c76",
    "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
-   "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 44\n# Comments: ",
+   "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 46\n# Comments: ",
    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
    "source": "Hacker News",
    "category": "资讯",
@@ -133,19 +198,6 @@
    "ts": 1790780473
   },
   {
-   "id": "848543784b36780e842e9a3f8eef8829",
-   "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
-   "summary": "Hello HN, I'm Ajo and I built Strata.I spent 4 years at Netflix solving self service for non-technical business users. I think I cracked it with my unique appro",
-   "link": "https://strata.do/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 22:59",
-   "ts": 1790780397
-  },
-  {
    "id": "47acd0ee089f4620995584c30e231645",
    "title": "美国佛蒙特州通过家庭电池储能网络应对气候变化",
    "summary": "过去几年极端气候频发，美国佛蒙特州每年都会因此发生十几次持续数小时的断电事故。当地电力公司 Green Mountain Power(GMP)记录到的 10 场最具有破坏性的飓风有 7 场发生在过去十年，造成了逾 2.25 亿美元的损失。为了应对气候变化导致的断电，该公司推出了分布式电池储能网络，向参与该网络的家庭出租",
@@ -161,7 +213,7 @@
   {
    "id": "ad9ed2b764d30c8a0cfdfc3a58104c29",
    "title": "SDF Public Access Unix System ... est. 1987",
-   "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 55\n# Comments: 5",
+   "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 63\n# Comments: 10",
    "link": "https://sdf.org/",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +226,7 @@
   {
    "id": "4f22a659ee9f601059ca086dd43f0626",
    "title": "A brief history of the Bloomberg terminal",
-   "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 154\n# Comments: 55",
+   "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 172\n# Comments: 65",
    "link": "https://spectrum.ieee.org/bloomberg-terminal",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +252,7 @@
   {
    "id": "cc19c4d58331bfcbb11d94d45b13ed67",
    "title": "What TLA+ can and can't check",
-   "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\nComments URL: https://news.ycombinator.com/item?id=49909056\nPoints: 78\n# Co",
+   "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\nComments URL: https://news.ycombinator.com/item?id=49909056\nPoints: 94\n# Co",
    "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
    "source": "Hacker News",
    "category": "资讯",
@@ -209,32 +261,6 @@
    "urgent": false,
    "fetched_at": "09-30 21:57",
    "ts": 1790776626
-  },
-  {
-   "id": "d2562118fe8e5917ff0040206ffaa315",
-   "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-   "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\nComments URL: https://news.ycombinator.com/item?id=49908962\nPoints: 103\n#",
-   "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 21:50",
-   "ts": 1790776250
-  },
-  {
-   "id": "7eadd380bab89ce08ea7031b7e53ac7d",
-   "title": "The last time my family was replaced by technology",
-   "summary": "Article URL: https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/\nComments URL: https://news.ycombinator.com/item?id=49908394\nP",
-   "link": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 21:06",
-   "ts": 1790773571
   },
   {
    "id": "04db06b3425f50e2e63ae8692be19bb7",
@@ -287,19 +313,6 @@
    "urgent": false,
    "fetched_at": "09-30 18:04",
    "ts": 1790762652
-  },
-  {
-   "id": "af01083df0568c8e3df514187d745135",
-   "title": "You said no MCP",
-   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 527\n# Comments: 307",
-   "link": "https://earendil.com/posts/you-said-no-mcp/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 17:55",
-   "ts": 1790762123
   },
   {
    "id": "bfa5e2fb8dc08debd499bb578a897baa",
@@ -430,19 +443,6 @@
    "urgent": false,
    "fetched_at": "09-30 12:42",
    "ts": 1790743342
-  },
-  {
-   "id": "778f1f65f5c989eeba9f384f6af7a85c",
-   "title": "LinkedIn Larpmaxxing",
-   "summary": "Article URL: https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/\nComments URL: https://news.ycombinator.com/item?id=49904314\nPoints: 93\n# Comments: 101",
-   "link": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 12:19",
-   "ts": 1790741997
   },
   {
    "id": "32d485c4d2f0684bacf49ab9d37123b8",
