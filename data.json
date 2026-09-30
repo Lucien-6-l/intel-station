@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-10-01 03:36",
+ "updated_at": "2026-10-01 04:03",
  "total": 40,
  "items": [
   {
    "id": "b14b7467b1275c501fa03d68cc75edcc",
    "title": "EDG C++ front-end goes public",
-   "summary": "Article URL: https://edgcpp.org/#transition\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 4\n# Comments: 0",
+   "summary": "Article URL: https://edgcpp.org/#transition\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 17\n# Comments: 4",
    "link": "https://edgcpp.org/#transition",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +31,7 @@
   {
    "id": "873897a04fb3de9f773c3bde9bee3527",
    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 17\n# Comments",
+   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 28\n# Comments",
    "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +57,7 @@
   {
    "id": "e4acb54939aa358e6605926128792173",
    "title": "Commit description as a thinking tool",
-   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 70\n# Comments: 32",
+   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 78\n# Comments: 35",
    "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +96,7 @@
   {
    "id": "a49b8e19d995e58400ea4fe308d14c76",
    "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
-   "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 40\n# Comments: ",
+   "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 44\n# Comments: ",
    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +161,7 @@
   {
    "id": "ad9ed2b764d30c8a0cfdfc3a58104c29",
    "title": "SDF Public Access Unix System ... est. 1987",
-   "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 51\n# Comments: 5",
+   "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 55\n# Comments: 5",
    "link": "https://sdf.org/",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +174,7 @@
   {
    "id": "4f22a659ee9f601059ca086dd43f0626",
    "title": "A brief history of the Bloomberg terminal",
-   "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 146\n# Comments: 52",
+   "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 154\n# Comments: 55",
    "link": "https://spectrum.ieee.org/bloomberg-terminal",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +200,7 @@
   {
    "id": "cc19c4d58331bfcbb11d94d45b13ed67",
    "title": "What TLA+ can and can't check",
-   "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\nComments URL: https://news.ycombinator.com/item?id=49909056\nPoints: 74\n# Co",
+   "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\nComments URL: https://news.ycombinator.com/item?id=49909056\nPoints: 78\n# Co",
    "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +213,7 @@
   {
    "id": "d2562118fe8e5917ff0040206ffaa315",
    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-   "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\nComments URL: https://news.ycombinator.com/item?id=49908962\nPoints: 100\n#",
+   "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\nComments URL: https://news.ycombinator.com/item?id=49908962\nPoints: 103\n#",
    "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
    "source": "Hacker News",
    "category": "资讯",
@@ -291,7 +291,7 @@
   {
    "id": "af01083df0568c8e3df514187d745135",
    "title": "You said no MCP",
-   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 517\n# Comments: 300",
+   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 527\n# Comments: 307",
    "link": "https://earendil.com/posts/you-said-no-mcp/",
    "source": "Hacker News",
    "category": "资讯",
@@ -434,7 +434,7 @@
   {
    "id": "778f1f65f5c989eeba9f384f6af7a85c",
    "title": "LinkedIn Larpmaxxing",
-   "summary": "Article URL: https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/\nComments URL: https://news.ycombinator.com/item?id=49904314\nPoints: 85\n# Comments: 92",
+   "summary": "Article URL: https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/\nComments URL: https://news.ycombinator.com/item?id=49904314\nPoints: 93\n# Comments: 101",
    "link": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
    "source": "Hacker News",
    "category": "资讯",
