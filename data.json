@@ -1,11 +1,24 @@
 {
- "updated_at": "2026-09-30 08:45",
+ "updated_at": "2026-09-30 09:06",
  "total": 40,
  "items": [
   {
+   "id": "2d330bc7323de90190b7bb8aa2c10ba2",
+   "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+   "summary": "今年devday牙膏挤爆",
+   "link": "https://www.qbitai.com/2026/09/499246.html",
+   "source": "量子位",
+   "category": "资讯",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-30 07:01",
+   "ts": 1790722865
+  },
+  {
    "id": "4118d8edffa62932ea086f0108aa4722",
    "title": "How our vibe coded website looks like a designer made it",
-   "summary": "Article URL: https://railcode.dev/blog/vibe-coded-website\nComments URL: https://news.ycombinator.com/item?id=49901973\nPoints: 49\n# Comments: 29",
+   "summary": "Article URL: https://railcode.dev/blog/vibe-coded-website\nComments URL: https://news.ycombinator.com/item?id=49901973\nPoints: 52\n# Comments: 32",
    "link": "https://railcode.dev/blog/vibe-coded-website",
    "source": "Hacker News",
    "category": "资讯",
@@ -18,7 +31,7 @@
   {
    "id": "4621e9088030f6676e293a26a8895340",
    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 142\n# Comments: 75",
+   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 163\n# Comments: 87",
    "link": "https://github.com/ninjahawk/livenerf",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +44,7 @@
   {
    "id": "310ff059dbf920bcb7144186d60eb73f",
    "title": "UnoDOS",
-   "summary": "Article URL: https://github.com/hmofet/unodos\nComments URL: https://news.ycombinator.com/item?id=49901437\nPoints: 13\n# Comments: 7",
+   "summary": "Article URL: https://github.com/hmofet/unodos\nComments URL: https://news.ycombinator.com/item?id=49901437\nPoints: 14\n# Comments: 7",
    "link": "https://github.com/hmofet/unodos",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +135,7 @@
   {
    "id": "7911defa076329daab8594e05a72bc2e",
    "title": "Tcl/Tk 9.1",
-   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 232\n# Comments: 80",
+   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 234\n# Comments: 80",
    "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -133,22 +146,9 @@
    "ts": 1790702018
   },
   {
-   "id": "4ed376fa923cb6ff0cfed623c25189c7",
-   "title": "Dots: Always-on agents",
-   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 454\n# Comments: 341",
-   "link": "https://openai.com/index/introducing-dots/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 01:07",
-   "ts": 1790701677
-  },
-  {
    "id": "9a18ab83b14740d253f390f41a667e0f",
    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 762\n# Comments: 708",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 767\n# Comments: 710",
    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +161,7 @@
   {
    "id": "6d36669c8eeb280645da82be3b0c225a",
    "title": "Needed 1+1, built a functional programming language",
-   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 16\n# Comments: 2",
+   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 17\n# Comments: 3",
    "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +174,7 @@
   {
    "id": "f1f1273c241d67c0a4c2a1b0aec6f494",
    "title": "PS5 Relapse Exploit",
-   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 224\n# Comments: 122",
+   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 226\n# Comments: 122",
    "link": "https://github.com/ntfargo/Relapse-Exploit",
    "source": "Hacker News",
    "category": "资讯",
@@ -222,6 +222,19 @@
    "urgent": false,
    "fetched_at": "09-29 22:51",
    "ts": 1790693496
+  },
+  {
+   "id": "32a91e8a16ec0740579ec661aea9e7b8",
+   "title": "America.gov",
+   "summary": "Article URL: https://america.gov/\nComments URL: https://news.ycombinator.com/item?id=49893509\nPoints: 324\n# Comments: 261",
+   "link": "https://america.gov/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 22:04",
+   "ts": 1790690697
   },
   {
    "id": "64a9725900301e6dc664060865ee163f",
@@ -508,19 +521,6 @@
    "urgent": false,
    "fetched_at": "09-27 21:57",
    "ts": 1790517477
-  },
-  {
-   "id": "2f6c930837c31dbca62dffd69dd1d0ea",
-   "title": "又快又能打！匿名模型玉兔模型杀上双榜第一，Coding实测全记录",
-   "summary": "中秋假期文具OpenRouter调用日榜榜首",
-   "link": "https://www.qbitai.com/2026/09/498584.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "09-27 21:40",
-   "ts": 1790516402
   }
  ]
 }
