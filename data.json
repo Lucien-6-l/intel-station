@@ -1,7 +1,20 @@
 {
- "updated_at": "2026-09-30 11:38",
+ "updated_at": "2026-09-30 12:03",
  "total": 40,
  "items": [
+  {
+   "id": "8ffc7cb31f76e40cb2a0deef36d6caee",
+   "title": "PSSA: A non-transformer language model written from scratch in Rust",
+   "summary": "Article URL: https://github.com/Sparticle62ops/pssa\nComments URL: https://news.ycombinator.com/item?id=49903993\nPoints: 12\n# Comments: 0",
+   "link": "https://github.com/Sparticle62ops/pssa",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 11:19",
+   "ts": 1790738394
+  },
   {
    "id": "32d485c4d2f0684bacf49ab9d37123b8",
    "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
@@ -18,7 +31,7 @@
   {
    "id": "4876d8e8e156233be06d0b11904cb4ea",
    "title": "Strange Parodies of Atari 2600 Video Game Box Cover Art (2008)",
-   "summary": "Article URL: https://mightygodking.com/2008/04/21/fun-from-yesterday/\nComments URL: https://news.ycombinator.com/item?id=49903383\nPoints: 5\n# Comments: 2",
+   "summary": "Article URL: https://mightygodking.com/2008/04/21/fun-from-yesterday/\nComments URL: https://news.ycombinator.com/item?id=49903383\nPoints: 13\n# Comments: 5",
    "link": "https://mightygodking.com/2008/04/21/fun-from-yesterday/",
    "source": "Hacker News",
    "category": "资讯",
@@ -27,6 +40,19 @@
    "urgent": false,
    "fetched_at": "09-30 09:47",
    "ts": 1790732834
+  },
+  {
+   "id": "ce1142c00c7ec6e6cdb87e8e5b564b02",
+   "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
+   "summary": "Article URL: https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river\nComments URL:",
+   "link": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
+   "source": "Hacker News",
+   "category": "发布/大事件",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 07:03",
+   "ts": 1790723018
   },
   {
    "id": "2d330bc7323de90190b7bb8aa2c10ba2",
@@ -42,22 +68,9 @@
    "ts": 1790722865
   },
   {
-   "id": "4118d8edffa62932ea086f0108aa4722",
-   "title": "How our vibe coded website looks like a designer made it",
-   "summary": "Article URL: https://railcode.dev/blog/vibe-coded-website\nComments URL: https://news.ycombinator.com/item?id=49901973\nPoints: 87\n# Comments: 48",
-   "link": "https://railcode.dev/blog/vibe-coded-website",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 06:59",
-   "ts": 1790722768
-  },
-  {
    "id": "4621e9088030f6676e293a26a8895340",
    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 321\n# Comments: 138",
+   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 343\n# Comments: 147",
    "link": "https://github.com/ninjahawk/livenerf",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +83,7 @@
   {
    "id": "7290a342d0cd302557bc31084e62ea44",
    "title": "Deser: Rethinking Rust Serialization",
-   "summary": "Article URL: https://lucumr.pocoo.org/2026/9/29/deser/\nComments URL: https://news.ycombinator.com/item?id=49901149\nPoints: 37\n# Comments: 6",
+   "summary": "Article URL: https://lucumr.pocoo.org/2026/9/29/deser/\nComments URL: https://news.ycombinator.com/item?id=49901149\nPoints: 39\n# Comments: 6",
    "link": "https://lucumr.pocoo.org/2026/9/29/deser/",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +109,7 @@
   {
    "id": "40f3a1cca11936b6f558d4dfba4300ce",
    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 138\n# Comments: 33",
+   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 152\n# Comments: 35",
    "link": "https://space.bl2.net/",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +161,7 @@
   {
    "id": "7911defa076329daab8594e05a72bc2e",
    "title": "Tcl/Tk 9.1",
-   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 250\n# Comments: 91",
+   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 254\n# Comments: 92",
    "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +174,7 @@
   {
    "id": "4ed376fa923cb6ff0cfed623c25189c7",
    "title": "Dots: Always-on agents",
-   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 478\n# Comments: 360",
+   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 481\n# Comments: 363",
    "link": "https://openai.com/index/introducing-dots/",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +187,7 @@
   {
    "id": "9a18ab83b14740d253f390f41a667e0f",
    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 820\n# Comments: 752",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 830\n# Comments: 757",
    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +200,7 @@
   {
    "id": "6d36669c8eeb280645da82be3b0c225a",
    "title": "Needed 1+1, built a functional programming language",
-   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 43\n# Comments: 14",
+   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 49\n# Comments: 14",
    "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +213,7 @@
   {
    "id": "f1f1273c241d67c0a4c2a1b0aec6f494",
    "title": "PS5 Relapse Exploit",
-   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 248\n# Comments: 134",
+   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 258\n# Comments: 142",
    "link": "https://github.com/ntfargo/Relapse-Exploit",
    "source": "Hacker News",
    "category": "资讯",
@@ -235,19 +248,6 @@
    "urgent": false,
    "fetched_at": "09-29 22:57",
    "ts": 1790693877
-  },
-  {
-   "id": "115e4cf058eb82f7152943a5da45eefb",
-   "title": "Show HN: NSL – WSL for Linux",
-   "summary": "One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distr",
-   "link": "https://frostyard.github.io/nsl/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 22:51",
-   "ts": 1790693496
   },
   {
    "id": "64a9725900301e6dc664060865ee163f",
