@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30 20:04",
+ "updated_at": "2026-09-30 20:47",
  "total": 40,
  "items": [
   {
@@ -57,7 +57,7 @@
   {
    "id": "8bca15ede15bb090951766ac9360c0e3",
    "title": "Pi.dev: You Said No MCP",
-   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 138\n# Comments: 54",
+   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 196\n# Comments: 82",
    "link": "https://earendil.com/posts/you-said-no-mcp/",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +135,7 @@
   {
    "id": "4a62adf7a78710dbefe2d52c9c402e43",
    "title": "September 2026: The world today, as seen by one Polish guy",
-   "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\nComments URL: https://news.ycombinator.com/item?id=49905487\nPoints: 306\n# Co",
+   "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\nComments URL: https://news.ycombinator.com/item?id=49905487\nPoints: 343\n# Co",
    "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +213,7 @@
   {
    "id": "bc321440369ea50be7218a97815b6226",
    "title": "RSS Feeds for Last.fm",
-   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 87\n# Comments: 21",
+   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 96\n# Comments: 29",
    "link": "https://lfm.xiffy.nl/",
    "source": "Hacker News",
    "category": "资讯",
@@ -278,7 +278,7 @@
   {
    "id": "4621e9088030f6676e293a26a8895340",
    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 679\n# Comments: 268",
+   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 702\n# Comments: 275",
    "link": "https://github.com/ninjahawk/livenerf",
    "source": "Hacker News",
    "category": "资讯",
@@ -304,7 +304,7 @@
   {
    "id": "40f3a1cca11936b6f558d4dfba4300ce",
    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 275\n# Comments: 67",
+   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 282\n# Comments: 71",
    "link": "https://space.bl2.net/",
    "source": "Hacker News",
    "category": "资讯",
@@ -317,7 +317,7 @@
   {
    "id": "a8c223138714037474611ccc16cdc7d0",
    "title": "Vermont replacing power plants with home batteries",
-   "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...\n\nComments URL: https://news.ycombinator.com/item?id=49897993\nPoints: 232\n# Comments: 18",
+   "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...\n\nComments URL: https://news.ycombinator.com/item?id=49897993\nPoints: 245\n# Comments: 19",
    "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
    "source": "Hacker News",
    "category": "资讯",
@@ -330,7 +330,7 @@
   {
    "id": "4ed376fa923cb6ff0cfed623c25189c7",
    "title": "Dots: Always-on agents",
-   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 647\n# Comments: 509",
+   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 657\n# Comments: 520",
    "link": "https://openai.com/index/introducing-dots/",
    "source": "Hacker News",
    "category": "资讯",
@@ -343,7 +343,7 @@
   {
    "id": "9a18ab83b14740d253f390f41a667e0f",
    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 973\n# Comments: 851",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 983\n# Comments: 860",
    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
    "source": "Hacker News",
    "category": "资讯",
@@ -356,7 +356,7 @@
   {
    "id": "6d36669c8eeb280645da82be3b0c225a",
    "title": "Needed 1+1, built a functional programming language",
-   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 117\n# Comments: 40",
+   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 119\n# Comments: 42",
    "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
    "source": "Hacker News",
    "category": "资讯",
@@ -369,7 +369,7 @@
   {
    "id": "f1f1273c241d67c0a4c2a1b0aec6f494",
    "title": "PS5 Relapse Exploit",
-   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 323\n# Comments: 195",
+   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 326\n# Comments: 201",
    "link": "https://github.com/ntfargo/Relapse-Exploit",
    "source": "Hacker News",
    "category": "资讯",
@@ -406,17 +406,17 @@
    "ts": 1790693877
   },
   {
-   "id": "115e4cf058eb82f7152943a5da45eefb",
-   "title": "Show HN: NSL – WSL for Linux",
-   "summary": "One of the things that Windows really got right is WSL2. I drive an atomic Linux distro for daily use, but wanted a way to develop with multiple different distr",
-   "link": "https://frostyard.github.io/nsl/",
+   "id": "32a91e8a16ec0740579ec661aea9e7b8",
+   "title": "America.gov",
+   "summary": "Article URL: https://america.gov/\nComments URL: https://news.ycombinator.com/item?id=49893509\nPoints: 625\n# Comments: 518",
+   "link": "https://america.gov/",
    "source": "Hacker News",
    "category": "资讯",
    "topic": "科技社区",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "09-29 22:51",
-   "ts": 1790693496
+   "fetched_at": "09-29 22:04",
+   "ts": 1790690697
   },
   {
    "id": "64a9725900301e6dc664060865ee163f",
