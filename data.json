@@ -1,7 +1,20 @@
 {
- "updated_at": "2026-09-30 21:38",
+ "updated_at": "2026-09-30 22:07",
  "total": 40,
  "items": [
+  {
+   "id": "3296098f2fc78479a153f19f648b796e",
+   "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
+   "summary": "Article URL: https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts\nComments URL: https://news.ycombinator.com/item?id=49908757\nPoints: 9\n# Comments: 1",
+   "link": "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 21:36",
+   "ts": 1790775397
+  },
   {
    "id": "7eadd380bab89ce08ea7031b7e53ac7d",
    "title": "The last time my family was replaced by technology",
@@ -14,6 +27,19 @@
    "urgent": false,
    "fetched_at": "09-30 21:06",
    "ts": 1790773571
+  },
+  {
+   "id": "04db06b3425f50e2e63ae8692be19bb7",
+   "title": "直播回顾：工业AI的下一个机会在哪？",
+   "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
+   "link": "https://www.qbitai.com/2026/09/499605.html",
+   "source": "量子位",
+   "category": "资讯",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-30 20:11",
+   "ts": 1790770284
   },
   {
    "id": "ba7d842d7e0694ba703385c42acf1867",
@@ -70,7 +96,7 @@
   {
    "id": "8bca15ede15bb090951766ac9360c0e3",
    "title": "Pi.dev: You Said No MCP",
-   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 240\n# Comments: 111",
+   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 279\n# Comments: 134",
    "link": "https://earendil.com/posts/you-said-no-mcp/",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +174,7 @@
   {
    "id": "4a62adf7a78710dbefe2d52c9c402e43",
    "title": "September 2026: The world today, as seen by one Polish guy",
-   "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\nComments URL: https://news.ycombinator.com/item?id=49905487\nPoints: 374\n# Co",
+   "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\nComments URL: https://news.ycombinator.com/item?id=49905487\nPoints: 392\n# Co",
    "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
    "source": "Hacker News",
    "category": "资讯",
@@ -226,7 +252,7 @@
   {
    "id": "bc321440369ea50be7218a97815b6226",
    "title": "RSS Feeds for Last.fm",
-   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 97\n# Comments: 29",
+   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 100\n# Comments: 29",
    "link": "https://lfm.xiffy.nl/",
    "source": "Hacker News",
    "category": "资讯",
@@ -291,7 +317,7 @@
   {
    "id": "4621e9088030f6676e293a26a8895340",
    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 732\n# Comments: 295",
+   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 745\n# Comments: 305",
    "link": "https://github.com/ninjahawk/livenerf",
    "source": "Hacker News",
    "category": "资讯",
@@ -317,7 +343,7 @@
   {
    "id": "40f3a1cca11936b6f558d4dfba4300ce",
    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 297\n# Comments: 73",
+   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 302\n# Comments: 76",
    "link": "https://space.bl2.net/",
    "source": "Hacker News",
    "category": "资讯",
@@ -330,7 +356,7 @@
   {
    "id": "a8c223138714037474611ccc16cdc7d0",
    "title": "Vermont replacing power plants with home batteries",
-   "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...\n\nComments URL: https://news.ycombinator.com/item?id=49897993\nPoints: 261\n# Comments: 20",
+   "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...\n\nComments URL: https://news.ycombinator.com/item?id=49897993\nPoints: 275\n# Comments: 21",
    "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
    "source": "Hacker News",
    "category": "资讯",
@@ -343,7 +369,7 @@
   {
    "id": "4ed376fa923cb6ff0cfed623c25189c7",
    "title": "Dots: Always-on agents",
-   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 673\n# Comments: 532",
+   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 687\n# Comments: 541",
    "link": "https://openai.com/index/introducing-dots/",
    "source": "Hacker News",
    "category": "资讯",
@@ -356,7 +382,7 @@
   {
    "id": "9a18ab83b14740d253f390f41a667e0f",
    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 994\n# Comments: 870",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 997\n# Comments: 874",
    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
    "source": "Hacker News",
    "category": "资讯",
@@ -369,7 +395,7 @@
   {
    "id": "6d36669c8eeb280645da82be3b0c225a",
    "title": "Needed 1+1, built a functional programming language",
-   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 124\n# Comments: 46",
+   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 126\n# Comments: 48",
    "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
    "source": "Hacker News",
    "category": "资讯",
@@ -404,19 +430,6 @@
    "urgent": false,
    "fetched_at": "09-29 22:57",
    "ts": 1790693877
-  },
-  {
-   "id": "32a91e8a16ec0740579ec661aea9e7b8",
-   "title": "America.gov",
-   "summary": "Article URL: https://america.gov/\nComments URL: https://news.ycombinator.com/item?id=49893509\nPoints: 652\n# Comments: 536",
-   "link": "https://america.gov/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 22:04",
-   "ts": 1790690697
   },
   {
    "id": "64a9725900301e6dc664060865ee163f",
@@ -508,19 +521,6 @@
    "urgent": false,
    "fetched_at": "09-29 15:50",
    "ts": 1790668212
-  },
-  {
-   "id": "a8116bf0ab1d4bb8e4008bfe53c1c863",
-   "title": "OpenAI因新模型太强叫停发布",
-   "summary": "AGI计划暂停。",
-   "link": "https://www.qbitai.com/2026/09/499140.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "09-29 15:49",
-   "ts": 1790668160
   }
  ]
 }
