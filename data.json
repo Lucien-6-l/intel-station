@@ -1,19 +1,45 @@
 {
- "updated_at": "2026-10-01 01:37",
+ "updated_at": "2026-10-01 02:03",
  "total": 40,
  "items": [
   {
-   "id": "e6807c90b42624d6f117a863f4049825",
-   "title": "Let's Ditch Google (Verb)",
-   "summary": "Article URL: https://adam.farkas.pro/lets-ditch-google-verb/\nComments URL: https://news.ycombinator.com/item?id=49911759\nPoints: 25\n# Comments: 13",
-   "link": "https://adam.farkas.pro/lets-ditch-google-verb/",
+   "id": "ca00f4216eb9d7c186a67cea3f8f0b06",
+   "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+   "summary": "Hey HN, Anders and Tom here. We're building Magnitude, an inference engine for agents that optimizes itself to run as fast as possible on your hardware. It work",
+   "link": "https://github.com/magnitudedev/magnitude",
+   "source": "Hacker News",
+   "category": "发布/大事件",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 01:37",
+   "ts": 1790789860
+  },
+  {
+   "id": "e4acb54939aa358e6605926128792173",
+   "title": "Commit Description as a Thinking Tool",
+   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 22\n# Comments: 0",
+   "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
    "source": "Hacker News",
    "category": "资讯",
    "topic": "科技社区",
    "weight": 2,
    "urgent": false,
    "fetched_at": "10-01 01:18",
-   "ts": 1790788698
+   "ts": 1790788693
+  },
+  {
+   "id": "d654d1335ae331016f947aec70e2ffdb",
+   "title": "PS5 越狱取得突破",
+   "summary": "由于索尼频繁更新 PS5 的固件，而大部分 PS5 越狱方法只针对特定固件版本的漏洞，因而这些越狱方法实用性相当有限。但情况在本周二发生了变化，名为 Relapse 的漏洞利用方法适用于最高固件版本 v13.6 的 PS5 游戏机，而 v13.6 是在今年 7 月释出的，意味着 PS5 只要不更新最新固件，就能成功越狱",
+   "link": "https://www.solidot.org/story?sid=85520",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 01:01",
+   "ts": 1790787666
   },
   {
    "id": "42b2a71e3da504a9a47bcfdd4f7aafcc",
@@ -31,7 +57,7 @@
   {
    "id": "a49b8e19d995e58400ea4fe308d14c76",
    "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
-   "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 21\n# Comments: ",
+   "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 28\n# Comments: ",
    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
    "source": "Hacker News",
    "category": "资讯",
@@ -40,6 +66,19 @@
    "urgent": false,
    "fetched_at": "09-30 23:54",
    "ts": 1790783699
+  },
+  {
+   "id": "866f61b7d08c70e1c40bf4a20774df08",
+   "title": "Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+   "summary": "Hello Hacker NewsI am Uygar, I am an entrepreneur from London. I run my businesses on calls everyday, customers, partners and suppliers. And i have a horrible m",
+   "link": "https://openparrot.app",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 23:33",
+   "ts": 1790782392
   },
   {
    "id": "ba5de8e48c96cc714ff768a3113464bc",
@@ -68,6 +107,19 @@
    "ts": 1790780473
   },
   {
+   "id": "c79ede1c63b7da9df407290577c485ba",
+   "title": "Show HN: Strata – an expressive semantic layer that can say no to your LLM",
+   "summary": "Hello HN, I'm Ajo and I built Strata.I spent 4 years at Netflix solving self service for non-technical business users. I think I cracked it with my unique appro",
+   "link": "https://strata.do/try/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 22:59",
+   "ts": 1790780397
+  },
+  {
    "id": "47acd0ee089f4620995584c30e231645",
    "title": "美国佛蒙特州通过家庭电池储能网络应对气候变化",
    "summary": "过去几年极端气候频发，美国佛蒙特州每年都会因此发生十几次持续数小时的断电事故。当地电力公司 Green Mountain Power(GMP)记录到的 10 场最具有破坏性的飓风有 7 场发生在过去十年，造成了逾 2.25 亿美元的损失。为了应对气候变化导致的断电，该公司推出了分布式电池储能网络，向参与该网络的家庭出租",
@@ -83,7 +135,7 @@
   {
    "id": "ad9ed2b764d30c8a0cfdfc3a58104c29",
    "title": "SDF Public Access Unix System ... est. 1987",
-   "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 23\n# Comments: 1",
+   "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 32\n# Comments: 3",
    "link": "https://sdf.org/",
    "source": "Hacker News",
    "category": "资讯",
@@ -95,8 +147,8 @@
   },
   {
    "id": "4f22a659ee9f601059ca086dd43f0626",
-   "title": "A Brief History of the Bloomberg Terminal",
-   "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 71\n# Comments: 19",
+   "title": "A brief history of the Bloomberg terminal",
+   "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 95\n# Comments: 31",
    "link": "https://spectrum.ieee.org/bloomberg-terminal",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +174,7 @@
   {
    "id": "cc19c4d58331bfcbb11d94d45b13ed67",
    "title": "What TLA+ can and can't check",
-   "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\nComments URL: https://news.ycombinator.com/item?id=49909056\nPoints: 18\n# Co",
+   "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\nComments URL: https://news.ycombinator.com/item?id=49909056\nPoints: 34\n# Co",
    "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +187,7 @@
   {
    "id": "d2562118fe8e5917ff0040206ffaa315",
    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-   "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\nComments URL: https://news.ycombinator.com/item?id=49908962\nPoints: 72\n# ",
+   "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\nComments URL: https://news.ycombinator.com/item?id=49908962\nPoints: 80\n# ",
    "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
    "source": "Hacker News",
    "category": "资讯",
@@ -144,6 +196,19 @@
    "urgent": false,
    "fetched_at": "09-30 21:50",
    "ts": 1790776250
+  },
+  {
+   "id": "7eadd380bab89ce08ea7031b7e53ac7d",
+   "title": "The last time my family was replaced by technology",
+   "summary": "Article URL: https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/\nComments URL: https://news.ycombinator.com/item?id=49908394\nP",
+   "link": "https://manuel.darcemont.fr/posts/the-last-time-my-family-was-replaced-by-technology/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 21:06",
+   "ts": 1790773571
   },
   {
    "id": "04db06b3425f50e2e63ae8692be19bb7",
@@ -200,7 +265,7 @@
   {
    "id": "af01083df0568c8e3df514187d745135",
    "title": "You Said No MCP",
-   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 459\n# Comments: 263",
+   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 476\n# Comments: 276",
    "link": "https://earendil.com/posts/you-said-no-mcp/",
    "source": "Hacker News",
    "category": "资讯",
@@ -341,17 +406,17 @@
    "ts": 1790743342
   },
   {
-   "id": "bc321440369ea50be7218a97815b6226",
-   "title": "RSS Feeds for Last.fm",
-   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 112\n# Comments: 38",
-   "link": "https://lfm.xiffy.nl/",
+   "id": "778f1f65f5c989eeba9f384f6af7a85c",
+   "title": "LinkedIn Larpmaxxing",
+   "summary": "Article URL: https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/\nComments URL: https://news.ycombinator.com/item?id=49904314\nPoints: 53\n# Comments: 48",
+   "link": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
    "source": "Hacker News",
    "category": "资讯",
    "topic": "科技社区",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "09-30 11:00",
-   "ts": 1790737205
+   "fetched_at": "09-30 12:19",
+   "ts": 1790741997
   },
   {
    "id": "32d485c4d2f0684bacf49ab9d37123b8",
@@ -367,19 +432,6 @@
    "ts": 1790736797
   },
   {
-   "id": "df2859dc7be0d117256622769e7e8c66",
-   "title": "Show HN: I created a BGP-based blackhole system that you can set up in minutes",
-   "summary": "Hey friends, I've been working on this idea since 2019, and wanted to share it and see who might be interested.  I built a BGP network full of nodes that collec",
-   "link": "https://setecastronomyinc.com/shield",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 08:28",
-   "ts": 1790728109
-  },
-  {
    "id": "0e0267e5f683aef7c7ba8181912a9895",
    "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
    "summary": "Hi HN,Ledge is a Markdown notebook that runs shell commands, code, SQL, etc from inside your own notes.I built Ledge because I spend much of my day copy/pasting",
@@ -391,19 +443,6 @@
    "urgent": false,
    "fetched_at": "09-30 07:41",
    "ts": 1790725294
-  },
-  {
-   "id": "14f13c552532e01006e40eb59a449399",
-   "title": "Floppy Emu Hardware Failure Analysis Results",
-   "summary": "Article URL: https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/\nComments URL: https://news.ycombinator.com/item?id=49902093\n",
-   "link": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 07:10",
-   "ts": 1790723426
   },
   {
    "id": "2d330bc7323de90190b7bb8aa2c10ba2",
@@ -421,7 +460,7 @@
   {
    "id": "4621e9088030f6676e293a26a8895340",
    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 822\n# Comments: 340",
+   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 827\n# Comments: 345",
    "link": "https://github.com/ninjahawk/livenerf",
    "source": "Hacker News",
    "category": "资讯",
@@ -432,30 +471,17 @@
    "ts": 1790721374
   },
   {
-   "id": "dbc017b422e4902a09e10de3d2d37a94",
-   "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-   "summary": "Article URL: https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/\nComments ",
-   "link": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
+   "id": "9bafbc39c72d3bd9086eb65a51f2b98f",
+   "title": "中国 AI 智能体也会撒谎和欺骗",
+   "summary": "和美国 AI 模型一样，中国公司的 AI 智能体也会撒谎和欺骗。在今年 3 月进行的一次商业招标实验中，\n北航、北大、宁波诺丁汉和 360 AI 安全实验室的研究人员让多个智能体参与模拟客户合同的竞标，每个智能体都被告知其产品的功能及客户的需求，随后被要求进行报价。阿里巴巴 Qwen3-Max-Preview 模型 8",
+   "link": "https://www.solidot.org/story?sid=85508",
+   "source": "Solidot",
+   "category": "发布/大事件",
+   "topic": "科技资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "09-30 03:30",
-   "ts": 1790710217
-  },
-  {
-   "id": "40f3a1cca11936b6f558d4dfba4300ce",
-   "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 349\n# Comments: 93",
-   "link": "https://space.bl2.net/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 03:08",
-   "ts": 1790708881
+   "fetched_at": "09-30 00:23",
+   "ts": 1790698998
   },
   {
    "id": "fdb79563dcf391deb532dc49acee0290",
@@ -482,32 +508,6 @@
    "urgent": false,
    "fetched_at": "09-29 22:57",
    "ts": 1790693877
-  },
-  {
-   "id": "64a9725900301e6dc664060865ee163f",
-   "title": "美光台工厂工会准备罢工",
-   "summary": "继三星、海力士之后，全球第三大 DRAM 厂美光（Micron）在台湾的两个工厂，罢工行动也蠢蠢欲动。9 月 24 日，工会人数 2100 人，占全厂七成的美光桃园工会决定依据劳资争议处理法，10 月 1 日起进行为期一周的罢工投票。一旦支持罢工者超过工会会员数一半，就取得罢工权。有 1 万 2 千人的美光台中厂，台中",
-   "link": "https://www.solidot.org/story?sid=85505",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 21:08",
-   "ts": 1790687314
-  },
-  {
-   "id": "46d7ee7f7d07023430552d5f3956bc1e",
-   "title": "Firefox 157 释出",
-   "summary": "Mozilla 释出了 Firefox 157。主要变化包括：新的 Nova UI，现代化浏览器界面边框、侧边栏及菜单外观；在兼容设备上支持 WebRTC 视频通话 AV1 硬件解码，此前它一直依赖于软件解码；修复 HDR 视频问题；改进了更改视频播放速度时的音画同步；移除内置搜索引擎 Amazon；等等。",
-   "link": "https://www.solidot.org/story?sid=85504",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 20:10",
-   "ts": 1790683842
   },
   {
    "id": "09f55891a08b62901c2d032d090e2c5d",
