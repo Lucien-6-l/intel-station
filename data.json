@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-10-01 02:41",
+ "updated_at": "2026-10-01 03:06",
  "total": 40,
  "items": [
   {
    "id": "873897a04fb3de9f773c3bde9bee3527",
    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 5\n# Comments:",
+   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 9\n# Comments:",
    "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +31,7 @@
   {
    "id": "e4acb54939aa358e6605926128792173",
    "title": "Commit Description as a Thinking Tool",
-   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 44\n# Comments: 7",
+   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 58\n# Comments: 22",
    "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +70,7 @@
   {
    "id": "a49b8e19d995e58400ea4fe308d14c76",
    "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
-   "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 32\n# Comments: ",
+   "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 36\n# Comments: ",
    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
    "source": "Hacker News",
    "category": "资讯",
@@ -79,6 +79,19 @@
    "urgent": false,
    "fetched_at": "09-30 23:54",
    "ts": 1790783699
+  },
+  {
+   "id": "866f61b7d08c70e1c40bf4a20774df08",
+   "title": "Show HN: Parrot – Open-Source Smart Meeting Recorder with Co-Pilot on Mac",
+   "summary": "Hello Hacker NewsI am Uygar, I am an entrepreneur from London. I run my businesses on calls everyday, customers, partners and suppliers. And i have a horrible m",
+   "link": "https://openparrot.app",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 23:33",
+   "ts": 1790782392
   },
   {
    "id": "ba5de8e48c96cc714ff768a3113464bc",
@@ -135,7 +148,7 @@
   {
    "id": "ad9ed2b764d30c8a0cfdfc3a58104c29",
    "title": "SDF Public Access Unix System ... est. 1987",
-   "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 37\n# Comments: 3",
+   "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 46\n# Comments: 5",
    "link": "https://sdf.org/",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +161,7 @@
   {
    "id": "4f22a659ee9f601059ca086dd43f0626",
    "title": "A brief history of the Bloomberg terminal",
-   "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 119\n# Comments: 42",
+   "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 135\n# Comments: 46",
    "link": "https://spectrum.ieee.org/bloomberg-terminal",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +187,7 @@
   {
    "id": "cc19c4d58331bfcbb11d94d45b13ed67",
    "title": "What TLA+ can and can't check",
-   "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\nComments URL: https://news.ycombinator.com/item?id=49909056\nPoints: 49\n# Co",
+   "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\nComments URL: https://news.ycombinator.com/item?id=49909056\nPoints: 61\n# Co",
    "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +200,7 @@
   {
    "id": "d2562118fe8e5917ff0040206ffaa315",
    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-   "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\nComments URL: https://news.ycombinator.com/item?id=49908962\nPoints: 88\n# ",
+   "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\nComments URL: https://news.ycombinator.com/item?id=49908962\nPoints: 95\n# ",
    "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
    "source": "Hacker News",
    "category": "资讯",
@@ -265,7 +278,7 @@
   {
    "id": "af01083df0568c8e3df514187d745135",
    "title": "You Said No MCP",
-   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 495\n# Comments: 278",
+   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 508\n# Comments: 287",
    "link": "https://earendil.com/posts/you-said-no-mcp/",
    "source": "Hacker News",
    "category": "资讯",
@@ -408,7 +421,7 @@
   {
    "id": "778f1f65f5c989eeba9f384f6af7a85c",
    "title": "LinkedIn Larpmaxxing",
-   "summary": "Article URL: https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/\nComments URL: https://news.ycombinator.com/item?id=49904314\nPoints: 63\n# Comments: 67",
+   "summary": "Article URL: https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/\nComments URL: https://news.ycombinator.com/item?id=49904314\nPoints: 76\n# Comments: 80",
    "link": "https://hereticpleb.vercel.app/blog/linkedin-larpmaxxing/",
    "source": "Hacker News",
    "category": "资讯",
@@ -456,19 +469,6 @@
    "urgent": false,
    "fetched_at": "09-30 07:01",
    "ts": 1790722865
-  },
-  {
-   "id": "4621e9088030f6676e293a26a8895340",
-   "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 836\n# Comments: 351",
-   "link": "https://github.com/ninjahawk/livenerf",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 06:36",
-   "ts": 1790721374
   },
   {
    "id": "9bafbc39c72d3bd9086eb65a51f2b98f",
