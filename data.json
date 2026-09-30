@@ -1,7 +1,46 @@
 {
- "updated_at": "2026-09-30 19:03",
+ "updated_at": "2026-09-30 19:37",
  "total": 40,
  "items": [
+  {
+   "id": "c2380e07c1ad90ded50f7a98690207a2",
+   "title": "500 光年外的一颗巨行星探测到水、甲烷和氨",
+   "summary": "文学家团队借助韦伯望远镜在距地球 500 光年的巨行星 HATS-6 b 大气中探测到水、甲烷、氨，同时发现这颗行星温度可能比标准推算温度低得多。这是透射光谱技术第二次在系外行星大气中检出水汽之外的氨信号。由于氨这类含氮分子在较冷的巨行星中本应比在炽热类木星行星中更为丰富，这一发现支持了一个判断：围绕 M 型矮星运行的",
+   "link": "https://www.solidot.org/story?sid=85516",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 18:37",
+   "ts": 1790764665
+  },
+  {
+   "id": "41660660fec6c08a4d728a4fd98672b9",
+   "title": "Windows 11 原生支持 Linux 容器",
+   "summary": "微软宣布 WSL Containers GA，该工具为 Windows 11 开发者提供了一种通过 Windows Subsystem for Linux 构建、运行和部署 Linux 容器的内置方案。微软同时提供了容器管理工具 wslc.exe，GPU 支持、网络改进、健康检查、存储挂载、与 Microsoft De",
+   "link": "https://www.solidot.org/story?sid=85515",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 18:23",
+   "ts": 1790763825
+  },
+  {
+   "id": "96f6a869f8c786755eb1af9c263b616b",
+   "title": "Anthropic，你是来给智谱打广告的吧！",
+   "summary": "实测说GLM-5.3很强",
+   "link": "https://www.qbitai.com/2026/09/499597.html",
+   "source": "量子位",
+   "category": "资讯",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-30 18:04",
+   "ts": 1790762652
+  },
   {
    "id": "05f13667ca6739ac94334958a8f26aea",
    "title": "GPT-6.1 Sol replaces GPT-6 Sol after just 7 days, with near-Astra intelligence",
@@ -18,7 +57,7 @@
   {
    "id": "8bca15ede15bb090951766ac9360c0e3",
    "title": "Pi.dev: You Said No MCP",
-   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 65\n# Comments: 24",
+   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 106\n# Comments: 37",
    "link": "https://earendil.com/posts/you-said-no-mcp/",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +148,7 @@
   {
    "id": "4a62adf7a78710dbefe2d52c9c402e43",
    "title": "September 2026: The world today, as seen by one Polish guy",
-   "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\nComments URL: https://news.ycombinator.com/item?id=49905487\nPoints: 269\n# Co",
+   "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\nComments URL: https://news.ycombinator.com/item?id=49905487\nPoints: 288\n# Co",
    "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +226,7 @@
   {
    "id": "bc321440369ea50be7218a97815b6226",
    "title": "RSS Feeds for Last.fm",
-   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 80\n# Comments: 16",
+   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 83\n# Comments: 18",
    "link": "https://lfm.xiffy.nl/",
    "source": "Hacker News",
    "category": "资讯",
@@ -224,19 +263,6 @@
    "ts": 1790723426
   },
   {
-   "id": "ce1142c00c7ec6e6cdb87e8e5b564b02",
-   "title": "NRC issues first U.S. construction permit for a BWRX-300 small modular reactor",
-   "summary": "Article URL: https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river\nComments URL:",
-   "link": "https://www.gevernova.com/news/press-releases/nrc-issues-first-us-construction-permit-bwrx-300-small-modular-reactor-tva-clinch-river",
-   "source": "Hacker News",
-   "category": "发布/大事件",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 07:03",
-   "ts": 1790723018
-  },
-  {
    "id": "2d330bc7323de90190b7bb8aa2c10ba2",
    "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
    "summary": "今年devday牙膏挤爆",
@@ -252,7 +278,7 @@
   {
    "id": "4621e9088030f6676e293a26a8895340",
    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 653\n# Comments: 261",
+   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 669\n# Comments: 264",
    "link": "https://github.com/ninjahawk/livenerf",
    "source": "Hacker News",
    "category": "资讯",
@@ -278,7 +304,7 @@
   {
    "id": "40f3a1cca11936b6f558d4dfba4300ce",
    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 264\n# Comments: 64",
+   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 271\n# Comments: 64",
    "link": "https://space.bl2.net/",
    "source": "Hacker News",
    "category": "资讯",
@@ -291,7 +317,7 @@
   {
    "id": "a8c223138714037474611ccc16cdc7d0",
    "title": "Vermont replacing power plants with home batteries",
-   "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...\n\nComments URL: https://news.ycombinator.com/item?id=49897993\nPoints: 213\n# Comments: 16",
+   "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...\n\nComments URL: https://news.ycombinator.com/item?id=49897993\nPoints: 223\n# Comments: 16",
    "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
    "source": "Hacker News",
    "category": "资讯",
@@ -304,7 +330,7 @@
   {
    "id": "4ed376fa923cb6ff0cfed623c25189c7",
    "title": "Dots: Always-on agents",
-   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 635\n# Comments: 496",
+   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 643\n# Comments: 502",
    "link": "https://openai.com/index/introducing-dots/",
    "source": "Hacker News",
    "category": "资讯",
@@ -317,7 +343,7 @@
   {
    "id": "9a18ab83b14740d253f390f41a667e0f",
    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 958\n# Comments: 841",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 972\n# Comments: 847",
    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
    "source": "Hacker News",
    "category": "资讯",
@@ -330,7 +356,7 @@
   {
    "id": "6d36669c8eeb280645da82be3b0c225a",
    "title": "Needed 1+1, built a functional programming language",
-   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 114\n# Comments: 35",
+   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 114\n# Comments: 37",
    "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
    "source": "Hacker News",
    "category": "资讯",
@@ -343,7 +369,7 @@
   {
    "id": "f1f1273c241d67c0a4c2a1b0aec6f494",
    "title": "PS5 Relapse Exploit",
-   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 314\n# Comments: 190",
+   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 320\n# Comments: 193",
    "link": "https://github.com/ntfargo/Relapse-Exploit",
    "source": "Hacker News",
    "category": "资讯",
@@ -378,6 +404,19 @@
    "urgent": false,
    "fetched_at": "09-29 22:57",
    "ts": 1790693877
+  },
+  {
+   "id": "32a91e8a16ec0740579ec661aea9e7b8",
+   "title": "America.gov",
+   "summary": "Article URL: https://america.gov/\nComments URL: https://news.ycombinator.com/item?id=49893509\nPoints: 592\n# Comments: 495",
+   "link": "https://america.gov/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 22:04",
+   "ts": 1790690697
   },
   {
    "id": "64a9725900301e6dc664060865ee163f",
@@ -482,45 +521,6 @@
    "urgent": true,
    "fetched_at": "09-29 15:49",
    "ts": 1790668160
-  },
-  {
-   "id": "41660660fec6c08a4d728a4fd98672b9",
-   "title": "Windows 10 更新 bug 远少于 Windows 11",
-   "summary": "微软每次释出 Windows 11 例行安全更新，都会给 Windows 11 用户带来一系列新问题。9 月份的安全更新带来了远程桌面、USB 音频、Linux/WSL 应用、企业域、文件历史、Explorer.exe 以及 AMD 显卡相关的新故障。微软仍然在支持上一代的操作系统 Windows 10。Windows",
-   "link": "https://www.solidot.org/story?sid=85499",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 15:17",
-   "ts": 1790666274
-  },
-  {
-   "id": "df4d00927ab7ef04781b3b258aa9e000",
-   "title": "成立一年完成5轮融资，诺因智能再获数亿元，累计超10亿元",
-   "summary": "诺因从Demo走向家庭",
-   "link": "https://www.qbitai.com/2026/09/499135.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "09-29 15:10",
-   "ts": 1790665859
-  },
-  {
-   "id": "7e4c2d189917ea7b9d983cc214c9fac0",
-   "title": "中国冰川大幅减少",
-   "summary": "中国冰川主要分布在昆仑山、天山、念青唐古拉山、喜马拉雅山、喀喇昆仑山五大山系，新疆、西藏两地冰川面积与冰储量占全国总量九成左右。第三次中国冰川编目显示，截至 2020 年前后，全国冰川面积约 4.6 万平方公里，冰川共计约 6.9 万条。但对比 1960 年代基准数据，冰川总面积已经减少约 26%，有约 7000 条小",
-   "link": "https://www.solidot.org/story?sid=85498",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 14:40",
-   "ts": 1790664034
   }
  ]
 }
