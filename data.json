@@ -1,11 +1,24 @@
 {
- "updated_at": "2026-10-01 06:03",
+ "updated_at": "2026-10-01 06:37",
  "total": 40,
  "items": [
   {
+   "id": "138163ee44c4b19284d53e6c19c53901",
+   "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+   "summary": "Article URL: https://www.thespacereview.com/article/4951/1\nComments URL: https://news.ycombinator.com/item?id=49915082\nPoints: 22\n# Comments: 0",
+   "link": "https://www.thespacereview.com/article/4951/1",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 06:03",
+   "ts": 1790805784
+  },
+  {
    "id": "0f725f56ea62dd7fe9675e1d15ede9d7",
    "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
-   "summary": "Article URL: https://artificialanalysis.ai/models/gemini-4-argon\nComments URL: https://news.ycombinator.com/item?id=49914236\nPoints: 37\n# Comments: 17",
+   "summary": "Article URL: https://artificialanalysis.ai/models/gemini-4-argon\nComments URL: https://news.ycombinator.com/item?id=49914236\nPoints: 46\n# Comments: 21",
    "link": "https://artificialanalysis.ai/models/gemini-4-argon",
    "source": "Hacker News",
    "category": "资讯",
@@ -18,7 +31,7 @@
   {
    "id": "9f19ec5c3d43885cbde75d74c7f06817",
    "title": "Gitea 28.0",
-   "summary": "Article URL: https://blog.gitea.com/release-of-28.0.0/\nComments URL: https://news.ycombinator.com/item?id=49913975\nPoints: 43\n# Comments: 15",
+   "summary": "Article URL: https://blog.gitea.com/release-of-28.0.0/\nComments URL: https://news.ycombinator.com/item?id=49913975\nPoints: 49\n# Comments: 17",
    "link": "https://blog.gitea.com/release-of-28.0.0/",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -31,7 +44,7 @@
   {
    "id": "8cc9ad38c94dce4c7be1f3af40e5f547",
    "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-   "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from\nComments URL: https://news.ycombinator.com/item?id=49913604\nPoints: 9\n# Comments: ",
+   "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from\nComments URL: https://news.ycombinator.com/item?id=49913604\nPoints: 13\n# Comments:",
    "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +70,7 @@
   {
    "id": "06fdcf15656866f63e2fa4e085ab610f",
    "title": "CS240 AI Cheating Retrospective",
-   "summary": "Article URL: https://turkeyland.net/thoughts/ai.php\nComments URL: https://news.ycombinator.com/item?id=49913458\nPoints: 22\n# Comments: 8",
+   "summary": "Article URL: https://turkeyland.net/thoughts/ai.php\nComments URL: https://news.ycombinator.com/item?id=49913458\nPoints: 33\n# Comments: 16",
    "link": "https://turkeyland.net/thoughts/ai.php",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +83,7 @@
   {
    "id": "d15835b5b1a7b93b8b89381fb56acd39",
    "title": "Dear Software Makers",
-   "summary": "Article URL: https://blog.jim-nielsen.com/2026/dear-software-makers/\nComments URL: https://news.ycombinator.com/item?id=49913364\nPoints: 23\n# Comments: 7",
+   "summary": "Article URL: https://blog.jim-nielsen.com/2026/dear-software-makers/\nComments URL: https://news.ycombinator.com/item?id=49913364\nPoints: 33\n# Comments: 11",
    "link": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +96,7 @@
   {
    "id": "80e3a54dba40567fe8ee4543c07dca19",
    "title": "Halfspace experimental IDE for solid modeling with distance fields",
-   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 35\n# Comments: 6",
+   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 42\n# Comments: 6",
    "link": "https://www.mattkeeter.com/projects/halfspace/",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +109,7 @@
   {
    "id": "b14b7467b1275c501fa03d68cc75edcc",
    "title": "EDG C++ front-end goes public",
-   "summary": "Article URL: https://edgcpp.org/#transition\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 90\n# Comments: 32",
+   "summary": "Article URL: https://edgcpp.org/#transition\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 99\n# Comments: 36",
    "link": "https://edgcpp.org/#transition",
    "source": "Hacker News",
    "category": "资讯",
@@ -108,7 +121,7 @@
   },
   {
    "id": "376aa41a379758ec281e0dcc862edc88",
-   "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+   "title": "Surprisingly complex waves reveal the brain's inner workings",
    "summary": "Article URL: https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/\nComments URL: https://news.ycombinator.com/ite",
    "link": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
    "source": "Hacker News",
@@ -122,7 +135,7 @@
   {
    "id": "6f8ec1dca85073d6e880b2b4b8619a69",
    "title": "Before pixels: Modular industrial dashboards",
-   "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/\nComments URL: https://news.ycombinator.com/item?id=49912792\nPoints: 12\n# C",
+   "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/\nComments URL: https://news.ycombinator.com/item?id=49912792\nPoints: 17\n# C",
    "link": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +148,7 @@
   {
    "id": "873897a04fb3de9f773c3bde9bee3527",
    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 71\n# Comments",
+   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 82\n# Comments",
    "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
    "source": "Hacker News",
    "category": "资讯",
@@ -146,22 +159,9 @@
    "ts": 1790792265
   },
   {
-   "id": "f35a3b906c79ca89c01a45a454b6a9f4",
-   "title": "Recursive `make` and `-j`",
-   "summary": "Article URL: https://quuxplusone.github.io/blog/2026/09/30/recursive-make-j/\nComments URL: https://news.ycombinator.com/item?id=49912094\nPoints: 13\n# Comments: ",
-   "link": "https://quuxplusone.github.io/blog/2026/09/30/recursive-make-j/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 01:46",
-   "ts": 1790790386
-  },
-  {
    "id": "3f1b218782ec0570c6d0ff50ab294bd1",
    "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-   "summary": "Article URL: https://www.chompiclub.com/opensource\nComments URL: https://news.ycombinator.com/item?id=49912048\nPoints: 10\n# Comments: 2",
+   "summary": "Article URL: https://www.chompiclub.com/opensource\nComments URL: https://news.ycombinator.com/item?id=49912048\nPoints: 17\n# Comments: 2",
    "link": "https://www.chompiclub.com/opensource",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +187,7 @@
   {
    "id": "e4acb54939aa358e6605926128792173",
    "title": "Commit description as a thinking tool",
-   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 102\n# Comments: 5",
+   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 103\n# Comments: 5",
    "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
    "source": "Hacker News",
    "category": "资讯",
