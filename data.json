@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-09-30 09:06",
+ "updated_at": "2026-09-30 09:36",
  "total": 40,
  "items": [
   {
@@ -18,7 +18,7 @@
   {
    "id": "4118d8edffa62932ea086f0108aa4722",
    "title": "How our vibe coded website looks like a designer made it",
-   "summary": "Article URL: https://railcode.dev/blog/vibe-coded-website\nComments URL: https://news.ycombinator.com/item?id=49901973\nPoints: 52\n# Comments: 32",
+   "summary": "Article URL: https://railcode.dev/blog/vibe-coded-website\nComments URL: https://news.ycombinator.com/item?id=49901973\nPoints: 57\n# Comments: 36",
    "link": "https://railcode.dev/blog/vibe-coded-website",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +31,7 @@
   {
    "id": "4621e9088030f6676e293a26a8895340",
    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 163\n# Comments: 87",
+   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 197\n# Comments: 96",
    "link": "https://github.com/ninjahawk/livenerf",
    "source": "Hacker News",
    "category": "资讯",
@@ -44,7 +44,7 @@
   {
    "id": "310ff059dbf920bcb7144186d60eb73f",
    "title": "UnoDOS",
-   "summary": "Article URL: https://github.com/hmofet/unodos\nComments URL: https://news.ycombinator.com/item?id=49901437\nPoints: 14\n# Comments: 7",
+   "summary": "Article URL: https://github.com/hmofet/unodos\nComments URL: https://news.ycombinator.com/item?id=49901437\nPoints: 15\n# Comments: 9",
    "link": "https://github.com/hmofet/unodos",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +57,7 @@
   {
    "id": "7290a342d0cd302557bc31084e62ea44",
    "title": "Deser: Rethinking Rust Serialization",
-   "summary": "Article URL: https://lucumr.pocoo.org/2026/9/29/deser/\nComments URL: https://news.ycombinator.com/item?id=49901149\nPoints: 19\n# Comments: 6",
+   "summary": "Article URL: https://lucumr.pocoo.org/2026/9/29/deser/\nComments URL: https://news.ycombinator.com/item?id=49901149\nPoints: 21\n# Comments: 6",
    "link": "https://lucumr.pocoo.org/2026/9/29/deser/",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +83,7 @@
   {
    "id": "40f3a1cca11936b6f558d4dfba4300ce",
    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 94\n# Comments: 25",
+   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 101\n# Comments: 29",
    "link": "https://space.bl2.net/",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +135,7 @@
   {
    "id": "7911defa076329daab8594e05a72bc2e",
    "title": "Tcl/Tk 9.1",
-   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 234\n# Comments: 80",
+   "summary": "Article URL: https://www.tcl-lang.org/software/tcltk/9.1.html\nComments URL: https://news.ycombinator.com/item?id=49896712\nPoints: 237\n# Comments: 83",
    "link": "https://www.tcl-lang.org/software/tcltk/9.1.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -146,9 +146,22 @@
    "ts": 1790702018
   },
   {
+   "id": "4ed376fa923cb6ff0cfed623c25189c7",
+   "title": "Dots: Always-on agents",
+   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 464\n# Comments: 353",
+   "link": "https://openai.com/index/introducing-dots/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 01:07",
+   "ts": 1790701677
+  },
+  {
    "id": "9a18ab83b14740d253f390f41a667e0f",
    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 767\n# Comments: 710",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 777\n# Comments: 726",
    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +174,7 @@
   {
    "id": "6d36669c8eeb280645da82be3b0c225a",
    "title": "Needed 1+1, built a functional programming language",
-   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 17\n# Comments: 3",
+   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 21\n# Comments: 4",
    "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +187,7 @@
   {
    "id": "f1f1273c241d67c0a4c2a1b0aec6f494",
    "title": "PS5 Relapse Exploit",
-   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 226\n# Comments: 122",
+   "summary": "Article URL: https://github.com/ntfargo/Relapse-Exploit\nComments URL: https://news.ycombinator.com/item?id=49895304\nPoints: 232\n# Comments: 125",
    "link": "https://github.com/ntfargo/Relapse-Exploit",
    "source": "Hacker News",
    "category": "资讯",
@@ -222,19 +235,6 @@
    "urgent": false,
    "fetched_at": "09-29 22:51",
    "ts": 1790693496
-  },
-  {
-   "id": "32a91e8a16ec0740579ec661aea9e7b8",
-   "title": "America.gov",
-   "summary": "Article URL: https://america.gov/\nComments URL: https://news.ycombinator.com/item?id=49893509\nPoints: 324\n# Comments: 261",
-   "link": "https://america.gov/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 22:04",
-   "ts": 1790690697
   },
   {
    "id": "64a9725900301e6dc664060865ee163f",
