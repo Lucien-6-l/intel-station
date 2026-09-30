@@ -1,7 +1,46 @@
 {
- "updated_at": "2026-09-30 23:07",
+ "updated_at": "2026-09-30 23:40",
  "total": 40,
  "items": [
+  {
+   "id": "ba5de8e48c96cc714ff768a3113464bc",
+   "title": "CNNIC 称中国生成式 AI 用户超 7 亿",
+   "summary": "中国互联网络信息中心（CNNIC）发布了《生成式人工智能应用发展报告（2026）》，截至 2026 年上半年，我国生成式人工智能用户规模突破 7亿 人，普及率超 50%。76.0%的 用户表示自己会让生成式人工智能回答问题；使用生成式人工智能处理图片/视频、文本、工作总结/会议纪要/PPT的用户占比分别为 47.8%、",
+   "link": "https://www.solidot.org/story?sid=85519",
+   "source": "Solidot",
+   "category": "发布/大事件",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 23:18",
+   "ts": 1790781499
+  },
+  {
+   "id": "d645b0753a3728d113224811bd0a69e8",
+   "title": "新奥声称实现氢硼聚变反应突破",
+   "summary": "新奥集团发表新闻稿，称其“玄龙-50U”装置实现氢硼聚变反应。新闻稿称：氢硼聚变具有无中子、燃料丰富易得、低成本等商业化优势，产物是氦（α粒子），但相对于氘氚聚变，反应温度及三乘积要求更高，反应条件更苛刻。本次新奥聚变团队通过高能中性束注入与射频波的协同，大幅提高了氢硼反应第一共振峰的非热平衡快质子份额，实现了大于 1",
+   "link": "https://www.solidot.org/story?sid=85518",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 23:01",
+   "ts": 1790780473
+  },
+  {
+   "id": "932a9e9bc9bdb4a1c5b500b395c1389d",
+   "title": "I can't tell who's teaching who anymore",
+   "summary": "Article URL: https://blog.murphytrueman.com/i-cant-tell-whos-teaching-who-anymore/\nComments URL: https://news.ycombinator.com/item?id=49909629\nPoints: 24\n# Comm",
+   "link": "https://blog.murphytrueman.com/i-cant-tell-whos-teaching-who-anymore/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 22:37",
+   "ts": 1790779028
+  },
   {
    "id": "c2c90e96d8f986f9710b5c09385f116c",
    "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
@@ -18,7 +57,7 @@
   {
    "id": "d2562118fe8e5917ff0040206ffaa315",
    "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-   "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\nComments URL: https://news.ycombinator.com/item?id=49908962\nPoints: 16\n# ",
+   "summary": "Article URL: https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/\nComments URL: https://news.ycombinator.com/item?id=49908962\nPoints: 39\n# ",
    "link": "https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/",
    "source": "Hacker News",
    "category": "资讯",
@@ -27,19 +66,6 @@
    "urgent": false,
    "fetched_at": "09-30 21:50",
    "ts": 1790776250
-  },
-  {
-   "id": "3296098f2fc78479a153f19f648b796e",
-   "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
-   "summary": "Article URL: https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts\nComments URL: https://news.ycombinator.com/item?id=49908757\nPoints: 60\n# Comments: 45",
-   "link": "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 21:36",
-   "ts": 1790775397
   },
   {
    "id": "04db06b3425f50e2e63ae8692be19bb7",
@@ -53,19 +79,6 @@
    "urgent": false,
    "fetched_at": "09-30 20:11",
    "ts": 1790770284
-  },
-  {
-   "id": "ba7d842d7e0694ba703385c42acf1867",
-   "title": "Most data centers refusing to say how much water, electricity they use",
-   "summary": "Article URL: https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use\nComments URL: https://news.ycombinator.com/item?id=49907057\nPoin",
-   "link": "https://nltimes.nl/2026/09/30/data-centers-refusing-say-much-water-electricity-use",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 18:49",
-   "ts": 1790765372
   },
   {
    "id": "c2380e07c1ad90ded50f7a98690207a2",
@@ -109,7 +122,7 @@
   {
    "id": "8bca15ede15bb090951766ac9360c0e3",
    "title": "Pi.dev: You Said No MCP",
-   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 333\n# Comments: 172",
+   "summary": "Article URL: https://earendil.com/posts/you-said-no-mcp/\nComments URL: https://news.ycombinator.com/item?id=49906637\nPoints: 379\n# Comments: 202",
    "link": "https://earendil.com/posts/you-said-no-mcp/",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +200,7 @@
   {
    "id": "4a62adf7a78710dbefe2d52c9c402e43",
    "title": "September 2026: The world today, as seen by one Polish guy",
-   "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\nComments URL: https://news.ycombinator.com/item?id=49905487\nPoints: 415\n# Co",
+   "summary": "Article URL: https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/\nComments URL: https://news.ycombinator.com/item?id=49905487\nPoints: 426\n# Co",
    "link": "https://tomwojcik.com/posts/2026-09-21/september-2026-the-world-today/",
    "source": "Hacker News",
    "category": "资讯",
@@ -265,7 +278,7 @@
   {
    "id": "bc321440369ea50be7218a97815b6226",
    "title": "RSS Feeds for Last.fm",
-   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 104\n# Comments: 29",
+   "summary": "Article URL: https://lfm.xiffy.nl/\nComments URL: https://news.ycombinator.com/item?id=49903862\nPoints: 105\n# Comments: 32",
    "link": "https://lfm.xiffy.nl/",
    "source": "Hacker News",
    "category": "资讯",
@@ -330,7 +343,7 @@
   {
    "id": "4621e9088030f6676e293a26a8895340",
    "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 761\n# Comments: 321",
+   "summary": "Article URL: https://github.com/ninjahawk/livenerf\nComments URL: https://news.ycombinator.com/item?id=49901736\nPoints: 785\n# Comments: 332",
    "link": "https://github.com/ninjahawk/livenerf",
    "source": "Hacker News",
    "category": "资讯",
@@ -356,7 +369,7 @@
   {
    "id": "40f3a1cca11936b6f558d4dfba4300ce",
    "title": "Show HN: Real-time Solar System with 526k asteroids and all tracked satellites",
-   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 315\n# Comments: 82",
+   "summary": "Article URL: https://space.bl2.net/\nComments URL: https://news.ycombinator.com/item?id=49898778\nPoints: 330\n# Comments: 83",
    "link": "https://space.bl2.net/",
    "source": "Hacker News",
    "category": "资讯",
@@ -369,7 +382,7 @@
   {
    "id": "a8c223138714037474611ccc16cdc7d0",
    "title": "Vermont replacing power plants with home batteries",
-   "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...\n\nComments URL: https://news.ycombinator.com/item?id=49897993\nPoints: 290\n# Comments: 22",
+   "summary": "See also https://electrek.co/2026/07/28/vermonts-largest-energy-sourc...\n\nComments URL: https://news.ycombinator.com/item?id=49897993\nPoints: 303\n# Comments: 23",
    "link": "https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms",
    "source": "Hacker News",
    "category": "资讯",
@@ -382,7 +395,7 @@
   {
    "id": "4ed376fa923cb6ff0cfed623c25189c7",
    "title": "Dots: Always-on agents",
-   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 693\n# Comments: 559",
+   "summary": "Article URL: https://openai.com/index/introducing-dots/\nComments URL: https://news.ycombinator.com/item?id=49896604\nPoints: 700\n# Comments: 571",
    "link": "https://openai.com/index/introducing-dots/",
    "source": "Hacker News",
    "category": "资讯",
@@ -395,7 +408,7 @@
   {
    "id": "9a18ab83b14740d253f390f41a667e0f",
    "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 1005\n# Comments: 883",
+   "summary": "Article URL: https://openai.com/index/introducing-gpt-6-1-sol/\nComments URL: https://news.ycombinator.com/item?id=49896586\nPoints: 1020\n# Comments: 891",
    "link": "https://openai.com/index/introducing-gpt-6-1-sol/",
    "source": "Hacker News",
    "category": "资讯",
@@ -408,7 +421,7 @@
   {
    "id": "6d36669c8eeb280645da82be3b0c225a",
    "title": "Needed 1+1, built a functional programming language",
-   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 130\n# Comments: 54",
+   "summary": "Article URL: https://hereticpleb.vercel.app/blog/needed-one-plus-one/\nComments URL: https://news.ycombinator.com/item?id=49895864\nPoints: 133\n# Comments: 55",
    "link": "https://hereticpleb.vercel.app/blog/needed-one-plus-one/",
    "source": "Hacker News",
    "category": "资讯",
@@ -443,6 +456,19 @@
    "urgent": false,
    "fetched_at": "09-29 22:57",
    "ts": 1790693877
+  },
+  {
+   "id": "32a91e8a16ec0740579ec661aea9e7b8",
+   "title": "America.gov",
+   "summary": "Article URL: https://america.gov/\nComments URL: https://news.ycombinator.com/item?id=49893509\nPoints: 702\n# Comments: 608",
+   "link": "https://america.gov/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-29 22:04",
+   "ts": 1790690697
   },
   {
    "id": "64a9725900301e6dc664060865ee163f",
@@ -495,32 +521,6 @@
    "urgent": false,
    "fetched_at": "09-29 18:10",
    "ts": 1790676651
-  },
-  {
-   "id": "7c3465e9362746ab844aa85fa2994b04",
-   "title": "不易变黑的香蕉准备上市",
-   "summary": "切开的香蕉片会在短时间内变成棕褐色。一种利用基因编辑技术修改过的新香蕉品种将能大幅延长香蕉保持新鲜的时间。英国农业生物技术公司 Tropi CEO Gilad Gershon 表示，新香蕉能延缓一到两天变黑，如果冷藏保存则保鲜期还会更长。Tropic 利用 CRISPR-Cas9 基因编辑技术，对香蕉的一个特定基因的所",
-   "link": "https://www.solidot.org/story?sid=85502",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 17:44",
-   "ts": 1790675067
-  },
-  {
-   "id": "700c86f93919aef0c26d248fd61dd949",
-   "title": "Google 计划到 2034 年停止支持 ChromeOS",
-   "summary": "运行 Android 操作系统的 Googlebooks 新笔电即将上市，那么运行 ChromeOS 的旧设备将何去何从？根据 Google 支持页面“What the Googlebook announcement means for your ChromeOS devices”，搜索巨人声明：它将向 ChromeO",
-   "link": "https://www.solidot.org/story?sid=85500",
-   "source": "Solidot",
-   "category": "发布/大事件",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 15:50",
-   "ts": 1790668212
   }
  ]
 }
