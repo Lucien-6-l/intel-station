@@ -1,7 +1,59 @@
 {
- "updated_at": "2026-10-01 05:02",
+ "updated_at": "2026-10-01 05:38",
  "total": 40,
  "items": [
+  {
+   "id": "0f725f56ea62dd7fe9675e1d15ede9d7",
+   "title": "Gemini 4 Argon (High): Intelligence, Performance and Price Analysis",
+   "summary": "Article URL: https://artificialanalysis.ai/models/gemini-4-argon\nComments URL: https://news.ycombinator.com/item?id=49914236\nPoints: 10\n# Comments: 1",
+   "link": "https://artificialanalysis.ai/models/gemini-4-argon",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 04:50",
+   "ts": 1790801428
+  },
+  {
+   "id": "9f19ec5c3d43885cbde75d74c7f06817",
+   "title": "Gitea 28.0",
+   "summary": "Article URL: https://blog.gitea.com/release-of-28.0.0/\nComments URL: https://news.ycombinator.com/item?id=49913975\nPoints: 33\n# Comments: 8",
+   "link": "https://blog.gitea.com/release-of-28.0.0/",
+   "source": "Hacker News",
+   "category": "发布/大事件",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 04:32",
+   "ts": 1790800343
+  },
+  {
+   "id": "84a8b0ca1ede1c4588f1bde257b01546",
+   "title": "Dear User, email is here to stay",
+   "summary": "Article URL: https://github.com/tursomari/machtiani/tree/main\nComments URL: https://news.ycombinator.com/item?id=49913724\nPoints: 3\n# Comments: 0",
+   "link": "https://github.com/tursomari/machtiani/tree/main",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 04:14",
+   "ts": 1790799272
+  },
+  {
+   "id": "8cc9ad38c94dce4c7be1f3af40e5f547",
+   "title": "Functional Ultrasound Imaging from Scratch",
+   "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from\nComments URL: https://news.ycombinator.com/item?id=49913604\nPoints: 3\n# Comments: ",
+   "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 04:06",
+   "ts": 1790798799
+  },
   {
    "id": "c94fb0b9ecfa6f4723a1b54d6f8409e4",
    "title": "Gemini 4 Argon",
@@ -16,9 +68,22 @@
    "ts": 1790798677
   },
   {
+   "id": "06fdcf15656866f63e2fa4e085ab610f",
+   "title": "CS240 AI Cheating Retrospective",
+   "summary": "Article URL: https://turkeyland.net/thoughts/ai.php\nComments URL: https://news.ycombinator.com/item?id=49913458\nPoints: 11\n# Comments: 0",
+   "link": "https://turkeyland.net/thoughts/ai.php",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 03:54",
+   "ts": 1790798069
+  },
+  {
    "id": "d15835b5b1a7b93b8b89381fb56acd39",
    "title": "Dear Software Makers",
-   "summary": "Article URL: https://blog.jim-nielsen.com/2026/dear-software-makers/\nComments URL: https://news.ycombinator.com/item?id=49913364\nPoints: 5\n# Comments: 0",
+   "summary": "Article URL: https://blog.jim-nielsen.com/2026/dear-software-makers/\nComments URL: https://news.ycombinator.com/item?id=49913364\nPoints: 18\n# Comments: 3",
    "link": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +96,7 @@
   {
    "id": "80e3a54dba40567fe8ee4543c07dca19",
    "title": "Halfspace experimental IDE for solid modeling with distance fields",
-   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 21\n# Comments: 1",
+   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 30\n# Comments: 5",
    "link": "https://www.mattkeeter.com/projects/halfspace/",
    "source": "Hacker News",
    "category": "资讯",
@@ -44,7 +109,7 @@
   {
    "id": "1ac7fa0e6af6135661bee8c99678cae7",
    "title": "America.gov goes crazy on \"play Minecraft\"",
-   "summary": "Article URL: https://america.gov/chat\nComments URL: https://news.ycombinator.com/item?id=49913255\nPoints: 58\n# Comments: 16",
+   "summary": "Article URL: https://america.gov/chat\nComments URL: https://news.ycombinator.com/item?id=49913255\nPoints: 83\n# Comments: 31",
    "link": "https://america.gov/chat",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +122,7 @@
   {
    "id": "b14b7467b1275c501fa03d68cc75edcc",
    "title": "EDG C++ front-end goes public",
-   "summary": "Article URL: https://edgcpp.org/#transition\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 65\n# Comments: 22",
+   "summary": "Article URL: https://edgcpp.org/#transition\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 78\n# Comments: 28",
    "link": "https://edgcpp.org/#transition",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +148,7 @@
   {
    "id": "873897a04fb3de9f773c3bde9bee3527",
    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 56\n# Comments",
+   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 64\n# Comments",
    "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
    "source": "Hacker News",
    "category": "资讯",
@@ -120,22 +185,9 @@
    "ts": 1790789860
   },
   {
-   "id": "1a62bbdfc7871d4e406cf659f2ab4422",
-   "title": "Claude Says",
-   "summary": "Article URL: https://ohhfishal.net/Posts/claude\nComments URL: https://news.ycombinator.com/item?id=49911928\nPoints: 46\n# Comments: 15",
-   "link": "https://ohhfishal.net/Posts/claude",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 01:32",
-   "ts": 1790789526
-  },
-  {
    "id": "e4acb54939aa358e6605926128792173",
    "title": "Commit description as a thinking tool",
-   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 88\n# Comments: 50",
+   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 97\n# Comments: 55",
    "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
    "source": "Hacker News",
    "category": "资讯",
@@ -157,32 +209,6 @@
    "urgent": false,
    "fetched_at": "10-01 01:01",
    "ts": 1790787666
-  },
-  {
-   "id": "42b2a71e3da504a9a47bcfdd4f7aafcc",
-   "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-   "summary": "Article URL: https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer\nComments URL: https://news.ycombinator.com/item?id=49911531\nPo",
-   "link": "https://www.ycombinator.com/companies/bild-ai/jobs/dAbC3Gd-founding-product-engineer",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 01:00",
-   "ts": 1790787620
-  },
-  {
-   "id": "a49b8e19d995e58400ea4fe308d14c76",
-   "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
-   "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 47\n# Comments: ",
-   "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 23:54",
-   "ts": 1790783699
   },
   {
    "id": "ba5de8e48c96cc714ff768a3113464bc",
@@ -222,32 +248,6 @@
    "urgent": false,
    "fetched_at": "09-30 22:44",
    "ts": 1790779448
-  },
-  {
-   "id": "ad9ed2b764d30c8a0cfdfc3a58104c29",
-   "title": "SDF Public Access Unix System ... est. 1987",
-   "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 64\n# Comments: 11",
-   "link": "https://sdf.org/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 22:36",
-   "ts": 1790778962
-  },
-  {
-   "id": "4f22a659ee9f601059ca086dd43f0626",
-   "title": "A brief history of the Bloomberg terminal",
-   "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 176\n# Comments: 67",
-   "link": "https://spectrum.ieee.org/bloomberg-terminal",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 22:34",
-   "ts": 1790778847
   },
   {
    "id": "c2c90e96d8f986f9710b5c09385f116c",
