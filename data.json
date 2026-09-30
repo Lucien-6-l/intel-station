@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-01 04:37",
+ "updated_at": "2026-10-01 05:02",
  "total": 40,
  "items": [
   {
@@ -16,9 +16,22 @@
    "ts": 1790798677
   },
   {
+   "id": "d15835b5b1a7b93b8b89381fb56acd39",
+   "title": "Dear Software Makers",
+   "summary": "Article URL: https://blog.jim-nielsen.com/2026/dear-software-makers/\nComments URL: https://news.ycombinator.com/item?id=49913364\nPoints: 5\n# Comments: 0",
+   "link": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 03:45",
+   "ts": 1790797538
+  },
+  {
    "id": "80e3a54dba40567fe8ee4543c07dca19",
    "title": "Halfspace experimental IDE for solid modeling with distance fields",
-   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 17\n# Comments: 1",
+   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 21\n# Comments: 1",
    "link": "https://www.mattkeeter.com/projects/halfspace/",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +44,7 @@
   {
    "id": "1ac7fa0e6af6135661bee8c99678cae7",
    "title": "America.gov goes crazy on \"play Minecraft\"",
-   "summary": "Article URL: https://america.gov/chat\nComments URL: https://news.ycombinator.com/item?id=49913255\nPoints: 39\n# Comments: 13",
+   "summary": "Article URL: https://america.gov/chat\nComments URL: https://news.ycombinator.com/item?id=49913255\nPoints: 58\n# Comments: 16",
    "link": "https://america.gov/chat",
    "source": "Hacker News",
    "category": "资讯",
@@ -44,7 +57,7 @@
   {
    "id": "b14b7467b1275c501fa03d68cc75edcc",
    "title": "EDG C++ front-end goes public",
-   "summary": "Article URL: https://edgcpp.org/#transition\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 51\n# Comments: 19",
+   "summary": "Article URL: https://edgcpp.org/#transition\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 65\n# Comments: 22",
    "link": "https://edgcpp.org/#transition",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +83,7 @@
   {
    "id": "873897a04fb3de9f773c3bde9bee3527",
    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 50\n# Comments",
+   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 56\n# Comments",
    "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +122,7 @@
   {
    "id": "1a62bbdfc7871d4e406cf659f2ab4422",
    "title": "Claude Says",
-   "summary": "Article URL: https://ohhfishal.net/Posts/claude\nComments URL: https://news.ycombinator.com/item?id=49911928\nPoints: 34\n# Comments: 8",
+   "summary": "Article URL: https://ohhfishal.net/Posts/claude\nComments URL: https://news.ycombinator.com/item?id=49911928\nPoints: 46\n# Comments: 15",
    "link": "https://ohhfishal.net/Posts/claude",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +135,7 @@
   {
    "id": "e4acb54939aa358e6605926128792173",
    "title": "Commit description as a thinking tool",
-   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 85\n# Comments: 48",
+   "summary": "Article URL: https://yedhu.me/posts/commit-description-as-a-thinking-tool/\nComments URL: https://news.ycombinator.com/item?id=49911757\nPoints: 88\n# Comments: 50",
    "link": "https://yedhu.me/posts/commit-description-as-a-thinking-tool/",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +174,7 @@
   {
    "id": "a49b8e19d995e58400ea4fe308d14c76",
    "title": "Moist-Electric Wallpaper for Indoor Energy Harvesting and Humidity Management",
-   "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 46\n# Comments: ",
+   "summary": "Article URL: https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603\nComments URL: https://news.ycombinator.com/item?id=49910613\nPoints: 47\n# Comments: ",
    "link": "https://advanced.onlinelibrary.wiley.com/doi/10.1002/aenm.71603",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +226,7 @@
   {
    "id": "ad9ed2b764d30c8a0cfdfc3a58104c29",
    "title": "SDF Public Access Unix System ... est. 1987",
-   "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 63\n# Comments: 10",
+   "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 64\n# Comments: 11",
    "link": "https://sdf.org/",
    "source": "Hacker News",
    "category": "资讯",
@@ -226,7 +239,7 @@
   {
    "id": "4f22a659ee9f601059ca086dd43f0626",
    "title": "A brief history of the Bloomberg terminal",
-   "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 172\n# Comments: 65",
+   "summary": "Article URL: https://spectrum.ieee.org/bloomberg-terminal\nComments URL: https://news.ycombinator.com/item?id=49909583\nPoints: 176\n# Comments: 67",
    "link": "https://spectrum.ieee.org/bloomberg-terminal",
    "source": "Hacker News",
    "category": "资讯",
@@ -248,19 +261,6 @@
    "urgent": false,
    "fetched_at": "09-30 22:03",
    "ts": 1790777023
-  },
-  {
-   "id": "cc19c4d58331bfcbb11d94d45b13ed67",
-   "title": "What TLA+ can and can't check",
-   "summary": "Article URL: https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/\nComments URL: https://news.ycombinator.com/item?id=49909056\nPoints: 94\n# Co",
-   "link": "https://buttondown.com/hillelwayne/archive/what-tla-can-and-cant-check/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 21:57",
-   "ts": 1790776626
   },
   {
    "id": "04db06b3425f50e2e63ae8692be19bb7",
