@@ -1,7 +1,46 @@
 {
- "updated_at": "2026-10-01 23:39",
+ "updated_at": "2026-10-02 00:04",
  "total": 40,
  "items": [
+  {
+   "id": "72e862ac6d2fa3f4878f2fe497574734",
+   "title": "Red Hat Being Phased Out of Existence (Like Many Other Companies IBM Bought)",
+   "summary": "Article URL: https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml\nComments URL: https://news.ycombinator.co",
+   "link": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 23:33",
+   "ts": 1790868806
+  },
+  {
+   "id": "da4b61520004479aab3988cecbe7fdde",
+   "title": "二手 CPU 导致玩家被 Riot 封禁",
+   "summary": "一名玩家购买了一个二手 CPU Ryzen 7 5800X3D，结果发现无法启动 Riot 工作室旗下的多款游戏，每次启动游戏就被踢出，在联络了 Riot 的客服之后才知道该 CPU 被列入了封禁黑名单，因为其前任主人有作弊行为。Riot 工作室旗下的所有游戏都受到影响，其中包括了 Valorant、League of",
+   "link": "https://www.solidot.org/story?sid=85523",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 23:27",
+   "ts": 1790868451
+  },
+  {
+   "id": "04306055d3463abeb0dd4670950fa48c",
+   "title": "新加坡推出面向公务员的约会软件 FirstDate",
+   "summary": "为了提高生育率，新加坡试点推出了为公务员牵线搭桥的约会应用 FirstDate。新加坡的总和生育率已降至每名女性生育 0.87 个孩子，而十年前这一数字为 1.24。政府最近成立了一个专门研究生育率下降问题的工作组，预计该作组将在 2027 年初发表研究结果。FirstDate 面向 21-35 岁的单身人士，目前仅向",
+   "link": "https://www.solidot.org/story?sid=85522",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 23:11",
+   "ts": 1790867472
+  },
   {
    "id": "162f6e64127f30fbb76d8b78e22a94ea",
    "title": "OpenID Foundation: Identity Management for Agentic AI [pdf]",
@@ -18,7 +57,7 @@
   {
    "id": "4f9b644f48afb7640b9c2b330824d4ea",
    "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
-   "summary": "Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454\nComments URL: https://news.ycombinator.com/item?id=49922729\nPoints: 14\n# Comments: 4",
+   "summary": "Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454\nComments URL: https://news.ycombinator.com/item?id=49922729\nPoints: 27\n# Comments: 8",
    "link": "https://twitter.com/GayaniFigma/status/2105295629941350454",
    "source": "Hacker News",
    "category": "资讯",
@@ -29,9 +68,22 @@
    "ts": 1790867446
   },
   {
+   "id": "5a28d85d85484162ffed8cc71109d8ac",
+   "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+   "summary": "用ImageNet训练encoder",
+   "link": "https://www.qbitai.com/2026/10/499812.html",
+   "source": "量子位",
+   "category": "资讯",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-01 23:06",
+   "ts": 1790867190
+  },
+  {
    "id": "37139099e00c3eab61d8791c9fa98b24",
    "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-   "summary": "Article URL: https://www.polyedergarten.de/e_index.htm\nComments URL: https://news.ycombinator.com/item?id=49922594\nPoints: 8\n# Comments: 0",
+   "summary": "Article URL: https://www.polyedergarten.de/e_index.htm\nComments URL: https://news.ycombinator.com/item?id=49922594\nPoints: 11\n# Comments: 0",
    "link": "https://www.polyedergarten.de/e_index.htm",
    "source": "Hacker News",
    "category": "资讯",
@@ -42,9 +94,22 @@
    "ts": 1790866971
   },
   {
+   "id": "d5367d783d02829080ecc4d757b30c32",
+   "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+   "summary": "价格只有Astra一半",
+   "link": "https://www.qbitai.com/2026/10/499663.html",
+   "source": "量子位",
+   "category": "发布/大事件",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": true,
+   "fetched_at": "10-01 23:02",
+   "ts": 1790866934
+  },
+  {
    "id": "2afd16253e4b7a65e562b751c3987384",
    "title": "RacketCon Is Saturday",
-   "summary": "Article URL: https://con.racket-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49922515\nPoints: 7\n# Comments: 1",
+   "summary": "Article URL: https://con.racket-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49922515\nPoints: 12\n# Comments: 1",
    "link": "https://con.racket-lang.org/",
    "source": "Hacker News",
    "category": "资讯",
@@ -53,6 +118,19 @@
    "urgent": false,
    "fetched_at": "10-01 22:58",
    "ts": 1790866693
+  },
+  {
+   "id": "9431e30b908e1cf96b04e9c58e7a4cbd",
+   "title": "猫与幸福感正相关",
+   "summary": "根据发表在 PLOS One 期刊上的一项研究，猫的数量与幸福感正相关，一个国家的猫越多，其幸福感通常越高。但主要通过猫传播的弓形虫感染率与幸福感负相关，弓形虫感染率较高的国家的幸福指数通常较低。两个关系似乎矛盾，但也可能与卫生、经济条件相关联。研究分析了 93 个国家和地区的数据，幸福指数平均值为 5.72，每万人拥",
+   "link": "https://www.solidot.org/story?sid=85521",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 22:52",
+   "ts": 1790866326
   },
   {
    "id": "04c27641de15439a4ae83549db2afd38",
@@ -66,6 +144,19 @@
    "urgent": false,
    "fetched_at": "10-01 22:38",
    "ts": 1790865515
+  },
+  {
+   "id": "80945efa7e27efe63c24d582260be8c2",
+   "title": "Cloudflare K2: serverless event streams",
+   "summary": "Article URL: https://blog.cloudflare.com/cloudflare-k2-streams/\nComments URL: https://news.ycombinator.com/item?id=49921923\nPoints: 8\n# Comments: 0",
+   "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 22:09",
+   "ts": 1790863750
   },
   {
    "id": "ee057f8febba014fc9a6bae5f74ec5f9",
@@ -83,7 +174,7 @@
   {
    "id": "29836faf65a6e95acad7eda68cb7a007",
    "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-   "summary": "Article URL: https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243\nComments URL: https://news.ycombinator.com/item?id=49921051\nPoints: 44\n# Comments: ",
+   "summary": "Article URL: https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243\nComments URL: https://news.ycombinator.com/item?id=49921051\nPoints: 55\n# Comments: ",
    "link": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +187,7 @@
   {
    "id": "edd9005594a1f00b7cc51a44925f77c4",
    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-   "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html\nComments URL: https://news.ycombinator.com/item?id=49921050\nPoints: 95\n# Comment",
+   "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html\nComments URL: https://news.ycombinator.com/item?id=49921050\nPoints: 102\n# Commen",
    "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +252,7 @@
   {
    "id": "7dd78c8f22a48ec92de66b4e4f7ad0d8",
    "title": "StreetComplete on iOS is now in public beta",
-   "summary": "Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421\nComments URL: https://news.ycombinator.com/item?id=49920160\nPoints: 309\n# Comments: 63",
+   "summary": "Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421\nComments URL: https://news.ycombinator.com/item?id=49920160\nPoints: 327\n# Comments: 66",
    "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
    "source": "Hacker News",
    "category": "资讯",
@@ -170,32 +261,6 @@
    "urgent": false,
    "fetched_at": "10-01 18:59",
    "ts": 1790852397
-  },
-  {
-   "id": "222c6c74e4bbce58f1e9ad086792a01b",
-   "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-   "summary": "Article URL: https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design\nComments URL: htt",
-   "link": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
-   "source": "Hacker News",
-   "category": "发布/大事件",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 18:21",
-   "ts": 1790850096
-  },
-  {
-   "id": "00de4cbec15c985d96f9c971ffe9b16b",
-   "title": "Truemetrics (YC S23) Is Hiring a GTM Founder's Associate",
-   "summary": "Article URL: https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate\nComments URL: https://news.ycombinator.com/item?id=49919680\n",
-   "link": "https://www.ycombinator.com/companies/truemetrics/jobs/THLEzXI-gtm-founder-s-associate",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 17:48",
-   "ts": 1790848098
   },
   {
    "id": "d654d1335ae331016f947aec70e2ffdb",
@@ -456,71 +521,6 @@
    "urgent": true,
    "fetched_at": "09-30 10:53",
    "ts": 1790736797
-  },
-  {
-   "id": "2d330bc7323de90190b7bb8aa2c10ba2",
-   "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
-   "summary": "今年devday牙膏挤爆",
-   "link": "https://www.qbitai.com/2026/09/499246.html",
-   "source": "量子位",
-   "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-30 07:01",
-   "ts": 1790722865
-  },
-  {
-   "id": "9bafbc39c72d3bd9086eb65a51f2b98f",
-   "title": "中国 AI 智能体也会撒谎和欺骗",
-   "summary": "和美国 AI 模型一样，中国公司的 AI 智能体也会撒谎和欺骗。在今年 3 月进行的一次商业招标实验中，\n北航、北大、宁波诺丁汉和 360 AI 安全实验室的研究人员让多个智能体参与模拟客户合同的竞标，每个智能体都被告知其产品的功能及客户的需求，随后被要求进行报价。阿里巴巴 Qwen3-Max-Preview 模型 8",
-   "link": "https://www.solidot.org/story?sid=85508",
-   "source": "Solidot",
-   "category": "发布/大事件",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-30 00:23",
-   "ts": 1790698998
-  },
-  {
-   "id": "fdb79563dcf391deb532dc49acee0290",
-   "title": "八分之一癌症病例由感染引起",
-   "summary": "根据本周发表在《The Lancet Oncology》期刊上的一项研究，全世界八分之一癌症病例由感染引起。研究发现，2024 年感染性病原体相关的新癌症病例有 230 万例，占到了总新癌症病例的 12%。其中幽门螺杆菌会增加胃癌风险，这种病菌导致了 76 万例新癌症病例，数量最多，主要集中在东亚地区。其次是人乳头瘤病",
-   "link": "https://www.solidot.org/story?sid=85507",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 23:25",
-   "ts": 1790695525
-  },
-  {
-   "id": "38921692cd40d5b16bf3f42e227411d6",
-   "title": "银行高管被 Deepfake 语音骗走 1 亿美元",
-   "summary": "意大利最大银行 Intesa Sanpaolo 旗下私人银行业务部门 Fideuram 的总裁 Paolo Molesini 今年 2 月成为一起组合利用 WhatsApp 假信息和 Deepfake 语音的诈骗行动目标，导致逾 1 亿美元被骗走，他本人则在 3 月份辞职。Molesini 首先是收到了看起来是母公司 ",
-   "link": "https://www.solidot.org/story?sid=85506",
-   "source": "Solidot",
-   "category": "资讯",
-   "topic": "科技资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-29 22:57",
-   "ts": 1790693877
-  },
-  {
-   "id": "09f55891a08b62901c2d032d090e2c5d",
-   "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
-   "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
-   "link": "https://www.qbitai.com/2026/09/499239.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-29 18:56",
-   "ts": 1790679393
   }
  ]
 }
