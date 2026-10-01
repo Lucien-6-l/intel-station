@@ -1,11 +1,37 @@
 {
- "updated_at": "2026-10-02 05:38",
+ "updated_at": "2026-10-02 06:03",
  "total": 40,
  "items": [
   {
+   "id": "b3adbfcdd6c6b8d171e3b96ca1263ce5",
+   "title": "OpenRadioss is not open anymore",
+   "summary": "Article URL: https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/\nComments URL: https://news.ycombinator.com/item?id=49927392\nPoin",
+   "link": "https://www.siemens.com/en-us/products/simcenter/mechanical-simulation/radioss/rd/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 05:41",
+   "ts": 1790890896
+  },
+  {
+   "id": "98ff326da4f4d4c7734c537ba1eae2b5",
+   "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 8\n# Comments: 0",
+   "link": "https://www.cssbed.com",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 05:21",
+   "ts": 1790889692
+  },
+  {
    "id": "2574d94faa4f2763d77ccd5e61583b18",
    "title": "The death of web development education",
-   "summary": "Article URL: https://molily.de/web-dev-education/\nComments URL: https://news.ycombinator.com/item?id=49927100\nPoints: 8\n# Comments: 1",
+   "summary": "Article URL: https://molily.de/web-dev-education/\nComments URL: https://news.ycombinator.com/item?id=49927100\nPoints: 32\n# Comments: 21",
    "link": "https://molily.de/web-dev-education/",
    "source": "Hacker News",
    "category": "资讯",
@@ -18,7 +44,7 @@
   {
    "id": "f2857a36fd3d01c62f9b071142c9551b",
    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 9\n# Comments: 1",
+   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 19\n# Comments: 2",
    "link": "https://github.com/Vibra-Ingenn/Janus",
    "source": "Hacker News",
    "category": "资讯",
@@ -29,9 +55,22 @@
    "ts": 1790887007
   },
   {
+   "id": "b7f9a82fcfbde04192a9e30861707ce4",
+   "title": "Show HN: Rhun, an open-source code editor written in assembly",
+   "summary": "I found that I'm not using even 1/3 of vim/vscode features anymore.That's wht I'm building rhun - a small code editor for Linux, Windows and Apple silicon Macs.",
+   "link": "https://rhun.app/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 04:32",
+   "ts": 1790886738
+  },
+  {
    "id": "046dff83fb46fdba475679adbb87b62b",
    "title": "Car Is a Smartphone on Wheels. Here's Who's Listening",
-   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 55\n# Comments:",
+   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 83\n# Comments:",
    "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -42,9 +81,22 @@
    "ts": 1790886207
   },
   {
+   "id": "8578475db21f5cc67df9930f18a9a99c",
+   "title": "SvelteKit 3 Is Here",
+   "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 8\n# Comments: 1",
+   "link": "https://svelte.dev/blog/sveltekit-3-is-here",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 04:14",
+   "ts": 1790885663
+  },
+  {
    "id": "16b3701a70669a15b898b947f590fd91",
    "title": "ArXiv's Updated Rate Limit Policy",
-   "summary": "Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/\nComments URL: https://news.ycombinator.com/item?id=49926512\nPoints: 22\n# Comments: 5",
+   "summary": "Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/\nComments URL: https://news.ycombinator.com/item?id=49926512\nPoints: 27\n# Comments: 8",
    "link": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +109,7 @@
   {
    "id": "ecb8b1679a2a22985f2676bda6845eba",
    "title": "Pi 1.0",
-   "summary": "Article URL: https://earendil.com/posts/pi-1-0/\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 373\n# Comments: 130",
+   "summary": "Article URL: https://earendil.com/posts/pi-1-0/\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 445\n# Comments: 155",
    "link": "https://earendil.com/posts/pi-1-0/",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +122,7 @@
   {
    "id": "c0be91549eeb14ae57d231e6716dbedf",
    "title": "Pi Durable",
-   "summary": "Article URL: https://earendil.com/posts/pi-durable/\nComments URL: https://news.ycombinator.com/item?id=49925969\nPoints: 79\n# Comments: 8",
+   "summary": "Article URL: https://earendil.com/posts/pi-durable/\nComments URL: https://news.ycombinator.com/item?id=49925969\nPoints: 114\n# Comments: 10",
    "link": "https://earendil.com/posts/pi-durable/",
    "source": "Hacker News",
    "category": "资讯",
@@ -81,9 +133,22 @@
    "ts": 1790882648
   },
   {
+   "id": "8d3118edc3751b25fca186674da2156e",
+   "title": "Effect 4.0",
+   "summary": "Article URL: https://effect.website/blog/releases/effect/40\nComments URL: https://news.ycombinator.com/item?id=49925812\nPoints: 19\n# Comments: 5",
+   "link": "https://effect.website/blog/releases/effect/40",
+   "source": "Hacker News",
+   "category": "发布/大事件",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 03:10",
+   "ts": 1790881807
+  },
+  {
    "id": "6a84ae9bec151320a59367acd059e7b3",
    "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
-   "summary": "Article URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570\nComments URL: https://news.ycombinator.com/item?id=49925742\nPoints: 47\n# Comments:",
+   "summary": "Article URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570\nComments URL: https://news.ycombinator.com/item?id=49925742\nPoints: 52\n# Comments:",
    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +161,7 @@
   {
    "id": "d6bd7c8e18274075f11a1ba1c615e1a1",
    "title": "Bez: Generating a browser engine from specs and tests",
-   "summary": "Article URL: https://tangled.org/burrito.space/bez\nComments URL: https://news.ycombinator.com/item?id=49925036\nPoints: 68\n# Comments: 19",
+   "summary": "Article URL: https://tangled.org/burrito.space/bez\nComments URL: https://news.ycombinator.com/item?id=49925036\nPoints: 72\n# Comments: 20",
    "link": "https://tangled.org/burrito.space/bez",
    "source": "Hacker News",
    "category": "资讯",
@@ -107,22 +172,9 @@
    "ts": 1790878083
   },
   {
-   "id": "c7507033c52450621c1ba634e44a263e",
-   "title": "ParadeDB Search Performance Improvements",
-   "summary": "Article URL: https://www.paradedb.com/blog/opening-a-closed-tin\nComments URL: https://news.ycombinator.com/item?id=49924275\nPoints: 54\n# Comments: 9",
-   "link": "https://www.paradedb.com/blog/opening-a-closed-tin",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 01:05",
-   "ts": 1790874301
-  },
-  {
    "id": "aed3f7dff5f0f0af76dc4711673071f0",
    "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
-   "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 346\n# Comments: 134",
+   "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 357\n# Comments: 142",
    "link": "https://blog.cloudflare.com/clef-decision-models/",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +187,7 @@
   {
    "id": "bc42b07ceafb59e2a0b9b097571211bb",
    "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
-   "summary": "Article URL: https://github.com/beatrizalmeidaf/papero-pdf-text-extractor\nComments URL: https://news.ycombinator.com/item?id=49923638\nPoints: 54\n# Comments: 7",
+   "summary": "Article URL: https://github.com/beatrizalmeidaf/papero-pdf-text-extractor\nComments URL: https://news.ycombinator.com/item?id=49923638\nPoints: 61\n# Comments: 7",
    "link": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
    "source": "Hacker News",
    "category": "资讯",
@@ -157,32 +209,6 @@
    "urgent": false,
    "fetched_at": "10-02 00:11",
    "ts": 1790871092
-  },
-  {
-   "id": "758ac1541b243a0589fb0e69ea112977",
-   "title": "RIP, vector database",
-   "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 234\n# Comments: 62",
-   "link": "https://turbopuffer.com/blog/rip-vector-database",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 00:01",
-   "ts": 1790870516
-  },
-  {
-   "id": "72e862ac6d2fa3f4878f2fe497574734",
-   "title": "Red Hat being phased out of existence?",
-   "summary": "Article URL: https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml\nComments URL: https://news.ycombinator.co",
-   "link": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 23:33",
-   "ts": 1790868806
   },
   {
    "id": "da4b61520004479aab3988cecbe7fdde",
@@ -209,32 +235,6 @@
    "urgent": false,
    "fetched_at": "10-01 23:11",
    "ts": 1790867472
-  },
-  {
-   "id": "329648206b8889d0bf4ae523a973bb57",
-   "title": "Identity Management for Agentic AI [pdf] (2025)",
-   "summary": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf\nComments URL: https://news.ycombinator.com/item?id=49922736\nPo",
-   "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 23:11",
-   "ts": 1790867470
-  },
-  {
-   "id": "54439350032da8034ee157565d02c2c2",
-   "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
-   "summary": "Article URL: https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/\nComments URL: https://news.ycombinat",
-   "link": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 23:07",
-   "ts": 1790867262
   },
   {
    "id": "5a28d85d85484162ffed8cc71109d8ac",
