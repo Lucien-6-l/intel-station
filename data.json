@@ -1,11 +1,24 @@
 {
- "updated_at": "2026-10-02 02:05",
+ "updated_at": "2026-10-02 02:42",
  "total": 40,
  "items": [
   {
+   "id": "62d147fb1edb4cd0313527e35bf43649",
+   "title": "Show HN: Vote on which of Hacker News' challenges for AI have been met",
+   "summary": "Article URL: https://stoppels.ch/goalposts/\nComments URL: https://news.ycombinator.com/item?id=49924618\nPoints: 16\n# Comments: 14",
+   "link": "https://stoppels.ch/goalposts/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 01:32",
+   "ts": 1790875963
+  },
+  {
    "id": "c7507033c52450621c1ba634e44a263e",
    "title": "ParadeDB Search Performance Improvements",
-   "summary": "Article URL: https://www.paradedb.com/blog/opening-a-closed-tin\nComments URL: https://news.ycombinator.com/item?id=49924275\nPoints: 13\n# Comments: 1",
+   "summary": "Article URL: https://www.paradedb.com/blog/opening-a-closed-tin\nComments URL: https://news.ycombinator.com/item?id=49924275\nPoints: 31\n# Comments: 6",
    "link": "https://www.paradedb.com/blog/opening-a-closed-tin",
    "source": "Hacker News",
    "category": "资讯",
@@ -18,7 +31,7 @@
   {
    "id": "0becd66c5917ceca9478d3988db77adc",
    "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-   "summary": "Article URL: https://blog.gitbutler.com/git-3-sha-256\nComments URL: https://news.ycombinator.com/item?id=49924179\nPoints: 73\n# Comments: 54",
+   "summary": "Article URL: https://blog.gitbutler.com/git-3-sha-256\nComments URL: https://news.ycombinator.com/item?id=49924179\nPoints: 111\n# Comments: 107",
    "link": "https://blog.gitbutler.com/git-3-sha-256",
    "source": "Hacker News",
    "category": "资讯",
@@ -30,8 +43,8 @@
   },
   {
    "id": "aed3f7dff5f0f0af76dc4711673071f0",
-   "title": "Clef: our open-source decision models",
-   "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 161\n# Comments: 54",
+   "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
+   "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 218\n# Comments: 78",
    "link": "https://blog.cloudflare.com/clef-decision-models/",
    "source": "Hacker News",
    "category": "资讯",
@@ -44,7 +57,7 @@
   {
    "id": "bc42b07ceafb59e2a0b9b097571211bb",
    "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
-   "summary": "Article URL: https://github.com/beatrizalmeidaf/papero-pdf-text-extractor\nComments URL: https://news.ycombinator.com/item?id=49923638\nPoints: 15\n# Comments: 2",
+   "summary": "Article URL: https://github.com/beatrizalmeidaf/papero-pdf-text-extractor\nComments URL: https://news.ycombinator.com/item?id=49923638\nPoints: 31\n# Comments: 6",
    "link": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +83,7 @@
   {
    "id": "758ac1541b243a0589fb0e69ea112977",
    "title": "RIP, vector database",
-   "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 95\n# Comments: 21",
+   "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 141\n# Comments: 38",
    "link": "https://turbopuffer.com/blog/rip-vector-database",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +148,7 @@
   {
    "id": "4f9b644f48afb7640b9c2b330824d4ea",
    "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
-   "summary": "Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454\nComments URL: https://news.ycombinator.com/item?id=49922729\nPoints: 107\n# Comments: 56",
+   "summary": "Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454\nComments URL: https://news.ycombinator.com/item?id=49922729\nPoints: 121\n# Comments: 61",
    "link": "https://twitter.com/GayaniFigma/status/2105295629941350454",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +187,7 @@
   {
    "id": "37139099e00c3eab61d8791c9fa98b24",
    "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-   "summary": "Article URL: https://www.polyedergarten.de/e_index.htm\nComments URL: https://news.ycombinator.com/item?id=49922594\nPoints: 25\n# Comments: 2",
+   "summary": "Article URL: https://www.polyedergarten.de/e_index.htm\nComments URL: https://news.ycombinator.com/item?id=49922594\nPoints: 31\n# Comments: 4",
    "link": "https://www.polyedergarten.de/e_index.htm",
    "source": "Hacker News",
    "category": "资讯",
@@ -213,7 +226,7 @@
   {
    "id": "2afd16253e4b7a65e562b751c3987384",
    "title": "RacketCon Is Saturday",
-   "summary": "Article URL: https://con.racket-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49922515\nPoints: 71\n# Comments: 20",
+   "summary": "Article URL: https://con.racket-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49922515\nPoints: 85\n# Comments: 22",
    "link": "https://con.racket-lang.org/",
    "source": "Hacker News",
    "category": "资讯",
@@ -239,7 +252,7 @@
   {
    "id": "a82fef97a25be491787da4e72f292368",
    "title": "Context Language Models",
-   "summary": "Article URL: https://arxiv.org/abs/2609.37725\nComments URL: https://news.ycombinator.com/item?id=49922437\nPoints: 17\n# Comments: 0",
+   "summary": "Article URL: https://arxiv.org/abs/2609.37725\nComments URL: https://news.ycombinator.com/item?id=49922437\nPoints: 36\n# Comments: 3",
    "link": "https://arxiv.org/abs/2609.37725",
    "source": "Hacker News",
    "category": "资讯",
@@ -261,19 +274,6 @@
    "urgent": false,
    "fetched_at": "10-01 22:38",
    "ts": 1790865515
-  },
-  {
-   "id": "80945efa7e27efe63c24d582260be8c2",
-   "title": "Cloudflare K2: serverless event streams",
-   "summary": "Article URL: https://blog.cloudflare.com/cloudflare-k2-streams/\nComments URL: https://news.ycombinator.com/item?id=49921923\nPoints: 85\n# Comments: 25",
-   "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 22:09",
-   "ts": 1790863750
   },
   {
    "id": "ba5de8e48c96cc714ff768a3113464bc",
