@@ -1,11 +1,24 @@
 {
- "updated_at": "2026-10-02 02:42",
+ "updated_at": "2026-10-02 03:03",
  "total": 40,
  "items": [
   {
+   "id": "d6bd7c8e18274075f11a1ba1c615e1a1",
+   "title": "Bez: Generating a browser engine from specs and tests",
+   "summary": "Article URL: https://tangled.org/burrito.space/bez\nComments URL: https://news.ycombinator.com/item?id=49925036\nPoints: 3\n# Comments: 0",
+   "link": "https://tangled.org/burrito.space/bez",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 02:08",
+   "ts": 1790878083
+  },
+  {
    "id": "62d147fb1edb4cd0313527e35bf43649",
    "title": "Show HN: Vote on which of Hacker News' challenges for AI have been met",
-   "summary": "Article URL: https://stoppels.ch/goalposts/\nComments URL: https://news.ycombinator.com/item?id=49924618\nPoints: 16\n# Comments: 14",
+   "summary": "Article URL: https://stoppels.ch/goalposts/\nComments URL: https://news.ycombinator.com/item?id=49924618\nPoints: 21\n# Comments: 22",
    "link": "https://stoppels.ch/goalposts/",
    "source": "Hacker News",
    "category": "资讯",
@@ -16,9 +29,22 @@
    "ts": 1790875963
   },
   {
+   "id": "b9c09723ed3992e2831fcec859309bdc",
+   "title": "macOS 27 is so buggy",
+   "summary": "Article URL: https://osxdaily.com/2026/09/30/buggy-laggy-mission-control-spaces-stage-manager-in-macos-27-golden-gate-try-these-tips/\nComments URL: https://news",
+   "link": "https://osxdaily.com/2026/09/30/buggy-laggy-mission-control-spaces-stage-manager-in-macos-27-golden-gate-try-these-tips/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 01:15",
+   "ts": 1790874904
+  },
+  {
    "id": "c7507033c52450621c1ba634e44a263e",
    "title": "ParadeDB Search Performance Improvements",
-   "summary": "Article URL: https://www.paradedb.com/blog/opening-a-closed-tin\nComments URL: https://news.ycombinator.com/item?id=49924275\nPoints: 31\n# Comments: 6",
+   "summary": "Article URL: https://www.paradedb.com/blog/opening-a-closed-tin\nComments URL: https://news.ycombinator.com/item?id=49924275\nPoints: 34\n# Comments: 7",
    "link": "https://www.paradedb.com/blog/opening-a-closed-tin",
    "source": "Hacker News",
    "category": "资讯",
@@ -29,22 +55,9 @@
    "ts": 1790874301
   },
   {
-   "id": "0becd66c5917ceca9478d3988db77adc",
-   "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
-   "summary": "Article URL: https://blog.gitbutler.com/git-3-sha-256\nComments URL: https://news.ycombinator.com/item?id=49924179\nPoints: 111\n# Comments: 107",
-   "link": "https://blog.gitbutler.com/git-3-sha-256",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 00:57",
-   "ts": 1790873823
-  },
-  {
    "id": "aed3f7dff5f0f0af76dc4711673071f0",
    "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
-   "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 218\n# Comments: 78",
+   "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 238\n# Comments: 86",
    "link": "https://blog.cloudflare.com/clef-decision-models/",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +70,7 @@
   {
    "id": "bc42b07ceafb59e2a0b9b097571211bb",
    "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
-   "summary": "Article URL: https://github.com/beatrizalmeidaf/papero-pdf-text-extractor\nComments URL: https://news.ycombinator.com/item?id=49923638\nPoints: 31\n# Comments: 6",
+   "summary": "Article URL: https://github.com/beatrizalmeidaf/papero-pdf-text-extractor\nComments URL: https://news.ycombinator.com/item?id=49923638\nPoints: 35\n# Comments: 7",
    "link": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +96,7 @@
   {
    "id": "758ac1541b243a0589fb0e69ea112977",
    "title": "RIP, vector database",
-   "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 141\n# Comments: 38",
+   "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 154\n# Comments: 42",
    "link": "https://turbopuffer.com/blog/rip-vector-database",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +161,7 @@
   {
    "id": "4f9b644f48afb7640b9c2b330824d4ea",
    "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
-   "summary": "Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454\nComments URL: https://news.ycombinator.com/item?id=49922729\nPoints: 121\n# Comments: 61",
+   "summary": "Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454\nComments URL: https://news.ycombinator.com/item?id=49922729\nPoints: 124\n# Comments: 66",
    "link": "https://twitter.com/GayaniFigma/status/2105295629941350454",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +200,7 @@
   {
    "id": "37139099e00c3eab61d8791c9fa98b24",
    "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-   "summary": "Article URL: https://www.polyedergarten.de/e_index.htm\nComments URL: https://news.ycombinator.com/item?id=49922594\nPoints: 31\n# Comments: 4",
+   "summary": "Article URL: https://www.polyedergarten.de/e_index.htm\nComments URL: https://news.ycombinator.com/item?id=49922594\nPoints: 32\n# Comments: 4",
    "link": "https://www.polyedergarten.de/e_index.htm",
    "source": "Hacker News",
    "category": "资讯",
@@ -226,7 +239,7 @@
   {
    "id": "2afd16253e4b7a65e562b751c3987384",
    "title": "RacketCon Is Saturday",
-   "summary": "Article URL: https://con.racket-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49922515\nPoints: 85\n# Comments: 22",
+   "summary": "Article URL: https://con.racket-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49922515\nPoints: 90\n# Comments: 22",
    "link": "https://con.racket-lang.org/",
    "source": "Hacker News",
    "category": "资讯",
@@ -252,7 +265,7 @@
   {
    "id": "a82fef97a25be491787da4e72f292368",
    "title": "Context Language Models",
-   "summary": "Article URL: https://arxiv.org/abs/2609.37725\nComments URL: https://news.ycombinator.com/item?id=49922437\nPoints: 36\n# Comments: 3",
+   "summary": "Article URL: https://arxiv.org/abs/2609.37725\nComments URL: https://news.ycombinator.com/item?id=49922437\nPoints: 42\n# Comments: 8",
    "link": "https://arxiv.org/abs/2609.37725",
    "source": "Hacker News",
    "category": "资讯",
@@ -261,19 +274,6 @@
    "urgent": false,
    "fetched_at": "10-01 22:51",
    "ts": 1790866293
-  },
-  {
-   "id": "04c27641de15439a4ae83549db2afd38",
-   "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
-   "summary": "Article URL: https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/\nComments URL: https://news.ycombinator.com/item?id=49922278\nPoi",
-   "link": "https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 22:38",
-   "ts": 1790865515
   },
   {
    "id": "ba5de8e48c96cc714ff768a3113464bc",
