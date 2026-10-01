@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-10-02 00:37",
+ "updated_at": "2026-10-02 01:05",
  "total": 40,
  "items": [
   {
    "id": "aed3f7dff5f0f0af76dc4711673071f0",
    "title": "Clef: our open-source decision models",
-   "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 4\n# Comments: 0",
+   "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 24\n# Comments: 5",
    "link": "https://blog.cloudflare.com/clef-decision-models/",
    "source": "Hacker News",
    "category": "资讯",
@@ -14,6 +14,19 @@
    "urgent": false,
    "fetched_at": "10-02 00:18",
    "ts": 1790871537
+  },
+  {
+   "id": "d654d1335ae331016f947aec70e2ffdb",
+   "title": "PS5 模拟器的开发取得突破",
+   "summary": "当前一代游戏机的模拟器通常需要较长时间才能成熟，但 PS5 的模拟器仅仅几个月时间就让许多 PS5 游戏能在 PC 平台上可玩。SharpEmu 从 5 月的极早 Alpha 阶段到现在具备加载真实游戏 eboot.bin 文件、执行原生 CPU 指令以及部分处理 GPU 相关功能的能力。已有 10 款游戏被标记为可玩",
+   "link": "https://www.solidot.org/story?sid=85524",
+   "source": "Solidot",
+   "category": "资讯",
+   "topic": "科技资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 00:11",
+   "ts": 1790871092
   },
   {
    "id": "da56244efaad5d4963bbd762c9d2de3c",
@@ -31,7 +44,7 @@
   {
    "id": "758ac1541b243a0589fb0e69ea112977",
    "title": "RIP, vector database",
-   "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 33\n# Comments: 2",
+   "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 52\n# Comments: 10",
    "link": "https://turbopuffer.com/blog/rip-vector-database",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +109,7 @@
   {
    "id": "4f9b644f48afb7640b9c2b330824d4ea",
    "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
-   "summary": "Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454\nComments URL: https://news.ycombinator.com/item?id=49922729\nPoints: 73\n# Comments: 33",
+   "summary": "Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454\nComments URL: https://news.ycombinator.com/item?id=49922729\nPoints: 87\n# Comments: 36",
    "link": "https://twitter.com/GayaniFigma/status/2105295629941350454",
    "source": "Hacker News",
    "category": "资讯",
@@ -107,9 +120,22 @@
    "ts": 1790867446
   },
   {
+   "id": "5a28d85d85484162ffed8cc71109d8ac",
+   "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+   "summary": "用ImageNet训练encoder",
+   "link": "https://www.qbitai.com/2026/10/499812.html",
+   "source": "量子位",
+   "category": "资讯",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-01 23:06",
+   "ts": 1790867190
+  },
+  {
    "id": "37139099e00c3eab61d8791c9fa98b24",
    "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-   "summary": "Article URL: https://www.polyedergarten.de/e_index.htm\nComments URL: https://news.ycombinator.com/item?id=49922594\nPoints: 17\n# Comments: 1",
+   "summary": "Article URL: https://www.polyedergarten.de/e_index.htm\nComments URL: https://news.ycombinator.com/item?id=49922594\nPoints: 19\n# Comments: 1",
    "link": "https://www.polyedergarten.de/e_index.htm",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +161,7 @@
   {
    "id": "2afd16253e4b7a65e562b751c3987384",
    "title": "RacketCon Is Saturday",
-   "summary": "Article URL: https://con.racket-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49922515\nPoints: 41\n# Comments: 12",
+   "summary": "Article URL: https://con.racket-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49922515\nPoints: 46\n# Comments: 13",
    "link": "https://con.racket-lang.org/",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +200,7 @@
   {
    "id": "80945efa7e27efe63c24d582260be8c2",
    "title": "Cloudflare K2: serverless event streams",
-   "summary": "Article URL: https://blog.cloudflare.com/cloudflare-k2-streams/\nComments URL: https://news.ycombinator.com/item?id=49921923\nPoints: 50\n# Comments: 13",
+   "summary": "Article URL: https://blog.cloudflare.com/cloudflare-k2-streams/\nComments URL: https://news.ycombinator.com/item?id=49921923\nPoints: 57\n# Comments: 16",
    "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +226,7 @@
   {
    "id": "edd9005594a1f00b7cc51a44925f77c4",
    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-   "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html\nComments URL: https://news.ycombinator.com/item?id=49921050\nPoints: 129\n# Commen",
+   "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html\nComments URL: https://news.ycombinator.com/item?id=49921050\nPoints: 133\n# Commen",
    "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -209,19 +235,6 @@
    "urgent": false,
    "fetched_at": "10-01 21:00",
    "ts": 1790859655
-  },
-  {
-   "id": "5de82f414cfc31e476ceff60798df376",
-   "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
-   "summary": "Article URL: https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/\nComments URL: https://news.ycombinator.com",
-   "link": "https://www.osnews.com/story/146052/google-breaks-promise-to-provide-10-years-of-updates-to-chromebooks/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 20:55",
-   "ts": 1790859327
   },
   {
    "id": "a3759f203efc7dbe4e1f8a7330b807f0",
@@ -250,17 +263,17 @@
    "ts": 1790858678
   },
   {
-   "id": "d654d1335ae331016f947aec70e2ffdb",
-   "title": "PS5 越狱取得突破",
-   "summary": "由于索尼频繁更新 PS5 的固件，而大部分 PS5 越狱方法只针对特定固件版本的漏洞，因而这些越狱方法实用性相当有限。但情况在本周二发生了变化，名为 Relapse 的漏洞利用方法适用于最高固件版本 v13.6 的 PS5 游戏机，而 v13.6 是在今年 7 月释出的，意味着 PS5 只要不更新最新固件，就能成功越狱",
-   "link": "https://www.solidot.org/story?sid=85520",
-   "source": "Solidot",
+   "id": "7dd78c8f22a48ec92de66b4e4f7ad0d8",
+   "title": "StreetComplete on iOS is now in public beta",
+   "summary": "Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421\nComments URL: https://news.ycombinator.com/item?id=49920160\nPoints: 381\n# Comments: 77",
+   "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+   "source": "Hacker News",
    "category": "资讯",
-   "topic": "科技资讯",
+   "topic": "科技社区",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-01 01:01",
-   "ts": 1790787666
+   "fetched_at": "10-01 18:59",
+   "ts": 1790852397
   },
   {
    "id": "ba5de8e48c96cc714ff768a3113464bc",
@@ -508,19 +521,6 @@
    "urgent": true,
    "fetched_at": "09-30 10:53",
    "ts": 1790736797
-  },
-  {
-   "id": "2d330bc7323de90190b7bb8aa2c10ba2",
-   "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
-   "summary": "今年devday牙膏挤爆",
-   "link": "https://www.qbitai.com/2026/09/499246.html",
-   "source": "量子位",
-   "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-30 07:01",
-   "ts": 1790722865
   }
  ]
 }
