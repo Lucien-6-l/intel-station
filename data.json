@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-10-01 14:45",
+ "updated_at": "2026-10-01 15:06",
  "total": 40,
  "items": [
   {
    "id": "8fe58ee138515504bd246265564aa784",
    "title": "Suits Are Better Tech Than Modern Clothes",
-   "summary": "Article URL: https://devz.cl/posts/the-lost-tech-in-contemporary-clothing/\nComments URL: https://news.ycombinator.com/item?id=49918161\nPoints: 39\n# Comments: 43",
+   "summary": "Article URL: https://devz.cl/posts/the-lost-tech-in-contemporary-clothing/\nComments URL: https://news.ycombinator.com/item?id=49918161\nPoints: 47\n# Comments: 67",
    "link": "https://devz.cl/posts/the-lost-tech-in-contemporary-clothing/",
    "source": "Hacker News",
    "category": "资讯",
@@ -18,7 +18,7 @@
   {
    "id": "0b2dbd264f512cd3c93552da0fec0930",
    "title": "Fuck Android Developer Verification Program",
-   "summary": "Article URL: https://twitter.com/0xcrypto/status/2105515822643114182\nComments URL: https://news.ycombinator.com/item?id=49917761\nPoints: 75\n# Comments: 12",
+   "summary": "Article URL: https://twitter.com/0xcrypto/status/2105515822643114182\nComments URL: https://news.ycombinator.com/item?id=49917761\nPoints: 114\n# Comments: 32",
    "link": "https://twitter.com/0xcrypto/status/2105515822643114182",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +57,7 @@
   {
    "id": "c08c08a43b948796092c1fb71a6f41bc",
    "title": "56k.rip – the 1996 dial-up internet experience",
-   "summary": "Article URL: https://56k.rip/\nComments URL: https://news.ycombinator.com/item?id=49915126\nPoints: 143\n# Comments: 73",
+   "summary": "Article URL: https://56k.rip/\nComments URL: https://news.ycombinator.com/item?id=49915126\nPoints: 145\n# Comments: 74",
    "link": "https://56k.rip/",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +70,7 @@
   {
    "id": "138163ee44c4b19284d53e6c19c53901",
    "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-   "summary": "Article URL: https://www.thespacereview.com/article/4951/1\nComments URL: https://news.ycombinator.com/item?id=49915082\nPoints: 192\n# Comments: 84",
+   "summary": "Article URL: https://www.thespacereview.com/article/4951/1\nComments URL: https://news.ycombinator.com/item?id=49915082\nPoints: 192\n# Comments: 87",
    "link": "https://www.thespacereview.com/article/4951/1",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +83,7 @@
   {
    "id": "8cc9ad38c94dce4c7be1f3af40e5f547",
    "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-   "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from\nComments URL: https://news.ycombinator.com/item?id=49913604\nPoints: 40\n# Comments:",
+   "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from\nComments URL: https://news.ycombinator.com/item?id=49913604\nPoints: 41\n# Comments:",
    "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +109,7 @@
   {
    "id": "80e3a54dba40567fe8ee4543c07dca19",
    "title": "Halfspace experimental IDE for solid modeling with distance fields",
-   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 113\n# Comments: 9",
+   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 114\n# Comments: 9",
    "link": "https://www.mattkeeter.com/projects/halfspace/",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +122,7 @@
   {
    "id": "b14b7467b1275c501fa03d68cc75edcc",
    "title": "EDG C++ front-end goes public",
-   "summary": "https://github.com/edgcpp/compiler\n\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 200\n# Comments: 89",
+   "summary": "https://github.com/edgcpp/compiler\n\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 202\n# Comments: 89",
    "link": "https://edgcpp.org/#transition",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +148,7 @@
   {
    "id": "6f8ec1dca85073d6e880b2b4b8619a69",
    "title": "Before pixels: Modular industrial dashboards",
-   "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/\nComments URL: https://news.ycombinator.com/item?id=49912792\nPoints: 97\n# C",
+   "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/\nComments URL: https://news.ycombinator.com/item?id=49912792\nPoints: 98\n# C",
    "link": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +161,7 @@
   {
    "id": "873897a04fb3de9f773c3bde9bee3527",
    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 150\n# Comment",
+   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 151\n# Comment",
    "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
    "source": "Hacker News",
    "category": "资讯",
