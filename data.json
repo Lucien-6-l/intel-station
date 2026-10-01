@@ -1,33 +1,7 @@
 {
- "updated_at": "2026-10-01 15:39",
- "total": 40,
+ "updated_at": "2026-10-01 16:20",
+ "total": 30,
  "items": [
-  {
-   "id": "0b2dbd264f512cd3c93552da0fec0930",
-   "title": "Fuck Android Developer Verification Program",
-   "summary": "Article URL: https://twitter.com/0xcrypto/status/2105515822643114182\nComments URL: https://news.ycombinator.com/item?id=49917761\nPoints: 186\n# Comments: 51",
-   "link": "https://twitter.com/0xcrypto/status/2105515822643114182",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 12:32",
-   "ts": 1790829158
-  },
-  {
-   "id": "017ffe1665e1ed1c04bfcd8317c53fcd",
-   "title": "Is sandboxing sufficient to contain rogue agents?",
-   "summary": "Article URL: https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/\nComments URL: https://news.ycombinator.com/it",
-   "link": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 11:27",
-   "ts": 1790825261
-  },
   {
    "id": "3b754f6b941c2e7f609dd3cf5576d9c3",
    "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
@@ -44,7 +18,7 @@
   {
    "id": "c08c08a43b948796092c1fb71a6f41bc",
    "title": "56k.rip – the 1996 dial-up internet experience",
-   "summary": "Article URL: https://56k.rip/\nComments URL: https://news.ycombinator.com/item?id=49915126\nPoints: 151\n# Comments: 75",
+   "summary": "Article URL: https://56k.rip/\nComments URL: https://news.ycombinator.com/item?id=49915126\nPoints: 161\n# Comments: 77",
    "link": "https://56k.rip/",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +31,7 @@
   {
    "id": "138163ee44c4b19284d53e6c19c53901",
    "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-   "summary": "Article URL: https://www.thespacereview.com/article/4951/1\nComments URL: https://news.ycombinator.com/item?id=49915082\nPoints: 199\n# Comments: 89",
+   "summary": "Article URL: https://www.thespacereview.com/article/4951/1\nComments URL: https://news.ycombinator.com/item?id=49915082\nPoints: 206\n# Comments: 95",
    "link": "https://www.thespacereview.com/article/4951/1",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +44,7 @@
   {
    "id": "8cc9ad38c94dce4c7be1f3af40e5f547",
    "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-   "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from\nComments URL: https://news.ycombinator.com/item?id=49913604\nPoints: 43\n# Comments:",
+   "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from\nComments URL: https://news.ycombinator.com/item?id=49913604\nPoints: 44\n# Comments:",
    "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +70,7 @@
   {
    "id": "80e3a54dba40567fe8ee4543c07dca19",
    "title": "Halfspace experimental IDE for solid modeling with distance fields",
-   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 116\n# Comments: 9",
+   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 122\n# Comments: 9",
    "link": "https://www.mattkeeter.com/projects/halfspace/",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +83,7 @@
   {
    "id": "b14b7467b1275c501fa03d68cc75edcc",
    "title": "EDG C++ front-end goes public",
-   "summary": "https://github.com/edgcpp/compiler\n\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 205\n# Comments: 89",
+   "summary": "https://github.com/edgcpp/compiler\n\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 210\n# Comments: 93",
    "link": "https://edgcpp.org/#transition",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +109,7 @@
   {
    "id": "6f8ec1dca85073d6e880b2b4b8619a69",
    "title": "Before pixels: Modular industrial dashboards",
-   "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/\nComments URL: https://news.ycombinator.com/item?id=49912792\nPoints: 105\n# ",
+   "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/\nComments URL: https://news.ycombinator.com/item?id=49912792\nPoints: 114\n# ",
    "link": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +122,7 @@
   {
    "id": "873897a04fb3de9f773c3bde9bee3527",
    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 157\n# Comment",
+   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 164\n# Comment",
    "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +135,7 @@
   {
    "id": "3f1b218782ec0570c6d0ff50ab294bd1",
    "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-   "summary": "Article URL: https://www.chompiclub.com/opensource\nComments URL: https://news.ycombinator.com/item?id=49912048\nPoints: 73\n# Comments: 14",
+   "summary": "Article URL: https://www.chompiclub.com/opensource\nComments URL: https://news.ycombinator.com/item?id=49912048\nPoints: 74\n# Comments: 16",
    "link": "https://www.chompiclub.com/opensource",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +174,7 @@
   {
    "id": "63677a8b5600e33ab65525be8290c2d8",
    "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
-   "summary": "Article URL: https://www.software3d.com/MillersMonster.php\nComments URL: https://news.ycombinator.com/item?id=49911534\nPoints: 62\n# Comments: 7",
+   "summary": "Article URL: https://www.software3d.com/MillersMonster.php\nComments URL: https://news.ycombinator.com/item?id=49911534\nPoints: 65\n# Comments: 7",
    "link": "https://www.software3d.com/MillersMonster.php",
    "source": "Hacker News",
    "category": "资讯",
@@ -237,6 +211,19 @@
    "ts": 1790780473
   },
   {
+   "id": "aa670ed06fe2c832dba92a476bc06e3a",
+   "title": "Coltrane's Tone Circle",
+   "summary": "Article URL: https://jtomschroeder.com/blog/tone-circle/\nComments URL: https://news.ycombinator.com/item?id=49909908\nPoints: 56\n# Comments: 17",
+   "link": "https://jtomschroeder.com/blog/tone-circle/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "09-30 22:59",
+   "ts": 1790780382
+  },
+  {
    "id": "47acd0ee089f4620995584c30e231645",
    "title": "美国佛蒙特州通过家庭电池储能网络应对气候变化",
    "summary": "过去几年极端气候频发，美国佛蒙特州每年都会因此发生十几次持续数小时的断电事故。当地电力公司 Green Mountain Power(GMP)记录到的 10 场最具有破坏性的飓风有 7 场发生在过去十年，造成了逾 2.25 亿美元的损失。为了应对气候变化导致的断电，该公司推出了分布式电池储能网络，向参与该网络的家庭出租",
@@ -250,30 +237,17 @@
    "ts": 1790779448
   },
   {
-   "id": "c2c90e96d8f986f9710b5c09385f116c",
-   "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
-   "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
-   "link": "https://www.qbitai.com/2026/09/499654.html",
-   "source": "量子位",
+   "id": "ad9ed2b764d30c8a0cfdfc3a58104c29",
+   "title": "SDF Public Access Unix System ... est. 1987",
+   "summary": "Article URL: https://sdf.org/\nComments URL: https://news.ycombinator.com/item?id=49909610\nPoints: 92\n# Comments: 23",
+   "link": "https://sdf.org/",
+   "source": "Hacker News",
    "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
+   "topic": "科技社区",
+   "weight": 2,
    "urgent": false,
-   "fetched_at": "09-30 22:03",
-   "ts": 1790777023
-  },
-  {
-   "id": "04db06b3425f50e2e63ae8692be19bb7",
-   "title": "直播回顾：工业AI的下一个机会在哪？",
-   "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
-   "link": "https://www.qbitai.com/2026/09/499605.html",
-   "source": "量子位",
-   "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-30 20:11",
-   "ts": 1790770284
+   "fetched_at": "09-30 22:36",
+   "ts": 1790778962
   },
   {
    "id": "c2380e07c1ad90ded50f7a98690207a2",
@@ -302,32 +276,6 @@
    "ts": 1790763825
   },
   {
-   "id": "96f6a869f8c786755eb1af9c263b616b",
-   "title": "Anthropic，你是来给智谱打广告的吧！",
-   "summary": "实测说GLM-5.3很强",
-   "link": "https://www.qbitai.com/2026/09/499597.html",
-   "source": "量子位",
-   "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-30 18:04",
-   "ts": 1790762652
-  },
-  {
-   "id": "bfa5e2fb8dc08debd499bb578a897baa",
-   "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
-   "summary": "给Agent配上手机号，再拉个群",
-   "link": "https://www.qbitai.com/2026/09/499592.html",
-   "source": "量子位",
-   "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-30 15:58",
-   "ts": 1790755117
-  },
-  {
    "id": "4ec415dbb181d0c2fdff2532a196dd4f",
    "title": "日本人身高增长停滞",
    "summary": "日本人的身高在 1896～1996 年的 100 年间，男性增长约 14.6 厘米，女性增长了约 16 厘米。但 1990 年代之后升高增长日益乏力，相比下中韩平均身高则在快速增长。2019 年日本 19 岁男性平均身高约 172.1 厘米，女性约 158.5 厘米。韩国男性为 175.5 厘米，女性为 163.2 厘",
@@ -339,19 +287,6 @@
    "urgent": false,
    "fetched_at": "09-30 15:56",
    "ts": 1790754985
-  },
-  {
-   "id": "e62305d221eecb741bb4c12ac3b94719",
-   "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
-   "summary": "让GPT把机器人技能当工具调用",
-   "link": "https://www.qbitai.com/2026/09/499493.html",
-   "source": "量子位",
-   "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-30 15:54",
-   "ts": 1790754894
   },
   {
    "id": "7986ae309178aca791d792d435e04a48",
@@ -419,58 +354,6 @@
    "ts": 1790748230
   },
   {
-   "id": "8ed221650ff7d5f70752e267503c1ed1",
-   "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
-   "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
-   "link": "https://www.qbitai.com/2026/09/499308.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-30 13:18",
-   "ts": 1790745485
-  },
-  {
-   "id": "a8cc0342a6fc6665cc9f0f6c4c85c810",
-   "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
-   "summary": "机器人上市，风向有变",
-   "link": "https://www.qbitai.com/2026/09/499280.html",
-   "source": "量子位",
-   "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-30 12:42",
-   "ts": 1790743342
-  },
-  {
-   "id": "32d485c4d2f0684bacf49ab9d37123b8",
-   "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-   "summary": "",
-   "link": "https://www.qbitai.com/2026/09/499263.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "09-30 10:53",
-   "ts": 1790736797
-  },
-  {
-   "id": "2d330bc7323de90190b7bb8aa2c10ba2",
-   "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
-   "summary": "今年devday牙膏挤爆",
-   "link": "https://www.qbitai.com/2026/09/499246.html",
-   "source": "量子位",
-   "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-30 07:01",
-   "ts": 1790722865
-  },
-  {
    "id": "9bafbc39c72d3bd9086eb65a51f2b98f",
    "title": "中国 AI 智能体也会撒谎和欺骗",
    "summary": "和美国 AI 模型一样，中国公司的 AI 智能体也会撒谎和欺骗。在今年 3 月进行的一次商业招标实验中，\n北航、北大、宁波诺丁汉和 360 AI 安全实验室的研究人员让多个智能体参与模拟客户合同的竞标，每个智能体都被告知其产品的功能及客户的需求，随后被要求进行报价。阿里巴巴 Qwen3-Max-Preview 模型 8",
@@ -508,19 +391,6 @@
    "urgent": false,
    "fetched_at": "09-29 22:57",
    "ts": 1790693877
-  },
-  {
-   "id": "09f55891a08b62901c2d032d090e2c5d",
-   "title": "正行创新联合创始人杨宇欣正式亮相：出任总裁，负责全球业务拓展",
-   "summary": "推动公司具身模型、本体、软件等全栈能力进入更多真实场景",
-   "link": "https://www.qbitai.com/2026/09/499239.html",
-   "source": "量子位",
-   "category": "发布/大事件",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-29 18:56",
-   "ts": 1790679393
   }
  ]
 }
