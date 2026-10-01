@@ -1,11 +1,37 @@
 {
- "updated_at": "2026-10-02 01:05",
+ "updated_at": "2026-10-02 01:38",
  "total": 40,
  "items": [
   {
+   "id": "c7507033c52450621c1ba634e44a263e",
+   "title": "ParadeDB Search Performance Improvements",
+   "summary": "Article URL: https://www.paradedb.com/blog/opening-a-closed-tin\nComments URL: https://news.ycombinator.com/item?id=49924275\nPoints: 7\n# Comments: 1",
+   "link": "https://www.paradedb.com/blog/opening-a-closed-tin",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 01:05",
+   "ts": 1790874301
+  },
+  {
+   "id": "0becd66c5917ceca9478d3988db77adc",
+   "title": "Git 3.0's upcoming SHA-256 default will be a costly mistake",
+   "summary": "Article URL: https://blog.gitbutler.com/git-3-sha-256\nComments URL: https://news.ycombinator.com/item?id=49924179\nPoints: 46\n# Comments: 29",
+   "link": "https://blog.gitbutler.com/git-3-sha-256",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 00:57",
+   "ts": 1790873823
+  },
+  {
    "id": "aed3f7dff5f0f0af76dc4711673071f0",
    "title": "Clef: our open-source decision models",
-   "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 24\n# Comments: 5",
+   "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 132\n# Comments: 45",
    "link": "https://blog.cloudflare.com/clef-decision-models/",
    "source": "Hacker News",
    "category": "资讯",
@@ -14,6 +40,19 @@
    "urgent": false,
    "fetched_at": "10-02 00:18",
    "ts": 1790871537
+  },
+  {
+   "id": "bc42b07ceafb59e2a0b9b097571211bb",
+   "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
+   "summary": "Article URL: https://github.com/beatrizalmeidaf/papero-pdf-text-extractor\nComments URL: https://news.ycombinator.com/item?id=49923638\nPoints: 7\n# Comments: 1",
+   "link": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 00:14",
+   "ts": 1790871280
   },
   {
    "id": "d654d1335ae331016f947aec70e2ffdb",
@@ -44,7 +83,7 @@
   {
    "id": "758ac1541b243a0589fb0e69ea112977",
    "title": "RIP, vector database",
-   "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 52\n# Comments: 10",
+   "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 85\n# Comments: 18",
    "link": "https://turbopuffer.com/blog/rip-vector-database",
    "source": "Hacker News",
    "category": "资讯",
@@ -56,7 +95,7 @@
   },
   {
    "id": "72e862ac6d2fa3f4878f2fe497574734",
-   "title": "Red Hat Being Phased Out of Existence (Like Many Other Companies IBM Bought)",
+   "title": "Red Hat being phased out of existence?",
    "summary": "Article URL: https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml\nComments URL: https://news.ycombinator.co",
    "link": "https://techrights.org/n/2026/10/01/Red_Hat_Being_Phased_Out_of_Existence_Like_Many_Other_Companies.shtml",
    "source": "Hacker News",
@@ -94,8 +133,8 @@
    "ts": 1790867472
   },
   {
-   "id": "162f6e64127f30fbb76d8b78e22a94ea",
-   "title": "OpenID Foundation: Identity Management for Agentic AI [pdf] (2025)",
+   "id": "329648206b8889d0bf4ae523a973bb57",
+   "title": "Identity Management for Agentic AI [pdf] (2025)",
    "summary": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf\nComments URL: https://news.ycombinator.com/item?id=49922736\nPo",
    "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
    "source": "Hacker News",
@@ -109,7 +148,7 @@
   {
    "id": "4f9b644f48afb7640b9c2b330824d4ea",
    "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
-   "summary": "Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454\nComments URL: https://news.ycombinator.com/item?id=49922729\nPoints: 87\n# Comments: 36",
+   "summary": "Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454\nComments URL: https://news.ycombinator.com/item?id=49922729\nPoints: 103\n# Comments: 50",
    "link": "https://twitter.com/GayaniFigma/status/2105295629941350454",
    "source": "Hacker News",
    "category": "资讯",
@@ -118,6 +157,19 @@
    "urgent": false,
    "fetched_at": "10-01 23:10",
    "ts": 1790867446
+  },
+  {
+   "id": "54439350032da8034ee157565d02c2c2",
+   "title": "Various Projects Find Hidden SDR Capabilities in ESP32 Microcontrollers",
+   "summary": "Article URL: https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/\nComments URL: https://news.ycombinat",
+   "link": "https://www.rtl-sdr.com/various-projects-independently-find-hidden-sdr-capabilities-in-esp32-microcontrollers/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 23:07",
+   "ts": 1790867262
   },
   {
    "id": "5a28d85d85484162ffed8cc71109d8ac",
@@ -135,7 +187,7 @@
   {
    "id": "37139099e00c3eab61d8791c9fa98b24",
    "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-   "summary": "Article URL: https://www.polyedergarten.de/e_index.htm\nComments URL: https://news.ycombinator.com/item?id=49922594\nPoints: 19\n# Comments: 1",
+   "summary": "Article URL: https://www.polyedergarten.de/e_index.htm\nComments URL: https://news.ycombinator.com/item?id=49922594\nPoints: 24\n# Comments: 2",
    "link": "https://www.polyedergarten.de/e_index.htm",
    "source": "Hacker News",
    "category": "资讯",
@@ -159,9 +211,22 @@
    "ts": 1790866934
   },
   {
+   "id": "57af9537fbc809cf86126f7300208a2b",
+   "title": "Ask HN: Who is hiring? (October 2026)",
+   "summary": "Please state the location and include REMOTE for remote work, REMOTE (US)\nor similar if the country is restricted, and ONSITE when remote work is not an option.",
+   "link": "https://news.ycombinator.com/item?id=49922569",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 23:02",
+   "ts": 1790866927
+  },
+  {
    "id": "2afd16253e4b7a65e562b751c3987384",
    "title": "RacketCon Is Saturday",
-   "summary": "Article URL: https://con.racket-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49922515\nPoints: 46\n# Comments: 13",
+   "summary": "Article URL: https://con.racket-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49922515\nPoints: 63\n# Comments: 18",
    "link": "https://con.racket-lang.org/",
    "source": "Hacker News",
    "category": "资讯",
@@ -185,6 +250,19 @@
    "ts": 1790866326
   },
   {
+   "id": "a82fef97a25be491787da4e72f292368",
+   "title": "Context Language Models",
+   "summary": "Article URL: https://arxiv.org/abs/2609.37725\nComments URL: https://news.ycombinator.com/item?id=49922437\nPoints: 11\n# Comments: 0",
+   "link": "https://arxiv.org/abs/2609.37725",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 22:51",
+   "ts": 1790866293
+  },
+  {
    "id": "04c27641de15439a4ae83549db2afd38",
    "title": "Cops Can Bypass iPhone's Automatic Reboot to Get into Locked Phones",
    "summary": "Article URL: https://www.404media.co/cops-can-bypass-iphone-automatic-inactivity-reboot-graykey/\nComments URL: https://news.ycombinator.com/item?id=49922278\nPoi",
@@ -196,84 +274,6 @@
    "urgent": false,
    "fetched_at": "10-01 22:38",
    "ts": 1790865515
-  },
-  {
-   "id": "80945efa7e27efe63c24d582260be8c2",
-   "title": "Cloudflare K2: serverless event streams",
-   "summary": "Article URL: https://blog.cloudflare.com/cloudflare-k2-streams/\nComments URL: https://news.ycombinator.com/item?id=49921923\nPoints: 57\n# Comments: 16",
-   "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 22:09",
-   "ts": 1790863750
-  },
-  {
-   "id": "ee057f8febba014fc9a6bae5f74ec5f9",
-   "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-   "summary": "Article URL: https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html\nComments URL: https://news.ycombinator.com/item?id=49921118\nPoints: 2",
-   "link": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 21:05",
-   "ts": 1790859951
-  },
-  {
-   "id": "edd9005594a1f00b7cc51a44925f77c4",
-   "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-   "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html\nComments URL: https://news.ycombinator.com/item?id=49921050\nPoints: 133\n# Commen",
-   "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 21:00",
-   "ts": 1790859655
-  },
-  {
-   "id": "a3759f203efc7dbe4e1f8a7330b807f0",
-   "title": "Micron CEO Says Memory Supply Will Be Much Tighter in 2027 and 2028 Than in 2026",
-   "summary": "Article URL: https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026\nComments URL: https://news.ycom",
-   "link": "https://www.techpowerup.com/353296/micron-ceo-says-memory-supply-will-be-much-tighter-in-2027-and-2028-than-in-2026",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 20:48",
-   "ts": 1790858939
-  },
-  {
-   "id": "10d40b591b12fe976a703a51243b5bef",
-   "title": "How to speed up the Rust compiler in September 2026",
-   "summary": "Article URL: https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html\nComments URL: https://news.ycombinator.com/item?i",
-   "link": "https://nnethercote.github.io/2026/09/30/how-to-speed-up-the-rust-compiler-in-september-2026.html",
-   "source": "Hacker News",
-   "category": "教程",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 20:44",
-   "ts": 1790858678
-  },
-  {
-   "id": "7dd78c8f22a48ec92de66b4e4f7ad0d8",
-   "title": "StreetComplete on iOS is now in public beta",
-   "summary": "Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421\nComments URL: https://news.ycombinator.com/item?id=49920160\nPoints: 381\n# Comments: 77",
-   "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 18:59",
-   "ts": 1790852397
   },
   {
    "id": "ba5de8e48c96cc714ff768a3113464bc",
