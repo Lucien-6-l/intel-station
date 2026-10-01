@@ -1,11 +1,37 @@
 {
- "updated_at": "2026-10-01 21:40",
+ "updated_at": "2026-10-01 22:06",
  "total": 40,
  "items": [
   {
+   "id": "4362066d7ae9516e33dda891889b7ef5",
+   "title": "Navy Sailor Dies by Suicide After Deployment Keeps Getting Extended",
+   "summary": "Article URL: https://atlantablackstar.com/2026/09/30/black-navy-sailor-dies-by-suicide-after-extended-deployment/\nComments URL: https://news.ycombinator.com/ite",
+   "link": "https://atlantablackstar.com/2026/09/30/black-navy-sailor-dies-by-suicide-after-extended-deployment/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 21:37",
+   "ts": 1790861867
+  },
+  {
+   "id": "ee057f8febba014fc9a6bae5f74ec5f9",
+   "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
+   "summary": "Article URL: https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html\nComments URL: https://news.ycombinator.com/item?id=49921118\nPoints: 4",
+   "link": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 21:05",
+   "ts": 1790859951
+  },
+  {
    "id": "29836faf65a6e95acad7eda68cb7a007",
    "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-   "summary": "Article URL: https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243\nComments URL: https://news.ycombinator.com/item?id=49921051\nPoints: 5\n# Comments: 0",
+   "summary": "Article URL: https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243\nComments URL: https://news.ycombinator.com/item?id=49921051\nPoints: 22\n# Comments: ",
    "link": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
    "source": "Hacker News",
    "category": "资讯",
@@ -18,7 +44,7 @@
   {
    "id": "edd9005594a1f00b7cc51a44925f77c4",
    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-   "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html\nComments URL: https://news.ycombinator.com/item?id=49921050\nPoints: 20\n# Comment",
+   "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html\nComments URL: https://news.ycombinator.com/item?id=49921050\nPoints: 41\n# Comment",
    "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +109,7 @@
   {
    "id": "7dd78c8f22a48ec92de66b4e4f7ad0d8",
    "title": "StreetComplete on iOS is now in public beta",
-   "summary": "Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421\nComments URL: https://news.ycombinator.com/item?id=49920160\nPoints: 173\n# Comments: 34",
+   "summary": "Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421\nComments URL: https://news.ycombinator.com/item?id=49920160\nPoints: 196\n# Comments: 44",
    "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
    "source": "Hacker News",
    "category": "资讯",
@@ -120,22 +146,9 @@
    "ts": 1790848098
   },
   {
-   "id": "c08c08a43b948796092c1fb71a6f41bc",
-   "title": "56k.rip – the 1996 dial-up internet experience",
-   "summary": "Article URL: https://56k.rip/\nComments URL: https://news.ycombinator.com/item?id=49915126\nPoints: 214\n# Comments: 91",
-   "link": "https://56k.rip/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 06:08",
-   "ts": 1790806130
-  },
-  {
    "id": "138163ee44c4b19284d53e6c19c53901",
    "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-   "summary": "Article URL: https://www.thespacereview.com/article/4951/1\nComments URL: https://news.ycombinator.com/item?id=49915082\nPoints: 256\n# Comments: 124",
+   "summary": "Article URL: https://www.thespacereview.com/article/4951/1\nComments URL: https://news.ycombinator.com/item?id=49915082\nPoints: 260\n# Comments: 125",
    "link": "https://www.thespacereview.com/article/4951/1",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +174,7 @@
   {
    "id": "80e3a54dba40567fe8ee4543c07dca19",
    "title": "Halfspace experimental IDE for solid modeling with distance fields",
-   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 154\n# Comments: 9",
+   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 157\n# Comments: 9",
    "link": "https://www.mattkeeter.com/projects/halfspace/",
    "source": "Hacker News",
    "category": "资讯",
@@ -183,19 +196,6 @@
    "urgent": false,
    "fetched_at": "10-01 03:04",
    "ts": 1790795090
-  },
-  {
-   "id": "6f8ec1dca85073d6e880b2b4b8619a69",
-   "title": "Before pixels: Modular industrial dashboards",
-   "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/\nComments URL: https://news.ycombinator.com/item?id=49912792\nPoints: 209\n# ",
-   "link": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 02:49",
-   "ts": 1790794146
   },
   {
    "id": "d654d1335ae331016f947aec70e2ffdb",
