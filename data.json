@@ -1,11 +1,24 @@
 {
- "updated_at": "2026-10-02 03:37",
+ "updated_at": "2026-10-02 04:03",
  "total": 40,
  "items": [
   {
+   "id": "ecb8b1679a2a22985f2676bda6845eba",
+   "title": "Pi 1.0",
+   "summary": "Article URL: https://earendil.com/posts/pi-1-0/\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 47\n# Comments: 12",
+   "link": "https://earendil.com/posts/pi-1-0/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 03:33",
+   "ts": 1790883185
+  },
+  {
    "id": "6a84ae9bec151320a59367acd059e7b3",
    "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
-   "summary": "Article URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570\nComments URL: https://news.ycombinator.com/item?id=49925742\nPoints: 4\n# Comments: ",
+   "summary": "Article URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570\nComments URL: https://news.ycombinator.com/item?id=49925742\nPoints: 18\n# Comments:",
    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
    "source": "Hacker News",
    "category": "资讯",
@@ -16,9 +29,22 @@
    "ts": 1790881422
   },
   {
+   "id": "dff8a92c8a86ab0e545e6316e19f811d",
+   "title": "Terminal Email: terminal email clients for every system",
+   "summary": "Article URL: https://terminalemail.com/\nComments URL: https://news.ycombinator.com/item?id=49925421\nPoints: 11\n# Comments: 1",
+   "link": "https://terminalemail.com/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 02:38",
+   "ts": 1790879937
+  },
+  {
    "id": "d6bd7c8e18274075f11a1ba1c615e1a1",
    "title": "Bez: Generating a browser engine from specs and tests",
-   "summary": "Article URL: https://tangled.org/burrito.space/bez\nComments URL: https://news.ycombinator.com/item?id=49925036\nPoints: 23\n# Comments: 0",
+   "summary": "Article URL: https://tangled.org/burrito.space/bez\nComments URL: https://news.ycombinator.com/item?id=49925036\nPoints: 42\n# Comments: 5",
    "link": "https://tangled.org/burrito.space/bez",
    "source": "Hacker News",
    "category": "资讯",
@@ -29,22 +55,9 @@
    "ts": 1790878083
   },
   {
-   "id": "1617126bee6e6ae5be6317628429024b",
-   "title": "SlutCon",
-   "summary": "Article URL: https://www.thenewcritic.com/p/safe-at-slutcon\nComments URL: https://news.ycombinator.com/item?id=49924354\nPoints: 15\n# Comments: 0",
-   "link": "https://www.thenewcritic.com/p/safe-at-slutcon",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 01:12",
-   "ts": 1790874735
-  },
-  {
    "id": "c7507033c52450621c1ba634e44a263e",
    "title": "ParadeDB Search Performance Improvements",
-   "summary": "Article URL: https://www.paradedb.com/blog/opening-a-closed-tin\nComments URL: https://news.ycombinator.com/item?id=49924275\nPoints: 39\n# Comments: 7",
+   "summary": "Article URL: https://www.paradedb.com/blog/opening-a-closed-tin\nComments URL: https://news.ycombinator.com/item?id=49924275\nPoints: 42\n# Comments: 8",
    "link": "https://www.paradedb.com/blog/opening-a-closed-tin",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +70,7 @@
   {
    "id": "aed3f7dff5f0f0af76dc4711673071f0",
    "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
-   "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 268\n# Comments: 102",
+   "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 291\n# Comments: 122",
    "link": "https://blog.cloudflare.com/clef-decision-models/",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +83,7 @@
   {
    "id": "bc42b07ceafb59e2a0b9b097571211bb",
    "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
-   "summary": "Article URL: https://github.com/beatrizalmeidaf/papero-pdf-text-extractor\nComments URL: https://news.ycombinator.com/item?id=49923638\nPoints: 39\n# Comments: 7",
+   "summary": "Article URL: https://github.com/beatrizalmeidaf/papero-pdf-text-extractor\nComments URL: https://news.ycombinator.com/item?id=49923638\nPoints: 44\n# Comments: 7",
    "link": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +109,7 @@
   {
    "id": "758ac1541b243a0589fb0e69ea112977",
    "title": "RIP, vector database",
-   "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 180\n# Comments: 51",
+   "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 198\n# Comments: 55",
    "link": "https://turbopuffer.com/blog/rip-vector-database",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +174,7 @@
   {
    "id": "4f9b644f48afb7640b9c2b330824d4ea",
    "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
-   "summary": "Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454\nComments URL: https://news.ycombinator.com/item?id=49922729\nPoints: 131\n# Comments: 73",
+   "summary": "Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454\nComments URL: https://news.ycombinator.com/item?id=49922729\nPoints: 144\n# Comments: 83",
    "link": "https://twitter.com/GayaniFigma/status/2105295629941350454",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +213,7 @@
   {
    "id": "37139099e00c3eab61d8791c9fa98b24",
    "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-   "summary": "Article URL: https://www.polyedergarten.de/e_index.htm\nComments URL: https://news.ycombinator.com/item?id=49922594\nPoints: 36\n# Comments: 5",
+   "summary": "Article URL: https://www.polyedergarten.de/e_index.htm\nComments URL: https://news.ycombinator.com/item?id=49922594\nPoints: 38\n# Comments: 5",
    "link": "https://www.polyedergarten.de/e_index.htm",
    "source": "Hacker News",
    "category": "资讯",
@@ -239,7 +252,7 @@
   {
    "id": "2afd16253e4b7a65e562b751c3987384",
    "title": "RacketCon Is Saturday",
-   "summary": "Article URL: https://con.racket-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49922515\nPoints: 96\n# Comments: 25",
+   "summary": "Article URL: https://con.racket-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49922515\nPoints: 103\n# Comments: 25",
    "link": "https://con.racket-lang.org/",
    "source": "Hacker News",
    "category": "资讯",
@@ -261,19 +274,6 @@
    "urgent": false,
    "fetched_at": "10-01 22:52",
    "ts": 1790866326
-  },
-  {
-   "id": "a82fef97a25be491787da4e72f292368",
-   "title": "Context Language Models",
-   "summary": "Article URL: https://arxiv.org/abs/2609.37725\nComments URL: https://news.ycombinator.com/item?id=49922437\nPoints: 53\n# Comments: 11",
-   "link": "https://arxiv.org/abs/2609.37725",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 22:51",
-   "ts": 1790866293
   },
   {
    "id": "ba5de8e48c96cc714ff768a3113464bc",
