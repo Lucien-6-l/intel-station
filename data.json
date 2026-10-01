@@ -1,11 +1,11 @@
 {
- "updated_at": "2026-10-01 08:03",
+ "updated_at": "2026-10-01 08:46",
  "total": 40,
  "items": [
   {
    "id": "8d0d699be481395669635e5de7402b6f",
    "title": "EDG C++ Compiler is open source",
-   "summary": "Article URL: https://github.com/edgcpp/compiler\nComments URL: https://news.ycombinator.com/item?id=49915484\nPoints: 13\n# Comments: 1",
+   "summary": "Article URL: https://github.com/edgcpp/compiler\nComments URL: https://news.ycombinator.com/item?id=49915484\nPoints: 24\n# Comments: 1",
    "link": "https://github.com/edgcpp/compiler",
    "source": "Hacker News",
    "category": "资讯",
@@ -18,7 +18,7 @@
   {
    "id": "c08c08a43b948796092c1fb71a6f41bc",
    "title": "56k.rip – the 1996 dial-up internet experience",
-   "summary": "Article URL: https://56k.rip/\nComments URL: https://news.ycombinator.com/item?id=49915126\nPoints: 10\n# Comments: 2",
+   "summary": "Article URL: https://56k.rip/\nComments URL: https://news.ycombinator.com/item?id=49915126\nPoints: 24\n# Comments: 8",
    "link": "https://56k.rip/",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +31,7 @@
   {
    "id": "1ed63a3a45d9a282ea23c59da1207e3f",
    "title": "Automating Wi-Fi setup testing on the ESP32",
-   "summary": "Article URL: https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/\nComments URL: https://news.ycombinator.com/item?id=49915119\nPoints: 9\n# Comm",
+   "summary": "Article URL: https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/\nComments URL: https://news.ycombinator.com/item?id=49915119\nPoints: 11\n# Com",
    "link": "https://groundrun.io/blog/automating-wi-fi-setup-testing-on-the-esp32/",
    "source": "Hacker News",
    "category": "资讯",
@@ -44,7 +44,7 @@
   {
    "id": "138163ee44c4b19284d53e6c19c53901",
    "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
-   "summary": "Article URL: https://www.thespacereview.com/article/4951/1\nComments URL: https://news.ycombinator.com/item?id=49915082\nPoints: 94\n# Comments: 19",
+   "summary": "Article URL: https://www.thespacereview.com/article/4951/1\nComments URL: https://news.ycombinator.com/item?id=49915082\nPoints: 104\n# Comments: 29",
    "link": "https://www.thespacereview.com/article/4951/1",
    "source": "Hacker News",
    "category": "资讯",
@@ -55,9 +55,22 @@
    "ts": 1790805784
   },
   {
+   "id": "4b68c6283fca5eeff3dc3e17669b4237",
+   "title": "pldb: programming languages papers",
+   "summary": "Article URL: https://pldb.kirancodes.me/\nComments URL: https://news.ycombinator.com/item?id=49914657\nPoints: 10\n# Comments: 0",
+   "link": "https://pldb.kirancodes.me/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 05:23",
+   "ts": 1790803404
+  },
+  {
    "id": "8cc9ad38c94dce4c7be1f3af40e5f547",
    "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-   "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from\nComments URL: https://news.ycombinator.com/item?id=49913604\nPoints: 21\n# Comments:",
+   "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from\nComments URL: https://news.ycombinator.com/item?id=49913604\nPoints: 23\n# Comments:",
    "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
    "source": "Hacker News",
    "category": "资讯",
@@ -81,22 +94,9 @@
    "ts": 1790798677
   },
   {
-   "id": "d15835b5b1a7b93b8b89381fb56acd39",
-   "title": "Dear Software Makers",
-   "summary": "Article URL: https://blog.jim-nielsen.com/2026/dear-software-makers/\nComments URL: https://news.ycombinator.com/item?id=49913364\nPoints: 64\n# Comments: 37",
-   "link": "https://blog.jim-nielsen.com/2026/dear-software-makers/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 03:45",
-   "ts": 1790797538
-  },
-  {
    "id": "80e3a54dba40567fe8ee4543c07dca19",
    "title": "Halfspace experimental IDE for solid modeling with distance fields",
-   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 56\n# Comments: 6",
+   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 64\n# Comments: 6",
    "link": "https://www.mattkeeter.com/projects/halfspace/",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +109,7 @@
   {
    "id": "b14b7467b1275c501fa03d68cc75edcc",
    "title": "EDG C++ front-end goes public",
-   "summary": "Article URL: https://edgcpp.org/#transition\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 128\n# Comments: 50",
+   "summary": "Article URL: https://edgcpp.org/#transition\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 144\n# Comments: 66",
    "link": "https://edgcpp.org/#transition",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +135,7 @@
   {
    "id": "6f8ec1dca85073d6e880b2b4b8619a69",
    "title": "Before pixels: Modular industrial dashboards",
-   "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/\nComments URL: https://news.ycombinator.com/item?id=49912792\nPoints: 36\n# C",
+   "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/\nComments URL: https://news.ycombinator.com/item?id=49912792\nPoints: 40\n# C",
    "link": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +148,7 @@
   {
    "id": "873897a04fb3de9f773c3bde9bee3527",
    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 100\n# Comment",
+   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 110\n# Comment",
    "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +161,7 @@
   {
    "id": "3f1b218782ec0570c6d0ff50ab294bd1",
    "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-   "summary": "Article URL: https://www.chompiclub.com/opensource\nComments URL: https://news.ycombinator.com/item?id=49912048\nPoints: 29\n# Comments: 4",
+   "summary": "Article URL: https://www.chompiclub.com/opensource\nComments URL: https://news.ycombinator.com/item?id=49912048\nPoints: 33\n# Comments: 7",
    "link": "https://www.chompiclub.com/opensource",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +200,7 @@
   {
    "id": "63677a8b5600e33ab65525be8290c2d8",
    "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
-   "summary": "Article URL: https://www.software3d.com/MillersMonster.php\nComments URL: https://news.ycombinator.com/item?id=49911534\nPoints: 32\n# Comments: 1",
+   "summary": "Article URL: https://www.software3d.com/MillersMonster.php\nComments URL: https://news.ycombinator.com/item?id=49911534\nPoints: 36\n# Comments: 1",
    "link": "https://www.software3d.com/MillersMonster.php",
    "source": "Hacker News",
    "category": "资讯",
