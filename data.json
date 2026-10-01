@@ -1,7 +1,46 @@
 {
- "updated_at": "2026-10-02 00:04",
+ "updated_at": "2026-10-02 00:37",
  "total": 40,
  "items": [
+  {
+   "id": "aed3f7dff5f0f0af76dc4711673071f0",
+   "title": "Clef: our open-source decision models",
+   "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 4\n# Comments: 0",
+   "link": "https://blog.cloudflare.com/clef-decision-models/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 00:18",
+   "ts": 1790871537
+  },
+  {
+   "id": "da56244efaad5d4963bbd762c9d2de3c",
+   "title": "Canada fast-tracks Pacific oil pipeline to reduce US dependence",
+   "summary": "Article URL: https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb\nComments URL: https://news.ycombinator.com/item?id=49923",
+   "link": "https://apnews.com/article/alberta-canada-carney-pipeline-68539133d6e0245fad3622263afd4aeb",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 00:10",
+   "ts": 1790871000
+  },
+  {
+   "id": "758ac1541b243a0589fb0e69ea112977",
+   "title": "RIP, vector database",
+   "summary": "Article URL: https://turbopuffer.com/blog/rip-vector-database\nComments URL: https://news.ycombinator.com/item?id=49923466\nPoints: 33\n# Comments: 2",
+   "link": "https://turbopuffer.com/blog/rip-vector-database",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 00:01",
+   "ts": 1790870516
+  },
   {
    "id": "72e862ac6d2fa3f4878f2fe497574734",
    "title": "Red Hat Being Phased Out of Existence (Like Many Other Companies IBM Bought)",
@@ -43,7 +82,7 @@
   },
   {
    "id": "162f6e64127f30fbb76d8b78e22a94ea",
-   "title": "OpenID Foundation: Identity Management for Agentic AI [pdf]",
+   "title": "OpenID Foundation: Identity Management for Agentic AI [pdf] (2025)",
    "summary": "Article URL: https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf\nComments URL: https://news.ycombinator.com/item?id=49922736\nPo",
    "link": "https://openid.net/wp-content/uploads/2025/10/Identity-Management-for-Agentic-AI.pdf",
    "source": "Hacker News",
@@ -57,7 +96,7 @@
   {
    "id": "4f9b644f48afb7640b9c2b330824d4ea",
    "title": "Figma restricts MCP access to whitelisted clients, excluding Pi",
-   "summary": "Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454\nComments URL: https://news.ycombinator.com/item?id=49922729\nPoints: 27\n# Comments: 8",
+   "summary": "Article URL: https://twitter.com/GayaniFigma/status/2105295629941350454\nComments URL: https://news.ycombinator.com/item?id=49922729\nPoints: 73\n# Comments: 33",
    "link": "https://twitter.com/GayaniFigma/status/2105295629941350454",
    "source": "Hacker News",
    "category": "资讯",
@@ -68,22 +107,9 @@
    "ts": 1790867446
   },
   {
-   "id": "5a28d85d85484162ffed8cc71109d8ac",
-   "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-   "summary": "用ImageNet训练encoder",
-   "link": "https://www.qbitai.com/2026/10/499812.html",
-   "source": "量子位",
-   "category": "资讯",
-   "topic": "AI 动态",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-01 23:06",
-   "ts": 1790867190
-  },
-  {
    "id": "37139099e00c3eab61d8791c9fa98b24",
    "title": "Polyedergarten: Garden of Paper Polyhedron Models",
-   "summary": "Article URL: https://www.polyedergarten.de/e_index.htm\nComments URL: https://news.ycombinator.com/item?id=49922594\nPoints: 11\n# Comments: 0",
+   "summary": "Article URL: https://www.polyedergarten.de/e_index.htm\nComments URL: https://news.ycombinator.com/item?id=49922594\nPoints: 17\n# Comments: 1",
    "link": "https://www.polyedergarten.de/e_index.htm",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +135,7 @@
   {
    "id": "2afd16253e4b7a65e562b751c3987384",
    "title": "RacketCon Is Saturday",
-   "summary": "Article URL: https://con.racket-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49922515\nPoints: 12\n# Comments: 1",
+   "summary": "Article URL: https://con.racket-lang.org/\nComments URL: https://news.ycombinator.com/item?id=49922515\nPoints: 41\n# Comments: 12",
    "link": "https://con.racket-lang.org/",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +174,7 @@
   {
    "id": "80945efa7e27efe63c24d582260be8c2",
    "title": "Cloudflare K2: serverless event streams",
-   "summary": "Article URL: https://blog.cloudflare.com/cloudflare-k2-streams/\nComments URL: https://news.ycombinator.com/item?id=49921923\nPoints: 8\n# Comments: 0",
+   "summary": "Article URL: https://blog.cloudflare.com/cloudflare-k2-streams/\nComments URL: https://news.ycombinator.com/item?id=49921923\nPoints: 50\n# Comments: 13",
    "link": "https://blog.cloudflare.com/cloudflare-k2-streams/",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +187,7 @@
   {
    "id": "ee057f8febba014fc9a6bae5f74ec5f9",
    "title": "Meta Uses A.I. Data Centers to Avoid Billions in Federal Taxes",
-   "summary": "Article URL: https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html\nComments URL: https://news.ycombinator.com/item?id=49921118\nPoints: 1",
+   "summary": "Article URL: https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html\nComments URL: https://news.ycombinator.com/item?id=49921118\nPoints: 2",
    "link": "https://www.nytimes.com/2026/09/30/technology/meta-ai-data-centers-taxes.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -172,22 +198,9 @@
    "ts": 1790859951
   },
   {
-   "id": "29836faf65a6e95acad7eda68cb7a007",
-   "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-   "summary": "Article URL: https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243\nComments URL: https://news.ycombinator.com/item?id=49921051\nPoints: 55\n# Comments: ",
-   "link": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 21:01",
-   "ts": 1790859662
-  },
-  {
    "id": "edd9005594a1f00b7cc51a44925f77c4",
    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-   "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html\nComments URL: https://news.ycombinator.com/item?id=49921050\nPoints: 102\n# Commen",
+   "summary": "Article URL: https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html\nComments URL: https://news.ycombinator.com/item?id=49921050\nPoints: 129\n# Commen",
    "link": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -235,32 +248,6 @@
    "urgent": false,
    "fetched_at": "10-01 20:44",
    "ts": 1790858678
-  },
-  {
-   "id": "61b514edb65517b4e70518f4e6b3b340",
-   "title": "Returning from vacation? The government can search your phone without a warrant",
-   "summary": "Article URL: https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/\nComments URL: https://news.ycombi",
-   "link": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 19:13",
-   "ts": 1790853239
-  },
-  {
-   "id": "7dd78c8f22a48ec92de66b4e4f7ad0d8",
-   "title": "StreetComplete on iOS is now in public beta",
-   "summary": "Article URL: https://github.com/streetcomplete/StreetComplete/issues/5421\nComments URL: https://news.ycombinator.com/item?id=49920160\nPoints: 327\n# Comments: 66",
-   "link": "https://github.com/streetcomplete/StreetComplete/issues/5421",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 18:59",
-   "ts": 1790852397
   },
   {
    "id": "d654d1335ae331016f947aec70e2ffdb",
@@ -521,6 +508,19 @@
    "urgent": true,
    "fetched_at": "09-30 10:53",
    "ts": 1790736797
+  },
+  {
+   "id": "2d330bc7323de90190b7bb8aa2c10ba2",
+   "title": "OpenAI光速上新GPT-6.1 Sol！一晚上25项更新，都在这里了",
+   "summary": "今年devday牙膏挤爆",
+   "link": "https://www.qbitai.com/2026/09/499246.html",
+   "source": "量子位",
+   "category": "资讯",
+   "topic": "AI 动态",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-30 07:01",
+   "ts": 1790722865
   }
  ]
 }
