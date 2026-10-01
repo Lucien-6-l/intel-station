@@ -1,7 +1,20 @@
 {
- "updated_at": "2026-10-01 12:40",
+ "updated_at": "2026-10-01 13:38",
  "total": 40,
  "items": [
+  {
+   "id": "017ffe1665e1ed1c04bfcd8317c53fcd",
+   "title": "Is sandboxing sufficient to contain rogue agents?",
+   "summary": "Article URL: https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/\nComments URL: https://news.ycombinator.com/it",
+   "link": "https://blog.cryptographyengineering.com/2026/09/30/is-sandboxing-sufficient-to-contain-rogue-agents/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-01 11:27",
+   "ts": 1790825261
+  },
   {
    "id": "3b754f6b941c2e7f609dd3cf5576d9c3",
    "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
@@ -16,22 +29,9 @@
    "ts": 1790821848
   },
   {
-   "id": "6264751ab9eb917add6614793c4da8c3",
-   "title": "Cities Are Forced to Funnel License Plate Data to a Federal Surveillance Program",
-   "summary": "Article URL: https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/\nComments URL: https://n",
-   "link": "https://www.404media.co/how-cities-are-forced-to-funnel-license-plate-data-to-a-massive-federal-surveillance-program-hidta/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 10:26",
-   "ts": 1790821577
-  },
-  {
    "id": "59a5f3b1bace71d14782dc18f64dd5b5",
    "title": "Jevotron: Multiple Jev integrations from the command line",
-   "summary": "Article URL: https://cmungall.github.io/jevotron/\nComments URL: https://news.ycombinator.com/item?id=49916865\nPoints: 6\n# Comments: 0",
+   "summary": "Article URL: https://cmungall.github.io/jevotron/\nComments URL: https://news.ycombinator.com/item?id=49916865\nPoints: 8\n# Comments: 1",
    "link": "https://cmungall.github.io/jevotron/",
    "source": "Hacker News",
    "category": "资讯",
@@ -44,7 +44,7 @@
   {
    "id": "c08c08a43b948796092c1fb71a6f41bc",
    "title": "56k.rip – the 1996 dial-up internet experience",
-   "summary": "Article URL: https://56k.rip/\nComments URL: https://news.ycombinator.com/item?id=49915126\nPoints: 112\n# Comments: 61",
+   "summary": "Article URL: https://56k.rip/\nComments URL: https://news.ycombinator.com/item?id=49915126\nPoints: 132\n# Comments: 70",
    "link": "https://56k.rip/",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +57,7 @@
   {
    "id": "138163ee44c4b19284d53e6c19c53901",
    "title": "The top secret URSALA, RAQUEL, and FARRAH satellites (2025)",
-   "summary": "Article URL: https://www.thespacereview.com/article/4951/1\nComments URL: https://news.ycombinator.com/item?id=49915082\nPoints: 165\n# Comments: 70",
+   "summary": "Article URL: https://www.thespacereview.com/article/4951/1\nComments URL: https://news.ycombinator.com/item?id=49915082\nPoints: 183\n# Comments: 78",
    "link": "https://www.thespacereview.com/article/4951/1",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +70,7 @@
   {
    "id": "8cc9ad38c94dce4c7be1f3af40e5f547",
    "title": "Functional Ultrasound Imaging (fUSI) from scratch",
-   "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from\nComments URL: https://news.ycombinator.com/item?id=49913604\nPoints: 33\n# Comments:",
+   "summary": "Article URL: https://www.neuroai.science/p/functional-ultrasound-imaging-from\nComments URL: https://news.ycombinator.com/item?id=49913604\nPoints: 37\n# Comments:",
    "link": "https://www.neuroai.science/p/functional-ultrasound-imaging-from",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +96,7 @@
   {
    "id": "80e3a54dba40567fe8ee4543c07dca19",
    "title": "Halfspace experimental IDE for solid modeling with distance fields",
-   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 90\n# Comments: 9",
+   "summary": "Article URL: https://www.mattkeeter.com/projects/halfspace/\nComments URL: https://news.ycombinator.com/item?id=49913350\nPoints: 105\n# Comments: 9",
    "link": "https://www.mattkeeter.com/projects/halfspace/",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +109,7 @@
   {
    "id": "b14b7467b1275c501fa03d68cc75edcc",
    "title": "EDG C++ front-end goes public",
-   "summary": "https://github.com/edgcpp/compiler\n\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 177\n# Comments: 80",
+   "summary": "https://github.com/edgcpp/compiler\n\nComments URL: https://news.ycombinator.com/item?id=49913192\nPoints: 189\n# Comments: 85",
    "link": "https://edgcpp.org/#transition",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +135,7 @@
   {
    "id": "6f8ec1dca85073d6e880b2b4b8619a69",
    "title": "Before pixels: Modular industrial dashboards",
-   "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/\nComments URL: https://news.ycombinator.com/item?id=49912792\nPoints: 70\n# C",
+   "summary": "Article URL: https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/\nComments URL: https://news.ycombinator.com/item?id=49912792\nPoints: 82\n# C",
    "link": "https://unsung.aresluna.org/before-pixels-modular-industrial-dashboards/",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +148,7 @@
   {
    "id": "873897a04fb3de9f773c3bde9bee3527",
    "title": "5x faster Edge Functions: V8 isolates to Firecracker MicroVMs",
-   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 137\n# Comment",
+   "summary": "Article URL: https://www.netlify.com/blog/edge-functions-firecracker-microvms/\nComments URL: https://news.ycombinator.com/item?id=49912444\nPoints: 141\n# Comment",
    "link": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +161,7 @@
   {
    "id": "3f1b218782ec0570c6d0ff50ab294bd1",
    "title": "CHOMPI portable sampler instrument is now open-source (hardware and software)",
-   "summary": "Article URL: https://www.chompiclub.com/opensource\nComments URL: https://news.ycombinator.com/item?id=49912048\nPoints: 60\n# Comments: 12",
+   "summary": "Article URL: https://www.chompiclub.com/opensource\nComments URL: https://news.ycombinator.com/item?id=49912048\nPoints: 68\n# Comments: 14",
    "link": "https://www.chompiclub.com/opensource",
    "source": "Hacker News",
    "category": "资讯",
@@ -200,7 +200,7 @@
   {
    "id": "63677a8b5600e33ab65525be8290c2d8",
    "title": "Great Dirhombicosidodecahedron (\"Miller's Monster\")",
-   "summary": "Article URL: https://www.software3d.com/MillersMonster.php\nComments URL: https://news.ycombinator.com/item?id=49911534\nPoints: 50\n# Comments: 4",
+   "summary": "Article URL: https://www.software3d.com/MillersMonster.php\nComments URL: https://news.ycombinator.com/item?id=49911534\nPoints: 58\n# Comments: 5",
    "link": "https://www.software3d.com/MillersMonster.php",
    "source": "Hacker News",
    "category": "资讯",
