@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02 06:03",
+ "updated_at": "2026-10-02 06:36",
  "total": 40,
  "items": [
   {
@@ -18,7 +18,7 @@
   {
    "id": "98ff326da4f4d4c7734c537ba1eae2b5",
    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 8\n# Comments: 0",
+   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 17\n# Comments: 3",
    "link": "https://www.cssbed.com",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +31,7 @@
   {
    "id": "2574d94faa4f2763d77ccd5e61583b18",
    "title": "The death of web development education",
-   "summary": "Article URL: https://molily.de/web-dev-education/\nComments URL: https://news.ycombinator.com/item?id=49927100\nPoints: 32\n# Comments: 21",
+   "summary": "Article URL: https://molily.de/web-dev-education/\nComments URL: https://news.ycombinator.com/item?id=49927100\nPoints: 78\n# Comments: 56",
    "link": "https://molily.de/web-dev-education/",
    "source": "Hacker News",
    "category": "资讯",
@@ -44,7 +44,7 @@
   {
    "id": "f2857a36fd3d01c62f9b071142c9551b",
    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 19\n# Comments: 2",
+   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 29\n# Comments: 2",
    "link": "https://github.com/Vibra-Ingenn/Janus",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +70,7 @@
   {
    "id": "046dff83fb46fdba475679adbb87b62b",
    "title": "Car Is a Smartphone on Wheels. Here's Who's Listening",
-   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 83\n# Comments:",
+   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 107\n# Comments",
    "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +83,7 @@
   {
    "id": "8578475db21f5cc67df9930f18a9a99c",
    "title": "SvelteKit 3 Is Here",
-   "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 8\n# Comments: 1",
+   "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 27\n# Comments: 2",
    "link": "https://svelte.dev/blog/sveltekit-3-is-here",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +96,7 @@
   {
    "id": "16b3701a70669a15b898b947f590fd91",
    "title": "ArXiv's Updated Rate Limit Policy",
-   "summary": "Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/\nComments URL: https://news.ycombinator.com/item?id=49926512\nPoints: 27\n# Comments: 8",
+   "summary": "Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/\nComments URL: https://news.ycombinator.com/item?id=49926512\nPoints: 35\n# Comments: 12",
    "link": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +109,7 @@
   {
    "id": "ecb8b1679a2a22985f2676bda6845eba",
    "title": "Pi 1.0",
-   "summary": "Article URL: https://earendil.com/posts/pi-1-0/\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 445\n# Comments: 155",
+   "summary": "Article URL: https://earendil.com/posts/pi-1-0/\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 501\n# Comments: 176",
    "link": "https://earendil.com/posts/pi-1-0/",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +122,7 @@
   {
    "id": "c0be91549eeb14ae57d231e6716dbedf",
    "title": "Pi Durable",
-   "summary": "Article URL: https://earendil.com/posts/pi-durable/\nComments URL: https://news.ycombinator.com/item?id=49925969\nPoints: 114\n# Comments: 10",
+   "summary": "Article URL: https://earendil.com/posts/pi-durable/\nComments URL: https://news.ycombinator.com/item?id=49925969\nPoints: 146\n# Comments: 14",
    "link": "https://earendil.com/posts/pi-durable/",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +135,7 @@
   {
    "id": "8d3118edc3751b25fca186674da2156e",
    "title": "Effect 4.0",
-   "summary": "Article URL: https://effect.website/blog/releases/effect/40\nComments URL: https://news.ycombinator.com/item?id=49925812\nPoints: 19\n# Comments: 5",
+   "summary": "Article URL: https://effect.website/blog/releases/effect/40\nComments URL: https://news.ycombinator.com/item?id=49925812\nPoints: 26\n# Comments: 12",
    "link": "https://effect.website/blog/releases/effect/40",
    "source": "Hacker News",
    "category": "发布/大事件",
@@ -148,7 +148,7 @@
   {
    "id": "6a84ae9bec151320a59367acd059e7b3",
    "title": "Oxygen-deprived underwater zones may not be \"dead zones\" but clue to early life",
-   "summary": "Article URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570\nComments URL: https://news.ycombinator.com/item?id=49925742\nPoints: 52\n# Comments:",
+   "summary": "Article URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570\nComments URL: https://news.ycombinator.com/item?id=49925742\nPoints: 58\n# Comments:",
    "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +161,7 @@
   {
    "id": "d6bd7c8e18274075f11a1ba1c615e1a1",
    "title": "Bez: Generating a browser engine from specs and tests",
-   "summary": "Article URL: https://tangled.org/burrito.space/bez\nComments URL: https://news.ycombinator.com/item?id=49925036\nPoints: 72\n# Comments: 20",
+   "summary": "Article URL: https://tangled.org/burrito.space/bez\nComments URL: https://news.ycombinator.com/item?id=49925036\nPoints: 76\n# Comments: 23",
    "link": "https://tangled.org/burrito.space/bez",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +174,7 @@
   {
    "id": "aed3f7dff5f0f0af76dc4711673071f0",
    "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
-   "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 357\n# Comments: 142",
+   "summary": "Article URL: https://blog.cloudflare.com/clef-decision-models/\nComments URL: https://news.ycombinator.com/item?id=49923692\nPoints: 368\n# Comments: 145",
    "link": "https://blog.cloudflare.com/clef-decision-models/",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +187,7 @@
   {
    "id": "bc42b07ceafb59e2a0b9b097571211bb",
    "title": "Lightweight PDF parser with layout, tables, formulas and bounding boxes",
-   "summary": "Article URL: https://github.com/beatrizalmeidaf/papero-pdf-text-extractor\nComments URL: https://news.ycombinator.com/item?id=49923638\nPoints: 61\n# Comments: 7",
+   "summary": "Article URL: https://github.com/beatrizalmeidaf/papero-pdf-text-extractor\nComments URL: https://news.ycombinator.com/item?id=49923638\nPoints: 62\n# Comments: 6",
    "link": "https://github.com/beatrizalmeidaf/papero-pdf-text-extractor",
    "source": "Hacker News",
    "category": "资讯",
