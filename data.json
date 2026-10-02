@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 06:02",
+ "updated_at": "2026-10-03 06:37",
  "total": 283,
  "channels": [
   "AI·科技",
@@ -15,6 +15,19 @@
  ],
  "items": [
   {
+   "id": "e1c5e3ffe256f49d3330978ac3ff1645",
+   "title": "First a fly interrupts play, then a spider tries too!",
+   "summary": "It&#8217;s not often you see both a fly and a spider grace the darts board on the same night, which is exactly what happened during the quarter-finals of the Wo",
+   "link": "https://www.skysports.com/watch/video/13594538/fly-and-a-spider-both-crawl-on-board-at-world-grand-prix-darts",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 07:01",
+   "ts": 1790982060
+  },
+  {
    "id": "aa9063b31d5f38f6cc73966ce5acee0b",
    "title": "Aston Villa latest: Garnacho scores in Antonio Puerta Trophy win over Sevilla",
    "summary": "",
@@ -28,30 +41,95 @@
    "ts": 1790980800
   },
   {
-   "id": "36a6300e2e23b408a9adf13dbd1627f1",
-   "title": "Price edges last-leg epic as Wade beats Van Veen to book Humphries semi",
-   "summary": "Gerwyn Price survived three match darts to beat Jonny Clayton in a final-leg thriller at the World Grand Prix, as James Wade emphatically dumped out Gian van Ve",
-   "link": "https://www.skysports.com/darts/news/12040/13594495/world-grand-prix-james-wade-thrashes-gian-van-veen-to-book-luke-humphries-semi-final-after-gerwyn-price-edges-thriller",
-   "source": "Sky Sports",
-   "channel": "体育",
+   "id": "58b533cf3b49a8691d7b6ac9e954d8f0",
+   "title": "Rick Devens on How ‘Survivor’ Prepped Him to Win ‘Big Brother,’ Canceling on James Gunn’s ‘Superman 2’ Cameo and If He’d do ‘Traitors’: “I’m Open”",
+   "summary": "After becoming the first ‘Survivor’ player to win ‘Big Brother’ on Thursday night, Devens chats with THR about evicting Drew Campbell before the final two, hous",
+   "link": "https://www.hollywoodreporter.com/tv/tv-features/devens-big-brother-winner-survivor-james-gunn-traitors-1236721238/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-03 06:40",
-   "ts": 1790980800
+   "fetched_at": "10-03 06:31",
+   "ts": 1790980308
   },
   {
-   "id": "aedefd62bd2898e71e645852146704fc",
-   "title": "Bath climb to top of Prem table after claiming derby honours over Exeter",
-   "summary": "Bath beat Exeter Chiefs 40-34 in a pulsating West Country derby at the Rec to take them to the top of the Gallagher Prem table but they were made to fight all t",
-   "link": "https://www.skysports.com/rugby-union/bath-vs-exeter/report/113836",
-   "source": "Sky Sports",
+   "id": "a72141cd2f3a564e652c78e30f096cb0",
+   "title": "UFC 332 -- Natalia Silva vs. Wang Cong: Fight card, date, odds, location and more for Salt Lake City",
+   "summary": "All the news, information, complete fight card and more for this weekend's festivities in Utah",
+   "link": "https://www.cbssports.com/ufc/news/ufc-332-fight-card-date-odds-natalia-silva-wang-cong/",
+   "source": "CBS Sports",
    "channel": "体育",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-03 06:38",
-   "ts": 1790980680
+   "fetched_at": "10-03 06:30",
+   "ts": 1790980255
+  },
+  {
+   "id": "1602325ea73d2432d7d817e458afe78f",
+   "title": "Penn State vs. Northwestern odds, picks, predictions, start time: Betting preview for college football Week 5",
+   "summary": "Penn State faces Northwestern on Friday for a Week 5 college football matchup",
+   "link": "https://www.cbssports.com/betting/news/penn-state-vs-northwestern-odds-picks-predictions-start-time-betting-preview-for-college-football-week-5/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:30",
+   "ts": 1790980251
+  },
+  {
+   "id": "d428ad712cd03d451f7883b0194dbfc6",
+   "title": "Jamey Eisenberg's Week 4 Fantasy football sleepers and DFS picks: Jordan Addison steps up with Jefferson out",
+   "summary": "Jordan Addison gets his chance with Justin Jefferson out, while C.J. Stroud, Jameson Williams and Darren Waller offer Week 4 upside",
+   "link": "https://www.cbssports.com/fantasy/football/news/jamey-eisenbergs-2026-week-4-fantasy-football-sleepers/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:30",
+   "ts": 1790980231
+  },
+  {
+   "id": "a88688ada7554ec2d42e5b9b7cb9e158",
+   "title": "California Legalized Plug-In Balcony Solar Panels, but Don’t Buy Any Just Yet",
+   "summary": "Units that comply with the new law are expected by spring.",
+   "link": "https://www.cnet.com/home/energy-and-utilities/california-plug-in-balcony-solar-panels-legal/",
+   "source": "CNET",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:24",
+   "ts": 1790979873
+  },
+  {
+   "id": "88b58fc6d7d64e7321bed9da0de4081e",
+   "title": "Sean “Diddy” Combs Reportedly Ran Fort Dix Prison Cell Like a Luxury Suite With Paid Staff",
+   "summary": "Inmates were allegedly paid to clean his cell and give him massages, per NBC News, as Combs' release date keeps shifting.",
+   "link": "https://www.hollywoodreporter.com/music/music-news/sean-diddy-combs-fort-dix-prison-luxury-suite-paid-staff-1236721315/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:22",
+   "ts": 1790979727
+  },
+  {
+   "id": "3de37c44c1aad29cfa0d05e2f33bb7f6",
+   "title": "Skydance Shuffle: David Ellison Addresses Troops About New Name, Says Adieu to Mike and Pam and Sets Table for ‘Barbie 2’",
+   "summary": "It&#8217;s 102 degrees in Los Angeles, but it&#8217;s certainly not a summer Friday on the Paramount lot. The studio is swarming with activity, subplots and pre",
+   "link": "https://variety.com/2026/film/news/david-ellison-skydance-name-mike-pam-barbie-2-1236897929/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:17",
+   "ts": 1790979471
   },
   {
    "id": "c9a6b9bd20d0234f70b8a41f3b9cb28f",
@@ -80,8 +158,34 @@
    "ts": 1790979360
   },
   {
-   "id": "2d05a3a730fb88187c4fb8c7bbb06b8b",
-   "title": "World Grand Prix LIVE! Humphries wins again after Wade hammers Van Veen",
+   "id": "d3b9a46002e3bded9dcdc13f8b8995ec",
+   "title": "Tinashe Wants to Challenge the Pop Star Label",
+   "summary": "As one of pop's most consistent and boundary-pushing artists, the 33-year-old has landed at a new chapter in her career with 'Popstar': \"I feel very self-assure",
+   "link": "https://www.hollywoodreporter.com/music/music-features/tinashe-popstar-social-media-music-industry-interview-1236717999/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:15",
+   "ts": 1790979339
+  },
+  {
+   "id": "def056561b43831aa113cd0cc6dbf13b",
+   "title": "Borgata Sportsbook promo code 2026: Bet $20, get $100 instantly in bonus bets",
+   "summary": "Borgata Sportsbook promo code for new users: CBS100 to bet $20, get $100 instantly in bonus bets",
+   "link": "https://www.cbssports.com/betting/news/borgata-promo-code/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:12",
+   "ts": 1790979155
+  },
+  {
+   "id": "8512b0a180a59fa1fe27dabd3e063842",
+   "title": "Humphries 'disappointed' despite 3-0 win to clinch semi-final spot",
    "summary": "",
    "link": "https://www.skysports.com/darts/live-blog/12040/13594445/world-grand-prix-darts-live-latest-scores-updates-highlights-as-luke-humphries-gerwyn-price-james-wade-in-quarter-final-action",
    "source": "Sky Sports",
@@ -91,6 +195,45 @@
    "urgent": false,
    "fetched_at": "10-03 06:12",
    "ts": 1790979120
+  },
+  {
+   "id": "3f09979611b41be86ea9980a5f6fdf8e",
+   "title": "Court ruling leaves Mark Mitchell, other fifth-year college athletes in eligibility limbo",
+   "summary": "The eligibility battle for Missouri star Mark Mitchell and several other prominent college basketball players seeking a fifth season got more complicated Friday",
+   "link": "https://www.cbssports.com/college-basketball/news/court-ruling-mark-mitchell-eligibility/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:07",
+   "ts": 1790978833
+  },
+  {
+   "id": "188a10d93a52fe0ef52269dbdb258ac5",
+   "title": "Penn State vs. Northwestern prediction, odds: Week 5 college football Friday picks as new Ryan Field opens",
+   "summary": "The SportsLine Projection Model has revealed its best bets for the Friday matchup between the Penn State Nittany Lions and Northwestern Wildcats as new Ryan Fie",
+   "link": "https://www.cbssports.com/betting/news/penn-state-northwestern-prediction-odds-line-start-time-week-5-college-football-friday-picks-ryan-field-opening/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:55",
+   "ts": 1790978129
+  },
+  {
+   "id": "eff6b2f1734dd31ec369818a997e3d6b",
+   "title": "Wade: Gian was 'pretty poor' – 'I bashed him up!'",
+   "summary": "James Wade felt Gian van Veen was &#8216;pretty poor&#8217; in their World Grand Prix Darts quarter-final, so he &#8216;bashed him up&#8217;!",
+   "link": "https://www.skysports.com/watch/video/13594526/james-wade-defeats-poor-gian-van-veen-i-bashed-him-up",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:54",
+   "ts": 1790978040
   },
   {
    "id": "df4a458f35424f32444d5c96c29444cc",
@@ -197,36 +340,10 @@
    "ts": 1790976749
   },
   {
-   "id": "64cfa4b9ccda5d8fc94f94186aa9be67",
-   "title": "UFC 332 fight card predictions: Expert picks, odds for Natalia Silva vs. Wang Cong in Salt Lake City",
-   "summary": "Check out who the experts at CBS Sports are taking in the women's flyweight title fight on Saturday",
-   "link": "https://www.cbssports.com/ufc/news/ufc-332-fight-card-predictions-natalia-silva-vs-wang-cong-expert-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:31",
-   "ts": 1790976663
-  },
-  {
    "id": "464bb4a47863420d8b099fcdaa434abe",
    "title": "Pittsburgh vs. Virginia Tech prediction, odds, time: Week 5 college football Friday picks by proven model",
    "summary": "The SportsLine Projection Model has revealed its best bets for the Friday matchup between the Pitt Panthers vs. Virginia Tech Hokies",
    "link": "https://www.cbssports.com/betting/news/pittsburgh-virginia-tech-prediction-odds-start-time-week-5-college-football-friday-picks-best-bets/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:30",
-   "ts": 1790976659
-  },
-  {
-   "id": "174ffdf149c38f10fb877f0104814cc8",
-   "title": "Liberty at Delaware live stream, where to watch, CBS Sports Network channel finder, odds",
-   "summary": "A full weekend of football on CBS Sports Network kicks off on Thursday night",
-   "link": "https://www.cbssports.com/college-football/news/liberty-delaware-live-stream-where-to-watch-online-cbs-sports-network-channel-finder-odds/",
    "source": "CBS Sports",
    "channel": "体育",
    "category": "资讯",
@@ -277,7 +394,7 @@
   {
    "id": "ed92f170bb8e0d0a2aafcc4eb43c0e7d",
    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-   "summary": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 3\n# Comments: 0",
+   "summary": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 5\n# Comments: 0",
    "link": "https://allenai.org/blog/astabrief",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -286,19 +403,6 @@
    "urgent": false,
    "fetched_at": "10-03 05:25",
    "ts": 1790976325
-  },
-  {
-   "id": "ea96f22a1e6f93787ce724c5a3bf9648",
-   "title": "Alabama vs. Mississippi State prediction, pick, odds, spread: Star QBs headline SEC showdown",
-   "summary": "Two unbeaten SEC rivals square off in Starkville as Keelon Russell leads a high-powered Tide offense against Kamario Taylor and the surging Bulldogs",
-   "link": "https://www.cbssports.com/college-football/news/alabama-mississippi-state-prediction-picks-odds-spread-where-to-watch-live/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:24",
-   "ts": 1790976242
   },
   {
    "id": "342aa00964b7fa4c1bfdffbdcb4772f9",
@@ -312,45 +416,6 @@
    "urgent": false,
    "fetched_at": "10-03 05:23",
    "ts": 1790976203
-  },
-  {
-   "id": "4455e0468af757eae35627876c446cf4",
-   "title": "Week 4 Fantasy football injuries: DeVonta Smith, Justin Jefferson sidelined but two star WRs set to return",
-   "summary": "McLaurin's late-week hamstring injury puts his London status in doubt, with Antonio Williams emerging as a waiver-wire option",
-   "link": "https://www.cbssports.com/fantasy/football/news/week-4-2026-fantasy-football-injury-updates/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:22",
-   "ts": 1790976143
-  },
-  {
-   "id": "352eb74842c9985d916225bbae4f20ef",
-   "title": "Navy vs. Air Force prediction, pick, odds, spread: Falcons aim to snap two-game skid against Midshipmen",
-   "summary": "The first game in the Commander-in-Chief's Trophy series takes place Saturday when Navy travels to Air Force",
-   "link": "https://www.cbssports.com/college-football/news/navy-air-force-prediction-picks-odds-spread-where-to-watch-live/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:21",
-   "ts": 1790976085
-  },
-  {
-   "id": "f62c6013bebb2161ed82577183259390",
-   "title": "Ohio State vs. Iowa prediction, pick, odds, spread: Buckeyes face another road test at Hawkeyes",
-   "summary": "No. 5 Ohio State travels to Iowa City for a Big Ten showdown with the No. 14 Hawkeyes",
-   "link": "https://www.cbssports.com/college-football/news/ohio-state-iowa-prediction-picks-odds-spread-where-to-watch-live/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:19",
-   "ts": 1790975981
   },
   {
    "id": "7889ffa4aa9ca81d4e3b70d08625384c",
@@ -431,22 +496,22 @@
    "ts": 1790975354
   },
   {
-   "id": "2ea49dd340c6d4ff681dfbf97310d791",
-   "title": "Meta open sources code to let you make Muse AI gadgets",
-   "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like",
-   "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
-   "source": "The Verge",
-   "channel": "AI·科技",
+   "id": "3e381e1a54a30aae97bffb6db2850bd1",
+   "title": "Price snatches win after Clayton misses three match darts",
+   "summary": "Gerwyn Price snatched victory from the jaws of defeat as compatriot Jonny Clayton missed three match darts in their quarter-final of the World Grand Prix Darts",
+   "link": "https://www.skysports.com/watch/video/13594517/gerwyn-price-beats-jonny-clayton-in-world-grand-prix-darts-quarter-final",
+   "source": "Sky Sports",
+   "channel": "体育",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-03 05:08",
-   "ts": 1790975317
+   "fetched_at": "10-03 05:09",
+   "ts": 1790975340
   },
   {
    "id": "7b95fdcedf41cbdc69cacc13d01b24c0",
    "title": "The Harness Is the Company",
-   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 7\n# Comments: 0",
+   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 22\n# Comments: 12",
    "link": "https://blog.sshh.io/p/the-harness-is-the-company",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -563,7 +628,7 @@
   {
    "id": "0419d34b7ab29cdaac75720215ed2d2c",
    "title": "Zig v0.17.0",
-   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 85\n# Comments: 36",
+   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 123\n# Comments: 59",
    "link": "https://ziglang.org/download/0.17.0/release-notes.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -719,7 +784,7 @@
   {
    "id": "9e6a9ad0988d597762be4c36fd3fcb75",
    "title": "Everyone's Packing Up",
-   "summary": "Article URL: https://widdershins.verja.net/everyones-packing-up/\nComments URL: https://news.ycombinator.com/item?id=49938047\nPoints: 63\n# Comments: 33",
+   "summary": "Article URL: https://widdershins.verja.net/everyones-packing-up/\nComments URL: https://news.ycombinator.com/item?id=49938047\nPoints: 82\n# Comments: 61",
    "link": "https://widdershins.verja.net/everyones-packing-up/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -886,19 +951,6 @@
    "ts": 1790970212
   },
   {
-   "id": "3e4dd4f2c2f8f3baa5d9b8bcb02b5afa",
-   "title": "Kanye West’s Latest Tour Stop Bites the Dust as Upcoming St. Petersburg Gigs Are Canceled",
-   "summary": "The Russian promoter didn't indicate if the Oct. 10-11 dates would be rescheduled.",
-   "link": "https://www.hollywoodreporter.com/music/music-news/kanye-wests-russia-tour-stop-st-petersburg-canceled-1236721128/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:33",
-   "ts": 1790969583
-  },
-  {
    "id": "a356295c0e9a5986b65217a66ee2b0c7",
    "title": "Mary Louise Weller, Who Played Sorority Girl in ‘Animal House,’ Dies at 79",
    "summary": "Mary Louise Weller, the actress known for her role as Mandy Pepperidge in “Animal House,” died Thursday after a long illness. She was 79. Her longtime partner M",
@@ -938,22 +990,9 @@
    "ts": 1790969400
   },
   {
-   "id": "15a5a4b0421556e7f9a64cc0fc52d81e",
-   "title": "Starz Executive Vice President of Original Programming Karen Bailey to Exit (EXCLUSIVE)",
-   "summary": "Karen Bailey, the Starz exec responsible for bringing &#8220;Outlander&#8221; to the network, is exiting the company at the end of the month. Bailey&#8217;s dep",
-   "link": "https://variety.com/2026/tv/news/starz-original-programming-karen-bailey-exits-1236897728/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:30",
-   "ts": 1790969400
-  },
-  {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 51\n# Comments: 32",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 64\n# Comments: 36",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -975,32 +1014,6 @@
    "urgent": false,
    "fetched_at": "10-03 03:26",
    "ts": 1790969194
-  },
-  {
-   "id": "07e09e12316977f645d728cffa9e63f2",
-   "title": "GLAAD’s New York Gala to Honor Bruce Cohen, Feature Ariana DeBose and Alex Newell",
-   "summary": "Ross Mathews is hosting the event in Manhattan on Oct. 23.",
-   "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/glaad-nyc-gala-2026-bruce-cohen-ariana-debose-alex-newell-1236721071/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:25",
-   "ts": 1790969142
-  },
-  {
-   "id": "cf35e2444299215757fc82db6b94f311",
-   "title": "Wynonna Judd Says Rosie O’Donnell’s Claims That She’s a Trump Supporter Are a “Complete Assumption”",
-   "summary": "“I’ve never spoken to her about politics in my life,” Judd said about O’Donnell.",
-   "link": "https://www.hollywoodreporter.com/news/politics-news/wynonna-judd-responds-rosie-odonnell-trump-supporter-1236721112/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:22",
-   "ts": 1790968948
   },
   {
    "id": "d0281fd030aca739197707cfc5fc9670",
@@ -1031,7 +1044,7 @@
   {
    "id": "b495321b23a95864d58581ea58ec90ed",
    "title": "\"The only intuitive interface is the nipple\" (2012)",
-   "summary": "Article URL: https://www.greenend.org.uk/rjk/misc/nipple.html\nComments URL: https://news.ycombinator.com/item?id=49937387\nPoints: 25\n# Comments: 27",
+   "summary": "Article URL: https://www.greenend.org.uk/rjk/misc/nipple.html\nComments URL: https://news.ycombinator.com/item?id=49937387\nPoints: 28\n# Comments: 31",
    "link": "https://www.greenend.org.uk/rjk/misc/nipple.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1070,7 +1083,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 219\n# Comments: 140",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 231\n# Comments: 157",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1304,7 +1317,7 @@
   {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 84\n# Comments: 15",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 94\n# Comments: 21",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1313,19 +1326,6 @@
    "urgent": false,
    "fetched_at": "10-03 02:01",
    "ts": 1790964076
-  },
-  {
-   "id": "2279fb83c94165d9c73a6231e8116762",
-   "title": "Jordan handles Piers Morgan 'sledging' to move into contention",
-   "summary": "Matthew Jordan shot a seven-under 65 to move into contention at the Alfred Dunhill Links Championship despite having to put up with Piers Morgan's verbal jousti",
-   "link": "https://www.skysports.com/golf/news/12040/13594476/alfred-dunhill-links-championship-matthew-jordan-moves-into-contention-with-casey-jarvis-leading-by-one",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:01",
-   "ts": 1790964060
   },
   {
    "id": "dc3d703729f5de65a3421fa0694dd72d",
@@ -1798,7 +1798,7 @@
   {
    "id": "077fdf42fb97a882004a771ef6ef80bf",
    "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 69\n# Comments: 50",
+   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 76\n# Comments: 57",
    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1950,6 +1950,19 @@
    "urgent": false,
    "fetched_at": "10-02 22:36",
    "ts": 1790951793
+  },
+  {
+   "id": "9aced2aa3b3d6cd5b13bd6b6c22df452",
+   "title": "Tesla will now let you drive off mid-charge if there’s an emergency",
+   "summary": "Tesla introduced a new feature to enable drivers to escape quickly while charging their vehicles in response to a mass shooting at a Supercharger location in Id",
+   "link": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:34",
+   "ts": 1790951654
   },
   {
    "id": "6c034dd3a711ae08244beda6bed1508c",
@@ -2600,19 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-02 12:50",
    "ts": 1790916643
-  },
-  {
-   "id": "b9500694068fdd0bbf9d4256c672fb56",
-   "title": "一年后的中性场景：仅依沃西就可以支撑3000亿+港元市值的康方",
-   "summary": "",
-   "link": "http://xueqiu.com/1781588375/411169265",
-   "source": "雪球",
-   "channel": "财经",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 12:50",
-   "ts": 1790916633
   }
  ]
 }
