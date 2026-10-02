@@ -1,55 +1,79 @@
 name: Fetch Intelligence
 
-# ⚠️ 重要：GitHub 自带的定时任务不保证准点，高峰期可能延迟 15 分钟以上，
-# 仓库 60 天无活动还会被自动暂停。要"准实时"，请配合下方 README 的外部定时器方案。
+# ============================================================
+# 加固版：更容错、更易排错、push 前自动 rebase 防止冲突
+# 触发方式：定时 / 手动 / cron-job.org 外部触发
+# ============================================================
 
 on:
   schedule:
-    # 每小时 4 次（GitHub 定时最小 5 分钟，但免费版实际经常延迟；多个时点可降低整轮被吞的概率）
-    - cron: '7,22,37,52 * * * *'
-  workflow_dispatch:        # 手动触发按钮
-  repository_dispatch:      # 供外部定时器（如 cron-job.org）调用，实现准实时
+    - cron: '7,22,37,52 * * * *'   # 兜底定时（每 15 分钟 4 个时点）
+  workflow_dispatch:               # 手动触发按钮
+  repository_dispatch:             # cron-job.org 等外部定时器触发
     types: [fetch-now]
 
-# 允许把更新后的 data.json 推回仓库（必须）
+# 必须：允许把更新后的 data.json 推回仓库
+# 同时需在 Settings → Actions → General → Workflow permissions 选 Read and write
 permissions:
   contents: write
 
 concurrency:
   group: fetch-intel
-  cancel-in-progress: false
+  cancel-in-progress: false        # 串行执行，避免并发 push 冲突
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0           # 拉完整历史，便于 rebase
 
-      - uses: actions/setup-python@v5
+      - name: Setup Python
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
       - name: Install dependencies
         run: pip install feedparser requests
 
+      - name: Show environment (debug)
+        run: |
+          echo "触发事件: ${{ github.event_name }}"
+          echo "分支: ${{ github.ref_name }}"
+          ls -la
+          echo "--- data.json 存在性 ---"
+          test -f data.json && echo "data.json 存在" || echo "⚠️ data.json 缺失"
+          test -f fetcher.py && echo "fetcher.py 存在" || echo "⚠️ fetcher.py 缺失"
+
       - name: Fetch RSS feeds
         run: python fetcher.py
 
       - name: Optional - push digest via WxPusher
+        continue-on-error: true      # 推送失败不阻塞数据更新
         env:
           WXPUSHER_TOKEN: ${{ secrets.WXPUSHER_TOKEN }}
-          WXPUSHER_UID: ${{ secrets.WXPUSHER_UID }}
+          WXPUSHER_UIDS: ${{ secrets.WXPUSHER_UIDS }}
         run: |
-          if [ -n "$WXPUSHER_TOKEN" ]; then python push_wxpusher.py; else echo "未配置 WXPUSHER_TOKEN，跳过推送"; fi
+          if [ -n "$WXPUSHER_TOKEN" ] && [ -f push_wxpusher.py ]; then
+            python push_wxpusher.py
+          else
+            echo "跳过推送（未配置 token 或缺少 push_wxpusher.py）"
+          fi
 
       - name: Commit updated data
         run: |
+          set -e
           git config user.name "intel-bot"
           git config user.email "bot@users.noreply.github.com"
           git add data.json
           if git diff --cached --quiet; then
             echo "无新数据，跳过提交"
-          else
-            git commit -m "auto: update intelligence data $(date -u +%m-%d\ %H:%M)"
-            git push
+            exit 0
           fi
+          git commit -m "auto: update intelligence data $(date -u '+%Y-%m-%d %H:%M UTC')"
+          # 先 rebase 再推送，避免 non-fast-forward 冲突
+          git pull --rebase --autostash origin ${GITHUB_REF_NAME} || true
+          git push origin HEAD:${GITHUB_REF_NAME}
+          echo "✅ 数据已更新并推送"
