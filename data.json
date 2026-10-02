@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02 18:38",
+ "updated_at": "2026-10-02 19:03",
  "total": 283,
  "channels": [
   "AI·科技",
@@ -41,6 +41,19 @@
    "ts": 1790939100
   },
   {
+   "id": "659e6ab261ee9546e8d805c3b3e1cef3",
+   "title": "保时捷 CEO 骆明楷：2028 年将推出燃油版 Macan，重拾油车≠弃电动化",
+   "summary": "IT之家 10 月 2 日消息，保时捷 CEO 骆明楷（Michael Leiters）认为，外界把公司重新重视燃油车理解成放弃电动化，并不准确：保时捷会继续发展电车，也不会放弃油车。当地时间 9 月 30 日，骆明楷在最新采访中再次明确了这套思路。他确认燃油版 Macan 将在 2028 年推出，同时强调保时捷的电动",
+   "link": "https://www.ithome.com/1/009/341.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:01",
+   "ts": 1790938892
+  },
+  {
    "id": "7696a896d9435b29f2d8dfa90874d027",
    "title": "Brand’s lessons from Chelsea as he prepares for the next step",
    "summary": "&#8220;When it first happened, I did not know what to do with myself,&#8221; Ed Brand tells Sky Sports. He spent 17 years at Chelsea before leaving the club ear",
@@ -52,6 +65,58 @@
    "urgent": false,
    "fetched_at": "10-02 19:00",
    "ts": 1790938800
+  },
+  {
+   "id": "3262e5b9da90cdfa265adea154dcaf50",
+   "title": "‘The Celebrity Traitors’ Scores Record-Breaking Season 2 Premiere With Nearly 9 Million Viewers",
+   "summary": "The second season of the U.K.&#8217;s &#8220;Celebrity Traitors&#8221; is off to a record-breaking start. More than 8.8 million viewers watched Thursday night&#",
+   "link": "https://variety.com/2026/tv/global/celebrity-traitors-premiere-ratings-record-9-million-1236897450/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 18:54",
+   "ts": 1790938468
+  },
+  {
+   "id": "9b47c75fd5ef7bd87df24aff3862378d",
+   "title": "特斯拉推出 Dog Mode Chew Toy 车载周边：适用宠物场景，20 美元",
+   "summary": "IT之家 10 月 2 日消息，特斯拉美国现已在其官方商城上架了一款 Dog Mode Chew Toy（狗狗模式咬咬玩具），售价 20 美元（IT之家注：现汇率约合 134.3 元人民币），中国市场尚未上架。据特斯拉介绍，这款玩具尺寸约为 8.6×7.4×13.4 厘米，采用无毒橡胶材质打造，主打耐咬且易于清洗，其中",
+   "link": "https://www.ithome.com/1/009/340.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 18:45",
+   "ts": 1790937903
+  },
+  {
+   "id": "9ae51d1a1286ba48078f821e9647a759",
+   "title": "罗技 Astro A50 X 头戴式耳机 McLAREN RACING“迈凯轮赛车版”国行发售，3499 元",
+   "summary": "IT之家 10 月 2 日消息，罗技旗下 Astro A50 X 耳机“迈凯轮赛车”版本（McLAREN RACING）国行现已在京东发售，定价为 3499 元。京东罗技（G）Astro A50 X 迈凯轮赛车版本 3499 元直达链接官方表示，这次联名并非简单换色，而是罗技对迈凯轮赛车精神的致敬。从耳机本体、麦克风到",
+   "link": "https://www.ithome.com/1/009/339.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 18:44",
+   "ts": 1790937890
+  },
+  {
+   "id": "cb0787d19dc153244eedc05483eb262c",
+   "title": "Rivian 为 R2 车型推送 10 月车机系统更新：新增 Pet Cam 宠物摄像头、电动尾门开启高度调节功能",
+   "summary": "IT之家 10 月 2 日消息，Rivian 宣布为旗下 R2 车型推送 10 月车机系统更新（版本号预计为 2026.35），主要新增 Pet Cam 宠物摄像头、电动尾门开启高度调节功能。其中，Pet Cam 主要服务于 Pet Comfort Mode（宠物舒适模式）。当车主启用该模式并离开车辆后，可以通过 Ri",
+   "link": "https://www.ithome.com/1/009/338.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 18:44",
+   "ts": 1790937884
   },
   {
    "id": "87f913e180e24aaaefd99bf8670d628e",
@@ -119,6 +184,32 @@
    "ts": 1790935800
   },
   {
+   "id": "e860b544df5af0c039eb4c9bb68faae8",
+   "title": "Modder Deliberately Corrupts Their Own Hugely Popular Total War: Warhammer III Mod as Row Over AI Escalates",
+   "summary": "The creator of one of the most popular Total War: Warhammer III mods ever has deliberately corrupted it so that it will no longer work with “unauthorized reuplo",
+   "link": "https://www.ign.com/articles/modder-deliberately-corrupts-their-own-hugely-popular-total-war-warhammer-iii-mod-as-row-over-ai-escalates",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 18:09",
+   "ts": 1790935770
+  },
+  {
+   "id": "dfbb42d0c8d9d144d1e25b1f1360f652",
+   "title": "The 10 Most Valuable Cards in Magic: The Gathering Reality Fracture",
+   "summary": "Here's our breakdown of the most expensive cards in Magic: The Gathering's brand-new expansion, Reality Fracture. That includes massive Facet Foil chase cards, ",
+   "link": "https://www.ign.com/articles/mtg-reality-fracture-most-valuable-cards",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 18:09",
+   "ts": 1790935767
+  },
+  {
    "id": "026b7c8a5a449b9840755e052b3edcea",
    "title": "腾讯 WorkBuddy 内置模型独家支持 Space Bunny",
    "summary": "IT之家 10 月 2 日消息，腾讯 WorkBuddy 今日宣布内置模型独家支持 Space Bunny。据介绍，Space Bunny 是一款匿名 Flash 大模型，具备极速推理、强大的编码能力，原生支持文本、图像、视频输入，思考深度可调，上下文长达 1M。WorkBuddy 国内独家接入，2026 年 10 月",
@@ -169,19 +260,6 @@
    "urgent": false,
    "fetched_at": "10-02 18:00",
    "ts": 1790935209
-  },
-  {
-   "id": "42cd08277a666fc2e05b522651656d9f",
-   "title": "Man City to land Arsenal in deeper trouble? Putellas to star?",
-   "summary": "",
-   "link": "https://www.skysports.com/football/news/12040/13593893/womens-super-league-live-on-sky-this-weekend-man-city-to-hand-further-punishment-to-renee-slegers-and-arsenal",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 18:00",
-   "ts": 1790935200
   },
   {
    "id": "38a31e5fef56dbb0af7a5ea675cebd50",
@@ -353,45 +431,6 @@
    "ts": 1790932816
   },
   {
-   "id": "d2de152023f8c6a8463ac56e44c60d88",
-   "title": "周星驰导演电影《功夫女足》网播定档 10 月 3 日，已收获 23.45 亿元票房",
-   "summary": "IT之家 10 月 2 日消息，周星驰导演电影《功夫女足》将于 10 月 3 日 10:00 全网上线各大视频平台，这部暑期档影片已收获 23.45 亿元票房。该影片由周星驰担任导演、编剧，张小斐、迪丽热巴、张艺兴领衔主演，刘嘉玲、佐藤健特别出演。该片结合少林功夫与足球元素，围绕女子足球队“峨眉队”征战展开，讲述了一群",
-   "link": "https://www.ithome.com/1/009/324.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 17:17",
-   "ts": 1790932665
-  },
-  {
-   "id": "5175124eca33f5e9706891e88ffac413",
-   "title": "中国电信 App 上线 eSIM 手机绑定号码数量查询功能",
-   "summary": "IT之家 10 月 2 日消息，中国电信现已为其 App 上线“eSIM 手机绑号量查询”功能，用户可以在 App“服务大厅”-“号卡服务”中找到入口。中国电信表示，目前该项查询服务仅支持 eSIM 手机设备，暂不支持其他设备类型查询号码绑定情况。为完成身份校验并查询设备的绑卡数量与月开卡次数，用户需输入 32 位手机",
-   "link": "https://www.ithome.com/1/009/323.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 17:10",
-   "ts": 1790932245
-  },
-  {
-   "id": "be6ebc587fcae71e063094bb17880469",
-   "title": "奇瑞风云 A9 九月交付超 7000 台，单月订单突破 2 万台",
-   "summary": "IT之家 10 月 2 日消息，奇瑞风云新能源今日宣布，9 月风云 A9 交付超 7000 台，单月订单突破 20000 台。据IT之家此前报道，奇瑞风云 A9 纯电轿跑于 7 月 25 日正式上市，上市指导价 10.99 万元起，超级置换价 10.69 万元起：655km Pro 版：上市指导价 10.99 万元，超",
-   "link": "https://www.ithome.com/1/009/322.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-02 17:09",
-   "ts": 1790932149
-  },
-  {
    "id": "67dc7bbef639400972f0e1f3e9a067df",
    "title": "搜打撤游戏《绝地求生：黑域撤离》宣布中止开发",
    "summary": "在评估了项目的开发状态与未来方向后，PUBG STUDIOS 认为当前的路线无法带来能让玩家长期享受的游戏体验。因此，官方做出了艰难的决定，决定终止《绝地求生：黑域撤离》的开发。\n\n开发团队对所有参与封闭内测并提供反馈的玩家表示感谢。开发团队表示，会将开发和测试期间获得的经验运用到未来的项目中，并在探索全新玩法时继续倾",
@@ -403,19 +442,6 @@
    "urgent": false,
    "fetched_at": "10-02 17:03",
    "ts": 1790931803
-  },
-  {
-   "id": "7ad2a67620ab7e60e2a47a65c0b5e2c5",
-   "title": "育碧手游《刺客信条：燎原》下架，2027 年 1 月 12 日停服",
-   "summary": "IT之家 10 月 2 日消息，育碧宣布旗下手游《刺客信条：燎原》将于 2027 年 1 月 12 日关闭服务器，届时现有玩家也无法继续游玩。游戏目前已从应用商店下架，新玩家无法再通过商店下载。《刺客信条：燎原》是一款策略角色扮演游戏，以卡通化画风汇集系列角色，于 2018 年 11 月 21 日上线。玩家可以培养自己",
-   "link": "https://www.ithome.com/1/009/321.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 17:01",
-   "ts": 1790931677
   },
   {
    "id": "e2ea3169f96dc5b8e43ad60db0df74ed",
@@ -537,7 +563,7 @@
   {
    "id": "3970b6d76487b8362ec16406910ed92f",
    "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 16\n# Comments: 3",
+   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 18\n# Comments: 3",
    "link": "https://github.com/kvoltmer/Audionaut",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -769,6 +795,19 @@
    "ts": 1790921717
   },
   {
+   "id": "883bc0b0167829e035394f8efbb41834",
+   "title": "How to Add shadcn Charts to a Next.js App Without Writing Recharts Boilerplate",
+   "summary": "Charts look like a small task on a ticket. Then you open the Recharts docs and remember how much setup every chart needs: a config object for labels and colors,",
+   "link": "https://www.freecodecamp.org/news/how-to-add-shadcn-ui-charts-to-nextjs/",
+   "source": "freeCodeCamp",
+   "channel": "教程",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 14:13",
+   "ts": 1790921629
+  },
+  {
    "id": "442198b5fecee2ba58bf25ae268263c5",
    "title": "你的下一台「泡面盖」，何必是塑料的？",
    "summary": "铝合金 Kindle 来了！压泡面更稳#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -823,7 +862,7 @@
   {
    "id": "af33b5bbab24e50b74e293ed13a06c4b",
    "title": "Shimano Bicycle Museum Review",
-   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 116\n# Comments: 17",
+   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 123\n# Comments: 21",
    "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1083,7 +1122,7 @@
   {
    "id": "edd38f0a71d7d06b77bf24a69b2e893c",
    "title": "DeepSeek Harness Desktop for macOS and Windows",
-   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 243\n# Comments: 120",
+   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 247\n# Comments: 120",
    "link": "https://www.deepseek.com/en/harness/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1432,6 +1471,19 @@
    "ts": 1790899200
   },
   {
+   "id": "2c7cb719055028dfdd7d1bb480625593",
+   "title": "Can we have class outside? Seven tips to breeze through outdoor lectures",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02564-8Advocates say that delivering lectures and presentations al fresco can energize student",
+   "link": "https://www.nature.com/articles/d41586-026-02564-8",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
+  },
+  {
    "id": "5e7763362b98aad22ef0446984906849",
    "title": "Welcome to Opt Out October: It’s Time to Ditch Unwanted Subscriptions and AI Spies",
    "summary": "It’s a good month to reassess old accounts and retake control of your data and privacy.",
@@ -1456,19 +1508,6 @@
    "urgent": false,
    "fetched_at": "10-02 07:37",
    "ts": 1790897876
-  },
-  {
-   "id": "8e8cdf5b6c92b478886c41e63d4707ec",
-   "title": "Eddie Murphy to Star in Peacock Drama Series ‘The Chairman’ From ‘Mad Men’ Creator Matthew Weiner",
-   "summary": "Eddie Murphy is attached to star in &#8220;The Chairman,&#8221; a drama series in development at Peacock created by Matthew Weiner. If greenlit, the project wil",
-   "link": "https://variety.com/2026/tv/news/eddie-murphy-peacock-drama-matthew-weiner-1236897144/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 07:30",
-   "ts": 1790897400
   },
   {
    "id": "d3384ed1557c06cb57595e976f6822c3",
@@ -1499,7 +1538,7 @@
   {
    "id": "69f5cac8b7bca0cbd956b727558e2ef6",
    "title": "Several vulnerabilities have been discovered in the Linux kernel",
-   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 318\n# Comments: 230",
+   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 325\n# Comments: 233",
    "link": "https://lwn.net/Articles/1097401/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1603,7 +1642,7 @@
   {
    "id": "43305a99e92c3a3a916d33ae355c222b",
    "title": "Frog and Toad and the Increasingly Capable Machines",
-   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 179\n# Comments: 39",
+   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 185\n# Comments: 41",
    "link": "https://www.frogandtoad.ai/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1638,32 +1677,6 @@
    "urgent": false,
    "fetched_at": "10-02 06:16",
    "ts": 1790892996
-  },
-  {
-   "id": "e16868fa3e8463c9b553c9072c893a60",
-   "title": "New GTA 6 Age Rating Confirms Game Will Feature Sex Scenes",
-   "summary": "GTA 6 will have sex scenes, according to a new listing from international ratings boards.",
-   "link": "https://www.ign.com/articles/new-gta-6-age-rating-confirms-game-will-feature-sex-scenes",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 06:14",
-   "ts": 1790892848
-  },
-  {
-   "id": "f904e0771a353e80dc462e9e1d76f5f0",
-   "title": "Miami Vice '85 Casts Walton Goggins in Villain Role",
-   "summary": "Walton Goggins has joined the cast of Miami Vice '85. The actor will play a henchman/assassin acting on behalf of John Leguizamo's character, who is a cartel ki",
-   "link": "https://www.ign.com/articles/miami-vice-85-casts-walton-goggins-in-villain-role",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 06:01",
-   "ts": 1790892103
   },
   {
    "id": "c8e5035737854e9ed05197b9c40065cd",
@@ -1707,7 +1720,7 @@
   {
    "id": "98ff326da4f4d4c7734c537ba1eae2b5",
    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 112\n# Comments: 28",
+   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 113\n# Comments: 28",
    "link": "https://www.cssbed.com",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1889,7 +1902,7 @@
   {
    "id": "f2857a36fd3d01c62f9b071142c9551b",
    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 77\n# Comments: 14",
+   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 79\n# Comments: 14",
    "link": "https://github.com/Vibra-Ingenn/Janus",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2600,19 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-01 22:47",
    "ts": 1790866021
-  },
-  {
-   "id": "47d0208541709310c4462ffe638c21c0",
-   "title": "Ford’s $30,000 Fathom EV pickup production launch faces uncertainty [Update]",
-   "summary": "The Ford Fathom is expected to go on sale in early 2027, starting at $28,350. Ford CEO Jim Farley admitted, “It’s going to be a heck of an effort to launch this",
-   "link": "https://electrek.co/2026/10/01/fords-30000-ev-pickup-production-launch-faces-uncertainty/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-01 22:37",
-   "ts": 1790865423
   }
  ]
 }
