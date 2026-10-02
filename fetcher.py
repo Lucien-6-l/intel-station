@@ -7,10 +7,13 @@
 - 用法: pip install feedparser; python3 fetcher.py
 - 云端定时: GitHub Actions / cron-job.org 触发
 """
-import json, hashlib, re, time, sys
+import json, hashlib, re, time, sys, socket
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 import feedparser
+
+# 关键：给每个网络请求设置超时，避免个别慢源拖垮整个任务（此前抓取耗时 15 分钟）
+socket.setdefaulttimeout(20)
 
 try:
     import zoneinfo
