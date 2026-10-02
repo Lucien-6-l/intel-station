@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 01:03",
+ "updated_at": "2026-10-03 01:37",
  "total": 283,
  "channels": [
   "AI·科技",
@@ -15,6 +15,45 @@
  ],
  "items": [
   {
+   "id": "2d05a3a730fb88187c4fb8c7bbb06b8b",
+   "title": "World Grand Prix LIVE! Aspinall in first QF before Price vs Clayton",
+   "summary": "",
+   "link": "https://www.skysports.com/darts/live-blog/12040/13594445/world-grand-prix-darts-live-latest-scores-updates-highlights-as-luke-humphries-gerwyn-price-james-wade-in-quarter-final-action",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:30",
+   "ts": 1790965800
+  },
+  {
+   "id": "2279fb83c94165d9c73a6231e8116762",
+   "title": "Jordan handles Piers Morgan 'sledging' to move into contention",
+   "summary": "Matthew Jordan shot a seven-under 65 to move into contention at the Alfred Dunhill Links Championship despite having to put up with Piers Morgan's verbal jousti",
+   "link": "https://www.skysports.com/golf/news/12040/13594476/alfred-dunhill-links-championship-matthew-jordan-moves-into-contention-with-casey-jarvis-leading-by-one",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:01",
+   "ts": 1790964060
+  },
+  {
+   "id": "88664b4db36817b115efec6da0b7896c",
+   "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+   "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+   "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 01:32",
+   "ts": 1790962325
+  },
+  {
    "id": "ac14ca169a9b40c7accb6faf48e84241",
    "title": "Man Utd latest: Baleba plays first minutes in behind-closed-doors friendly",
    "summary": "",
@@ -28,17 +67,95 @@
    "ts": 1790961960
   },
   {
-   "id": "6133e6b60a51180b9e044927378d550f",
-   "title": "Sir Kevin Sinfield completes penultimate day of latest MND challenge",
-   "summary": "",
-   "link": "https://www.skysports.com/rugby-league/live-blog/12040/13303427/rugby-league-news-transfers-and-rumours-super-league-latest-and-highlights",
-   "source": "Sky Sports",
-   "channel": "体育",
+   "id": "d9abeb4c6cfbaa2c930f5d901253ca74",
+   "title": "Google Calendar may soon realize not every new event needs the same default length",
+   "summary": "Juggling work and family? Google Calendar may soon tailor event lengths per calendar.",
+   "link": "https://www.androidauthority.com/calendar-default-length-3718621/",
+   "source": "Android Authority",
+   "channel": "数码",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-03 01:24",
-   "ts": 1790961840
+   "fetched_at": "10-03 01:25",
+   "ts": 1790961932
+  },
+  {
+   "id": "987cdca8b49fef76c87cd55c9cc576a0",
+   "title": "Apple’s new ‘homeOS’ will launch this month, here’s what’s coming",
+   "summary": "Apple reportedly plans to launch new Home products on October 13 alongside an all-new operating system rumored to be called ‘homeOS.’ Here are the details.\n\n\n\n ",
+   "link": "https://9to5mac.com/2026/10/02/apples-new-homeos-will-launch-this-month-heres-whats-coming/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 01:22",
+   "ts": 1790961739
+  },
+  {
+   "id": "a599a7100514b4d4c89a69722f22cd39",
+   "title": "UK EV sales surge 36% to record high in September",
+   "summary": "UK EV sales hit a new all-time record in September. The country registered 99,199 battery-electric cars last month, up 36.3% from a year ago and good for 28.3% ",
+   "link": "https://electrek.co/2026/10/02/uk-ev-sales-record-september-2026-tesla-model-3/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 01:17",
+   "ts": 1790961428
+  },
+  {
+   "id": "fd88b0fb7293af4781afb13fd2254754",
+   "title": "Mercedes will no longer offer these EVs in 2027",
+   "summary": "Mercedes-Benz is revamping its electric vehicle lineup. The new CLA and GLB are now on sale, while a few EVs are on the way out in 2027.\n\n\n\n more…",
+   "link": "https://electrek.co/2026/10/02/mercedes-cuts-several-evs-lineup-2027/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 01:15",
+   "ts": 1790961337
+  },
+  {
+   "id": "7843bbd6099bd57ee1b0714a5969fa00",
+   "title": "Rivian’s sales pop as the company’s big R2 bet starts to pay off",
+   "summary": "Rivian had high hopes for its more affordable R2 vehicle - and so far, those hopes appear to be paying off. The company released its third-quarter production an",
+   "link": "https://www.theverge.com/transportation/1004127/rivian-q3-2026-production-delivery-r2",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 01:15",
+   "ts": 1790961303
+  },
+  {
+   "id": "669ee98643c9bf8c42caee5a9689715d",
+   "title": "‘Other Mommy,’ ‘Whalefall’ and ‘Victorian Psycho’:  The Authors Behind the Page-to-Screen Nightmares Compare Notes",
+   "summary": "Ahead of their film adaptations releasing this fall, authors Josh Malerman, Daniel Kraus and Virginia Feito discuss their starry casts, why none of them writes ",
+   "link": "https://www.hollywoodreporter.com/movies/movie-features/other-mommy-whalefall-victorian-psycho-authors-interview-1236707921/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 01:15",
+   "ts": 1790961300
+  },
+  {
+   "id": "9855134b937c949a6a49664370cef845",
+   "title": "AT&T, Verizon, and T-Mobile officially launch joint venture to end dead zones",
+   "summary": "Back in May, AT&amp;T, Verizon, and T-Mobile announced \"an agreement in principle\" to create a joint venture that would strive to end dead zones across the US. ",
+   "link": "https://www.gsmarena.com/at_t_verizon_and_tmobile_officially_launch_joint_venture_to_end_dead_zones-news-74870.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 01:09",
+   "ts": 1790960942
   },
   {
    "id": "27c7ccdfd145480dd2c74d2afc4f6907",
@@ -54,9 +171,22 @@
    "ts": 1790960640
   },
   {
+   "id": "dfd8c2b8ffe1357f6c3d94ff09835fbe",
+   "title": "ICC judge on what U.S. sanctions mean for her and global courts",
+   "summary": "Article URL: https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost\nComments URL: https://news.ycombinator.com/item?id=49935867\nPoints:",
+   "link": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 01:02",
+   "ts": 1790960551
+  },
+  {
    "id": "bc7fdf17cb4f1ec01e44bc6607566184",
    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
-   "summary": "With all the talk about how AI might one day ill us all, it's easy to forget that AI has already harmed some people, psychologically. Circuit Breaker Labs has c",
+   "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has c",
    "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
    "source": "TechCrunch",
    "channel": "AI·科技",
@@ -78,6 +208,32 @@
    "urgent": false,
    "fetched_at": "10-03 01:00",
    "ts": 1790960400
+  },
+  {
+   "id": "ce9c88e6dce08ce8102e019378718b7d",
+   "title": "Most of Us Have Been Cyberattack Targets, Consumer Reports Finds. AI Isn’t Helping",
+   "summary": "From snooping smart glasses to AI bots going rogue, I’m not surprised US adults are more concerned about their privacy.",
+   "link": "https://www.cnet.com/tech/services-and-software/most-of-us-have-been-cyber-attack-targets-consumer-reports-finds-ai-isnt-helping/",
+   "source": "CNET",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 00:53",
+   "ts": 1790960014
+  },
+  {
+   "id": "b891c4c19e20a7397f065c49ad2d00a7",
+   "title": "Dutch Computer Museums",
+   "summary": "Article URL: https://aresluna.org/dutch-computer-museums/\nComments URL: https://news.ycombinator.com/item?id=49935751\nPoints: 14\n# Comments: 1",
+   "link": "https://aresluna.org/dutch-computer-museums/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 00:52",
+   "ts": 1790959959
   },
   {
    "id": "6eb01e2ed6f7087abb613741f4bc6d63",
@@ -158,19 +314,6 @@
    "ts": 1790959131
   },
   {
-   "id": "4b9ec57281b1109a580391aee6ddce41",
-   "title": "Pittsburgh vs. Virginia Tech prediction, odds, time: Week 5 college football Friday picks by proven model",
-   "summary": "The SportsLine Projection Model has revealed its best bets for the Friday matchup between the Pitt Panthers vs. Virginia Tech Hokies",
-   "link": "https://www.cbssports.com/betting/news/pittsburgh-virginia-tech-prediction-odds-time-week-5-college-football-friday-picks-best-bets/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:35",
-   "ts": 1790958929
-  },
-  {
    "id": "3f5b417f20b22ed1752d6152c0f65ec6",
    "title": "Nacon’s new PS5 controller can mix audio from your phone and console",
    "summary": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings lik",
@@ -182,19 +325,6 @@
    "urgent": false,
    "fetched_at": "10-03 00:35",
    "ts": 1790958913
-  },
-  {
-   "id": "2d6b2f23cc3f1c72e788a7e22f871e86",
-   "title": "Fernando Tatis Jr. is the engine driving the Padres, baseball's hottest team, into NLDS showdown vs. Brewers",
-   "summary": "After a brutal first half, Tatis and the Padres are riding a Pacific Ocean-sized wave of vibes into Milwaukee",
-   "link": "https://www.cbssports.com/mlb/news/fernando-tatis-jr-padres-brewers-mlb-playoffs/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:34",
-   "ts": 1790958851
   },
   {
    "id": "f7de24d033e308a1c3a77c0d4e18bad1",
@@ -561,6 +691,19 @@
    "ts": 1790956800
   },
   {
+   "id": "57f547c33a3c2d73f0b8d9d71006ac28",
+   "title": "Fantasy football rankings, projections, lineups, sleepers for NFL Week 4, 2026 from advanced model",
+   "summary": "SportsLine's model reveals its Week 4 Fantasy football projections, PPR rankings, start-sit advice for sites like CBS Sports, ESPN and Yahoo",
+   "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-projections-lineup-advice-picks-sleepers-streamers-start-sit-nfl-week-4-2026/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 23:57",
+   "ts": 1790956674
+  },
+  {
    "id": "cc596892e8e5bb290f5913407e8484a5",
    "title": "James Gunn's DCU Reportedly Safe Following Paramount-Warner Bros. Merger, for Now at Least",
    "summary": "DC Studios co-CEOs James Gunn and Peter Safran will seemingly keep their vision for the DCU alive following the Paramount-Warner Bros. merger.",
@@ -626,9 +769,22 @@
    "ts": 1790956022
   },
   {
+   "id": "813e793fa923a669f6c3c4d33bb34c9c",
+   "title": "Week 4 NFL picks, best bets from proven model: This 5-leg parlay pays nearly 25-1",
+   "summary": "After 10,000 simulations, SportsLine's model reveals its top Week 4 NFL parlay",
+   "link": "https://www.cbssports.com/betting/news/nfl-parlay-picks-predictions-best-bets-week-4-2026/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 23:46",
+   "ts": 1790955975
+  },
+  {
    "id": "91fad254853a6d9555a5ffc82cbf9745",
    "title": "Supabase is acquiring Turso",
-   "summary": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 81\n# Comments: 33",
+   "summary": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 114\n# Comments: 57",
    "link": "https://supabase.com/blog/supabase-is-acquiring-turso",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -901,7 +1057,7 @@
   {
    "id": "316014afcf11c186ecd44de75a9f58e4",
    "title": "The Four Horsemen of Agentic Coding",
-   "summary": "Article URL: https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding\nComments URL: https://news.ycombinator.com/item?id=49934511\nPoints: 50\n#",
+   "summary": "Article URL: https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding\nComments URL: https://news.ycombinator.com/item?id=49934511\nPoints: 68\n#",
    "link": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1081,19 +1237,6 @@
    "ts": 1790953248
   },
   {
-   "id": "88664b4db36817b115efec6da0b7896c",
-   "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
-   "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
-   "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:00",
-   "ts": 1790953200
-  },
-  {
    "id": "d4931688e13469dbdd1ab69afb97e595",
    "title": "Blair Witch Creators Reveal the Movie’s ‘Spiritual Connection’ to Their New Film and Tease the Franchise’s Upcoming Reboot",
    "summary": "In an exclusive interview, the original Blair Witch Project creators discuss their modern found-footage horror, The Influencer Project, and tease the 2027 reboo",
@@ -1239,7 +1382,7 @@
   {
    "id": "1e7253b3995320cba4845250eb117e13",
    "title": "Fixing GRPO's credit assignment problem without evaluating every step",
-   "summary": "Article URL: https://arxiv.org/abs/2609.36178\nComments URL: https://news.ycombinator.com/item?id=49934012\nPoints: 13\n# Comments: 0",
+   "summary": "Article URL: https://arxiv.org/abs/2609.36178\nComments URL: https://news.ycombinator.com/item?id=49934012\nPoints: 15\n# Comments: 0",
    "link": "https://arxiv.org/abs/2609.36178",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1274,19 +1417,6 @@
    "urgent": false,
    "fetched_at": "10-02 22:31",
    "ts": 1790951462
-  },
-  {
-   "id": "844ff534205992e25b60a15281dcbf10",
-   "title": "‘A Different World’ Earns Fast Season 2 Renewal at Netflix",
-   "summary": "The sequel to the 1980s-90s comedy premiered on Sept. 24.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/a-different-world-renewed-season-2-netflix-1236720884/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:30",
-   "ts": 1790951404
   },
   {
    "id": "10e337007aa7118ae76712b7165b74ee",
@@ -1562,19 +1692,6 @@
    "ts": 1790948294
   },
   {
-   "id": "07faf3115454d107cbb9c43496c13aa8",
-   "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
-   "summary": "Article URL: https://www.kapa.ai/blog/company-knowledge-bench\nComments URL: https://news.ycombinator.com/item?id=49933381\nPoints: 16\n# Comments: 0",
-   "link": "https://www.kapa.ai/blog/company-knowledge-bench",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:37",
-   "ts": 1790948238
-  },
-  {
    "id": "f8e833319d1ed8dc7edf9c26d7746686",
    "title": "iOS 27 gives Apple Photos two features we’ve waited a long time for",
    "summary": "iOS 27 is packed with new features for Apple’s Photos app, including two that have long been on many users’ wish lists: full-featured slideshow creation and upg",
@@ -1718,22 +1835,9 @@
    "ts": 1790947202
   },
   {
-   "id": "e07365e964bb5e23eb92701bd054c7e8",
-   "title": "GPT-6 Astra plays World of Warcraft for the first time with agent-wow",
-   "summary": "Article URL: https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/\nComments URL: https://news.ycombinator.com/item?id=4993",
-   "link": "https://agent-wow.sh/gpt-6-astra-plays-world-of-warcraft-for-the-first-time-with-agent-wow/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:19",
-   "ts": 1790947187
-  },
-  {
    "id": "c3fbcb89a06a7880e80a7dea098e3f7b",
    "title": "The Legend of von Neumann (1973) [pdf]",
-   "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 136\n# Comments: 77",
+   "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 162\n# Comments: 90",
    "link": "https://gwern.net/doc/math/1973-halmos.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1926,19 +2030,6 @@
    "ts": 1790942477
   },
   {
-   "id": "855b558f59930416910abdb87e7b37f6",
-   "title": "Star Wars: Galactic Racer is my childhood podracing dream come true",
-   "summary": "The podracing scene in The Phantom Menace is one of my favorite movie sequences ever. It's just so dang cool: The futuristic racers tear over treacherous Tatooi",
-   "link": "https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:00",
-   "ts": 1790942400
-  },
-  {
    "id": "db10de898613b689f31e7c659ceb9bd5",
    "title": "The Real Python Podcast – Episode #313: Python 3.15: Exploring the New Features",
    "summary": "Python 3.15 is (almost*) here! Christopher Trudeau and Bartosz Zaczyński return to discuss the new version. Bartosz coordinated the series of preview articles w",
@@ -1959,19 +2050,6 @@
    "source": "Real Python",
    "channel": "教程",
    "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:00",
-   "ts": 1790942400
-  },
-  {
-   "id": "8bc6dbb040a979061e1474234db83180",
-   "title": "Man City lodge appeal against guilty verdict",
-   "summary": "Manchester City have lodged their appeal against an independent commission finding them guilty of all charges related to serious breaches of Premier League fina",
-   "link": "https://www.skysports.com/football/news/12040/13593606/man-city-lodge-appeal-premier-league-club-contest-guilty-verdict-of-independent-commission",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
    "weight": 2,
    "urgent": false,
    "fetched_at": "10-02 20:00",
@@ -2015,19 +2093,6 @@
    "urgent": false,
    "fetched_at": "10-02 19:53",
    "ts": 1790942023
-  },
-  {
-   "id": "d11566d0cc351b2e5a148841931d172f",
-   "title": "PS3 games hogging storage on your Android device? This ARMSX3 feature is for you.",
-   "summary": "ARMSX3 now plays CHD files, which delivers much smaller file sizes than conventional ISO files.",
-   "link": "https://www.androidauthority.com/armsx3-ps3-emulator-android-chd-files-3718329/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 19:45",
-   "ts": 1790941500
   },
   {
    "id": "8f2529442f8b163b75815c78b0b5c584",
@@ -2175,7 +2240,7 @@
   {
    "id": "3970b6d76487b8362ec16406910ed92f",
    "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 108\n# Comments: 38",
+   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 111\n# Comments: 38",
    "link": "https://github.com/kvoltmer/Audionaut",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2305,7 +2370,7 @@
   {
    "id": "af33b5bbab24e50b74e293ed13a06c4b",
    "title": "Shimano Bicycle Museum Review",
-   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 255\n# Comments: 59",
+   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 262\n# Comments: 62",
    "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2396,7 +2461,7 @@
   {
    "id": "edd38f0a71d7d06b77bf24a69b2e893c",
    "title": "DeepSeek Harness Desktop for macOS and Windows",
-   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 364\n# Comments: 187",
+   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 371\n# Comments: 190",
    "link": "https://www.deepseek.com/en/harness/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2405,19 +2470,6 @@
    "urgent": false,
    "fetched_at": "10-02 11:11",
    "ts": 1790910680
-  },
-  {
-   "id": "5fe5b8def152cdd5f478bd46b07fe406",
-   "title": "vivo X Fold6 in for review",
-   "summary": "The vivo X Fold6 is now globally available, so let's unbox it.\n\nOur unit ships with a case, an 80W charger, and a USB-A to USB-C cable.\n\n\n\nCases for foldables u",
-   "link": "https://www.gsmarena.com/vivo_x_fold6_in_for_review-news-74862.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 10:02",
-   "ts": 1790906522
   },
   {
    "id": "afab8b61846c98ac0186e691fa2194f0",
@@ -2444,19 +2496,6 @@
    "urgent": false,
    "fetched_at": "10-02 09:29",
    "ts": 1790904549
-  },
-  {
-   "id": "9dfec91c3c255742f75eb1a6f5db8404",
-   "title": "Apple TV’s acclaimed ‘The Last First: Winter K2’ documentary now streaming",
-   "summary": "Sporting a 100% Rotten Tomatoes score, the extreme mountain climbing documentary “The Last First: Winter K2” is now available to Apple TV subscribers. Watch the",
-   "link": "https://9to5mac.com/2026/10/01/apple-tvs-acclaimed-the-last-first-winter-k2-documentary-now-streaming/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 09:00",
-   "ts": 1790902820
   },
   {
    "id": "8d45488f1be8d2c844ca24ffb481e722",
@@ -2487,7 +2526,7 @@
   {
    "id": "ba5fe6e01564f6297874448c9b77e425",
    "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel <i>Ply</i>",
-   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03057-4The Pulitzer Prize-winning author joins us to talk about his time visiting CERN and com",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03057-4The Pulitzer-Prize-winning author joins us to talk about his time visiting CERN and com",
    "link": "https://www.nature.com/articles/d41586-026-03057-4",
    "source": "Nature",
    "channel": "科学",
@@ -2574,45 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-02 08:00",
    "ts": 1790899200
-  },
-  {
-   "id": "2c7cb719055028dfdd7d1bb480625593",
-   "title": "Can we have class outside? Seven tips to breeze through outdoor lectures",
-   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02564-8Advocates say that delivering lectures and presentations al fresco can energize student",
-   "link": "https://www.nature.com/articles/d41586-026-02564-8",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-02 08:00",
-   "ts": 1790899200
-  },
-  {
-   "id": "5e7763362b98aad22ef0446984906849",
-   "title": "Welcome to Opt Out October: It’s Time to Ditch Unwanted Subscriptions and AI Spies",
-   "summary": "It’s a good month to reassess old accounts and retake control of your data and privacy.",
-   "link": "https://www.cnet.com/news/privacy/welcome-to-opt-out-october-its-time-to-ditch-unwanted-subscriptions-and-ai-spies/",
-   "source": "CNET",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 07:55",
-   "ts": 1790898921
-  },
-  {
-   "id": "d3384ed1557c06cb57595e976f6822c3",
-   "title": "Tesla launches capability to drive away while plugged in after deadly Supercharger shooting",
-   "summary": "Tesla launched a new feature called “Emergency Drive Away” that lets drivers shift into Drive and leave while still plugged into a Supercharger.\n\n\n\nThe update c",
-   "link": "https://electrek.co/2026/10/01/tesla-emergency-drive-away-supercharger-shooting/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-02 07:28",
-   "ts": 1790897312
   }
  ]
 }
