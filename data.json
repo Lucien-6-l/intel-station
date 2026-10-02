@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-02 21:40",
- "total": 284,
+ "updated_at": "2026-10-02 22:05",
+ "total": 283,
  "channels": [
   "AI·科技",
   "体育",
@@ -15,6 +15,214 @@
  ],
  "items": [
   {
+   "id": "adc0a8d1aecc5c6dc003111e48ae61dd",
+   "title": "Meta 预热雷朋 Display 眼镜 2026 年下半年大型更新：改进导航功能、支持控制通知推送、Hologram 虚拟化身...",
+   "summary": "IT之家 10 月 2 日消息，Meta 现已公布雷朋 Display 眼镜 2026 年下半年大型更新详情，主要改进导航体验、通知功能、视频通话功能等。在导航方面，Meta 进一步改善了步行时的语音功能。此前系统会直接播报街道名称，例如“在第三街左转”，而在更新后，眼镜会更多结合用户眼前的实际环境进行描述，例如提示“",
+   "link": "https://www.ithome.com/1/009/365.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:01",
+   "ts": 1790949660
+  },
+  {
+   "id": "31161f261f052a1d281e7aa4932d2dde",
+   "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
+   "summary": "Today is the very last day to book your exhibit table at TechCrunch Disrupt 2026. On October 13–15, 10,000+ founders, investors, operators, and tech leaders wil",
+   "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:00",
+   "ts": 1790949600
+  },
+  {
+   "id": "442d9f1e8ae94db3e6b585eb23cdbec5",
+   "title": "Less than 24 hours to apply for a  Side Event at Founder Summit 2026",
+   "summary": "The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at mid",
+   "link": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:00",
+   "ts": 1790949600
+  },
+  {
+   "id": "f63091a74aaff2f19fce128670ab53e3",
+   "title": "STAT+: Lilly bypasses Australian pharmacies with DTC model",
+   "summary": "Eli Lilly is launching LillyDirect to deliver Mounjaro straight to Australian patients’ doors — and local doctors and pharmacists aren’t thrilled.",
+   "link": "https://www.statnews.com/2026/10/02/biotech-news-lilly-bypasses-australian-phramacies-with-dtc-model/?utm_campaign=rss",
+   "source": "STAT News",
+   "channel": "健康",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:58",
+   "ts": 1790949511
+  },
+  {
+   "id": "55c9dfa4e55380bf22221d5d0a35f672",
+   "title": "Michael De Luca, Pamela Abdy Out at Warner Bros.",
+   "summary": "The news comes as Paramount Skydance is readying to finalize its deal for the legacy studio.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/michael-de-luca-pamela-abdy-warner-bros-1236720848/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:57",
+   "ts": 1790949453
+  },
+  {
+   "id": "9211881e5dcca967ea7a5c351eef7532",
+   "title": "This Android flagship’s insane camera hardware could soon be matched by an insane price",
+   "summary": "Global pricing could look very different from what buyers saw in China.",
+   "link": "https://www.androidauthority.com/oppo-find-x10-pro-max-global-price-leak-3718487/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:55",
+   "ts": 1790949348
+  },
+  {
+   "id": "7135c0f4aed98e782663e0435cc785d0",
+   "title": "第二届RED LAND今日开岛：160+人气IP齐聚复兴岛，全球首创游戏二次元花车巡游",
+   "summary": "10月2日，小红书开放世界冒险岛RED LAND正式开幕，上海杨浦复兴岛再次变身”痛岛”。早上不到10点，船台公园入口处已经排起了长队。这是RED LAND连续第二年落地复兴岛，活动将持续至10月6日。相较去年，本届RED LAND规模全面升级：场地从8万平方米扩展至15万平方米，超过160个游戏及动漫IP登岛，双双翻",
+   "link": "https://www.gcores.com/articles/220480",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 21:53",
+   "ts": 1790949238
+  },
+  {
+   "id": "ed190357f93ff713d4df34eee434584b",
+   "title": "Kia emerges as Europe’s fastest-growing top 10 car brand after EV sales surge 58%",
+   "summary": "Kia is crushing it in Europe with a full lineup of electric vehicles, ranging from entry-level models to the three-row flagship SUV. Thanks to its new EVs, Kia ",
+   "link": "https://electrek.co/2026/10/02/kia-europes-fastest-growing-top-10-brand-ev-sales-surge-58/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:52",
+   "ts": 1790949166
+  },
+  {
+   "id": "cd7711b0593b4d3f6b62e4675c014b80",
+   "title": "‘God of War Laufey’ Sets Release Date, Preorders Open (Gaming News Roundup)",
+   "summary": "“God of War Laufey” will release Feb. 16, 2027 from PlayStation&#8217;s Santa Monica Studios. Pre-orders go live on Sept. 29. The prequel game in the action-adv",
+   "link": "https://variety.com/2026/gaming/news/gaming-news-roundup-september-28-1236877473/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:52",
+   "ts": 1790949120
+  },
+  {
+   "id": "d8522fe547340482bf0e92c77fea40ed",
+   "title": "CBS News Taps Steven Baker, Former ‘Nightline’ Producer, to Boost ‘Mornings,’ ‘Evening News’",
+   "summary": "CBS News is tapping another ABC News veteran to lend a hand with the ambitious task of trying to move its morning- and evening-news programs out of third place.",
+   "link": "https://variety.com/2026/tv/news/cbs-news-steven-baker-nightline-producer-tv-mornings-1236897203/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:50",
+   "ts": 1790949000
+  },
+  {
+   "id": "ac44064c90740a9c80946b74d4edae89",
+   "title": "Best Week 5 college football betting promos: Get almost $3,000 in bonuses from top betting apps, sportsbooks",
+   "summary": "Top Week 5 college football betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics and Hard Rock Bet",
+   "link": "https://www.cbssports.com/betting/news/best-week-5-college-football-betting-promos-get-almost-3000-bonuses-top-betting-apps-sportsbooks/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:49",
+   "ts": 1790948998
+  },
+  {
+   "id": "ff33755258077ddaa2d7fcf07687e596",
+   "title": "2026 MLB playoff bracket: Schedule, scores as Braves advance to NLDS to face Dodgers",
+   "summary": "The Braves ousted the Phillies in Game 3 of the Wild Card Series on Thursday night",
+   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:49",
+   "ts": 1790948984
+  },
+  {
+   "id": "d8efd1de2f8adf97334e3ae58d6a6309",
+   "title": "Will Brinson's NFL Week 4 best bets: Odds, player props, anytime touchdown scorers from expert on Sunday games",
+   "summary": "Back live underdogs, ride Derrick Henry in a revenge spot, and target value on Brock Bowers and Puka Nacua to find the end zone",
+   "link": "https://www.cbssports.com/betting/news/will-brinsons-nfl-week-4-best-bets-odds-player-props-anytime-touchdown-scorers-from-expert-on-sunday-games/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:49",
+   "ts": 1790948979
+  },
+  {
+   "id": "70cdf3641afedd8439ebdbc027df3065",
+   "title": "NFL trade rumors: Browns would 'welcome deal at right price' for Shedeur Sanders, Dillon Gabriel, per report",
+   "summary": "Cleveland may have options within its quarterback room now that Deshaun Watson has solidified himself as QB1 after a 3-1 start",
+   "link": "https://www.cbssports.com/nfl/news/nfl-trades-browns-could-welcome-deal-shedeur-sanders-dillon-gabriel/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:49",
+   "ts": 1790948978
+  },
+  {
+   "id": "e50b8f7cb54008865d5573173972c3f9",
+   "title": "Highly rated Bose SoundLink Plus speaker falls to $179 in Amazon deal",
+   "summary": "Save 33% on the Bose SoundLink Plus at Amazon. This rugged portable speaker packs 20-hour battery life and USB-C charging.",
+   "link": "https://www.androidauthority.com/bose-soundlink-plus-deal-3717595/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:47",
+   "ts": 1790948840
+  },
+  {
+   "id": "d3dd80a742ff0cd43309dc13376566e6",
+   "title": "焕新极氪 007GT 色彩上新：推出“河谷绿”车色、“墨绿”内饰",
+   "summary": "IT之家 10 月 2 日消息，极氪汽车今日宣布，焕新极氪 007GT 色彩上新，带来全新外饰色河谷绿、全新内饰色墨绿。2026 年 10 月 1 日-10 月 31 日，下定焕新极氪 007GT 可享更多限时权益。IT之家注意到，焕新极氪 007/007GT 于今年 4 月正式上市，定价 20.39 万元起，限时 1",
+   "link": "https://www.ithome.com/1/009/364.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:43",
+   "ts": 1790948624
+  },
+  {
    "id": "ab59da8e6f5a39462f6fe95ee72e16d5",
    "title": "Tesla sustains its EV sales momentum despite US troubles",
    "summary": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.",
@@ -28,6 +236,19 @@
    "ts": 1790948363
   },
   {
+   "id": "932e1bdeb843f6bd3e85f68af39bb302",
+   "title": "How to bet on 2026 Week 5 college football: Betting guide, trends, odds, promos, apps, schedule, previews",
+   "summary": "Our college football betting guide tells you where to bet on CFB Week 5, gives odds, betting trends, schedule, promo offers, and more",
+   "link": "https://www.cbssports.com/betting/news/how-to-bet-on-2026-week-5-college-football-betting-guide-trends-odds-promos-apps-schedule-previews/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:38",
+   "ts": 1790948297
+  },
+  {
    "id": "bc9110b9ef75daad5245b91b6e44a255",
    "title": "Meta 旗下 AI 智能体 Muse 将登陆智能眼镜平台，可代用户完成各种任务",
    "summary": "IT之家 10 月 2 日消息，Meta 宣布旗下 AI 智能体 Muse 将于近期登陆智能眼镜，用户无需拿出手机，只需通过语音下达指令，Muse 就能在后台代用户完成一系列任务。Meta 表示，Muse 基于 Muse Spark AI 模型运行，其核心运行环境是一台部署在云端的私有持久化 Linux 虚拟机，配备独",
@@ -39,6 +260,19 @@
    "urgent": false,
    "fetched_at": "10-02 21:38",
    "ts": 1790948294
+  },
+  {
+   "id": "cf36252c2ccb3f52fac0f7f6be2d8ab6",
+   "title": "Claude-Shaped Science",
+   "summary": "Article URL: https://www.anthropic.com/research/claude-shaped-science\nComments URL: https://news.ycombinator.com/item?id=49933386\nPoints: 6\n# Comments: 2",
+   "link": "https://www.anthropic.com/research/claude-shaped-science",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:38",
+   "ts": 1790948283
   },
   {
    "id": "27a87c2537fe79853b6cd95c367f7588",
@@ -65,6 +299,19 @@
    "urgent": false,
    "fetched_at": "10-02 21:33",
    "ts": 1790948018
+  },
+  {
+   "id": "3d5b077b8de6e1d8a29f5926c7844034",
+   "title": "Pittsburgh vs. Virginia Tech odds, picks, parlay: Winner would become serious ACC title game threat",
+   "summary": "Pitt and Virginia Tech, both unbeaten, meet in an ACC matchup that could provide a ticket to the AP Top 25",
+   "link": "https://www.cbssports.com/betting/news/pittsburgh-vs-virginia-tech-odds-picks-parlay-winner-would-become-serious-acc-title-game-threat/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:33",
+   "ts": 1790948010
   },
   {
    "id": "1dfc8384fa57ec1729ba0aa5fc9bbc2c",
@@ -160,7 +407,7 @@
   {
    "id": "f1365f13acc8a899acf1636a35f909ae",
    "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
-   "summary": "The healthtech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks.",
+   "summary": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks",
    "link": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
    "source": "TechCrunch",
    "channel": "AI·科技",
@@ -223,6 +470,19 @@
    "ts": 1790947320
   },
   {
+   "id": "861f40c31f35f9b63ce5c4675a893b78",
+   "title": "Caitlin Clark, Fever question free-throw disparity vs. Aces after season ends in chippy Game 3 loss",
+   "summary": "The Aces shot 15 more free throws than the Fever in an 11-point playoff win on Thursday night",
+   "link": "https://www.cbssports.com/wnba/news/caitlin-clark-fever-question-free-throw-disparity-vs-aces/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:20",
+   "ts": 1790947209
+  },
+  {
    "id": "d15f719af088246dc955744d2489adf3",
    "title": "STAT+: Up and down the ladder: The latest comings and goings",
    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
@@ -234,6 +494,19 @@
    "urgent": false,
    "fetched_at": "10-02 21:20",
    "ts": 1790947202
+  },
+  {
+   "id": "c3fbcb89a06a7880e80a7dea098e3f7b",
+   "title": "The Legend of von Neumann [pdf]",
+   "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 9\n# Comments: 1",
+   "link": "https://gwern.net/doc/math/1973-halmos.pdf",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:18",
+   "ts": 1790947112
   },
   {
    "id": "55b85bc63e46cf0d0904fd281eb31204",
@@ -483,6 +756,19 @@
    "ts": 1790946000
   },
   {
+   "id": "7c66710287e84919c54101efd9cdc004",
+   "title": "IDW Expands the A Quiet Place Universe With Rising Tides Spinoff",
+   "summary": "Get an exclusive sneak peak at IDW Dark's A Quiet Place: Rising Tides, a new standalone spinoff set in the popular horror universe.",
+   "link": "https://www.ign.com/articles/idw-expands-the-a-quiet-place-universe-with-rising-tides-spinoff",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:00",
+   "ts": 1790946000
+  },
+  {
    "id": "257a14f68351af02feb3b45a75b88a54",
    "title": "Kieran Culkin Will Be Playing the Devil on ‘Family Guy’ for a Long Time (EXCLUSIVE)",
    "summary": "Kieran Culkin had a lot of fun playing the Devil on “Family Guy” — so much fun, in fact, that he would like to play the show’s Devil for the foreseeable future.",
@@ -613,32 +899,6 @@
    "ts": 1790945096
   },
   {
-   "id": "5245934917c664384eca48ddfb4b36b1",
-   "title": "Browns fend off Aaron Rodgers for third straight win | Braves advance in MLB playoffs",
-   "summary": "Plus UFC 332, NFL and college football picks",
-   "link": "https://www.cbssports.com/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:43",
-   "ts": 1790945030
-  },
-  {
-   "id": "fca1386f498b5aaaefe0e456b9682b66",
-   "title": "Wild Card Series MVPs: Picking the most impactful player from each of MLB's first-round playoff matchups",
-   "summary": "MLB doesn't officially hand out hardware for Wild Card Series (or LDS) MVPs, so we're taking matters into our own hands",
-   "link": "https://www.cbssports.com/mlb/news/wild-card-series-mvps-2026-most-impactful-player/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:43",
-   "ts": 1790945023
-  },
-  {
    "id": "a7e2787888b35ad05636183b43b62520",
    "title": "Bentley to fight Mosley Jr on November 7 live on Sky Sports",
    "summary": "Middleweight world champion Denzel Bentley has signed a multi-fight deal with Zuffa Boxing and will fight on November 7 at the Copper Box Arena, live on Sky Spo",
@@ -663,32 +923,6 @@
    "urgent": false,
    "fetched_at": "10-02 20:37",
    "ts": 1790944660
-  },
-  {
-   "id": "2c894175d93849241614895de6c30c05",
-   "title": "Week 4 NFL bold predictions: Raiders upset Chiefs, Kyler Murray sets Vikings' single-game record",
-   "summary": "Plus, the Jets finally intercept the Bears, and the Patriots have an running back that breaks free",
-   "link": "https://www.cbssports.com/nfl/news/week-4-nfl-bold-predictions-raiders-chiefs-kyler-murray-vikings/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:35",
-   "ts": 1790944513
-  },
-  {
-   "id": "8e83b85df4c9ccc507aa363eea14a506",
-   "title": "Grading Jalen Duren's $200 million contract: Pistons pay up to keep All-NBA center",
-   "summary": "The Pistons and Duren ended their contractual standoff on Thursday night, so how did each side do?",
-   "link": "https://www.cbssports.com/nba/news/grading-jalen-duren-contract-pistons-pay-up/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:30",
-   "ts": 1790944206
   },
   {
    "id": "91c69ceaca42aadf0cf387b897430b3f",
@@ -795,32 +1029,6 @@
    "ts": 1790942859
   },
   {
-   "id": "e8801ae0268459955826fb37f0d70761",
-   "title": "NFL Week 4 ATS picks, odds, best bets: Chiefs struggle in Vegas, Lions eviscerate Panthers",
-   "summary": "Jordan Dajani gives his picks for Week 4 of the 2026 NFL season",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-picks-odds-best-bets-chiefs-vegas-lions-panthers/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:07",
-   "ts": 1790942856
-  },
-  {
-   "id": "470051f55b49e1b025537212ec6c979b",
-   "title": "Penn State vs. Northwestern prediction, odds: Week 5 college football Friday picks as new Ryan Field opens",
-   "summary": "The SportsLine Projection Model has revealed its best bets for the Friday matchup between the Penn State Nittany Lions and Northwestern Wildcats as new Ryan Fie",
-   "link": "https://www.cbssports.com/betting/news/penn-state-northwestern-prediction-odds-time-week-5-college-football-friday-picks-ryan-field-opening/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:05",
-   "ts": 1790942745
-  },
-  {
    "id": "435b35f78bbf437bde3616ea60de02b8",
    "title": "消息称三星电子已量产 Exynos 2700 处理器，Galaxy S27 系列手机将搭载",
    "summary": "IT之家 10 月 2 日消息，博主 @i冰宇宙 今日发文称，三星电子已开始量产 Exynos 2700 处理器，该处理器是 Galaxy S27 系列智能手机的核心部件。据悉，其产量比上一代产品提高了 10%。IT之家注意到，三星 Exynos 2,700 工程样片 GeekBench 跑分已经曝光，6.7.1 版本",
@@ -845,19 +1053,6 @@
    "urgent": false,
    "fetched_at": "10-02 20:01",
    "ts": 1790942477
-  },
-  {
-   "id": "200b3226d9557160ba0342e88bc30ae3",
-   "title": "NFL odds: Week 4 parlays featuring favorites, underdogs include Rams vs. Eagles, Falcons vs. Saints",
-   "summary": "SportsLine football expert Mike Tierney gives out his favorite parlays for Week 4 of the NFL season",
-   "link": "https://www.cbssports.com/betting/news/nfl-odds-week-4-parlays-featuring-favorites-underdogs-include-rams-vs-eagles-falcons-vs-saints/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:00",
-   "ts": 1790942453
   },
   {
    "id": "855b558f59930416910abdb87e7b37f6",
@@ -1055,19 +1250,6 @@
    "ts": 1790941500
   },
   {
-   "id": "f65154e76bb24f7e87ff07721be0af6b",
-   "title": "小米米家体脂秤 4 Pro 开启预售：采用 USB-C 充电、支持身体数据趋势显示，149 元",
-   "summary": "IT之家 10 月 2 日消息，小米米家体脂秤 4 Pro 现已在京东开启预售，这是米家首款充电体脂秤，定价为 149 元。该产品搭载 300x300mm 的 ITO 镀膜钢化玻璃，无需刻意寻找踩踏位置。适配多种脚型 (最大 48 欧码)、支持 0.1~150kg 大量程称重，支持小物称重、抱婴称重、心率检测等多种模式",
-   "link": "https://www.ithome.com/1/009/345.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 19:34",
-   "ts": 1790940854
-  },
-  {
    "id": "68d15b11005fb6e8645f445c7ea80c94",
    "title": "'We're a bit off the pace' - Russell warns of big rival threats at brutal Sepang",
    "summary": "&#8203;&#8203;&#8203;&#8203;&#8203;George Russell sees significant threats to Mercedes from Red Bull's Max Verstappen and McLaren at the Bahrain Grand Prix afte",
@@ -1092,19 +1274,6 @@
    "urgent": false,
    "fetched_at": "10-02 19:28",
    "ts": 1790940500
-  },
-  {
-   "id": "349882c2b3b053101883bc7234d3b7e4",
-   "title": "我国深地油气开发实现关键跨越，8080 米地下获取连续 6 米岩芯",
-   "summary": "IT之家 10 月 2 日消息，据央视财经报道，10 月 1 日，位于塔克拉玛干沙漠北缘的塔里木油田震探 1 井完成取芯作业，在地下 8080 米获取到连续 6 米的岩芯，这些灰色的石头来自寒武系玉尔吐斯组，已在地下沉睡了 5 亿年之久。IT之家从报道获悉，这是塔里木盆地西北缘首次在此深度取出烃源岩。中国石油塔里木油田",
-   "link": "https://www.ithome.com/1/009/344.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 19:27",
-   "ts": 1790940458
   },
   {
    "id": "8f2529442f8b163b75815c78b0b5c584",
@@ -1185,19 +1354,6 @@
    "ts": 1790939100
   },
   {
-   "id": "3262e5b9da90cdfa265adea154dcaf50",
-   "title": "‘The Celebrity Traitors’ Scores Record-Breaking Season 2 Premiere With Nearly 9 Million Viewers",
-   "summary": "The second season of the U.K.&#8217;s &#8220;Celebrity Traitors&#8221; is off to a record-breaking start. More than 8.8 million viewers watched Thursday night&#",
-   "link": "https://variety.com/2026/tv/global/celebrity-traitors-premiere-ratings-record-9-million-1236897450/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 18:54",
-   "ts": 1790938468
-  },
-  {
    "id": "87f913e180e24aaaefd99bf8670d628e",
    "title": "I thought Google made a mistake with the Pixel 11 Pro XL. 30 days later, I was wrong",
    "summary": "If you can hold your nose, the Pixel 11 Pro XL is worth it.",
@@ -1222,19 +1378,6 @@
    "urgent": false,
    "fetched_at": "10-02 18:15",
    "ts": 1790936151
-  },
-  {
-   "id": "d7de14dedd8f4123643535127036f929",
-   "title": "‘A Talent for Murder’ Director Anton Corbijn Praises Helen Mirren’s Performance as Controversial Author Patricia Highsmith: ‘She’s a Great Jerk!’",
-   "summary": "In “A Talent for Murder,” director Anton Corbijn takes a closer look at writer Patricia Highsmith. Known for creating everyone’s favorite psychopath Tom Ripley,",
-   "link": "https://variety.com/2026/film/global/anton-corbijn-helen-mirren-patricia-highsmith-1236894582/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 18:15",
-   "ts": 1790936143
   },
   {
    "id": "870ee3e100910f82bf7d1704d1bd996e",
@@ -1367,19 +1510,6 @@
    "ts": 1790934139
   },
   {
-   "id": "1d4ec0b4c36e9b873c66393c836f1e80",
-   "title": "Your old phone isn’t useless: 4 smart ways to get more life out of it",
-   "summary": "It's underused, not useless.",
-   "link": "https://www.androidauthority.com/repurpose-old-android-phone-3715826/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 17:30",
-   "ts": 1790933430
-  },
-  {
    "id": "19def8b5793a20eb5c685b9b1b4dd6c4",
    "title": "本周看什么 | 最近值得一看的 8 部作品",
    "summary": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ...查看全文",
@@ -1404,19 +1534,6 @@
    "urgent": false,
    "fetched_at": "10-02 17:03",
    "ts": 1790931803
-  },
-  {
-   "id": "e2ea3169f96dc5b8e43ad60db0df74ed",
-   "title": "Android Auto’s weather experience is broken, and a raccoon meme isn’t going to fix it",
-   "summary": "Google has finally acknowledged that there’s a problem, but its possible solution is even more problematic.",
-   "link": "https://www.androidauthority.com/android-auto-weather-apps-raccoon-meme-3716158/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 17:00",
-   "ts": 1790931657
   },
   {
    "id": "fe3c9a1f9d16378020f2054152cd39e6",
@@ -1512,7 +1629,7 @@
   {
    "id": "3970b6d76487b8362ec16406910ed92f",
    "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 56\n# Comments: 20",
+   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 63\n# Comments: 22",
    "link": "https://github.com/kvoltmer/Audionaut",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1547,19 +1664,6 @@
    "urgent": false,
    "fetched_at": "10-02 15:27",
    "ts": 1790926023
-  },
-  {
-   "id": "422fc03fbb3224d2d08d5b2b3e87fe4a",
-   "title": "Justin Wong and IFC Yipes Literally Commentate Ryu's Match Against Blanka in the Street Fighter Movie",
-   "summary": "We already knew about Justin Wong and IFC Yipes’ cameo in the upcoming Street Fighter movie, but it looks like they got to put their commentary skills to work f",
-   "link": "https://www.ign.com/articles/justin-wong-and-ifc-yipes-literally-commentate-ryus-match-against-blanka-in-the-street-fighter-movie",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 15:26",
-   "ts": 1790925969
   },
   {
    "id": "6a320be85ac1fd9329c3e139fb362f6e",
@@ -1681,7 +1785,7 @@
   {
    "id": "af33b5bbab24e50b74e293ed13a06c4b",
    "title": "Shimano Bicycle Museum Review",
-   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 187\n# Comments: 34",
+   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 195\n# Comments: 35",
    "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1824,7 +1928,7 @@
   {
    "id": "edd38f0a71d7d06b77bf24a69b2e893c",
    "title": "DeepSeek Harness Desktop for macOS and Windows",
-   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 296\n# Comments: 150",
+   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 306\n# Comments: 155",
    "link": "https://www.deepseek.com/en/harness/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1885,19 +1989,6 @@
    "urgent": false,
    "fetched_at": "10-02 09:56",
    "ts": 1790906212
-  },
-  {
-   "id": "c708b8a34f1cec8a56b4d6bb2cc9738a",
-   "title": "‘Big Brother’ Reveals Season 28 Winner: See Who Won the Game (and America’s Favorite Houseguest)",
-   "summary": "At the top of the finale episode, Rick Devens, Drew Campbell and Taylor Brown were still in contention to win the show.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/big-brother-season-28-winner-america-favorite-houseguest-1236720612/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 09:22",
-   "ts": 1790904145
   },
   {
    "id": "9dfec91c3c255742f75eb1a6f5db8404",
@@ -2071,7 +2162,7 @@
   {
    "id": "69f5cac8b7bca0cbd956b727558e2ef6",
    "title": "Several vulnerabilities have been discovered in the Linux kernel",
-   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 404\n# Comments: 292",
+   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 414\n# Comments: 295",
    "link": "https://lwn.net/Articles/1097401/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2123,7 +2214,7 @@
   {
    "id": "43305a99e92c3a3a916d33ae355c222b",
    "title": "Frog and Toad and the Increasingly Capable Machines",
-   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 280\n# Comments: 64",
+   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 303\n# Comments: 73",
    "link": "https://www.frogandtoad.ai/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2201,7 +2292,7 @@
   {
    "id": "98ff326da4f4d4c7734c537ba1eae2b5",
    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 128\n# Comments: 36",
+   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 131\n# Comments: 37",
    "link": "https://www.cssbed.com",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2331,7 +2422,7 @@
   {
    "id": "8d66002cff67fee089a9c713e47aeea2",
    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
-   "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 17",
+   "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 18",
    "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2353,32 +2444,6 @@
    "urgent": false,
    "fetched_at": "10-02 04:44",
    "ts": 1790887492
-  },
-  {
-   "id": "f2857a36fd3d01c62f9b071142c9551b",
-   "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 83\n# Comments: 14",
-   "link": "https://github.com/Vibra-Ingenn/Janus",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 04:36",
-   "ts": 1790887007
-  },
-  {
-   "id": "2db2cf103b6129cf70e8e3750043dc85",
-   "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 213\n# Comments",
-   "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 04:23",
-   "ts": 1790886207
   },
   {
    "id": "d7f0d7f0213b657a4d6d99db765644e9",
@@ -2431,19 +2496,6 @@
    "urgent": false,
    "fetched_at": "10-02 03:21",
    "ts": 1790882513
-  },
-  {
-   "id": "1698464fbf3c09d6ac2379d2cc6aa695",
-   "title": "Google thinks SpaceX’s Starship has to launch 1,800 times before space data centers get off the ground",
-   "summary": "Google launched its first advanced chip into orbit to pave the way for space data centers.",
-   "link": "https://techcrunch.com/2026/10/01/google-thinks-spacexs-starship-has-to-launch-1600-times-before-space-data-centers-get-off-the-ground/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-02 03:18",
-   "ts": 1790882283
   },
   {
    "id": "26fdbbfa00041b89f98da403c49e4fd5",
@@ -2524,19 +2576,6 @@
    "ts": 1790880638
   },
   {
-   "id": "9d063f1e89d2f3d0b54a0c45ac3579e1",
-   "title": "World’s first enhanced geothermal power plant completed in just 23 months",
-   "summary": "Fervo Energy completed its first power plant in less than two years. The next phases promise to connect to the grid even quicker.",
-   "link": "https://techcrunch.com/2026/10/01/worlds-first-enhanced-geothermal-power-plant-completed-in-just-23-months/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 02:35",
-   "ts": 1790879755
-  },
-  {
    "id": "5fdf1ed299900cf8d1328099f2c230e2",
    "title": "How to Sell Your Car Privately and Get the Most Money",
    "summary": "With a little time and effort, you can easily beat the dealer trade-in value for your old car.",
@@ -2574,45 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-02 02:00",
    "ts": 1790877600
-  },
-  {
-   "id": "3a66342dea6e87ad95fdbd7678a1976b",
-   "title": "Here are all the jobs and investment lost from republican attacks on manufacturing",
-   "summary": "A new interactive tool shows the thousands of manufacturing projects that have been cancelled, stalled, delayed, or lost support as a result of attacks on US ma",
-   "link": "https://electrek.co/2026/10/01/here-are-all-the-jobs-and-investment-lost-from-republican-attacks-on-manufacturing/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 01:48",
-   "ts": 1790876898
-  },
-  {
-   "id": "3c75ef71dd9da2b07137a7aeac1b32e6",
-   "title": "Mercedes Puts the 2027 Lineup on a Diet, Drops Several Models",
-   "summary": "Say goodbye to the Benz and AMG EQE sedans, the AMG S63 sedan, and the Maybach EQS SUV.",
-   "link": "https://www.caranddriver.com/news/a73979812/mercedes-benz-2027-lineup-changes/",
-   "source": "Car and Driver",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 01:35",
-   "ts": 1790876151
-  },
-  {
-   "id": "1429692674a145a8cfe223bed00a771a",
-   "title": "Chevy Equinox EV sales plunge 92% as Cadillac’s SUVs suddenly take the lead",
-   "summary": "The Chevy Equinox EV’s run as GM’s top-selling electric car is quickly coming to an end after sales dropped 92% in Q3.\n\n\n\n more…",
-   "link": "https://electrek.co/2026/10/01/chevy-equinox-ev-sales-plunge-92-cadillacs-suvs-take-over/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 01:27",
-   "ts": 1790875630
   }
  ]
 }
