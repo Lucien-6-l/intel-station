@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-02 17:04",
- "total": 134,
+ "updated_at": "2026-10-02 17:39",
+ "total": 133,
  "channels": [
   "AI·科技",
   "游戏",
@@ -8,6 +8,84 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "d7098ed261af5274a8c4bdf8b1447a34",
+   "title": "奇瑞汽车公布 9 月各品牌销量：主品牌超 19 万辆同比增长 17.2%，智界 5008 辆同比下降 36.5%",
+   "summary": "IT之家 10 月 2 日消息，奇瑞汽车今日于港交所披露了 9 月旗下各子品牌销量明细：奇瑞品牌 198,681 辆，星途品牌 4,905 辆，捷途品牌 57,497 辆，iCAR 品牌 10,858 辆，智界品牌 5,008 辆。IT之家整理如下：奇瑞品牌 198,681 辆，同比增长 17.2%；今年累计 1,48",
+   "link": "https://www.ithome.com/1/009/328.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 17:36",
+   "ts": 1790933772
+  },
+  {
+   "id": "bd17d53365655b3f8a20966bdab43f0d",
+   "title": "消息称卡西欧计划 11 月推出戒指造型手表 CRW-002，售价约 135 美元",
+   "summary": "IT之家 10 月 2 日消息，据外媒 CasioBlog 报道，卡西欧计划于 11 月推出新款戒指造型手表 CRW-002，接替现款 CRW-001 机型，售价约 135 美元（IT之家注：现汇率约合 906.5 元人民币）。CRW 系列手表主要将电子表的复古外观与戒指形态结合，外媒指出新款 CRW-002 手表整体",
+   "link": "https://www.ithome.com/1/009/327.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 17:33",
+   "ts": 1790933632
+  },
+  {
+   "id": "b5deec880bc368ff86d469726ef744ae",
+   "title": "苹果 Apple Arcade 订阅服务新增 5 款游戏：含《Terraria+》《Pusheen's Place》等",
+   "summary": "IT之家 10 月 2 日消息，苹果宣布为旗下 Apple Arcade 订阅服务新增 5 款游戏，其中 2 款为 Arcade 订阅服务独占作品，另外 3 款是已登陆 App Store 的作品，对应的 Arcade 订阅版本为“无广告、无内购”模式。其中，《Pusheen's Place》为 Apple Arcad",
+   "link": "https://www.ithome.com/1/009/325.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 17:20",
+   "ts": 1790932816
+  },
+  {
+   "id": "d2de152023f8c6a8463ac56e44c60d88",
+   "title": "周星驰导演电影《功夫女足》网播定档 10 月 3 日，已收获 23.45 亿元票房",
+   "summary": "IT之家 10 月 2 日消息，周星驰导演电影《功夫女足》将于 10 月 3 日 10:00 全网上线各大视频平台，这部暑期档影片已收获 23.45 亿元票房。该影片由周星驰担任导演、编剧，张小斐、迪丽热巴、张艺兴领衔主演，刘嘉玲、佐藤健特别出演。该片结合少林功夫与足球元素，围绕女子足球队“峨眉队”征战展开，讲述了一群",
+   "link": "https://www.ithome.com/1/009/324.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 17:17",
+   "ts": 1790932665
+  },
+  {
+   "id": "5175124eca33f5e9706891e88ffac413",
+   "title": "中国电信 App 上线 eSIM 手机绑定号码数量查询功能",
+   "summary": "IT之家 10 月 2 日消息，中国电信现已为其 App 上线“eSIM 手机绑号量查询”功能，用户可以在 App“服务大厅”-“号卡服务”中找到入口。中国电信表示，目前该项查询服务仅支持 eSIM 手机设备，暂不支持其他设备类型查询号码绑定情况。为完成身份校验并查询设备的绑卡数量与月开卡次数，用户需输入 32 位手机",
+   "link": "https://www.ithome.com/1/009/323.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 17:10",
+   "ts": 1790932245
+  },
+  {
+   "id": "be6ebc587fcae71e063094bb17880469",
+   "title": "奇瑞风云 A9 九月交付超 7000 台，单月订单突破 2 万台",
+   "summary": "IT之家 10 月 2 日消息，奇瑞风云新能源今日宣布，9 月风云 A9 交付超 7000 台，单月订单突破 20000 台。据IT之家此前报道，奇瑞风云 A9 纯电轿跑于 7 月 25 日正式上市，上市指导价 10.99 万元起，超级置换价 10.69 万元起：655km Pro 版：上市指导价 10.99 万元，超",
+   "link": "https://www.ithome.com/1/009/322.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-02 17:09",
+   "ts": 1790932149
+  },
   {
    "id": "67dc7bbef639400972f0e1f3e9a067df",
    "title": "搜打撤游戏《绝地求生：黑域撤离》宣布中止开发",
@@ -100,6 +178,19 @@
    "ts": 1790928939
   },
   {
+   "id": "3970b6d76487b8362ec16406910ed92f",
+   "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 3\n# Comments: 2",
+   "link": "https://github.com/kvoltmer/Audionaut",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 16:05",
+   "ts": 1790928348
+  },
+  {
    "id": "94438b0c8ec245bbab2379a61fa60a9e",
    "title": "生图模型 FLUX 3 Image 发布：支持 4K 生成，可精准排布 AI 元素",
    "summary": "IT之家 10 月 2 日消息，德国 AI 公司 Black Forest Labs 今天（10 月 2 日）发布公告，宣布推出图像生成 AI 模型 FLUX 3 Image，支持生成最高 4K 分辨率图片，输出画面在放大后仍保持丰富细节。该模型基于 FLUX 3 基座开发，以高可控性与精细编辑能力为核心卖点。用户可在",
@@ -113,82 +204,30 @@
    "ts": 1790928321
   },
   {
-   "id": "8beff77b116b78c829eb684fa6a693ac",
-   "title": "大众安徽与众 09 夏测实车亮相，预售 19.99 万元起",
-   "summary": "IT之家 10 月 2 日消息，大众汽车乘用车品牌中国 CEO 齐泽凯昨日分享了与众 09 车型的夏测照片，这款大众安徽旗下新车已开启预售，价格为 19.99 万元起。IT之家注意到，该车前脸采用中轴线设计，灯组从大众 Logo 处开始延伸，形成较为犀利的造型。侧面带有智感光棱、高亮黑外后视镜、半隐藏式门及无框车门。高",
-   "link": "https://www.ithome.com/1/009/314.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 16:02",
-   "ts": 1790928166
-  },
-  {
-   "id": "cfb21a9d018e73eec21b7a672403416a",
-   "title": "日本租车公司 Nippon Rent-A-Car 遭黑客攻击，96 名会员个人信息泄露",
-   "summary": "IT之家 10 月 2 日消息，日本租车公司 Nippon Rent-A-Car（ニッポンレンタカーアプリ日本租车服务有限公司）宣布，其“Nippon Rent-A-Car”应用系统连续遭到黑客攻击，合计 96 名会员个人信息泄露。IT之家注意到，Nippon Rent-A-Car 已于 9 月 26 日通报遭黑客入侵",
-   "link": "https://www.ithome.com/1/009/313.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 16:00",
-   "ts": 1790928016
-  },
-  {
-   "id": "1113347b93ca42010935ef080fff3541",
-   "title": "京瓷预热本月下旬在日本市场推出 DIGNO BX4 商用手机：4 年安卓版本更新、搭联发科天玑 6400 处理器",
-   "summary": "IT之家 10 月 2 日消息，京瓷宣布，将于 10 月（本月）下旬起在日本市场通过软银 SoftBank 运营商渠道面向企业用户推出一款名为“DIGNO BX4”的智能手机。京瓷表示，DIGNO BX4 针对长期使用场景设计，支持最多 4 次安卓系统版本升级，并从上市之日起提供最长 5 年的安全更新。该机还通过了谷歌",
-   "link": "https://www.ithome.com/1/009/311.htm",
-   "source": "IT之家",
+   "id": "9687caf462469744c49c6c2ca71fafaa",
+   "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
+   "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
+   "link": "https://www.qbitai.com/2026/10/500098.html",
+   "source": "量子位",
    "channel": "AI·科技",
    "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 15:52",
-   "ts": 1790927574
+   "weight": 3,
+   "urgent": true,
+   "fetched_at": "10-02 15:34",
+   "ts": 1790926455
   },
   {
-   "id": "c1315118f8f2bfde722cb5da65a4c138",
-   "title": "2026 国庆档电影总票房破 3 亿：时隔七年重映《复联 4（加码臻享版）》进前三",
-   "summary": "IT之家 10 月 2 日消息，据灯塔专业版，2026 年国庆档（10 月 1 日 —10 月 7 日）档期总票房（含预售）突破 3 亿，《神探之痕迹》《什么意思夫妇》《复仇者联盟 4：终局之战（加码臻享版）》《小猪佩奇 · 完美假期》《欢迎来龙餐馆》暂列前五。《神探之痕迹》由陈思诚执导，张译、马丽、陈明昊领衔主演。该",
-   "link": "https://www.ithome.com/1/009/310.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 15:49",
-   "ts": 1790927372
-  },
-  {
-   "id": "12cc53bc42f1b056fa3317f0550ed72e",
-   "title": "日本法院首次确认声音受法律保护，“AI 声优”涉及侵犯形象权",
-   "summary": "IT之家 10 月 2 日消息，当地时间 9 月 30 日，据法新社报道，东京一家法院在日本知名声优津田健次郎起诉 TikTok 的案件中认可了他的主张，认定 AI 未经许可模仿其“浑厚”的男中音声线涉及权利侵害，并首次在日本司法实践中确认人的声音受到法律保护。津田健次郎从事声优工作已有 30 多年，为大量电影、动画剧",
-   "link": "https://www.ithome.com/1/009/309.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 15:47",
-   "ts": 1790927266
-  },
-  {
-   "id": "5b111584af2f8f271cbd842e367275e5",
-   "title": "因使用需求持续下降，日本东京都营地铁将于 2028 年 11 月前撤去站内所有公用电话",
-   "summary": "IT之家 10 月 2 日消息，据日媒 ITMedia 报道，东京都交通局 9 月 29 日宣布，将在 2028 年 11 月前全面撤除都营地铁（都営地下鉄）各车站内设置的公用电话。东京都交通局表示，此举主要是为了应对公用电话使用人数减少以及通信环境变化。长期以来作为车站内重要通信手段的公用电话，将陆续退出历史舞台，交",
-   "link": "https://www.ithome.com/1/009/308.htm",
-   "source": "IT之家",
+   "id": "11210fc9ff53d3c73936cac0c18b6133",
+   "title": "丘成桐新论文致谢了GPT和Claude",
+   "summary": "44年前被亲自列入问题清单",
+   "link": "https://www.qbitai.com/2026/10/499991.html",
+   "source": "量子位",
    "channel": "AI·科技",
    "category": "资讯",
-   "weight": 2,
+   "weight": 3,
    "urgent": false,
-   "fetched_at": "10-02 15:45",
-   "ts": 1790927146
+   "fetched_at": "10-02 15:27",
+   "ts": 1790926023
   },
   {
    "id": "422fc03fbb3224d2d08d5b2b3e87fe4a",
@@ -258,7 +297,7 @@
   {
    "id": "af33b5bbab24e50b74e293ed13a06c4b",
    "title": "Shimano Bicycle Museum Review",
-   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 81\n# Comments: 10",
+   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 92\n# Comments: 13",
    "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -323,7 +362,7 @@
   {
    "id": "71f113bbf5a23dfe99ee6c93219e2232",
    "title": "Building reliable (and fast) directory sync",
-   "summary": "Article URL: https://www.firezone.dev/blog/building-reliable-directory-sync\nComments URL: https://news.ycombinator.com/item?id=49929925\nPoints: 7\n# Comments: 0",
+   "summary": "Article URL: https://www.firezone.dev/blog/building-reliable-directory-sync\nComments URL: https://news.ycombinator.com/item?id=49929925\nPoints: 9\n# Comments: 0",
    "link": "https://www.firezone.dev/blog/building-reliable-directory-sync",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -336,7 +375,7 @@
   {
    "id": "edd38f0a71d7d06b77bf24a69b2e893c",
    "title": "DeepSeek Harness Desktop for macOS and Windows",
-   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 218\n# Comments: 110",
+   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 227\n# Comments: 117",
    "link": "https://www.deepseek.com/en/harness/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -453,7 +492,7 @@
   {
    "id": "69f5cac8b7bca0cbd956b727558e2ef6",
    "title": "Several vulnerabilities have been discovered in the Linux kernel",
-   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 282\n# Comments: 198",
+   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 293\n# Comments: 210",
    "link": "https://lwn.net/Articles/1097401/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -518,7 +557,7 @@
   {
    "id": "43305a99e92c3a3a916d33ae355c222b",
    "title": "Frog and Toad and the Increasingly Capable Machines",
-   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 151\n# Comments: 32",
+   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 159\n# Comments: 35",
    "link": "https://www.frogandtoad.ai/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -596,7 +635,7 @@
   {
    "id": "98ff326da4f4d4c7734c537ba1eae2b5",
    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 105\n# Comments: 26",
+   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 106\n# Comments: 26",
    "link": "https://www.cssbed.com",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -635,7 +674,7 @@
   {
    "id": "8d66002cff67fee089a9c713e47aeea2",
    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
-   "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 13",
+   "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 14",
    "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -648,7 +687,7 @@
   {
    "id": "f2857a36fd3d01c62f9b071142c9551b",
    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 72\n# Comments: 13",
+   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 74\n# Comments: 14",
    "link": "https://github.com/Vibra-Ingenn/Janus",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -661,7 +700,7 @@
   {
    "id": "2db2cf103b6129cf70e8e3750043dc85",
    "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 183\n# Comments",
+   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 186\n# Comments",
    "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -670,19 +709,6 @@
    "urgent": false,
    "fetched_at": "10-02 04:23",
    "ts": 1790886207
-  },
-  {
-   "id": "8578475db21f5cc67df9930f18a9a99c",
-   "title": "SvelteKit 3",
-   "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 261\n# Comments: 90",
-   "link": "https://svelte.dev/blog/sveltekit-3-is-here",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 04:14",
-   "ts": 1790885663
   },
   {
    "id": "2c25e1cf212961fc35600b8009a4e54c",
@@ -1517,32 +1543,6 @@
    "ts": 1790751017
   },
   {
-   "id": "8ed221650ff7d5f70752e267503c1ed1",
-   "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
-   "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
-   "link": "https://www.qbitai.com/2026/09/499308.html",
-   "source": "量子位",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-30 13:18",
-   "ts": 1790745485
-  },
-  {
-   "id": "a8cc0342a6fc6665cc9f0f6c4c85c810",
-   "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
-   "summary": "机器人上市，风向有变",
-   "link": "https://www.qbitai.com/2026/09/499280.html",
-   "source": "量子位",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-30 12:42",
-   "ts": 1790743342
-  },
-  {
    "id": "f331cf5f46f70f3f5689158c36f21772",
    "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
    "summary": "祝你旅途顺遂，假期自由。查看全文",
@@ -1736,19 +1736,6 @@
    "urgent": false,
    "fetched_at": "09-28 17:45",
    "ts": 1790588702
-  },
-  {
-   "id": "80f81c7cbf8a8564101782212ab85e96",
-   "title": "基于 Termux 的 Android 手机开发服务器实操",
-   "summary": "不 root、不刷机，在随身设备上跑通 AI Agent 与微型 Linux 环境。查看全文本文为会员文章，出自《单篇文章》，订阅后可阅读全文。",
-   "link": "https://sspai.com/prime/story/dev-env-on-android-with-termux",
-   "source": "少数派",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "09-28 17:33",
-   "ts": 1790587983
   }
  ]
 }
