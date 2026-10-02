@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 00:40",
+ "updated_at": "2026-10-03 01:03",
  "total": 283,
  "channels": [
   "AI·科技",
@@ -54,6 +54,19 @@
    "ts": 1790960640
   },
   {
+   "id": "bc7fdf17cb4f1ec01e44bc6607566184",
+   "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
+   "summary": "With all the talk about how AI might one day ill us all, it's easy to forget that AI has already harmed some people, psychologically. Circuit Breaker Labs has c",
+   "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 01:00",
+   "ts": 1790960400
+  },
+  {
    "id": "272ffd8bb5b0916696b1d788fe0ff712",
    "title": "Mariota to start for Commanders in London as Daniels ruled out",
    "summary": "Washington Commanders quarterback Marcus Mariota will get his second start in place of the injured Jayden Daniels on Sunday when his side face the Indianapolis ",
@@ -65,6 +78,58 @@
    "urgent": false,
    "fetched_at": "10-03 01:00",
    "ts": 1790960400
+  },
+  {
+   "id": "6eb01e2ed6f7087abb613741f4bc6d63",
+   "title": "Beehiiv creators are buzzing about a new price increase",
+   "summary": "Beehiiv, a creator platform that has risen in popularity as an alternative to Substack, is increasing its prices - and many users aren't happy. In a post explai",
+   "link": "https://www.theverge.com/tech/1004133/beehiiv-price-increase-reactions",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 00:51",
+   "ts": 1790959909
+  },
+  {
+   "id": "15a99c3d7ccb124615bec44de475ace3",
+   "title": "‘Tip Toe’ Review: Alan Cumming and David Morrissey Fire Up Russell T. Davies’ Searingly Relevant Starz Drama About Violent Bigotry",
+   "summary": "From the creator of 'It's a Sin,' the five-part miniseries centers on a gay bar owner who enters a rapidly escalating feud with his homophobic neighbor.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-reviews/tip-toe-review-alan-cumming-russell-t-davies-starz-1236717480/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 00:48",
+   "ts": 1790959690
+  },
+  {
+   "id": "82fef6d8b6ab20228ddefa9672393aee",
+   "title": "Apple now sells Aqara Adaptive Temperature thermostat and seven more accessories",
+   "summary": "This week Apple refreshed its third-party accessories lineup to include eight additional products. This includes the Aqara Thermostat Hub W200 and more.\n\n\n\n mor",
+   "link": "https://9to5mac.com/2026/10/02/apple-now-sells-aqara-adaptive-temperature-thermostat-and-seven-more-accessories/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 00:43",
+   "ts": 1790959414
+  },
+  {
+   "id": "da03807ceec1b89bfcd3d349d40f7b20",
+   "title": "Environmental groups sue Trump for raising your fuel costs",
+   "summary": "A coalition of environmental groups has filed a lawsuit against the Department of Transportation’s moves to lower fuel economy standards, which the Department o",
+   "link": "https://electrek.co/2026/10/02/environmental-groups-sue-trump-for-raising-your-fuel-costs/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 00:42",
+   "ts": 1790959363
   },
   {
    "id": "57e0cda278aa4ae4680dd9504a3618b8",
@@ -93,6 +158,19 @@
    "ts": 1790959131
   },
   {
+   "id": "4b9ec57281b1109a580391aee6ddce41",
+   "title": "Pittsburgh vs. Virginia Tech prediction, odds, time: Week 5 college football Friday picks by proven model",
+   "summary": "The SportsLine Projection Model has revealed its best bets for the Friday matchup between the Pitt Panthers vs. Virginia Tech Hokies",
+   "link": "https://www.cbssports.com/betting/news/pittsburgh-virginia-tech-prediction-odds-time-week-5-college-football-friday-picks-best-bets/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 00:35",
+   "ts": 1790958929
+  },
+  {
    "id": "3f5b417f20b22ed1752d6152c0f65ec6",
    "title": "Nacon’s new PS5 controller can mix audio from your phone and console",
    "summary": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings lik",
@@ -104,6 +182,19 @@
    "urgent": false,
    "fetched_at": "10-03 00:35",
    "ts": 1790958913
+  },
+  {
+   "id": "2d6b2f23cc3f1c72e788a7e22f871e86",
+   "title": "Fernando Tatis Jr. is the engine driving the Padres, baseball's hottest team, into NLDS showdown vs. Brewers",
+   "summary": "After a brutal first half, Tatis and the Padres are riding a Pacific Ocean-sized wave of vibes into Milwaukee",
+   "link": "https://www.cbssports.com/mlb/news/fernando-tatis-jr-padres-brewers-mlb-playoffs/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 00:34",
+   "ts": 1790958851
   },
   {
    "id": "f7de24d033e308a1c3a77c0d4e18bad1",
@@ -121,7 +212,7 @@
   {
    "id": "ec0493458a30e1b188190c69145a8f03",
    "title": "‘The Watcher’ Season 2 Is Coming: Naomi Watts, Bobby Cannavale Returning",
-   "summary": "Margo Martindale and Isabel Gravitt will also reprise their roles when the Netflix series from Ryan Murphy and Ian Brennan returns after releasing season one fo",
+   "summary": "Margo Martindale and Isabel Gravitt will also reprise their roles when the Netflix series from Ryan Murphy and Ian Brennan returns four-plus years after season ",
    "link": "https://www.hollywoodreporter.com/tv/tv-news/the-watcher-season-2-naomi-watts-bobby-cannavale-1236721015/",
    "source": "好莱坞报道",
    "channel": "娱乐·影视",
@@ -130,6 +221,19 @@
    "urgent": false,
    "fetched_at": "10-03 00:32",
    "ts": 1790958761
+  },
+  {
+   "id": "3580056809b4721d8f3ca2cb1ade9529",
+   "title": "MTG’s Hobbit Cards Are the Closest Thing to Owning Rare Tolkien Memorabilia, and Perfect for Collectors",
+   "summary": "Here's why Magic: The Gathering’s small-ish Hobbit set somehow surpasses the massive Lord of the Rings crossover for die-hard Tolkien collectors, just one month",
+   "link": "https://www.ign.com/articles/mtg-hobbit-set-versus-lord-of-the-rings",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 00:30",
+   "ts": 1790958600
   },
   {
    "id": "4fd33556f19d8239663f29b836439414",
@@ -236,6 +340,19 @@
    "ts": 1790957741
   },
   {
+   "id": "d9ca9bee884e8ee7cf4f803b34a6494a",
+   "title": "Today’s Top Deals: Xbox Elite Controller, Belkin Switch 2 Cases, and Bose QuietComfort Headphones",
+   "summary": "Plus, pick up Pokémon TCG, MTG x Marvel, and more discounts as we head into the weekend.",
+   "link": "https://www.ign.com/articles/best-deals-for-october-2-2026",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 00:15",
+   "ts": 1790957700
+  },
+  {
    "id": "e3078a595426175974ea69c0853753e0",
    "title": "Week 4 NFL score predictions, best picks today: Expert reveals exact scores for every NFL game",
    "summary": "SportsLine expert Eric Cohen reveals his score predictions for every game on the Week 4 NFL schedule",
@@ -260,6 +377,19 @@
    "urgent": false,
    "fetched_at": "10-03 00:12",
    "ts": 1790957547
+  },
+  {
+   "id": "6e7e548d68e20286714ecfe72d2d0f05",
+   "title": "Disney+ Shows and Movies Are Now Headed to Netflix, Including Ice Age and Percy Jackson",
+   "summary": "Disney plans to license a mix of legacy titles and currently-streaming TV shows to Netflix as part of a new deal between the two firms. In the deal, Netflix wil",
+   "link": "https://www.ign.com/articles/disney-licenses-netflix",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 00:10",
+   "ts": 1790957459
   },
   {
    "id": "ca2f87334559f90c3da416dd892abacb",
@@ -431,21 +561,21 @@
    "ts": 1790956800
   },
   {
-   "id": "57f547c33a3c2d73f0b8d9d71006ac28",
-   "title": "Fantasy football rankings, projections, lineups, sleepers for NFL Week 4, 2026 from advanced model",
-   "summary": "SportsLine's model reveals its Week 4 Fantasy football projections, PPR rankings, start-sit advice for sites like CBS Sports, ESPN and Yahoo",
-   "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-projections-lineup-advice-picks-sleepers-streamers-start-sit-nfl-week-4-2026/",
-   "source": "CBS Sports",
-   "channel": "体育",
+   "id": "cc596892e8e5bb290f5913407e8484a5",
+   "title": "James Gunn's DCU Reportedly Safe Following Paramount-Warner Bros. Merger, for Now at Least",
+   "summary": "DC Studios co-CEOs James Gunn and Peter Safran will seemingly keep their vision for the DCU alive following the Paramount-Warner Bros. merger.",
+   "link": "https://www.ign.com/articles/james-gunns-dcu-reportedly-safe-following-paramount-warner-bros-merger-for-now-at-least",
+   "source": "IGN",
+   "channel": "游戏",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-02 23:57",
-   "ts": 1790956674
+   "fetched_at": "10-02 23:53",
+   "ts": 1790956436
   },
   {
    "id": "8c3a20db821ecefd8676d242159c31a2",
-   "title": "Paramount and Warner Bros Discovery to become Skydance",
+   "title": "Paramount and Warner Bros. Discovery to become Skydance",
    "summary": "The roughly $110 billion deal is expected to close October 6.",
    "link": "https://techcrunch.com/2026/10/02/paramount-and-warner-bros-discovery-to-become-skydance/",
    "source": "TechCrunch",
@@ -455,6 +585,19 @@
    "urgent": false,
    "fetched_at": "10-02 23:53",
    "ts": 1790956430
+  },
+  {
+   "id": "79be7a84cb9dd54a4c42b5995a6b1963",
+   "title": "Brand New GTA 6 Screenshots Focus on Lucia and Jason's Relationship",
+   "summary": "Rockstar has further ramped up its GTA 6 marketing today with the launch of several new screenshots focusing on protagonists Lucia and Jason.",
+   "link": "https://www.ign.com/articles/brand-new-gta-6-screenshots-focus-on-lucia-and-jasons-relationship",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 23:50",
+   "ts": 1790956246
   },
   {
    "id": "876c5827a3bc206da88adb0991fc25ba",
@@ -483,22 +626,9 @@
    "ts": 1790956022
   },
   {
-   "id": "813e793fa923a669f6c3c4d33bb34c9c",
-   "title": "Week 4 NFL picks, best bets from proven model: This 5-leg parlay pays nearly 25-1",
-   "summary": "After 10,000 simulations, SportsLine's model reveals its top Week 4 NFL parlay",
-   "link": "https://www.cbssports.com/betting/news/nfl-parlay-picks-predictions-best-bets-week-4-2026/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:46",
-   "ts": 1790955975
-  },
-  {
    "id": "91fad254853a6d9555a5ffc82cbf9745",
-   "title": "Supabase Is Acquiring Turso",
-   "summary": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 50\n# Comments: 8",
+   "title": "Supabase is acquiring Turso",
+   "summary": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 81\n# Comments: 33",
    "link": "https://supabase.com/blog/supabase-is-acquiring-turso",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -665,19 +795,6 @@
    "ts": 1790955057
   },
   {
-   "id": "c5fcdb0b6804db1a15d0d7c6a738e34d",
-   "title": "A 20-year-long permanent cookie: America.gov and tracking",
-   "summary": "Article URL: https://www.biometricupdate.com/202610/america-gov-launches-with-privacy-pledge-as-login-gov-code-raises-tracking-questions\nComments URL: https://n",
-   "link": "https://www.biometricupdate.com/202610/america-gov-launches-with-privacy-pledge-as-login-gov-code-raises-tracking-questions",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:30",
-   "ts": 1790955024
-  },
-  {
    "id": "57ccd7100b7920d219aa20f1e65d579b",
    "title": "Get 2 Months of the Paramount+ Premium (Ad-Free) Subscription for Just $1 Per Month",
    "summary": "Gain access to Paramount's new fall lineup including Avatar: Seven Havens, Dexter: Resurrection, and more.",
@@ -784,7 +901,7 @@
   {
    "id": "316014afcf11c186ecd44de75a9f58e4",
    "title": "The Four Horsemen of Agentic Coding",
-   "summary": "Article URL: https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding\nComments URL: https://news.ycombinator.com/item?id=49934511\nPoints: 23\n#",
+   "summary": "Article URL: https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding\nComments URL: https://news.ycombinator.com/item?id=49934511\nPoints: 50\n#",
    "link": "https://distantprovince.substack.com/p/the-four-horsemen-of-agentic-coding",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -793,19 +910,6 @@
    "urgent": false,
    "fetched_at": "10-02 23:19",
    "ts": 1790954396
-  },
-  {
-   "id": "356a4b090e522966e668bcd0e883cabc",
-   "title": "AI Makes Me Sad",
-   "summary": "Article URL: https://mondobe.com/ai-makes-me-sad\nComments URL: https://news.ycombinator.com/item?id=49934487\nPoints: 128\n# Comments: 130",
-   "link": "https://mondobe.com/ai-makes-me-sad",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:18",
-   "ts": 1790954280
   },
   {
    "id": "4eabc43c2504daee8e5e3ce9c4ff8b06",
@@ -1029,19 +1133,6 @@
    "ts": 1790953141
   },
   {
-   "id": "de9e89013c129e874089b8790263aa1e",
-   "title": "Big Tech ruined the cloud, so we're renaming ours",
-   "summary": "Article URL: https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/\nComments URL: https://news.ycombinator.com/item?id=4",
-   "link": "https://www.home-assistant.io/blog/2026/10/02/big-tech-ruined-the-cloud-so-were-renaming-ours/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:57",
-   "ts": 1790953042
-  },
-  {
    "id": "706df7f8eeafdcfe750a66b29f5f8778",
    "title": "2026《无畏契约》全球冠军赛：4 支 VCT CN 联赛队伍率先淘汰，未尝大场胜绩",
    "summary": "IT之家 10 月 2 日消息，2026《无畏契约》全球冠军赛正在中国上海进行。在最近两天的第一阶段小组赛败者组首轮中，4 支 VCT CN 联赛队伍均负于对手，全数被淘汰出局，无一晋级小组败者组决赛，位列本次赛事 13~16 名。IT之家注意到，JDG、EDG、TYL、XLG 四支队伍都未能在本次全球冠军赛中取得任何",
@@ -1120,19 +1211,6 @@
    "ts": 1790952240
   },
   {
-   "id": "18e1ddcfa7a7c74e4cec1880b5d9ec86",
-   "title": "Amazon Slashes Over $30 off the White Xbox Elite Series 2 Core Controller Ahead of Prime Big Deal Days",
-   "summary": "Amazon has discounted the white Xbox Elite Series 2 Core from $149.99 to $111.74 ahead of its upcoming Prime Big Deal Days sale, saving you just over $30.",
-   "link": "https://www.ign.com/articles/amazon-slashes-over-30-off-the-white-xbox-elite-series-2-core-controller-ahead-of-prime-big-deal-days",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:37",
-   "ts": 1790951837
-  },
-  {
    "id": "14971da0c2eb09224e8874d582fb3005",
    "title": "Gemini has lost interest in answering your questions on Android Auto",
    "summary": "Gemini on Android Auto has forgotten how to answer questions.",
@@ -1161,7 +1239,7 @@
   {
    "id": "1e7253b3995320cba4845250eb117e13",
    "title": "Fixing GRPO's credit assignment problem without evaluating every step",
-   "summary": "Article URL: https://arxiv.org/abs/2609.36178\nComments URL: https://news.ycombinator.com/item?id=49934012\nPoints: 7\n# Comments: 0",
+   "summary": "Article URL: https://arxiv.org/abs/2609.36178\nComments URL: https://news.ycombinator.com/item?id=49934012\nPoints: 13\n# Comments: 0",
    "link": "https://arxiv.org/abs/2609.36178",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1289,45 +1367,6 @@
    "ts": 1790950773
   },
   {
-   "id": "cff468951eca313b96bb0e7097ec9a50",
-   "title": "The Miami Heat Will Wear GTA 6-Themed Uniforms in a November Match Against Milwaukee",
-   "summary": "The Miami Heat is heading to Vice City for its next NBA match against the Milwaukee Bucks.",
-   "link": "https://www.ign.com/articles/miami-heat-gta-6-uniform",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:11",
-   "ts": 1790950307
-  },
-  {
-   "id": "7308870359dda14a11fdac90bca720f5",
-   "title": "SCAD Savannah Film Fest: Keanu Reeves, Seth Rogen, Gemma Chan and Jordan Firstman Among Big Names Set for Honors (Exclusive)",
-   "summary": "The 29th edition of the U.S.' largest university-run film festival will take place Oct. 24–31.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/scad-savannah-film-fest-honorees-keanu-reeves-seth-rogen-1236720477/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:11",
-   "ts": 1790950265
-  },
-  {
-   "id": "d255c979d5e77915ce0877297cf7b791",
-   "title": "Batman, Lord of the Rings, and Harry Potter Feature in First Trailer for Skydance, the Newly Named Parent Company for a Merged Warner Bros. and Paramount",
-   "summary": "Once merged, Harry Potter, Lord of the Rings and Game of Thrones company Warner Bros. will exist alongside Paramount as a sub-brand of Skydance.",
-   "link": "https://www.ign.com/articles/batman-lord-of-the-rings-and-harry-potter-feature-in-first-trailer-for-skydance-the-newly-named-parent-company-for-a-merged-warner-bros-and-paramount",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:09",
-   "ts": 1790950185
-  },
-  {
    "id": "4f296b05fceeb2f881b4bfffad0b11da",
    "title": "乘联分会：9 月 1-27 日乘用车零售 125.8 万辆同比下降 29%，新能源渗透率 65.7%",
    "summary": "IT之家 10 月 2 日消息，乘联分会今日公布数据，9 月 1-27 日，全国乘用车市场零售 125.8 万辆，同比去年 9 月同期下降 29%，较上月同期增长 1%，今年以来累计零售 1,297.3 万辆，同比下降 22%。9 月 1-27 日，全国乘用车厂商批发 147.4 万辆，同比去年 9 月同期下降 30%",
@@ -1367,19 +1406,6 @@
    "ts": 1790949989
   },
   {
-   "id": "32035c8491169de14e7c8b09458e7ac3",
-   "title": "8 Big October Games We've Already Played if You Want to Know What We Think of Them So Far",
-   "summary": "October is here, which means the Fall is in full swing, which means some of the biggest games of the year drop this month. We've already played some of the bigg",
-   "link": "https://www.ign.com/articles/8-big-october-games-weve-already-played-if-you-want-to-know-what-we-think-of-them-so-far",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:03",
-   "ts": 1790949780
-  },
-  {
    "id": "adc0a8d1aecc5c6dc003111e48ae61dd",
    "title": "Meta 预热雷朋 Display 眼镜 2026 年下半年大型更新：改进导航功能、支持控制通知推送、Hologram 虚拟化身...",
    "summary": "IT之家 10 月 2 日消息，Meta 现已公布雷朋 Display 眼镜 2026 年下半年大型更新详情，主要改进导航体验、通知功能、视频通话功能等。在导航方面，Meta 进一步改善了步行时的语音功能。此前系统会直接播报街道名称，例如“在第三街左转”，而在更新后，眼镜会更多结合用户眼前的实际环境进行描述，例如提示“",
@@ -1412,19 +1438,6 @@
    "link": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
    "source": "TechCrunch",
    "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:00",
-   "ts": 1790949600
-  },
-  {
-   "id": "ca2a905cf2c1126e879f211fea889ee1",
-   "title": "Citizen: Stardust Is a Gorgeous Throwback to a Golden Age Comics Icon",
-   "summary": "In what promises to be one of the most interesting new comics of 2027, Oni Press is rebooting Golden Age superhero Stardust the Super Wizard in the surrealist a",
-   "link": "https://www.ign.com/articles/citizen-stardust-is-a-gorgeous-throwback-to-a-golden-age-comics-icon",
-   "source": "IGN",
-   "channel": "游戏",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
@@ -1547,6 +1560,19 @@
    "urgent": false,
    "fetched_at": "10-02 21:38",
    "ts": 1790948294
+  },
+  {
+   "id": "07faf3115454d107cbb9c43496c13aa8",
+   "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
+   "summary": "Article URL: https://www.kapa.ai/blog/company-knowledge-bench\nComments URL: https://news.ycombinator.com/item?id=49933381\nPoints: 16\n# Comments: 0",
+   "link": "https://www.kapa.ai/blog/company-knowledge-bench",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:37",
+   "ts": 1790948238
   },
   {
    "id": "f8e833319d1ed8dc7edf9c26d7746686",
@@ -1706,8 +1732,8 @@
   },
   {
    "id": "c3fbcb89a06a7880e80a7dea098e3f7b",
-   "title": "The Legend of von Neumann [pdf]",
-   "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 113\n# Comments: 59",
+   "title": "The Legend of von Neumann (1973) [pdf]",
+   "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 136\n# Comments: 77",
    "link": "https://gwern.net/doc/math/1973-halmos.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1835,19 +1861,6 @@
    "ts": 1790946000
   },
   {
-   "id": "d2c81080d76a4f79c6c298389bfe4036",
-   "title": "Rivian issues R2 recall for poorly tightened battery packs",
-   "summary": "The company says around 14 vehicles may be affected, and that it has resolved the issue on the assembly line.",
-   "link": "https://techcrunch.com/2026/10/02/rivian-issues-r2-recall-for-poorly-tightened-battery-packs/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:50",
-   "ts": 1790945411
-  },
-  {
    "id": "3cd87b9fcc1cbd5edc43c5b3e326e568",
    "title": "Rivian continues to ramp with R2 even as EV market growth slows",
    "summary": "Rivian posted its third-quarter production and delivery numbers this morning and, with the R2, remains on track to meet its annual targets despite some headwind",
@@ -1917,19 +1930,6 @@
    "title": "Star Wars: Galactic Racer is my childhood podracing dream come true",
    "summary": "The podracing scene in The Phantom Menace is one of my favorite movie sequences ever. It's just so dang cool: The futuristic racers tear over treacherous Tatooi",
    "link": "https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:00",
-   "ts": 1790942400
-  },
-  {
-   "id": "06f1053c9f91e0cbc4ae2515afc16bae",
-   "title": "AI hallucinations are making entitled customers even worse",
-   "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will ",
-   "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
    "source": "The Verge",
    "channel": "AI·科技",
    "category": "资讯",
@@ -2175,7 +2175,7 @@
   {
    "id": "3970b6d76487b8362ec16406910ed92f",
    "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 100\n# Comments: 37",
+   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 108\n# Comments: 38",
    "link": "https://github.com/kvoltmer/Audionaut",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2305,7 +2305,7 @@
   {
    "id": "af33b5bbab24e50b74e293ed13a06c4b",
    "title": "Shimano Bicycle Museum Review",
-   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 250\n# Comments: 52",
+   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 255\n# Comments: 59",
    "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2396,7 +2396,7 @@
   {
    "id": "edd38f0a71d7d06b77bf24a69b2e893c",
    "title": "DeepSeek Harness Desktop for macOS and Windows",
-   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 356\n# Comments: 181",
+   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 364\n# Comments: 187",
    "link": "https://www.deepseek.com/en/harness/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2433,6 +2433,19 @@
    "ts": 1790906400
   },
   {
+   "id": "22f60fdf6557cf69ab2e542daa932f79",
+   "title": "Nazi Germany had no hope of making an atomic bomb, uranium cubes reveal",
+   "summary": "Article URL: https://www.science.org/content/article/nazi-germany-had-no-hope-making-atomic-bomb-uranium-cubes-reveal\nComments URL: https://news.ycombinator.com",
+   "link": "https://www.science.org/content/article/nazi-germany-had-no-hope-making-atomic-bomb-uranium-cubes-reveal",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 09:29",
+   "ts": 1790904549
+  },
+  {
    "id": "9dfec91c3c255742f75eb1a6f5db8404",
    "title": "Apple TV’s acclaimed ‘The Last First: Winter K2’ documentary now streaming",
    "summary": "Sporting a 100% Rotten Tomatoes score, the extreme mountain climbing documentary “The Last First: Winter K2” is now available to Apple TV subscribers. Watch the",
@@ -2446,17 +2459,17 @@
    "ts": 1790902820
   },
   {
-   "id": "4dfd7d07cc80fd3070df41764cd0dd56",
-   "title": "iOS 27 breaks 15 years of muscle memory on iPhone and iPad",
-   "summary": "Since iOS 5 in 2011, the iPhone and iPad have included Notification Center, a central place to find alerts from various apps in chronological order.\n\n\n\nStarting",
-   "link": "https://9to5mac.com/2026/10/01/ios-27-just-broke-15-years-of-muscle-memory-on-iphone-and-ipad/",
-   "source": "9to5Mac",
-   "channel": "数码",
+   "id": "8d45488f1be8d2c844ca24ffb481e722",
+   "title": "Limited Liability In Historical Perspective (1997) [pdf]",
+   "summary": "Article URL: https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1623&amp;context=wlulr\nComments URL: https://news.ycombinator.com/item?id=49928740",
+   "link": "https://scholarlycommons.law.wlu.edu/cgi/viewcontent.cgi?article=1623&context=wlulr",
+   "source": "Hacker News",
+   "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-02 09:00",
-   "ts": 1790902800
+   "fetched_at": "10-02 08:55",
+   "ts": 1790902526
   },
   {
    "id": "fcc216a037999e253de2ec2d6c1ebf20",
@@ -2600,19 +2613,6 @@
    "urgent": true,
    "fetched_at": "10-02 07:28",
    "ts": 1790897312
-  },
-  {
-   "id": "a74ba8fa7ed9849dec2f98979e2cdb16",
-   "title": "2027 Hyundai Tucson Hybrid",
-   "summary": "What We Know So Far",
-   "link": "https://www.caranddriver.com/hyundai/tucson-hybrid-2027",
-   "source": "Car and Driver",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 05:15",
-   "ts": 1790889300
   }
  ]
 }
