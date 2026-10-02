@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02 16:38",
+ "updated_at": "2026-10-02 17:04",
  "total": 134,
  "channels": [
   "AI·科技",
@@ -8,6 +8,84 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "67dc7bbef639400972f0e1f3e9a067df",
+   "title": "搜打撤游戏《绝地求生：黑域撤离》宣布中止开发",
+   "summary": "在评估了项目的开发状态与未来方向后，PUBG STUDIOS 认为当前的路线无法带来能让玩家长期享受的游戏体验。因此，官方做出了艰难的决定，决定终止《绝地求生：黑域撤离》的开发。\n\n开发团队对所有参与封闭内测并提供反馈的玩家表示感谢。开发团队表示，会将开发和测试期间获得的经验运用到未来的项目中，并在探索全新玩法时继续倾",
+   "link": "https://www.gcores.com/articles/220471",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 17:03",
+   "ts": 1790931803
+  },
+  {
+   "id": "7ad2a67620ab7e60e2a47a65c0b5e2c5",
+   "title": "育碧手游《刺客信条：燎原》下架，2027 年 1 月 12 日停服",
+   "summary": "IT之家 10 月 2 日消息，育碧宣布旗下手游《刺客信条：燎原》将于 2027 年 1 月 12 日关闭服务器，届时现有玩家也无法继续游玩。游戏目前已从应用商店下架，新玩家无法再通过商店下载。《刺客信条：燎原》是一款策略角色扮演游戏，以卡通化画风汇集系列角色，于 2018 年 11 月 21 日上线。玩家可以培养自己",
+   "link": "https://www.ithome.com/1/009/321.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 17:01",
+   "ts": 1790931677
+  },
+  {
+   "id": "591cf9824c60a0bfac725f64dcf0dd1c",
+   "title": "美国三大移动运营商将成立合资企业，利用卫星技术改善偏远地区网络覆盖",
+   "summary": "IT之家 10 月 2 日消息，美国三大移动运营商 AT&amp;T、T-Mobile 和 Verizon 宣布达成合作意向，计划成立一家合资企业，通过卫星技术识别并改善美国各地的网络覆盖盲区，重点解决偏远及农村地区的连接问题。AT&amp;T 表示，这项合作旨在提升美国偏远地区以及网络服务不足社区的覆盖范围和连接质量",
+   "link": "https://www.ithome.com/1/009/320.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 16:58",
+   "ts": 1790931536
+  },
+  {
+   "id": "24edc6ac2cecc9dc6101ab7073059299",
+   "title": "比亚迪日本市场专属纯电 K-Car“海獭”Racco 上市 2 个月，累计订单超 1800 辆",
+   "summary": "IT之家 10 月 2 日消息，据日媒 Mynavi News 报道，比亚迪为日本市场推出的专属纯电 K-Car“海獭”Racco 最新销售数据现已出炉。比亚迪海獭是比亚迪于 2026 年 7 月 28 日在日本市场正式推出的纯电 K-Car，全系共推出以下 3 款配置车型：200：续航 210 km（电池容量 22.",
+   "link": "https://www.ithome.com/1/009/318.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-02 16:44",
+   "ts": 1790930653
+  },
+  {
+   "id": "95ea7d8810c6a5928f5a1454b2ef77b7",
+   "title": "小鹏 MONA L03 车型 9 月交付超 14,000 台，年轻用户占比过半",
+   "summary": "IT之家 10 月 2 日消息，小鹏汽车今日宣布 MONA L03 车型 9 月交付超 14,000 台，年轻用户占比过半，一线 / 新一线 / 二线城市达七成；超九成订单选择 Max / Ultra SE，辅助驾驶里程累积超 7 亿公里。据此前官方公布信息，9 月，小鹏集团共交付新车 41,256 台，环比增长 5 ",
+   "link": "https://www.ithome.com/1/009/317.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 16:42",
+   "ts": 1790930537
+  },
+  {
+   "id": "2b78435dc2b4b5f5bdb656e94e736ddd",
+   "title": "Person Behind Viral AI-Generated Fallout: New York Game Hauls It Offline, Says Bethesda Issued Cease and Desist",
+   "summary": "The person behind a viral AI-generated Fallout: New York game has pulled it offline after receiving a cease and desist from Bethesda.",
+   "link": "https://www.ign.com/articles/person-behind-viral-ai-generated-fallout-new-york-game-hauls-it-offline-says-bethesda-issued-cease-and-desist",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 16:29",
+   "ts": 1790929786
+  },
   {
    "id": "def896f7c712684b008b9a0adc4c15f3",
    "title": "微软宣布《极限竞速》系列游戏在 Steam 平台开启秋季大促，《地平线 6》新史低 8 折后 238.4 元起",
@@ -113,58 +191,6 @@
    "ts": 1790927146
   },
   {
-   "id": "5d9d287c9b467e43b3b3add2b062a88b",
-   "title": "纽约“点击即可取消”新规生效：用户退订服务不能比当初注册麻烦",
-   "summary": "IT之家 10 月 2 日消息，当地时间 1 日，据外媒 Engadget 报道，纽约市一项要求商家简化退订流程的“点击即可取消”规定正式生效。其核心要求很直接：消费者取消订阅，不能比注册更麻烦。报道举了“订阅陷阱”一例：注册某健身房的会员时，几步就能完成，等到想取消时却要经历一套繁琐得近乎荒诞的流程。纽约市政府在博客",
-   "link": "https://www.ithome.com/1/009/307.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 15:39",
-   "ts": 1790926752
-  },
-  {
-   "id": "799bd0e5eedbba2fc4eef4969299e2b9",
-   "title": "《战争机器：事变日》游戏发售宣传片公开：首发支持 DLSS 4.5 及光追，10 月 7 日正式发售",
-   "summary": "IT之家 10 月 2 日消息，《战争机器：事变日（Gears of War：E-Day）》开发商 The Coalition 现已公布游戏发售宣传片，本作将于北京时间 10 月 7 日正式发售，登陆 XBOX Series X|S 与 PC 平台（包括 Steam 与 Microsoft Store），首发加入 XB",
-   "link": "https://www.ithome.com/1/009/306.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 15:33",
-   "ts": 1790926422
-  },
-  {
-   "id": "505b3028e33571a5cc336d6252f3c9e5",
-   "title": "OpenAI 升级 ChatGPT 购物体验，新增 AI 衣服虚拟试穿体验",
-   "summary": "IT之家 10 月 2 日消息，OpenAI 宣布进一步升级 ChatGPT 的购物功能，新增虚拟试穿和 Favorites（收藏）两项功能，用户现在可以上传自己的照片，让 ChatGPT 生成穿着特定服饰或配饰后的效果图，同时也可以将感兴趣的商品保存下来，方便之后继续查看。IT之家注意到，去年 OpenAI 曾为 C",
-   "link": "https://www.ithome.com/1/009/304.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 15:28",
-   "ts": 1790926136
-  },
-  {
-   "id": "6677638381b8a69973ab945af5e9d1b0",
-   "title": "交通运输部：10 月 1 日全社会跨区域人员流动量 32949.5 万人次，同比下降 1.9%",
-   "summary": "IT之家 10 月 2 日消息，交通运输部今日公布的最新数据显示，2026 年 10 月 1 日（国庆假期第 1 日），全社会跨区域人员流动量 32949.5 万人次，环比增长 50.2%，比 2025 年同期（10 月 1 日，中秋国庆假期第 1 日，下同）下降 1.9%。IT之家附 2026 年 10 月 1 日具",
-   "link": "https://www.ithome.com/1/009/303.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 15:28",
-   "ts": 1790926115
-  },
-  {
    "id": "422fc03fbb3224d2d08d5b2b3e87fe4a",
    "title": "Justin Wong and IFC Yipes Literally Commentate Ryu's Match Against Blanka in the Street Fighter Movie",
    "summary": "We already knew about Justin Wong and IFC Yipes’ cameo in the upcoming Street Fighter movie, but it looks like they got to put their commentary skills to work f",
@@ -232,7 +258,7 @@
   {
    "id": "af33b5bbab24e50b74e293ed13a06c4b",
    "title": "Shimano Bicycle Museum Review",
-   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 69\n# Comments: 9",
+   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 81\n# Comments: 10",
    "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -297,7 +323,7 @@
   {
    "id": "71f113bbf5a23dfe99ee6c93219e2232",
    "title": "Building reliable (and fast) directory sync",
-   "summary": "Article URL: https://www.firezone.dev/blog/building-reliable-directory-sync\nComments URL: https://news.ycombinator.com/item?id=49929925\nPoints: 6\n# Comments: 0",
+   "summary": "Article URL: https://www.firezone.dev/blog/building-reliable-directory-sync\nComments URL: https://news.ycombinator.com/item?id=49929925\nPoints: 7\n# Comments: 0",
    "link": "https://www.firezone.dev/blog/building-reliable-directory-sync",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -310,7 +336,7 @@
   {
    "id": "edd38f0a71d7d06b77bf24a69b2e893c",
    "title": "DeepSeek Harness Desktop for macOS and Windows",
-   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 208\n# Comments: 103",
+   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 218\n# Comments: 110",
    "link": "https://www.deepseek.com/en/harness/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -427,7 +453,7 @@
   {
    "id": "69f5cac8b7bca0cbd956b727558e2ef6",
    "title": "Several vulnerabilities have been discovered in the Linux kernel",
-   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 264\n# Comments: 188",
+   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 282\n# Comments: 198",
    "link": "https://lwn.net/Articles/1097401/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -492,7 +518,7 @@
   {
    "id": "43305a99e92c3a3a916d33ae355c222b",
    "title": "Frog and Toad and the Increasingly Capable Machines",
-   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 142\n# Comments: 30",
+   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 151\n# Comments: 32",
    "link": "https://www.frogandtoad.ai/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -570,7 +596,7 @@
   {
    "id": "98ff326da4f4d4c7734c537ba1eae2b5",
    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 102\n# Comments: 26",
+   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 105\n# Comments: 26",
    "link": "https://www.cssbed.com",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -607,19 +633,6 @@
    "ts": 1790888891
   },
   {
-   "id": "13659259a145ecb9bf331ed42cefe4b2",
-   "title": "Danny McBride's G.I. Joe Movie Casts Bradley Cooper as Duke",
-   "summary": "Bradley Cooper will star as Duke in the upcoming G.I. Joe movie, directed by Danny McBride.",
-   "link": "https://www.ign.com/articles/danny-mcbrides-gi-joe-movie-casts-bradley-cooper-as-duke",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 05:05",
-   "ts": 1790888700
-  },
-  {
    "id": "8d66002cff67fee089a9c713e47aeea2",
    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
    "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 13",
@@ -648,7 +661,7 @@
   {
    "id": "2db2cf103b6129cf70e8e3750043dc85",
    "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 179\n# Comments",
+   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 183\n# Comments",
    "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -661,7 +674,7 @@
   {
    "id": "8578475db21f5cc67df9930f18a9a99c",
    "title": "SvelteKit 3",
-   "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 253\n# Comments: 87",
+   "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 261\n# Comments: 90",
    "link": "https://svelte.dev/blog/sveltekit-3-is-here",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1255,19 +1268,6 @@
    "urgent": false,
    "fetched_at": "10-01 08:00",
    "ts": 1790812800
-  },
-  {
-   "id": "89f658f09ed6ed327d2a2b0f99d5684d",
-   "title": "Vol.192｜Meta Connect 现场见闻｜Meta VR Glasses 怎么看｜Steam Frame 社区人声鼎沸",
-   "summary": "本期主播与嘉宾：\n脑潘 / 潮玩VR / 空间绘画KudoAlbus / 视界任意门\n\n直播录制时间：\n2026-09-30\n\n-----------------------\n\n主观片面的「元语咒」是专属 VR 玩家的闲聊电台。\n以虚拟圆桌的形式在某平台直播，以一刀不剪的态度在这里回放。\n\n--------------",
-   "link": "https://www.gcores.com/radios/220440",
-   "source": "机核网",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-01 06:00",
-   "ts": 1790805600
   },
   {
    "id": "ba5de8e48c96cc714ff768a3113464bc",
