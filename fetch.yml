@@ -1,8 +1,10 @@
 name: Fetch Intelligence
 
 # ============================================================
-# 加固版：更容错、更易排错、push 前自动 rebase 防止冲突
-# 触发方式：定时 / 手动 / cron-job.org 外部触发
+# 防冲突加固版
+# - 修复 "! [rejected] main -> main (fetch first)" 报错
+# - Commit 前先拉取远端最新作为基线，再放入本次生成的数据 → 永不 non-fast-forward
+# - 触发方式：定时 / 手动 / cron-job.org 外部触发
 # ============================================================
 
 on:
@@ -19,16 +21,17 @@ permissions:
 
 concurrency:
   group: fetch-intel
-  cancel-in-progress: false        # 串行执行，避免并发 push 冲突
+  cancel-in-progress: true         # 只保留最新一次，避免堆积与相互撞车
 
 jobs:
   fetch:
     runs-on: ubuntu-latest
+    timeout-minutes: 15
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0           # 拉完整历史，便于 rebase
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -38,20 +41,11 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser requests
 
-      - name: Show environment (debug)
-        run: |
-          echo "触发事件: ${{ github.event_name }}"
-          echo "分支: ${{ github.ref_name }}"
-          ls -la
-          echo "--- data.json 存在性 ---"
-          test -f data.json && echo "data.json 存在" || echo "⚠️ data.json 缺失"
-          test -f fetcher.py && echo "fetcher.py 存在" || echo "⚠️ fetcher.py 缺失"
-
       - name: Fetch RSS feeds
         run: python fetcher.py
 
       - name: Optional - push digest via WxPusher
-        continue-on-error: true      # 推送失败不阻塞数据更新
+        continue-on-error: true
         env:
           WXPUSHER_TOKEN: ${{ secrets.WXPUSHER_TOKEN }}
           WXPUSHER_UIDS: ${{ secrets.WXPUSHER_UIDS }}
@@ -62,18 +56,40 @@ jobs:
             echo "跳过推送（未配置 token 或缺少 push_wxpusher.py）"
           fi
 
-      - name: Commit updated data
+      - name: Commit updated data (conflict-proof)
         run: |
           set -e
           git config user.name "intel-bot"
           git config user.email "bot@users.noreply.github.com"
+
+          # 1) 把本次刚生成的数据暂存到临时文件
+          cp data.json /tmp/fresh.json
+
+          # 2) 拉取远端最新，并把工作区重置到远端最新（消除一切分叉）
+          git fetch origin "${GITHUB_REF_NAME}"
+          git reset --hard "origin/${GITHUB_REF_NAME}"
+
+          # 3) 用本次生成的数据覆盖（确定性地以最新数据为准，永不产生合并冲突）
+          cp /tmp/fresh.json data.json
           git add data.json
+
+          # 4) 若与远端完全一致则无需提交
           if git diff --cached --quiet; then
-            echo "无新数据，跳过提交"
+            echo "与远端一致，无需提交"
             exit 0
           fi
+
           git commit -m "auto: update intelligence data $(date -u '+%Y-%m-%d %H:%M UTC')"
-          # 先 rebase 再推送，避免 non-fast-forward 冲突
-          git pull --rebase --autostash origin ${GITHUB_REF_NAME} || true
-          git push origin HEAD:${GITHUB_REF_NAME}
-          echo "✅ 数据已更新并推送"
+
+          # 5) 推送，带重试（防止与外部定时器极短并发）
+          for i in 1 2 3; do
+            if git push origin "HEAD:${GITHUB_REF_NAME}"; then
+              echo "✅ 数据已更新并推送"
+              exit 0
+            fi
+            echo "push 第 $i 次失败，拉取远端后重试…"
+            git fetch origin "${GITHUB_REF_NAME}"
+            git reset --soft "origin/${GITHUB_REF_NAME}" || true
+          done
+          echo "❌ 多次推送仍失败"
+          exit 1
