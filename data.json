@@ -1,7 +1,20 @@
 {
- "updated_at": "2026-10-02 11:04",
+ "updated_at": "2026-10-02 11:39",
  "total": 40,
  "items": [
+  {
+   "id": "f2462edac521dab7479cbdbdf2636a40",
+   "title": "How Singapore's government-run dating service works",
+   "summary": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\nComments URL: https://news.ycombinator.com/item?i",
+   "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 09:56",
+   "ts": 1790906212
+  },
   {
    "id": "776b7e60ed550d9b982d3845224615b7",
    "title": "Butterflies use optical illusions to dodge predators",
@@ -18,7 +31,7 @@
   {
    "id": "69f5cac8b7bca0cbd956b727558e2ef6",
    "title": "Several vulnerabilities have been discovered in the Linux kernel",
-   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 133\n# Comments: 72",
+   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 153\n# Comments: 81",
    "link": "https://lwn.net/Articles/1097401/",
    "source": "Hacker News",
    "category": "资讯",
@@ -31,7 +44,7 @@
   {
    "id": "b44b2a40f9988ddf47773254d68a17e9",
    "title": "2026 International Utility Locate Rodeo",
-   "summary": "Article URL: https://locaterodeo.net/\nComments URL: https://news.ycombinator.com/item?id=49927844\nPoints: 16\n# Comments: 3",
+   "summary": "Article URL: https://locaterodeo.net/\nComments URL: https://news.ycombinator.com/item?id=49927844\nPoints: 19\n# Comments: 3",
    "link": "https://locaterodeo.net/",
    "source": "Hacker News",
    "category": "资讯",
@@ -44,7 +57,7 @@
   {
    "id": "43305a99e92c3a3a916d33ae355c222b",
    "title": "Frog and Toad and the Increasingly Capable Machines",
-   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 30\n# Comments: 5",
+   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 50\n# Comments: 6",
    "link": "https://www.frogandtoad.ai/",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +70,7 @@
   {
    "id": "ec486c6ebf53167fe18f690ff3cd4c28",
    "title": "Aweb – Communication for AI Agents",
-   "summary": "Article URL: https://aweb.ai\nComments URL: https://news.ycombinator.com/item?id=49927587\nPoints: 27\n# Comments: 16",
+   "summary": "Article URL: https://aweb.ai\nComments URL: https://news.ycombinator.com/item?id=49927587\nPoints: 27\n# Comments: 17",
    "link": "https://aweb.ai",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +83,7 @@
   {
    "id": "98ff326da4f4d4c7734c537ba1eae2b5",
    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 63\n# Comments: 13",
+   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 71\n# Comments: 17",
    "link": "https://www.cssbed.com",
    "source": "Hacker News",
    "category": "资讯",
@@ -81,22 +94,9 @@
    "ts": 1790889692
   },
   {
-   "id": "2574d94faa4f2763d77ccd5e61583b18",
-   "title": "The death of web development education",
-   "summary": "Article URL: https://molily.de/web-dev-education/\nComments URL: https://news.ycombinator.com/item?id=49927100\nPoints: 173\n# Comments: 129",
-   "link": "https://molily.de/web-dev-education/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 05:07",
-   "ts": 1790888857
-  },
-  {
    "id": "8d66002cff67fee089a9c713e47aeea2",
    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
-   "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 83",
+   "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 91",
    "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +109,7 @@
   {
    "id": "f2857a36fd3d01c62f9b071142c9551b",
    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 54\n# Comments: 8",
+   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 57\n# Comments: 8",
    "link": "https://github.com/Vibra-Ingenn/Janus",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +122,7 @@
   {
    "id": "2db2cf103b6129cf70e8e3750043dc85",
    "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 144\n# Comments",
+   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 146\n# Comments",
    "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +135,7 @@
   {
    "id": "8578475db21f5cc67df9930f18a9a99c",
    "title": "SvelteKit 3",
-   "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 137\n# Comments: 54",
+   "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 148\n# Comments: 58",
    "link": "https://svelte.dev/blog/sveltekit-3-is-here",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +148,7 @@
   {
    "id": "16b3701a70669a15b898b947f590fd91",
    "title": "ArXiv's Updated Rate Limit Policy",
-   "summary": "Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/\nComments URL: https://news.ycombinator.com/item?id=49926512\nPoints: 74\n# Comments: 35",
+   "summary": "Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/\nComments URL: https://news.ycombinator.com/item?id=49926512\nPoints: 83\n# Comments: 35",
    "link": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +161,7 @@
   {
    "id": "ecb8b1679a2a22985f2676bda6845eba",
    "title": "Pi 1.0",
-   "summary": "Related: Pi Durable - https://news.ycombinator.com/item?id=49925969\n\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 812\n# Comments: 285",
+   "summary": "Related: Pi Durable - https://news.ycombinator.com/item?id=49925969\n\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 862\n# Comments: 292",
    "link": "https://earendil.com/posts/pi-1-0/",
    "source": "Hacker News",
    "category": "资讯",
