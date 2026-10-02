@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-02 19:38",
- "total": 283,
+ "updated_at": "2026-10-02 20:03",
+ "total": 281,
  "channels": [
   "AI·科技",
   "体育",
@@ -15,6 +15,84 @@
  ],
  "items": [
   {
+   "id": "a7e2787888b35ad05636183b43b62520",
+   "title": "Bentley to fight Mosley Jr on November 7 live on Sky Sports",
+   "summary": "Middleweight world champion Denzel Bentley has signed a multi-fight deal with Zuffa Boxing and will fight on November 7 at the Copper Box Arena, live on Sky Spo",
+   "link": "https://www.skysports.com/boxing/news/12040/13594240/denzel-bentley-signs-with-zuffa-boxing-and-will-fight-shane-mosley-jr-at-copper-box-arena-on-november-7-live-on-sky-sports",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 20:40",
+   "ts": 1790944800
+  },
+  {
+   "id": "4bde122ba719017b8e70a4cc487dd476",
+   "title": "No Littler... predict who wins the World Grand Prix Darts",
+   "summary": "With Luke Littler out of the tournament after a shock defeat have your say and predict how the tournament will play out after the world No 1's title defence at ",
+   "link": "https://www.skysports.com/darts/news/12040/13594367/world-grand-prix-darts-predictor-have-your-say-and-plot-who-will-lift-the-trophy-in-leicester-following-shock-luke-littler-exit",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 20:31",
+   "ts": 1790944260
+  },
+  {
+   "id": "524481bd8f81b1c2a3673f908b5b63c3",
+   "title": "《恶魔城：贝尔蒙特的诅咒》试玩版今日上线",
+   "summary": "科乐美今日正式推出传奇恶魔城系列最新作品《恶魔城：贝尔蒙特的诅咒》 的试玩版，登陆 PlayStation 5、Nintendo Switch、XBOX Series X|S 及 Steam。玩家可在 2026 年 10 月 15 日正式发售前抢先体验游戏前期内容，并可将试玩版进度继承至首发正式版。\n恶魔城：贝尔蒙特的",
+   "link": "https://www.gcores.com/articles/220477",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 20:01",
+   "ts": 1790942477
+  },
+  {
+   "id": "855b558f59930416910abdb87e7b37f6",
+   "title": "Star Wars: Galactic Racer is my childhood podracing dream come true",
+   "summary": "The podracing scene in The Phantom Menace is one of my favorite movie sequences ever. It's just so dang cool: The futuristic racers tear over treacherous Tatooi",
+   "link": "https://www.theverge.com/entertainment/1002887/star-wars-galactic-racer-review",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 20:00",
+   "ts": 1790942400
+  },
+  {
+   "id": "06f1053c9f91e0cbc4ae2515afc16bae",
+   "title": "AI hallucinations are making entitled customers even worse",
+   "summary": "Madison, a server in New York City, greets every table by asking about each diner's allergies. Lately, there have been some close calls. \"Sometimes people will ",
+   "link": "https://www.theverge.com/report/1002963/ai-hallucinations-customer-service-jobs-agents",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 20:00",
+   "ts": 1790942400
+  },
+  {
+   "id": "832d66537205f4683c817e454f348522",
+   "title": "If a data center is camouflaged in the woods, will anyone hate it?",
+   "summary": "San Antonio City Councilmember Ric Galvan remembers when data centers first arrived in his city in the 2000s, looking like relatively unassuming office building",
+   "link": "https://www.theverge.com/tech/1003681/microsoft-data-centers-ai-environment-biomimicry",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 20:00",
+   "ts": 1790942400
+  },
+  {
    "id": "8bc6dbb040a979061e1474234db83180",
    "title": "Man City lodge appeal against guilty verdict",
    "summary": "Manchester City have lodged their appeal against an independent commission finding them guilty of all charges related to serious breaches of Premier League fina",
@@ -26,6 +104,136 @@
    "urgent": false,
    "fetched_at": "10-02 20:00",
    "ts": 1790942400
+  },
+  {
+   "id": "78cf0b0d672f2d8661d6d1b07fff4106",
+   "title": "Vasseur admits 'big issue' with Ferrari distractions",
+   "summary": "Frederic Vasseur says the \"noise\" surrounding Ferrari is a \"big issue\" for the team, admitting their release of a statement earlier this week reiterating the It",
+   "link": "https://www.skysports.com/f1/news/12040/13594195/frederic-vasseur-admits-big-issue-with-ferrari-distractions-at-bahrain-grand-prix-in-malaysia",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 20:00",
+   "ts": 1790942400
+  },
+  {
+   "id": "0a62d2b14390788de543e86f940019de",
+   "title": "创维 F3 Pro 闺蜜机新增 12GB RAM + 256GB 存储空间版本，6099 元",
+   "summary": "IT之家 10 月 2 日消息，创维现已为旗下 F3 Pro 闺蜜机新增一款 12GB RAM + 256GB 存储空间版本，定价为 6099 元，部分地区国补后低至 4999 元。该产品采用云雾白配色，配备一块 32 英寸 3840x2160 分辨率 IPS LCD 面板，搭载 13Mp 摄像头，匹配全景环绕扬声器。",
+   "link": "https://www.ithome.com/1/009/346.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:57",
+   "ts": 1790942234
+  },
+  {
+   "id": "e01ddf75fc99bbbcb8577926948d8e63",
+   "title": "NFL Week 4 odds, predictions, expert picks: Who wins 49ers-Broncos showdown? Colts or Commanders in London?",
+   "summary": "CBSSports.com and SportsLine break down every single NFL game in Week 4",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-odds-predictions-expert-picks-49ers-broncos/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:53",
+   "ts": 1790942030
+  },
+  {
+   "id": "2dc2352fd95da379dc5de31d26c9a0d9",
+   "title": "How big is Pennsylvania’s measles outbreak?",
+   "summary": "News of a fifth measles death in Pennsylvania underscores a longstanding issue about the disease. The full scope of the outbreak — in the state and in the count",
+   "link": "https://www.statnews.com/2026/10/02/health-news-how-big-is-pennsylvania-measles-outbreak/?utm_campaign=rss",
+   "source": "STAT News",
+   "channel": "健康",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:53",
+   "ts": 1790942023
+  },
+  {
+   "id": "76c2cb604d8a10114e62a4262fcb1c7b",
+   "title": "Week 4 best bets: Cowboys to bounce back; Josh Downs, Aaron Jones in line for big days",
+   "summary": "Plus, the Jaguars and the Bengals are in for a good one",
+   "link": "https://www.cbssports.com/nfl/news/week-4-best-bets-cowboys-josh-downs-aaron-jones/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:52",
+   "ts": 1790941948
+  },
+  {
+   "id": "ca39d22c1d995e470c1a62a4ce0a0d90",
+   "title": "Amazon writes scary blog warning communities not to block data centers",
+   "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blo",
+   "link": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:52",
+   "ts": 1790941940
+  },
+  {
+   "id": "61f94ab0489e4a62896f5f54970a19f4",
+   "title": "Liberty vs. Delaware prediction, odds: Week 5 college football Friday picks by proven model",
+   "summary": "The SportsLine Projection Model has revealed its best bets for the Friday matchup between the Liberty Flames and Delaware Blue Hens on CBS Sports Network",
+   "link": "https://www.cbssports.com/betting/news/liberty-delaware-prediction-odds-week-5-college-football-friday-picks-bets/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:49",
+   "ts": 1790941770
+  },
+  {
+   "id": "d11566d0cc351b2e5a148841931d172f",
+   "title": "PS3 games hogging storage on your Android device? This ARMSX3 feature is for you.",
+   "summary": "ARMSX3 now plays CHD files, which delivers much smaller file sizes than conventional ISO files.",
+   "link": "https://www.androidauthority.com/armsx3-ps3-emulator-android-chd-files-3718329/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:45",
+   "ts": 1790941500
+  },
+  {
+   "id": "7a3b7ac4fccb614dc029c1fd0a58e3ad",
+   "title": "Pittsburgh vs. Virginia Tech prediction, odds, time: Week 5 college football Friday picks by proven model",
+   "summary": "The SportsLine Projection Model has revealed its best bets for the Friday matchup between the Pitt Panthers vs. Virginia Tech Hokies",
+   "link": "https://www.cbssports.com/betting/news/pittsburgh-virginia-tech-prediction-odds-time-week-5-college-football-friday-picks-bets/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:40",
+   "ts": 1790941243
+  },
+  {
+   "id": "1ce577532cbfec440fac3cb221fd307c",
+   "title": "Manchester City confirm appeal against Premier League's independent commission's verdict on rule violations",
+   "summary": "The club claims the ruling contains clear material errors of fact and law after being found guilty of sham contracts and off-book payments",
+   "link": "https://www.cbssports.com/soccer/news/manchester-city-appeal-premier-leagues-verdict-financial-rule-violations/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:36",
+   "ts": 1790941015
   },
   {
    "id": "f65154e76bb24f7e87ff07721be0af6b",
@@ -80,6 +288,19 @@
    "ts": 1790940458
   },
   {
+   "id": "80aa92107e5fcac6e9c7771c6197f749",
+   "title": "College football picks, Week 5 best bets by Vegas expert: This parlay could return +600",
+   "summary": "Thomas Casale has locked in his top college football picks for Week 5 and his CFB parlay could pay out around +600",
+   "link": "https://www.cbssports.com/betting/news/college-football-parlay-week-5-2026-best-bets-expert-predictions/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:26",
+   "ts": 1790940387
+  },
+  {
    "id": "8f2529442f8b163b75815c78b0b5c584",
    "title": "Ride1Up just launched a 28 MPH German mid-drive e-bike for an insanely low $1,295",
    "summary": "There are cheap e-bikes, and there are good mid-drive e-bikes. Those two circles on the Venn diagram don’t overlap nearly as often as we’d like. But Ride1Up’s n",
@@ -119,6 +340,19 @@
    "ts": 1790939700
   },
   {
+   "id": "66b9b89407fe219d53e7177fc2bacf59",
+   "title": "'I've Buried It Deep': X-Men Actor Says He Knew Sony's Spider-Man Spinoff Kraven Wasn't 'Going Well' During Filming",
+   "summary": "Marvel's new X-Men movie star Christopher Abbott has admitted that he knew Sony's Spider-Man spinoff Kraven the Hunter wasn't \"going well\" while on set.",
+   "link": "https://www.ign.com/articles/ive-buried-it-deep-x-men-actor-says-he-knew-sonys-spider-man-spinoff-kraven-wasnt-going-well-during-filming",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:07",
+   "ts": 1790939240
+  },
+  {
    "id": "e161ff8f46b06f4c41811051d93fce48",
    "title": "iPhone Duo's inner display protector is replaceable, here's how much it costs",
    "summary": "According to Apple's service and repair website, the iPhone Duo's top layer of the foldable screen can be replaced. And it's quite cheap if you have AppleCare.\n",
@@ -130,6 +364,19 @@
    "urgent": false,
    "fetched_at": "10-02 19:06",
    "ts": 1790939162
+  },
+  {
+   "id": "6eae9b297996ed4e6922047d8da39878",
+   "title": "With a Smirk, Robert Pattinson Calls Michael Bay's Transformers 'The Definitive Movie of the 2000s'",
+   "summary": "On YouTube show The List, presented by movie publisher A24 and Letterboxd, Robert Pattinson and Lance Oppenheim chatted about their favorite movies. During the ",
+   "link": "https://www.ign.com/articles/robert-pattinson-transformers-definitive-movie-2000s",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:05",
+   "ts": 1790939149
   },
   {
    "id": "7a930b96f3292ad4df8bc82405b49109",
@@ -418,19 +665,6 @@
    "ts": 1790934870
   },
   {
-   "id": "bd6c4115f6f0b769d8cc4140bcc795c4",
-   "title": "荣耀林林：Magic9 系列不会推出 RSR 保时捷设计版本",
-   "summary": "IT之家 10 月 2 日消息，荣耀 Magic9 系列手机于 9 月 28 日发布，包含荣耀 Magic9 Pro Max、荣耀 Magic9、荣耀 Magic9 超能版三杯，售价 4499 元起。10 月 1 日，荣耀中国区智慧生活业务部部长林林在微博评论区确认，Magic9 系列不会推出 RSR 版本。IT之家注",
-   "link": "https://www.ithome.com/1/009/329.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 17:48",
-   "ts": 1790934487
-  },
-  {
    "id": "0d0ccb538d5aaf46af64b9ac80b4f4b6",
    "title": "Disney President Reacts to Live-Action Moana Flop, Says It Was an 'Excellent Film' Hit by 'Unusual Circumstances'",
    "summary": "Disney president Dana Walden has blamed \"unusual circumstances\" for the live-action Moana movie's disappointing box office, and defended the project as an other",
@@ -628,7 +862,7 @@
   {
    "id": "3970b6d76487b8362ec16406910ed92f",
    "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 28\n# Comments: 8",
+   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 30\n# Comments: 9",
    "link": "https://github.com/kvoltmer/Audionaut",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -795,45 +1029,6 @@
    "ts": 1790923592
   },
   {
-   "id": "72f84ad03c1e209e720efe9d4022dfb9",
-   "title": "Browns overcome Steelers' comeback for dramatic win in final seconds",
-   "summary": "Deshaun Watson passed for 268 yards and moved the Browns into position for Andre Szmyt's career-long 56-yard field goal with 10 seconds remaining that gave Clev",
-   "link": "https://www.skysports.com/nfl/news/12040/13594217/pittsburgh-steelers-24-27-cleveland-browns-deshaun-watson-leads-game-winning-drive-to-set-up-field-goal-in-final-seconds",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 14:38",
-   "ts": 1790923080
-  },
-  {
-   "id": "0a35287a83c66009175ad09f12011fc1",
-   "title": "Verstappen makes fast start in Malaysia to outpace Russell in first practice",
-   "summary": "&#8203;Max Verstappen made an impressively fast start to Formula 1's return to the Sepang International Circuit to set the pace from George Russell in the first",
-   "link": "https://www.skysports.com/f1/news/12040/13594190/bahrain-gp-in-malaysia-max-verstappen-sets-pace-on-f1s-return-to-sepang-in-first-practice-from-george-russell",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 14:30",
-   "ts": 1790922600
-  },
-  {
-   "id": "11305592824470b8ef417fe1aa4a2544",
-   "title": "Pride of Wales up for grabs as Price battles Clayton at World Grand Prix",
-   "summary": "Welsh bragging rights and a place in the World Grand Prix semi-finals will be up for grabs when Gerwyn Price and Jonny Clayton meet in Leicester on Friday night",
-   "link": "https://www.skysports.com/darts/news/12040/13594103/world-grand-prix-darts-gerwyn-price-faces-jonny-clayton-in-all-welsh-quarter-final-as-luke-humphries-meets-surprise-package-niels-zonneveld",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 14:30",
-   "ts": 1790922600
-  },
-  {
    "id": "a039f594c816f488f1809efce9c64070",
    "title": "Here's when Samsung's first Android XR glasses are finally launching",
    "summary": "Samsung showcased its first Android XR glasses during its Galaxy Unpacked event in July, and now a new report from its home country of South Korea tells us when",
@@ -927,7 +1122,7 @@
   {
    "id": "af33b5bbab24e50b74e293ed13a06c4b",
    "title": "Shimano Bicycle Museum Review",
-   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 136\n# Comments: 24",
+   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 141\n# Comments: 24",
    "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1029,19 +1224,6 @@
    "ts": 1790916623
   },
   {
-   "id": "71f113bbf5a23dfe99ee6c93219e2232",
-   "title": "Building reliable (and fast) directory sync",
-   "summary": "Article URL: https://www.firezone.dev/blog/building-reliable-directory-sync\nComments URL: https://news.ycombinator.com/item?id=49929925\nPoints: 11\n# Comments: 0",
-   "link": "https://www.firezone.dev/blog/building-reliable-directory-sync",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 12:45",
-   "ts": 1790916336
-  },
-  {
    "id": "8ba93ba27fe0156cb94f0476b8ab8376",
    "title": "LOOK: Aaron Rodgers' heated exchange with Mike McCarthy caught on camera during Steelers-Browns",
    "summary": "The former Packers partners exchanged words during a difficult first half for Pittsburgh against its AFC North rival",
@@ -1079,19 +1261,6 @@
    "urgent": false,
    "fetched_at": "10-02 12:22",
    "ts": 1790914948
-  },
-  {
-   "id": "8079332e5c2717e4511960e6b2510f6e",
-   "title": "ChatGPT just borrowed one of Google Shopping’s best tricks",
-   "summary": "You can now virtually try-on clothes via ChatGPT.",
-   "link": "https://www.androidauthority.com/chatgpt-virtual-try-on-shopping-feature-3718219/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 12:15",
-   "ts": 1790914505
   },
   {
    "id": "bad745da83ae50be6f4cecebc12f8ef6",
@@ -1187,7 +1356,7 @@
   {
    "id": "edd38f0a71d7d06b77bf24a69b2e893c",
    "title": "DeepSeek Harness Desktop for macOS and Windows",
-   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 257\n# Comments: 126",
+   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 258\n# Comments: 131",
    "link": "https://www.deepseek.com/en/harness/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1222,19 +1391,6 @@
    "urgent": false,
    "fetched_at": "10-02 10:34",
    "ts": 1790908474
-  },
-  {
-   "id": "c4a3d86af8afa7be91149fb15e8436f2",
-   "title": "Browns' Mason Graham exits Steelers game with knee injury, will not return",
-   "summary": "The standout defensive tackle was injured during Pittsburgh's opening possession and is questionable to return",
-   "link": "https://www.cbssports.com/nfl/news/mason-graham-injury-update-browns-steelers/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 10:16",
-   "ts": 1790907412
   },
   {
    "id": "5fe5b8def152cdd5f478bd46b07fe406",
@@ -1302,19 +1458,6 @@
    "ts": 1790904819
   },
   {
-   "id": "7c94571b5c229b75ebba04f60619ffae",
-   "title": "Steelers QB Aaron Rodgers held an NFL record for 16 minutes before immediately losing it vs. Browns",
-   "summary": "The Steelers QB made NFL history on Thursday, but only very briefly",
-   "link": "https://www.cbssports.com/nfl/news/steelers-aaron-rodgers-could-pass-brady-mahomes-for-nfl-record/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 09:25",
-   "ts": 1790904332
-  },
-  {
    "id": "e6884adc91ff38446213fca38414f6e4",
    "title": "Oscars: Pakistan Selects Documentary ‘Hanging by a Wire’ for International Feature Race (EXCLUSIVE)",
    "summary": "Mohammed Ali Naqvi&#8217;s documentary thriller &#8220;Hanging by a Wire&#8221; has been selected as Pakistan&#8217;s submission for the international feature f",
@@ -1380,19 +1523,6 @@
    "ts": 1790902444
   },
   {
-   "id": "62e76ab857a791aecdd2e5dae3ec2199",
-   "title": "Arkansas Sports Betting 2026: Best Legal AR Sportsbooks & Betting Apps",
-   "summary": "Find the best Arkansas sports betting apps in October 2026, and all you need to know about Arkansas sports betting.",
-   "link": "https://www.cbssports.com/betting/news/arkansas/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 08:36",
-   "ts": 1790901360
-  },
-  {
    "id": "310d0dfb0c50fe9ea8397b810063b346",
    "title": "‘Fast & Furious’ TV Series Gets Official Green Light at Peacock",
    "summary": "The show is targeting a 2028 premiere date, with franchise star Vin Diesel on board as an executive producer.",
@@ -1432,32 +1562,6 @@
    "ts": 1790899775
   },
   {
-   "id": "ee2b6b6c3e56ea23f8b4e948c1bb6678",
-   "title": "Aces vs. Fever: Where to watch Game 3, TV channel, stream, expert picks",
-   "summary": "Will Wilson and the defending champion Aces move on? Or will Clark and the Fever pull off the road upset?",
-   "link": "https://www.cbssports.com/wnba/news/wnba-playoffs-aces-fever-game-3-predictions-expert-picks-caitlin-clark-aja-wilson/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 08:07",
-   "ts": 1790899674
-  },
-  {
-   "id": "d0130226cb0e42189cc990ee854a78df",
-   "title": "Fantasy football rankings Week 4: Dave Richard makes tough decisions who to start, sit and flex",
-   "summary": "Dave Richard dives deep into the players who Fantasy Football managers will have scratching their heads in every single game on the slate",
-   "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-week-4-dave-richard-makes-tough-decisions-who-to-start-sit-and-flex/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 08:07",
-   "ts": 1790899656
-  },
-  {
    "id": "25f504a28456f5c6b7cdb95ced11de94",
    "title": "The founder’s guide to TechCrunch Disrupt 2026: Everything you need to know",
    "summary": "TechCrunch Disrupt 2026 is built around one question: How do you build an enduring company in the AI era? Our programming and speaker lineup reflect that.",
@@ -1469,19 +1573,6 @@
    "urgent": false,
    "fetched_at": "10-02 08:03",
    "ts": 1790899403
-  },
-  {
-   "id": "c56f85e390bc048b328c7d1e4b16f299",
-   "title": "Braves vs. Phillies Game 3: Where to watch, expert picks, predictions with NLDS spot on the line",
-   "summary": "The first two games of the best-of-three series have been hotly contested",
-   "link": "https://www.cbssports.com/mlb/news/braves-phillies-game-3-predictions-expert-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 08:03",
-   "ts": 1790899382
   },
   {
    "id": "41574a2411a8835385c1a99419e36251",
@@ -1616,7 +1707,7 @@
   {
    "id": "69f5cac8b7bca0cbd956b727558e2ef6",
    "title": "Several vulnerabilities have been discovered in the Linux kernel",
-   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 344\n# Comments: 250",
+   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 351\n# Comments: 257",
    "link": "https://lwn.net/Articles/1097401/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1679,32 +1770,6 @@
    "ts": 1790895096
   },
   {
-   "id": "99b7b6d6d8baa91daad3c97073dc266a",
-   "title": "The X-Tech Executive Chair Aims to Upend Premium Models from Herman Miller, Steelcase at a Better Price",
-   "summary": "Battle of the super premium tier chairs.",
-   "link": "https://www.ign.com/articles/x-tech-executive-chair-aims-to-upend-premium-models-from-herman-miller-steelcase",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 06:45",
-   "ts": 1790894700
-  },
-  {
-   "id": "e1b5e21776de60a4befff614c972973a",
-   "title": "Lanterns Rakes In More Than 18 Million Views Per Episode Globally As Season Finale Approaches",
-   "summary": "It’s safe to say that Lanterns is burning bright. The DCU series is raking in millions of views globally, competing with other HBO juggernauts like Euphoria and",
-   "link": "https://www.ign.com/articles/lanterns-rakes-in-more-than-18-million-views-per-episode-globally-as-season-finale-approaches",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 06:33",
-   "ts": 1790894020
-  },
-  {
    "id": "0ca9212434535978b31d4d395a031e3a",
    "title": "Apple iPhone 17e vs iPhone 17",
    "summary": "With the iPhone 18 Pro and 18 Pro Max now on the market but no vanilla iPhone 18 yet in sight, the Apple iPhone 17e and Apple iPhone 17 remain Apple's current m",
@@ -1720,7 +1785,7 @@
   {
    "id": "43305a99e92c3a3a916d33ae355c222b",
    "title": "Frog and Toad and the Increasingly Capable Machines",
-   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 206\n# Comments: 44",
+   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 213\n# Comments: 45",
    "link": "https://www.frogandtoad.ai/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1798,7 +1863,7 @@
   {
    "id": "98ff326da4f4d4c7734c537ba1eae2b5",
    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 119\n# Comments: 30",
+   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 119\n# Comments: 31",
    "link": "https://www.cssbed.com",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1976,6 +2041,19 @@
    "urgent": false,
    "fetched_at": "10-02 04:36",
    "ts": 1790887007
+  },
+  {
+   "id": "2db2cf103b6129cf70e8e3750043dc85",
+   "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 200\n# Comments",
+   "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 04:23",
+   "ts": 1790886207
   },
   {
    "id": "d7f0d7f0213b657a4d6d99db765644e9",
@@ -2368,19 +2446,6 @@
    "ts": 1790874000
   },
   {
-   "id": "e137740ef08bb3ece2794199043ed666",
-   "title": "Sony brings AI graphics upscaling to the regular PS5",
-   "summary": "Sony is launching a new AI upscaling technology specifically for the regular PS5. The new tech, called Quick Spectral Super Resolution (QSSR), is a \"new perform",
-   "link": "https://www.theverge.com/games/1003549/sony-ps5-quick-spectral-super-resolution-qssr",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 00:53",
-   "ts": 1790873619
-  },
-  {
    "id": "b24094434842c42c2600dc586bc752f3",
    "title": "Amazon releases its own Jev clone as decision models flood the web",
    "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
@@ -2472,19 +2537,6 @@
    "ts": 1790871092
   },
   {
-   "id": "7e04da24b502088ed6183926dd6d2012",
-   "title": "Can VR glasses save VR?",
-   "summary": "I'm pretty sure I won't be buying the $1,299 Meta VR Glasses. That's too rich for my blood in today's economy, and my feelings about Meta are… conflicted. But I",
-   "link": "https://www.theverge.com/tech/1003034/meta-vr-glasses-vs-augmented-reality",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 00:10",
-   "ts": 1790871032
-  },
-  {
    "id": "ec271cdf80670d18ad033b3f9c0a6f0f",
    "title": "ESPN app recently got big upgrade on Apple TV 4K and iPhone",
    "summary": "Fall is a big season for sports fans, and ESPN recently launched a big upgrade for users of its tvOS and iOS apps: 4K HDR streaming.\n\n\n\n more…",
@@ -2511,19 +2563,6 @@
    "ts": 1790870598
   },
   {
-   "id": "11adacf5d49621691fcef3b279b00b5c",
-   "title": "Microsoft’s Office and Teams chief is leaving",
-   "summary": "After nearly 18 years at LinkedIn and Microsoft, Ryan Roslansky is leaving the company. Roslansky, who until recently was the CEO of LinkedIn, was promoted to t",
-   "link": "https://www.theverge.com/news/1003515/microsoft-ryan-roslansky-office-teams-linkedin-leaving",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 00:02",
-   "ts": 1790870557
-  },
-  {
    "id": "8572d70a7f3b2047dc1bd1e89366c3d5",
    "title": "Ford’s Re-Entry to the World Rally Championship Is a Return to Fun",
    "summary": "The Blue Oval’s factory backing coincides with its push to inject rally capabilities into its next passenger cars.",
@@ -2535,19 +2574,6 @@
    "urgent": false,
    "fetched_at": "10-02 00:00",
    "ts": 1790870459
-  },
-  {
-   "id": "467cf6931bfe3ff9e18dee7052f66c2f",
-   "title": "Inside Microsoft’s big Copilot rethink",
-   "summary": "Last week, Microsoft CEO Satya Nadella hosted an intimate, invite-only event for leaders from some of its key enterprise customers. Instead of a flashy media ev",
-   "link": "https://www.theverge.com/tech/1003365/microsoft-copilot-os-for-work-notepad",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 00:00",
-   "ts": 1790870400
   },
   {
    "id": "da4b61520004479aab3988cecbe7fdde",
@@ -2587,32 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-01 23:13",
    "ts": 1790867617
-  },
-  {
-   "id": "04306055d3463abeb0dd4670950fa48c",
-   "title": "新加坡推出面向公务员的约会软件 FirstDate",
-   "summary": "为了提高生育率，新加坡试点推出了为公务员牵线搭桥的约会应用 FirstDate。新加坡的总和生育率已降至每名女性生育 0.87 个孩子，而十年前这一数字为 1.24。政府最近成立了一个专门研究生育率下降问题的工作组，预计该作组将在 2027 年初发表研究结果。FirstDate 面向 21-35 岁的单身人士，目前仅向",
-   "link": "https://www.solidot.org/story?sid=85522",
-   "source": "Solidot",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 23:11",
-   "ts": 1790867472
-  },
-  {
-   "id": "5a28d85d85484162ffed8cc71109d8ac",
-   "title": "何恺明团队新作：看猫片就能学会ARC挑战",
-   "summary": "用ImageNet训练encoder",
-   "link": "https://www.qbitai.com/2026/10/499812.html",
-   "source": "量子位",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-01 23:06",
-   "ts": 1790867190
   }
  ]
 }
