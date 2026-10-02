@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02 08:44",
+ "updated_at": "2026-10-02 09:05",
  "total": 40,
  "items": [
   {
@@ -18,7 +18,7 @@
   {
    "id": "69f5cac8b7bca0cbd956b727558e2ef6",
    "title": "Several vulnerabilities have been discovered in the Linux kernel",
-   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 32\n# Comments: 5",
+   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 50\n# Comments: 25",
    "link": "https://lwn.net/Articles/1097401/",
    "source": "Hacker News",
    "category": "资讯",
@@ -44,7 +44,7 @@
   {
    "id": "b44b2a40f9988ddf47773254d68a17e9",
    "title": "2026 International Utility Locate Rodeo",
-   "summary": "Article URL: https://locaterodeo.net/\nComments URL: https://news.ycombinator.com/item?id=49927844\nPoints: 8\n# Comments: 0",
+   "summary": "Article URL: https://locaterodeo.net/\nComments URL: https://news.ycombinator.com/item?id=49927844\nPoints: 10\n# Comments: 0",
    "link": "https://locaterodeo.net/",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +57,7 @@
   {
    "id": "385c48b01f2e710c7ee51d857de0b879",
    "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
-   "summary": "Article URL: https://neow.in/NGxhb3d6\nComments URL: https://news.ycombinator.com/item?id=49927693\nPoints: 14\n# Comments: 6",
+   "summary": "Article URL: https://neow.in/NGxhb3d6\nComments URL: https://news.ycombinator.com/item?id=49927693\nPoints: 29\n# Comments: 24",
    "link": "https://neow.in/NGxhb3d6",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +70,7 @@
   {
    "id": "ec486c6ebf53167fe18f690ff3cd4c28",
    "title": "Aweb – Communication for AI Agents",
-   "summary": "Article URL: https://aweb.ai\nComments URL: https://news.ycombinator.com/item?id=49927587\nPoints: 13\n# Comments: 6",
+   "summary": "Article URL: https://aweb.ai\nComments URL: https://news.ycombinator.com/item?id=49927587\nPoints: 16\n# Comments: 11",
    "link": "https://aweb.ai",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +83,7 @@
   {
    "id": "98ff326da4f4d4c7734c537ba1eae2b5",
    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 50\n# Comments: 9",
+   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 54\n# Comments: 11",
    "link": "https://www.cssbed.com",
    "source": "Hacker News",
    "category": "资讯",
@@ -96,7 +96,7 @@
   {
    "id": "2574d94faa4f2763d77ccd5e61583b18",
    "title": "The death of web development education",
-   "summary": "Article URL: https://molily.de/web-dev-education/\nComments URL: https://news.ycombinator.com/item?id=49927100\nPoints: 147\n# Comments: 113",
+   "summary": "Article URL: https://molily.de/web-dev-education/\nComments URL: https://news.ycombinator.com/item?id=49927100\nPoints: 154\n# Comments: 115",
    "link": "https://molily.de/web-dev-education/",
    "source": "Hacker News",
    "category": "资讯",
@@ -109,7 +109,7 @@
   {
    "id": "8d66002cff67fee089a9c713e47aeea2",
    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
-   "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 45",
+   "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 56",
    "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +122,7 @@
   {
    "id": "f2857a36fd3d01c62f9b071142c9551b",
    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 44\n# Comments: 5",
+   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 47\n# Comments: 5",
    "link": "https://github.com/Vibra-Ingenn/Janus",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +135,7 @@
   {
    "id": "2db2cf103b6129cf70e8e3750043dc85",
    "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 136\n# Comments",
+   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 138\n# Comments",
    "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +148,7 @@
   {
    "id": "8578475db21f5cc67df9930f18a9a99c",
    "title": "SvelteKit 3",
-   "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 95\n# Comments: 31",
+   "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 103\n# Comments: 38",
    "link": "https://svelte.dev/blog/sveltekit-3-is-here",
    "source": "Hacker News",
    "category": "资讯",
@@ -161,7 +161,7 @@
   {
    "id": "16b3701a70669a15b898b947f590fd91",
    "title": "ArXiv's Updated Rate Limit Policy",
-   "summary": "Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/\nComments URL: https://news.ycombinator.com/item?id=49926512\nPoints: 63\n# Comments: 20",
+   "summary": "Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/\nComments URL: https://news.ycombinator.com/item?id=49926512\nPoints: 64\n# Comments: 26",
    "link": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
    "source": "Hacker News",
    "category": "资讯",
@@ -174,7 +174,7 @@
   {
    "id": "ecb8b1679a2a22985f2676bda6845eba",
    "title": "Pi 1.0",
-   "summary": "Related: Pi Durable - https://news.ycombinator.com/item?id=49925969\n\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 689\n# Comments: 230",
+   "summary": "Related: Pi Durable - https://news.ycombinator.com/item?id=49925969\n\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 716\n# Comments: 246",
    "link": "https://earendil.com/posts/pi-1-0/",
    "source": "Hacker News",
    "category": "资讯",
@@ -187,7 +187,7 @@
   {
    "id": "c0be91549eeb14ae57d231e6716dbedf",
    "title": "Pi Durable",
-   "summary": "Related: Pi 1.0 - https://news.ycombinator.com/item?id=49926069 - Oct 2026 (184 comments)\n\nComments URL: https://news.ycombinator.com/item?id=49925969\nPoints: 1",
+   "summary": "Related: Pi 1.0 - https://news.ycombinator.com/item?id=49926069 - Oct 2026 (184 comments)\n\nComments URL: https://news.ycombinator.com/item?id=49925969\nPoints: 2",
    "link": "https://earendil.com/posts/pi-durable/",
    "source": "Hacker News",
    "category": "资讯",
