@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-02 18:02",
- "total": 270,
+ "updated_at": "2026-10-02 18:38",
+ "total": 283,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,9 +10,36 @@
   "数码",
   "汽车",
   "游戏",
+  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "240f4ad9ffe4dd85f297c6c184bdd437",
+   "title": "Dev's Digest: Hamza's FA Cup final shirt to be auctioned | Award winners stand with Iqbal",
+   "summary": "Welcome to Dev's Digest, the agenda-setting Sky Sports column where Dev Trehan delivers exclusive news and reflects on some of the key developments for British ",
+   "link": "https://www.skysports.com/football/news/12040/13594024/devs-digest-hamza-choudhurys-fa-cup-final-shirt-up-for-grabs-award-winning-pair-stand-with-zidane-iqbal-dilan-markanday-opens-up-on-wonder-goal",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:15",
+   "ts": 1790939700
+  },
+  {
+   "id": "7a930b96f3292ad4df8bc82405b49109",
+   "title": "Wolff: Russell found it 'difficult to cope' with Antonelli 'reality'",
+   "summary": "Mercedes team principal Toto Wolff has revealed George Russell \"found it difficult to cope\" with Kimi Antonelli's performances earlier this year.",
+   "link": "https://www.skysports.com/f1/news/12040/13594193/toto-wolff-reveals-george-russell-found-it-difficult-to-cope-with-kimi-antonelli-reality-earlier-in-2026-formula-1-season",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:05",
+   "ts": 1790939100
+  },
   {
    "id": "7696a896d9435b29f2d8dfa90874d027",
    "title": "Brand’s lessons from Chelsea as he prepares for the next step",
@@ -27,17 +54,56 @@
    "ts": 1790938800
   },
   {
-   "id": "2162645366ee72008f3ead621c79a48c",
-   "title": "Bahrain Grand Prix in Malaysia | Practice highlights",
-   "summary": "Highlights from Friday's practice sessions at the Bahrain Grand Prix in Malaysia on the Sepang International Circuit.",
-   "link": "https://www.skysports.com/watch/video/13594286/bahrain-grand-prix-in-malaysia-practice-highlights",
-   "source": "Sky Sports",
-   "channel": "体育",
+   "id": "87f913e180e24aaaefd99bf8670d628e",
+   "title": "I thought Google made a mistake with the Pixel 11 Pro XL. 30 days later, I was wrong",
+   "summary": "If you can hold your nose, the Pixel 11 Pro XL is worth it.",
+   "link": "https://www.androidauthority.com/i-thought-google-made-mistake-pixel-11-pro-xl-wrong-why-3717023/",
+   "source": "Android Authority",
+   "channel": "数码",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-02 18:18",
-   "ts": 1790936280
+   "fetched_at": "10-02 18:30",
+   "ts": 1790937002
+  },
+  {
+   "id": "0f0954bac2c81d677284c98ac315b61c",
+   "title": "对“死亡”的极致迷恋：电影与绘画中的死亡狂欢",
+   "summary": "凡人终有一死，但从未有过死去的人返回现世，告诉我们那个世界的样子。这恰恰激发了艺术家对于死后世界的想象。从中世纪的死亡之舞，到墨西哥的亡灵狂欢，用不同国家、不同文明的绘画与电影，和你一起拆解令人迷恋的“死亡美学”。",
+   "link": "https://www.gcores.com/videos/220475",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 18:15",
+   "ts": 1790936151
+  },
+  {
+   "id": "d7de14dedd8f4123643535127036f929",
+   "title": "‘A Talent for Murder’ Director Anton Corbijn Praises Helen Mirren’s Performance as Controversial Author Patricia Highsmith: ‘She’s a Great Jerk!’",
+   "summary": "In “A Talent for Murder,” director Anton Corbijn takes a closer look at writer Patricia Highsmith. Known for creating everyone’s favorite psychopath Tom Ripley,",
+   "link": "https://variety.com/2026/film/global/anton-corbijn-helen-mirren-patricia-highsmith-1236894582/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 18:15",
+   "ts": 1790936143
+  },
+  {
+   "id": "907e9aa3eaff2ed28803f2f634976bdc",
+   "title": "绿联推出 45W 自带双线带屏 20000mAh 移动电源：3C + 1A，269 元",
+   "summary": "IT之家 10 月 2 日消息，绿联现已在京东上架一款 45W 自带双线带屏 20000mAh 移动电源，该产品采用 3C + 1A 设计，定价为 269 元。京东绿联 45W 快充 20000 毫安自带伸缩线移动电源券后 269 元领 30 元券该产品重量 447g，符合 2026 新国标，采用银色外观，彩屏和充电接",
+   "link": "https://www.ithome.com/1/009/337.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 18:14",
+   "ts": 1790936063
   },
   {
    "id": "870ee3e100910f82bf7d1704d1bd996e",
@@ -51,6 +117,58 @@
    "urgent": false,
    "fetched_at": "10-02 18:10",
    "ts": 1790935800
+  },
+  {
+   "id": "026b7c8a5a449b9840755e052b3edcea",
+   "title": "腾讯 WorkBuddy 内置模型独家支持 Space Bunny",
+   "summary": "IT之家 10 月 2 日消息，腾讯 WorkBuddy 今日宣布内置模型独家支持 Space Bunny。据介绍，Space Bunny 是一款匿名 Flash 大模型，具备极速推理、强大的编码能力，原生支持文本、图像、视频输入，思考深度可调，上下文长达 1M。WorkBuddy 国内独家接入，2026 年 10 月",
+   "link": "https://www.ithome.com/1/009/335.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-02 18:05",
+   "ts": 1790935519
+  },
+  {
+   "id": "8b89fede79dae9e0d4cd33c88c169acf",
+   "title": "Huawei Mate 90 Pro Max will let you use three SIMs simultaneously",
+   "summary": "Ever wished you could use three SIMs simultaneously on your phone? You can do just that with Huawei’s latest flagship phone, the Mate 90 Pro Max. Huawei launche",
+   "link": "https://www.gsmarena.com/huawei_mate_90_pro_max_will_let_you_use_three_sims_simultaneously-news-74872.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 18:05",
+   "ts": 1790935502
+  },
+  {
+   "id": "ada6b3f674b923a101a0a12547bf1873",
+   "title": "安全公司曝光新型 macOS 恶意木马 CloudSyncD，通过伪装成 Zoom 安装程序传播",
+   "summary": "IT之家 10 月 2 日消息，安全公司 Jamf Threat Labs 发文，透露业界目前出现一种名为 CloudSyncD 的新型 macOS 恶意木马。该木马主要伪装成 Zoom 会议软件的安装程序，通过所谓的“安装说明”诱导用户关闭 macOS 内置的 Gatekeeper 安全机制、输入管理员密码。一旦用户",
+   "link": "https://www.ithome.com/1/009/334.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 18:04",
+   "ts": 1790935490
+  },
+  {
+   "id": "88cc82ea34b0671ba0f4d19f0ad07db9",
+   "title": "4 major reasons you won’t catch me using Meta’s Muse",
+   "summary": "As much as I love AI, it's hard to trust it in its current state, and that goes double for Muse.",
+   "link": "https://www.androidauthority.com/meta-muse-why-avoid-3714199/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 18:00",
+   "ts": 1790935209
   },
   {
    "id": "42cd08277a666fc2e05b522651656d9f",
@@ -209,6 +327,19 @@
    "ts": 1790933430
   },
   {
+   "id": "19def8b5793a20eb5c685b9b1b4dd6c4",
+   "title": "本周看什么 | 最近值得一看的 8 部作品",
+   "summary": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ...查看全文",
+   "link": "https://sspai.com/post/115211",
+   "source": "少数派",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 17:30",
+   "ts": 1790933400
+  },
+  {
    "id": "b5deec880bc368ff86d469726ef744ae",
    "title": "苹果 Apple Arcade 订阅服务新增 5 款游戏：含《Terraria+》《Pusheen's Place》等",
    "summary": "IT之家 10 月 2 日消息，苹果宣布为旗下 Apple Arcade 订阅服务新增 5 款游戏，其中 2 款为 Arcade 订阅服务独占作品，另外 3 款是已登陆 App Store 的作品，对应的 Arcade 订阅版本为“无广告、无内购”模式。其中，《Pusheen's Place》为 Apple Arcad",
@@ -300,19 +431,6 @@
    "ts": 1790931657
   },
   {
-   "id": "591cf9824c60a0bfac725f64dcf0dd1c",
-   "title": "美国三大移动运营商将成立合资企业，利用卫星技术改善偏远地区网络覆盖",
-   "summary": "IT之家 10 月 2 日消息，美国三大移动运营商 AT&amp;T、T-Mobile 和 Verizon 宣布达成合作意向，计划成立一家合资企业，通过卫星技术识别并改善美国各地的网络覆盖盲区，重点解决偏远及农村地区的连接问题。AT&amp;T 表示，这项合作旨在提升美国偏远地区以及网络服务不足社区的覆盖范围和连接质量",
-   "link": "https://www.ithome.com/1/009/320.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 16:58",
-   "ts": 1790931536
-  },
-  {
    "id": "fe3c9a1f9d16378020f2054152cd39e6",
    "title": "Avengers: Secret Wars Filming Delay Reports Spark Concern That Marvel's Multiverse Saga Finale May Be Postponed",
    "summary": "Reports of an Avengers: Secret Wars filming delay have sparked concern among Marvel fans that the movie's release date could be pushed back.",
@@ -324,32 +442,6 @@
    "urgent": false,
    "fetched_at": "10-02 16:48",
    "ts": 1790930892
-  },
-  {
-   "id": "24edc6ac2cecc9dc6101ab7073059299",
-   "title": "比亚迪日本市场专属纯电 K-Car“海獭”Racco 上市 2 个月，累计订单超 1800 辆",
-   "summary": "IT之家 10 月 2 日消息，据日媒 Mynavi News 报道，比亚迪为日本市场推出的专属纯电 K-Car“海獭”Racco 最新销售数据现已出炉。比亚迪海獭是比亚迪于 2026 年 7 月 28 日在日本市场正式推出的纯电 K-Car，全系共推出以下 3 款配置车型：200：续航 210 km（电池容量 22.",
-   "link": "https://www.ithome.com/1/009/318.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-02 16:44",
-   "ts": 1790930653
-  },
-  {
-   "id": "95ea7d8810c6a5928f5a1454b2ef77b7",
-   "title": "小鹏 MONA L03 车型 9 月交付超 14,000 台，年轻用户占比过半",
-   "summary": "IT之家 10 月 2 日消息，小鹏汽车今日宣布 MONA L03 车型 9 月交付超 14,000 台，年轻用户占比过半，一线 / 新一线 / 二线城市达七成；超九成订单选择 Max / Ultra SE，辅助驾驶里程累积超 7 亿公里。据此前官方公布信息，9 月，小鹏集团共交付新车 41,256 台，环比增长 5 ",
-   "link": "https://www.ithome.com/1/009/317.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 16:42",
-   "ts": 1790930537
   },
   {
    "id": "e4f8c23dff2ff93010efd20aeb07751b",
@@ -445,7 +537,7 @@
   {
    "id": "3970b6d76487b8362ec16406910ed92f",
    "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 8\n# Comments: 2",
+   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 16\n# Comments: 3",
    "link": "https://github.com/kvoltmer/Audionaut",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -729,22 +821,9 @@
    "ts": 1790919060
   },
   {
-   "id": "1c927ebf9433f8041deeb90d532735ac",
-   "title": "Mercedes reveal major Malaysia upgrades",
-   "summary": "Sky Sports' Bernie Collins takes a look at Mercedes upgrades as they head into the Bahrain Grand Prix in Malaysia.",
-   "link": "https://www.skysports.com/watch/video/13594198/bahrain-gp-in-malaysia-mercedes-reveal-upgrades",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 13:26",
-   "ts": 1790918760
-  },
-  {
    "id": "af33b5bbab24e50b74e293ed13a06c4b",
    "title": "Shimano Bicycle Museum Review",
-   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 96\n# Comments: 13",
+   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 116\n# Comments: 17",
    "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -844,6 +923,19 @@
    "urgent": false,
    "fetched_at": "10-02 12:50",
    "ts": 1790916623
+  },
+  {
+   "id": "71f113bbf5a23dfe99ee6c93219e2232",
+   "title": "Building reliable (and fast) directory sync",
+   "summary": "Article URL: https://www.firezone.dev/blog/building-reliable-directory-sync\nComments URL: https://news.ycombinator.com/item?id=49929925\nPoints: 10\n# Comments: 0",
+   "link": "https://www.firezone.dev/blog/building-reliable-directory-sync",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 12:45",
+   "ts": 1790916336
   },
   {
    "id": "8ba93ba27fe0156cb94f0476b8ab8376",
@@ -991,7 +1083,7 @@
   {
    "id": "edd38f0a71d7d06b77bf24a69b2e893c",
    "title": "DeepSeek Harness Desktop for macOS and Windows",
-   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 233\n# Comments: 118",
+   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 243\n# Comments: 120",
    "link": "https://www.deepseek.com/en/harness/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1314,6 +1406,32 @@
    "ts": 1790899200
   },
   {
+   "id": "7cf669f8037bae4d6ce4b0d1bf900d4b",
+   "title": "Stunning fossil shows dinosaurs' distinctive path to flight",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8A fossil from a previously undiscovered species with feathery limbs, unearthed in China",
+   "link": "https://www.nature.com/articles/d41586-026-03126-8",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
+  },
+  {
+   "id": "7427853c4b9b7e4f7df8d642639906a6",
+   "title": "Von Neumann’s party",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02976-6A tricky question.",
+   "link": "https://www.nature.com/articles/d41586-026-02976-6",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
+  },
+  {
    "id": "5e7763362b98aad22ef0446984906849",
    "title": "Welcome to Opt Out October: It’s Time to Ditch Unwanted Subscriptions and AI Spies",
    "summary": "It’s a good month to reassess old accounts and retake control of your data and privacy.",
@@ -1366,19 +1484,6 @@
    "ts": 1790897312
   },
   {
-   "id": "948a1b162deed7e93dfb610cabc5dfc4",
-   "title": "Halle Berry Accused of Child Abuse by Ex Olivier Martinez, Who Is Seeking a Restraining Order",
-   "summary": "Halle Berry is being accused of abusing her 12-year-old son by her ex-husband, actor Olivier Martinez, who has filed a petition for a temporary restraining orde",
-   "link": "https://variety.com/2026/film/news/halle-berry-accused-child-abuse-restraining-order-1236897135/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 07:16",
-   "ts": 1790896607
-  },
-  {
    "id": "776b7e60ed550d9b982d3845224615b7",
    "title": "Butterflies use optical illusions to dodge predators",
    "summary": "Article URL: https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators\nComments URL: https://news.ycombinator.com/item?id=499",
@@ -1394,7 +1499,7 @@
   {
    "id": "69f5cac8b7bca0cbd956b727558e2ef6",
    "title": "Several vulnerabilities have been discovered in the Linux kernel",
-   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 299\n# Comments: 217",
+   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 318\n# Comments: 230",
    "link": "https://lwn.net/Articles/1097401/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1498,7 +1603,7 @@
   {
    "id": "43305a99e92c3a3a916d33ae355c222b",
    "title": "Frog and Toad and the Increasingly Capable Machines",
-   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 164\n# Comments: 35",
+   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 179\n# Comments: 39",
    "link": "https://www.frogandtoad.ai/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1602,7 +1707,7 @@
   {
    "id": "98ff326da4f4d4c7734c537ba1eae2b5",
    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 107\n# Comments: 27",
+   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 112\n# Comments: 28",
    "link": "https://www.cssbed.com",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1758,7 +1863,7 @@
   {
    "id": "8d66002cff67fee089a9c713e47aeea2",
    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
-   "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 14",
+   "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 15",
    "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1784,7 +1889,7 @@
   {
    "id": "f2857a36fd3d01c62f9b071142c9551b",
    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 75\n# Comments: 14",
+   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 77\n# Comments: 14",
    "link": "https://github.com/Vibra-Ingenn/Janus",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1797,7 +1902,7 @@
   {
    "id": "2db2cf103b6129cf70e8e3750043dc85",
    "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 188\n# Comments",
+   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 194\n# Comments",
    "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1806,19 +1911,6 @@
    "urgent": false,
    "fetched_at": "10-02 04:23",
    "ts": 1790886207
-  },
-  {
-   "id": "8578475db21f5cc67df9930f18a9a99c",
-   "title": "SvelteKit 3",
-   "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 274\n# Comments: 96",
-   "link": "https://svelte.dev/blog/sveltekit-3-is-here",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 04:14",
-   "ts": 1790885663
   },
   {
    "id": "d7f0d7f0213b657a4d6d99db765644e9",
@@ -1845,19 +1937,6 @@
    "urgent": false,
    "fetched_at": "10-02 03:47",
    "ts": 1790884071
-  },
-  {
-   "id": "1e09193eb21dee55da3f0601f6da8156",
-   "title": "T-Mobile’s next plans could give customers more ways to mix things up",
-   "summary": "Three new tiers could arrive alongside a fresh approach to perks.",
-   "link": "https://www.androidauthority.com/t-mobile-t-mix-plans-leak-3718145/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 03:45",
-   "ts": 1790883951
   },
   {
    "id": "6f0e430e04bf9844f433f77b7229e1be",
@@ -1949,19 +2028,6 @@
    "urgent": false,
    "fetched_at": "10-02 03:07",
    "ts": 1790881668
-  },
-  {
-   "id": "6519b30214a9f5637b8e5ffde1fbaf97",
-   "title": "Got Google Play Points? Play Fest will let you turn them into swag, premium gear, and big prizes",
-   "summary": "Google Play is throwing a celebration that could net you some cool prizes.",
-   "link": "https://www.androidauthority.com/google-play-fest-3718139/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 03:07",
-   "ts": 1790881631
   },
   {
    "id": "d5fa35003acea65ea81e3b089cb4b0e2",
@@ -2263,19 +2329,6 @@
    "ts": 1790873619
   },
   {
-   "id": "3f04dd2c087bc6ac623a60331f5354a6",
-   "title": "Honor Magic9 Lite+ is on the way, here are its main specs",
-   "summary": "Honor unveiled the Magic9, Magic9 Super, and Magic9 Pro Max in China last month, and it seems like the company is still preparing at least one more member of th",
-   "link": "https://www.gsmarena.com/honor_magic9_lite_is_on_the_way_here_are_its_main_specs-news-74857.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 00:51",
-   "ts": 1790873462
-  },
-  {
    "id": "b24094434842c42c2600dc586bc752f3",
    "title": "Amazon releases its own Jev clone as decision models flood the web",
    "summary": "Amazon Web Services' Strand Labs has released the latest Jevalike decision model, Strands Decider 2B.",
@@ -2560,58 +2613,6 @@
    "urgent": true,
    "fetched_at": "10-01 22:37",
    "ts": 1790865423
-  },
-  {
-   "id": "3bda382274fd19520ac023dbd9c09053",
-   "title": "Aptera (SEV) now says it needs $25M to start production, stock drops 15%",
-   "summary": "Aptera (SEV) now says it needs only about $25 million to start production of its Solar EV, down from the $40 to $45 million it quoted just seven weeks ago.\n\n\n\nI",
-   "link": "https://electrek.co/2026/10/01/aptera-sev-cuts-production-capital-25-million-stock-drops/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 22:19",
-   "ts": 1790864352
-  },
-  {
-   "id": "70b145ea7ac1e3f16b7ffc04eaad3743",
-   "title": "Kia’s new EV3 is just getting started after 500+ first-month sales",
-   "summary": "With the 2027 EV3 now on sale and another record sales quarter, Kia said it’s “the brand to watch” in 2027.\n\n\n\n more…",
-   "link": "https://electrek.co/2026/10/01/kias-new-ev3-just-getting-started-500-first-month-sales/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 22:15",
-   "ts": 1790864121
-  },
-  {
-   "id": "c89a48fff933732eaa2f3dc1964aa9fc",
-   "title": "How to Stop Your Android App from Draining the Battery with Wake Locks",
-   "summary": "A wake lock is one of the simplest APIs in Android and one of the easiest to misuse. Acquiring one takes a single line of code. Forgetting to release it can kee",
-   "link": "https://www.freecodecamp.org/news/how-to-stop-your-android-app-from-draining-the-battery-with-wake-locks/",
-   "source": "freeCodeCamp",
-   "channel": "教程",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 22:15",
-   "ts": 1790864111
-  },
-  {
-   "id": "8c87a185dad3895ea70ed6a75c4ed7ea",
-   "title": "STAT+: A major insurer on how it may replicate Medicare’s chronic-care experiment",
-   "summary": "In this edition of STAT Health Tech: A California insurer on how it may replicate Medicare's tech-enabled chronic-care experiment.",
-   "link": "https://www.statnews.com/2026/10/01/major-insurer-on-medicare-access-model-health-tech/?utm_campaign=rss",
-   "source": "STAT News",
-   "channel": "健康",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 22:02",
-   "ts": 1790863371
   }
  ]
 }
