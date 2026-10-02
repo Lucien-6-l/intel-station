@@ -498,9 +498,29 @@ function resEl(title,snippet,source,url,tag){
 }
 
 /* ---------- boot ---------- */
+function reRender(){
+  if($('#main') && $('#main').classList.contains('on')){ buildHome(); buildTopics(); }
+}
 if(cfg.onboarded && cfg.subs && cfg.subs.length){ startApp(); }
 else { renderOb(); }
 renderSearchHome();
+
+/* ---------- \u52a8\u6001\u8bfb\u53d6\u6700\u65b0\u6570\u636e\uff08\u4e91\u7aef\u90e8\u7f72\u540e\u81ea\u52a8\u751f\u6548\uff09 ---------- */
+(function loadLive(){
+  if(location.protocol==='file:') return;   /* \u672c\u5730\u53cc\u51fb\u6253\u5f00\u65f6\u4f7f\u7528\u5185\u7f6e\u5feb\u7167 */
+  fetch('./data.json?t='+Date.now(),{cache:'no-store'})
+    .then(function(r){ if(!r.ok) throw new Error(r.status); return r.json(); })
+    .then(function(d){
+      if(d && d.items && d.items.length){
+        DATA=d.items;
+        META={updated_at:d.updated_at,total:d.total,channels:d.channels||META.channels};
+        reRender();
+        var mu=document.getElementById('meUpdated'); if(mu) mu.textContent=(d.updated_at||'')+' \u66f4\u65b0';
+        var mt=document.getElementById('meTotal'); if(mt) mt.textContent=(d.total||DATA.length)+' \u6761';
+      }
+    })
+    .catch(function(){});
+})();
 </script>
 </body>
 </html>
