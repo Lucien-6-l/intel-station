@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 02:04",
+ "updated_at": "2026-10-03 02:41",
  "total": 283,
  "channels": [
   "AI·科技",
@@ -15,6 +15,45 @@
  ],
  "items": [
   {
+   "id": "2d05a3a730fb88187c4fb8c7bbb06b8b",
+   "title": "World Grand Prix LIVE! Aspinall leads first QF before Price vs Clayton",
+   "summary": "",
+   "link": "https://www.skysports.com/darts/live-blog/12040/13594445/world-grand-prix-darts-live-latest-scores-updates-highlights-as-luke-humphries-gerwyn-price-james-wade-in-quarter-final-action",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:25",
+   "ts": 1790969100
+  },
+  {
+   "id": "67e69264e8936983f0ff1695ea45085b",
+   "title": "City sponsor's 2015 statement to US government raises questions about appeal strategy",
+   "summary": "Manchester City&#8217;s strategy in their bid to clear their name after being found guilty of breaking more than 100 of the Premier League's rules has been brou",
+   "link": "https://www.skysports.com/football/news/12040/13594496/man-city-appeal-clubs-strategy-brought-into-question-by-2015-statement-main-sponsor-etihad-airways-submitted-to-us-government",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:20",
+   "ts": 1790968800
+  },
+  {
+   "id": "51585becf0cf6346d19ab950da7ee657",
+   "title": "Djokovic battles through fitness issues to produce resilient China Open comeback",
+   "summary": "Novak Djokovic again appeared to struggle with fitness issues as he came from behind to avoid a second-round exit to world No 104 Yunchaokete Bu at the China Op",
+   "link": "https://www.skysports.com/tennis/news/12040/13594284/china-open-and-japan-open-novak-djokovic-aryna-sabalenka-and-naomi-osaka-all-advance-as-katie-boulter-knocked-out",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:50",
+   "ts": 1790967000
+  },
+  {
    "id": "13bf8794c94b8881a324eea952043e85",
    "title": "Is Littler heading to Minehead? World No 1 to headline World Youth Championships",
    "summary": "World No 1 and former champion Luke Littler will headline the list of Tour Card Holders and International Qualifiers competing in Monday's Winmau World Youth Ch",
@@ -28,17 +67,160 @@
    "ts": 1790966880
   },
   {
-   "id": "2d05a3a730fb88187c4fb8c7bbb06b8b",
-   "title": "World Grand Prix LIVE! Aspinall in first QF before Price vs Clayton",
-   "summary": "",
-   "link": "https://www.skysports.com/darts/live-blog/12040/13594445/world-grand-prix-darts-live-latest-scores-updates-highlights-as-luke-humphries-gerwyn-price-james-wade-in-quarter-final-action",
-   "source": "Sky Sports",
-   "channel": "体育",
+   "id": "65e21dc568e470c74d507439093a9987",
+   "title": "RCS misbehaving in Messages? Google says a fix is on the way",
+   "summary": "It may still take a couple weeks to hit your device.",
+   "link": "https://www.androidauthority.com/messages-rcs-fix-3718661/",
+   "source": "Android Authority",
+   "channel": "数码",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-03 02:30",
-   "ts": 1790965800
+   "fetched_at": "10-03 02:37",
+   "ts": 1790966230
+  },
+  {
+   "id": "ac28bc00c097e99850d26af4899cb13d",
+   "title": "Apple says it’s tightening macOS privacy controls amid the rise of AI agents",
+   "summary": "Amid the rapid rise in AI agents requesting “Full Disk Access” to your Mac, Apple says it is making changes to macOS to protect user privacy.\n\n\n\nWhile the compa",
+   "link": "https://9to5mac.com/2026/10/02/apple-says-its-tightening-macos-privacy-controls-amid-the-rise-of-ai-agents/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:34",
+   "ts": 1790966046
+  },
+  {
+   "id": "6d4eb66f064a197b212db8ebbf6950b4",
+   "title": "Future Electric Vehicles: The EVs You'll Soon Be Able to Buy",
+   "summary": "These EVs aren't for sale yet but are in various stages from concept to production—and perhaps a few may never see the light of day.",
+   "link": "https://www.caranddriver.com/news/g29994375/future-electric-cars-trucks/",
+   "source": "Car and Driver",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:31",
+   "ts": 1790965866
+  },
+  {
+   "id": "ab536d02d64952a084b09d8d905e8c87",
+   "title": "HomeKit Weekly: Home Widget 1.10 is the fastest way to check every HomeKit camera at once",
+   "summary": "The Home app is a great place to configure your smart home, but it can be slow to control. The tab structure and room hierarchy make sense when you’re setting t",
+   "link": "https://9to5mac.com/2026/10/02/home-widget-1-10-is-the-fastest-way-to-check-every-homekit-camera-at-once/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:31",
+   "ts": 1790965860
+  },
+  {
+   "id": "abe0a358394ed68ceffd63eab628167b",
+   "title": "Audible has three new features to give you a deeper connection to your stories",
+   "summary": "Audible's new features will let you talk to characters, keep track of the cast, and provide visual context.",
+   "link": "https://www.androidauthority.com/audible-character-guide-visual-explorer-interactive-story-3718603/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:29",
+   "ts": 1790965761
+  },
+  {
+   "id": "ff1e16d2fec835c2fee18e00524ae13d",
+   "title": "Chrome on Android’s password autofill could soon require a biometric test",
+   "summary": "Revisiting an old idea.",
+   "link": "https://www.androidauthority.com/chrome-android-biometric-password-autofill-3718614/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:25",
+   "ts": 1790965541
+  },
+  {
+   "id": "8f8c5054e3c88e8dc501fb1186e153eb",
+   "title": "Rogers Closes $3.1 Billion Maple Leafs Sports Stake Acquisition, Keith Pelley to Return as Media Head",
+   "summary": "The Canadian cable TV and telco giant picked up the remaining 25 percent stake it did not already own to take full control of the company behind the Toronto Map",
+   "link": "https://www.hollywoodreporter.com/business/business-news/rogers-maple-leafs-sports-acquisition-1236721085/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:24",
+   "ts": 1790965459
+  },
+  {
+   "id": "c68f22b515e4fcbdfb4c70541a9eb537",
+   "title": "The world’s tallest wind turbine just reached 1,197 feet",
+   "summary": "The world’s tallest wind turbine has reached its full height in Germany, and its developer says the extra altitude could roughly double its electricity output.\n",
+   "link": "https://electrek.co/2026/10/02/the-worlds-tallest-wind-turbine-just-reached-1197-feet/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:21",
+   "ts": 1790965262
+  },
+  {
+   "id": "d131e73126efba72022bec47481f2a6f",
+   "title": "Skydance Is a Decent Name, It’s Just Weaker Than Paramount or Warner Bros.",
+   "summary": "David Ellison's decision to eclipse two iconic names with his own company arguably declares \"I won\" at the expense of a century of brand value. But how much the",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/skydance-paramount-warner-bros-name-1236720868/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:16",
+   "ts": 1790965001
+  },
+  {
+   "id": "b9e591dfb17f6c9890c436073dd44267",
+   "title": "Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter [Updated]",
+   "summary": "Update, October 2: Many of you have asked for a full vehicle compatibility list for the Twelve South Airfly Drive. Our friends over at 9to5Toys have just publis",
+   "link": "https://9to5mac.com/2026/10/02/twelve-south-launches-tiny-new-airfly-drive-wireless-carplay-adapter/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 02:15",
+   "ts": 1790964926
+  },
+  {
+   "id": "9e1b17cbb5c06886312eb20c9d43f58a",
+   "title": "‘Lady’ Review: Sian Clifford Lords It Over a Daffy English Class Satire",
+   "summary": "It&#8217;s easy to poke fun at the English upper classes, but that&#8217;s no reason not to do it. Amid continued social inequality in the U.K., the extreme wea",
+   "link": "https://variety.com/2026/film/news/lady-review-2-1236897472/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:15",
+   "ts": 1790964918
+  },
+  {
+   "id": "a551a6449ab9e48f741873a8e0df9503",
+   "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
+   "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, m",
+   "link": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:11",
+   "ts": 1790964687
   },
   {
    "id": "2279fb83c94165d9c73a6231e8116762",
@@ -160,7 +342,7 @@
   {
    "id": "0cdc00acafe92528a17d3fc12b89a71d",
    "title": "Breaking up (with Elon Musk) is hard to do",
-   "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of four of her children, Elon Musk, had broken up on X. To do so,",
+   "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, sh",
    "link": "https://www.theverge.com/tech/1004177/elon-musk-unfollows-shivon-zilis",
    "source": "The Verge",
    "channel": "AI·科技",
@@ -497,8 +679,8 @@
   },
   {
    "id": "b891c4c19e20a7397f065c49ad2d00a7",
-   "title": "Dutch Computer Museums",
-   "summary": "Article URL: https://aresluna.org/dutch-computer-museums/\nComments URL: https://news.ycombinator.com/item?id=49935751\nPoints: 52\n# Comments: 13",
+   "title": "Dutch computer museums (2022)",
+   "summary": "Article URL: https://aresluna.org/dutch-computer-museums/\nComments URL: https://news.ycombinator.com/item?id=49935751\nPoints: 65\n# Comments: 16",
    "link": "https://aresluna.org/dutch-computer-museums/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -966,7 +1148,7 @@
   {
    "id": "91fad254853a6d9555a5ffc82cbf9745",
    "title": "Supabase is acquiring Turso",
-   "summary": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 136\n# Comments: 71",
+   "summary": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 147\n# Comments: 78",
    "link": "https://supabase.com/blog/supabase-is-acquiring-turso",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1094,19 +1276,6 @@
    "ts": 1790955300
   },
   {
-   "id": "02cb69d1ca043ee5d60df149b4228e47",
-   "title": "TV Premiere Dates 2026: The Complete Guide",
-   "summary": "A comprehensive, frequently updated list of start dates for series and specials on streaming, broadcast and cable.",
-   "link": "https://www.hollywoodreporter.com/lists/2026-tv-premiere-dates-calendar/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:32",
-   "ts": 1790955133
-  },
-  {
    "id": "995f901260ea87c277894aa8d2c8c775",
    "title": "Laytr’s new app lets you save anything you find online, not just articles to read",
    "summary": "Laytr lets you save articles, recipes, screenshots, videos, PDFs, and more for later, while keeping your archive private and synced across your Apple devices.",
@@ -1159,19 +1328,6 @@
    "ts": 1790955000
   },
   {
-   "id": "9d4aed204a4e3ad0f49e5beb3ae97070",
-   "title": "Eminem Teams With NERDS Clothing for Original Video Game, New Streetwear Collab Out of New York Comic Con (EXCLUSIVE)",
-   "summary": "Eminem will release a limited-edition merch collection with streetwear and pop culture brand NERDS Clothing during New York Comic Con next week, including the l",
-   "link": "https://variety.com/2026/gaming/news/eminem-nerds-clothing-merch-marshalls-massacre-video-game-1236897557/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:30",
-   "ts": 1790955000
-  },
-  {
    "id": "a35033c9b82bc7641cb8a07eb0aee47e",
    "title": "Marshall Major V drops to only $89.99 at Amazon — just $2 shy of its all-time low",
    "summary": "Save 31% on the Marshall Major V at Amazon and get stylish on-ear headphones with wireless charging and multipoint.",
@@ -1198,19 +1354,6 @@
    "ts": 1790954752
   },
   {
-   "id": "d235db228d8a7974dea167b249777fd8",
-   "title": "Power approval set to delay Oracle's Wisconsin AI datacenter",
-   "summary": "Article URL: https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832\nComments URL: https://news.ycomb",
-   "link": "https://www.theregister.com/on-prem/2026/10/02/power-approval-set-to-delay-oracles-wisconsin-ai-datacenter/5300832",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:24",
-   "ts": 1790954694
-  },
-  {
    "id": "93fce91ce6f5027686fa755e281c99bb",
    "title": "The Steam Autumn Sale for 2026 Is Now Live, and We Found the Best Deals",
    "summary": "The Steam Autumn Sale 2026 is officially live. What games are you picking up?",
@@ -1235,19 +1378,6 @@
    "urgent": false,
    "fetched_at": "10-02 23:17",
    "ts": 1790954236
-  },
-  {
-   "id": "cf238afa441647121bdd5c0b92f9e5a2",
-   "title": "Jesse Jo Stark and Deadly Doll Sign With BMG",
-   "summary": "The singer recently announced her upcoming album 'Muse,' due out next month.",
-   "link": "https://www.hollywoodreporter.com/music/music-news/jesse-jo-stark-deadly-doll-sign-with-bmg-1236720915/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:16",
-   "ts": 1790954180
   },
   {
    "id": "46c2e25c8ad83042cddfef65afc14090",
@@ -1277,7 +1407,7 @@
   },
   {
    "id": "91df8be2dec4dcf5a86a0909a85f0ad7",
-   "title": "How to Trade in a Car in 5 Steps",
+   "title": "How to Trade In a Car in 5 Steps",
    "summary": "Follow these steps to get the best offer for your car at trade-in.",
    "link": "https://www.caranddriver.com/auto-loans/a42414553/how-to-trade-in-car/",
    "source": "Car and Driver",
@@ -1406,21 +1536,8 @@
    "ts": 1790952466
   },
   {
-   "id": "fcc10ed93c89775773576058d19853f7",
-   "title": "Sabalenka cruises past Zarazua at China Open",
-   "summary": "Highlights of the China Open match between Renata Zarazua and Aryna Sabalenka.",
-   "link": "https://www.skysports.com/watch/video/13594419/renata-zarazua-vs-aryna-sabalenka-china-open-highlights",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:44",
-   "ts": 1790952240
-  },
-  {
    "id": "14971da0c2eb09224e8874d582fb3005",
-   "title": "Gemini has lost interest in answering your questions on Android Auto",
+   "title": "Gemini has lost interest in answering your questions on Android Auto (Update)",
    "summary": "Gemini on Android Auto has forgotten how to answer questions.",
    "link": "https://www.androidauthority.com/android-auto-gemini-search-bug-3718572/",
    "source": "Android Authority",
@@ -1447,7 +1564,7 @@
   {
    "id": "1e7253b3995320cba4845250eb117e13",
    "title": "Fixing GRPO's credit assignment problem without evaluating every step",
-   "summary": "Article URL: https://arxiv.org/abs/2609.36178\nComments URL: https://news.ycombinator.com/item?id=49934012\nPoints: 17\n# Comments: 2",
+   "summary": "Article URL: https://arxiv.org/abs/2609.36178\nComments URL: https://news.ycombinator.com/item?id=49934012\nPoints: 19\n# Comments: 3",
    "link": "https://arxiv.org/abs/2609.36178",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1510,19 +1627,6 @@
    "ts": 1790951345
   },
   {
-   "id": "4ffb6315ff61fbb786ee7d56f9929dc4",
-   "title": "Boulter loses out to Muchova in China after dominant second set",
-   "summary": "Highlights of the China Open match between Katie Boulter and Karolina Muchova.",
-   "link": "https://www.skysports.com/watch/video/13594414/katie-boulter-vs-karolina-muchova-china-open-highlights",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:25",
-   "ts": 1790951100
-  },
-  {
    "id": "fcddbcfe994f9fdf3ee3ee1970bb8af5",
    "title": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000",
    "summary": "Congo's Ebola outbreak has killed more than 4,000 people, authorities said, as they struggle to contain what has become the fastest-growing Ebola outbreak in hi",
@@ -1560,6 +1664,19 @@
    "urgent": false,
    "fetched_at": "10-02 22:19",
    "ts": 1790950773
+  },
+  {
+   "id": "0c809ece3a48d001fb10a1fc65ef08c0",
+   "title": "With most information hidden, the game Stratego had stumped AI–until now",
+   "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 3\n# Comm",
+   "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:11",
+   "ts": 1790950284
   },
   {
    "id": "4f296b05fceeb2f881b4bfffad0b11da",
@@ -1759,7 +1876,7 @@
   {
    "id": "07faf3115454d107cbb9c43496c13aa8",
    "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
-   "summary": "Article URL: https://www.kapa.ai/blog/company-knowledge-bench\nComments URL: https://news.ycombinator.com/item?id=49933381\nPoints: 18\n# Comments: 1",
+   "summary": "Article URL: https://www.kapa.ai/blog/company-knowledge-bench\nComments URL: https://news.ycombinator.com/item?id=49933381\nPoints: 22\n# Comments: 2",
    "link": "https://www.kapa.ai/blog/company-knowledge-bench",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1768,32 +1885,6 @@
    "urgent": false,
    "fetched_at": "10-02 21:37",
    "ts": 1790948238
-  },
-  {
-   "id": "f8e833319d1ed8dc7edf9c26d7746686",
-   "title": "iOS 27 gives Apple Photos two features we’ve waited a long time for",
-   "summary": "iOS 27 is packed with new features for Apple’s Photos app, including two that have long been on many users’ wish lists: full-featured slideshow creation and upg",
-   "link": "https://9to5mac.com/2026/10/02/ios-27-gives-apple-photos-two-features-weve-waited-a-long-time-for/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:33",
-   "ts": 1790948018
-  },
-  {
-   "id": "1dfc8384fa57ec1729ba0aa5fc9bbc2c",
-   "title": "Visible will knock $5 off your phone bill for the next five years",
-   "summary": "New switchers can lock in a lower monthly rate through 2031.",
-   "link": "https://www.androidauthority.com/visible-five-years-promo-3718372/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:30",
-   "ts": 1790947849
   },
   {
    "id": "13ee2f22b14c4c7a66ff7d66c726b139",
@@ -1820,45 +1911,6 @@
    "urgent": false,
    "fetched_at": "10-02 21:26",
    "ts": 1790947587
-  },
-  {
-   "id": "036e57f8f416694b7e9bfd14f304cadd",
-   "title": "Bose Smart Ultra Soundbar gets a 32% early sale price drop",
-   "summary": "Bose Smart Ultra Soundbar drops to $679 at Amazon, its best price of 2026 so far for Dolby Atmos and clearer dialogue.",
-   "link": "https://www.androidauthority.com/bose-smart-ultra-soundbar-prime-deal-3717578/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:26",
-   "ts": 1790947578
-  },
-  {
-   "id": "f1365f13acc8a899acf1636a35f909ae",
-   "title": "Medical records giant Epic pauses product development to fix security bugs that risk patients’ data",
-   "summary": "The health tech software giant, which makes the widely used MyChart system for accessing medical data, will focus on fixing security bugs for the next few weeks",
-   "link": "https://techcrunch.com/2026/10/02/medical-records-giant-epic-pauses-product-development-to-fix-security-bugs-that-risk-patients-data/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:23",
-   "ts": 1790947389
-  },
-  {
-   "id": "67a8ed3b4c1c9b6541c16567f3938738",
-   "title": "Samsung’s Galaxy A series just got hit with steep price hikes in the US",
-   "summary": "How does $600 for a Galaxy A57 5G sound?",
-   "link": "https://www.androidauthority.com/samsung-galaxy-a-series-phones-price-hike-3718522/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:22",
-   "ts": 1790947343
   },
   {
    "id": "ca113c91616fe30921e24960dc92d292",
@@ -1915,7 +1967,7 @@
   {
    "id": "c3fbcb89a06a7880e80a7dea098e3f7b",
    "title": "The Legend of von Neumann (1973) [pdf]",
-   "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 169\n# Comments: 96",
+   "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 188\n# Comments: 99",
    "link": "https://gwern.net/doc/math/1973-halmos.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1991,19 +2043,6 @@
    "ts": 1790946496
   },
   {
-   "id": "30a7e5bb1c21733bbf90ceb322b7b8b5",
-   "title": "iOS 27 adds four new ways to customize your iPhone’s Lock Screen",
-   "summary": "iOS 27 continues Apple’s trend of giving you more control over the design of your iPhone’s Lock Screen. This year, there are new customization options, wallpape",
-   "link": "https://9to5mac.com/2026/10/02/ios-27-lock-screen-customization/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:00",
-   "ts": 1790946005
-  },
-  {
    "id": "3cd87b9fcc1cbd5edc43c5b3e326e568",
    "title": "Rivian continues to ramp with R2 even as EV market growth slows",
    "summary": "Rivian posted its third-quarter production and delivery numbers this morning and, with the R2, remains on track to meet its annual targets despite some headwind",
@@ -2015,19 +2054,6 @@
    "urgent": false,
    "fetched_at": "10-02 20:37",
    "ts": 1790944660
-  },
-  {
-   "id": "3f63bbab1267d1df0b47fc6f267811c1",
-   "title": "AT&T claims iOS 27.0.1 fixes iPhone 18 Pro Max cellular issues, but users disagree [U]",
-   "summary": "Since the iPhone 18 Pro Max launched, some AT&amp;T customers have complained of various connectivity issues.\n\n\n\nIn a new text message to customers, AT&amp;T sa",
-   "link": "https://9to5mac.com/2026/10/02/att-claims-ios-27-0-1-fixes-iphone-18-pro-max-cellular-issues-but-users-disagree/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:27",
-   "ts": 1790944049
   },
   {
    "id": "3edff936663aa625257886ce1653a47e",
@@ -2212,6 +2238,19 @@
    "ts": 1790931803
   },
   {
+   "id": "2ba4983b47dd55f47d54b817cd648eb4",
+   "title": "Capcom RE:Dox, open source serialization/deserialization for game engines",
+   "summary": "Article URL: https://github.com/CAPCOM-TD-OSS/REDox\nComments URL: https://news.ycombinator.com/item?id=49931195\nPoints: 8\n# Comments: 2",
+   "link": "https://github.com/CAPCOM-TD-OSS/REDox",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 16:31",
+   "ts": 1790929908
+  },
+  {
    "id": "a3a51438a588b7fbf3feba7bcca4b6a3",
    "title": "STAT+: NIH awarded all its grant funding, but delayed and opaque decisions stymied researchers",
    "summary": "The NIH continued reducing grants involving health disparities, race, and ethnicity but made little progress toward other administration priorities in the 2026 ",
@@ -2266,7 +2305,7 @@
   {
    "id": "3970b6d76487b8362ec16406910ed92f",
    "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 121\n# Comments: 39",
+   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 124\n# Comments: 44",
    "link": "https://github.com/kvoltmer/Audionaut",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2396,7 +2435,7 @@
   {
    "id": "af33b5bbab24e50b74e293ed13a06c4b",
    "title": "Shimano Bicycle Museum Review",
-   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 266\n# Comments: 64",
+   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 271\n# Comments: 67",
    "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2485,17 +2524,17 @@
    "ts": 1790913661
   },
   {
-   "id": "edd38f0a71d7d06b77bf24a69b2e893c",
-   "title": "DeepSeek Harness Desktop for macOS and Windows",
-   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 372\n# Comments: 197",
-   "link": "https://www.deepseek.com/en/harness/",
+   "id": "ea1db4a298507dd6108e2f0dbac21e4f",
+   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
+   "summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q\nComments URL: https://news.ycombinator.com/item?id=49929391\nPoints: 7\n# Comments: 1",
+   "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
    "source": "Hacker News",
    "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-02 11:11",
-   "ts": 1790910680
+   "fetched_at": "10-02 10:51",
+   "ts": 1790909487
   },
   {
    "id": "afab8b61846c98ac0186e691fa2194f0",
@@ -2509,19 +2548,6 @@
    "urgent": false,
    "fetched_at": "10-02 10:00",
    "ts": 1790906400
-  },
-  {
-   "id": "22f60fdf6557cf69ab2e542daa932f79",
-   "title": "Nazi Germany had no hope of making an atomic bomb, uranium cubes reveal",
-   "summary": "Article URL: https://www.science.org/content/article/nazi-germany-had-no-hope-making-atomic-bomb-uranium-cubes-reveal\nComments URL: https://news.ycombinator.com",
-   "link": "https://www.science.org/content/article/nazi-germany-had-no-hope-making-atomic-bomb-uranium-cubes-reveal",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 09:29",
-   "ts": 1790904549
   },
   {
    "id": "fcc216a037999e253de2ec2d6c1ebf20",
@@ -2580,32 +2606,6 @@
    "title": "Nature has rights — it is time the world recognized them",
    "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03145-5Existing legal frameworks have not halted planetary crises. Recognizing the rights of n",
    "link": "https://www.nature.com/articles/d41586-026-03145-5",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-02 08:00",
-   "ts": 1790899200
-  },
-  {
-   "id": "0c703fe588e81f89db40206631e700cb",
-   "title": "Can you name the women who have won a science Nobel prize?",
-   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03133-9Take Nature’s quiz on female Nobel laureates in physics, chemistry and physiology or me",
-   "link": "https://www.nature.com/articles/d41586-026-03133-9",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-02 08:00",
-   "ts": 1790899200
-  },
-  {
-   "id": "7427853c4b9b7e4f7df8d642639906a6",
-   "title": "Von Neumann’s party",
-   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02976-6A tricky question.",
-   "link": "https://www.nature.com/articles/d41586-026-02976-6",
    "source": "Nature",
    "channel": "科学",
    "category": "资讯",
