@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 06:37",
+ "updated_at": "2026-10-03 07:02",
  "total": 283,
  "channels": [
   "AI·科技",
@@ -15,17 +15,56 @@
  ],
  "items": [
   {
-   "id": "e1c5e3ffe256f49d3330978ac3ff1645",
-   "title": "First a fly interrupts play, then a spider tries too!",
-   "summary": "It&#8217;s not often you see both a fly and a spider grace the darts board on the same night, which is exactly what happened during the quarter-finals of the Wo",
-   "link": "https://www.skysports.com/watch/video/13594538/fly-and-a-spider-both-crawl-on-board-at-world-grand-prix-darts",
+   "id": "22a0da6865650c6a478d01f90733c898",
+   "title": "Wade and Aspinall make statement ahead of World Grand Prix semi-finals",
+   "summary": "James Wade and Nathan Aspinall put in statement performances that will have made their semi-final opponents take note ahead of a mouthwatering Saturday night li",
+   "link": "https://www.skysports.com/darts/news/12040/13594543/world-grand-prix-darts-james-wade-and-nathan-aspinall-with-statement-displays-ahead-of-semi-finals",
    "source": "Sky Sports",
    "channel": "体育",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-03 07:01",
-   "ts": 1790982060
+   "fetched_at": "10-03 07:19",
+   "ts": 1790983140
+  },
+  {
+   "id": "40e092680277ef9057e4810d28e2bde1",
+   "title": "Papers: Man Utd to consider legal action if Gabriel leaves",
+   "summary": "The top stories and transfer rumours from Saturday's newspapers...",
+   "link": "https://www.skysports.com/football/news/12040/13594537/man-utd-to-consider-legal-action-if-jj-gabriel-leaves-as-bayern-munich-barcelona-and-real-madrid-chase-youngster-paper-talk",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 07:07",
+   "ts": 1790982420
+  },
+  {
+   "id": "1a43a8e1d46b44a91016a59aa0b1a442",
+   "title": "Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build",
+   "summary": "Former NFL coach Mike Tomlin spent 19 seasons with the Pittsburgh Steelers and won Super Bowl LXIII, and now he's added another major accomplishment to his resu",
+   "link": "https://www.ign.com/articles/former-nfl-coach-mike-tomlin-is-a-hardcore-minecraft-player-reveals-city-he-took-12-years-to-build",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:46",
+   "ts": 1790981210
+  },
+  {
+   "id": "8347d7e470999b15acb5376aab5b9a87",
+   "title": "Ouster Rumors and a Tense Phone Call: Mike De Luca and Pam Abdy’s Final Weeks at Warners",
+   "summary": "The exiting Warner Bros. chiefs are in search of a next act (Netflix?) as insiders debate their legacy.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/mike-de-luca-pam-abdy-final-weeks-at-warners-1236721241/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:40",
+   "ts": 1790980836
   },
   {
    "id": "aa9063b31d5f38f6cc73966ce5acee0b",
@@ -39,6 +78,32 @@
    "urgent": false,
    "fetched_at": "10-03 06:40",
    "ts": 1790980800
+  },
+  {
+   "id": "52f1a1c1dee3d82b37dc6e84309316f9",
+   "title": "iPhone 18 Pro Max Can’t Make a Call on AT&#038;T? Apple Says It Will Replace It for Free",
+   "summary": "A software and carrier settings update should prevent future problems, but people who have been affected will need a replacement phone.",
+   "link": "https://www.cnet.com/tech/mobile/iphone-18-pro-max-att-cant-make-call-free-replacement/",
+   "source": "CNET",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:37",
+   "ts": 1790980663
+  },
+  {
+   "id": "42b0b3d1015d08cd550d8e798d5d0179",
+   "title": "John Leguizamo Has a Message for David Ellison: ‘Think of What Americans Need and What the Industry Needs’",
+   "summary": "John Leguizamo is speaking out about the Paramount and Warner Bros. merger, and he&#8217;s imploring David Ellison to consider what the industry needs as he tak",
+   "link": "https://variety.com/2026/film/news/john-leguizamo-message-david-ellison-what-americans-need-1236897710/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:37",
+   "ts": 1790980661
   },
   {
    "id": "58b533cf3b49a8691d7b6ac9e954d8f0",
@@ -91,6 +156,19 @@
    "urgent": false,
    "fetched_at": "10-03 06:30",
    "ts": 1790980231
+  },
+  {
+   "id": "0b7222dc1d5c1c342eaf583683cfc997",
+   "title": "Maximizing Privacy? New Apple Home Security Cameras Reportedly Won’t Record Video",
+   "summary": "Instead of a watchable video stream, you’ll get text descriptions or alerts about detected people, pets or activity.",
+   "link": "https://www.cnet.com/home/security/privacy-new-apple-home-security-cameras-wont-record-video/",
+   "source": "CNET",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:25",
+   "ts": 1790979949
   },
   {
    "id": "a88688ada7554ec2d42e5b9b7cb9e158",
@@ -394,7 +472,7 @@
   {
    "id": "ed92f170bb8e0d0a2aafcc4eb43c0e7d",
    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-   "summary": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 5\n# Comments: 0",
+   "summary": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 6\n# Comments: 0",
    "link": "https://allenai.org/blog/astabrief",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -496,22 +574,22 @@
    "ts": 1790975354
   },
   {
-   "id": "3e381e1a54a30aae97bffb6db2850bd1",
-   "title": "Price snatches win after Clayton misses three match darts",
-   "summary": "Gerwyn Price snatched victory from the jaws of defeat as compatriot Jonny Clayton missed three match darts in their quarter-final of the World Grand Prix Darts",
-   "link": "https://www.skysports.com/watch/video/13594517/gerwyn-price-beats-jonny-clayton-in-world-grand-prix-darts-quarter-final",
-   "source": "Sky Sports",
-   "channel": "体育",
+   "id": "2ea49dd340c6d4ff681dfbf97310d791",
+   "title": "Meta open sources code to let you make Muse AI gadgets",
+   "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like",
+   "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+   "source": "The Verge",
+   "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-03 05:09",
-   "ts": 1790975340
+   "fetched_at": "10-03 05:08",
+   "ts": 1790975317
   },
   {
    "id": "7b95fdcedf41cbdc69cacc13d01b24c0",
    "title": "The Harness Is the Company",
-   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 22\n# Comments: 12",
+   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 43\n# Comments: 31",
    "link": "https://blog.sshh.io/p/the-harness-is-the-company",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -628,7 +706,7 @@
   {
    "id": "0419d34b7ab29cdaac75720215ed2d2c",
    "title": "Zig v0.17.0",
-   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 123\n# Comments: 59",
+   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 146\n# Comments: 74",
    "link": "https://ziglang.org/download/0.17.0/release-notes.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -782,19 +860,6 @@
    "ts": 1790972272
   },
   {
-   "id": "9e6a9ad0988d597762be4c36fd3fcb75",
-   "title": "Everyone's Packing Up",
-   "summary": "Article URL: https://widdershins.verja.net/everyones-packing-up/\nComments URL: https://news.ycombinator.com/item?id=49938047\nPoints: 82\n# Comments: 61",
-   "link": "https://widdershins.verja.net/everyones-packing-up/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:13",
-   "ts": 1790971984
-  },
-  {
    "id": "13aa2f92ae1fa6b3e6355f823556e7a2",
    "title": "Samsung Googlebook appears on Geekbench with a Snapdragon X Elite chipset",
    "summary": "Not satisfied with having one laptop platform, Google introduced Googlebooks – Android-powered laptops. The official page for the platform lists laptops from Ac",
@@ -819,19 +884,6 @@
    "urgent": false,
    "fetched_at": "10-03 04:08",
    "ts": 1790971720
-  },
-  {
-   "id": "99e9f8d5ddff2f1dfb3bf1a453f9db54",
-   "title": "Sony Pictures in Talks to Acquire Michael B. Jordan ‘Battlefield’ Video Game Movie",
-   "summary": "Christopher McQuarrie is attached to write, direct and produce the feature adaptation of the military video game from Electronic Arts, with Jordan on board to p",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/sony-pictures-michael-b-jordan-battlefield-1236721166/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:07",
-   "ts": 1790971623
   },
   {
    "id": "19ecd380fe9c2177dec54a14a8d4f84e",
@@ -951,19 +1003,6 @@
    "ts": 1790970212
   },
   {
-   "id": "a356295c0e9a5986b65217a66ee2b0c7",
-   "title": "Mary Louise Weller, Who Played Sorority Girl in ‘Animal House,’ Dies at 79",
-   "summary": "Mary Louise Weller, the actress known for her role as Mandy Pepperidge in “Animal House,” died Thursday after a long illness. She was 79. Her longtime partner M",
-   "link": "https://variety.com/2026/film/people-news/mary-louise-weller-dead-animal-house-actress-1236897729/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:31",
-   "ts": 1790969517
-  },
-  {
    "id": "d612b8a109c87de109994cf242eaf209",
    "title": "Jeep’s off-road electric SUV managed just 160 miles in a real-world highway range test",
    "summary": "The Jeep Recon EV has removable doors and packs 670 horsepower combined, but it’s less efficient than advertised.\n\n\n\n more…",
@@ -992,7 +1031,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 64\n# Comments: 36",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 68\n# Comments: 38",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1042,19 +1081,6 @@
    "ts": 1790968800
   },
   {
-   "id": "b495321b23a95864d58581ea58ec90ed",
-   "title": "\"The only intuitive interface is the nipple\" (2012)",
-   "summary": "Article URL: https://www.greenend.org.uk/rjk/misc/nipple.html\nComments URL: https://news.ycombinator.com/item?id=49937387\nPoints: 28\n# Comments: 31",
-   "link": "https://www.greenend.org.uk/rjk/misc/nipple.html",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:18",
-   "ts": 1790968692
-  },
-  {
    "id": "b064883436e6ac625f8e0c9b48f96902",
    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
@@ -1083,7 +1109,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 231\n# Comments: 157",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 253\n# Comments: 173",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1315,9 +1341,22 @@
    "ts": 1790964629
   },
   {
+   "id": "8ac0bf09251623b0dc54becef072a167",
+   "title": "What if we stopped using GPUs? [video]",
+   "summary": "Article URL: https://www.youtube.com/watch?v=xc2FTBGRSJo\nComments URL: https://news.ycombinator.com/item?id=49936671\nPoints: 33\n# Comments: 8",
+   "link": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:09",
+   "ts": 1790964578
+  },
+  {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 94\n# Comments: 21",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 110\n# Comments: 30",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1404,19 +1443,6 @@
    "urgent": false,
    "fetched_at": "10-03 01:37",
    "ts": 1790962656
-  },
-  {
-   "id": "b1bc1731d280f1dc8ceb7ec4dfae07f2",
-   "title": "GTA 6 Age Rating Confirms New Details on Sex, Drug Use, Decapitation, and More",
-   "summary": "GTA 6 has received a rating of PEGI 18, revealing mentions of \"decapitation,\" the ability for players to snort cocaine at any time, \"scenes of sexual fetishes,\"",
-   "link": "https://www.ign.com/articles/gta-6-age-rating-confirms-new-details-on-sex-drug-use-decapitation-and-more",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:37",
-   "ts": 1790962652
   },
   {
    "id": "88664b4db36817b115efec6da0b7896c",
@@ -1508,6 +1534,19 @@
    "urgent": true,
    "fetched_at": "10-03 01:09",
    "ts": 1790960942
+  },
+  {
+   "id": "fc1eb1545a0738fef9d4ce67c34cf291",
+   "title": "微软发布 Win11 Beta 和 Experimental 频道多版本预览版，支持 Unicode 17.0 文本、优化设置主页性能",
+   "summary": "IT之家 10 月 3 日消息，微软昨天（10 月 2 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新，本次推送版本如下：Beta 通道：Build 26220.9587（26H2）、Build 28020",
+   "link": "https://www.ithome.com/1/009/374.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 01:05",
+   "ts": 1790960718
   },
   {
    "id": "bc7fdf17cb4f1ec01e44bc6607566184",
@@ -1798,7 +1837,7 @@
   {
    "id": "077fdf42fb97a882004a771ef6ef80bf",
    "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 76\n# Comments: 57",
+   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 83\n# Comments: 62",
    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1952,19 +1991,6 @@
    "ts": 1790951793
   },
   {
-   "id": "9aced2aa3b3d6cd5b13bd6b6c22df452",
-   "title": "Tesla will now let you drive off mid-charge if there’s an emergency",
-   "summary": "Tesla introduced a new feature to enable drivers to escape quickly while charging their vehicles in response to a mass shooting at a Supercharger location in Id",
-   "link": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:34",
-   "ts": 1790951654
-  },
-  {
    "id": "6c034dd3a711ae08244beda6bed1508c",
    "title": "Apple commissions award-winning photogs to showcase the iPhone Duo's cameras",
    "summary": "We've always enjoyed Apple's Shot on iPhone media stunts. It's the popular \"give a professional a tool and get professional results\" method, and it always works",
@@ -2002,6 +2028,19 @@
    "urgent": false,
    "fetched_at": "10-02 22:25",
    "ts": 1790951100
+  },
+  {
+   "id": "deadc6e12be46fdc133a8b818e8ee069",
+   "title": "The Forgetful CPU (Linux on M4)",
+   "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 6\n# Comments: 0",
+   "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:22",
+   "ts": 1790950932
   },
   {
    "id": "d7611b0ada88b80c341beba5eecd6baf",
@@ -2210,19 +2249,6 @@
    "urgent": false,
    "fetched_at": "10-02 21:20",
    "ts": 1790947202
-  },
-  {
-   "id": "55b85bc63e46cf0d0904fd281eb31204",
-   "title": "B 站 App 上架鸿蒙手表端应用市场：用户可在华为 WATCH 系列手表上自由看视频、刷弹幕",
-   "summary": "IT之家 10 月 2 日消息，B 站 App 宣布上架鸿蒙手表端应用市场，用户在华为 WATCH 系列手表上就能看视频、刷弹幕、听播客。官方表示，用户只需前往应用市场，即可下载安装哔哩哔哩手表端，相应 App 提供收藏、倍速、循环播放、下载缓存等各种特性，适合早高峰地铁、夜跑、做饭、洗碗、排队、等人等各种场景，精彩内",
-   "link": "https://www.ithome.com/1/009/362.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:18",
-   "ts": 1790947094
   },
   {
    "id": "22e4e31aae10ad0c53c22d8550670c6a",
@@ -2587,32 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-02 14:01",
    "ts": 1790920885
-  },
-  {
-   "id": "3c298581067fe302b86eb82038137398",
-   "title": "一瓶酒，两种价格—— 茅台的溢价、终局与回报",
-   "summary": "",
-   "link": "http://xueqiu.com/1835829265/411134956",
-   "source": "雪球",
-   "channel": "财经",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 12:50",
-   "ts": 1790916653
-  },
-  {
-   "id": "e9d8066701d17082acb48fdef3cf0f73",
-   "title": "大摩最新FCC纪要：指向的不是光模块，而是光芯片",
-   "summary": "",
-   "link": "http://xueqiu.com/6213467037/411187166",
-   "source": "雪球",
-   "channel": "财经",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 12:50",
-   "ts": 1790916643
   }
  ]
 }
