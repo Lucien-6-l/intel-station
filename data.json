@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 07:02",
+ "updated_at": "2026-10-03 07:35",
  "total": 283,
  "channels": [
   "AI·科技",
@@ -15,6 +15,71 @@
  ],
  "items": [
   {
+   "id": "34e594426e2b88930c99ff72e81735e8",
+   "title": "苹果 homeOS 前瞻：整合 iOS / iPadOS / watchOS 特性，主打 Siri AI 交互",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 9to5Mac 昨日（10 月 2 日）发布博文，综合彭博社马克 · 古尔曼（Mark Gurman）、@itspdfu 等诸多消息源，梳理整合苹果 homeOS 系统相关信息。名称方面，homeOS 目前尚未正式确认，IT之家曾于 2025 年 6 月报道，苹果公司已注册 h",
+   "link": "https://www.ithome.com/1/009/380.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 07:34",
+   "ts": 1790984055
+  },
+  {
+   "id": "09b2e954ffff2d54d10c93fbf0744f18",
+   "title": "UFC 332 predictions, odds, best bets: Natalia Silva, Payton Talbott props, underdog among picks to consider",
+   "summary": "The action heats up on Saturday night in Los Angeles and there's plenty of ways to get in on it",
+   "link": "https://www.cbssports.com/ufc/news/ufc-332-predictions-best-bets-odds-natalia-silva-wang-cong-payton-talbott/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 07:30",
+   "ts": 1790983847
+  },
+  {
+   "id": "685a857b4d891695ceb1ef2f211ca66f",
+   "title": "初代 M3 上市 40 年，宝马 M 车型迎来百万辆下线里程碑",
+   "summary": "IT之家 10 月 3 日消息，当地时间 2 日，宝马集团旗下高性能品牌 M 的累计产量正式突破 100 万辆，第 100 万辆车型是一辆在德国慕尼黑工厂下线的 M3，采用个性化定制 Fire Orange III 车漆，慕尼黑工厂负责人彼得 · 韦伯将车钥匙交给 M CEO 弗兰克 · 范梅尔。与此同时，下一代纯电 ",
+   "link": "https://www.ithome.com/1/009/379.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 07:29",
+   "ts": 1790983771
+  },
+  {
+   "id": "1234d43a00e9d23c1a6e8490c240e4ae",
+   "title": "苹果回应少数美国运营商 AT&T 版 iPhone 18 Pro Max 出现 SOS 通信故障",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 9to5Mac 昨日（10 月 2 日）发布博文，报道称美国电信运营商 AT&amp;T 和苹果公司分别发布声明，表示少量美版 iPhone 18 Pro Max 存在蜂窝网络问题。IT之家曾于 9 月援引市场调查机构 TechInsights 公布的拆解报告，美国版苹果 iP",
+   "link": "https://www.ithome.com/1/009/378.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 07:20",
+   "ts": 1790983242
+  },
+  {
+   "id": "4d0f519d758b7b0d4042b6462988cfb1",
+   "title": "Hollywood’s Newest Media Colossus: Paramount and Warner Bros. Merge Under Skydance",
+   "summary": "Skydance will now be one of the largest media companies in history, consolidating film studios, broadcast and cable networks, news and streaming.",
+   "link": "https://www.cnet.com/tech/paramount-skydance-warner-bros-discovery-media-empire/",
+   "source": "CNET",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 07:19",
+   "ts": 1790983183
+  },
+  {
    "id": "22a0da6865650c6a478d01f90733c898",
    "title": "Wade and Aspinall make statement ahead of World Grand Prix semi-finals",
    "summary": "James Wade and Nathan Aspinall put in statement performances that will have made their semi-final opponents take note ahead of a mouthwatering Saturday night li",
@@ -28,6 +93,45 @@
    "ts": 1790983140
   },
   {
+   "id": "f5528fba5aa929148b8921617518d6c0",
+   "title": "亚马逊云科技 CEO 加尔曼强势回应数据中心反对声浪：后果或影响数代人",
+   "summary": "IT之家 10 月 3 日消息，据《商业内幕》今天（3 日）凌晨报道，亚马逊云科技 CEO 马特 · 加尔曼警告，美国各地针对数据中心建设的反对声浪不断扩大，可能让美国在全球 AI 竞争中失去优势。加尔曼发表了一篇 3000 多词的博文称，如果美国大范围叫停数据中心建设，影响可能延续数代人。“数据中心建设刻不容缓，因为",
+   "link": "https://www.ithome.com/1/009/377.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 07:17",
+   "ts": 1790983070
+  },
+  {
+   "id": "5ead88f5064243e9e60eacabc739c5cb",
+   "title": "‘Digger’: How Its Big Twist Saves the Movie From Being a Complete Disaster (Opinion)",
+   "summary": "SPOILER ALERT: This story contains major spoilers for “Digger,” in theaters now via Warner Bros. When does a bad movie become a fascinating watch? So often the ",
+   "link": "https://variety.com/2026/film/opinion/digger-twist-tom-cruise-movie-climate-crisis-1236897583/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 07:15",
+   "ts": 1790982900
+  },
+  {
+   "id": "b6889d5e1628b84472c6512cc1f1c525",
+   "title": "Samsung Display to start mass AMOLED production for the Galaxy S27 series",
+   "summary": "Earlier today we reported on the fact that Samsung has apparently started mass producing the Exynos 2700 chipset which will be used in its upcoming Galaxy S27 s",
+   "link": "https://www.gsmarena.com/samsung_display_to_start_mass_amoled_production_for_the_galaxy_s27_series-news-74884.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 07:11",
+   "ts": 1790982662
+  },
+  {
    "id": "40e092680277ef9057e4810d28e2bde1",
    "title": "Papers: Man Utd to consider legal action if Gabriel leaves",
    "summary": "The top stories and transfer rumours from Saturday's newspapers...",
@@ -39,6 +143,32 @@
    "urgent": false,
    "fetched_at": "10-03 07:07",
    "ts": 1790982420
+  },
+  {
+   "id": "bc20454ea4f2f6b856ef8074ae5487f5",
+   "title": "Anthropic 拟斥资 1 亿美元培训万名工程师，破解企业 AI 落地“人才荒”",
+   "summary": "IT之家 10 月 3 日消息，Anthropic 计划投入 1 亿美元（IT之家注：现汇率约合 6.71 亿元人民币）培训 1 万名工程师，帮助企业把 AI 项目从构想真正推进到业务应用。当地时间 2 日，Anthropic 宣布推出 Claude Frontier Academy（Claude 前沿学院）培训项目，",
+   "link": "https://www.ithome.com/1/009/376.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 07:03",
+   "ts": 1790982234
+  },
+  {
+   "id": "6ccff1084a4e90e72ba41622b8cb35ed",
+   "title": "下载体验了 Muse 后，我清仓了 Airbnb，加仓了 Meta",
+   "summary": "IT之家 10 月 3 日消息，9 月 29 日作客财经播客《The Synopsis》时，资深独立股票分析师 Mostly Borrowed Ideas（下文简称 MBI）表示：在下载体验了 Muse 后，我清仓了 Airbnb，加仓了 Meta。IT之家注：MBI 是独立分析师 Abdullah Al Rezwan",
+   "link": "https://www.ithome.com/1/009/375.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 07:03",
+   "ts": 1790982199
   },
   {
    "id": "1a43a8e1d46b44a91016a59aa0b1a442",
@@ -366,19 +496,6 @@
    "ts": 1790977247
   },
   {
-   "id": "deea7e4ec137a0fdbc4bd959a5e2e986",
-   "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Penn State-Northwestern, Virginia Tech-Pitt",
-   "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for college football betting and NFL on Friday",
-   "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-penn-state-northwestern-virginia-tech-pitt/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:37",
-   "ts": 1790977050
-  },
-  {
    "id": "e669af54f401b4f9513bf6af91b10258",
    "title": "NFL Week 4 injury report: Justin Jefferson out, Nico Collins in; Terry McLaurin suffers late-week injury",
    "summary": "Here's a look at each game designation for Week 4 in the NFL",
@@ -390,19 +507,6 @@
    "urgent": false,
    "fetched_at": "10-03 05:36",
    "ts": 1790976972
-  },
-  {
-   "id": "3bf03a0239c8a864fa7e21286d916638",
-   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Northwestern-Penn State, Friday football",
-   "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for college football, NFL betting on Friday",
-   "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-northwestern-penn-state-friday-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:35",
-   "ts": 1790976932
   },
   {
    "id": "0b4cf021b7da2bf8da9cb82f95038bd4",
@@ -422,6 +526,19 @@
    "title": "Pittsburgh vs. Virginia Tech prediction, odds, time: Week 5 college football Friday picks by proven model",
    "summary": "The SportsLine Projection Model has revealed its best bets for the Friday matchup between the Pitt Panthers vs. Virginia Tech Hokies",
    "link": "https://www.cbssports.com/betting/news/pittsburgh-virginia-tech-prediction-odds-start-time-week-5-college-football-friday-picks-best-bets/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:30",
+   "ts": 1790976659
+  },
+  {
+   "id": "174ffdf149c38f10fb877f0104814cc8",
+   "title": "Liberty at Delaware live stream, where to watch, CBS Sports Network channel finder, odds",
+   "summary": "A full weekend of football on CBS Sports Network kicks off on Thursday night",
+   "link": "https://www.cbssports.com/college-football/news/liberty-delaware-live-stream-where-to-watch-online-cbs-sports-network-channel-finder-odds/",
    "source": "CBS Sports",
    "channel": "体育",
    "category": "资讯",
@@ -472,7 +589,7 @@
   {
    "id": "ed92f170bb8e0d0a2aafcc4eb43c0e7d",
    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-   "summary": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 6\n# Comments: 0",
+   "summary": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 10\n# Comments: 0",
    "link": "https://allenai.org/blog/astabrief",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -589,7 +706,7 @@
   {
    "id": "7b95fdcedf41cbdc69cacc13d01b24c0",
    "title": "The Harness Is the Company",
-   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 43\n# Comments: 31",
+   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 64\n# Comments: 45",
    "link": "https://blog.sshh.io/p/the-harness-is-the-company",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -706,7 +823,7 @@
   {
    "id": "0419d34b7ab29cdaac75720215ed2d2c",
    "title": "Zig v0.17.0",
-   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 146\n# Comments: 74",
+   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 172\n# Comments: 83",
    "link": "https://ziglang.org/download/0.17.0/release-notes.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -938,19 +1055,6 @@
    "ts": 1790971200
   },
   {
-   "id": "66d0a17d8bb88e5a61ff75e58d0f9dff",
-   "title": "Sony in Talks to Land ‘Battlefield’ Video Game Movie From Christopher McQuarrie and Michael B. Jordan",
-   "summary": "Sony is in talks to acquire Christopher McQuarrie and Michael B. Jordan&#8217;s big-screen adaptation of the popular &#8220;Battlefield&#8221; video game after ",
-   "link": "https://variety.com/2026/film/news/michael-b-jordan-battlefield-video-game-movie-sony-1236731771/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:59",
-   "ts": 1790971154
-  },
-  {
    "id": "6572e0b1e5f6054dd5a357f3c1a44caf",
    "title": "NIH rolling out streamlined website to help public find information more easily",
    "summary": "The redesign is intended to streamline what was a sprawling and fractured information ecosystem, requiring users to understand NIH's organizational structure",
@@ -977,19 +1081,6 @@
    "ts": 1790970723
   },
   {
-   "id": "f595835abab32d8b761b92ffe444864a",
-   "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
-   "summary": "Article URL: https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression\nComments URL: https://news.yc",
-   "link": "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:45",
-   "ts": 1790970306
-  },
-  {
    "id": "dd77e85f4da1fae24f4574ce255dad49",
    "title": "Can AI Fix Your Chaotic Inbox? I Unleashed It On 200,000 Unread Emails",
    "summary": "I sifted through a boatload of emails with the help of Gemini.",
@@ -1001,6 +1092,19 @@
    "urgent": false,
    "fetched_at": "10-03 03:43",
    "ts": 1790970212
+  },
+  {
+   "id": "6df229ab077974bda8e6a25590201122",
+   "title": "Updates to Full Disk Access in macOS",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 76\n# Comments: 51",
+   "link": "https://developer.apple.com/news/?id=p6zjojqw",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:37",
+   "ts": 1790969821
   },
   {
    "id": "d612b8a109c87de109994cf242eaf209",
@@ -1031,7 +1135,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 68\n# Comments: 38",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 82\n# Comments: 44",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1109,7 +1213,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 253\n# Comments: 173",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 262\n# Comments: 185",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1343,7 +1447,7 @@
   {
    "id": "8ac0bf09251623b0dc54becef072a167",
    "title": "What if we stopped using GPUs? [video]",
-   "summary": "Article URL: https://www.youtube.com/watch?v=xc2FTBGRSJo\nComments URL: https://news.ycombinator.com/item?id=49936671\nPoints: 33\n# Comments: 8",
+   "summary": "Article URL: https://www.youtube.com/watch?v=xc2FTBGRSJo\nComments URL: https://news.ycombinator.com/item?id=49936671\nPoints: 34\n# Comments: 8",
    "link": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1356,7 +1460,7 @@
   {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 110\n# Comments: 30",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 117\n# Comments: 34",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1837,7 +1941,7 @@
   {
    "id": "077fdf42fb97a882004a771ef6ef80bf",
    "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 83\n# Comments: 62",
+   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 89\n# Comments: 67",
    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1939,19 +2043,6 @@
    "ts": 1790953141
   },
   {
-   "id": "706df7f8eeafdcfe750a66b29f5f8778",
-   "title": "2026《无畏契约》全球冠军赛：4 支 VCT CN 联赛队伍率先淘汰，未尝大场胜绩",
-   "summary": "IT之家 10 月 2 日消息，2026《无畏契约》全球冠军赛正在中国上海进行。在最近两天的第一阶段小组赛败者组首轮中，4 支 VCT CN 联赛队伍均负于对手，全数被淘汰出局，无一晋级小组败者组决赛，位列本次赛事 13~16 名。IT之家注意到，JDG、EDG、TYL、XLG 四支队伍都未能在本次全球冠军赛中取得任何",
-   "link": "https://www.ithome.com/1/009/368.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:56",
-   "ts": 1790952976
-  },
-  {
    "id": "8b7b6c345fd4628ff1e388c6b8ccf830",
    "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
    "summary": "Every website gets feedback, and most of it ends up somewhere awkward. A visitor finds a broken button and emails you. Someone else leaves a comment on social m",
@@ -1976,19 +2067,6 @@
    "urgent": false,
    "fetched_at": "10-02 22:47",
    "ts": 1790952466
-  },
-  {
-   "id": "ea2a06e36a79a6c0eb412869e7c8c565",
-   "title": "特斯拉 2026 年第三季度交付超 48.6 万辆，同比下降 2%",
-   "summary": "IT之家 10 月 2 日消息，特斯拉今日宣布，2026 年第三季度，特斯拉全球生产了超 46.4 万辆电动车，交付了超 48.6 万辆；储能产品装机量达 13.7 吉瓦时。官方公告显示，2026 年第三季度特斯拉 Model 3/Y 生成 457,387 辆，交付 478,237 辆；其他车型生产 7,004 辆，交",
-   "link": "https://www.ithome.com/1/009/367.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:36",
-   "ts": 1790951793
   },
   {
    "id": "6c034dd3a711ae08244beda6bed1508c",
@@ -2032,7 +2110,7 @@
   {
    "id": "deadc6e12be46fdc133a8b818e8ee069",
    "title": "The Forgetful CPU (Linux on M4)",
-   "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 6\n# Comments: 0",
+   "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 15\n# Comments: 0",
    "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2054,19 +2132,6 @@
    "urgent": false,
    "fetched_at": "10-02 22:19",
    "ts": 1790950773
-  },
-  {
-   "id": "4f296b05fceeb2f881b4bfffad0b11da",
-   "title": "乘联分会：9 月 1-27 日乘用车零售 125.8 万辆同比下降 29%，新能源渗透率 65.7%",
-   "summary": "IT之家 10 月 2 日消息，乘联分会今日公布数据，9 月 1-27 日，全国乘用车市场零售 125.8 万辆，同比去年 9 月同期下降 29%，较上月同期增长 1%，今年以来累计零售 1,297.3 万辆，同比下降 22%。9 月 1-27 日，全国乘用车厂商批发 147.4 万辆，同比去年 9 月同期下降 30%",
-   "link": "https://www.ithome.com/1/009/366.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:09",
-   "ts": 1790950180
   },
   {
    "id": "82bfc5608f41ed141f58804a3472d671",
@@ -2093,19 +2158,6 @@
    "urgent": false,
    "fetched_at": "10-02 22:06",
    "ts": 1790949989
-  },
-  {
-   "id": "adc0a8d1aecc5c6dc003111e48ae61dd",
-   "title": "Meta 预热雷朋 Display 眼镜 2026 年下半年大型更新：改进导航功能、支持控制通知推送、Hologram 虚拟化身...",
-   "summary": "IT之家 10 月 2 日消息，Meta 现已公布雷朋 Display 眼镜 2026 年下半年大型更新详情，主要改进导航体验、通知功能、视频通话功能等。在导航方面，Meta 进一步改善了步行时的语音功能。此前系统会直接播报街道名称，例如“在第三街左转”，而在更新后，眼镜会更多结合用户眼前的实际环境进行描述，例如提示“",
-   "link": "https://www.ithome.com/1/009/365.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:01",
-   "ts": 1790949660
   },
   {
    "id": "31161f261f052a1d281e7aa4932d2dde",
@@ -2158,32 +2210,6 @@
    "urgent": false,
    "fetched_at": "10-02 21:52",
    "ts": 1790949166
-  },
-  {
-   "id": "d3dd80a742ff0cd43309dc13376566e6",
-   "title": "焕新极氪 007GT 色彩上新：推出“河谷绿”车色、“墨绿”内饰",
-   "summary": "IT之家 10 月 2 日消息，极氪汽车今日宣布，焕新极氪 007GT 色彩上新，带来全新外饰色河谷绿、全新内饰色墨绿。2026 年 10 月 1 日-10 月 31 日，下定焕新极氪 007GT 可享更多限时权益。IT之家注意到，焕新极氪 007/007GT 于今年 4 月正式上市，定价 20.39 万元起，限时 1",
-   "link": "https://www.ithome.com/1/009/364.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:43",
-   "ts": 1790948624
-  },
-  {
-   "id": "bc9110b9ef75daad5245b91b6e44a255",
-   "title": "Meta 旗下 AI 智能体 Muse 将登陆智能眼镜平台，可代用户完成各种任务",
-   "summary": "IT之家 10 月 2 日消息，Meta 宣布旗下 AI 智能体 Muse 将于近期登陆智能眼镜，用户无需拿出手机，只需通过语音下达指令，Muse 就能在后台代用户完成一系列任务。Meta 表示，Muse 基于 Muse Spark AI 模型运行，其核心运行环境是一台部署在云端的私有持久化 Linux 虚拟机，配备独",
-   "link": "https://www.ithome.com/1/009/363.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:38",
-   "ts": 1790948294
   },
   {
    "id": "58cfaa6cb6ee7ba15ce91825050fedba",
@@ -2537,19 +2563,6 @@
    "ts": 1790926023
   },
   {
-   "id": "6a320be85ac1fd9329c3e139fb362f6e",
-   "title": "Apple's HomePad / Home Hub may come in these four colors",
-   "summary": "Yesterday a report told us that Apple is going to finally unveil its much-rumored Home Hub or HomePad on October 13. That report implied that it would only be a",
-   "link": "https://www.gsmarena.com/apples_homepad___home_hub_may_come_in_these_four_colors-news-74866.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 15:21",
-   "ts": 1790925662
-  },
-  {
    "id": "e95019c838459efa37a3d979b87f5f45",
    "title": "Bushiroad旗下游戏现已开启限时折扣促销",
    "summary": "Bushiroad Inc.将于2026年10月2日（星期五）起举办“Bushiroad Autumn Sale 2026”，旗下 Nintendo Switch 下载版及 Steam 版游戏将在活动期间以限时优惠价格发售。\nBushiroad旗下游戏的 Nintendo Switch 下载版与 Steam 版现已开启",
@@ -2600,19 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-02 14:10",
    "ts": 1790921400
-  },
-  {
-   "id": "f06db90cad0a2f8eafb9a03248adf238",
-   "title": "和 Opus 5.5 同题交卷，MiniMax M3.1 让 Flash 开始超纲了",
-   "summary": "从智能的高度，到使用的广度#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "link": "https://www.ifanr.com/1682850?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 14:01",
-   "ts": 1790920885
   }
  ]
 }
