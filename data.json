@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 02:41",
+ "updated_at": "2026-10-03 03:04",
  "total": 283,
  "channels": [
   "AI·科技",
@@ -16,7 +16,7 @@
  "items": [
   {
    "id": "2d05a3a730fb88187c4fb8c7bbb06b8b",
-   "title": "World Grand Prix LIVE! Aspinall leads first QF before Price vs Clayton",
+   "title": "World Grand Prix LIVE! Price vs Clayton next after Aspinall thrashes Joyce",
    "summary": "",
    "link": "https://www.skysports.com/darts/live-blog/12040/13594445/world-grand-prix-darts-live-latest-scores-updates-highlights-as-luke-humphries-gerwyn-price-james-wade-in-quarter-final-action",
    "source": "Sky Sports",
@@ -41,6 +41,45 @@
    "ts": 1790968800
   },
   {
+   "id": "3b0a14ba61caafb2cc2cb8f396a1772f",
+   "title": "Anne Hathaway Completes Her Epic Year With ‘Verity,’ Florence Pugh Debuts ‘East of Eden’ and This Week’s Best Events",
+   "summary": "Inside this week's biggest Hollywood premieres, parties and openings.",
+   "link": "https://www.hollywoodreporter.com/gallery/verity-east-of-eden-red-carpet-events-1236712856/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:03",
+   "ts": 1790967812
+  },
+  {
+   "id": "200501450f994719401122a6182fccc8",
+   "title": "Jessica Lange to Receive Lifetime Achievement Award at SCAD Savannah Film Festival",
+   "summary": "The Savannah College of Art and Design (SCAD) announced Jessica Lange will receive the Lifetime Achievement Award at the SCAD Savannah Film Festival. Lange will",
+   "link": "https://variety.com/2026/film/news/jessica-lange-scad-savannah-film-festival-1236897722/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:02",
+   "ts": 1790967757
+  },
+  {
+   "id": "6da037b2aec6a6206b2d0ad04253f7f2",
+   "title": "iPhone Duo video reveals size compared to iPhone 18 Pro Max",
+   "summary": "iPhone Duo has the largest display ever in an iPhone, bigger even than iPhone 18 Pro Max. But how do the two models truly compare in size? A side-by-side video ",
+   "link": "https://9to5mac.com/2026/10/02/iphone-duo-video-reveals-size-compared-to-iphone-18-pro-max/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:51",
+   "ts": 1790967080
+  },
+  {
    "id": "51585becf0cf6346d19ab950da7ee657",
    "title": "Djokovic battles through fitness issues to produce resilient China Open comeback",
    "summary": "Novak Djokovic again appeared to struggle with fitness issues as he came from behind to avoid a second-round exit to world No 104 Yunchaokete Bu at the China Op",
@@ -54,6 +93,19 @@
    "ts": 1790967000
   },
   {
+   "id": "fe4aee3f9c6b4f40b51385766902dff2",
+   "title": "How FX’s ‘Adults’ Found Its Voice (and a Bigger Audience) In Season 2",
+   "summary": "An experimental bonus episode, a media blitz and a fake K-pop song helped propel Ben Kronengold and Rebecca Shaw's Gen Z hang comedy into the pop culture conver",
+   "link": "https://www.hollywoodreporter.com/tv/tv-features/how-fx-adults-season-2-grew-up-whats-next-1236709479/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:48",
+   "ts": 1790966937
+  },
+  {
    "id": "13bf8794c94b8881a324eea952043e85",
    "title": "Is Littler heading to Minehead? World No 1 to headline World Youth Championships",
    "summary": "World No 1 and former champion Luke Littler will headline the list of Tour Card Holders and International Qualifiers competing in Monday's Winmau World Youth Ch",
@@ -65,6 +117,32 @@
    "urgent": false,
    "fetched_at": "10-03 02:48",
    "ts": 1790966880
+  },
+  {
+   "id": "461a3ce2d09252a04f583c1e39298634",
+   "title": "Victoria Monét Returns: The R&B Star on How She Overcame Vocal Issues and Embraced Motherhood for Her New Album ‘Frequency of Love’",
+   "summary": "At her Los Angeles home, Victoria Monét sits perched on the edge of her off-white couch, enjoying the stillness in the moments leading up to her sophomore album",
+   "link": "https://variety.com/2026/music/news/victoria-monet-frequency-of-love-vocal-issues-motherhood-1236897279/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:44",
+   "ts": 1790966677
+  },
+  {
+   "id": "82b26f802c032ffa3452daa3fe91d83f",
+   "title": "Samsung starts mass producing Exynos 2700 chip, Galaxy S27 Ultra decision still up in the air",
+   "summary": "Samsung has begun mass production of the Exynos 2700 chipset, according to Korean publication The Elec. The company has reportedly set the production target “mo",
+   "link": "https://www.gsmarena.com/samsung_starts_mass_producing_exynos_2700_chip_galaxy_s27_ultra_decision_still_up_in_the_air-news-74879.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:41",
+   "ts": 1790966462
   },
   {
    "id": "65e21dc568e470c74d507439093a9987",
@@ -119,6 +197,32 @@
    "ts": 1790965860
   },
   {
+   "id": "dbdcacc1a9f391f65398106b97273e6c",
+   "title": "Week 4 NFL betting guide, props, spreads: Model, expert, parlay, DFS and season-long fantasy picks unveiled",
+   "summary": "SportsLine's team of Vegas experts and its proven model and experts to get you ready for Week 4 NFL betting",
+   "link": "https://www.cbssports.com/betting/news/week-4-nfl-betting-guide-player-props-spreads-parlay-dfs-fantasy-picks/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:30",
+   "ts": 1790965850
+  },
+  {
+   "id": "cd08bd437fa9354b56bdee07d4658865",
+   "title": "Walmart Has a 512GB Nintendo Switch 2 Memory Card for $85, Possibly $10 Less With Unadvertised Coupon",
+   "summary": "You'll need to get this sooner or later if you're an avid Switch gamer.",
+   "link": "https://www.ign.com/articles/best-microsd-express-memory-card-deal-for-nintendo-switch-2-october-2026",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:30",
+   "ts": 1790965800
+  },
+  {
    "id": "abe0a358394ed68ceffd63eab628167b",
    "title": "Audible has three new features to give you a deeper connection to your stories",
    "summary": "Audible's new features will let you talk to characters, keep track of the cast, and provide visual context.",
@@ -130,6 +234,19 @@
    "urgent": false,
    "fetched_at": "10-03 02:29",
    "ts": 1790965761
+  },
+  {
+   "id": "f1672efcf839ffd3a46c2c2ebfa14560",
+   "title": "NFL suspends 49ers owner Jed York six games, fines him $500,000 after Ohio arrest",
+   "summary": "York accepted responsibility after the NFL suspended him for violating its Personal Conduct Policy, with three games he already missed counting toward the punis",
+   "link": "https://www.cbssports.com/nfl/news/49ers-owner-jed-york-suspended-fined-nfl/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:27",
+   "ts": 1790965634
   },
   {
    "id": "ff1e16d2fec835c2fee18e00524ae13d",
@@ -145,6 +262,19 @@
    "ts": 1790965541
   },
   {
+   "id": "e3fa86a0c348fcdb0eeb8f7d32081236",
+   "title": "Week 5 college football picks, predictions: Almost $2,000 in sportsbook promos at DraftKings, BetMGM, FanDuel",
+   "summary": "SportsLine's model and team of experts have revealed their Week 5 college football picks for DraftKings, BetMGM and FanDuel",
+   "link": "https://www.cbssports.com/betting/news/week-5-college-football-picks-predictions-almost-2000-in-sportsbook-promos-draftkings-betmgm-fanduel/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:25",
+   "ts": 1790965528
+  },
+  {
    "id": "8f8c5054e3c88e8dc501fb1186e153eb",
    "title": "Rogers Closes $3.1 Billion Maple Leafs Sports Stake Acquisition, Keith Pelley to Return as Media Head",
    "summary": "The Canadian cable TV and telco giant picked up the remaining 25 percent stake it did not already own to take full control of the company behind the Toronto Map",
@@ -156,6 +286,19 @@
    "urgent": false,
    "fetched_at": "10-03 02:24",
    "ts": 1790965459
+  },
+  {
+   "id": "5d9338481a2eef50644ed337f558471f",
+   "title": "Is Polymarket Legal in California? October 2026 Status",
+   "summary": "Find out if Polymarket is legal in California, how it's regulated, and what you can trade there in 2026.",
+   "link": "https://www.cbssports.com/prediction/news/polymarket-california/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:22",
+   "ts": 1790965377
   },
   {
    "id": "c68f22b515e4fcbdfb4c70541a9eb537",
@@ -171,6 +314,19 @@
    "ts": 1790965262
   },
   {
+   "id": "44b3e00e7c56072bb3f0419b2d62455a",
+   "title": "Video Game Release Dates: The Biggest Games Coming Soon",
+   "summary": "An updated list of video game release dates for PS5, Xbox Series X|S, Nintendo Switch, Switch 2, and PC games.",
+   "link": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:20",
+   "ts": 1790965200
+  },
+  {
    "id": "d131e73126efba72022bec47481f2a6f",
    "title": "Skydance Is a Decent Name, It’s Just Weaker Than Paramount or Warner Bros.",
    "summary": "David Ellison's decision to eclipse two iconic names with his own company arguably declares \"I won\" at the expense of a century of brand value. But how much the",
@@ -182,6 +338,19 @@
    "urgent": false,
    "fetched_at": "10-03 02:16",
    "ts": 1790965001
+  },
+  {
+   "id": "87e2cf829d003f6af6849c4363ba5d5c",
+   "title": "John Calipari says Arkansas players outearn assistant coaches as he defends Protect College Sports Act",
+   "summary": "Calipari has been one of the most outspoken college coaches about the Protect College Sports Act",
+   "link": "https://www.cbssports.com/college-basketball/news/john-calipari-arkansas-players-salary-protect-college-sports-act/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:16",
+   "ts": 1790964979
   },
   {
    "id": "b9e591dfb17f6c9890c436073dd44267",
@@ -210,6 +379,19 @@
    "ts": 1790964918
   },
   {
+   "id": "936e389a0e30c073bc821bf810c48d95",
+   "title": "Amazon Is Dropping Prices on Green Lantern Merch Ahead of Lanterns Season Finale",
+   "summary": "",
+   "link": "https://www.ign.com/articles/amazon-green-lantern-merch-comics-sale-lanterns-season-finale",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:13",
+   "ts": 1790964826
+  },
+  {
    "id": "a551a6449ab9e48f741873a8e0df9503",
    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
    "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, m",
@@ -221,6 +403,45 @@
    "urgent": false,
    "fetched_at": "10-03 02:11",
    "ts": 1790964687
+  },
+  {
+   "id": "ac40eef344d6c29e759a9826a87fd594",
+   "title": "Ex-Rockstar Boss Dan Houser Doesn't Play a Lot of Open-World Games – and Doesn't Plan to Play GTA 6",
+   "summary": "Dan Houser, the former co-boss of Rockstar Games and former creative director on the Grand Theft Auto series, doesn't play a lot of open-world games. And he doe",
+   "link": "https://www.ign.com/articles/ex-rockstar-boss-dan-houser-doesnt-play-a-lot-of-open-world-games-and-doesnt-plan-to-play-gta-6",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:10",
+   "ts": 1790964629
+  },
+  {
+   "id": "9b69b8b683cb0fd42d9a1ce2462ab46d",
+   "title": "Leaderboards and speedrun.com's new terms of service",
+   "summary": "Article URL: https://therun.gg/blog/leaderboards-speedruncom\nComments URL: https://news.ycombinator.com/item?id=49936641\nPoints: 15\n# Comments: 3",
+   "link": "https://therun.gg/blog/leaderboards-speedruncom",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:07",
+   "ts": 1790964425
+  },
+  {
+   "id": "c4403da706604980eef315f527b9cd6e",
+   "title": "From the creator of Redis; run LLM locally with ds4",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 4\n# Comments: 0",
+   "link": "https://dwarfstar.sh/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:01",
+   "ts": 1790964076
   },
   {
    "id": "2279fb83c94165d9c73a6231e8116762",
@@ -242,6 +463,19 @@
    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
    "source": "The Verge",
    "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:00",
+   "ts": 1790964000
+  },
+  {
+   "id": "c42108e2f3f751cf81e5a4a0738151e5",
+   "title": "Pokémon TCG’s Final 2026 Set Is Already Causing Even More Preorder Chaos",
+   "summary": "Find out where to preorder Pokémon TCG: Mega Evolution—Delta Reign at MSRP in the US and UK before Elite Trainer Boxes and Booster Displays sell out.",
+   "link": "https://www.ign.com/articles/pokemon-tcg-delta-reign-where-to-buy",
+   "source": "IGN",
+   "channel": "游戏",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
@@ -312,19 +546,6 @@
    "urgent": false,
    "fetched_at": "10-03 01:48",
    "ts": 1790963296
-  },
-  {
-   "id": "febe629350a9981dcce69ee92b8c260a",
-   "title": "UFC 332 odds, predictions, time: Natalia Silva vs. Wang Cong picks by elite MMA expert",
-   "summary": "SportsLine's Kyle Marley reveals his picks for the UFC 332: Silva vs. Wang card Saturday at Delta Center in Salt Lake City on Paramount+",
-   "link": "https://www.cbssports.com/betting/news/ufc-332-odds-predictions-time-natalia-silva-wang-cong-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:40",
-   "ts": 1790962833
   },
   {
    "id": "75b0d87aea1cb3939d97a9ec3f889a36",
@@ -587,17 +808,17 @@
    "ts": 1790960640
   },
   {
-   "id": "dfd8c2b8ffe1357f6c3d94ff09835fbe",
-   "title": "ICC judge on what U.S. sanctions mean for her and global courts",
-   "summary": "Article URL: https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost\nComments URL: https://news.ycombinator.com/item?id=49935867\nPoints:",
-   "link": "https://www.npr.org/2026/10/01/nx-s1-5977815/trump-icc-sanctions-kimberly-prost",
+   "id": "3c7e69c021dc86d90f9ae53c970163fe",
+   "title": "Mystery Function",
+   "summary": "Article URL: https://codeset.ai/function\nComments URL: https://news.ycombinator.com/item?id=49935872\nPoints: 4\n# Comments: 0",
+   "link": "https://codeset.ai/function",
    "source": "Hacker News",
    "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-03 01:02",
-   "ts": 1790960551
+   "fetched_at": "10-03 01:03",
+   "ts": 1790960588
   },
   {
    "id": "bc7fdf17cb4f1ec01e44bc6607566184",
@@ -639,19 +860,6 @@
    "ts": 1790960400
   },
   {
-   "id": "48bf975ad9fe5bb7cb8ccb3dee7181b9",
-   "title": "STS-51-F Abort-to-Orbit (1985)",
-   "summary": "Today I learned that one Space Shuttle flight (in 1985) successfully used the Abort-to-Orbit recovery plan (changing its flight path in real time in response to",
-   "link": "https://en.wikipedia.org/wiki/STS-51-F",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:56",
-   "ts": 1790960207
-  },
-  {
    "id": "77fab45abaf1e7ded5aa544b1e061e21",
    "title": "The AOC 16\" Portable USB Monitor For Laptop, Switch, or Gaming Handheld Drops to $47.49 for Prime Day",
    "summary": "Use as a secondary screen for your laptop or portable display for your Nintendo Switch 2.",
@@ -680,7 +888,7 @@
   {
    "id": "b891c4c19e20a7397f065c49ad2d00a7",
    "title": "Dutch computer museums (2022)",
-   "summary": "Article URL: https://aresluna.org/dutch-computer-museums/\nComments URL: https://news.ycombinator.com/item?id=49935751\nPoints: 65\n# Comments: 16",
+   "summary": "Article URL: https://aresluna.org/dutch-computer-museums/\nComments URL: https://news.ycombinator.com/item?id=49935751\nPoints: 82\n# Comments: 23",
    "link": "https://aresluna.org/dutch-computer-museums/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -689,19 +897,6 @@
    "urgent": false,
    "fetched_at": "10-03 00:52",
    "ts": 1790959959
-  },
-  {
-   "id": "37441ca87efc2fceb2226dd86e52f46e",
-   "title": "CBS Sports and Tony Romo mutually part ways; JJ Watt will remain on lead NFL broadcast team",
-   "summary": "Following an arrest in July and a leave of absence, Romo is stepping away from the broadcast booth",
-   "link": "https://www.cbssports.com/nfl/news/cbs-sports-tony-romo-mutually-part-ways-jj-watt-jim-nantz-tracy-wolfson/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:52",
-   "ts": 1790959943
   },
   {
    "id": "6eb01e2ed6f7087abb613741f4bc6d63",
@@ -741,19 +936,6 @@
    "urgent": false,
    "fetched_at": "10-03 00:48",
    "ts": 1790959690
-  },
-  {
-   "id": "86e33a577021411975b333a3b95d3c66",
-   "title": "Penn State vs. Northwestern prediction, odds: Week 5 college football Friday picks as new Ryan Field opens",
-   "summary": "The SportsLine Projection Model has revealed its best bets for the Friday matchup between the Penn State Nittany Lions and Northwestern Wildcats as new Ryan Fie",
-   "link": "https://www.cbssports.com/betting/news/penn-state-northwestern-prediction-odds-line-time-week-5-college-football-friday-picks-ryan-field-opening/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:45",
-   "ts": 1790959539
   },
   {
    "id": "82fef6d8b6ab20228ddefa9672393aee",
@@ -806,32 +988,6 @@
    "urgent": false,
    "fetched_at": "10-03 00:38",
    "ts": 1790959131
-  },
-  {
-   "id": "d5f5e4586b6a975fa08717f252afd675",
-   "title": "Dan Campbell confirms Lions were 'very much in' on Joey Porter Jr. before Cowboys trade",
-   "summary": "Dallas won the bidding for Porter, but Detroit's struggling secondary should keep Brad Holmes active",
-   "link": "https://www.cbssports.com/nfl/news/dan-campbell-lions-pursued-joey-porter-trade-steelers/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:38",
-   "ts": 1790959125
-  },
-  {
-   "id": "4b9ec57281b1109a580391aee6ddce41",
-   "title": "Pittsburgh vs. Virginia Tech prediction, odds, time: Week 5 college football Friday picks by proven model",
-   "summary": "The SportsLine Projection Model has revealed its best bets for the Friday matchup between the Pitt Panthers vs. Virginia Tech Hokies",
-   "link": "https://www.cbssports.com/betting/news/pittsburgh-virginia-tech-prediction-odds-time-week-5-college-football-friday-picks-best-bets/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:35",
-   "ts": 1790958929
   },
   {
    "id": "3f5b417f20b22ed1752d6152c0f65ec6",
@@ -1029,45 +1185,6 @@
    "ts": 1790956800
   },
   {
-   "id": "a7d6d9fb3bf5d92a598f04d5fc9c95d1",
-   "title": "‘The Watcher’ Season 2 to Begin Production 4 Years After Season 1 With Bobby Cannavale, Naomi Watts Returning",
-   "summary": "Who watches &#8220;The Watcher?&#8221; Netflix has announced that Season 2 of the mystery horror series is set to begin production this fall in New York. In add",
-   "link": "https://variety.com/2026/tv/news/the-watcher-season-2-bobby-cannavale-naomi-watts-returning-1236897595/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:00",
-   "ts": 1790956800
-  },
-  {
-   "id": "3fca5610b8fdf19cc47f98c947c1d5c3",
-   "title": "‘The Biggest Little Farm’ Sequel Series to Debut Next Month in Follow-Up to 2019 Documentary (Exclusive)",
-   "summary": "John and Molly Chester return for the 12-part docuseries that launches on YouTube.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/the-biggest-little-farm-sequel-series-john-chester-youtube-1236720922/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:00",
-   "ts": 1790956800
-  },
-  {
-   "id": "106cc6816fc21ef1546515a7919dcc31",
-   "title": "Kennedy Center Honors 2026 Sets Date, New Venue",
-   "summary": "The 49th Kennedy Center awards gala will take place at Capital One Arena in Washington D.C., not the Kennedy Center itself after a shut down and efforts by Dona",
-   "link": "https://www.hollywoodreporter.com/news/politics-news/kennedy-center-honors-2026-date-venue-1236720964/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:00",
-   "ts": 1790956800
-  },
-  {
    "id": "8420a5b7a1703f6047555c769023c821",
    "title": "Using an iPad mini to preview the iPhone Duo experience",
    "summary": "Alongside using the iPhone 18 Pro, I’ve also been carrying out a little experiment as we await the launch of the iPhone Duo.\n\n\n\nTo get a sense of what it might ",
@@ -1081,19 +1198,6 @@
    "ts": 1790956800
   },
   {
-   "id": "cc596892e8e5bb290f5913407e8484a5",
-   "title": "James Gunn's DCU Reportedly Safe Following Paramount-Warner Bros. Merger, for Now at Least",
-   "summary": "DC Studios co-CEOs James Gunn and Peter Safran will seemingly keep their vision for the DCU alive following the Paramount-Warner Bros. merger.",
-   "link": "https://www.ign.com/articles/james-gunns-dcu-reportedly-safe-following-paramount-warner-bros-merger-for-now-at-least",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:53",
-   "ts": 1790956436
-  },
-  {
    "id": "8c3a20db821ecefd8676d242159c31a2",
    "title": "Paramount and Warner Bros. Discovery to become Skydance",
    "summary": "The roughly $110 billion deal is expected to close October 6.",
@@ -1105,19 +1209,6 @@
    "urgent": false,
    "fetched_at": "10-02 23:53",
    "ts": 1790956430
-  },
-  {
-   "id": "79be7a84cb9dd54a4c42b5995a6b1963",
-   "title": "Brand New GTA 6 Screenshots Focus on Lucia and Jason's Relationship",
-   "summary": "Rockstar has further ramped up its GTA 6 marketing today with the launch of several new screenshots focusing on protagonists Lucia and Jason.",
-   "link": "https://www.ign.com/articles/brand-new-gta-6-screenshots-focus-on-lucia-and-jasons-relationship",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:50",
-   "ts": 1790956246
   },
   {
    "id": "876c5827a3bc206da88adb0991fc25ba",
@@ -1148,7 +1239,7 @@
   {
    "id": "91fad254853a6d9555a5ffc82cbf9745",
    "title": "Supabase is acquiring Turso",
-   "summary": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 147\n# Comments: 78",
+   "summary": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 155\n# Comments: 81",
    "link": "https://supabase.com/blog/supabase-is-acquiring-turso",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1170,19 +1261,6 @@
    "urgent": false,
    "fetched_at": "10-02 23:42",
    "ts": 1790955742
-  },
-  {
-   "id": "d496a90dbddd784604bd7c316034cc26",
-   "title": "Box Office: ‘Verity’ Makes $4.5 Million in Previews, ‘Digger’ Behind With $1.2 Million",
-   "summary": "Another Colleen Hoover adaptation is coming to theaters as Anne Hathaway and Dakota Johnson bring the author&#8217;s best-selling novel &#8220;Verity&#8221; to ",
-   "link": "https://variety.com/2026/film/box-office/box-office-verity-digger-previews-1236894943/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:41",
-   "ts": 1790955719
   },
   {
    "id": "9c96d82362b47a8f69de96618a97c82a",
@@ -1302,30 +1380,17 @@
    "ts": 1790955057
   },
   {
-   "id": "57ccd7100b7920d219aa20f1e65d579b",
-   "title": "Get 2 Months of the Paramount+ Premium (Ad-Free) Subscription for Just $1 Per Month",
-   "summary": "Gain access to Paramount's new fall lineup including Avatar: Seven Havens, Dexter: Resurrection, and more.",
-   "link": "https://www.ign.com/articles/paramount-plus-subscription-deal-october-2026",
-   "source": "IGN",
-   "channel": "游戏",
+   "id": "077fdf42fb97a882004a771ef6ef80bf",
+   "title": "One month coding with GLM 5.3 Flash",
+   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 10\n# Comments: 5",
+   "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-02 23:30",
-   "ts": 1790955000
-  },
-  {
-   "id": "7418097dcc86e03f16abde6e9b955ee2",
-   "title": "The Amazon October Prime Day Audible Deal Is Now Live: Pay $0.99 Per Month and Get $20 in Audible Credit",
-   "summary": "This time it appears to be for both Amazon Prime and non-Prime members.",
-   "link": "https://www.ign.com/articles/amazon-october-prime-day-sale-2026-audible-deal",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:30",
-   "ts": 1790955000
+   "fetched_at": "10-02 23:29",
+   "ts": 1790954955
   },
   {
    "id": "a35033c9b82bc7641cb8a07eb0aee47e",
@@ -1354,17 +1419,17 @@
    "ts": 1790954752
   },
   {
-   "id": "93fce91ce6f5027686fa755e281c99bb",
-   "title": "The Steam Autumn Sale for 2026 Is Now Live, and We Found the Best Deals",
-   "summary": "The Steam Autumn Sale 2026 is officially live. What games are you picking up?",
-   "link": "https://www.ign.com/articles/the-steam-autumn-sale-for-2026-is-now-live-and-we-found-the-best-deals",
-   "source": "IGN",
-   "channel": "游戏",
+   "id": "af7b0ca621157e61766647a9502e9161",
+   "title": "Learn Modern Kotlin",
+   "summary": "We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend se",
+   "link": "https://www.freecodecamp.org/news/learn-modern-kotlin/",
+   "source": "freeCodeCamp",
+   "channel": "教程",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
    "fetched_at": "10-02 23:23",
-   "ts": 1790954583
+   "ts": 1790954638
   },
   {
    "id": "4eabc43c2504daee8e5e3ce9c4ff8b06",
@@ -1523,6 +1588,19 @@
    "ts": 1790952799
   },
   {
+   "id": "8b7b6c345fd4628ff1e388c6b8ccf830",
+   "title": "How to Build an AI Support System That Automatically Routes Bugs to GitHub with Next.js and Jev",
+   "summary": "Every website gets feedback, and most of it ends up somewhere awkward. A visitor finds a broken button and emails you. Someone else leaves a comment on social m",
+   "link": "https://www.freecodecamp.org/news/build-an-ai-support-system-that-automatically-routes-bugs-to-github/",
+   "source": "freeCodeCamp",
+   "channel": "教程",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:52",
+   "ts": 1790952725
+  },
+  {
    "id": "ed1e013e1ab6ae0f0291607401c56ad4",
    "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
    "summary": "The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.",
@@ -1560,19 +1638,6 @@
    "urgent": false,
    "fetched_at": "10-02 22:36",
    "ts": 1790951793
-  },
-  {
-   "id": "1e7253b3995320cba4845250eb117e13",
-   "title": "Fixing GRPO's credit assignment problem without evaluating every step",
-   "summary": "Article URL: https://arxiv.org/abs/2609.36178\nComments URL: https://news.ycombinator.com/item?id=49934012\nPoints: 19\n# Comments: 3",
-   "link": "https://arxiv.org/abs/2609.36178",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:36",
-   "ts": 1790951764
   },
   {
    "id": "9aced2aa3b3d6cd5b13bd6b6c22df452",
@@ -1640,19 +1705,6 @@
    "ts": 1790951100
   },
   {
-   "id": "9412be8e40d63818e7b65113f477d01a",
-   "title": "iPhone Duo can be just $9/month with trade-in using Apple Upgrade",
-   "summary": "iPhone Duo pre-orders start soon, and while the foldable is Apple’s most expensive iPhone ever, the new Apple Upgrade program can get you a leased model at a lo",
-   "link": "https://9to5mac.com/2026/10/02/iphone-duo-can-be-just-9-month-with-trade-in-using-apple-upgrade/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:21",
-   "ts": 1790950894
-  },
-  {
    "id": "d7611b0ada88b80c341beba5eecd6baf",
    "title": "Reddit Is Choking Off RSS and Open Web Access to Keep AI Bots Out",
    "summary": "Many are worried that killing RSS feeds will destroy one of the last open, user-controlled ways to read the web.",
@@ -1667,8 +1719,8 @@
   },
   {
    "id": "0c809ece3a48d001fb10a1fc65ef08c0",
-   "title": "With most information hidden, the game Stratego had stumped AI–until now",
-   "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 3\n# Comm",
+   "title": "With most information hidden, the game Stratego had stumped AI until now",
+   "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 28\n# Com",
    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1768,6 +1820,19 @@
    "urgent": false,
    "fetched_at": "10-02 21:58",
    "ts": 1790949511
+  },
+  {
+   "id": "db810c81d5df200ad573db6732d3a318",
+   "title": "SequenceHash: Multihashing for the rest of us",
+   "summary": "Article URL: https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/\nComments URL: https://news.ycombinator.com/item?id=49933587\nP",
+   "link": "https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:56",
+   "ts": 1790949415
   },
   {
    "id": "9211881e5dcca967ea7a5c351eef7532",
@@ -1874,19 +1939,6 @@
    "ts": 1790948294
   },
   {
-   "id": "07faf3115454d107cbb9c43496c13aa8",
-   "title": "Benchmarking retrieval for agents on messy real-world company knowledge",
-   "summary": "Article URL: https://www.kapa.ai/blog/company-knowledge-bench\nComments URL: https://news.ycombinator.com/item?id=49933381\nPoints: 22\n# Comments: 2",
-   "link": "https://www.kapa.ai/blog/company-knowledge-bench",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:37",
-   "ts": 1790948238
-  },
-  {
    "id": "13ee2f22b14c4c7a66ff7d66c726b139",
    "title": "Mezcala fancied to scoop Challenge Cup prize",
    "summary": "After putting their collective support behind Daryz for the Prix de l'Arc de Triomphe, the Weekend Winners panel turned their attention to Ascot's Challenge Cup",
@@ -1967,7 +2019,7 @@
   {
    "id": "c3fbcb89a06a7880e80a7dea098e3f7b",
    "title": "The Legend of von Neumann (1973) [pdf]",
-   "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 188\n# Comments: 99",
+   "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 199\n# Comments: 108",
    "link": "https://gwern.net/doc/math/1973-halmos.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1989,6 +2041,19 @@
    "urgent": false,
    "fetched_at": "10-02 21:18",
    "ts": 1790947094
+  },
+  {
+   "id": "88d6d301e9b42f5ff1582d65c8f09eb9",
+   "title": "Venice’s failed war against Constantinople led to the first bond market",
+   "summary": "Article URL: https://bigthink.com/books/a-fabulous-debt/\nComments URL: https://news.ycombinator.com/item?id=49933230\nPoints: 6\n# Comments: 0",
+   "link": "https://bigthink.com/books/a-fabulous-debt/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 21:17",
+   "ts": 1790947067
   },
   {
    "id": "22e4e31aae10ad0c53c22d8550670c6a",
@@ -2054,6 +2119,19 @@
    "urgent": false,
    "fetched_at": "10-02 20:37",
    "ts": 1790944660
+  },
+  {
+   "id": "2d5383aaa2426c116aecd01569ff73f9",
+   "title": "100 years of student radio history in the DLARC college radio collections",
+   "summary": "Article URL: https://blog.archive.org/2026/10/02/100-years-of-student-radio-history-in-the-dlarc-college-radio-collections/\nComments URL: https://news.ycombinat",
+   "link": "https://blog.archive.org/2026/10/02/100-years-of-student-radio-history-in-the-dlarc-college-radio-collections/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 20:23",
+   "ts": 1790943788
   },
   {
    "id": "3edff936663aa625257886ce1653a47e",
@@ -2147,6 +2225,19 @@
    "ts": 1790942023
   },
   {
+   "id": "21aaa354699962b14e64d370b265e333",
+   "title": "How to Build Your Own AI App Builder Like Lovable with Next.js, AWS and Sandboxes",
+   "summary": "Tools like Lovable, Bolt, and v0 feel a bit like magic the first time you use them. Honestly, I was shocked the first time I saw something like that...and you g",
+   "link": "https://www.freecodecamp.org/news/build-your-own-ai-app-builder-with-next-js-aws-and-sandboxes/",
+   "source": "freeCodeCamp",
+   "channel": "教程",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:51",
+   "ts": 1790941863
+  },
+  {
    "id": "8f2529442f8b163b75815c78b0b5c584",
    "title": "Ride1Up just launched a 28 MPH German mid-drive e-bike for an insanely low $1,295",
    "summary": "There are cheap e-bikes, and there are good mid-drive e-bikes. Those two circles on the Venn diagram don’t overlap nearly as often as we’d like. But Ride1Up’s n",
@@ -2158,6 +2249,19 @@
    "urgent": true,
    "fetched_at": "10-02 19:16",
    "ts": 1790939760
+  },
+  {
+   "id": "8e8e1de166bfef783a640c5f8d4f8d82",
+   "title": "Our Project Suncatcher prototype satellite is in orbit",
+   "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/\nComments URL: https://news.ycombinator.com/",
+   "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:13",
+   "ts": 1790939582
   },
   {
    "id": "e161ff8f46b06f4c41811051d93fce48",
@@ -2238,19 +2342,6 @@
    "ts": 1790931803
   },
   {
-   "id": "2ba4983b47dd55f47d54b817cd648eb4",
-   "title": "Capcom RE:Dox, open source serialization/deserialization for game engines",
-   "summary": "Article URL: https://github.com/CAPCOM-TD-OSS/REDox\nComments URL: https://news.ycombinator.com/item?id=49931195\nPoints: 8\n# Comments: 2",
-   "link": "https://github.com/CAPCOM-TD-OSS/REDox",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 16:31",
-   "ts": 1790929908
-  },
-  {
    "id": "a3a51438a588b7fbf3feba7bcca4b6a3",
    "title": "STAT+: NIH awarded all its grant funding, but delayed and opaque decisions stymied researchers",
    "summary": "The NIH continued reducing grants involving health disparities, race, and ethnicity but made little progress toward other administration priorities in the 2026 ",
@@ -2301,19 +2392,6 @@
    "urgent": false,
    "fetched_at": "10-02 16:21",
    "ts": 1790929262
-  },
-  {
-   "id": "3970b6d76487b8362ec16406910ed92f",
-   "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 124\n# Comments: 44",
-   "link": "https://github.com/kvoltmer/Audionaut",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 16:05",
-   "ts": 1790928348
   },
   {
    "id": "9687caf462469744c49c6c2ca71fafaa",
@@ -2433,19 +2511,6 @@
    "ts": 1790920885
   },
   {
-   "id": "af33b5bbab24e50b74e293ed13a06c4b",
-   "title": "Shimano Bicycle Museum Review",
-   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 271\n# Comments: 67",
-   "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 13:12",
-   "ts": 1790917978
-  },
-  {
    "id": "da56d2a80d69365b60ac86652c98e20b",
    "title": "Android's new sideloading guardrails are now official in four countries",
    "summary": "Google announced a new process of sideloading apps on Android back in spring this year, and Android users had mixed feelings about it, to say the least. Google ",
@@ -2511,32 +2576,6 @@
    "ts": 1790916623
   },
   {
-   "id": "79dbd6f2e4572b0d484a8309d3b943b7",
-   "title": "OnePlus 16 confirmed to pack a much larger battery than its predecessor",
-   "summary": "Ahead of its upcoming launch, OnePlus has confirmed a major battery upgrade for the OnePlus 16, and it’s a big one. The smartphone is set to debut in China on O",
-   "link": "https://www.gsmarena.com/oneplus_16_confirmed_to_pack_a_much_larger_battery_than_its_predecessor-news-74859.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 12:01",
-   "ts": 1790913661
-  },
-  {
-   "id": "ea1db4a298507dd6108e2f0dbac21e4f",
-   "title": "Greg Kroah-Hartman – Security in the LLM Age [video]",
-   "summary": "Article URL: https://www.youtube.com/watch?v=NnV_cWeoo5Q\nComments URL: https://news.ycombinator.com/item?id=49929391\nPoints: 7\n# Comments: 1",
-   "link": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 10:51",
-   "ts": 1790909487
-  },
-  {
    "id": "afab8b61846c98ac0186e691fa2194f0",
    "title": "红海危局背后：破碎的也门与强势的胡塞，从何而来？",
    "summary": "红海航道再起波澜。9月以来，胡塞武装发动大规模军事攻势，迅速占据曼德海峡周边多个战略要地，全球能源与航运市场随之剧烈震荡。也门这一轮冲突升级，究竟因何爆发？也门局势未来又可能会走向何方？本期节目，中东研究专家朱泉钢将为大家介绍当前也门内战和胡塞武装-沙特冲突的来龙去脉与最新变化，分析域外各利益相关方在此次冲突中的选择及",
@@ -2567,45 +2606,6 @@
    "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel <i>Ply</i>",
    "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03057-4The Pulitzer-Prize-winning author joins us to talk about his time visiting CERN and com",
    "link": "https://www.nature.com/articles/d41586-026-03057-4",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-02 08:00",
-   "ts": 1790899200
-  },
-  {
-   "id": "a832d521cd9a1ef83779992aa25958c6",
-   "title": "How to respond to hate speech without fuelling it further",
-   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03058-3Psychologist Mirta Galesic discusses an increase in hateful comments online, and the sc",
-   "link": "https://www.nature.com/articles/d41586-026-03058-3",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "教程",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-02 08:00",
-   "ts": 1790899200
-  },
-  {
-   "id": "7cf669f8037bae4d6ce4b0d1bf900d4b",
-   "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
-   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8A fossil from a previously undiscovered species with feathery limbs, unearthed in China",
-   "link": "https://www.nature.com/articles/d41586-026-03126-8",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-02 08:00",
-   "ts": 1790899200
-  },
-  {
-   "id": "5fd34936b2bfaa9144379321c204e0b4",
-   "title": "Nature has rights — it is time the world recognized them",
-   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03145-5Existing legal frameworks have not halted planetary crises. Recognizing the rights of n",
-   "link": "https://www.nature.com/articles/d41586-026-03145-5",
    "source": "Nature",
    "channel": "科学",
    "category": "资讯",
