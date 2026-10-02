@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 03:04",
+ "updated_at": "2026-10-03 03:38",
  "total": 283,
  "channels": [
   "AI·科技",
@@ -15,8 +15,138 @@
  ],
  "items": [
   {
+   "id": "27c7009ec4e941cff909fed94d022375",
+   "title": "HQ PM Newsletter 10/2/2026",
+   "summary": "What to watch Friday: Penn State visits Northwestern in Big Ten play, NHL + more best bets",
+   "link": "https://www.cbssports.com/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:34",
+   "ts": 1790969655
+  },
+  {
+   "id": "3e4dd4f2c2f8f3baa5d9b8bcb02b5afa",
+   "title": "Kanye West’s Latest Tour Stop Bites the Dust as Upcoming St. Petersburg Gigs Are Canceled",
+   "summary": "The Russian promoter didn't indicate if the Oct. 10-11 dates would be rescheduled.",
+   "link": "https://www.hollywoodreporter.com/music/music-news/kanye-wests-russia-tour-stop-st-petersburg-canceled-1236721128/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:33",
+   "ts": 1790969583
+  },
+  {
+   "id": "a356295c0e9a5986b65217a66ee2b0c7",
+   "title": "Mary Louise Weller, Who Played Sorority Girl in ‘Animal House,’ Dies at 79",
+   "summary": "Mary Louise Weller, the actress known for her role as Mandy Pepperidge in “Animal House,” died Thursday after a long illness. She was 79. Her longtime partner M",
+   "link": "https://variety.com/2026/film/people-news/mary-louise-weller-dead-animal-house-actress-1236897729/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:31",
+   "ts": 1790969517
+  },
+  {
+   "id": "832f52cb48f409ebd9a25728b9e2f443",
+   "title": "Today's top games to watch, best bets, odds: Penn State at Northwestern, Pitt at Virginia Tech, NHL and more",
+   "summary": "Find best bets and props for the biggest games in sports on Friday from the SportsLine Projection Model and top CBS Sports experts",
+   "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-penn-state-at-northwestern-pitt-at-virginia-tech-nhl-and-more/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:31",
+   "ts": 1790969498
+  },
+  {
+   "id": "d612b8a109c87de109994cf242eaf209",
+   "title": "Jeep’s off-road electric SUV managed just 160 miles in a real-world highway range test",
+   "summary": "The Jeep Recon EV has removable doors and packs 670 horsepower combined, but it’s less efficient than advertised.\n\n\n\n more…",
+   "link": "https://electrek.co/2026/10/02/jeeps-off-road-ev-drove-160-miles-real-world-highway-range-test/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:30",
+   "ts": 1790969417
+  },
+  {
+   "id": "15a5a4b0421556e7f9a64cc0fc52d81e",
+   "title": "Starz Executive Vice President of Original Programming Karen Bailey to Exit (EXCLUSIVE)",
+   "summary": "Karen Bailey, the Starz exec responsible for bringing &#8220;Outlander&#8221; to the network, is exiting the company at the end of the month. Bailey&#8217;s dep",
+   "link": "https://variety.com/2026/tv/news/starz-original-programming-karen-bailey-exits-1236897728/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:30",
+   "ts": 1790969400
+  },
+  {
+   "id": "83a5724b81e26a02785d7e8599b3ee5e",
+   "title": "iOS 27’s Siri gets one thing very right that other AI assistants get wrong",
+   "summary": "Siri AI is a major upgrade to Apple’s assistant that’s now available in iOS 27. And there’s one standout area I’ve noticed where it differs greatly from other A",
+   "link": "https://9to5mac.com/2026/10/02/ios-27s-siri-gets-one-thing-very-right-that-other-ai-assistants-get-wrong/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:26",
+   "ts": 1790969194
+  },
+  {
+   "id": "07e09e12316977f645d728cffa9e63f2",
+   "title": "GLAAD’s New York Gala to Honor Bruce Cohen, Feature Ariana DeBose and Alex Newell",
+   "summary": "Ross Mathews is hosting the event in Manhattan on Oct. 23.",
+   "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/glaad-nyc-gala-2026-bruce-cohen-ariana-debose-alex-newell-1236721071/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:25",
+   "ts": 1790969142
+  },
+  {
+   "id": "70dfa6fa4ac5334b842b01aea3fb031b",
+   "title": "NFL longshot parlay picks, bets for Week 4, 2026: Get an epic return of +17,000,000",
+   "summary": "SportsLine's computer simulation model has locked in a $10 NFL Week 4 parlay that pays out $1.7 million",
+   "link": "https://www.cbssports.com/betting/news/nfl-longshot-parlay-picks-best-bets-week-4-2026/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:25",
+   "ts": 1790969136
+  },
+  {
+   "id": "b596e3d6199e9a1c9f406c2f4096ef3e",
+   "title": "Use DraftKings promo code to claim $150 in bonus bets by targeting Penn State-Northwestern, Virginia Tech-Pitt",
+   "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for college football betting and NFL on Friday",
+   "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-claim-150-bonus-bets-penn-state-northwestern-virginia-tech-pitt/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:25",
+   "ts": 1790969133
+  },
+  {
    "id": "2d05a3a730fb88187c4fb8c7bbb06b8b",
-   "title": "World Grand Prix LIVE! Price vs Clayton next after Aspinall thrashes Joyce",
+   "title": "World Grand Prix LIVE! Price faces Clayton after Aspinall thrashes Joyce",
    "summary": "",
    "link": "https://www.skysports.com/darts/live-blog/12040/13594445/world-grand-prix-darts-live-latest-scores-updates-highlights-as-luke-humphries-gerwyn-price-james-wade-in-quarter-final-action",
    "source": "Sky Sports",
@@ -26,6 +156,45 @@
    "urgent": false,
    "fetched_at": "10-03 03:25",
    "ts": 1790969100
+  },
+  {
+   "id": "cf35e2444299215757fc82db6b94f311",
+   "title": "Wynonna Judd Says Rosie O’Donnell’s Claims That She’s a Trump Supporter Are a “Complete Assumption”",
+   "summary": "“I’ve never spoken to her about politics in my life,” Judd said about O’Donnell.",
+   "link": "https://www.hollywoodreporter.com/news/politics-news/wynonna-judd-responds-rosie-odonnell-trump-supporter-1236721112/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:22",
+   "ts": 1790968948
+  },
+  {
+   "id": "b1c322838d1d888cbb0efd96da705b00",
+   "title": "Manchester City's 'sliding doors' moment: How the Premier League changed after Abu Dhabi started spending",
+   "summary": "A look back at how the 2008 Abu Dhabi takeover altered English football and closed the door on rising contenders like Aston Villa and Everton who were poised to",
+   "link": "https://www.cbssports.com/soccer/news/manchester-citys-sliding-doors-premier-league-abu-dhabi-spending/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:21",
+   "ts": 1790968873
+  },
+  {
+   "id": "d0281fd030aca739197707cfc5fc9670",
+   "title": "Podcast: Tesla Roadster delay, EV deliveries, battery swap comes back, and more",
+   "summary": "In the Electrek Podcast, we discuss the most popular news in the world of sustainable transport and energy. In this week’s episode, we discuss the Tesla Roadste",
+   "link": "https://electrek.co/2026/10/02/podcast-tesla-roadster-delay-ev-deliveries-battery-swap-comes-back-and-more/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:20",
+   "ts": 1790968855
   },
   {
    "id": "67e69264e8936983f0ff1695ea45085b",
@@ -39,6 +208,84 @@
    "urgent": false,
    "fetched_at": "10-03 03:20",
    "ts": 1790968800
+  },
+  {
+   "id": "fad03677b769d8751ee3052daefa045c",
+   "title": "Hardly Promethean",
+   "summary": "Article URL: https://jardo.dev/hardly-promethean\nComments URL: https://news.ycombinator.com/item?id=49937388\nPoints: 3\n# Comments: 0",
+   "link": "https://jardo.dev/hardly-promethean",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:18",
+   "ts": 1790968704
+  },
+  {
+   "id": "7d9adb97e3d891224fbb027deeb37b3a",
+   "title": "The Only Intuitive Interface Is the Nipple",
+   "summary": "Article URL: https://www.greenend.org.uk/rjk/misc/nipple.html\nComments URL: https://news.ycombinator.com/item?id=49937387\nPoints: 6\n# Comments: 1",
+   "link": "https://www.greenend.org.uk/rjk/misc/nipple.html",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:18",
+   "ts": 1790968692
+  },
+  {
+   "id": "b064883436e6ac625f8e0c9b48f96902",
+   "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
+   "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
+   "link": "https://techcrunch.com/2026/10/02/disrupt-2026-layoff-expo-plus-passes-available-for-75-dollars/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:15",
+   "ts": 1790968551
+  },
+  {
+   "id": "1a8d25124659345e7e26634cfa1538f1",
+   "title": "‘American Horror Story: 13’: Paul Anthony Kelly Says “There’s Some Good” to Mr. Nas as Jessica Lange’s Secret Fifth Character Is Unveiled",
+   "summary": "The actor, who previously portrayed John F. Kennedy Jr. in 'Love Story,' opens up to The Hollywood Reporter about joining the Ryan Murphy anthology.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-features/american-horror-story-13-paul-anthony-kelly-mr-nas-explained-1236720715/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:13",
+   "ts": 1790968393
+  },
+  {
+   "id": "91991dd4b04c477fece24df330fccff1",
+   "title": "Holy Harvey Awards, Batman! Frank Miller, Klaus Janson, David Mazzucchelli Set for Hall of Fame Honors (Exclusive)",
+   "summary": "It will be a special Dark Knight edition of the ceremony at New York Comic Con as key Batman creators, living and deceased, are inducted.",
+   "link": "https://www.hollywoodreporter.com/business/business-news/frank-miller-hall-of-fame-honors-harvey-1236720555/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:11",
+   "ts": 1790968309
+  },
+  {
+   "id": "e4cba515498e6627e20d7c244c3c1c32",
+   "title": "Apple Pass Designer",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 56\n# Comments: 12",
+   "link": "https://developer.apple.com/pass-designer/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:06",
+   "ts": 1790968016
   },
   {
    "id": "3b0a14ba61caafb2cc2cb8f396a1772f",
@@ -65,6 +312,32 @@
    "urgent": false,
    "fetched_at": "10-03 03:02",
    "ts": 1790967757
+  },
+  {
+   "id": "a443c6d76506f3ab714fd5d051003ec6",
+   "title": "Will Aaron Judge be on Yankees' ALDS roster vs. Rays? Three-time MVP working to return from calf injury",
+   "summary": "Judge has been on the injured list since Sept. 16 and missed New York's two-game Wild Card Series sweep over the Red Sox",
+   "link": "https://www.cbssports.com/mlb/news/yankees-aaron-judge-injury-update-alds-rays-mlb-playoffs/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:54",
+   "ts": 1790967261
+  },
+  {
+   "id": "c4926e76535b05ac4648016e128a929c",
+   "title": "Fantasy football Week 4 PPR Cheat Sheet: David Montgomery a boom-bust RB2 play as Houston committee emerges",
+   "summary": "Set your best Week 4 lineup with our PPR cheat sheet, breaking down every player in consideration",
+   "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-4-ppr-cheat-sheet-david-montgomery-a-boom-bust-rb2-play-as-houston-committee-emerges/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:52",
+   "ts": 1790967128
   },
   {
    "id": "6da037b2aec6a6206b2d0ad04253f7f2",
@@ -169,6 +442,19 @@
    "urgent": false,
    "fetched_at": "10-03 02:34",
    "ts": 1790966046
+  },
+  {
+   "id": "72e163bc9c519e5ea0c18a60fa9b48c2",
+   "title": "Colorectal Cancer Is Rising Among the Young, Even Kids and Teens",
+   "summary": "Article URL: https://gizmodo.com/colorectal-cancer-is-rising-among-kids-and-teens-and-its-not-the-same-disease-adults-get-2000818128\nComments URL: https://news.",
+   "link": "https://gizmodo.com/colorectal-cancer-is-rising-among-kids-and-teens-and-its-not-the-same-disease-adults-get-2000818128",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:31",
+   "ts": 1790965872
   },
   {
    "id": "6d4eb66f064a197b212db8ebbf6950b4",
@@ -379,6 +665,19 @@
    "ts": 1790964918
   },
   {
+   "id": "0b479ca77b49c2f69f81abd5742ecd50",
+   "title": "Around 2-6% of World Bank foreign aid got siphoned into crypto wallets",
+   "summary": "Article URL: https://www.nber.org/papers/w35655\nComments URL: https://news.ycombinator.com/item?id=49936725\nPoints: 6\n# Comments: 0",
+   "link": "https://www.nber.org/papers/w35655",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:14",
+   "ts": 1790964869
+  },
+  {
    "id": "936e389a0e30c073bc821bf810c48d95",
    "title": "Amazon Is Dropping Prices on Green Lantern Merch Ahead of Lanterns Season Finale",
    "summary": "",
@@ -418,22 +717,22 @@
    "ts": 1790964629
   },
   {
-   "id": "9b69b8b683cb0fd42d9a1ce2462ab46d",
-   "title": "Leaderboards and speedrun.com's new terms of service",
-   "summary": "Article URL: https://therun.gg/blog/leaderboards-speedruncom\nComments URL: https://news.ycombinator.com/item?id=49936641\nPoints: 15\n# Comments: 3",
-   "link": "https://therun.gg/blog/leaderboards-speedruncom",
+   "id": "8ac0bf09251623b0dc54becef072a167",
+   "title": "What if we stopped using GPUs? [video]",
+   "summary": "Article URL: https://www.youtube.com/watch?v=xc2FTBGRSJo\nComments URL: https://news.ycombinator.com/item?id=49936671\nPoints: 9\n# Comments: 1",
+   "link": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
    "source": "Hacker News",
    "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-03 02:07",
-   "ts": 1790964425
+   "fetched_at": "10-03 02:09",
+   "ts": 1790964578
   },
   {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 4\n# Comments: 0",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 10\n# Comments: 1",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -548,19 +847,6 @@
    "ts": 1790963296
   },
   {
-   "id": "75b0d87aea1cb3939d97a9ec3f889a36",
-   "title": "‘Digger’ Unearths $1.2M in Box Office Previews Amid Warner Bros.’ Leadership Shake-Up",
-   "summary": "Amazon MGM's adaptation of Colleen Hoover's 'Verity' is expected to prevail over the weekend.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/digger-box-office-tom-cruise-previews-warner-bros-verity-1236720902/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:39",
-   "ts": 1790962764
-  },
-  {
    "id": "0cdc00acafe92528a17d3fc12b89a71d",
    "title": "Breaking up (with Elon Musk) is hard to do",
    "summary": "In a throwback to MySpace-style internet drama, Shivon Zilis announced that she and the father of her four children, Elon Musk, had broken up on X. To do so, sh",
@@ -626,32 +912,6 @@
    "ts": 1790962229
   },
   {
-   "id": "8bde456f14615f62ff366c129504ece9",
-   "title": "The opportunity awaiting Mississippi State against No. 7 Alabama",
-   "summary": "An undefeated start and surging momentum under Jeff Lebby have Starkville buzzing as the Bulldogs look to snap a losing streak against the Crimson Tide that dat",
-   "link": "https://www.cbssports.com/college-football/news/the-opportunity-awaiting-mississippi-state-against-no-7-alabama/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:27",
-   "ts": 1790962077
-  },
-  {
-   "id": "c8af9d21709b0824ba668c5ab063250b",
-   "title": "Underdog promo code and prediction markets review: Use code CBS for up to $1,000 Bonus",
-   "summary": "Learn about the Underdog Prediction Picks product within the Underdog app and use Underdog promo code CBS for up to $1,000 in bonus funds and more, as of Octobe",
-   "link": "https://www.cbssports.com/prediction/news/underdog-promo-code/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:27",
-   "ts": 1790962020
-  },
-  {
    "id": "ac14ca169a9b40c7accb6faf48e84241",
    "title": "Man Utd latest: Baleba plays first minutes in behind-closed-doors friendly",
    "summary": "",
@@ -689,45 +949,6 @@
    "urgent": true,
    "fetched_at": "10-03 01:22",
    "ts": 1790961739
-  },
-  {
-   "id": "8065ba1e14b8ec4e67df8d96e83b0565",
-   "title": "Watt is going on in Pittsburgh? Frustrations boil over on Steelers' sideline during loss to Browns",
-   "summary": "Multiple Steelers players were seen sounding off during the divisional game on Thursday night",
-   "link": "https://www.cbssports.com/nfl/news/frustrations-boil-over-steelers-sideline-during-loss-to-browns/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:19",
-   "ts": 1790961594
-  },
-  {
-   "id": "df3991c139d51c5cfc325723af9d5399",
-   "title": "Should the Phillies trade Bryce Harper or Kyle Schwarber? Why blockbuster deal doesn't make sense",
-   "summary": "Moving on from the veteran sluggers wouldn't help Philadelphia in the short term and probably not the long term either",
-   "link": "https://www.cbssports.com/mlb/news/phillies-trade-rumors-bryce-harper-kyle-schwarber/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:19",
-   "ts": 1790961581
-  },
-  {
-   "id": "e0f7f7695789451d1565f06f8ce62476",
-   "title": "Mike Tomlin gets roasted by former Super Bowl MVP, former Steelers star and others for Minecraft City",
-   "summary": "Former players and coaches marveled at Tomlin's surprising hobby, while Cleveland used it to troll its division rival after a wild victory",
-   "link": "https://www.cbssports.com/nfl/news/mike-tomlin-minecraft-city-nfl-leveon-bell-julian-edelman/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:19",
-   "ts": 1790961552
   },
   {
    "id": "a599a7100514b4d4c89a69722f22cd39",
@@ -769,19 +990,6 @@
    "ts": 1790961303
   },
   {
-   "id": "669ee98643c9bf8c42caee5a9689715d",
-   "title": "‘Other Mommy,’ ‘Whalefall’ and ‘Victorian Psycho’:  The Authors Behind the Page-to-Screen Nightmares Compare Notes",
-   "summary": "Ahead of their film adaptations releasing this fall, authors Josh Malerman, Daniel Kraus and Virginia Feito discuss their starry casts, why none of them writes ",
-   "link": "https://www.hollywoodreporter.com/movies/movie-features/other-mommy-whalefall-victorian-psycho-authors-interview-1236707921/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:15",
-   "ts": 1790961300
-  },
-  {
    "id": "9855134b937c949a6a49664370cef845",
    "title": "AT&T, Verizon, and T-Mobile officially launch joint venture to end dead zones",
    "summary": "Back in May, AT&amp;T, Verizon, and T-Mobile announced \"an agreement in principle\" to create a joint venture that would strive to end dead zones across the US. ",
@@ -808,19 +1016,6 @@
    "ts": 1790960640
   },
   {
-   "id": "3c7e69c021dc86d90f9ae53c970163fe",
-   "title": "Mystery Function",
-   "summary": "Article URL: https://codeset.ai/function\nComments URL: https://news.ycombinator.com/item?id=49935872\nPoints: 4\n# Comments: 0",
-   "link": "https://codeset.ai/function",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:03",
-   "ts": 1790960588
-  },
-  {
    "id": "bc7fdf17cb4f1ec01e44bc6607566184",
    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
    "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has c",
@@ -839,19 +1034,6 @@
    "summary": "Washington Commanders quarterback Marcus Mariota will get his second start in place of the injured Jayden Daniels on Sunday when his side face the Indianapolis ",
    "link": "https://www.skysports.com/nfl/news/12040/13594429/nfl-london-games-2026-marcus-mariota-to-start-for-washington-commanders-vs-indianapolis-colts-as-jayden-daniels-ruled-out",
    "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:00",
-   "ts": 1790960400
-  },
-  {
-   "id": "c4a3d86af8afa7be91149fb15e8436f2",
-   "title": "Browns' Mason Graham to reportedly miss a few weeks with MCL sprain, ankle sprain",
-   "summary": "The standout defensive tackle was injured during Pittsburgh's opening possession on Thursday night",
-   "link": "https://www.cbssports.com/nfl/news/mason-graham-injury-update-browns-steelers/",
-   "source": "CBS Sports",
    "channel": "体育",
    "category": "资讯",
    "weight": 2,
@@ -888,7 +1070,7 @@
   {
    "id": "b891c4c19e20a7397f065c49ad2d00a7",
    "title": "Dutch computer museums (2022)",
-   "summary": "Article URL: https://aresluna.org/dutch-computer-museums/\nComments URL: https://news.ycombinator.com/item?id=49935751\nPoints: 82\n# Comments: 23",
+   "summary": "Article URL: https://aresluna.org/dutch-computer-museums/\nComments URL: https://news.ycombinator.com/item?id=49935751\nPoints: 87\n# Comments: 24",
    "link": "https://aresluna.org/dutch-computer-museums/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -910,32 +1092,6 @@
    "urgent": false,
    "fetched_at": "10-03 00:51",
    "ts": 1790959909
-  },
-  {
-   "id": "82c73b6527abdbee14ccf240c8717cec",
-   "title": "Week 4 NFL score predictions, picks, odds, betting advice: Computer model reveals projections for every game",
-   "summary": "Make NFL best bets at NFL betting sites by seeing NFL score predictions from our advanced model",
-   "link": "https://www.cbssports.com/betting/news/week-4-nfl-score-predictions-picks-odds-betting-advice-computer-model-reveals-projections-for-every-game/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:50",
-   "ts": 1790959834
-  },
-  {
-   "id": "15a99c3d7ccb124615bec44de475ace3",
-   "title": "‘Tip Toe’ Review: Alan Cumming and David Morrissey Fire Up Russell T. Davies’ Searingly Relevant Starz Drama About Violent Bigotry",
-   "summary": "From the creator of 'It's a Sin,' the five-part miniseries centers on a gay bar owner who enters a rapidly escalating feud with his homophobic neighbor.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-reviews/tip-toe-review-alan-cumming-russell-t-davies-starz-1236717480/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:48",
-   "ts": 1790959690
   },
   {
    "id": "82fef6d8b6ab20228ddefa9672393aee",
@@ -1016,19 +1172,6 @@
    "ts": 1790958840
   },
   {
-   "id": "ec0493458a30e1b188190c69145a8f03",
-   "title": "‘The Watcher’ Season 2 Is Coming: Naomi Watts, Bobby Cannavale Returning",
-   "summary": "Margo Martindale and Isabel Gravitt will also reprise their roles when the Netflix series from Ryan Murphy and Ian Brennan returns four-plus years after season ",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/the-watcher-season-2-naomi-watts-bobby-cannavale-1236721015/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:32",
-   "ts": 1790958761
-  },
-  {
    "id": "3580056809b4721d8f3ca2cb1ade9529",
    "title": "MTG’s Hobbit Cards Are the Closest Thing to Owning Rare Tolkien Memorabilia, and Perfect for Collectors",
    "summary": "Here's why Magic: The Gathering’s small-ish Hobbit set somehow surpasses the massive Lord of the Rings crossover for die-hard Tolkien collectors, just one month",
@@ -1053,19 +1196,6 @@
    "urgent": false,
    "fetched_at": "10-03 00:30",
    "ts": 1790958600
-  },
-  {
-   "id": "690e3386e8f585384bf6b969decfbbf7",
-   "title": "Tony Romo Out at CBS Sports Following DWI Plea",
-   "summary": "The NFL commentator and former quarterback pleaded no contest to charges in Wisconsin in September.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/cbs-sports-tony-romo-part-ways-1236720996/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:20",
-   "ts": 1790958053
   },
   {
    "id": "500be1e33e3bb1854dd0c1d1cf3ba42d",
@@ -1159,32 +1289,6 @@
    "ts": 1790957220
   },
   {
-   "id": "076a31f4cc3797da60de7ab2780b23a5",
-   "title": "Dan Houser on Leaving ‘GTA 6’ Studio Rockstar Games, Starting an Absurd New Company and Why He Doesn’t Play Open-World Games Anymore",
-   "summary": "“Red Dead Redemption” and “Grand Theft Auto” mastermind Dan Houser is ready to spill the first significant details about his next video game projects. The co-fo",
-   "link": "https://variety.com/2026/gaming/news/rockstar-dan-houser-gta-6-new-games-absurd-ventures-1236894786/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:00",
-   "ts": 1790956800
-  },
-  {
-   "id": "bdeed5f36d10eff1f8175826e55e7515",
-   "title": "Power 25 Marketers and Advertisers: From Sales to Creative to Measurement, These Leaders Drive the Business of Madison Avenue",
-   "summary": "Even people who have been around the block a few times on Madison Avenue find themselves sometimes having to ask for directions. The art and science of promotin",
-   "link": "https://variety.com/lists/power-25-marketers-advertisers-keegan-michael-key-miles/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:00",
-   "ts": 1790956800
-  },
-  {
    "id": "8420a5b7a1703f6047555c769023c821",
    "title": "Using an iPad mini to preview the iPhone Duo experience",
    "summary": "Alongside using the iPhone 18 Pro, I’ve also been carrying out a little experiment as we await the launch of the iPhone Duo.\n\n\n\nTo get a sense of what it might ",
@@ -1239,7 +1343,7 @@
   {
    "id": "91fad254853a6d9555a5ffc82cbf9745",
    "title": "Supabase is acquiring Turso",
-   "summary": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 155\n# Comments: 81",
+   "summary": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 164\n# Comments: 85",
    "link": "https://supabase.com/blog/supabase-is-acquiring-turso",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1382,7 +1486,7 @@
   {
    "id": "077fdf42fb97a882004a771ef6ef80bf",
    "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 10\n# Comments: 5",
+   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 23\n# Comments: 17",
    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1484,6 +1588,19 @@
    "ts": 1790954100
   },
   {
+   "id": "400e7c526772751222cd85381fd8df70",
+   "title": "How accurately calibrated is Jev?",
+   "summary": "Article URL: https://maximumeffort.substack.com/p/jev-is-poorly-calibrated\nComments URL: https://news.ycombinator.com/item?id=49934399\nPoints: 12\n# Comments: 6",
+   "link": "https://maximumeffort.substack.com/p/jev-is-poorly-calibrated",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 23:12",
+   "ts": 1790953961
+  },
+  {
    "id": "9badac32462fbc337e77fcffde702553",
    "title": "Google Home is acting up, but Google’s already got a fix on the way",
    "summary": "Some users are facing errors while interacting with their devices in the Google Home mobile apps.",
@@ -1573,19 +1690,6 @@
    "urgent": false,
    "fetched_at": "10-02 22:56",
    "ts": 1790952976
-  },
-  {
-   "id": "4744a441267b82f4a828cda6ec553c5d",
-   "title": "HBO Max and Paramount+ set to merge under ‘Skydance’ brand",
-   "summary": "Paramount Skydance will complete its acquisition of Warner Bros. next week, and CEO David Ellison just revealed ‘Skydance’ as the new company name ahead of a pl",
-   "link": "https://9to5mac.com/2026/10/02/hbo-max-and-paramount-set-to-merge-under-skydance-brand/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:53",
-   "ts": 1790952799
   },
   {
    "id": "8b7b6c345fd4628ff1e388c6b8ccf830",
@@ -1720,7 +1824,7 @@
   {
    "id": "0c809ece3a48d001fb10a1fc65ef08c0",
    "title": "With most information hidden, the game Stratego had stumped AI until now",
-   "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 28\n# Com",
+   "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 57\n# Com",
    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1822,19 +1926,6 @@
    "ts": 1790949511
   },
   {
-   "id": "db810c81d5df200ad573db6732d3a318",
-   "title": "SequenceHash: Multihashing for the rest of us",
-   "summary": "Article URL: https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/\nComments URL: https://news.ycombinator.com/item?id=49933587\nP",
-   "link": "https://blog.trailofbits.com/2026/10/02/sequencehash-multihashing-for-the-rest-of-us/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:56",
-   "ts": 1790949415
-  },
-  {
    "id": "9211881e5dcca967ea7a5c351eef7532",
    "title": "This Android flagship’s insane camera hardware could soon be matched by an insane price",
    "summary": "Global pricing could look very different from what buyers saw in China.",
@@ -1911,19 +2002,6 @@
    "urgent": false,
    "fetched_at": "10-02 21:42",
    "ts": 1790948556
-  },
-  {
-   "id": "ab59da8e6f5a39462f6fe95ee72e16d5",
-   "title": "Tesla sustains its EV sales momentum despite US troubles",
-   "summary": "The company delivered more than 486,000 EVs in the third quarter, down from last year's record but moving in a positive direction.",
-   "link": "https://techcrunch.com/2026/10/02/tesla-sustains-its-ev-sales-momentum-despite-us-troubles/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:39",
-   "ts": 1790948363
   },
   {
    "id": "bc9110b9ef75daad5245b91b6e44a255",
@@ -2017,19 +2095,6 @@
    "ts": 1790947202
   },
   {
-   "id": "c3fbcb89a06a7880e80a7dea098e3f7b",
-   "title": "The Legend of von Neumann (1973) [pdf]",
-   "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 199\n# Comments: 108",
-   "link": "https://gwern.net/doc/math/1973-halmos.pdf",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:18",
-   "ts": 1790947112
-  },
-  {
    "id": "55b85bc63e46cf0d0904fd281eb31204",
    "title": "B 站 App 上架鸿蒙手表端应用市场：用户可在华为 WATCH 系列手表上自由看视频、刷弹幕",
    "summary": "IT之家 10 月 2 日消息，B 站 App 宣布上架鸿蒙手表端应用市场，用户在华为 WATCH 系列手表上就能看视频、刷弹幕、听播客。官方表示，用户只需前往应用市场，即可下载安装哔哩哔哩手表端，相应 App 提供收藏、倍速、循环播放、下载缓存等各种特性，适合早高峰地铁、夜跑、做饭、洗碗、排队、等人等各种场景，精彩内",
@@ -2041,19 +2106,6 @@
    "urgent": false,
    "fetched_at": "10-02 21:18",
    "ts": 1790947094
-  },
-  {
-   "id": "88d6d301e9b42f5ff1582d65c8f09eb9",
-   "title": "Venice’s failed war against Constantinople led to the first bond market",
-   "summary": "Article URL: https://bigthink.com/books/a-fabulous-debt/\nComments URL: https://news.ycombinator.com/item?id=49933230\nPoints: 6\n# Comments: 0",
-   "link": "https://bigthink.com/books/a-fabulous-debt/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:17",
-   "ts": 1790947067
   },
   {
    "id": "22e4e31aae10ad0c53c22d8550670c6a",
@@ -2119,19 +2171,6 @@
    "urgent": false,
    "fetched_at": "10-02 20:37",
    "ts": 1790944660
-  },
-  {
-   "id": "2d5383aaa2426c116aecd01569ff73f9",
-   "title": "100 years of student radio history in the DLARC college radio collections",
-   "summary": "Article URL: https://blog.archive.org/2026/10/02/100-years-of-student-radio-history-in-the-dlarc-college-radio-collections/\nComments URL: https://news.ycombinat",
-   "link": "https://blog.archive.org/2026/10/02/100-years-of-student-radio-history-in-the-dlarc-college-radio-collections/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:23",
-   "ts": 1790943788
   },
   {
    "id": "3edff936663aa625257886ce1653a47e",
@@ -2236,32 +2275,6 @@
    "urgent": false,
    "fetched_at": "10-02 19:51",
    "ts": 1790941863
-  },
-  {
-   "id": "8f2529442f8b163b75815c78b0b5c584",
-   "title": "Ride1Up just launched a 28 MPH German mid-drive e-bike for an insanely low $1,295",
-   "summary": "There are cheap e-bikes, and there are good mid-drive e-bikes. Those two circles on the Venn diagram don’t overlap nearly as often as we’d like. But Ride1Up’s n",
-   "link": "https://electrek.co/2026/10/02/ride1up-just-launched-a-28-mph-german-mid-drive-e-bike-for-an-insanely-low-1295/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-02 19:16",
-   "ts": 1790939760
-  },
-  {
-   "id": "8e8e1de166bfef783a640c5f8d4f8d82",
-   "title": "Our Project Suncatcher prototype satellite is in orbit",
-   "summary": "Article URL: https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/\nComments URL: https://news.ycombinator.com/",
-   "link": "https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 19:13",
-   "ts": 1790939582
   },
   {
    "id": "e161ff8f46b06f4c41811051d93fce48",
@@ -2587,19 +2600,6 @@
    "urgent": false,
    "fetched_at": "10-02 10:00",
    "ts": 1790906400
-  },
-  {
-   "id": "fcc216a037999e253de2ec2d6c1ebf20",
-   "title": "Tesla Model 3 gets range and performance boost, plus a new 16-inch screen in US",
-   "summary": "Tesla is now putting its larger 16-inch center touchscreen in every Model 3 sold in the US, Puerto Rico, and Mexico, a day after it rolled out the same upgrade ",
-   "link": "https://electrek.co/2026/10/01/tesla-model-3-us-16-inch-screen-performance-528-hp/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 08:54",
-   "ts": 1790902444
   },
   {
    "id": "ba5fe6e01564f6297874448c9b77e425",
