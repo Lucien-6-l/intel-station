@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03 05:03",
- "total": 283,
+ "updated_at": "2026-10-03 05:37",
+ "total": 271,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,13 +10,324 @@
   "数码",
   "汽车",
   "游戏",
-  "科学",
   "财经"
  ],
  "items": [
   {
+   "id": "c9a6b9bd20d0234f70b8a41f3b9cb28f",
+   "title": "Zidane's France held by Italy as De Bruyne inspires Belgium",
+   "summary": "",
+   "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:16",
+   "ts": 1790979360
+  },
+  {
+   "id": "2d05a3a730fb88187c4fb8c7bbb06b8b",
+   "title": "World Grand Prix LIVE! Humphries leads after Wade hammers Van Veen",
+   "summary": "",
+   "link": "https://www.skysports.com/darts/live-blog/12040/13594445/world-grand-prix-darts-live-latest-scores-updates-highlights-as-luke-humphries-gerwyn-price-james-wade-in-quarter-final-action",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:12",
+   "ts": 1790979120
+  },
+  {
+   "id": "fc83d84cbb01bfcd25e1ec4fe5c5416a",
+   "title": "Brown scores twice as Northen Ireland cruise to win over Ukraine",
+   "summary": "Ciaron Brown's first international goals came as a pair to help a young Northern Ireland side stun Ukraine 3-0 and go clear at the top of Nations League Group B",
+   "link": "https://www.skysports.com/football/ukraine-vs-northern-ireland/report/554050",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:47",
+   "ts": 1790977620
+  },
+  {
+   "id": "1cf084ed1dde5b000f27ef88ec9f812c",
+   "title": "17 Best New Movies Streaming in October: ’The Invite,’ ‘Disclosure Day,’ ‘Evil Dead Burn’ and More",
+   "summary": "October is Halloween movie season, so it&#8217;s the perfect time for two of the year&#8217;s high-profile horror releases to debut on streaming platforms. &#82",
+   "link": "https://variety.com/lists/best-movies-streaming-october-2026/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:26",
+   "ts": 1790976360
+  },
+  {
+   "id": "ea96f22a1e6f93787ce724c5a3bf9648",
+   "title": "Alabama vs. Mississippi State prediction, pick, odds, spread: Star QBs headline SEC showdown",
+   "summary": "Two unbeaten SEC rivals square off in Starkville as Keelon Russell leads a high-powered Tide offense against Kamario Taylor and the surging Bulldogs",
+   "link": "https://www.cbssports.com/college-football/news/alabama-mississippi-state-prediction-picks-odds-spread-where-to-watch-live/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:24",
+   "ts": 1790976242
+  },
+  {
+   "id": "342aa00964b7fa4c1bfdffbdcb4772f9",
+   "title": "‘Celebrity Traitors’ Star Richard E. Grant Accidentally Reveals He’s a Traitor to Cast in Premiere, Calls It the ‘Biggest Mistake I’ve Made in My Life’",
+   "summary": "Richard E. Grant almost immediately blew his chances on this season of &#8220;Celebrity Traitors&#8221; in what he calls the &#8220;biggest mistake I’ve made in",
+   "link": "https://variety.com/2026/tv/news/celebrity-traitors-richard-e-grant-reveals-traitor-premiere-1236897863/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:23",
+   "ts": 1790976203
+  },
+  {
+   "id": "e669af54f401b4f9513bf6af91b10258",
+   "title": "NFL Week 4 injury report: Justin Jefferson out, Nico Collins in; Terry McLaurin suffers late-week injury",
+   "summary": "Here's a look at each game designation for Week 4 in the NFL",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-injury-report-justin-jefferson-aaron-donald-terry-mclaurin/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:22",
+   "ts": 1790976166
+  },
+  {
+   "id": "4455e0468af757eae35627876c446cf4",
+   "title": "Week 4 Fantasy football injuries: DeVonta Smith, Justin Jefferson sidelined but two star WRs set to return",
+   "summary": "McLaurin's late-week hamstring injury puts his London status in doubt, with Antonio Williams emerging as a waiver-wire option",
+   "link": "https://www.cbssports.com/fantasy/football/news/week-4-2026-fantasy-football-injury-updates/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:22",
+   "ts": 1790976143
+  },
+  {
+   "id": "352eb74842c9985d916225bbae4f20ef",
+   "title": "Navy vs. Air Force prediction, pick, odds, spread: Falcons aim to snap two-game skid against Midshipmen",
+   "summary": "The first game in the Commander-in-Chief's Trophy series takes place Saturday when Navy travels to Air Force",
+   "link": "https://www.cbssports.com/college-football/news/navy-air-force-prediction-picks-odds-spread-where-to-watch-live/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:21",
+   "ts": 1790976085
+  },
+  {
+   "id": "f62c6013bebb2161ed82577183259390",
+   "title": "Ohio State vs. Iowa prediction, pick, odds, spread: Buckeyes face another road test at Hawkeyes",
+   "summary": "No. 5 Ohio State travels to Iowa City for a Big Ten showdown with the No. 14 Hawkeyes",
+   "link": "https://www.cbssports.com/college-football/news/ohio-state-iowa-prediction-picks-odds-spread-where-to-watch-live/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:19",
+   "ts": 1790975981
+  },
+  {
+   "id": "7889ffa4aa9ca81d4e3b70d08625384c",
+   "title": "Olivia Dean Song Accused of Plagiarizing Bill Withers’ “Just the Two of Us”",
+   "summary": "The publisher of Wither’s catalog claims that the similarities between Dean’s \"I've Seen It\" and Wither's 1981 hit are “obvious and inescapable.”",
+   "link": "https://www.hollywoodreporter.com/music/music-news/olivia-dean-song-bill-withers-just-the-two-of-us-lawsuit-1236721273/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:18",
+   "ts": 1790975918
+  },
+  {
+   "id": "90be65794acb5621a5d71d07e86a51f0",
+   "title": "Miami vs. Clemson prediction, pick, odds, spread: Hurricanes look to prove status as ACC's king",
+   "summary": "ACC frontrunner and No. 4 Miami travels to Death Valley for a Saturday night clash at Clemson",
+   "link": "https://www.cbssports.com/college-football/news/miami-clemson-prediction-picks-odds-spread-where-to-watch-live/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:15",
+   "ts": 1790975745
+  },
+  {
+   "id": "d1aaf7a1001f5e6b103c666d7efd3ca0",
+   "title": "Use FanDuel promo code to get $250 in bonus bets by targeting Pitt-Virginia Tech, Penn State-Northwestern",
+   "summary": "Sign up and bet with the latest FanDuel promo code on Friday to get your bonus bets",
+   "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-pitt-virginia-tech-penn-state-northwestern/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:15",
+   "ts": 1790975744
+  },
+  {
+   "id": "dc44b8c92d536b5745a44d73ae58e106",
+   "title": "Android Auto’s signal bars are finally returning to dashboards",
+   "summary": "Android Auto's signal bars were missing for months, but a fix is finally here.",
+   "link": "https://www.androidauthority.com/android-auto-signal-bar-icon-return-3718732/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:12",
+   "ts": 1790975568
+  },
+  {
+   "id": "009e21475df406e96e20a24759c31c27",
+   "title": "‘Cameron Winter at Carnegie Hall’ Review: Paul Thomas Anderson’s Effectively Austere Concert Doc Puts You Right in the Room",
+   "summary": "The Oscar-winning director follows 'One Battle After Another' with this New York Film Festival-premiering documentary chronicling the Geese frontman's solo show",
+   "link": "https://www.hollywoodreporter.com/movies/movie-reviews/cameron-winter-at-carnegie-hall-review-paul-thomas-anderson-1236721154/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:11",
+   "ts": 1790975505
+  },
+  {
+   "id": "6685db9119f7dff52efe02fcb7097170",
+   "title": "European Entertainment Leaders Mostly Optimistic About David Ellison’s Takeover of Warner Bros. : ‘I Believe in His Commitment to Cinema’",
+   "summary": "After nearly a year of dealmaking drama, Paramount Skydance&#8217;s takeover of Warner Bros. Discovery is about to become reality. Across Europe, where the Para",
+   "link": "https://variety.com/2026/film/news/europe-leaders-optimistic-paramount-warner-bros-takeover-1236897580/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:10",
+   "ts": 1790975443
+  },
+  {
+   "id": "d0130226cb0e42189cc990ee854a78df",
+   "title": "Fantasy football rankings Week 4: Dave Richard makes tough decisions who to start, sit and flex",
+   "summary": "Dave Richard dives deep into the players who Fantasy Football managers will have scratching their heads in every single game on the slate",
+   "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-week-4-dave-richard-makes-tough-decisions-who-to-start-sit-and-flex/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:10",
+   "ts": 1790975426
+  },
+  {
+   "id": "3d7748f9d8cec315c0a5fb6a965277e1",
+   "title": "YouTube is cleaning up one of the worst parts of Shorts",
+   "summary": "Giving low-effort Shorts less room to breathe.",
+   "link": "https://www.androidauthority.com/youtube-shorts-promoting-original-content-reposts-3718668/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:09",
+   "ts": 1790975392
+  },
+  {
+   "id": "5935907c39d26a7127a820fe7a04bd18",
+   "title": "Sean Parker is rebuilding Stability AI around music",
+   "summary": "Sean Parker, who once taught the music industry what asking for forgiveness looks like, is now back with the labels' blessing and money.",
+   "link": "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:09",
+   "ts": 1790975354
+  },
+  {
+   "id": "2ea49dd340c6d4ff681dfbf97310d791",
+   "title": "Meta open sources code to let you make Muse AI gadgets",
+   "summary": "Meta now lets you make your own Muse gadgets that feature the company's new AI agent with code that the company open sourced. The company suggests projects like",
+   "link": "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:08",
+   "ts": 1790975317
+  },
+  {
+   "id": "367843c88d0fa15923f185a272aee788",
+   "title": "A plea to the Brewers this postseason: Act like the final boss, not 'The Little Engine That Could'",
+   "summary": "Milwaukee was the best team in baseball in the regular season, and now it's time to act like it in the playoffs",
+   "link": "https://www.cbssports.com/mlb/news/milwaukee-brewers-mlb-playoffs-world-series-nlds/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:08",
+   "ts": 1790975289
+  },
+  {
+   "id": "d74aff60047cc46fb360229e55cad41d",
+   "title": "Kia sweetens EV deals with up to $10,000 off",
+   "summary": "With the new EV3 now arriving at dealerships, Kia is throwing some extra savings into the mix with up to $10,000 off in customer cash on select EVs.\n\n\n\n more…",
+   "link": "https://electrek.co/2026/10/02/kia-sweetens-ev-deals-10000-off/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:06",
+   "ts": 1790975194
+  },
+  {
+   "id": "c2e8cf8d68370a2d823737ec44295a26",
+   "title": "Apple TV releases ‘The Sisters Grimm’ season 2 in full",
+   "summary": "Apple TV today released the second season of its animated fantasy adventure series “The Sisters Grimm,” with all six new episodes now available to stream. Here ",
+   "link": "https://9to5mac.com/2026/10/02/apple-tv-releases-the-sisters-grimm-season-2-in-full/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 05:05",
+   "ts": 1790975113
+  },
+  {
+   "id": "a570f51883aa79442738534969e341e6",
+   "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 5",
+   "summary": "A closer look at the top games in a loaded Week 5",
+   "link": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-spread-odds-betting-lines-top-25-week-5/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:02",
+   "ts": 1790974977
+  },
+  {
    "id": "cdb931b4bd4a8e03ea3d5ab926694940",
-   "title": "Skydance Says It’s Committed to L.A., But Threat to Leave Has Proved Potent",
+   "title": "Skydance Says It’s Committed to L.A., but Threat to Leave Has Proved Potent",
    "summary": "Skydance is officially L.A.’s newest Fortune 500 company — but for how long? In a message to employees last week, CEO David Ellison said he is committed to keep",
    "link": "https://variety.com/2026/film/news/skydance-los-angeles-threat-leave-headquarters-1236897717/",
    "source": "Variety",
@@ -78,6 +389,19 @@
    "urgent": false,
    "fetched_at": "10-03 04:59",
    "ts": 1790974747
+  },
+  {
+   "id": "0419d34b7ab29cdaac75720215ed2d2c",
+   "title": "Zig v0.17.0",
+   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 60\n# Comments: 19",
+   "link": "https://ziglang.org/download/0.17.0/release-notes.html",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:56",
+   "ts": 1790974596
   },
   {
    "id": "4f7f9da0058ac3d60d635cb653f1bc78",
@@ -145,19 +469,6 @@
    "ts": 1790973848
   },
   {
-   "id": "54be9383394323567111cad79a953061",
-   "title": "Three AI agents, two countries, and one uneven world wide web",
-   "summary": "Article URL: https://royapakzad.substack.com/p/multilingual-ai-agents\nComments URL: https://news.ycombinator.com/item?id=49938326\nPoints: 6\n# Comments: 0",
-   "link": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:39",
-   "ts": 1790973545
-  },
-  {
    "id": "fa042fd4911fb3e36a03bdac135614c7",
    "title": "Skydance’s Track Record: 20 Years of Tom Cruise, Mark Wahlberg, Action and More Action",
    "summary": "Next week, Paramount and Warner Bros. will officially combine into one mega-studio with a familiar name: Skydance. The deal is expected to close on Tuesday. “By",
@@ -223,19 +534,6 @@
    "ts": 1790973026
   },
   {
-   "id": "a43efe44bee3208273f3f8258149e327",
-   "title": "Notre Dame vs. North Carolina prediction, odds, time: Week 5 college football picks by proven model",
-   "summary": "The SportsLine Projection Model has revealed its best bets for the Saturday matchup between the Notre Dame Fighting Irish vs. Bill Belichick and the UNC Tar Hee",
-   "link": "https://www.cbssports.com/betting/news/notre-dame-north-carolina-prediction-odds-time-2026-week-5-college-football-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:28",
-   "ts": 1790972934
-  },
-  {
    "id": "6afdf05bee2338b9fa7280260903a23e",
    "title": "Google adds a Map tool to Gemini, but only on phones",
    "summary": "Google is also replacing the forward slash with an @ symbol for surfacing your skills and connectors.",
@@ -262,19 +560,6 @@
    "ts": 1790972373
   },
   {
-   "id": "ab74384705bc8d645437d6d332f51dec",
-   "title": "Aspinall's 112 checkout interrupted... by a fly!",
-   "summary": "Nathan Aspinall had to pause during his 112 checkout to avoid hitting a fly at the World Grand Prix Darts.",
-   "link": "https://www.skysports.com/watch/video/13594511/nathan-aspinall-avoids-fly-during-112-checkout-at-world-grand-prix-darts",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:19",
-   "ts": 1790972340
-  },
-  {
    "id": "c837efb49915318fad2de891d794ef39",
    "title": "Vibe-Coded Mashup Mods Have Taken Over X This Week",
    "summary": "I have spent the last three days scrolling through some of the most insane mod videos I've ever seen. Modders are taking games that have been decompiled with Cl",
@@ -288,6 +573,19 @@
    "ts": 1790972272
   },
   {
+   "id": "9e6a9ad0988d597762be4c36fd3fcb75",
+   "title": "Everyone's Packing Up",
+   "summary": "Article URL: https://widdershins.verja.net/everyones-packing-up/\nComments URL: https://news.ycombinator.com/item?id=49938047\nPoints: 39\n# Comments: 16",
+   "link": "https://widdershins.verja.net/everyones-packing-up/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:13",
+   "ts": 1790971984
+  },
+  {
    "id": "13aa2f92ae1fa6b3e6355f823556e7a2",
    "title": "Samsung Googlebook appears on Geekbench with a Snapdragon X Elite chipset",
    "summary": "Not satisfied with having one laptop platform, Google introduced Googlebooks – Android-powered laptops. The official page for the platform lists laptops from Ac",
@@ -299,19 +597,6 @@
    "urgent": false,
    "fetched_at": "10-03 04:11",
    "ts": 1790971862
-  },
-  {
-   "id": "dd2ad4e71815b321649fd51bf4d4eabd",
-   "title": "Rams' Aaron Donald to miss Week 4 game vs. Eagles, Puka Nacua's status updated",
-   "summary": "Donald will miss his second game of the season, but the Rams received some good news on Friday",
-   "link": "https://www.cbssports.com/nfl/news/los-angeles-rams-injury-aaron-donald-out-puka-nacua/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:09",
-   "ts": 1790971753
   },
   {
    "id": "bbe680c8576321b336b188b9064ba483",
@@ -351,19 +636,6 @@
    "urgent": false,
    "fetched_at": "10-03 04:03",
    "ts": 1790971412
-  },
-  {
-   "id": "4f4c31d5ac3c9b2181dce21fac109332",
-   "title": "Changing face of international soccer: How European clubs have begun hunting for talent beyond their borders",
-   "summary": "Identifying dual nationals and securing commitments from global prospects has turned international soccer into a constant recruiting race",
-   "link": "https://www.cbssports.com/soccer/news/international-soccer-european-talent-beyond-borders/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:01",
-   "ts": 1790971277
   },
   {
    "id": "5b37852eb0846c0fe14cf684fcb4231a",
@@ -431,19 +703,6 @@
    "ts": 1790971147
   },
   {
-   "id": "4891cc690575b0d5c531da2e72866dec",
-   "title": "Three MLB teams that have never won a World Series are still alive: Who is most likely to break through?",
-   "summary": "Only eight teams remain in the MLB playoffs, and three are in pursuit of their first crown",
-   "link": "https://www.cbssports.com/mlb/news/mlb-playoffs-never-won-world-series-padres-rays-brewers/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:54",
-   "ts": 1790970892
-  },
-  {
    "id": "66c959d5c7f17a49d11da5691466a6f4",
    "title": "Ford backs a big new solar farm for its Michigan factories",
    "summary": "Detroit-based energy company DTE Energy has completed construction of a 100-megawatt (MW) solar farm near Coldwater, Michigan, that will help Ford power its hom",
@@ -483,19 +742,6 @@
    "ts": 1790970212
   },
   {
-   "id": "27c7009ec4e941cff909fed94d022375",
-   "title": "HQ PM Newsletter 10/2/2026",
-   "summary": "What to watch Friday: Penn State visits Northwestern in Big Ten play, NHL + more best bets",
-   "link": "https://www.cbssports.com/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:34",
-   "ts": 1790969655
-  },
-  {
    "id": "3e4dd4f2c2f8f3baa5d9b8bcb02b5afa",
    "title": "Kanye West’s Latest Tour Stop Bites the Dust as Upcoming St. Petersburg Gigs Are Canceled",
    "summary": "The Russian promoter didn't indicate if the Oct. 10-11 dates would be rescheduled.",
@@ -520,19 +766,6 @@
    "urgent": false,
    "fetched_at": "10-03 03:31",
    "ts": 1790969517
-  },
-  {
-   "id": "832f52cb48f409ebd9a25728b9e2f443",
-   "title": "Today's top games to watch, best bets, odds: Penn State at Northwestern, Pitt at Virginia Tech, NHL and more",
-   "summary": "Find best bets and props for the biggest games in sports on Friday from the SportsLine Projection Model and top CBS Sports experts",
-   "link": "https://www.cbssports.com/betting/news/todays-top-games-to-watch-best-bets-odds-penn-state-at-northwestern-pitt-at-virginia-tech-nhl-and-more/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:31",
-   "ts": 1790969498
   },
   {
    "id": "d612b8a109c87de109994cf242eaf209",
@@ -576,7 +809,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 21\n# Comments: 14",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 42\n# Comments: 29",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -613,32 +846,6 @@
    "ts": 1790969142
   },
   {
-   "id": "70dfa6fa4ac5334b842b01aea3fb031b",
-   "title": "NFL longshot parlay picks, bets for Week 4, 2026: Get an epic return of +17,000,000",
-   "summary": "SportsLine's computer simulation model has locked in a $10 NFL Week 4 parlay that pays out $1.7 million",
-   "link": "https://www.cbssports.com/betting/news/nfl-longshot-parlay-picks-best-bets-week-4-2026/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:25",
-   "ts": 1790969136
-  },
-  {
-   "id": "2d05a3a730fb88187c4fb8c7bbb06b8b",
-   "title": "World Grand Prix LIVE! Humphries in action after Wade hammers Van Veen",
-   "summary": "",
-   "link": "https://www.skysports.com/darts/live-blog/12040/13594445/world-grand-prix-darts-live-latest-scores-updates-highlights-as-luke-humphries-gerwyn-price-james-wade-in-quarter-final-action",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:25",
-   "ts": 1790969100
-  },
-  {
    "id": "cf35e2444299215757fc82db6b94f311",
    "title": "Wynonna Judd Says Rosie O’Donnell’s Claims That She’s a Trump Supporter Are a “Complete Assumption”",
    "summary": "“I’ve never spoken to her about politics in my life,” Judd said about O’Donnell.",
@@ -650,19 +857,6 @@
    "urgent": false,
    "fetched_at": "10-03 03:22",
    "ts": 1790968948
-  },
-  {
-   "id": "b1c322838d1d888cbb0efd96da705b00",
-   "title": "Manchester City's 'sliding doors' moment: How the Premier League changed after Abu Dhabi started spending",
-   "summary": "A look back at how the 2008 Abu Dhabi takeover altered English football and closed the door on rising contenders like Aston Villa and Everton who were poised to",
-   "link": "https://www.cbssports.com/soccer/news/manchester-citys-sliding-doors-premier-league-abu-dhabi-spending/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:21",
-   "ts": 1790968873
   },
   {
    "id": "d0281fd030aca739197707cfc5fc9670",
@@ -678,8 +872,8 @@
    "ts": 1790968855
   },
   {
-   "id": "67e69264e8936983f0ff1695ea45085b",
-   "title": "City sponsor's 2015 statement to US government raises questions about appeal strategy",
+   "id": "e0c1fcd430599703a221c8799c1a00cf",
+   "title": "Man City sponsor's 2015 statement raises questions about appeal strategy",
    "summary": "Manchester City&#8217;s strategy in their bid to clear their name after being found guilty of breaking more than 100 of the Premier League's rules has been brou",
    "link": "https://www.skysports.com/football/news/12040/13594496/man-city-appeal-clubs-strategy-brought-into-question-by-2015-statement-main-sponsor-etihad-airways-submitted-to-us-government",
    "source": "Sky Sports",
@@ -693,7 +887,7 @@
   {
    "id": "b495321b23a95864d58581ea58ec90ed",
    "title": "\"The only intuitive interface is the nipple\" (2012)",
-   "summary": "Article URL: https://www.greenend.org.uk/rjk/misc/nipple.html\nComments URL: https://news.ycombinator.com/item?id=49937387\nPoints: 18\n# Comments: 19",
+   "summary": "Article URL: https://www.greenend.org.uk/rjk/misc/nipple.html\nComments URL: https://news.ycombinator.com/item?id=49937387\nPoints: 21\n# Comments: 26",
    "link": "https://www.greenend.org.uk/rjk/misc/nipple.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -730,35 +924,9 @@
    "ts": 1790968487
   },
   {
-   "id": "1a8d25124659345e7e26634cfa1538f1",
-   "title": "‘American Horror Story: 13’: Paul Anthony Kelly Says “There’s Some Good” to Mr. Nas as Jessica Lange’s Secret Fifth Character Is Unveiled",
-   "summary": "The actor, who previously portrayed John F. Kennedy Jr. in 'Love Story,' opens up to The Hollywood Reporter about joining the Ryan Murphy anthology.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-features/american-horror-story-13-paul-anthony-kelly-mr-nas-explained-1236720715/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:13",
-   "ts": 1790968393
-  },
-  {
-   "id": "91991dd4b04c477fece24df330fccff1",
-   "title": "Holy Harvey Awards, Batman! Frank Miller, Klaus Janson, David Mazzucchelli Set for Hall of Fame Honors (Exclusive)",
-   "summary": "It will be a special Dark Knight edition of the ceremony at New York Comic Con as key Batman creators, living and deceased, are inducted.",
-   "link": "https://www.hollywoodreporter.com/business/business-news/frank-miller-hall-of-fame-honors-harvey-1236720555/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:11",
-   "ts": 1790968309
-  },
-  {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 172\n# Comments: 101",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 209\n# Comments: 135",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -767,45 +935,6 @@
    "urgent": false,
    "fetched_at": "10-03 03:06",
    "ts": 1790968016
-  },
-  {
-   "id": "200501450f994719401122a6182fccc8",
-   "title": "Jessica Lange to Receive Lifetime Achievement Award at SCAD Savannah Film Festival",
-   "summary": "The Savannah College of Art and Design (SCAD) announced Jessica Lange will receive the Lifetime Achievement Award at the SCAD Savannah Film Festival. Lange will",
-   "link": "https://variety.com/2026/film/news/jessica-lange-scad-savannah-film-festival-1236897722/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:02",
-   "ts": 1790967757
-  },
-  {
-   "id": "a443c6d76506f3ab714fd5d051003ec6",
-   "title": "Will Aaron Judge be on Yankees' ALDS roster vs. Rays? Three-time MVP working to return from calf injury",
-   "summary": "Judge has been on the injured list since Sept. 16 and missed New York's two-game Wild Card Series sweep over the Red Sox",
-   "link": "https://www.cbssports.com/mlb/news/yankees-aaron-judge-injury-update-alds-rays-mlb-playoffs/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:54",
-   "ts": 1790967261
-  },
-  {
-   "id": "c4926e76535b05ac4648016e128a929c",
-   "title": "Fantasy football Week 4 PPR Cheat Sheet: David Montgomery a boom-bust RB2 play as Houston committee emerges",
-   "summary": "Set your best Week 4 lineup with our PPR cheat sheet, breaking down every player in consideration",
-   "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-4-ppr-cheat-sheet-david-montgomery-a-boom-bust-rb2-play-as-houston-committee-emerges/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:52",
-   "ts": 1790967128
   },
   {
    "id": "6da037b2aec6a6206b2d0ad04253f7f2",
@@ -834,8 +963,8 @@
    "ts": 1790967000
   },
   {
-   "id": "13bf8794c94b8881a324eea952043e85",
-   "title": "Is Littler heading to Minehead? World No 1 to headline World Youth Championships",
+   "id": "0897f69efdbdc65790bc158031c7d825",
+   "title": "Littler to compete in World Youth Championships",
    "summary": "World No 1 and former champion Luke Littler will headline the list of Tour Card Holders and International Qualifiers competing in Monday's Winmau World Youth Ch",
    "link": "https://www.skysports.com/darts/news/12040/13594484/luke-littler-world-no-1-to-headline-world-youth-championships-with-chance-to-reach-final-at-minehead",
    "source": "Sky Sports",
@@ -845,19 +974,6 @@
    "urgent": false,
    "fetched_at": "10-03 02:48",
    "ts": 1790966880
-  },
-  {
-   "id": "461a3ce2d09252a04f583c1e39298634",
-   "title": "Victoria Monét Returns: The R&B Star on How She Overcame Vocal Issues and Embraced Motherhood for Her New Album ‘Frequency of Love’",
-   "summary": "At her Los Angeles home, Victoria Monét sits perched on the edge of her off-white couch, enjoying the stillness in the moments leading up to her sophomore album",
-   "link": "https://variety.com/2026/music/news/victoria-monet-frequency-of-love-vocal-issues-motherhood-1236897279/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:44",
-   "ts": 1790966677
   },
   {
    "id": "82b26f802c032ffa3452daa3fe91d83f",
@@ -1003,19 +1119,6 @@
    "ts": 1790964926
   },
   {
-   "id": "9e1b17cbb5c06886312eb20c9d43f58a",
-   "title": "‘Lady’ Review: Sian Clifford Lords It Over a Daffy English Class Satire",
-   "summary": "It&#8217;s easy to poke fun at the English upper classes, but that&#8217;s no reason not to do it. Amid continued social inequality in the U.K., the extreme wea",
-   "link": "https://variety.com/2026/film/news/lady-review-2-1236897472/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:15",
-   "ts": 1790964918
-  },
-  {
    "id": "936e389a0e30c073bc821bf810c48d95",
    "title": "Amazon Is Dropping Prices on Green Lantern Merch Ahead of Lanterns Season Finale",
    "summary": "",
@@ -1057,7 +1160,7 @@
   {
    "id": "8ac0bf09251623b0dc54becef072a167",
    "title": "What if we stopped using GPUs? [video]",
-   "summary": "Article URL: https://www.youtube.com/watch?v=xc2FTBGRSJo\nComments URL: https://news.ycombinator.com/item?id=49936671\nPoints: 20\n# Comments: 4",
+   "summary": "Article URL: https://www.youtube.com/watch?v=xc2FTBGRSJo\nComments URL: https://news.ycombinator.com/item?id=49936671\nPoints: 26\n# Comments: 4",
    "link": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1070,7 +1173,7 @@
   {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 53\n# Comments: 5",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 76\n# Comments: 7",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1484,19 +1587,6 @@
    "ts": 1790957231
   },
   {
-   "id": "6783bbf1d6c95b8c66fc219cb9eb04c0",
-   "title": "Brighton latest: Hurzeler, Gross and Dunk win Premier League awards for September",
-   "summary": "",
-   "link": "https://www.skysports.com/football/live-blog/12040/13279295/brighton-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:07",
-   "ts": 1790957220
-  },
-  {
    "id": "8420a5b7a1703f6047555c769023c821",
    "title": "Using an iPad mini to preview the iPhone Duo experience",
    "summary": "Alongside using the iPhone 18 Pro, I’ve also been carrying out a little experiment as we await the launch of the iPhone Duo.\n\n\n\nTo get a sense of what it might ",
@@ -1588,19 +1678,6 @@
    "ts": 1790955552
   },
   {
-   "id": "af4db7314ac80f10bf8f60e258b6d6b1",
-   "title": "iOS 27.2 gives Apple Podcasts the big fix I’ve wanted for years",
-   "summary": "Apple Podcasts is my podcast app of choice, but I’ve long had major issues with its central Up Next queue feature. I’m happy to report that iOS 27.2 introduces ",
-   "link": "https://9to5mac.com/2026/10/02/ios-27-2-gives-apple-podcasts-the-big-fix-ive-wanted-for-years/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:37",
-   "ts": 1790955476
-  },
-  {
    "id": "6f88370fb510ed9a669ccbd6a9a70a1e",
    "title": "Your Next Mobile Games Will Get AI Graphics Boosts That PCs and Consoles Have Had for Years",
    "summary": "AI upscaling and frame generation are coming in upcoming premium Android phones running the new highest-tier Snapdragon chips.",
@@ -1668,7 +1745,7 @@
   {
    "id": "077fdf42fb97a882004a771ef6ef80bf",
    "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 57\n# Comments: 33",
+   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 67\n# Comments: 47",
    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1759,7 +1836,7 @@
   {
    "id": "400e7c526772751222cd85381fd8df70",
    "title": "How accurately calibrated is Jev?",
-   "summary": "Article URL: https://maximumeffort.substack.com/p/jev-is-poorly-calibrated\nComments URL: https://news.ycombinator.com/item?id=49934399\nPoints: 34\n# Comments: 10",
+   "summary": "Article URL: https://maximumeffort.substack.com/p/jev-is-poorly-calibrated\nComments URL: https://news.ycombinator.com/item?id=49934399\nPoints: 40\n# Comments: 14",
    "link": "https://maximumeffort.substack.com/p/jev-is-poorly-calibrated",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1768,19 +1845,6 @@
    "urgent": false,
    "fetched_at": "10-02 23:12",
    "ts": 1790953961
-  },
-  {
-   "id": "9badac32462fbc337e77fcffde702553",
-   "title": "Google Home is acting up, but Google’s already got a fix on the way",
-   "summary": "Some users are facing errors while interacting with their devices in the Google Home mobile apps.",
-   "link": "https://www.androidauthority.com/google-home-app-android-ios-error-fix-incoming-3718548/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:04",
-   "ts": 1790953484
   },
   {
    "id": "58efc0882da5213176ce4de640156a8d",
@@ -1861,19 +1925,6 @@
    "ts": 1790952466
   },
   {
-   "id": "14971da0c2eb09224e8874d582fb3005",
-   "title": "Gemini has lost interest in answering your questions on Android Auto (Update)",
-   "summary": "Gemini on Android Auto has forgotten how to answer questions.",
-   "link": "https://www.androidauthority.com/android-auto-gemini-search-bug-3718572/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:37",
-   "ts": 1790951833
-  },
-  {
    "id": "ea2a06e36a79a6c0eb412869e7c8c565",
    "title": "特斯拉 2026 年第三季度交付超 48.6 万辆，同比下降 2%",
    "summary": "IT之家 10 月 2 日消息，特斯拉今日宣布，2026 年第三季度，特斯拉全球生产了超 46.4 万辆电动车，交付了超 48.6 万辆；储能产品装机量达 13.7 吉瓦时。官方公告显示，2026 年第三季度特斯拉 Model 3/Y 生成 457,387 辆，交付 478,237 辆；其他车型生产 7,004 辆，交",
@@ -1885,19 +1936,6 @@
    "urgent": false,
    "fetched_at": "10-02 22:36",
    "ts": 1790951793
-  },
-  {
-   "id": "9aced2aa3b3d6cd5b13bd6b6c22df452",
-   "title": "Tesla will now let you drive off mid-charge if there’s an emergency",
-   "summary": "Tesla introduced a new feature to enable drivers to escape quickly while charging their vehicles in response to a mass shooting at a Supercharger location in Id",
-   "link": "https://www.theverge.com/transportation/1003967/tesla-charging-breakaway-emergency-shooting",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:34",
-   "ts": 1790951654
   },
   {
    "id": "6c034dd3a711ae08244beda6bed1508c",
@@ -1950,19 +1988,6 @@
    "urgent": false,
    "fetched_at": "10-02 22:19",
    "ts": 1790950773
-  },
-  {
-   "id": "0c809ece3a48d001fb10a1fc65ef08c0",
-   "title": "With most information hidden, the game Stratego had stumped AI until now",
-   "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 89\n# Com",
-   "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:11",
-   "ts": 1790950284
   },
   {
    "id": "4f296b05fceeb2f881b4bfffad0b11da",
@@ -2021,19 +2046,6 @@
    "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
    "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will a",
    "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:00",
-   "ts": 1790949600
-  },
-  {
-   "id": "442d9f1e8ae94db3e6b585eb23cdbec5",
-   "title": "Less than 24 hours to apply for a  Side Event at Founder Summit 2026",
-   "summary": "The clock is almost out. You have less than 24 hours left to apply to host a Side Event during TechCrunch Founder Summit 2026. Applications close tonight at mid",
-   "link": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
    "source": "TechCrunch",
    "channel": "AI·科技",
    "category": "资讯",
@@ -2210,19 +2222,6 @@
    "urgent": false,
    "fetched_at": "10-02 21:11",
    "ts": 1790946676
-  },
-  {
-   "id": "4a542ea8503481cf636a397557bd3eda",
-   "title": "Tesla (TSLA) Q3 2026 deliveries slip 2% to 486,532, but beat estimates",
-   "summary": "Tesla (TSLA) delivered 486,532 vehicles in the third quarter of 2026, down 2.1% from the record 497,099 it delivered in the same quarter last year.\n\n\n\nThat’s st",
-   "link": "https://electrek.co/2026/10/02/tesla-q3-2026-deliveries-486532/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:11",
-   "ts": 1790946673
   },
   {
    "id": "3edff936663aa625257886ce1653a47e",
