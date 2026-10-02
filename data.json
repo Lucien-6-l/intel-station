@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-02 14:44",
- "total": 124,
+ "updated_at": "2026-10-02 15:06",
+ "total": 134,
  "channels": [
   "AI·科技",
   "游戏",
@@ -8,6 +8,84 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "23725f6e8959147f37200d80a03ffac0",
+   "title": "索尼 PS5《羊蹄山之魂》完全版发售：收录“弦续关原”新剧情及“无尽追缉”模式",
+   "summary": "IT之家 10 月 2 日消息，索尼 PlayStation 今天（2 日）通过官微宣布，PS5《羊蹄山之魂》完全版正式推出。踏遍 17 世纪日本荒野 ⇒ 体验武者「笃」完整的复仇之旅收录全新剧情篇章〈弦续关原〉- 带你深入关原之战、挑战强敌与解锁未知地图全新生存模式〈无尽追缉〉等你试炼极限战力，境井仁回归参战IT之家",
+   "link": "https://www.ithome.com/1/009/291.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 14:58",
+   "ts": 1790924295
+  },
+  {
+   "id": "269010f0b2d39d8bcc491824f8bc461c",
+   "title": "10 月 1 日高德日活跃用户数近 3.7 亿：已成为全球规模最大的空间智能应用",
+   "summary": "IT之家 10 月 2 日消息，高德今日公布十一长假首日运营数据：其中，高德 DAU（IT之家注：日活跃用户数）近 3.7 亿，提供空间智能服务超 28 亿次；用户驾车导航总里程达 97 亿公里，相当于绕地球赤道 24 万周。多项数据创下历史新高，高德已成为全球规模最大的空间智能应用。据介绍，由中国安全生产科学研究院与",
+   "link": "https://www.ithome.com/1/009/290.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 14:57",
+   "ts": 1790924235
+  },
+  {
+   "id": "e95019c838459efa37a3d979b87f5f45",
+   "title": "Bushiroad旗下游戏现已开启限时折扣促销",
+   "summary": "Bushiroad Inc.将于2026年10月2日（星期五）起举办“Bushiroad Autumn Sale 2026”，旗下 Nintendo Switch 下载版及 Steam 版游戏将在活动期间以限时优惠价格发售。\nBushiroad旗下游戏的 Nintendo Switch 下载版与 Steam 版现已开启",
+   "link": "https://www.gcores.com/articles/220469",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 14:53",
+   "ts": 1790924004
+  },
+  {
+   "id": "28d865df7a95a7852f07a9d8f5295f73",
+   "title": "极狐阿尔法 T5 汽车迎 OTA：部分车型新增苹果 CarPlay / 华为 HiCar 手机互联、端到端 4.0 辅助驾驶模型",
+   "summary": "IT之家 10 月 2 日消息，极狐汽车宣布为旗下阿尔法 T5 推送新一轮 OTA 升级包，本次更新包含 5 项新增功能与 1 项功能优化，围绕手机互联、高阶辅助驾驶、泊车能力、车辆安防、HUD 显示以及座舱音效进行迭代，不同版本车型可获得对应专属功能。据官方介绍，阿尔法 T5 新增手机互联能力，支持 CarLink、",
+   "link": "https://www.ithome.com/1/009/288.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-02 14:53",
+   "ts": 1790923989
+  },
+  {
+   "id": "501c1b146b07d403630aa92b8c951cc6",
+   "title": "7.56 亿票房超《星际穿越》：电影《奥德赛》刷新诺兰导演中国内地票房纪录",
+   "summary": "IT之家 10 月 2 日消息，@环球影业 今天（10 月 2 日）发布微博，称电影《奥德赛》已超过《星际穿越》首轮放映票房，刷新诺兰导演中国内地票房纪录。据灯塔专业版，《奥德赛》总票房 7.56 亿（含预售），已超过《星际穿越》首轮放映票房，成为诺兰导演内地首轮票房最高影片。IT之家附上相关截图如下：IT之家小伙伴记",
+   "link": "https://www.ithome.com/1/009/285.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 14:49",
+   "ts": 1790923750
+  },
+  {
+   "id": "9b99c00ce6b58a87307b6f24274356e9",
+   "title": "绿联推出彩色墨水屏手机壳：3.7 英寸面板，适配苹果 iPhone 17/18 Pro 及 Max 机型，278.8 元",
+   "summary": "IT之家 10 月 2 日消息，绿联现已在京东上架一款 Magic 彩色墨水屏手机壳，适用于苹果 iPhone 17/18 Pro 及 Max 机型，兼具机身防护与自定义图案显示功能，首发价 278.8 元。京东绿联 Magic 墨水屏手机壳 278.8 元直达链接系列手机壳产品提供磨砂黑、雾白色、酒红色三款配色，采用",
+   "link": "https://www.ithome.com/1/009/284.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 14:48",
+   "ts": 1790923685
+  },
   {
    "id": "063531b93e184315385c25ac6a1ea183",
    "title": "英特尔 Arc 显卡驱动 32.0.101.9034 Beta 版发布：支持《战争机器：事变日》游戏",
@@ -126,61 +204,9 @@
    "ts": 1790920885
   },
   {
-   "id": "84b2c6be9953bcf65e1ec2cdb079bc59",
-   "title": "发射距今约 12 年：日本“隼鸟 2”探测器最后一台工作离子发动机发生故障",
-   "summary": "IT之家 10 月 2 日消息，japantimes 昨日（10 月 1 日）报道，经日本宇宙航空研究开发机构（JAXA）确认，超期服役的小行星探测器“隼鸟 2”（Hayabusa2）最后一台工作离子发动机已发生故障。隼鸟 2 号于 2014 年 12 月发射，该探测器于 2020 年 12 月将小行星龙宫样本带回地球",
-   "link": "https://www.ithome.com/1/009/275.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 13:48",
-   "ts": 1790920090
-  },
-  {
-   "id": "1da6b9020211779575c33d0b8b26042d",
-   "title": "10 月 1 日全国铁路发送旅客 2520.4 万人次，创单日旅客发送量历史新高",
-   "summary": "IT之家 10 月 2 日消息，据新华社今日从中国国家铁路集团有限公司获悉，10 月 1 日全国铁路发送旅客 2520.4 万人次，创单日旅客发送量历史新高，运输安全平稳有序。IT之家获悉，10 月 2 日，全国铁路预计发送旅客 2039 万人次，加开列车 1462 列。今年中秋国庆假期邻近，旅游、探亲与休闲需求旺盛，",
-   "link": "https://www.ithome.com/1/009/274.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 13:44",
-   "ts": 1790919849
-  },
-  {
-   "id": "b85cbaad43677c5d25da58e864d11d5a",
-   "title": "阿斯顿 · 马丁首款纯电动汽车推迟至 2033 年后，V8/V12 发动机保留至 2035 年",
-   "summary": "IT之家 10 月 2 日消息，汽车媒体 autocar 今天（10 月 2 日）发布博文，报道称阿斯顿 · 马丁（Aston Martin）计划延后其首款纯电动汽车上市时间，推迟到 2033~2035 年，并制定路线图确保 V8 与 V12 发动机车型至少供应至 2035 年。在伦敦梅菲尔区新 Q London 展厅",
-   "link": "https://www.ithome.com/1/009/273.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 13:32",
-   "ts": 1790919138
-  },
-  {
-   "id": "e71dd532742af3ddea03fb3103b8cdc5",
-   "title": "摄影师 Zavitz 测试苹果 iPhone 18 Pro 人像模式，媲美专业相机",
-   "summary": "IT之家 10 月 2 日消息，摄影师 Lee Zavitz 于 9 月 30 日发布视频，通过对比认为苹果 iPhone 18 Pro 在拍摄人像模式上，表现接近专业相机水准。IT之家查询公开资料，Lee Zavitz 是一位来自加拿大多伦多的摄影师、电影摄影师，其内容主要围绕人像摄影、视频拍摄、相机评测、镜头体验和",
-   "link": "https://www.ithome.com/1/009/272.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 13:26",
-   "ts": 1790918762
-  },
-  {
    "id": "af33b5bbab24e50b74e293ed13a06c4b",
    "title": "Shimano Bicycle Museum Review",
-   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 22\n# Comments: 1",
+   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 29\n# Comments: 1",
    "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -189,19 +215,6 @@
    "urgent": false,
    "fetched_at": "10-02 13:12",
    "ts": 1790917978
-  },
-  {
-   "id": "faf605cf0a0d5daaee4dd965eea29ec6",
-   "title": "填充 AI 资金弹药：曝 OpenAI 融资再落袋 200 亿美元，英伟达、软银和亚马逊已出资约 90%",
-   "summary": "IT之家 10 月 2 日消息，科技媒体 The Information 今天（10 月 2 日）发布博文，报道称英伟达与软银已分别向 OpenAI 支付最后一笔 100 亿美元（IT之家注：现汇率约合 671.46 亿元人民币）投资，完成各自 300 亿美元（现汇率约合 2,014.37 亿元人民币）的投资承诺。本轮",
-   "link": "https://www.ithome.com/1/009/270.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-02 13:07",
-   "ts": 1790917665
   },
   {
    "id": "3c298581067fe302b86eb82038137398",
@@ -271,7 +284,7 @@
   {
    "id": "edd38f0a71d7d06b77bf24a69b2e893c",
    "title": "DeepSeek Harness",
-   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 143\n# Comments: 51",
+   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 161\n# Comments: 61",
    "link": "https://www.deepseek.com/en/harness/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -388,7 +401,7 @@
   {
    "id": "69f5cac8b7bca0cbd956b727558e2ef6",
    "title": "Several vulnerabilities have been discovered in the Linux kernel",
-   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 228\n# Comments: 152",
+   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 232\n# Comments: 157",
    "link": "https://lwn.net/Articles/1097401/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -453,7 +466,7 @@
   {
    "id": "43305a99e92c3a3a916d33ae355c222b",
    "title": "Frog and Toad and the Increasingly Capable Machines",
-   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 112\n# Comments: 22",
+   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 116\n# Comments: 23",
    "link": "https://www.frogandtoad.ai/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -609,7 +622,7 @@
   {
    "id": "f2857a36fd3d01c62f9b071142c9551b",
    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 66\n# Comments: 10",
+   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 66\n# Comments: 11",
    "link": "https://github.com/Vibra-Ingenn/Janus",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -635,7 +648,7 @@
   {
    "id": "8578475db21f5cc67df9930f18a9a99c",
    "title": "SvelteKit 3",
-   "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 215\n# Comments: 70",
+   "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 219\n# Comments: 72",
    "link": "https://svelte.dev/blog/sveltekit-3-is-here",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -776,8 +789,8 @@
    "ts": 1790874540
   },
   {
-   "id": "f574c0b8acbec0e9e778cbe3a535b4ec",
-   "title": "《艾尔塔：逆神》26年2月2日正式发售，游戏试玩版现已推出",
+   "id": "f7a0548df091b2d430602b7b5726ec55",
+   "title": "《艾尔塔：逆神》27年2月2日正式发售，游戏试玩版现已推出",
    "summary": "Focus Entertainment 发行团队与 Afterburner Studios 欣然宣布，于 8 月 25 日科隆游戏展开幕夜直播首次公开的《艾尔塔：逆神》，将于 2027 年 2 月 2 日登陆 PC（Steam）、PlayStation 5 以及 Xbox Series X|S 平台。为让玩家亲身体验这",
    "link": "https://www.gcores.com/articles/220400",
    "source": "机核网",
@@ -906,6 +919,32 @@
    "ts": 1790867472
   },
   {
+   "id": "5a28d85d85484162ffed8cc71109d8ac",
+   "title": "何恺明团队新作：看猫片就能学会ARC挑战",
+   "summary": "用ImageNet训练encoder",
+   "link": "https://www.qbitai.com/2026/10/499812.html",
+   "source": "量子位",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-01 23:06",
+   "ts": 1790867190
+  },
+  {
+   "id": "d5367d783d02829080ecc4d757b30c32",
+   "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
+   "summary": "价格只有Astra一半",
+   "link": "https://www.qbitai.com/2026/10/499663.html",
+   "source": "量子位",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 3,
+   "urgent": true,
+   "fetched_at": "10-01 23:02",
+   "ts": 1790866934
+  },
+  {
    "id": "9431e30b908e1cf96b04e9c58e7a4cbd",
    "title": "猫与幸福感正相关",
    "summary": "根据发表在 PLOS One 期刊上的一项研究，猫的数量与幸福感正相关，一个国家的猫越多，其幸福感通常越高。但主要通过猫传播的弓形虫感染率与幸福感负相关，弓形虫感染率较高的国家的幸福指数通常较低。两个关系似乎矛盾，但也可能与卫生、经济条件相关联。研究分析了 93 个国家和地区的数据，幸福指数平均值为 5.72，每万人拥",
@@ -1008,6 +1047,19 @@
    "urgent": false,
    "fetched_at": "10-01 20:00",
    "ts": 1790856000
+  },
+  {
+   "id": "0038ed9b5dcd025b387f6b6761b9dc5d",
+   "title": "被AI「偷走」的声音值多少钱，得从100多年前聊起…",
+   "summary": "我的“声音”到底归谁？我的“声音”又到底值多少钱？当AI开始轻而易举的模仿我们的声音肆意表达，许多过去从未出现的问题逐一浮现。知名声优、演员、主持人津田健次郎今日起诉tiktok平台引发争议，而在播客圈儿，也不断有我们熟悉的主播声音出现在互联网的视频中，所以我们决定从“声音的价值”这个角度切入，从广播剧的诞生，到声优行",
+   "link": "https://www.gcores.com/radios/220466",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-01 19:29",
+   "ts": 1790854142
   },
   {
    "id": "25df3b30c43a5e551e09df194482dee7",
@@ -1244,19 +1296,6 @@
    "ts": 1790780473
   },
   {
-   "id": "2958fcd5d72528e5abbf4d9735d669f9",
-   "title": "太阳朋克，核周报 9.30",
-   "summary": "本期时间轴制作：佟和本周要闻：Bungie 宣布《命运 2》被封存内容将全部回归；微软Xbox再裁 268 人，《光环》交由动视开发，Rare 与 World's Edge划归动视；黑曜石划归 Bethesda，Xbox Game Studios 仅存三家直属工作室，且《战争机器：事变日》发售前两周剧情总监 Juan ",
-   "link": "https://www.gcores.com/radios/219909",
-   "source": "机核网",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "09-30 23:00",
-   "ts": 1790780400
-  },
-  {
    "id": "47acd0ee089f4620995584c30e231645",
    "title": "美国佛蒙特州通过家庭电池储能网络应对气候变化",
    "summary": "过去几年极端气候频发，美国佛蒙特州每年都会因此发生十几次持续数小时的断电事故。当地电力公司 Green Mountain Power(GMP)记录到的 10 场最具有破坏性的飓风有 7 场发生在过去十年，造成了逾 2.25 亿美元的损失。为了应对气候变化导致的断电，该公司推出了分布式电池储能网络，向参与该网络的家庭出租",
@@ -1283,17 +1322,30 @@
    "ts": 1790778778
   },
   {
-   "id": "65e41f2423cd41dbed61e274fc8f9ead",
-   "title": "Control, I'm Not Coming Back 国庆假期，想推荐给大家玩",
-   "summary": "中秋节，上三天，又是国庆节。每年国庆结束都有人说：滴滴！您的本年度假期已告罄！趁着最后的假期对自己好点，玩点游戏吧！\nControl, I'm Not Coming Back这游戏起于一场火箭发射，你和指挥官负责这次航天任务，你们嵌在航天飞机的座椅上，等待地面控制中心发来点火信号。剧情就讲这么多，因为整个游戏也就只有1",
-   "link": "https://www.gcores.com/articles/220429",
-   "source": "机核网",
-   "channel": "游戏",
+   "id": "c2c90e96d8f986f9710b5c09385f116c",
+   "title": "OpenAI推理之父最新访谈！数学只是多智能体时代的开胃菜",
+   "summary": "千禧年难题的突破，10000个Agent最多占了10%的功劳。",
+   "link": "https://www.qbitai.com/2026/09/499654.html",
+   "source": "量子位",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-30 22:03",
+   "ts": 1790777023
+  },
+  {
+   "id": "04db06b3425f50e2e63ae8692be19bb7",
+   "title": "直播回顾：工业AI的下一个机会在哪？",
+   "summary": "什么样的AI才适合工业现场？企业真正开始做工业AI时，又该从哪里下手？",
+   "link": "https://www.qbitai.com/2026/09/499605.html",
+   "source": "量子位",
+   "channel": "AI·科技",
    "category": "资讯",
    "weight": 3,
    "urgent": false,
-   "fetched_at": "09-30 21:39",
-   "ts": 1790775557
+   "fetched_at": "09-30 20:11",
+   "ts": 1790770284
   },
   {
    "id": "c2380e07c1ad90ded50f7a98690207a2",
@@ -1335,6 +1387,19 @@
    "ts": 1790763825
   },
   {
+   "id": "96f6a869f8c786755eb1af9c263b616b",
+   "title": "Anthropic，你是来给智谱打广告的吧！",
+   "summary": "实测说GLM-5.3很强",
+   "link": "https://www.qbitai.com/2026/09/499597.html",
+   "source": "量子位",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-30 18:04",
+   "ts": 1790762652
+  },
+  {
    "id": "7695781ddea875eb88c8326bff9840f0",
    "title": "问界新 M8 预售 38.98 万元，自行主导后，赛力斯迎来第一场实战",
    "summary": "赛力斯有一场持久战要打。#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -1348,6 +1413,19 @@
    "ts": 1790759023
   },
   {
+   "id": "bfa5e2fb8dc08debd499bb578a897baa",
+   "title": "Manus 2.0回来了！给AI配手机号和钱包，还能拉群干活",
+   "summary": "给Agent配上手机号，再拉个群",
+   "link": "https://www.qbitai.com/2026/09/499592.html",
+   "source": "量子位",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-30 15:58",
+   "ts": 1790755117
+  },
+  {
    "id": "4ec415dbb181d0c2fdff2532a196dd4f",
    "title": "日本人身高增长停滞",
    "summary": "日本人的身高在 1896～1996 年的 100 年间，男性增长约 14.6 厘米，女性增长了约 16 厘米。但 1990 年代之后升高增长日益乏力，相比下中韩平均身高则在快速增长。2019 年日本 19 岁男性平均身高约 172.1 厘米，女性约 158.5 厘米。韩国男性为 175.5 厘米，女性为 163.2 厘",
@@ -1359,6 +1437,19 @@
    "urgent": false,
    "fetched_at": "09-30 15:56",
    "ts": 1790754985
+  },
+  {
+   "id": "e62305d221eecb741bb4c12ac3b94719",
+   "title": "刚刚，GPT-6 Astra接上宇树G1，把厨房收拾了！",
+   "summary": "让GPT把机器人技能当工具调用",
+   "link": "https://www.qbitai.com/2026/09/499493.html",
+   "source": "量子位",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-30 15:54",
+   "ts": 1790754894
   },
   {
    "id": "7986ae309178aca791d792d435e04a48",
@@ -1413,6 +1504,32 @@
    "ts": 1790751017
   },
   {
+   "id": "8ed221650ff7d5f70752e267503c1ed1",
+   "title": "DeepSeek知乎独家发文，首次公开V4.1 Agent训练“大本营”DSec",
+   "summary": "DeepSeek在知乎独家发布技术长文，首次系统阐释了DeepSeek弹性计算（DeepSeek Elastic Compute，DSec）",
+   "link": "https://www.qbitai.com/2026/09/499308.html",
+   "source": "量子位",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-30 13:18",
+   "ts": 1790745485
+  },
+  {
+   "id": "a8cc0342a6fc6665cc9f0f6c4c85c810",
+   "title": "36家敲钟的机器人公司：赚钱能力差距巨大，商业化也不玩花架子了",
+   "summary": "机器人上市，风向有变",
+   "link": "https://www.qbitai.com/2026/09/499280.html",
+   "source": "量子位",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "09-30 12:42",
+   "ts": 1790743342
+  },
+  {
    "id": "f331cf5f46f70f3f5689158c36f21772",
    "title": "别再把攻略全甩给 AI：国庆七天河南自驾，我是这样用 Agent 的",
    "summary": "祝你旅途顺遂，假期自由。查看全文",
@@ -1424,6 +1541,19 @@
    "urgent": false,
    "fetched_at": "09-30 11:02",
    "ts": 1790737338
+  },
+  {
+   "id": "32d485c4d2f0684bacf49ab9d37123b8",
+   "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
+   "summary": "",
+   "link": "https://www.qbitai.com/2026/09/499263.html",
+   "source": "量子位",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 3,
+   "urgent": true,
+   "fetched_at": "09-30 10:53",
+   "ts": 1790736797
   },
   {
    "id": "576d49d536d63d7a8a4a236ad4492a08",
