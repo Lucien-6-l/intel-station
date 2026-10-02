@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-02 19:03",
+ "updated_at": "2026-10-02 19:38",
  "total": 283,
  "channels": [
   "AI·科技",
@@ -15,6 +15,97 @@
  ],
  "items": [
   {
+   "id": "8bc6dbb040a979061e1474234db83180",
+   "title": "Man City lodge appeal against guilty verdict",
+   "summary": "Manchester City have lodged their appeal against an independent commission finding them guilty of all charges related to serious breaches of Premier League fina",
+   "link": "https://www.skysports.com/football/news/12040/13593606/man-city-lodge-appeal-premier-league-club-contest-guilty-verdict-of-independent-commission",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 20:00",
+   "ts": 1790942400
+  },
+  {
+   "id": "f65154e76bb24f7e87ff07721be0af6b",
+   "title": "小米米家体脂秤 4 Pro 开启预售：采用 USB-C 充电、支持身体数据趋势显示，149 元",
+   "summary": "IT之家 10 月 2 日消息，小米米家体脂秤 4 Pro 现已在京东开启预售，这是米家首款充电体脂秤，定价为 149 元。该产品搭载 300x300mm 的 ITO 镀膜钢化玻璃，无需刻意寻找踩踏位置。适配多种脚型 (最大 48 欧码)、支持 0.1~150kg 大量程称重，支持小物称重、抱婴称重、心率检测等多种模式",
+   "link": "https://www.ithome.com/1/009/345.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:34",
+   "ts": 1790940854
+  },
+  {
+   "id": "96e65c483bcf735545b7826336a3016b",
+   "title": "'Not where it needs to be' - Russell warns of threats to Mercedes at brutal Sepang",
+   "summary": "&#8203;&#8203;&#8203;&#8203;&#8203;George Russell sees significant threats to Mercedes from Red Bull's Max Verstappen and McLaren at the Bahrain Grand Prix afte",
+   "link": "https://www.skysports.com/f1/news/12040/13594194/bahrain-gp-in-malaysia-george-russell-warns-of-max-verstappen-mclaren-threat-to-mercedes-despite-upgrades-for-sepang-qualifying",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:34",
+   "ts": 1790940840
+  },
+  {
+   "id": "98a44950711c0ae6dbf31db494a3d728",
+   "title": "T-Mobile’s leaked T-Mix plans are way more complicated than we thought",
+   "summary": "The new lineup could change how T-Mobile customers qualify for perks and phone deals.",
+   "link": "https://www.androidauthority.com/t-mobile-t-mix-plans-pricing-picks-perks-leak-3718282/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:28",
+   "ts": 1790940500
+  },
+  {
+   "id": "349882c2b3b053101883bc7234d3b7e4",
+   "title": "我国深地油气开发实现关键跨越，8080 米地下获取连续 6 米岩芯",
+   "summary": "IT之家 10 月 2 日消息，据央视财经报道，10 月 1 日，位于塔克拉玛干沙漠北缘的塔里木油田震探 1 井完成取芯作业，在地下 8080 米获取到连续 6 米的岩芯，这些灰色的石头来自寒武系玉尔吐斯组，已在地下沉睡了 5 亿年之久。IT之家从报道获悉，这是塔里木盆地西北缘首次在此深度取出烃源岩。中国石油塔里木油田",
+   "link": "https://www.ithome.com/1/009/344.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:27",
+   "ts": 1790940458
+  },
+  {
+   "id": "8f2529442f8b163b75815c78b0b5c584",
+   "title": "Ride1Up just launched a 28 MPH German mid-drive e-bike for an insanely low $1,295",
+   "summary": "There are cheap e-bikes, and there are good mid-drive e-bikes. Those two circles on the Venn diagram don’t overlap nearly as often as we’d like. But Ride1Up’s n",
+   "link": "https://electrek.co/2026/10/02/ride1up-just-launched-a-28-mph-german-mid-drive-e-bike-for-an-insanely-low-1295/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-02 19:16",
+   "ts": 1790939760
+  },
+  {
+   "id": "dcbee3dc1833895d9c14ee5057c342ca",
+   "title": "Anthropic 招股书警告：美国政府的态度会影响公司与客户的关系，甚至波及人类文明",
+   "summary": "IT之家 10 月 2 日消息，路透社今天（2 日）公布的 Anthropic IPO 招股书中提出了一条警告：美国政府对公司及其技术的态度不仅会影响政府业务，还可能波及商业客户和合作伙伴。企业在招股文件中提示政策变化可能影响经营并不罕见，承接政府合同的企业尤其如此。SpaceX 就在 IPO 文件中称，与美国政府机构",
+   "link": "https://www.ithome.com/1/009/343.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:15",
+   "ts": 1790939751
+  },
+  {
    "id": "240f4ad9ffe4dd85f297c6c184bdd437",
    "title": "Dev's Digest: Hamza's FA Cup final shirt to be auctioned | Award winners stand with Iqbal",
    "summary": "Welcome to Dev's Digest, the agenda-setting Sky Sports column where Dev Trehan delivers exclusive news and reflects on some of the key developments for British ",
@@ -26,6 +117,19 @@
    "urgent": false,
    "fetched_at": "10-02 19:15",
    "ts": 1790939700
+  },
+  {
+   "id": "e161ff8f46b06f4c41811051d93fce48",
+   "title": "iPhone Duo's inner display protector is replaceable, here's how much it costs",
+   "summary": "According to Apple's service and repair website, the iPhone Duo's top layer of the foldable screen can be replaced. And it's quite cheap if you have AppleCare.\n",
+   "link": "https://www.gsmarena.com/iphone_duos_inner_display_cover_can_be_replaced-news-74873.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 19:06",
+   "ts": 1790939162
   },
   {
    "id": "7a930b96f3292ad4df8bc82405b49109",
@@ -54,19 +158,6 @@
    "ts": 1790938892
   },
   {
-   "id": "7696a896d9435b29f2d8dfa90874d027",
-   "title": "Brand’s lessons from Chelsea as he prepares for the next step",
-   "summary": "&#8220;When it first happened, I did not know what to do with myself,&#8221; Ed Brand tells Sky Sports. He spent 17 years at Chelsea before leaving the club ear",
-   "link": "https://www.skysports.com/football/news/12040/13581172/ed-brand-interview-former-chelsea-coach-on-his-17-years-at-stamford-bridge-and-what-he-learned-from-the-experience",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 19:00",
-   "ts": 1790938800
-  },
-  {
    "id": "3262e5b9da90cdfa265adea154dcaf50",
    "title": "‘The Celebrity Traitors’ Scores Record-Breaking Season 2 Premiere With Nearly 9 Million Viewers",
    "summary": "The second season of the U.K.&#8217;s &#8220;Celebrity Traitors&#8221; is off to a record-breaking start. More than 8.8 million viewers watched Thursday night&#",
@@ -78,6 +169,19 @@
    "urgent": false,
    "fetched_at": "10-02 18:54",
    "ts": 1790938468
+  },
+  {
+   "id": "ef860e8937d914bea2e13cff549aba36",
+   "title": "Why media fans want to escape algorithms with CDs, DVDs and vinyl",
+   "summary": "Article URL: https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl\nComments URL: https://news.ycombinator.com/it",
+   "link": "https://www.theguardian.com/media/2026/oct/02/physical-media-fans-streaming-algorithms-cds-dvds-vinyl",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 18:50",
+   "ts": 1790938208
   },
   {
    "id": "9b47c75fd5ef7bd87df24aff3862378d",
@@ -366,32 +470,6 @@
    "ts": 1790934139
   },
   {
-   "id": "d7098ed261af5274a8c4bdf8b1447a34",
-   "title": "奇瑞汽车公布 9 月各品牌销量：主品牌超 19 万辆同比增长 17.2%，智界 5008 辆同比下降 36.5%",
-   "summary": "IT之家 10 月 2 日消息，奇瑞汽车今日于港交所披露了 9 月旗下各子品牌销量明细：奇瑞品牌 198,681 辆，星途品牌 4,905 辆，捷途品牌 57,497 辆，iCAR 品牌 10,858 辆，智界品牌 5,008 辆。IT之家整理如下：奇瑞品牌 198,681 辆，同比增长 17.2%；今年累计 1,48",
-   "link": "https://www.ithome.com/1/009/328.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 17:36",
-   "ts": 1790933772
-  },
-  {
-   "id": "bd17d53365655b3f8a20966bdab43f0d",
-   "title": "消息称卡西欧计划 11 月推出戒指造型手表 CRW-002，售价约 135 美元",
-   "summary": "IT之家 10 月 2 日消息，据外媒 CasioBlog 报道，卡西欧计划于 11 月推出新款戒指造型手表 CRW-002，接替现款 CRW-001 机型，售价约 135 美元（IT之家注：现汇率约合 906.5 元人民币）。CRW 系列手表主要将电子表的复古外观与戒指形态结合，外媒指出新款 CRW-002 手表整体",
-   "link": "https://www.ithome.com/1/009/327.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 17:33",
-   "ts": 1790933632
-  },
-  {
    "id": "1d4ec0b4c36e9b873c66393c836f1e80",
    "title": "Your old phone isn’t useless: 4 smart ways to get more life out of it",
    "summary": "It's underused, not useless.",
@@ -416,19 +494,6 @@
    "urgent": false,
    "fetched_at": "10-02 17:30",
    "ts": 1790933400
-  },
-  {
-   "id": "b5deec880bc368ff86d469726ef744ae",
-   "title": "苹果 Apple Arcade 订阅服务新增 5 款游戏：含《Terraria+》《Pusheen's Place》等",
-   "summary": "IT之家 10 月 2 日消息，苹果宣布为旗下 Apple Arcade 订阅服务新增 5 款游戏，其中 2 款为 Arcade 订阅服务独占作品，另外 3 款是已登陆 App Store 的作品，对应的 Arcade 订阅版本为“无广告、无内购”模式。其中，《Pusheen's Place》为 Apple Arcad",
-   "link": "https://www.ithome.com/1/009/325.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 17:20",
-   "ts": 1790932816
   },
   {
    "id": "67dc7bbef639400972f0e1f3e9a067df",
@@ -563,7 +628,7 @@
   {
    "id": "3970b6d76487b8362ec16406910ed92f",
    "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 18\n# Comments: 3",
+   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 28\n# Comments: 8",
    "link": "https://github.com/kvoltmer/Audionaut",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -862,7 +927,7 @@
   {
    "id": "af33b5bbab24e50b74e293ed13a06c4b",
    "title": "Shimano Bicycle Museum Review",
-   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 123\n# Comments: 21",
+   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 136\n# Comments: 24",
    "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -900,7 +965,7 @@
   },
   {
    "id": "fc174e7d384e9901900c7dbd9eb7301d",
-   "title": "Bahrain GP: Leclerc quickest in second practice as teams tackle huge tyre wear LIVE!",
+   "title": "Bahrain GP: Hamilton under investigation for another practice block",
    "summary": "",
    "link": "https://www.skysports.com/f1/live-blog/12040/13593825/f1-bahrain-gp-in-malaysia-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-sepang",
    "source": "Sky Sports",
@@ -966,7 +1031,7 @@
   {
    "id": "71f113bbf5a23dfe99ee6c93219e2232",
    "title": "Building reliable (and fast) directory sync",
-   "summary": "Article URL: https://www.firezone.dev/blog/building-reliable-directory-sync\nComments URL: https://news.ycombinator.com/item?id=49929925\nPoints: 10\n# Comments: 0",
+   "summary": "Article URL: https://www.firezone.dev/blog/building-reliable-directory-sync\nComments URL: https://news.ycombinator.com/item?id=49929925\nPoints: 11\n# Comments: 0",
    "link": "https://www.firezone.dev/blog/building-reliable-directory-sync",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1122,7 +1187,7 @@
   {
    "id": "edd38f0a71d7d06b77bf24a69b2e893c",
    "title": "DeepSeek Harness Desktop for macOS and Windows",
-   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 247\n# Comments: 120",
+   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 257\n# Comments: 126",
    "link": "https://www.deepseek.com/en/harness/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1445,6 +1510,19 @@
    "ts": 1790899200
   },
   {
+   "id": "a832d521cd9a1ef83779992aa25958c6",
+   "title": "How to respond to hate speech without fuelling it further",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03058-3Psychologist Mirta Galesic discusses an increase in hateful comments online, and the sc",
+   "link": "https://www.nature.com/articles/d41586-026-03058-3",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "教程",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
+  },
+  {
    "id": "7cf669f8037bae4d6ce4b0d1bf900d4b",
    "title": "Stunning fossil shows dinosaurs' distinctive path to flight",
    "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8A fossil from a previously undiscovered species with feathery limbs, unearthed in China",
@@ -1538,7 +1616,7 @@
   {
    "id": "69f5cac8b7bca0cbd956b727558e2ef6",
    "title": "Several vulnerabilities have been discovered in the Linux kernel",
-   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 325\n# Comments: 233",
+   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 344\n# Comments: 250",
    "link": "https://lwn.net/Articles/1097401/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1642,7 +1720,7 @@
   {
    "id": "43305a99e92c3a3a916d33ae355c222b",
    "title": "Frog and Toad and the Increasingly Capable Machines",
-   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 185\n# Comments: 41",
+   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 206\n# Comments: 44",
    "link": "https://www.frogandtoad.ai/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1720,7 +1798,7 @@
   {
    "id": "98ff326da4f4d4c7734c537ba1eae2b5",
    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 113\n# Comments: 28",
+   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 119\n# Comments: 30",
    "link": "https://www.cssbed.com",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1861,19 +1939,6 @@
    "ts": 1790888522
   },
   {
-   "id": "8c7f8e6d8963889885d6a8571785a3f7",
-   "title": "Want to be the first to try a new Nothing device? Now’s your chance",
-   "summary": "Nothing's looking for real users to try out its upcoming products.",
-   "link": "https://www.androidauthority.com/nothing-community-review-program-3718169/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 04:51",
-   "ts": 1790887874
-  },
-  {
    "id": "8d66002cff67fee089a9c713e47aeea2",
    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
    "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 15",
@@ -1911,19 +1976,6 @@
    "urgent": false,
    "fetched_at": "10-02 04:36",
    "ts": 1790887007
-  },
-  {
-   "id": "2db2cf103b6129cf70e8e3750043dc85",
-   "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 194\n# Comments",
-   "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 04:23",
-   "ts": 1790886207
   },
   {
    "id": "d7f0d7f0213b657a4d6d99db765644e9",
@@ -2171,19 +2223,6 @@
    "urgent": false,
    "fetched_at": "10-02 02:05",
    "ts": 1790877900
-  },
-  {
-   "id": "7e2fb494149b0d2cfbf2fa0efc8aa10f",
-   "title": "Ice Universe: the Galaxy S27 Ultra will keep the screen design essentially the same",
-   "summary": "The Samsung Galaxy S27 Ultra will have new hardware on the front, but that will not be readily apparent. Ice Universe shared images of S27 Ultra screen protecto",
-   "link": "https://www.gsmarena.com/ice_universe_the_galaxy_s27_ultra_will_keep_the_screen_design_essentially_the_same-news-74854.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 02:01",
-   "ts": 1790877662
   },
   {
    "id": "6084cd62fc754e005c1294c5f03f5864",
@@ -2574,45 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-01 23:06",
    "ts": 1790867190
-  },
-  {
-   "id": "d5367d783d02829080ecc4d757b30c32",
-   "title": "谷歌Gemini 4突然发布！RSI加持，GPT和Opus都让让",
-   "summary": "价格只有Astra一半",
-   "link": "https://www.qbitai.com/2026/10/499663.html",
-   "source": "量子位",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "10-01 23:02",
-   "ts": 1790866934
-  },
-  {
-   "id": "9431e30b908e1cf96b04e9c58e7a4cbd",
-   "title": "猫与幸福感正相关",
-   "summary": "根据发表在 PLOS One 期刊上的一项研究，猫的数量与幸福感正相关，一个国家的猫越多，其幸福感通常越高。但主要通过猫传播的弓形虫感染率与幸福感负相关，弓形虫感染率较高的国家的幸福指数通常较低。两个关系似乎矛盾，但也可能与卫生、经济条件相关联。研究分析了 93 个国家和地区的数据，幸福指数平均值为 5.72，每万人拥",
-   "link": "https://www.solidot.org/story?sid=85521",
-   "source": "Solidot",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 22:52",
-   "ts": 1790866326
-  },
-  {
-   "id": "9e9c38bf728d53098e2860e06926a316",
-   "title": "STAT+: MAHA goes corporate",
-   "summary": "Health care companies dominate the MAHA Summit, and a look at Trump's watered down effort to lower Medicare drug prices.",
-   "link": "https://www.statnews.com/2026/10/01/maha-goes-corporate-trump-waters-down-medicare-drug-pricing-model/?utm_campaign=rss",
-   "source": "STAT News",
-   "channel": "健康",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-01 22:47",
-   "ts": 1790866021
   }
  ]
 }
