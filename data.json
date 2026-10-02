@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 04:38",
+ "updated_at": "2026-10-03 05:03",
  "total": 283,
  "channels": [
   "AI·科技",
@@ -15,6 +15,19 @@
  ],
  "items": [
   {
+   "id": "cdb931b4bd4a8e03ea3d5ab926694940",
+   "title": "Skydance Says It’s Committed to L.A., But Threat to Leave Has Proved Potent",
+   "summary": "Skydance is officially L.A.’s newest Fortune 500 company — but for how long? In a message to employees last week, CEO David Ellison said he is committed to keep",
+   "link": "https://variety.com/2026/film/news/skydance-los-angeles-threat-leave-headquarters-1236897717/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:01",
+   "ts": 1790974908
+  },
+  {
    "id": "5203ee675c1f7670e4da253eb0818044",
    "title": "NFL London: 651-day wait over... Sauce's Colts go globe-trotting again",
    "summary": "Sauce Gardner just ended a 651-day wait for an NFL win in the United States. Now the Indianapolis Colts cornerback is back on international soil.",
@@ -26,6 +39,136 @@
    "urgent": false,
    "fetched_at": "10-03 05:00",
    "ts": 1790974800
+  },
+  {
+   "id": "988497906a99335985b6decaf3f87e3f",
+   "title": "How to Watch Jordan Orozco Hernandez vs. Yusniel Abrahante Boxing Live Online",
+   "summary": "This weekend, boxing promoters Boxlab travels to Central Florida for another prime bout between two elite fighters. Nicaraguan boxer Jordan Orozco Hernandez goe",
+   "link": "https://variety.com/2026/shopping/news/how-to-watch-hernandez-vs-abrahante-boxing-live-online-1236878217/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:00",
+   "ts": 1790974800
+  },
+  {
+   "id": "01eb1b190bfdc2c8f8f8bbb22d68f5fc",
+   "title": "‘Verity’ Had a Much More Twisted Ending. Then Came the Focus Group Screenings",
+   "summary": "SPOILER ALERT: This article contains spoilers for &#8220;Verity,&#8221; now playing in theaters. To say that “Verity,” a new erotic thriller featuring the ubiqu",
+   "link": "https://variety.com/2026/film/news/verity-ending-changed-focus-groups-books-1236897426/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:00",
+   "ts": 1790974800
+  },
+  {
+   "id": "aee9dd124e640b6c513327857c62111f",
+   "title": "Selma Blair Reveals Extent of Fallout After Anti-Islam Instagram Comment: “I Didn’t Have a Career at All”",
+   "summary": "During a speech at an Anti-Defamation League event in New York, the veteran actress said she got dropped, blocked and shunned in Hollywood and beyond: \"Two year",
+   "link": "https://www.hollywoodreporter.com/news/general-news/selma-blair-career-comment-instagram-islam-israel-hamas-1236721161/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:59",
+   "ts": 1790974747
+  },
+  {
+   "id": "4f7f9da0058ac3d60d635cb653f1bc78",
+   "title": "Google rounds the week out with Android 17 QPR 3 Beta 1",
+   "summary": "Take your first peek at where Android's heading in 2027!",
+   "link": "https://www.androidauthority.com/android-17-qpr-3-beta-1-3718741/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:51",
+   "ts": 1790974296
+  },
+  {
+   "id": "80dc1c7e3ee4718c9d5b39df95483d17",
+   "title": "Apple confirms iPhone 18 Pro Max AT&T cellular issues, affected devices require hardware replacement",
+   "summary": "Apple has confirmed an issue causing a “small number” of iPhone 18 Pro Max devices on AT&amp;T to lose cellular service. \n\n\n\nApple released software and carrier",
+   "link": "https://9to5mac.com/2026/10/02/apple-confirms-iphone-18-pro-max-att-cellular-issues-affected-devices-require-hardware-replacement/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:47",
+   "ts": 1790974022
+  },
+  {
+   "id": "82f5dca1dcdcacfe570ae8fe6b55062d",
+   "title": "The Blazers have a starting lineup dilemma with a clear solution: Bring Ja Morant off the bench",
+   "summary": "Putting Morant in the backcourt with Damian Lillard in a starting group with Deni Avdija makes little sense",
+   "link": "https://www.cbssports.com/nba/news/blazers-ja-morant-starting-lineup-dilemma-damian-lillard-deni-avdija/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:46",
+   "ts": 1790973961
+  },
+  {
+   "id": "a3f7c33fa28e4cff3ddaa76b9989d125",
+   "title": "Metallica Thrashes Las Vegas With Five Decades of Monumental Metal",
+   "summary": "The mind-melting moments from the first night of the Life Burns Faster residency at the Sphere.",
+   "link": "https://www.hollywoodreporter.com/music/music-features/metallica-sphere-residency-life-burns-faster-opening-night-1236721137/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:44",
+   "ts": 1790973873
+  },
+  {
+   "id": "e1be4b38df48cab04d9e4ef8891c5fdf",
+   "title": "J.A. Bayona Leads Field to Direct ‘Jurassic World’ Sequel",
+   "summary": "Universal is eyeing the Spanish filmmaker to return to the dinosaur island and helm the follow-up to 'Jurassic World Rebirth.'",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/ja-bayona-jurassic-world-rebirth-sequel-frontrunner-1236721214/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:44",
+   "ts": 1790973848
+  },
+  {
+   "id": "54be9383394323567111cad79a953061",
+   "title": "Three AI agents, two countries, and one uneven world wide web",
+   "summary": "Article URL: https://royapakzad.substack.com/p/multilingual-ai-agents\nComments URL: https://news.ycombinator.com/item?id=49938326\nPoints: 6\n# Comments: 0",
+   "link": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:39",
+   "ts": 1790973545
+  },
+  {
+   "id": "fa042fd4911fb3e36a03bdac135614c7",
+   "title": "Skydance’s Track Record: 20 Years of Tom Cruise, Mark Wahlberg, Action and More Action",
+   "summary": "Next week, Paramount and Warner Bros. will officially combine into one mega-studio with a familiar name: Skydance. The deal is expected to close on Tuesday. “By",
+   "link": "https://variety.com/lists/skydance-media-track-record-tom-cruise-mark-wahlberg/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:38",
+   "ts": 1790973501
   },
   {
    "id": "9096388c55152289eb0914769fc14524",
@@ -52,6 +195,32 @@
    "urgent": false,
    "fetched_at": "10-03 04:31",
    "ts": 1790973062
+  },
+  {
+   "id": "57f563088d920b58a209a7c28bab05bb",
+   "title": "Lanterns: Who Killed Hal Jordan and More of Our Biggest Questions Heading Into the Finale",
+   "summary": "Who killed Hal Jordan? Is Hal Jordan even dead!? What's up with Sinestro and that planet? We have so many questions heading into the Lanterns season finale...",
+   "link": "https://www.ign.com/articles/lanterns-who-killed-hal-jordan-and-more-of-our-biggest-questions-heading-into-the-finale",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:30",
+   "ts": 1790973053
+  },
+  {
+   "id": "2b4213e81cb1afdce02c032d8567e032",
+   "title": "Netflix is pivoting away from prestige",
+   "summary": "Many of Netflix's biggest critically acclaimed hits have been the products of its multiyear production deals with noted directors like David Fincher and Shawn L",
+   "link": "https://www.theverge.com/streaming/1004323/netflix-david-fincher-shawn-levy-mike-flanagan-duffer-brothers-greta-gerwig",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:30",
+   "ts": 1790973026
   },
   {
    "id": "a43efe44bee3208273f3f8258149e327",
@@ -104,6 +273,19 @@
    "urgent": false,
    "fetched_at": "10-03 04:19",
    "ts": 1790972340
+  },
+  {
+   "id": "c837efb49915318fad2de891d794ef39",
+   "title": "Vibe-Coded Mashup Mods Have Taken Over X This Week",
+   "summary": "I have spent the last three days scrolling through some of the most insane mod videos I've ever seen. Modders are taking games that have been decompiled with Cl",
+   "link": "https://www.ign.com/articles/vibe-coded-mashup-mods-have-taken-over-x-this-week",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:17",
+   "ts": 1790972272
   },
   {
    "id": "13aa2f92ae1fa6b3e6355f823556e7a2",
@@ -301,19 +483,6 @@
    "ts": 1790970212
   },
   {
-   "id": "6df229ab077974bda8e6a25590201122",
-   "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 42\n# Comments: 22",
-   "link": "https://developer.apple.com/news/?id=p6zjojqw",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:37",
-   "ts": 1790969821
-  },
-  {
    "id": "27c7009ec4e941cff909fed94d022375",
    "title": "HQ PM Newsletter 10/2/2026",
    "summary": "What to watch Friday: Penn State visits Northwestern in Big Ten play, NHL + more best bets",
@@ -407,7 +576,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 18\n# Comments: 7",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 21\n# Comments: 14",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -458,7 +627,7 @@
   },
   {
    "id": "2d05a3a730fb88187c4fb8c7bbb06b8b",
-   "title": "World Grand Prix LIVE! Wade faces Van Veen after Price comeback vs Clayton",
+   "title": "World Grand Prix LIVE! Humphries in action after Wade hammers Van Veen",
    "summary": "",
    "link": "https://www.skysports.com/darts/live-blog/12040/13594445/world-grand-prix-darts-live-latest-scores-updates-highlights-as-luke-humphries-gerwyn-price-james-wade-in-quarter-final-action",
    "source": "Sky Sports",
@@ -522,6 +691,19 @@
    "ts": 1790968800
   },
   {
+   "id": "b495321b23a95864d58581ea58ec90ed",
+   "title": "\"The only intuitive interface is the nipple\" (2012)",
+   "summary": "Article URL: https://www.greenend.org.uk/rjk/misc/nipple.html\nComments URL: https://news.ycombinator.com/item?id=49937387\nPoints: 18\n# Comments: 19",
+   "link": "https://www.greenend.org.uk/rjk/misc/nipple.html",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:18",
+   "ts": 1790968692
+  },
+  {
    "id": "b064883436e6ac625f8e0c9b48f96902",
    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
@@ -576,7 +758,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 150\n# Comments: 90",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 172\n# Comments: 101",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -585,19 +767,6 @@
    "urgent": false,
    "fetched_at": "10-03 03:06",
    "ts": 1790968016
-  },
-  {
-   "id": "3b0a14ba61caafb2cc2cb8f396a1772f",
-   "title": "Anne Hathaway Completes Her Epic Year With ‘Verity,’ Florence Pugh Debuts ‘East of Eden’ and This Week’s Best Events",
-   "summary": "Inside this week's biggest Hollywood premieres, parties and openings.",
-   "link": "https://www.hollywoodreporter.com/gallery/verity-east-of-eden-red-carpet-events-1236712856/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:03",
-   "ts": 1790967812
   },
   {
    "id": "200501450f994719401122a6182fccc8",
@@ -663,19 +832,6 @@
    "urgent": false,
    "fetched_at": "10-03 02:50",
    "ts": 1790967000
-  },
-  {
-   "id": "fe4aee3f9c6b4f40b51385766902dff2",
-   "title": "How FX’s ‘Adults’ Found Its Voice (and a Bigger Audience) In Season 2",
-   "summary": "An experimental bonus episode, a media blitz and a fake K-pop song helped propel Ben Kronengold and Rebecca Shaw's Gen Z hang comedy into the pop culture conver",
-   "link": "https://www.hollywoodreporter.com/tv/tv-features/how-fx-adults-season-2-grew-up-whats-next-1236709479/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:48",
-   "ts": 1790966937
   },
   {
    "id": "13bf8794c94b8881a324eea952043e85",
@@ -769,19 +925,6 @@
    "ts": 1790965860
   },
   {
-   "id": "dbdcacc1a9f391f65398106b97273e6c",
-   "title": "Week 4 NFL betting guide, props, spreads: Model, expert, parlay, DFS and season-long fantasy picks unveiled",
-   "summary": "SportsLine's team of Vegas experts and its proven model and experts to get you ready for Week 4 NFL betting",
-   "link": "https://www.cbssports.com/betting/news/week-4-nfl-betting-guide-player-props-spreads-parlay-dfs-fantasy-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:30",
-   "ts": 1790965850
-  },
-  {
    "id": "cd08bd437fa9354b56bdee07d4658865",
    "title": "Walmart Has a 512GB Nintendo Switch 2 Memory Card for $85, Possibly $10 Less With Unadvertised Coupon",
    "summary": "You'll need to get this sooner or later if you're an avid Switch gamer.",
@@ -819,19 +962,6 @@
    "urgent": false,
    "fetched_at": "10-03 02:25",
    "ts": 1790965541
-  },
-  {
-   "id": "8f8c5054e3c88e8dc501fb1186e153eb",
-   "title": "Rogers Closes $3.1 Billion Maple Leafs Sports Stake Acquisition, Keith Pelley to Return as Media Head",
-   "summary": "The Canadian cable TV and telco giant picked up the remaining 25 percent stake it did not already own to take full control of the company behind the Toronto Map",
-   "link": "https://www.hollywoodreporter.com/business/business-news/rogers-maple-leafs-sports-acquisition-1236721085/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:24",
-   "ts": 1790965459
   },
   {
    "id": "c68f22b515e4fcbdfb4c70541a9eb537",
@@ -886,19 +1016,6 @@
    "ts": 1790964918
   },
   {
-   "id": "507523407b4bb7c61860e8093d7569c9",
-   "title": "Crypto Capture of Foreign Aid",
-   "summary": "Article URL: https://www.nber.org/papers/w35655\nComments URL: https://news.ycombinator.com/item?id=49936725\nPoints: 76\n# Comments: 23",
-   "link": "https://www.nber.org/papers/w35655",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:14",
-   "ts": 1790964869
-  },
-  {
    "id": "936e389a0e30c073bc821bf810c48d95",
    "title": "Amazon Is Dropping Prices on Green Lantern Merch Ahead of Lanterns Season Finale",
    "summary": "",
@@ -940,7 +1057,7 @@
   {
    "id": "8ac0bf09251623b0dc54becef072a167",
    "title": "What if we stopped using GPUs? [video]",
-   "summary": "Article URL: https://www.youtube.com/watch?v=xc2FTBGRSJo\nComments URL: https://news.ycombinator.com/item?id=49936671\nPoints: 19\n# Comments: 4",
+   "summary": "Article URL: https://www.youtube.com/watch?v=xc2FTBGRSJo\nComments URL: https://news.ycombinator.com/item?id=49936671\nPoints: 20\n# Comments: 4",
    "link": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -953,7 +1070,7 @@
   {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 43\n# Comments: 4",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 53\n# Comments: 5",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1014,19 +1131,6 @@
    "urgent": false,
    "fetched_at": "10-03 02:00",
    "ts": 1790964000
-  },
-  {
-   "id": "a88c81b26605ff758cd3e58ace6ae22f",
-   "title": "‘The Great British Bake Off’ Host Alison Hammond Says She’s ‘Fine’ After Heart Palpitation Scare on Live U.K. Morning Show",
-   "summary": "“The Great British Bake Off” co-host Alison Hammond is reassuring fans that she’s “fine” after making a swift exit from her gig on ITV’s “This Morning” due to a",
-   "link": "https://variety.com/2026/tv/news/alison-hammond-heart-scare-this-morning-1236897720/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:56",
-   "ts": 1790963785
   },
   {
    "id": "6917d9e002a64ff862b39e87ae873baf",
@@ -1263,19 +1367,6 @@
    "ts": 1790960207
   },
   {
-   "id": "77fab45abaf1e7ded5aa544b1e061e21",
-   "title": "The AOC 16\" Portable USB Monitor For Laptop, Switch, or Gaming Handheld Drops to $47.49 for Prime Day",
-   "summary": "Use as a secondary screen for your laptop or portable display for your Nintendo Switch 2.",
-   "link": "https://www.ign.com/articles/aoc-usb-portable-monitor-deal-october-2026",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:55",
-   "ts": 1790960100
-  },
-  {
    "id": "ce9c88e6dce08ce8102e019378718b7d",
    "title": "Most of Us Have Been Cyberattack Targets, Consumer Reports Finds. AI Isn’t Helping",
    "summary": "From snooping smart glasses to AI bots going rogue, I’m not surprised US adults are more concerned about their privacy.",
@@ -1341,19 +1432,6 @@
    "ts": 1790959320
   },
   {
-   "id": "a1dd086166939487d186d3b7b69e4424",
-   "title": "‘The Good Girls’ Lead Ilse Salas to Star in Quijote Films’ ‘To Die on Your Feet’ (‘Morir de Pie’) a Project Pitched at Iberseries & Platino Industria (EXCLUSIVE)",
-   "summary": "Mexican actress Ilse Salas, winner of Mexico&#8217;s Best Actress Ariel Award for “The Good Girls” (“Las niñas bien”), will lead the cast of the Quijote Films w",
-   "link": "https://variety.com/2026/film/global/good-girls-ilse-salas-quijote-die-on-your-feet-iberseries-1236894505/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:38",
-   "ts": 1790959131
-  },
-  {
    "id": "3f5b417f20b22ed1752d6152c0f65ec6",
    "title": "Nacon’s new PS5 controller can mix audio from your phone and console",
    "summary": "Nacon announced what the company is claiming is the world's first officially licensed PlayStation 5 controller with a built-in screen for adjusting settings lik",
@@ -1365,45 +1443,6 @@
    "urgent": false,
    "fetched_at": "10-03 00:35",
    "ts": 1790958913
-  },
-  {
-   "id": "f7de24d033e308a1c3a77c0d4e18bad1",
-   "title": "‘A Few Good Men’ on Broadway: Aaron Sorkin, Bradley Whitford and Team Behind Revival on Why It’s ’So Fucking Relevant’ in Trump Era",
-   "summary": "Aaron Sorkin never truly feels his scripts are finished. “They’re just confiscated,” he says. “There comes a time when someone says, ‘Pencils down.’” So when di",
-   "link": "https://variety.com/2026/legit/news/a-few-good-men-aaron-sorkin-bradley-whitford-broadway-1236878406/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:34",
-   "ts": 1790958840
-  },
-  {
-   "id": "3580056809b4721d8f3ca2cb1ade9529",
-   "title": "MTG’s Hobbit Cards Are the Closest Thing to Owning Rare Tolkien Memorabilia, and Perfect for Collectors",
-   "summary": "Here's why Magic: The Gathering’s small-ish Hobbit set somehow surpasses the massive Lord of the Rings crossover for die-hard Tolkien collectors, just one month",
-   "link": "https://www.ign.com/articles/mtg-hobbit-set-versus-lord-of-the-rings",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:30",
-   "ts": 1790958600
-  },
-  {
-   "id": "4fd33556f19d8239663f29b836439414",
-   "title": "Madison Avenue Makeover: Marketers Face Big Challenges in Bid to Reach Elusive Consumers",
-   "summary": "Capturing attention — the first job of advertising — has never been so difficult. With consumers distracted by alerts, texts, posts, emails and likes — not to m",
-   "link": "https://variety.com/2026/tv/news/madison-avenue-makeover-advertisers-challenges-1236897526/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:30",
-   "ts": 1790958600
   },
   {
    "id": "500be1e33e3bb1854dd0c1d1cf3ba42d",
@@ -1575,19 +1614,6 @@
    "ts": 1790955384
   },
   {
-   "id": "f96f070d1ef7292abdaaad7e7cd15e37",
-   "title": "Deals: M5 MacBook Air, MacBook Pro, AirTag 2, smart display power bank, early Prime Day deals, more",
-   "summary": "Alongside the launch of the all-new Twelve South Airfly Drive wireless CarPlay adapter at $40, Amazon has once again updated its early fall Prime Day sale with ",
-   "link": "https://9to5mac.com/2026/10/02/deals-m5-macbook-air-pro-airtag-2-iphone-18-cases/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:36",
-   "ts": 1790955371
-  },
-  {
    "id": "7db5817d8ec33a473afdf6f16d939d4f",
    "title": "AMD“锐龙 9 5900X3D”处理器工程样品现身，配备 32MB + 96MB L3 缓存",
    "summary": "IT之家 10 月 2 日消息，Chiphell 论坛用户 @灵乌路空 9 月 28 日分享了一款 AMD Socket AM4 平台处理器工程样品的信息。该处理器代号 \"100-000000652\"，属于 \"Zen 3\" 微架构的 \"Vermeer\" 家族，步进 \"B2\"，拥有 12 核心 24 线程的规格，频率可达",
@@ -1642,7 +1668,7 @@
   {
    "id": "077fdf42fb97a882004a771ef6ef80bf",
    "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 48\n# Comments: 30",
+   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 57\n# Comments: 33",
    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1733,7 +1759,7 @@
   {
    "id": "400e7c526772751222cd85381fd8df70",
    "title": "How accurately calibrated is Jev?",
-   "summary": "Article URL: https://maximumeffort.substack.com/p/jev-is-poorly-calibrated\nComments URL: https://news.ycombinator.com/item?id=49934399\nPoints: 30\n# Comments: 9",
+   "summary": "Article URL: https://maximumeffort.substack.com/p/jev-is-poorly-calibrated\nComments URL: https://news.ycombinator.com/item?id=49934399\nPoints: 34\n# Comments: 10",
    "link": "https://maximumeffort.substack.com/p/jev-is-poorly-calibrated",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1900,19 +1926,6 @@
    "ts": 1790951400
   },
   {
-   "id": "999fb0aac9256236b3918dc14e1ded09",
-   "title": "Keurig’s new machine uses plastic-free compressed coffee pucks",
-   "summary": "Keurig's new single-serve coffee machine delivers the same convenience that helped popularize its appliances but without the use of recyclable pods made from pl",
-   "link": "https://www.theverge.com/tech/1003956/keurig-alta-coffee-machine-altarounds-pucks-appliance-preorder",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:29",
-   "ts": 1790951345
-  },
-  {
    "id": "fcddbcfe994f9fdf3ee3ee1970bb8af5",
    "title": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000",
    "summary": "Congo's Ebola outbreak has killed more than 4,000 people, authorities said, as they struggle to contain what has become the fastest-growing Ebola outbreak in hi",
@@ -1941,7 +1954,7 @@
   {
    "id": "0c809ece3a48d001fb10a1fc65ef08c0",
    "title": "With most information hidden, the game Stratego had stumped AI until now",
-   "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 87\n# Com",
+   "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 89\n# Com",
    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2041,19 +2054,6 @@
    "urgent": false,
    "fetched_at": "10-02 21:58",
    "ts": 1790949511
-  },
-  {
-   "id": "9211881e5dcca967ea7a5c351eef7532",
-   "title": "This Android flagship’s insane camera hardware could soon be matched by an insane price",
-   "summary": "Global pricing could look very different from what buyers saw in China.",
-   "link": "https://www.androidauthority.com/oppo-find-x10-pro-max-global-price-leak-3718487/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:55",
-   "ts": 1790949348
   },
   {
    "id": "7135c0f4aed98e782663e0435cc785d0",
