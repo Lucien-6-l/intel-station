@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-02 16:05",
- "total": 122,
+ "updated_at": "2026-10-02 16:38",
+ "total": 134,
  "channels": [
   "AI·科技",
   "游戏",
@@ -8,6 +8,32 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "def896f7c712684b008b9a0adc4c15f3",
+   "title": "微软宣布《极限竞速》系列游戏在 Steam 平台开启秋季大促，《地平线 6》新史低 8 折后 238.4 元起",
+   "summary": "IT之家 10 月 2 日消息，微软宣布旗下开放世界赛车大作《极限竞速》系列在 Steam 平台开启秋季大促，其中《极限竞速：地平线 6》迎来新史低，IT之家整理价格如下：《极限竞速：地平线 6》：新史低 8 折后 238.4 元起《极限竞速：地平线 5》：4 折后 79.2 元起《极限竞速 Forza Motorsp",
+   "link": "https://www.ithome.com/1/009/316.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 16:15",
+   "ts": 1790928939
+  },
+  {
+   "id": "94438b0c8ec245bbab2379a61fa60a9e",
+   "title": "生图模型 FLUX 3 Image 发布：支持 4K 生成，可精准排布 AI 元素",
+   "summary": "IT之家 10 月 2 日消息，德国 AI 公司 Black Forest Labs 今天（10 月 2 日）发布公告，宣布推出图像生成 AI 模型 FLUX 3 Image，支持生成最高 4K 分辨率图片，输出画面在放大后仍保持丰富细节。该模型基于 FLUX 3 基座开发，以高可控性与精细编辑能力为核心卖点。用户可在",
+   "link": "https://www.ithome.com/1/009/315.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-02 16:05",
+   "ts": 1790928321
+  },
   {
    "id": "8beff77b116b78c829eb684fa6a693ac",
    "title": "大众安徽与众 09 夏测实车亮相，预售 19.99 万元起",
@@ -139,19 +165,6 @@
    "ts": 1790926115
   },
   {
-   "id": "f3bb8c551ad0f02b47d4647ad89b825e",
-   "title": "极米记得 AI 显示眼镜 MemoMind One 明日登陆线下门店，开启定金预定",
-   "summary": "IT之家 10 月 2 日消息，极米记得 AI 显示眼镜 MemoMind One 明日登陆全国 56 家线下门店、INNO100 全球创新旗舰店。10 月 3 日到 10 月 14 日，到店预付 100 元定金预定，即可获赠价值 199 元墨镜夹片 1 副。据官方介绍，它是一副可以长期佩戴的专业 AI 眼镜，也是一副",
-   "link": "https://www.ithome.com/1/009/302.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 15:26",
-   "ts": 1790925993
-  },
-  {
    "id": "422fc03fbb3224d2d08d5b2b3e87fe4a",
    "title": "Justin Wong and IFC Yipes Literally Commentate Ryu's Match Against Blanka in the Street Fighter Movie",
    "summary": "We already knew about Justin Wong and IFC Yipes’ cameo in the upcoming Street Fighter movie, but it looks like they got to put their commentary skills to work f",
@@ -165,19 +178,6 @@
    "ts": 1790925969
   },
   {
-   "id": "6835e84db5da9c6da6289365ff01bf16",
-   "title": "特斯拉持续推进 FSD 辅助驾驶在中国台湾地区落地，正进一步优化道路测试计划",
-   "summary": "IT之家 10 月 2 日消息，据台媒“经济日报”，特斯拉透露公司正在持续推进 FSD 监管版辅助驾驶系统在中国台湾地区市场落地的申请流程，公司已于近日召开的技术审查会议上提交道路测试计划架构，后续将根据审查意见进行相关准备工作。销量方面，特斯拉表示，2026 年 9 月其在中国台湾地区市场新车挂牌量位居电动汽车品牌第",
-   "link": "https://www.ithome.com/1/009/301.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 15:22",
-   "ts": 1790925724
-  },
-  {
    "id": "e95019c838459efa37a3d979b87f5f45",
    "title": "Bushiroad旗下游戏现已开启限时折扣促销",
    "summary": "Bushiroad Inc.将于2026年10月2日（星期五）起举办“Bushiroad Autumn Sale 2026”，旗下 Nintendo Switch 下载版及 Steam 版游戏将在活动期间以限时优惠价格发售。\nBushiroad旗下游戏的 Nintendo Switch 下载版与 Steam 版现已开启",
@@ -189,6 +189,19 @@
    "urgent": false,
    "fetched_at": "10-02 14:53",
    "ts": 1790924004
+  },
+  {
+   "id": "27e9547643c04e8e988a56c7668fd6c8",
+   "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
+   "summary": "换区也没用",
+   "link": "https://www.qbitai.com/2026/10/499958.html",
+   "source": "量子位",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 14:46",
+   "ts": 1790923592
   },
   {
    "id": "442198b5fecee2ba58bf25ae268263c5",
@@ -215,6 +228,19 @@
    "urgent": false,
    "fetched_at": "10-02 14:01",
    "ts": 1790920885
+  },
+  {
+   "id": "af33b5bbab24e50b74e293ed13a06c4b",
+   "title": "Shimano Bicycle Museum Review",
+   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 69\n# Comments: 9",
+   "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 13:12",
+   "ts": 1790917978
   },
   {
    "id": "3c298581067fe302b86eb82038137398",
@@ -269,6 +295,32 @@
    "ts": 1790916623
   },
   {
+   "id": "71f113bbf5a23dfe99ee6c93219e2232",
+   "title": "Building reliable (and fast) directory sync",
+   "summary": "Article URL: https://www.firezone.dev/blog/building-reliable-directory-sync\nComments URL: https://news.ycombinator.com/item?id=49929925\nPoints: 6\n# Comments: 0",
+   "link": "https://www.firezone.dev/blog/building-reliable-directory-sync",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 12:45",
+   "ts": 1790916336
+  },
+  {
+   "id": "edd38f0a71d7d06b77bf24a69b2e893c",
+   "title": "DeepSeek Harness Desktop for macOS and Windows",
+   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 208\n# Comments: 103",
+   "link": "https://www.deepseek.com/en/harness/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 11:11",
+   "ts": 1790910680
+  },
+  {
    "id": "afab8b61846c98ac0186e691fa2194f0",
    "title": "红海危局背后：破碎的也门与强势的胡塞，从何而来？",
    "summary": "红海航道再起波澜。9月以来，胡塞武装发动大规模军事攻势，迅速占据曼德海峡周边多个战略要地，全球能源与航运市场随之剧烈震荡。也门这一轮冲突升级，究竟因何爆发？也门局势未来又可能会走向何方？本期节目，中东研究专家朱泉钢将为大家介绍当前也门内战和胡塞武装-沙特冲突的来龙去脉与最新变化，分析域外各利益相关方在此次冲突中的选择及",
@@ -293,6 +345,19 @@
    "urgent": false,
    "fetched_at": "10-02 10:00",
    "ts": 1790906400
+  },
+  {
+   "id": "f2462edac521dab7479cbdbdf2636a40",
+   "title": "How Singapore's government-run dating service works",
+   "summary": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\nComments URL: https://news.ycombinator.com/item?i",
+   "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 09:56",
+   "ts": 1790906212
   },
   {
    "id": "f4ddcf4b18ea676baa6fb6f604dcf84e",
@@ -347,6 +412,32 @@
    "ts": 1790897876
   },
   {
+   "id": "776b7e60ed550d9b982d3845224615b7",
+   "title": "Butterflies use optical illusions to dodge predators",
+   "summary": "Article URL: https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators\nComments URL: https://news.ycombinator.com/item?id=499",
+   "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 07:15",
+   "ts": 1790896524
+  },
+  {
+   "id": "69f5cac8b7bca0cbd956b727558e2ef6",
+   "title": "Several vulnerabilities have been discovered in the Linux kernel",
+   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 264\n# Comments: 188",
+   "link": "https://lwn.net/Articles/1097401/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 07:10",
+   "ts": 1790896244
+  },
+  {
    "id": "8b110263fa4b7e6a9d0d4d1a848b2df0",
    "title": "Viral Short Horror Film Portrait of God Gets Feature Length Movie Starring Chase Infiniti",
    "summary": "Viral internet short film Portrait of God is getting the Hollywood treatment, with Chase Infiniti set to star in a feature length adaptation of the YouTube-famo",
@@ -397,6 +488,19 @@
    "urgent": false,
    "fetched_at": "10-02 06:33",
    "ts": 1790894020
+  },
+  {
+   "id": "43305a99e92c3a3a916d33ae355c222b",
+   "title": "Frog and Toad and the Increasingly Capable Machines",
+   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 142\n# Comments: 30",
+   "link": "https://www.frogandtoad.ai/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 06:23",
+   "ts": 1790893418
   },
   {
    "id": "e16868fa3e8463c9b553c9072c893a60",
@@ -464,6 +568,19 @@
    "ts": 1790890360
   },
   {
+   "id": "98ff326da4f4d4c7734c537ba1eae2b5",
+   "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
+   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 102\n# Comments: 26",
+   "link": "https://www.cssbed.com",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 05:21",
+   "ts": 1790889692
+  },
+  {
    "id": "2a7b0d5dde5ea39f32b5862a5570c4f7",
    "title": "Amazon Launches New Line of Kindles and Accessories Right Before Prime Big Deal Days",
    "summary": "",
@@ -501,6 +618,58 @@
    "urgent": false,
    "fetched_at": "10-02 05:05",
    "ts": 1790888700
+  },
+  {
+   "id": "8d66002cff67fee089a9c713e47aeea2",
+   "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
+   "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 13",
+   "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 04:48",
+   "ts": 1790887717
+  },
+  {
+   "id": "f2857a36fd3d01c62f9b071142c9551b",
+   "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 72\n# Comments: 13",
+   "link": "https://github.com/Vibra-Ingenn/Janus",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 04:36",
+   "ts": 1790887007
+  },
+  {
+   "id": "2db2cf103b6129cf70e8e3750043dc85",
+   "title": "Automatic Transmission – a data-privacy study of connected vehicles",
+   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 179\n# Comments",
+   "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 04:23",
+   "ts": 1790886207
+  },
+  {
+   "id": "8578475db21f5cc67df9930f18a9a99c",
+   "title": "SvelteKit 3",
+   "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 253\n# Comments: 87",
+   "link": "https://svelte.dev/blog/sveltekit-3-is-here",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 04:14",
+   "ts": 1790885663
   },
   {
    "id": "2c25e1cf212961fc35600b8009a4e54c",
@@ -1385,19 +1554,6 @@
    "urgent": false,
    "fetched_at": "09-30 11:02",
    "ts": 1790737338
-  },
-  {
-   "id": "32d485c4d2f0684bacf49ab9d37123b8",
-   "title": "DeepSeek官方开源昇腾基础组件，与昇腾共建高效易用的AI芯片软件生态",
-   "summary": "",
-   "link": "https://www.qbitai.com/2026/09/499263.html",
-   "source": "量子位",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "09-30 10:53",
-   "ts": 1790736797
   },
   {
    "id": "576d49d536d63d7a8a4a236ad4492a08",
