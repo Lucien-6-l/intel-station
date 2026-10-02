@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03 05:37",
- "total": 271,
+ "updated_at": "2026-10-03 06:02",
+ "total": 283,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,9 +10,49 @@
   "数码",
   "汽车",
   "游戏",
+  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "aa9063b31d5f38f6cc73966ce5acee0b",
+   "title": "Aston Villa latest: Garnacho scores in Antonio Puerta Trophy win over Sevilla",
+   "summary": "",
+   "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:40",
+   "ts": 1790980800
+  },
+  {
+   "id": "36a6300e2e23b408a9adf13dbd1627f1",
+   "title": "Price edges last-leg epic as Wade beats Van Veen to book Humphries semi",
+   "summary": "Gerwyn Price survived three match darts to beat Jonny Clayton in a final-leg thriller at the World Grand Prix, as James Wade emphatically dumped out Gian van Ve",
+   "link": "https://www.skysports.com/darts/news/12040/13594495/world-grand-prix-james-wade-thrashes-gian-van-veen-to-book-luke-humphries-semi-final-after-gerwyn-price-edges-thriller",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:40",
+   "ts": 1790980800
+  },
+  {
+   "id": "aedefd62bd2898e71e645852146704fc",
+   "title": "Bath climb to top of Prem table after claiming derby honours over Exeter",
+   "summary": "Bath beat Exeter Chiefs 40-34 in a pulsating West Country derby at the Rec to take them to the top of the Gallagher Prem table but they were made to fight all t",
+   "link": "https://www.skysports.com/rugby-union/bath-vs-exeter/report/113836",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:38",
+   "ts": 1790980680
+  },
   {
    "id": "c9a6b9bd20d0234f70b8a41f3b9cb28f",
    "title": "Zidane's France held by Italy as De Bruyne inspires Belgium",
@@ -27,8 +67,21 @@
    "ts": 1790979360
   },
   {
+   "id": "4db3dfae5413198a4bbfc3577a2acc3c",
+   "title": "Pool pioneer Fisher retiring after being diagnosed with Parkinson's",
+   "summary": "Pool pioneer Allison Fisher is retiring from professional competition after being diagnosed with Parkinson's disease.",
+   "link": "https://www.skysports.com/snooker/news/12040/13594525/allison-fisher-pool-pioneer-retiring-from-professional-competition-after-being-diagnosed-with-parkinsons-disease",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:16",
+   "ts": 1790979360
+  },
+  {
    "id": "2d05a3a730fb88187c4fb8c7bbb06b8b",
-   "title": "World Grand Prix LIVE! Humphries leads after Wade hammers Van Veen",
+   "title": "World Grand Prix LIVE! Humphries wins again after Wade hammers Van Veen",
    "summary": "",
    "link": "https://www.skysports.com/darts/live-blog/12040/13594445/world-grand-prix-darts-live-latest-scores-updates-highlights-as-luke-humphries-gerwyn-price-james-wade-in-quarter-final-action",
    "source": "Sky Sports",
@@ -38,6 +91,19 @@
    "urgent": false,
    "fetched_at": "10-03 06:12",
    "ts": 1790979120
+  },
+  {
+   "id": "df4a458f35424f32444d5c96c29444cc",
+   "title": "iPhone 18 Pro Max connectivity issue on AT&T isn't fixed by iOS 27.0.1 apparently",
+   "summary": "Earlier this week, Apple released iOS 27.0.1, following the initial iOS 27 launch earlier in September. The update fixes an issue that caused the newly launched",
+   "link": "https://www.gsmarena.com/iphone_18_pro_max_connectivity_issue_on_at_t_isnt_fixed_by_ios_2701_apparently-news-74883.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:48",
+   "ts": 1790977682
   },
   {
    "id": "fc83d84cbb01bfcd25e1ec4fe5c5416a",
@@ -53,6 +119,149 @@
    "ts": 1790977620
   },
   {
+   "id": "692c01c15363052489e14c53c6927e39",
+   "title": "Lenovo Smart Clocks are finally getting their weather back",
+   "summary": "No more having to check outside like a sucker!",
+   "link": "https://www.androidauthority.com/lenovo-smart-clock-weather-3718711/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:43",
+   "ts": 1790977424
+  },
+  {
+   "id": "a1fceeef74b0778bed6beb188ff7aa47",
+   "title": "Deal: Samsung Galaxy S26 FE gets its first price cut",
+   "summary": "Save on the new Samsung Galaxy S26 FE at Amazon and get a 6.7-inch AMOLED display, 120Hz refresh rate, and Galaxy AI.",
+   "link": "https://www.androidauthority.com/deal-samsung-galaxy-s26-fe-3718767/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:40",
+   "ts": 1790977247
+  },
+  {
+   "id": "deea7e4ec137a0fdbc4bd959a5e2e986",
+   "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Penn State-Northwestern, Virginia Tech-Pitt",
+   "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for college football betting and NFL on Friday",
+   "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-penn-state-northwestern-virginia-tech-pitt/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:37",
+   "ts": 1790977050
+  },
+  {
+   "id": "e669af54f401b4f9513bf6af91b10258",
+   "title": "NFL Week 4 injury report: Justin Jefferson out, Nico Collins in; Terry McLaurin suffers late-week injury",
+   "summary": "Here's a look at each game designation for Week 4 in the NFL",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-injury-report-justin-jefferson-aaron-donald-terry-mclaurin/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:36",
+   "ts": 1790976972
+  },
+  {
+   "id": "3bf03a0239c8a864fa7e21286d916638",
+   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Northwestern-Penn State, Friday football",
+   "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for college football, NFL betting on Friday",
+   "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-northwestern-penn-state-friday-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:35",
+   "ts": 1790976932
+  },
+  {
+   "id": "0b4cf021b7da2bf8da9cb82f95038bd4",
+   "title": "Week 4 NFL survivor pool picks, advice, strategy: NFL expert reveals best knockout pick, teams to avoid",
+   "summary": "R.J. White reveals his knockout pool strategy and top Week 4 NFL survivor pick",
+   "link": "https://www.cbssports.com/betting/news/week-4-nfl-survivor-pool-picks-advice-strategy-guide-knockout-teams-to-avoid/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:32",
+   "ts": 1790976749
+  },
+  {
+   "id": "64cfa4b9ccda5d8fc94f94186aa9be67",
+   "title": "UFC 332 fight card predictions: Expert picks, odds for Natalia Silva vs. Wang Cong in Salt Lake City",
+   "summary": "Check out who the experts at CBS Sports are taking in the women's flyweight title fight on Saturday",
+   "link": "https://www.cbssports.com/ufc/news/ufc-332-fight-card-predictions-natalia-silva-vs-wang-cong-expert-picks/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:31",
+   "ts": 1790976663
+  },
+  {
+   "id": "464bb4a47863420d8b099fcdaa434abe",
+   "title": "Pittsburgh vs. Virginia Tech prediction, odds, time: Week 5 college football Friday picks by proven model",
+   "summary": "The SportsLine Projection Model has revealed its best bets for the Friday matchup between the Pitt Panthers vs. Virginia Tech Hokies",
+   "link": "https://www.cbssports.com/betting/news/pittsburgh-virginia-tech-prediction-odds-start-time-week-5-college-football-friday-picks-best-bets/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:30",
+   "ts": 1790976659
+  },
+  {
+   "id": "174ffdf149c38f10fb877f0104814cc8",
+   "title": "Liberty at Delaware live stream, where to watch, CBS Sports Network channel finder, odds",
+   "summary": "A full weekend of football on CBS Sports Network kicks off on Thursday night",
+   "link": "https://www.cbssports.com/college-football/news/liberty-delaware-live-stream-where-to-watch-online-cbs-sports-network-channel-finder-odds/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:30",
+   "ts": 1790976659
+  },
+  {
+   "id": "5784f4270b2fdac17ea12935e3c2a4b7",
+   "title": "Pitt vs. Virginia Tech odds, picks, predictions, time: Betting preview for Week 5 college football on Friday",
+   "summary": "Pittsburgh travels to Virginia Tech on Friday for a Week 5 college football matchup",
+   "link": "https://www.cbssports.com/betting/news/pitt-vs-virginia-tech-odds-picks-predictions-time-betting-preview-for-week-5-college-football-on-friday/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:30",
+   "ts": 1790976655
+  },
+  {
+   "id": "a42bb10271d0da87212e933f6dfe9d9c",
+   "title": "Best Buy Has the ASRock Radeon RX 9070 XT 16GB Graphics Card in Stock for $740",
+   "summary": "Nearly as powerful as the GeForce RTX 5070 Ti for hundreds less.",
+   "link": "https://www.ign.com/articles/asrock-radeon-rx-9070-xt-16gb-gpu-deal-september-2026",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:30",
+   "ts": 1790976600
+  },
+  {
    "id": "1cf084ed1dde5b000f27ef88ec9f812c",
    "title": "17 Best New Movies Streaming in October: ’The Invite,’ ‘Disclosure Day,’ ‘Evil Dead Burn’ and More",
    "summary": "October is Halloween movie season, so it&#8217;s the perfect time for two of the year&#8217;s high-profile horror releases to debut on streaming platforms. &#82",
@@ -64,6 +273,19 @@
    "urgent": false,
    "fetched_at": "10-03 05:26",
    "ts": 1790976360
+  },
+  {
+   "id": "ed92f170bb8e0d0a2aafcc4eb43c0e7d",
+   "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
+   "summary": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 3\n# Comments: 0",
+   "link": "https://allenai.org/blog/astabrief",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:25",
+   "ts": 1790976325
   },
   {
    "id": "ea96f22a1e6f93787ce724c5a3bf9648",
@@ -90,19 +312,6 @@
    "urgent": false,
    "fetched_at": "10-03 05:23",
    "ts": 1790976203
-  },
-  {
-   "id": "e669af54f401b4f9513bf6af91b10258",
-   "title": "NFL Week 4 injury report: Justin Jefferson out, Nico Collins in; Terry McLaurin suffers late-week injury",
-   "summary": "Here's a look at each game designation for Week 4 in the NFL",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-injury-report-justin-jefferson-aaron-donald-terry-mclaurin/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:22",
-   "ts": 1790976166
   },
   {
    "id": "4455e0468af757eae35627876c446cf4",
@@ -157,32 +366,6 @@
    "ts": 1790975918
   },
   {
-   "id": "90be65794acb5621a5d71d07e86a51f0",
-   "title": "Miami vs. Clemson prediction, pick, odds, spread: Hurricanes look to prove status as ACC's king",
-   "summary": "ACC frontrunner and No. 4 Miami travels to Death Valley for a Saturday night clash at Clemson",
-   "link": "https://www.cbssports.com/college-football/news/miami-clemson-prediction-picks-odds-spread-where-to-watch-live/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:15",
-   "ts": 1790975745
-  },
-  {
-   "id": "d1aaf7a1001f5e6b103c666d7efd3ca0",
-   "title": "Use FanDuel promo code to get $250 in bonus bets by targeting Pitt-Virginia Tech, Penn State-Northwestern",
-   "summary": "Sign up and bet with the latest FanDuel promo code on Friday to get your bonus bets",
-   "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-pitt-virginia-tech-penn-state-northwestern/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:15",
-   "ts": 1790975744
-  },
-  {
    "id": "dc44b8c92d536b5745a44d73ae58e106",
    "title": "Android Auto’s signal bars are finally returning to dashboards",
    "summary": "Android Auto's signal bars were missing for months, but a fix is finally here.",
@@ -220,19 +403,6 @@
    "urgent": false,
    "fetched_at": "10-03 05:10",
    "ts": 1790975443
-  },
-  {
-   "id": "d0130226cb0e42189cc990ee854a78df",
-   "title": "Fantasy football rankings Week 4: Dave Richard makes tough decisions who to start, sit and flex",
-   "summary": "Dave Richard dives deep into the players who Fantasy Football managers will have scratching their heads in every single game on the slate",
-   "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-rankings-week-4-dave-richard-makes-tough-decisions-who-to-start-sit-and-flex/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:10",
-   "ts": 1790975426
   },
   {
    "id": "3d7748f9d8cec315c0a5fb6a965277e1",
@@ -274,17 +444,17 @@
    "ts": 1790975317
   },
   {
-   "id": "367843c88d0fa15923f185a272aee788",
-   "title": "A plea to the Brewers this postseason: Act like the final boss, not 'The Little Engine That Could'",
-   "summary": "Milwaukee was the best team in baseball in the regular season, and now it's time to act like it in the playoffs",
-   "link": "https://www.cbssports.com/mlb/news/milwaukee-brewers-mlb-playoffs-world-series-nlds/",
-   "source": "CBS Sports",
-   "channel": "体育",
+   "id": "7b95fdcedf41cbdc69cacc13d01b24c0",
+   "title": "The Harness Is the Company",
+   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 7\n# Comments: 0",
+   "link": "https://blog.sshh.io/p/the-harness-is-the-company",
+   "source": "Hacker News",
+   "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-03 05:08",
-   "ts": 1790975289
+   "fetched_at": "10-03 05:06",
+   "ts": 1790975216
   },
   {
    "id": "d74aff60047cc46fb360229e55cad41d",
@@ -313,17 +483,17 @@
    "ts": 1790975113
   },
   {
-   "id": "a570f51883aa79442738534969e341e6",
-   "title": "College football picks: Predictions against the spread, odds, betting lines for top 25 games in Week 5",
-   "summary": "A closer look at the top games in a loaded Week 5",
-   "link": "https://www.cbssports.com/college-football/news/college-football-picks-predictions-spread-odds-betting-lines-top-25-week-5/",
-   "source": "CBS Sports",
-   "channel": "体育",
+   "id": "2a837713741ff3f62a7690ae1e25266a",
+   "title": "Disney Says Conversations About Buying Epic Games Are Not Happening 'Right Now'",
+   "summary": "Disney has responded after rumors suggested it was interested in buying Fortnite developer Epic Games.",
+   "link": "https://www.ign.com/articles/disney-says-conversations-about-buying-epic-games-are-not-happening-right-now",
+   "source": "IGN",
+   "channel": "游戏",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
    "fetched_at": "10-03 05:02",
-   "ts": 1790974977
+   "ts": 1790974920
   },
   {
    "id": "cdb931b4bd4a8e03ea3d5ab926694940",
@@ -393,7 +563,7 @@
   {
    "id": "0419d34b7ab29cdaac75720215ed2d2c",
    "title": "Zig v0.17.0",
-   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 60\n# Comments: 19",
+   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 85\n# Comments: 36",
    "link": "https://ziglang.org/download/0.17.0/release-notes.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -428,19 +598,6 @@
    "urgent": false,
    "fetched_at": "10-03 04:47",
    "ts": 1790974022
-  },
-  {
-   "id": "82f5dca1dcdcacfe570ae8fe6b55062d",
-   "title": "The Blazers have a starting lineup dilemma with a clear solution: Bring Ja Morant off the bench",
-   "summary": "Putting Morant in the backcourt with Damian Lillard in a starting group with Deni Avdija makes little sense",
-   "link": "https://www.cbssports.com/nba/news/blazers-ja-morant-starting-lineup-dilemma-damian-lillard-deni-avdija/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:46",
-   "ts": 1790973961
   },
   {
    "id": "a3f7c33fa28e4cff3ddaa76b9989d125",
@@ -493,19 +650,6 @@
    "urgent": false,
    "fetched_at": "10-03 04:31",
    "ts": 1790973093
-  },
-  {
-   "id": "ad43a1c7c23280fb29113fb29bf6f0ad",
-   "title": "Liberty vs. Delaware prediction, odds: Week 5 college football Friday picks by proven model",
-   "summary": "The SportsLine Projection Model has revealed its best bets for the Friday matchup between the Liberty Flames and Delaware Blue Hens on CBS Sports Network",
-   "link": "https://www.cbssports.com/betting/news/liberty-delaware-prediction-odds-line-2026-week-5-college-football-friday-picks-best-bets/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:31",
-   "ts": 1790973062
   },
   {
    "id": "57f563088d920b58a209a7c28bab05bb",
@@ -575,7 +719,7 @@
   {
    "id": "9e6a9ad0988d597762be4c36fd3fcb75",
    "title": "Everyone's Packing Up",
-   "summary": "Article URL: https://widdershins.verja.net/everyones-packing-up/\nComments URL: https://news.ycombinator.com/item?id=49938047\nPoints: 39\n# Comments: 16",
+   "summary": "Article URL: https://widdershins.verja.net/everyones-packing-up/\nComments URL: https://news.ycombinator.com/item?id=49938047\nPoints: 63\n# Comments: 33",
    "link": "https://widdershins.verja.net/everyones-packing-up/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -809,7 +953,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 42\n# Comments: 29",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 51\n# Comments: 32",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -887,7 +1031,7 @@
   {
    "id": "b495321b23a95864d58581ea58ec90ed",
    "title": "\"The only intuitive interface is the nipple\" (2012)",
-   "summary": "Article URL: https://www.greenend.org.uk/rjk/misc/nipple.html\nComments URL: https://news.ycombinator.com/item?id=49937387\nPoints: 21\n# Comments: 26",
+   "summary": "Article URL: https://www.greenend.org.uk/rjk/misc/nipple.html\nComments URL: https://news.ycombinator.com/item?id=49937387\nPoints: 25\n# Comments: 27",
    "link": "https://www.greenend.org.uk/rjk/misc/nipple.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -926,7 +1070,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 209\n# Comments: 135",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 219\n# Comments: 140",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1158,22 +1302,9 @@
    "ts": 1790964629
   },
   {
-   "id": "8ac0bf09251623b0dc54becef072a167",
-   "title": "What if we stopped using GPUs? [video]",
-   "summary": "Article URL: https://www.youtube.com/watch?v=xc2FTBGRSJo\nComments URL: https://news.ycombinator.com/item?id=49936671\nPoints: 26\n# Comments: 4",
-   "link": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:09",
-   "ts": 1790964578
-  },
-  {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 76\n# Comments: 7",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 84\n# Comments: 15",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1288,19 +1419,6 @@
    "ts": 1790962652
   },
   {
-   "id": "2b22f834c88873aad9d05ea313686da3",
-   "title": "Save 31% Off the Gamesir G7 Pro, One of the Best Wireless PC Gaming Controllers for (Way) Under $100",
-   "summary": "Probably better than Prime Day.",
-   "link": "https://www.ign.com/articles/gamesir-g7-pro-pc-gaming-controller-deal-october-2026",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:35",
-   "ts": 1790962500
-  },
-  {
    "id": "88664b4db36817b115efec6da0b7896c",
    "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
    "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
@@ -1312,32 +1430,6 @@
    "urgent": false,
    "fetched_at": "10-03 01:32",
    "ts": 1790962325
-  },
-  {
-   "id": "14e186b519f25477d788d7d02eae2fda",
-   "title": "4 Things to Focus on Outside Combat in Fire Emblem: Fortune’s Weave",
-   "summary": "",
-   "link": "https://www.ign.com/articles/4-things-to-focus-on-outside-combat-in-fire-emblem-fortunes-weave",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:30",
-   "ts": 1790962229
-  },
-  {
-   "id": "ac14ca169a9b40c7accb6faf48e84241",
-   "title": "Man Utd latest: Baleba plays first minutes in behind-closed-doors friendly",
-   "summary": "",
-   "link": "https://www.skysports.com/football/live-blog/12040/13025492/man-utd-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:26",
-   "ts": 1790961960
   },
   {
    "id": "d9abeb4c6cfbaa2c930f5d901253ca74",
@@ -1418,38 +1510,12 @@
    "ts": 1790960942
   },
   {
-   "id": "27c7ccdfd145480dd2c74d2afc4f6907",
-   "title": "Doyle: Maltese Cross to bring home Arc glory for Marquand and Haggas",
-   "summary": "Before heading to Paris to cheer on Maltese Cross, Hollie Doyle penned her latest exclusive blog ahead of Arc weekend.",
-   "link": "https://www.skysports.com/racing/news/12040/13594467/hollie-doyle-maltese-cross-to-bring-home-prix-de-larc-de-triomphe-glory-for-tom-marquand-and-william-haggas",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:04",
-   "ts": 1790960640
-  },
-  {
    "id": "bc7fdf17cb4f1ec01e44bc6607566184",
    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
    "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has c",
    "link": "https://techcrunch.com/2026/10/02/circuit-breaker-labs-hopes-to-make-ai-safer-for-your-kids-and-you/",
    "source": "TechCrunch",
    "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:00",
-   "ts": 1790960400
-  },
-  {
-   "id": "272ffd8bb5b0916696b1d788fe0ff712",
-   "title": "Mariota to start for Commanders in London as Daniels ruled out",
-   "summary": "Washington Commanders quarterback Marcus Mariota will get his second start in place of the injured Jayden Daniels on Sunday when his side face the Indianapolis ",
-   "link": "https://www.skysports.com/nfl/news/12040/13594429/nfl-london-games-2026-marcus-mariota-to-start-for-washington-commanders-vs-indianapolis-colts-as-jayden-daniels-ruled-out",
-   "source": "Sky Sports",
-   "channel": "体育",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
@@ -1520,19 +1586,6 @@
    "urgent": false,
    "fetched_at": "10-03 00:42",
    "ts": 1790959363
-  },
-  {
-   "id": "57e0cda278aa4ae4680dd9504a3618b8",
-   "title": "England bowler Carse charged by Cricket Regulator over nightclub incident",
-   "summary": "Brydon Carse has been charged by the Cricket Regulator in relation to events in Derby in August where he was &#8204;handcuffed by police and then dropped from t",
-   "link": "https://www.skysports.com/cricket/news/12040/13594452/brydon-carse-england-fast-bowler-charged-by-cricket-regulator-following-nightclub-incident",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:42",
-   "ts": 1790959320
   },
   {
    "id": "3f5b417f20b22ed1752d6152c0f65ec6",
@@ -1745,7 +1798,7 @@
   {
    "id": "077fdf42fb97a882004a771ef6ef80bf",
    "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 67\n# Comments: 47",
+   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 69\n# Comments: 50",
    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1754,19 +1807,6 @@
    "urgent": false,
    "fetched_at": "10-02 23:29",
    "ts": 1790954955
-  },
-  {
-   "id": "a35033c9b82bc7641cb8a07eb0aee47e",
-   "title": "Marshall Major V drops to only $89.99 at Amazon — just $2 shy of its all-time low",
-   "summary": "Save 31% on the Marshall Major V at Amazon and get stylish on-ear headphones with wireless charging and multipoint.",
-   "link": "https://www.androidauthority.com/marshall-major-v-amazon-deal-3718593/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:26",
-   "ts": 1790954796
   },
   {
    "id": "af7b0ca621157e61766647a9502e9161",
@@ -1795,19 +1835,6 @@
    "ts": 1790954236
   },
   {
-   "id": "46c2e25c8ad83042cddfef65afc14090",
-   "title": "JBL Soundgear Sense open-ear earbuds fall to $83 at Amazon with 50% off",
-   "summary": "Save $82 on JBL Soundgear Sense earbuds with this Amazon deal, plus get open-ear audio, earhooks, and IP54 protection.",
-   "link": "https://www.androidauthority.com/jbl-soundgear-sense-deal-3718590/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:15",
-   "ts": 1790954158
-  },
-  {
    "id": "8a2dc50fbe6b58de772971bc6bbf131c",
    "title": "韩国全胜卫冕亚运会《英雄联盟》项目冠军，中国台北收获第二",
    "summary": "IT之家 10 月 2 日消息，在当地时间今日举行的 2026 年爱知 · 名古屋亚运会《英雄联盟》项目决赛中，韩国队以 3:0 的比分战胜中国台北队，以未失小局的全胜战绩完成对该项目的卫冕。越南与沙特阿拉伯并列三四名。在韩国《英雄联盟》代表队中，李 \"Faker\" 相赫、崔 \"Zeus\" 祐齐、柳 \"Keria\" 岷",
@@ -1832,19 +1859,6 @@
    "urgent": false,
    "fetched_at": "10-02 23:15",
    "ts": 1790954100
-  },
-  {
-   "id": "400e7c526772751222cd85381fd8df70",
-   "title": "How accurately calibrated is Jev?",
-   "summary": "Article URL: https://maximumeffort.substack.com/p/jev-is-poorly-calibrated\nComments URL: https://news.ycombinator.com/item?id=49934399\nPoints: 40\n# Comments: 14",
-   "link": "https://maximumeffort.substack.com/p/jev-is-poorly-calibrated",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:12",
-   "ts": 1790953961
   },
   {
    "id": "58efc0882da5213176ce4de640156a8d",
@@ -2521,19 +2535,6 @@
    "urgent": false,
    "fetched_at": "10-02 14:46",
    "ts": 1790923592
-  },
-  {
-   "id": "a039f594c816f488f1809efce9c64070",
-   "title": "Here's when Samsung's first Android XR glasses are finally launching",
-   "summary": "Samsung showcased its first Android XR glasses during its Galaxy Unpacked event in July, and now a new report from its home country of South Korea tells us when",
-   "link": "https://www.gsmarena.com/heres_when_samsungs_first_android_xr_glasses_are_finally_launching-news-74867.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-02 14:18",
-   "ts": 1790921882
   },
   {
    "id": "883bc0b0167829e035394f8efbb41834",
