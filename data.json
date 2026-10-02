@@ -1,7 +1,33 @@
 {
- "updated_at": "2026-10-02 08:03",
+ "updated_at": "2026-10-02 08:44",
  "total": 40,
  "items": [
+  {
+   "id": "776b7e60ed550d9b982d3845224615b7",
+   "title": "Butterflies use optical illusions to dodge predators",
+   "summary": "Article URL: https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators\nComments URL: https://news.ycombinator.com/item?id=499",
+   "link": "https://www.essex.ac.uk/news/2026/09/30/butterflies-use-optical-illusions-to-dodge-predators",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 07:15",
+   "ts": 1790896524
+  },
+  {
+   "id": "69f5cac8b7bca0cbd956b727558e2ef6",
+   "title": "Several vulnerabilities have been discovered in the Linux kernel",
+   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 32\n# Comments: 5",
+   "link": "https://lwn.net/Articles/1097401/",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 07:10",
+   "ts": 1790896244
+  },
   {
    "id": "acab298e989266de8100b2faabd07ff7",
    "title": "Apple's smart home camera reportedly won't record video",
@@ -18,7 +44,7 @@
   {
    "id": "b44b2a40f9988ddf47773254d68a17e9",
    "title": "2026 International Utility Locate Rodeo",
-   "summary": "Article URL: https://locaterodeo.net/\nComments URL: https://news.ycombinator.com/item?id=49927844\nPoints: 7\n# Comments: 0",
+   "summary": "Article URL: https://locaterodeo.net/\nComments URL: https://news.ycombinator.com/item?id=49927844\nPoints: 8\n# Comments: 0",
    "link": "https://locaterodeo.net/",
    "source": "Hacker News",
    "category": "资讯",
@@ -29,9 +55,22 @@
    "ts": 1790894003
   },
   {
+   "id": "385c48b01f2e710c7ee51d857de0b879",
+   "title": "Your Big Mac might cost more if McDonald's AI thinks people nearby can afford it",
+   "summary": "Article URL: https://neow.in/NGxhb3d6\nComments URL: https://news.ycombinator.com/item?id=49927693\nPoints: 14\n# Comments: 6",
+   "link": "https://neow.in/NGxhb3d6",
+   "source": "Hacker News",
+   "category": "资讯",
+   "topic": "科技社区",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 06:15",
+   "ts": 1790892957
+  },
+  {
    "id": "ec486c6ebf53167fe18f690ff3cd4c28",
    "title": "Aweb – Communication for AI Agents",
-   "summary": "Article URL: https://aweb.ai\nComments URL: https://news.ycombinator.com/item?id=49927587\nPoints: 9\n# Comments: 4",
+   "summary": "Article URL: https://aweb.ai\nComments URL: https://news.ycombinator.com/item?id=49927587\nPoints: 13\n# Comments: 6",
    "link": "https://aweb.ai",
    "source": "Hacker News",
    "category": "资讯",
@@ -44,7 +83,7 @@
   {
    "id": "98ff326da4f4d4c7734c537ba1eae2b5",
    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 34\n# Comments: 7",
+   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 50\n# Comments: 9",
    "link": "https://www.cssbed.com",
    "source": "Hacker News",
    "category": "资讯",
@@ -57,7 +96,7 @@
   {
    "id": "2574d94faa4f2763d77ccd5e61583b18",
    "title": "The death of web development education",
-   "summary": "Article URL: https://molily.de/web-dev-education/\nComments URL: https://news.ycombinator.com/item?id=49927100\nPoints: 129\n# Comments: 98",
+   "summary": "Article URL: https://molily.de/web-dev-education/\nComments URL: https://news.ycombinator.com/item?id=49927100\nPoints: 147\n# Comments: 113",
    "link": "https://molily.de/web-dev-education/",
    "source": "Hacker News",
    "category": "资讯",
@@ -70,7 +109,7 @@
   {
    "id": "8d66002cff67fee089a9c713e47aeea2",
    "title": "Using Opus 5.5 to discover a new eyewitness record of the dodo",
-   "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 27",
+   "summary": "Article URL: https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness\nComments URL: https://news.ycombinator.com/item?id=49926917\nPoints: 45",
    "link": "https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness",
    "source": "Hacker News",
    "category": "资讯",
@@ -83,7 +122,7 @@
   {
    "id": "f2857a36fd3d01c62f9b071142c9551b",
    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 43\n# Comments: 4",
+   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 44\n# Comments: 5",
    "link": "https://github.com/Vibra-Ingenn/Janus",
    "source": "Hacker News",
    "category": "资讯",
@@ -94,22 +133,9 @@
    "ts": 1790887007
   },
   {
-   "id": "b7f9a82fcfbde04192a9e30861707ce4",
-   "title": "Show HN: Rhun, an open-source code editor written in assembly",
-   "summary": "I found that I'm not using even 1/3 of vim/vscode features anymore.That's wht I'm building rhun - a small code editor for Linux, Windows and Apple silicon Macs.",
-   "link": "https://rhun.app/",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 04:32",
-   "ts": 1790886738
-  },
-  {
    "id": "2db2cf103b6129cf70e8e3750043dc85",
    "title": "Automatic Transmission – a data-privacy study of connected vehicles",
-   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 130\n# Comments",
+   "summary": "Article URL: https://automatictransmission.khoury.northeastern.edu/index.html\nComments URL: https://news.ycombinator.com/item?id=49926628\nPoints: 136\n# Comments",
    "link": "https://automatictransmission.khoury.northeastern.edu/index.html",
    "source": "Hacker News",
    "category": "资讯",
@@ -122,7 +148,7 @@
   {
    "id": "8578475db21f5cc67df9930f18a9a99c",
    "title": "SvelteKit 3",
-   "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 81\n# Comments: 22",
+   "summary": "Article URL: https://svelte.dev/blog/sveltekit-3-is-here\nComments URL: https://news.ycombinator.com/item?id=49926536\nPoints: 95\n# Comments: 31",
    "link": "https://svelte.dev/blog/sveltekit-3-is-here",
    "source": "Hacker News",
    "category": "资讯",
@@ -135,7 +161,7 @@
   {
    "id": "16b3701a70669a15b898b947f590fd91",
    "title": "ArXiv's Updated Rate Limit Policy",
-   "summary": "Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/\nComments URL: https://news.ycombinator.com/item?id=49926512\nPoints: 59\n# Comments: 15",
+   "summary": "Article URL: https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/\nComments URL: https://news.ycombinator.com/item?id=49926512\nPoints: 63\n# Comments: 20",
    "link": "https://blog.arxiv.org/2026/10/01/updated-rate-limit-policy/",
    "source": "Hacker News",
    "category": "资讯",
@@ -148,7 +174,7 @@
   {
    "id": "ecb8b1679a2a22985f2676bda6845eba",
    "title": "Pi 1.0",
-   "summary": "Related: Pi Durable - https://news.ycombinator.com/item?id=49925969\n\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 632\n# Comments: 211",
+   "summary": "Related: Pi Durable - https://news.ycombinator.com/item?id=49925969\n\nComments URL: https://news.ycombinator.com/item?id=49926069\nPoints: 689\n# Comments: 230",
    "link": "https://earendil.com/posts/pi-1-0/",
    "source": "Hacker News",
    "category": "资讯",
@@ -170,32 +196,6 @@
    "urgent": false,
    "fetched_at": "10-02 03:24",
    "ts": 1790882648
-  },
-  {
-   "id": "8d3118edc3751b25fca186674da2156e",
-   "title": "Effect 4.0",
-   "summary": "Article URL: https://effect.website/blog/releases/effect/40\nComments URL: https://news.ycombinator.com/item?id=49925812\nPoints: 40\n# Comments: 18",
-   "link": "https://effect.website/blog/releases/effect/40",
-   "source": "Hacker News",
-   "category": "发布/大事件",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 03:10",
-   "ts": 1790881807
-  },
-  {
-   "id": "6a84ae9bec151320a59367acd059e7b3",
-   "title": "Oxygen-deprived underwater zones may not be “dead zones” but clue to early life",
-   "summary": "Article URL: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570\nComments URL: https://news.ycombinator.com/item?id=49925742\nPoints: 72\n# Comments:",
-   "link": "https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2026AV002570",
-   "source": "Hacker News",
-   "category": "资讯",
-   "topic": "科技社区",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 03:03",
-   "ts": 1790881422
   },
   {
    "id": "d654d1335ae331016f947aec70e2ffdb",
