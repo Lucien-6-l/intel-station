@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03 03:38",
- "total": 283,
+ "updated_at": "2026-10-03 04:09",
+ "total": 253,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,10 +10,178 @@
   "数码",
   "汽车",
   "游戏",
-  "科学",
-  "财经"
+  "科学"
  ],
  "items": [
+  {
+   "id": "ab74384705bc8d645437d6d332f51dec",
+   "title": "Aspinall's 112 checkout interrupted... by a fly!",
+   "summary": "Nathan Aspinall had to pause during his 112 checkout to avoid hitting a fly at the World Grand Prix Darts.",
+   "link": "https://www.skysports.com/watch/video/13594511/nathan-aspinall-avoids-fly-during-112-checkout-at-world-grand-prix-darts",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:19",
+   "ts": 1790972340
+  },
+  {
+   "id": "bbe680c8576321b336b188b9064ba483",
+   "title": "Apple will limit full disk access as AI agents ‘substantially’ increase risk",
+   "summary": "Apple will add new limits for \"full disk access\" on Mac in response to risks posed by AI agents, as reported earlier by TechCrunch. In an update on Friday, Appl",
+   "link": "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:08",
+   "ts": 1790971720
+  },
+  {
+   "id": "99e9f8d5ddff2f1dfb3bf1a453f9db54",
+   "title": "Sony Pictures in Talks to Acquire Michael B. Jordan ‘Battlefield’ Video Game Movie",
+   "summary": "Christopher McQuarrie is attached to write, direct and produce the feature adaptation of the military video game from Electronic Arts, with Jordan on board to p",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/sony-pictures-michael-b-jordan-battlefield-1236721166/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:07",
+   "ts": 1790971623
+  },
+  {
+   "id": "19ecd380fe9c2177dec54a14a8d4f84e",
+   "title": "Tesla Makes the Model 3 Quicker and Gives It a Bigger Screen",
+   "summary": "Several incremental changes arrive on the Model 3, from a new screen to an extra 18 horsepower for the Performance model.",
+   "link": "https://www.caranddriver.com/news/a73998953/tesla-model-3-updates-quicker-bigger-screen/",
+   "source": "Car and Driver",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:03",
+   "ts": 1790971412
+  },
+  {
+   "id": "5b37852eb0846c0fe14cf684fcb4231a",
+   "title": "Sling TV drops its one-day cable passes",
+   "summary": "Dish-owned Sling TV will no longer be offering its Sling Pass feature that allowed people to buy a single day of cable TV programming at a time, as reported by ",
+   "link": "https://www.theverge.com/streaming/1004300/sling-tv-pass-cable-drops",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:00",
+   "ts": 1790971220
+  },
+  {
+   "id": "66d0a17d8bb88e5a61ff75e58d0f9dff",
+   "title": "Sony in Talks to Land ‘Battlefield’ Video Game Movie From Christopher McQuarrie and Michael B. Jordan",
+   "summary": "Sony is in talks to acquire Christopher McQuarrie and Michael B. Jordan&#8217;s big-screen adaptation of the popular &#8220;Battlefield&#8221; video game after ",
+   "link": "https://variety.com/2026/film/news/michael-b-jordan-battlefield-video-game-movie-sony-1236731771/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:59",
+   "ts": 1790971154
+  },
+  {
+   "id": "6572e0b1e5f6054dd5a357f3c1a44caf",
+   "title": "NIH rolling out streamlined website to help public find information more easily",
+   "summary": "The redesign is intended to streamline what was a sprawling and fractured information ecosystem, requiring users to understand NIH's organizational structure",
+   "link": "https://www.statnews.com/2026/10/02/nih-launching-streamlined-website-to-help-public-find-information/?utm_campaign=rss",
+   "source": "STAT News",
+   "channel": "健康",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:59",
+   "ts": 1790971147
+  },
+  {
+   "id": "4891cc690575b0d5c531da2e72866dec",
+   "title": "Three MLB teams that have never won a World Series are still alive: Who is most likely to break through?",
+   "summary": "Only eight teams remain in the MLB playoffs, and three are in pursuit of their first crown",
+   "link": "https://www.cbssports.com/mlb/news/mlb-playoffs-never-won-world-series-padres-rays-brewers/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:54",
+   "ts": 1790970892
+  },
+  {
+   "id": "66c959d5c7f17a49d11da5691466a6f4",
+   "title": "Ford backs a big new solar farm for its Michigan factories",
+   "summary": "Detroit-based energy company DTE Energy has completed construction of a 100-megawatt (MW) solar farm near Coldwater, Michigan, that will help Ford power its hom",
+   "link": "https://electrek.co/2026/10/02/ford-backs-a-big-new-solar-farm-for-its-michigan-factories/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:52",
+   "ts": 1790970723
+  },
+  {
+   "id": "f595835abab32d8b761b92ffe444864a",
+   "title": "GrapheneOS has fixed the Android 17 QPR1 kernel performance regression",
+   "summary": "Article URL: https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression\nComments URL: https://news.yc",
+   "link": "https://discuss.grapheneos.org/d/42511-grapheneos-has-fixed-the-massive-android-17-qpr1-kernel-performance-regression",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:45",
+   "ts": 1790970306
+  },
+  {
+   "id": "dd77e85f4da1fae24f4574ce255dad49",
+   "title": "Can AI Fix Your Chaotic Inbox? I Unleashed It On 200,000 Unread Emails",
+   "summary": "I sifted through a boatload of emails with the help of Gemini.",
+   "link": "https://www.cnet.com/tech/services-and-software/ai-fix-your-inbox-unread-emails/",
+   "source": "CNET",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:43",
+   "ts": 1790970212
+  },
+  {
+   "id": "dd2ad4e71815b321649fd51bf4d4eabd",
+   "title": "Rams' Aaron Donald to miss Week 4 game vs. Eagles, Puka Nacua's status updated",
+   "summary": "Donald will miss his second game of the season, but the Rams received some good news on Friday",
+   "link": "https://www.cbssports.com/nfl/news/los-angeles-rams-injury-aaron-donald-out-puka-nacua/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:40",
+   "ts": 1790970041
+  },
+  {
+   "id": "6df229ab077974bda8e6a25590201122",
+   "title": "Updates to Full Disk Access in macOS",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 16\n# Comments: 2",
+   "link": "https://developer.apple.com/news/?id=p6zjojqw",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:37",
+   "ts": 1790969821
+  },
   {
    "id": "27c7009ec4e941cff909fed94d022375",
    "title": "HQ PM Newsletter 10/2/2026",
@@ -78,6 +246,19 @@
    "urgent": false,
    "fetched_at": "10-03 03:30",
    "ts": 1790969417
+  },
+  {
+   "id": "bd97e72419d4afd04761d331fdcb6146",
+   "title": "Upcoming LEGO Sets: Release Dates for 2026 and Beyond",
+   "summary": "A frequently updated list of all the biggest upcoming LEGO sets, along with their release dates, pricing, and more.",
+   "link": "https://www.ign.com/articles/upcoming-lego-set-release-dates",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:30",
+   "ts": 1790969400
   },
   {
    "id": "15a5a4b0421556e7f9a64cc0fc52d81e",
@@ -210,22 +391,9 @@
    "ts": 1790968800
   },
   {
-   "id": "fad03677b769d8751ee3052daefa045c",
-   "title": "Hardly Promethean",
-   "summary": "Article URL: https://jardo.dev/hardly-promethean\nComments URL: https://news.ycombinator.com/item?id=49937388\nPoints: 3\n# Comments: 0",
-   "link": "https://jardo.dev/hardly-promethean",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:18",
-   "ts": 1790968704
-  },
-  {
-   "id": "7d9adb97e3d891224fbb027deeb37b3a",
-   "title": "The Only Intuitive Interface Is the Nipple",
-   "summary": "Article URL: https://www.greenend.org.uk/rjk/misc/nipple.html\nComments URL: https://news.ycombinator.com/item?id=49937387\nPoints: 6\n# Comments: 1",
+   "id": "b495321b23a95864d58581ea58ec90ed",
+   "title": "\"The only intuitive interface is the nipple\" (2012)",
+   "summary": "Article URL: https://www.greenend.org.uk/rjk/misc/nipple.html\nComments URL: https://news.ycombinator.com/item?id=49937387\nPoints: 13\n# Comments: 11",
    "link": "https://www.greenend.org.uk/rjk/misc/nipple.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -247,6 +415,19 @@
    "urgent": false,
    "fetched_at": "10-03 03:15",
    "ts": 1790968551
+  },
+  {
+   "id": "69ef3433c1cd220c9df5fa009ea79ba8",
+   "title": "Verity Review",
+   "summary": "Verity review: A veritable mess starring Anne Hathaway, Dakota Johnson, and Josh Hartnett.",
+   "link": "https://www.ign.com/articles/verity-review",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:14",
+   "ts": 1790968487
   },
   {
    "id": "1a8d25124659345e7e26634cfa1538f1",
@@ -277,7 +458,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 56\n# Comments: 12",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 114\n# Comments: 55",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -444,19 +625,6 @@
    "ts": 1790966046
   },
   {
-   "id": "72e163bc9c519e5ea0c18a60fa9b48c2",
-   "title": "Colorectal Cancer Is Rising Among the Young, Even Kids and Teens",
-   "summary": "Article URL: https://gizmodo.com/colorectal-cancer-is-rising-among-kids-and-teens-and-its-not-the-same-disease-adults-get-2000818128\nComments URL: https://news.",
-   "link": "https://gizmodo.com/colorectal-cancer-is-rising-among-kids-and-teens-and-its-not-the-same-disease-adults-get-2000818128",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:31",
-   "ts": 1790965872
-  },
-  {
    "id": "6d4eb66f064a197b212db8ebbf6950b4",
    "title": "Future Electric Vehicles: The EVs You'll Soon Be Able to Buy",
    "summary": "These EVs aren't for sale yet but are in various stages from concept to production—and perhaps a few may never see the light of day.",
@@ -574,19 +742,6 @@
    "ts": 1790965459
   },
   {
-   "id": "5d9338481a2eef50644ed337f558471f",
-   "title": "Is Polymarket Legal in California? October 2026 Status",
-   "summary": "Find out if Polymarket is legal in California, how it's regulated, and what you can trade there in 2026.",
-   "link": "https://www.cbssports.com/prediction/news/polymarket-california/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:22",
-   "ts": 1790965377
-  },
-  {
    "id": "c68f22b515e4fcbdfb4c70541a9eb537",
    "title": "The world’s tallest wind turbine just reached 1,197 feet",
    "summary": "The world’s tallest wind turbine has reached its full height in Germany, and its developer says the extra altitude could roughly double its electricity output.\n",
@@ -626,19 +781,6 @@
    "ts": 1790965001
   },
   {
-   "id": "87e2cf829d003f6af6849c4363ba5d5c",
-   "title": "John Calipari says Arkansas players outearn assistant coaches as he defends Protect College Sports Act",
-   "summary": "Calipari has been one of the most outspoken college coaches about the Protect College Sports Act",
-   "link": "https://www.cbssports.com/college-basketball/news/john-calipari-arkansas-players-salary-protect-college-sports-act/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:16",
-   "ts": 1790964979
-  },
-  {
    "id": "b9e591dfb17f6c9890c436073dd44267",
    "title": "Twelve South launches tiny new ‘Airfly Drive’ wireless CarPlay adapter [Updated]",
    "summary": "Update, October 2: Many of you have asked for a full vehicle compatibility list for the Twelve South Airfly Drive. Our friends over at 9to5Toys have just publis",
@@ -667,7 +809,7 @@
   {
    "id": "0b479ca77b49c2f69f81abd5742ecd50",
    "title": "Around 2-6% of World Bank foreign aid got siphoned into crypto wallets",
-   "summary": "Article URL: https://www.nber.org/papers/w35655\nComments URL: https://news.ycombinator.com/item?id=49936725\nPoints: 6\n# Comments: 0",
+   "summary": "Article URL: https://www.nber.org/papers/w35655\nComments URL: https://news.ycombinator.com/item?id=49936725\nPoints: 61\n# Comments: 10",
    "link": "https://www.nber.org/papers/w35655",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -719,7 +861,7 @@
   {
    "id": "8ac0bf09251623b0dc54becef072a167",
    "title": "What if we stopped using GPUs? [video]",
-   "summary": "Article URL: https://www.youtube.com/watch?v=xc2FTBGRSJo\nComments URL: https://news.ycombinator.com/item?id=49936671\nPoints: 9\n# Comments: 1",
+   "summary": "Article URL: https://www.youtube.com/watch?v=xc2FTBGRSJo\nComments URL: https://news.ycombinator.com/item?id=49936671\nPoints: 14\n# Comments: 3",
    "link": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -732,7 +874,7 @@
   {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 10\n# Comments: 1",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 26\n# Comments: 2",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -793,19 +935,6 @@
    "urgent": false,
    "fetched_at": "10-03 02:00",
    "ts": 1790964000
-  },
-  {
-   "id": "3c0b2278e6c50acdbdb1fe6e7857f217",
-   "title": "James Gunn, Peter Safran to Stay at DC Studios as Brand Takes Key Position at Skydance",
-   "summary": "Warner Bros. film chiefs Mike De Luca and Pam Abdy are out, but for now, the DC bosses are staying put amid David Ellison's takeover of Warners.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/dcs-james-gunn-peter-safran-invited-to-stay-1236721061/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:58",
-   "ts": 1790963909
   },
   {
    "id": "a88c81b26605ff758cd3e58ace6ae22f",
@@ -1042,6 +1171,19 @@
    "ts": 1790960400
   },
   {
+   "id": "48bf975ad9fe5bb7cb8ccb3dee7181b9",
+   "title": "STS-51-F Abort-to-Orbit (1985)",
+   "summary": "Today I learned that one Space Shuttle flight (in 1985) successfully used the Abort-to-Orbit recovery plan (changing its flight path in real time in response to",
+   "link": "https://en.wikipedia.org/wiki/STS-51-F",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 00:56",
+   "ts": 1790960207
+  },
+  {
    "id": "77fab45abaf1e7ded5aa544b1e061e21",
    "title": "The AOC 16\" Portable USB Monitor For Laptop, Switch, or Gaming Handheld Drops to $47.49 for Prime Day",
    "summary": "Use as a secondary screen for your laptop or portable display for your Nintendo Switch 2.",
@@ -1066,19 +1208,6 @@
    "urgent": false,
    "fetched_at": "10-03 00:53",
    "ts": 1790960014
-  },
-  {
-   "id": "b891c4c19e20a7397f065c49ad2d00a7",
-   "title": "Dutch computer museums (2022)",
-   "summary": "Article URL: https://aresluna.org/dutch-computer-museums/\nComments URL: https://news.ycombinator.com/item?id=49935751\nPoints: 87\n# Comments: 24",
-   "link": "https://aresluna.org/dutch-computer-museums/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:52",
-   "ts": 1790959959
   },
   {
    "id": "6eb01e2ed6f7087abb613741f4bc6d63",
@@ -1198,58 +1327,6 @@
    "ts": 1790958600
   },
   {
-   "id": "500be1e33e3bb1854dd0c1d1cf3ba42d",
-   "title": "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付",
-   "summary": "IT之家 10 月 3 日消息，Microsoft（微软）当地时间 1 日通过 DirectX 开发者博客宣布，高级着色器交付 (ASD) 将在本月扩展到高通、英特尔、英伟达硬件上。由于 AMD 的 \"RDNA\" 家族已率先支持 ASD，这意味着该特性即将实现对四大 GPU 制造商平台的全覆盖。更多用户将可享受到直接下",
-   "link": "https://www.ithome.com/1/009/373.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:16",
-   "ts": 1790957815
-  },
-  {
-   "id": "d9ca9bee884e8ee7cf4f803b34a6494a",
-   "title": "Today’s Top Deals: Xbox Elite Controller, Belkin Switch 2 Cases, and Bose QuietComfort Headphones",
-   "summary": "Plus, pick up Pokémon TCG, MTG x Marvel, and more discounts as we head into the weekend.",
-   "link": "https://www.ign.com/articles/best-deals-for-october-2-2026",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:15",
-   "ts": 1790957700
-  },
-  {
-   "id": "6e7e548d68e20286714ecfe72d2d0f05",
-   "title": "Disney+ Shows and Movies Are Now Headed to Netflix, Including Ice Age and Percy Jackson",
-   "summary": "Disney plans to license a mix of legacy titles and currently-streaming TV shows to Netflix as part of a new deal between the two firms. In the deal, Netflix wil",
-   "link": "https://www.ign.com/articles/disney-licenses-netflix",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:10",
-   "ts": 1790957459
-  },
-  {
-   "id": "61f7e35210dcaef4b1d46198061d56c4",
-   "title": "CBS Sports, Tony Romo Break Up Following Pre-Season Intoxication Incident",
-   "summary": "CBS Sports kicked off a massive industry spending spree when it lured former Dallas Cowboys quarterback Tony Romo to its NFL booth in 2017. Now the sports outle",
-   "link": "https://variety.com/2026/tv/news/cbs-sports-tony-romo-break-up-intoxication-1236897643/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:08",
-   "ts": 1790957295
-  },
-  {
    "id": "abba382d36c6ff194be7d9719a5059e0",
    "title": "Google just made the Pixel 10a a much tougher sell",
    "summary": "The Pixel 10a just got $100 more expensive.",
@@ -1343,7 +1420,7 @@
   {
    "id": "91fad254853a6d9555a5ffc82cbf9745",
    "title": "Supabase is acquiring Turso",
-   "summary": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 164\n# Comments: 85",
+   "summary": "Article URL: https://supabase.com/blog/supabase-is-acquiring-turso\nComments URL: https://news.ycombinator.com/item?id=49934784\nPoints: 175\n# Comments: 90",
    "link": "https://supabase.com/blog/supabase-is-acquiring-turso",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1432,19 +1509,6 @@
    "ts": 1790955371
   },
   {
-   "id": "7db5817d8ec33a473afdf6f16d939d4f",
-   "title": "AMD“锐龙 9 5900X3D”处理器工程样品现身，配备 32MB + 96MB L3 缓存",
-   "summary": "IT之家 10 月 2 日消息，Chiphell 论坛用户 @灵乌路空 9 月 28 日分享了一款 AMD Socket AM4 平台处理器工程样品的信息。该处理器代号 \"100-000000652\"，属于 \"Zen 3\" 微架构的 \"Vermeer\" 家族，步进 \"B2\"，拥有 12 核心 24 线程的规格，频率可达",
-   "link": "https://www.ithome.com/1/009/372.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:36",
-   "ts": 1790955365
-  },
-  {
    "id": "c88cdebfc83b0f8bc922eb880cdfd7cf",
    "title": "How to Get the Best Offer for the Car You’re Trading",
    "summary": "Learning about the trade-in process can help you find out how to price your trade-in and determine whether this strategy is best for you.",
@@ -1471,22 +1535,9 @@
    "ts": 1790955080
   },
   {
-   "id": "0c760c8315363bff5f692de2b545b473",
-   "title": "焕新极氪 001 配色上新：推出哑光岩灰车色、冰川灰内饰",
-   "summary": "IT之家 10 月 2 日消息，极氪汽车今日宣布焕新极氪 001 色彩上新，推出全新外饰色“哑光岩灰”以及全新内饰色“冰川灰”。2026 年 10 月 1 日-10 月 31 日，下定焕新极氪 001 可享更多限时权益。IT之家注意到，焕新极氪 001 于 2025 年 10 月 11 日上市，售价 26.98 万元起",
-   "link": "https://www.ithome.com/1/009/371.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:30",
-   "ts": 1790955057
-  },
-  {
    "id": "077fdf42fb97a882004a771ef6ef80bf",
    "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 23\n# Comments: 17",
+   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 36\n# Comments: 27",
    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1562,19 +1613,6 @@
    "ts": 1790954158
   },
   {
-   "id": "8a2dc50fbe6b58de772971bc6bbf131c",
-   "title": "韩国全胜卫冕亚运会《英雄联盟》项目冠军，中国台北收获第二",
-   "summary": "IT之家 10 月 2 日消息，在当地时间今日举行的 2026 年爱知 · 名古屋亚运会《英雄联盟》项目决赛中，韩国队以 3:0 的比分战胜中国台北队，以未失小局的全胜战绩完成对该项目的卫冕。越南与沙特阿拉伯并列三四名。在韩国《英雄联盟》代表队中，李 \"Faker\" 相赫、崔 \"Zeus\" 祐齐、柳 \"Keria\" 岷",
-   "link": "https://www.ithome.com/1/009/370.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:15",
-   "ts": 1790954153
-  },
-  {
    "id": "91df8be2dec4dcf5a86a0909a85f0ad7",
    "title": "How to Trade In a Car in 5 Steps",
    "summary": "Follow these steps to get the best offer for your car at trade-in.",
@@ -1590,7 +1628,7 @@
   {
    "id": "400e7c526772751222cd85381fd8df70",
    "title": "How accurately calibrated is Jev?",
-   "summary": "Article URL: https://maximumeffort.substack.com/p/jev-is-poorly-calibrated\nComments URL: https://news.ycombinator.com/item?id=49934399\nPoints: 12\n# Comments: 6",
+   "summary": "Article URL: https://maximumeffort.substack.com/p/jev-is-poorly-calibrated\nComments URL: https://news.ycombinator.com/item?id=49934399\nPoints: 22\n# Comments: 8",
    "link": "https://maximumeffort.substack.com/p/jev-is-poorly-calibrated",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1640,19 +1678,6 @@
    "ts": 1790953420
   },
   {
-   "id": "58efc0882da5213176ce4de640156a8d",
-   "title": "1100 亿美元超级并购：派拉蒙与华纳兄弟探索合并后将更名为“Skydance”",
-   "summary": "IT之家 10 月 2 日消息，派拉蒙天舞公司（Paramount SkyDance）首席执行官埃里森（David Ellison）今日宣布，在公司下周完成与华纳兄弟探索（WBD）的合并后，合并后的实体将命名为“Skydance”。按照今年 2 月达成的协议，派拉蒙将以 1,100 亿美元（IT之家注：现汇率约合 7,",
-   "link": "https://www.ithome.com/1/009/369.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:00",
-   "ts": 1790953248
-  },
-  {
    "id": "201efddcb579e47287ee5a87f7e7bfa6",
    "title": "Access to addiction meds for young people has improved — but retention hasn’t",
    "summary": "Only a small fraction of young people with opioid use disorder receive addiction medications, and few stay on them for long, a study finds.",
@@ -1677,19 +1702,6 @@
    "urgent": false,
    "fetched_at": "10-02 22:59",
    "ts": 1790953141
-  },
-  {
-   "id": "706df7f8eeafdcfe750a66b29f5f8778",
-   "title": "2026《无畏契约》全球冠军赛：4 支 VCT CN 联赛队伍率先淘汰，未尝大场胜绩",
-   "summary": "IT之家 10 月 2 日消息，2026《无畏契约》全球冠军赛正在中国上海进行。在最近两天的第一阶段小组赛败者组首轮中，4 支 VCT CN 联赛队伍均负于对手，全数被淘汰出局，无一晋级小组败者组决赛，位列本次赛事 13~16 名。IT之家注意到，JDG、EDG、TYL、XLG 四支队伍都未能在本次全球冠军赛中取得任何",
-   "link": "https://www.ithome.com/1/009/368.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:56",
-   "ts": 1790952976
   },
   {
    "id": "8b7b6c345fd4628ff1e388c6b8ccf830",
@@ -1729,19 +1741,6 @@
    "urgent": false,
    "fetched_at": "10-02 22:37",
    "ts": 1790951833
-  },
-  {
-   "id": "ea2a06e36a79a6c0eb412869e7c8c565",
-   "title": "特斯拉 2026 年第三季度交付超 48.6 万辆，同比下降 2%",
-   "summary": "IT之家 10 月 2 日消息，特斯拉今日宣布，2026 年第三季度，特斯拉全球生产了超 46.4 万辆电动车，交付了超 48.6 万辆；储能产品装机量达 13.7 吉瓦时。官方公告显示，2026 年第三季度特斯拉 Model 3/Y 生成 457,387 辆，交付 478,237 辆；其他车型生产 7,004 辆，交",
-   "link": "https://www.ithome.com/1/009/367.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:36",
-   "ts": 1790951793
   },
   {
    "id": "9aced2aa3b3d6cd5b13bd6b6c22df452",
@@ -1824,7 +1823,7 @@
   {
    "id": "0c809ece3a48d001fb10a1fc65ef08c0",
    "title": "With most information hidden, the game Stratego had stumped AI until now",
-   "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 57\n# Com",
+   "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 81\n# Com",
    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1833,19 +1832,6 @@
    "urgent": false,
    "fetched_at": "10-02 22:11",
    "ts": 1790950284
-  },
-  {
-   "id": "4f296b05fceeb2f881b4bfffad0b11da",
-   "title": "乘联分会：9 月 1-27 日乘用车零售 125.8 万辆同比下降 29%，新能源渗透率 65.7%",
-   "summary": "IT之家 10 月 2 日消息，乘联分会今日公布数据，9 月 1-27 日，全国乘用车市场零售 125.8 万辆，同比去年 9 月同期下降 29%，较上月同期增长 1%，今年以来累计零售 1,297.3 万辆，同比下降 22%。9 月 1-27 日，全国乘用车厂商批发 147.4 万辆，同比去年 9 月同期下降 30%",
-   "link": "https://www.ithome.com/1/009/366.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:09",
-   "ts": 1790950180
   },
   {
    "id": "82bfc5608f41ed141f58804a3472d671",
@@ -1872,19 +1858,6 @@
    "urgent": false,
    "fetched_at": "10-02 22:06",
    "ts": 1790949989
-  },
-  {
-   "id": "adc0a8d1aecc5c6dc003111e48ae61dd",
-   "title": "Meta 预热雷朋 Display 眼镜 2026 年下半年大型更新：改进导航功能、支持控制通知推送、Hologram 虚拟化身...",
-   "summary": "IT之家 10 月 2 日消息，Meta 现已公布雷朋 Display 眼镜 2026 年下半年大型更新详情，主要改进导航体验、通知功能、视频通话功能等。在导航方面，Meta 进一步改善了步行时的语音功能。此前系统会直接播报街道名称，例如“在第三街左转”，而在更新后，眼镜会更多结合用户眼前的实际环境进行描述，例如提示“",
-   "link": "https://www.ithome.com/1/009/365.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:01",
-   "ts": 1790949660
   },
   {
    "id": "31161f261f052a1d281e7aa4932d2dde",
@@ -1978,58 +1951,6 @@
    "ts": 1790948840
   },
   {
-   "id": "d3dd80a742ff0cd43309dc13376566e6",
-   "title": "焕新极氪 007GT 色彩上新：推出“河谷绿”车色、“墨绿”内饰",
-   "summary": "IT之家 10 月 2 日消息，极氪汽车今日宣布，焕新极氪 007GT 色彩上新，带来全新外饰色河谷绿、全新内饰色墨绿。2026 年 10 月 1 日-10 月 31 日，下定焕新极氪 007GT 可享更多限时权益。IT之家注意到，焕新极氪 007/007GT 于今年 4 月正式上市，定价 20.39 万元起，限时 1",
-   "link": "https://www.ithome.com/1/009/364.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:43",
-   "ts": 1790948624
-  },
-  {
-   "id": "5d42d64a3a1e5e78cae9f3908764fb57",
-   "title": "Paramount’s Warner Bros. megamerger will just be called Skydance",
-   "summary": "Paramount Skydance CEO David Ellison has announced that the company will just be called Skydance when it completes its $110 billion merger with Warner Bros. Dis",
-   "link": "https://www.theverge.com/entertainment/1004016/paramount-warner-bros-skydance-megamerger-name",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:42",
-   "ts": 1790948556
-  },
-  {
-   "id": "bc9110b9ef75daad5245b91b6e44a255",
-   "title": "Meta 旗下 AI 智能体 Muse 将登陆智能眼镜平台，可代用户完成各种任务",
-   "summary": "IT之家 10 月 2 日消息，Meta 宣布旗下 AI 智能体 Muse 将于近期登陆智能眼镜，用户无需拿出手机，只需通过语音下达指令，Muse 就能在后台代用户完成一系列任务。Meta 表示，Muse 基于 Muse Spark AI 模型运行，其核心运行环境是一台部署在云端的私有持久化 Linux 虚拟机，配备独",
-   "link": "https://www.ithome.com/1/009/363.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:38",
-   "ts": 1790948294
-  },
-  {
-   "id": "13ee2f22b14c4c7a66ff7d66c726b139",
-   "title": "Mezcala fancied to scoop Challenge Cup prize",
-   "summary": "After putting their collective support behind Daryz for the Prix de l'Arc de Triomphe, the Weekend Winners panel turned their attention to Ascot's Challenge Cup",
-   "link": "https://www.skysports.com/racing/news/12040/13594251/ascot-tips-mezcala-fancied-to-scoop-challenge-cup-prize",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:30",
-   "ts": 1790947800
-  },
-  {
    "id": "58cfaa6cb6ee7ba15ce91825050fedba",
    "title": "2026 Jeep Recon EV Falls Short in Our Highway Range Test",
    "summary": "While electric vehicles often underperform in real-world highway driving relative to their EPA estimates, the Recon’s result puts it among the least efficient E",
@@ -2095,19 +2016,6 @@
    "ts": 1790947202
   },
   {
-   "id": "55b85bc63e46cf0d0904fd281eb31204",
-   "title": "B 站 App 上架鸿蒙手表端应用市场：用户可在华为 WATCH 系列手表上自由看视频、刷弹幕",
-   "summary": "IT之家 10 月 2 日消息，B 站 App 宣布上架鸿蒙手表端应用市场，用户在华为 WATCH 系列手表上就能看视频、刷弹幕、听播客。官方表示，用户只需前往应用市场，即可下载安装哔哩哔哩手表端，相应 App 提供收藏、倍速、循环播放、下载缓存等各种特性，适合早高峰地铁、夜跑、做饭、洗碗、排队、等人等各种场景，精彩内",
-   "link": "https://www.ithome.com/1/009/362.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:18",
-   "ts": 1790947094
-  },
-  {
    "id": "22e4e31aae10ad0c53c22d8550670c6a",
    "title": "Nothing will let you play with its upcoming products before anyone else, here's how",
    "summary": "Today Nothing has opened up submissions for a new Community Review Program. The company describes this as \"your chance to get hands-on\" with its latest products",
@@ -2145,32 +2053,6 @@
    "urgent": false,
    "fetched_at": "10-02 21:11",
    "ts": 1790946673
-  },
-  {
-   "id": "0cd7f6bb7dc621d4a5d46ae2b44ba3a9",
-   "title": "Tesla’s recovery hits a speed bump",
-   "summary": "Tesla sold fewer vehicles in the third quarter than it did a year ago, when consumers rushed to cash in on expiring federal tax credits for electric vehicle pur",
-   "link": "https://www.theverge.com/transportation/1003601/teslas-recovery-hits-a-speed-bump",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:08",
-   "ts": 1790946496
-  },
-  {
-   "id": "3cd87b9fcc1cbd5edc43c5b3e326e568",
-   "title": "Rivian continues to ramp with R2 even as EV market growth slows",
-   "summary": "Rivian posted its third-quarter production and delivery numbers this morning and, with the R2, remains on track to meet its annual targets despite some headwind",
-   "link": "https://electrek.co/2026/10/02/rivian-continues-to-ramp-with-r2-even-as-ev-market-growth-slows/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:37",
-   "ts": 1790944660
   },
   {
    "id": "3edff936663aa625257886ce1653a47e",
@@ -2407,32 +2289,6 @@
    "ts": 1790929262
   },
   {
-   "id": "9687caf462469744c49c6c2ca71fafaa",
-   "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-   "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
-   "link": "https://www.qbitai.com/2026/10/500098.html",
-   "source": "量子位",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "10-02 15:34",
-   "ts": 1790926455
-  },
-  {
-   "id": "11210fc9ff53d3c73936cac0c18b6133",
-   "title": "丘成桐新论文致谢了GPT和Claude",
-   "summary": "44年前被亲自列入问题清单",
-   "link": "https://www.qbitai.com/2026/10/499991.html",
-   "source": "量子位",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-02 15:27",
-   "ts": 1790926023
-  },
-  {
    "id": "6a320be85ac1fd9329c3e139fb362f6e",
    "title": "Apple's HomePad / Home Hub may come in these four colors",
    "summary": "Yesterday a report told us that Apple is going to finally unveil its much-rumored Home Hub or HomePad on October 13. That report implied that it would only be a",
@@ -2457,19 +2313,6 @@
    "urgent": false,
    "fetched_at": "10-02 14:53",
    "ts": 1790924004
-  },
-  {
-   "id": "27e9547643c04e8e988a56c7668fd6c8",
-   "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
-   "summary": "换区也没用",
-   "link": "https://www.qbitai.com/2026/10/499958.html",
-   "source": "量子位",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-02 14:46",
-   "ts": 1790923592
   },
   {
    "id": "a039f594c816f488f1809efce9c64070",
@@ -2537,58 +2380,6 @@
    "ts": 1790917322
   },
   {
-   "id": "3c298581067fe302b86eb82038137398",
-   "title": "一瓶酒，两种价格—— 茅台的溢价、终局与回报",
-   "summary": "",
-   "link": "http://xueqiu.com/1835829265/411134956",
-   "source": "雪球",
-   "channel": "财经",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 12:50",
-   "ts": 1790916653
-  },
-  {
-   "id": "e9d8066701d17082acb48fdef3cf0f73",
-   "title": "大摩最新FCC纪要：指向的不是光模块，而是光芯片",
-   "summary": "",
-   "link": "http://xueqiu.com/6213467037/411187166",
-   "source": "雪球",
-   "channel": "财经",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 12:50",
-   "ts": 1790916643
-  },
-  {
-   "id": "b9500694068fdd0bbf9d4256c672fb56",
-   "title": "一年后的中性场景：仅依沃西就可以支撑3000亿+港元市值的康方",
-   "summary": "",
-   "link": "http://xueqiu.com/1781588375/411169265",
-   "source": "雪球",
-   "channel": "财经",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 12:50",
-   "ts": 1790916633
-  },
-  {
-   "id": "17ab15a3710cb5494419e2affd207462",
-   "title": "为什么坚定看好铜？复盘加息周期对铜价影响及铜企护城河",
-   "summary": "",
-   "link": "http://xueqiu.com/1641200866/411157003",
-   "source": "雪球",
-   "channel": "财经",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 12:50",
-   "ts": 1790916623
-  },
-  {
    "id": "afab8b61846c98ac0186e691fa2194f0",
    "title": "红海危局背后：破碎的也门与强势的胡塞，从何而来？",
    "summary": "红海航道再起波澜。9月以来，胡塞武装发动大规模军事攻势，迅速占据曼德海峡周边多个战略要地，全球能源与航运市场随之剧烈震荡。也门这一轮冲突升级，究竟因何爆发？也门局势未来又可能会走向何方？本期节目，中东研究专家朱泉钢将为大家介绍当前也门内战和胡塞武装-沙特冲突的来龙去脉与最新变化，分析域外各利益相关方在此次冲突中的选择及",
@@ -2613,6 +2404,214 @@
    "urgent": false,
    "fetched_at": "10-02 08:00",
    "ts": 1790899200
+  },
+  {
+   "id": "a832d521cd9a1ef83779992aa25958c6",
+   "title": "How to respond to hate speech without fuelling it further",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03058-3Psychologist Mirta Galesic discusses an increase in hateful comments online, and the sc",
+   "link": "https://www.nature.com/articles/d41586-026-03058-3",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "教程",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
+  },
+  {
+   "id": "7cf669f8037bae4d6ce4b0d1bf900d4b",
+   "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8A fossil from a previously undiscovered species with feathery limbs, unearthed in China",
+   "link": "https://www.nature.com/articles/d41586-026-03126-8",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
+  },
+  {
+   "id": "5fd34936b2bfaa9144379321c204e0b4",
+   "title": "Nature has rights — it is time the world recognized them",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03145-5Existing legal frameworks have not halted planetary crises. Recognizing the rights of n",
+   "link": "https://www.nature.com/articles/d41586-026-03145-5",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
+  },
+  {
+   "id": "0c703fe588e81f89db40206631e700cb",
+   "title": "Can you name the women who have won a science Nobel prize?",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03133-9Take Nature’s quiz on female Nobel laureates in physics, chemistry and physiology or me",
+   "link": "https://www.nature.com/articles/d41586-026-03133-9",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
+  },
+  {
+   "id": "7427853c4b9b7e4f7df8d642639906a6",
+   "title": "Von Neumann’s party",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02976-6A tricky question.",
+   "link": "https://www.nature.com/articles/d41586-026-02976-6",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
+  },
+  {
+   "id": "f0dcf85decc536fe15caa851b94c8bdd",
+   "title": "Prozac use for childhood depression skewed by single flawed medical trial",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02769-xOne small study in Iran swayed meta-analyses in favour of antidepressant use in childre",
+   "link": "https://www.nature.com/articles/d41586-026-02769-x",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
+  },
+  {
+   "id": "2c7cb719055028dfdd7d1bb480625593",
+   "title": "Can we have class outside? Seven tips to breeze through outdoor lectures",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02564-8Advocates say that delivering lectures and presentations al fresco can energize student",
+   "link": "https://www.nature.com/articles/d41586-026-02564-8",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
+  },
+  {
+   "id": "5e7763362b98aad22ef0446984906849",
+   "title": "Welcome to Opt Out October: It’s Time to Ditch Unwanted Subscriptions and AI Spies",
+   "summary": "It’s a good month to reassess old accounts and retake control of your data and privacy.",
+   "link": "https://www.cnet.com/news/privacy/welcome-to-opt-out-october-its-time-to-ditch-unwanted-subscriptions-and-ai-spies/",
+   "source": "CNET",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 07:55",
+   "ts": 1790898921
+  },
+  {
+   "id": "a74ba8fa7ed9849dec2f98979e2cdb16",
+   "title": "2027 Hyundai Tucson Hybrid",
+   "summary": "What We Know So Far",
+   "link": "https://www.caranddriver.com/hyundai/tucson-hybrid-2027",
+   "source": "Car and Driver",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 05:15",
+   "ts": 1790889300
+  },
+  {
+   "id": "1c3d0b98d616c5a60e2b86747f39f878",
+   "title": "STAT+: Medicare Advantage plans shift more costs onto seniors in 2027",
+   "summary": "Premiums are stable, but Medicare Advantage plans are making big changes that could make care more expensive for patients.",
+   "link": "https://www.statnews.com/2026/10/01/medicare-advantage-plans-have-higher-deductibles-fewer-benefits-in-2027/?utm_campaign=rss",
+   "source": "STAT News",
+   "channel": "健康",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 05:14",
+   "ts": 1790889241
+  },
+  {
+   "id": "653438ffbaf95581227aac4b334ca209",
+   "title": "McDonald’s and Walmart Are Part of the Widening Fray Over Surveillance Pricing",
+   "summary": "The Federal Trade Commission has urged companies to be transparent about their pricing, but that may not be enough.",
+   "link": "https://www.cnet.com/news/privacy/surveillance-pricing-debate-walmart-mcdonalds/",
+   "source": "CNET",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 03:07",
+   "ts": 1790881668
+  },
+  {
+   "id": "d5fa35003acea65ea81e3b089cb4b0e2",
+   "title": "Gemini 4 Is Here: When You May Be Able to Use Google’s New AI Model",
+   "summary": "Gemini 4 Argon is only available to cyber defenders now, a sign Google is gearing up for a wider launch soon.",
+   "link": "https://www.cnet.com/tech/services-and-software/google-gemini-4-argon-ai-model-release/",
+   "source": "CNET",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 03:03",
+   "ts": 1790881393
+  },
+  {
+   "id": "dc4893921e8d97ce9871572b167ab65b",
+   "title": "Samsung Suddenly Raises Prices by $100 on Most Galaxy S26 Phones",
+   "summary": "An S26 Ultra with 1TB of storage now lists for $2,000.",
+   "link": "https://www.cnet.com/tech/mobile/samsung-raises-galaxy-s26-prices/",
+   "source": "CNET",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 02:54",
+   "ts": 1790880857
+  },
+  {
+   "id": "8300ef748eeb131a494f586e97cbd55e",
+   "title": "Which Privacy and Security Apps Do You Trust the Most?",
+   "summary": "Do you use a VPN, antivirus or other security software? Let us know which ones are the most trustworthy.",
+   "link": "https://www.cnet.com/tech/services-and-software/peoples-picks-privacy-and-security-2026/",
+   "source": "CNET",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 02:50",
+   "ts": 1790880638
+  },
+  {
+   "id": "f7a0548df091b2d430602b7b5726ec55",
+   "title": "《艾尔塔：逆神》27年2月2日正式发售，游戏试玩版现已推出",
+   "summary": "Focus Entertainment 发行团队与 Afterburner Studios 欣然宣布，于 8 月 25 日科隆游戏展开幕夜直播首次公开的《艾尔塔：逆神》，将于 2027 年 2 月 2 日登陆 PC（Steam）、PlayStation 5 以及 Xbox Series X|S 平台。为让玩家亲身体验这",
+   "link": "https://www.gcores.com/articles/220400",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 01:00",
+   "ts": 1790874000
+  },
+  {
+   "id": "ba6ac9766fccf9d38397b8f4dd8b946e",
+   "title": "《星际战士2》第三年运营周期今日开启，周年纪念更新现已上线",
+   "summary": "Focus Entertainment 与 Saber Interactive 欣然宣布，《战锤40K：星际战士2》“二周年更新”正式上线，游戏发售后续内容支持的第三年也由此开启。本次更新现已面向所有 PlayStation 5、Xbox Series 及 PC 玩家开放，带来全新游戏模式与成长机制；拥有第三季季票的玩",
+   "link": "https://www.gcores.com/articles/220398",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 01:00",
+   "ts": 1790874000
   }
  ]
 }
