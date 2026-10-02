@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-02 22:41",
- "total": 283,
+ "updated_at": "2026-10-02 23:05",
+ "total": 271,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,10 +10,22 @@
   "数码",
   "汽车",
   "游戏",
-  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "0182c69b885fc07d3d18cd9d4f504a3e",
+   "title": "Tennis scores: Djokovic into deciding set against China's Bu - live on Sky",
+   "summary": "",
+   "link": "https://www.skysports.com/tennis/scores-schedule",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 23:50",
+   "ts": 1790956200
+  },
   {
    "id": "b627f5999161946202266f7454fdb28f",
    "title": "Who wins the Arc? Sky Sports Racing team tips",
@@ -41,6 +53,292 @@
    "ts": 1790953440
   },
   {
+   "id": "55d451bf73e618531741b4445ba209b4",
+   "title": "Texas school district ditches Chromebooks, approves $11M iPad and MacBook Neo deal",
+   "summary": "A Texas school district is going all-in on the iPad and MacBook Neo as part of a new $11 million deal. The Beaumont Independent School District is ditching its ",
+   "link": "https://9to5mac.com/2026/10/02/texas-school-district-ditches-chromebooks-approves-11m-ipad-and-macbook-neo-deal/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 23:03",
+   "ts": 1790953420
+  },
+  {
+   "id": "229979773ded47715c17494f37bac8fe",
+   "title": "Disney Licenses Slew of Titles to Netflix, Including All Five ‘Ice Age’ Movies, ‘Percy Jackson and the Olympians,’ ‘Felicity,’ ‘Will Trent,’ ‘Elio’ and More (EXCLUSIVE)",
+   "summary": "Sure, Disney and Netflix compete for streaming subscribers &#8212; but the Mouse House also sees the rival&#8217;s massive customer base of over 325 million as ",
+   "link": "https://variety.com/2026/tv/news/disney-licenses-titles-netflix-ice-age-movies-will-trent-percy-jackson-and-the-olympians-felicity-1236897256/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 23:02",
+   "ts": 1790953374
+  },
+  {
+   "id": "a72141cd2f3a564e652c78e30f096cb0",
+   "title": "UFC 332 -- Natalia Silva vs. Wang Cong: Fight card, date, odds, location and more for Salt Lake City",
+   "summary": "All the news, information, complete fight card and more for this weekend's festivities in Utah",
+   "link": "https://www.cbssports.com/ufc/news/ufc-332-fight-card-date-odds-natalia-silva-wang-cong/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 23:00",
+   "ts": 1790953253
+  },
+  {
+   "id": "58efc0882da5213176ce4de640156a8d",
+   "title": "1100 亿美元超级并购：派拉蒙与华纳兄弟探索合并后将更名为“Skydance”",
+   "summary": "IT之家 10 月 2 日消息，派拉蒙天舞公司（Paramount SkyDance）首席执行官埃里森（David Ellison）今日宣布，在公司下周完成与华纳兄弟探索（WBD）的合并后，合并后的实体将命名为“Skydance”。按照今年 2 月达成的协议，派拉蒙将以 1,100 亿美元（IT之家注：现汇率约合 7,",
+   "link": "https://www.ithome.com/1/009/369.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 23:00",
+   "ts": 1790953248
+  },
+  {
+   "id": "88664b4db36817b115efec6da0b7896c",
+   "title": "TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants",
+   "summary": "Blackstone's Jas Khaira will take the Builders Stage at TechCrunch Disrupt 2026 on building next-gen AI. Register for your pass and get 50% off a second.",
+   "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 23:00",
+   "ts": 1790953200
+  },
+  {
+   "id": "cbb0afb7179ebc180f6fc38e0b9c097c",
+   "title": "‘Spring Awakening’ Revival Cast, Whitney Leavitt, Mason Alexander Park Among Variety’s 10 Broadway Stars to Watch for 2026",
+   "summary": "Variety is proud to announce the 2026 edition of its annual 10 Broadway Stars to Watch. These actors, composers, librettists, and playwrights &#8212; working on",
+   "link": "https://variety.com/lists/10-broadway-stars-to-watch-spring-awakening-whitney-leavitt/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 23:00",
+   "ts": 1790953200
+  },
+  {
+   "id": "f1ab2cbab18638a5ffc1986982c7b43f",
+   "title": "Live Entertainment Technology Company Esk Targets North American Growth With Two New Execs (EXCLUSIVE)",
+   "summary": "Entertainment technology company Esk is expanding North American presence with two new appointments after a funding round that has secured £2.6 ($3.5) million i",
+   "link": "https://variety.com/2026/global/news/live-entertainment-technology-esk-1236897229/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 23:00",
+   "ts": 1790953200
+  },
+  {
+   "id": "201efddcb579e47287ee5a87f7e7bfa6",
+   "title": "Access to addiction meds for young people has improved — but retention hasn’t",
+   "summary": "Only a small fraction of young people with opioid use disorder receive addiction medications, and few stay on them for long, a study finds.",
+   "link": "https://www.statnews.com/2026/10/02/youth-opioid-treatment-retention-study-barriers-to-care/?utm_campaign=rss",
+   "source": "STAT News",
+   "channel": "健康",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 23:00",
+   "ts": 1790953200
+  },
+  {
+   "id": "53988f0a6bf97f20d163d94fa6bc8d18",
+   "title": "Cowboys' Dak Prescott, CeeDee Lamb have been nearly perfect this season. Why it's still not enough",
+   "summary": "Both Prescott and Lamb profile as top-five players at their positions while leading a top 10 scoring offense, but Dallas is 1-2",
+   "link": "https://www.cbssports.com/nfl/news/cowboys-dak-prescott-ceedee-lamb-nearly-perfect-defense-not-enough/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:59",
+   "ts": 1790953183
+  },
+  {
+   "id": "9aef17304d93869c7f0ddfad0e3bd26f",
+   "title": "Tesla might charge you up $25,000 if you use its latest feature",
+   "summary": "Tesla says its new “Emergency Drive Away” feature can do up to $25,000 in damage to a Supercharger every time someone uses it, and the car needs a mandatory ser",
+   "link": "https://electrek.co/2026/10/02/tesla-emergency-drive-away-25000-supercharger-damage-who-pays/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:59",
+   "ts": 1790953141
+  },
+  {
+   "id": "fe189c8745bfb647fe71d405fd042aea",
+   "title": "What's next for Fever? After playoff exit, Indiana must determine if Caitlin Clark-Kelsey Mitchell duo can win",
+   "summary": "Does it make sense to re-sign Mitchell, or would the Fever be better off allocating their resources differently?",
+   "link": "https://www.cbssports.com/wnba/news/indiana-fever-offseason-caitlin-clark-kelsey-mitchell/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:57",
+   "ts": 1790953068
+  },
+  {
+   "id": "706df7f8eeafdcfe750a66b29f5f8778",
+   "title": "2026《无畏契约》全球冠军赛：4 支 VCT CN 联赛队伍率先淘汰，未尝大场胜绩",
+   "summary": "IT之家 10 月 2 日消息，2026《无畏契约》全球冠军赛正在中国上海进行。在最近两天的第一阶段小组赛败者组首轮中，4 支 VCT CN 联赛队伍均负于对手，全数被淘汰出局，无一晋级小组败者组决赛，位列本次赛事 13~16 名。IT之家注意到，JDG、EDG、TYL、XLG 四支队伍都未能在本次全球冠军赛中取得任何",
+   "link": "https://www.ithome.com/1/009/368.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:56",
+   "ts": 1790952976
+  },
+  {
+   "id": "f074bb6fd7370bea78fdd86adfdf5c09",
+   "title": "NFL DFS, Week 4 Sunday: Top daily Fantasy football picks, lineup advice for DraftKings, FanDuel",
+   "summary": "DFS millionaire Mike McClure shares his top daily Fantasy picks and lineups for the Week 4 NFL Sunday main slate",
+   "link": "https://www.cbssports.com/betting/news/nfl-dfs-week-4-sunday-daily-fantasy-picks-draftkings-fanduel-lineups-advice-stacks-strategy/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:55",
+   "ts": 1790952931
+  },
+  {
+   "id": "4744a441267b82f4a828cda6ec553c5d",
+   "title": "HBO Max and Paramount+ set to merge under ‘Skydance’ brand",
+   "summary": "Paramount Skydance will complete its acquisition of Warner Bros. next week, and CEO David Ellison just revealed ‘Skydance’ as the new company name ahead of a pl",
+   "link": "https://9to5mac.com/2026/10/02/hbo-max-and-paramount-set-to-merge-under-skydance-brand/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:53",
+   "ts": 1790952799
+  },
+  {
+   "id": "f3cdf633405e6bd0d9f4f409688a0785",
+   "title": "Golazo 10/2/2026",
+   "summary": "Elsewhere on the Golazo Starting XI newsletter",
+   "link": "https://www.cbssports.com/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:52",
+   "ts": 1790952745
+  },
+  {
+   "id": "563e91f82328bd8138d21e576073bc8b",
+   "title": "Use DraftKings promo code to claim $150 in bonus bets by targeting Penn State-Northwestern, Pitt-Virginia Tech",
+   "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for college football, NFL betting on Friday",
+   "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-claim-150-bonus-bets-penn-state-northwestern-pitt-virginia-tech/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:50",
+   "ts": 1790952620
+  },
+  {
+   "id": "ed1e013e1ab6ae0f0291607401c56ad4",
+   "title": "Slovenia’s .si domain sees a surge in registrations after Trump’s ‘super intelligence’ order",
+   "summary": "The .si domain name is seeing unprecedented demand after President Trump's super intelligence executive order.",
+   "link": "https://techcrunch.com/2026/10/02/slovenias-si-domain-sees-a-surge-in-registrations-after-trumps-super-intelligence-order/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:47",
+   "ts": 1790952466
+  },
+  {
+   "id": "7544e990a4bdb4c7151d475860ea37cc",
+   "title": "Self-learning AI releases NFL picks, score predictions for every Week 4 game",
+   "summary": "SportsLine AI evaluated the Week 4 NFL odds and revealed its NFL score predictions and best NFL picks",
+   "link": "https://www.cbssports.com/betting/news/nfl-picks-ai-score-predictions-best-bets-for-every-week-4-2026-game/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-02 22:45",
+   "ts": 1790952342
+  },
+  {
+   "id": "e2a6d7c50cbf7f448eeafb6fe397d1db",
+   "title": "How ‘DWTS’ Pro Hailey Bills Is Using Her Nepo Baby Status to Dance Her Way to the Top",
+   "summary": "The 20-year-old professional dancer has already been eliminated from this season of the reality dance competition series, but that hasn't diminished her star po",
+   "link": "https://www.hollywoodreporter.com/tv/tv-features/hailey-bills-dwts-pro-season-35-nepo-baby-elimination-1236717672/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:45",
+   "ts": 1790952300
+  },
+  {
+   "id": "fcc10ed93c89775773576058d19853f7",
+   "title": "Sabalenka cruises past Zarazua at China Open",
+   "summary": "Highlights of the China Open match between Renata Zarazua and Aryna Sabalenka.",
+   "link": "https://www.skysports.com/watch/video/13594419/renata-zarazua-vs-aryna-sabalenka-china-open-highlights",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:44",
+   "ts": 1790952240
+  },
+  {
+   "id": "9a0f055ac3e7017b540a8f00399d1059",
+   "title": "Browns star Jared Verse makes bold statement after win over Steelers on 'TNF'",
+   "summary": "The Browns sit atop the AFC North four games into their season",
+   "link": "https://www.cbssports.com/nfl/news/browns-jared-verse-bold-statement-after-win-over-steelers/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:38",
+   "ts": 1790951937
+  },
+  {
+   "id": "18e1ddcfa7a7c74e4cec1880b5d9ec86",
+   "title": "Amazon Slashes Over $30 off the White Xbox Elite Series 2 Core Controller Ahead of Prime Big Deal Days",
+   "summary": "Amazon has discounted the white Xbox Elite Series 2 Core from $149.99 to $111.74 ahead of its upcoming Prime Big Deal Days sale, saving you just over $30.",
+   "link": "https://www.ign.com/articles/amazon-slashes-over-30-off-the-white-xbox-elite-series-2-core-controller-ahead-of-prime-big-deal-days",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:37",
+   "ts": 1790951837
+  },
+  {
    "id": "ea2a06e36a79a6c0eb412869e7c8c565",
    "title": "特斯拉 2026 年第三季度交付超 48.6 万辆，同比下降 2%",
    "summary": "IT之家 10 月 2 日消息，特斯拉今日宣布，2026 年第三季度，特斯拉全球生产了超 46.4 万辆电动车，交付了超 48.6 万辆；储能产品装机量达 13.7 吉瓦时。官方公告显示，2026 年第三季度特斯拉 Model 3/Y 生成 457,387 辆，交付 478,237 辆；其他车型生产 7,004 辆，交",
@@ -52,6 +350,32 @@
    "urgent": false,
    "fetched_at": "10-02 22:36",
    "ts": 1790951793
+  },
+  {
+   "id": "ccaeba815e9dabc666b25111dabd8c6f",
+   "title": "College football score predictions for Week 5, 2026: Model backs Texas A&M (-14) against Arkansas",
+   "summary": "SportsLine's model has revealed its 2026 Week 5 college football score predictions for Ohio State vs. Iowa, Alabama vs. Mississippi State and more",
+   "link": "https://www.cbssports.com/betting/news/college-football-score-predictions-game-picks-lines-spread-bets-for-week-5-2026/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:35",
+   "ts": 1790951729
+  },
+  {
+   "id": "6876b5af1c93c740c28f7509bd7da8e8",
+   "title": "Week 4 NFL odds, picks, predictions: Computer model backs Giants and Seahawks",
+   "summary": "SportsLine's advanced model has simulated every game in the Week 4 NFL schedule 10,000 times and locked in its NFL best bets today",
+   "link": "https://www.cbssports.com/betting/news/week-4-2026-nfl-odds-betting-lines-spreads-picks-predictions/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:34",
+   "ts": 1790951655
   },
   {
    "id": "9aced2aa3b3d6cd5b13bd6b6c22df452",
@@ -78,6 +402,45 @@
    "urgent": false,
    "fetched_at": "10-02 22:31",
    "ts": 1790951462
+  },
+  {
+   "id": "ce47a97d9d576a1cea577696f3324f43",
+   "title": "2026 MLB playoff predictions: Expert picks for Dodgers vs. Braves, Yankees vs. Rays and every LDS matchup",
+   "summary": "The 2026 baseball postseason continues on Saturday with all four League Division Series",
+   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-predictions-expert-picks-league-division-series/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:30",
+   "ts": 1790951459
+  },
+  {
+   "id": "2d8d00fc6347ed743af804e56bc7d335",
+   "title": "How to bet on 2026 NFL Week 4: Betting odds, trends, tips, schedule, game previews, sportsbook promos, offers",
+   "summary": "Our NFL betting guide tells you where to bet on NFL Week 4, while providing odds, betting trends, schedule, promo offers, and more",
+   "link": "https://www.cbssports.com/betting/news/how-to-bet-on-2026-nfl-week-4-betting-odds-trends-tips-schedule-game-previews-sportsbook-promos-offers/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:30",
+   "ts": 1790951447
+  },
+  {
+   "id": "b6e06cb5874b7a85e2978bafcc0d03f6",
+   "title": "Amazon seeks to offload $8B of Nvidia chips to investors",
+   "summary": "Article URL: https://www.reuters.com/business/retail-consumer/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-2026-10-02/\nComments URL: https:/",
+   "link": "https://www.reuters.com/business/retail-consumer/amazon-seeks-offload-8-billion-nvidia-chips-investors-ft-reports-2026-10-02/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:30",
+   "ts": 1790951432
   },
   {
    "id": "844ff534205992e25b60a15281dcbf10",
@@ -132,6 +495,19 @@
    "ts": 1790951345
   },
   {
+   "id": "4ffb6315ff61fbb786ee7d56f9929dc4",
+   "title": "Boulter loses out to Muchova in China after dominant second set",
+   "summary": "Highlights of the China Open match between Katie Boulter and Karolina Muchova.",
+   "link": "https://www.skysports.com/watch/video/13594414/katie-boulter-vs-karolina-muchova-china-open-highlights",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:25",
+   "ts": 1790951100
+  },
+  {
    "id": "fcddbcfe994f9fdf3ee3ee1970bb8af5",
    "title": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000",
    "summary": "Congo's Ebola outbreak has killed more than 4,000 people, authorities said, as they struggle to contain what has become the fastest-growing Ebola outbreak in hi",
@@ -184,6 +560,19 @@
    "ts": 1790950773
   },
   {
+   "id": "cff468951eca313b96bb0e7097ec9a50",
+   "title": "The Miami Heat Will Wear GTA 6-Themed Uniforms in a November Match Against Milwaukee",
+   "summary": "The Miami Heat is heading to Vice City for its next NBA match against the Milwaukee Bucks.",
+   "link": "https://www.ign.com/articles/miami-heat-gta-6-uniform",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:11",
+   "ts": 1790950307
+  },
+  {
    "id": "7308870359dda14a11fdac90bca720f5",
    "title": "SCAD Savannah Film Fest: Keanu Reeves, Seth Rogen, Gemma Chan and Jordan Firstman Among Big Names Set for Honors (Exclusive)",
    "summary": "The 29th edition of the U.S.' largest university-run film festival will take place Oct. 24–31.",
@@ -195,6 +584,19 @@
    "urgent": false,
    "fetched_at": "10-02 22:11",
    "ts": 1790950265
+  },
+  {
+   "id": "d255c979d5e77915ce0877297cf7b791",
+   "title": "Batman, Lord of the Rings and Harry Potter Feature in First Trailer for Skydance, The Newly-Named Parent Company For a Merged Warner Bros. and Paramount",
+   "summary": "Once merged, Harry Potter, Lord of the Rings and Game of Thrones company Warner Bros. will exist alongside Paramount as a sub-brand of Skydance.",
+   "link": "https://www.ign.com/articles/batman-lord-of-the-rings-and-harry-potter-feature-in-first-trailer-for-skydance-the-newly-named-parent-company-for-a-merged-warner-bros-and-paramount",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:09",
+   "ts": 1790950185
   },
   {
    "id": "4f296b05fceeb2f881b4bfffad0b11da",
@@ -236,6 +638,19 @@
    "ts": 1790949989
   },
   {
+   "id": "32035c8491169de14e7c8b09458e7ac3",
+   "title": "8 Big October Games We've Already Played if You Want to Know What We Think of Them So Far",
+   "summary": "October is here, which means the Fall is in full swing, which means some of the biggest games of the year drop this month. We've already played some of the bigg",
+   "link": "https://www.ign.com/articles/8-big-october-games-weve-already-played-if-you-want-to-know-what-we-think-of-them-so-far",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:03",
+   "ts": 1790949780
+  },
+  {
    "id": "adc0a8d1aecc5c6dc003111e48ae61dd",
    "title": "Meta 预热雷朋 Display 眼镜 2026 年下半年大型更新：改进导航功能、支持控制通知推送、Hologram 虚拟化身...",
    "summary": "IT之家 10 月 2 日消息，Meta 现已公布雷朋 Display 眼镜 2026 年下半年大型更新详情，主要改进导航体验、通知功能、视频通话功能等。在导航方面，Meta 进一步改善了步行时的语音功能。此前系统会直接播报街道名称，例如“在第三街左转”，而在更新后，眼镜会更多结合用户眼前的实际环境进行描述，例如提示“",
@@ -268,6 +683,19 @@
    "link": "https://techcrunch.com/2026/10/02/less-than-24-hours-to-apply-for-a-side-event-at-founder-summit-2026/",
    "source": "TechCrunch",
    "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:00",
+   "ts": 1790949600
+  },
+  {
+   "id": "ca2a905cf2c1126e879f211fea889ee1",
+   "title": "Citizen: Stardust Is a Gorgeous Throwback to a Golden Age Comics Icon",
+   "summary": "In what promises to be one of the most interesting new comics of 2027, Oni Press is rebooting Golden Age superhero Stardust the Super Wizard in the surrealist a",
+   "link": "https://www.ign.com/articles/citizen-stardust-is-a-gorgeous-throwback-to-a-golden-age-comics-icon",
+   "source": "IGN",
+   "channel": "游戏",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
@@ -366,45 +794,6 @@
    "ts": 1790949000
   },
   {
-   "id": "ff33755258077ddaa2d7fcf07687e596",
-   "title": "2026 MLB playoff bracket: Schedule, scores as Braves advance to NLDS to face Dodgers",
-   "summary": "The Braves ousted the Phillies in Game 3 of the Wild Card Series on Thursday night",
-   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:49",
-   "ts": 1790948984
-  },
-  {
-   "id": "d8efd1de2f8adf97334e3ae58d6a6309",
-   "title": "Will Brinson's NFL Week 4 best bets: Odds, player props, anytime touchdown scorers from expert on Sunday games",
-   "summary": "Back live underdogs, ride Derrick Henry in a revenge spot, and target value on Brock Bowers and Puka Nacua to find the end zone",
-   "link": "https://www.cbssports.com/betting/news/will-brinsons-nfl-week-4-best-bets-odds-player-props-anytime-touchdown-scorers-from-expert-on-sunday-games/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:49",
-   "ts": 1790948979
-  },
-  {
-   "id": "70cdf3641afedd8439ebdbc027df3065",
-   "title": "NFL trade rumors: Browns would 'welcome deal at right price' for Shedeur Sanders, Dillon Gabriel, per report",
-   "summary": "Cleveland may have options within its quarterback room now that Deshaun Watson has solidified himself as QB1 after a 3-1 start",
-   "link": "https://www.cbssports.com/nfl/news/nfl-trades-browns-could-welcome-deal-shedeur-sanders-dillon-gabriel/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:49",
-   "ts": 1790948978
-  },
-  {
    "id": "e50b8f7cb54008865d5573173972c3f9",
    "title": "Highly rated Bose SoundLink Plus speaker falls to $179 in Amazon deal",
    "summary": "Save 33% on the Bose SoundLink Plus at Amazon. This rugged portable speaker packs 20-hour battery life and USB-C charging.",
@@ -457,19 +846,6 @@
    "ts": 1790948363
   },
   {
-   "id": "932e1bdeb843f6bd3e85f68af39bb302",
-   "title": "How to bet on 2026 Week 5 college football: Betting guide, trends, odds, promos, apps, schedule, previews",
-   "summary": "Our college football betting guide tells you where to bet on CFB Week 5, gives odds, betting trends, schedule, promo offers, and more",
-   "link": "https://www.cbssports.com/betting/news/how-to-bet-on-2026-week-5-college-football-betting-guide-trends-odds-promos-apps-schedule-previews/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:38",
-   "ts": 1790948297
-  },
-  {
    "id": "bc9110b9ef75daad5245b91b6e44a255",
    "title": "Meta 旗下 AI 智能体 Muse 将登陆智能眼镜平台，可代用户完成各种任务",
    "summary": "IT之家 10 月 2 日消息，Meta 宣布旗下 AI 智能体 Muse 将于近期登陆智能眼镜，用户无需拿出手机，只需通过语音下达指令，Muse 就能在后台代用户完成一系列任务。Meta 表示，Muse 基于 Muse Spark AI 模型运行，其核心运行环境是一台部署在云端的私有持久化 Linux 虚拟机，配备独",
@@ -507,19 +883,6 @@
    "urgent": false,
    "fetched_at": "10-02 21:33",
    "ts": 1790948018
-  },
-  {
-   "id": "3d5b077b8de6e1d8a29f5926c7844034",
-   "title": "Pittsburgh vs. Virginia Tech odds, picks, parlay: Winner would become serious ACC title game threat",
-   "summary": "Pitt and Virginia Tech, both unbeaten, meet in an ACC matchup that could provide a ticket to the AP Top 25",
-   "link": "https://www.cbssports.com/betting/news/pittsburgh-vs-virginia-tech-odds-picks-parlay-winner-would-become-serious-acc-title-game-threat/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:33",
-   "ts": 1790948010
   },
   {
    "id": "1dfc8384fa57ec1729ba0aa5fc9bbc2c",
@@ -678,19 +1041,6 @@
    "ts": 1790947320
   },
   {
-   "id": "861f40c31f35f9b63ce5c4675a893b78",
-   "title": "Caitlin Clark, Fever question free-throw disparity vs. Aces after season ends in chippy Game 3 loss",
-   "summary": "The Aces shot 15 more free throws than the Fever in an 11-point playoff win on Thursday night",
-   "link": "https://www.cbssports.com/wnba/news/caitlin-clark-fever-question-free-throw-disparity-vs-aces/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:20",
-   "ts": 1790947209
-  },
-  {
    "id": "d15f719af088246dc955744d2489adf3",
    "title": "STAT+: Up and down the ladder: The latest comings and goings",
    "summary": "From new hires to departures, promotions and transfers, here are the latest comings and goings in the pharmaceutical industry.",
@@ -706,7 +1056,7 @@
   {
    "id": "c3fbcb89a06a7880e80a7dea098e3f7b",
    "title": "The Legend of von Neumann [pdf]",
-   "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 38\n# Comments: 14",
+   "summary": "Article URL: https://gwern.net/doc/math/1973-halmos.pdf\nComments URL: https://news.ycombinator.com/item?id=49933235\nPoints: 48\n# Comments: 30",
    "link": "https://gwern.net/doc/math/1973-halmos.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -743,32 +1093,6 @@
    "ts": 1790947025
   },
   {
-   "id": "e1155d4e2e0d435634114e7dc5ca6479",
-   "title": "Wakefield bid to grab another Oscar-worthy moment with 'Hollywood ending'",
-   "summary": "The story unfolding at Wakefield Trinity is so remarkable you could think it was the premise of a Hollywood movie script. That would not be the first time that ",
-   "link": "https://www.skysports.com/rugby-league/news/12040/13594275/super-league-grand-final-wakefield-trinity-bid-to-grab-another-oscar-worthy-moment-with-hollywood-ending-vs-warrington-wolves",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:15",
-   "ts": 1790946900
-  },
-  {
-   "id": "315153e928531ba211557b41696f1124",
-   "title": "New Name of Paramount-Warner Bros. Unveiled: Skydance",
-   "summary": "The soon-to-merge Paramount-Warner Bros. Discovery officially has a name: It&#8217;s simply going to be &#8220;Skydance,&#8221; according to chairman and CEO Da",
-   "link": "https://variety.com/2026/film/news/name-of-paramount-warner-bros-unveiled-skydance-1236893761/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:13",
-   "ts": 1790946833
-  },
-  {
    "id": "22e4e31aae10ad0c53c22d8550670c6a",
    "title": "Nothing will let you play with its upcoming products before anyone else, here's how",
    "summary": "Today Nothing has opened up submissions for a new Community Review Program. The company describes this as \"your chance to get hands-on\" with its latest products",
@@ -780,19 +1104,6 @@
    "urgent": false,
    "fetched_at": "10-02 21:12",
    "ts": 1790946722
-  },
-  {
-   "id": "4375ba846994980dd56b1ed42f5fcf27",
-   "title": "‘Father Father’ Director on Doc About a Gay Israeli-Palestinian Couple Who Have a Child on Eve of Oct. 7: It’s a ‘Beautiful Lesson Right Now’ (EXCLUSIVE)",
-   "summary": "Timely documentary &#8220;Father Father&#8221; — premiering at Festival do Rio — follows a Jewish Israeli named Aviv and Khader, his Palestinian-Israeli husband",
-   "link": "https://variety.com/2026/film/festivals/father-gay-israeli-palestinian-couple-child-oct-7-trailer-1236897416/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:11",
-   "ts": 1790946677
   },
   {
    "id": "537b49b9879746f1c5752bf4b75f2c47",
@@ -834,32 +1145,6 @@
    "ts": 1790946666
   },
   {
-   "id": "28136a65027e0b1c24d17c8a9641e5f2",
-   "title": "Versant, Verizon Strike Multi-Year Distribution Deal",
-   "summary": "Versant and Verizon have come to terms on a renewal of the companies&#8217; distribution agreement, a move that means the media company, in its first year since",
-   "link": "https://variety.com/2026/tv/news/versant-verizon-distribution-deal-1236897474/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:10",
-   "ts": 1790946600
-  },
-  {
-   "id": "01bfd1e09b6068695ec580a6a81c2136",
-   "title": "Texas Tech vs. Colorado prediction, odds: Week 5 college football picks by proven model",
-   "summary": "The SportsLine Projection Model has revealed its best bets for the Big 12 matchup between Deion Sanders and the Colorado Buffaloes and the Texas Tech Red Raider",
-   "link": "https://www.cbssports.com/betting/news/texas-tech-colorado-prediction-odds-time-2026-week-5-college-football-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:08",
-   "ts": 1790946518
-  },
-  {
    "id": "0cd7f6bb7dc621d4a5d46ae2b44ba3a9",
    "title": "Tesla’s recovery hits a speed bump",
    "summary": "Tesla sold fewer vehicles in the third quarter than it did a year ago, when consumers rushed to cash in on expiring federal tax credits for electric vehicle pur",
@@ -871,19 +1156,6 @@
    "urgent": false,
    "fetched_at": "10-02 21:08",
    "ts": 1790946496
-  },
-  {
-   "id": "167ea0e86a5663eebe05a018a19c945b",
-   "title": "Why 49ers' Brock Purdy vs. Broncos' pass rush is set to be one of NFL's best Week 4 showdowns",
-   "summary": "Purdy has already made NFL history this season, but he'll be put to the test against Denver's defense",
-   "link": "https://www.cbssports.com/nfl/news/why-49ers-brock-purdy-broncos-is-among-best-week-4-showdowns/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 21:03",
-   "ts": 1790946194
   },
   {
    "id": "768cb848794827fbee20e337047f4800",
@@ -964,32 +1236,6 @@
    "ts": 1790946000
   },
   {
-   "id": "9abc108f3eb619e81c704045fb47d9cd",
-   "title": "Miami vs. Clemson prediction, odds, time: Week 5 college football picks by proven model",
-   "summary": "The SportsLine Projection Model has revealed its best bets for the Saturday ACC matchup between the Miami (Fla.) Hurricanes vs. Clemson Tigers",
-   "link": "https://www.cbssports.com/betting/news/miami-clemson-prediction-odds-time-2026-week-5-college-football-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:55",
-   "ts": 1790945741
-  },
-  {
-   "id": "cda08d8df3e5d1f498356753de51a337",
-   "title": "Browns fend off Aaron Rodgers and Steelers for third straight win; Braves advance in MLB playoffs",
-   "summary": "Plus UFC 332, NFL and college football picks",
-   "link": "https://www.cbssports.com/nfl/news/browns-aaron-rodgers-steelers-braves-phillies-mlb-playoffs/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:54",
-   "ts": 1790945642
-  },
-  {
    "id": "0cdd5aa66aee071057fe446e3ecbe7cc",
    "title": "HKC“神盾 25Q360B”24.5 英寸显示器发售：2K 360Hz QD-Mini LED，2221 元（国补后 1999 元）",
    "summary": "IT之家 10 月 2 日消息，HKC 旗下“神盾 25Q360B”24.5 英寸电竞显示器现已在京东发售，定价为 2221 元，部分地区国补后低至 1999 元。京东 HKC 神盾 25Q360B 显示器 2221 元直达链接该机搭载一块 2560×1440 分辨率 1152 分区 QD-Mini LED 背光 36",
@@ -1001,19 +1247,6 @@
    "urgent": false,
    "fetched_at": "10-02 20:51",
    "ts": 1790945474
-  },
-  {
-   "id": "eddb2d0f6f5309563ee4c507d1b44292",
-   "title": "Michigan vs. Minnesota prediction, odds: Week 5 college football picks by proven model",
-   "summary": "The SportsLine Projection Model has revealed its best bets for Minnesota vs. Michigan the battle for the Little Brown Jug",
-   "link": "https://www.cbssports.com/betting/news/michigan-minnesota-prediction-odds-time-2026-week-5-college-football-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:51",
-   "ts": 1790945470
   },
   {
    "id": "d2c81080d76a4f79c6c298389bfe4036",
@@ -1068,19 +1301,6 @@
    "ts": 1790945096
   },
   {
-   "id": "5245934917c664384eca48ddfb4b36b1",
-   "title": "Browns fend off Aaron Rodgers for third straight win | Braves advance in MLB playoffs",
-   "summary": "Plus UFC 332, NFL and college football picks",
-   "link": "https://www.cbssports.com/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:43",
-   "ts": 1790945030
-  },
-  {
    "id": "a7e2787888b35ad05636183b43b62520",
    "title": "Bentley to fight Mosley Jr on November 7 live on Sky Sports",
    "summary": "Middleweight world champion Denzel Bentley has signed a multi-fight deal with Zuffa Boxing and will fight on November 7 at the Copper Box Arena, live on Sky Spo",
@@ -1107,19 +1327,6 @@
    "ts": 1790944660
   },
   {
-   "id": "91c69ceaca42aadf0cf387b897430b3f",
-   "title": "钛度推出轻鸾 2 头戴式耳机：50mm 动圈、230g 重量，159.9 元",
-   "summary": "IT之家 10 月 2 日消息，钛度现已在京东上架轻鸾 2 头戴式耳机，该产品主打轻量化机身，定价为 159.9 元。京东钛度轻鸾 2 头戴式耳机 159.9 元直达链接外观上，耳机提供枪灰色 / 珍珠白可选，重约 230g，外壳采用 POK 材质与准分子涂层工艺，匹配人体工学头梁，耳罩支持 90° 旋转，配备可插拔全",
-   "link": "https://www.ithome.com/1/009/350.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:29",
-   "ts": 1790944154
-  },
-  {
    "id": "3f63bbab1267d1df0b47fc6f267811c1",
    "title": "AT&T claims iOS 27.0.1 fixes iPhone 18 Pro Max cellular issues, but users disagree",
    "summary": "Since the iPhone 18 Pro Max launched, some AT&amp;T customers have complained of various connectivity issues.\n\n\n\nIn a new text message to customers, AT&amp;T sa",
@@ -1144,19 +1351,6 @@
    "urgent": false,
    "fetched_at": "10-02 20:27",
    "ts": 1790944048
-  },
-  {
-   "id": "3e42ed44e9a86dc42ef06c28c675fa44",
-   "title": "湖北智能家居国补范围扩大，机器人、数码相机、无人机、血压仪等可补贴 15%",
-   "summary": "IT之家 10 月 2 日消息，为贯彻落实《商务部等 8 部门关于加快“人工智能 + 消费”发展的实施意见》有关要求，进一步释放湖北省智能终端产品消费潜力，推动人工智能与消费深度融合，提升居民居家生活品质，湖北省对 2026 年消费品以旧换新新增品类补贴政策作出优化调整，新规自 2026 年 10 月 1 日起正式实施",
-   "link": "https://www.ithome.com/1/009/349.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:22",
-   "ts": 1790943737
   },
   {
    "id": "60237fd713eaa1dc56b8de5830f2e401",
@@ -1445,19 +1639,6 @@
    "ts": 1790939760
   },
   {
-   "id": "240f4ad9ffe4dd85f297c6c184bdd437",
-   "title": "Dev's Digest: Hamza's FA Cup final shirt to be auctioned | Award winners stand with Iqbal",
-   "summary": "Welcome to Dev's Digest, the agenda-setting Sky Sports column where Dev Trehan delivers exclusive news and reflects on some of the key developments for British ",
-   "link": "https://www.skysports.com/football/news/12040/13594024/devs-digest-hamza-choudhurys-fa-cup-final-shirt-up-for-grabs-award-winning-pair-stand-with-zidane-iqbal-dilan-markanday-opens-up-on-wonder-goal",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 19:15",
-   "ts": 1790939700
-  },
-  {
    "id": "66b9b89407fe219d53e7177fc2bacf59",
    "title": "'I've Buried It Deep': X-Men Actor Says He Knew Sony's Spider-Man Spinoff Kraven Wasn't 'Going Well' During Filming",
    "summary": "Marvel's new X-Men movie star Christopher Abbott has admitted that he knew Sony's Spider-Man spinoff Kraven the Hunter wasn't \"going well\" while on set.",
@@ -1497,19 +1678,6 @@
    "ts": 1790939149
   },
   {
-   "id": "7a930b96f3292ad4df8bc82405b49109",
-   "title": "Wolff: Russell found it 'difficult to cope' with Antonelli 'reality'",
-   "summary": "Mercedes team principal Toto Wolff has revealed George Russell \"found it difficult to cope\" with Kimi Antonelli's performances earlier this year.",
-   "link": "https://www.skysports.com/f1/news/12040/13594193/toto-wolff-reveals-george-russell-found-it-difficult-to-cope-with-kimi-antonelli-reality-earlier-in-2026-formula-1-season",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 19:05",
-   "ts": 1790939100
-  },
-  {
    "id": "87f913e180e24aaaefd99bf8670d628e",
    "title": "I thought Google made a mistake with the Pixel 11 Pro XL. 30 days later, I was wrong",
    "summary": "If you can hold your nose, the Pixel 11 Pro XL is worth it.",
@@ -1547,32 +1715,6 @@
    "urgent": false,
    "fetched_at": "10-02 18:10",
    "ts": 1790935800
-  },
-  {
-   "id": "e860b544df5af0c039eb4c9bb68faae8",
-   "title": "Modder Deliberately Corrupts Their Own Hugely Popular Total War: Warhammer III Mod as Row Over AI Escalates",
-   "summary": "The creator of one of the most popular Total War: Warhammer III mods ever has deliberately corrupted it so that it will no longer work with “unauthorized reuplo",
-   "link": "https://www.ign.com/articles/modder-deliberately-corrupts-their-own-hugely-popular-total-war-warhammer-iii-mod-as-row-over-ai-escalates",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 18:09",
-   "ts": 1790935770
-  },
-  {
-   "id": "dfbb42d0c8d9d144d1e25b1f1360f652",
-   "title": "The 10 Most Valuable Cards in Magic: The Gathering Reality Fracture",
-   "summary": "Here's our breakdown of the most expensive cards in Magic: The Gathering's brand-new expansion, Reality Fracture. That includes massive Facet Foil chase cards, ",
-   "link": "https://www.ign.com/articles/mtg-reality-fracture-most-valuable-cards",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 18:09",
-   "ts": 1790935767
   },
   {
    "id": "8b89fede79dae9e0d4cd33c88c169acf",
@@ -1627,19 +1769,6 @@
    "ts": 1790934870
   },
   {
-   "id": "0d0ccb538d5aaf46af64b9ac80b4f4b6",
-   "title": "Disney President Reacts to Live-Action Moana Flop, Says It Was an 'Excellent Film' Hit by 'Unusual Circumstances'",
-   "summary": "Disney president Dana Walden has blamed \"unusual circumstances\" for the live-action Moana movie's disappointing box office, and defended the project as an other",
-   "link": "https://www.ign.com/articles/disney-president-reacts-to-live-action-moana-flop-says-it-was-an-excellent-film-hit-by-unusual-circumstances",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 17:44",
-   "ts": 1790934293
-  },
-  {
    "id": "46e301e4952c85b357682dadbeb23155",
    "title": "《007 初露锋芒》免费DLC「进阶行动」现已正式上线",
    "summary": "游戏开发商兼发行商、HITMAN系列创作者IO Interactive，与Amazon MGM Studios今日宣布，《007 初露锋芒》将迎来全新DLC「进阶行动」，即日起正式上线。这一内容丰富的免费DLC回应了游戏上线以来社区呼声最高的多项诉求，带来新游戏+模式、全新00难度模式、更精细的武器操作动画表现、拍照模",
@@ -1677,19 +1806,6 @@
    "urgent": false,
    "fetched_at": "10-02 17:03",
    "ts": 1790931803
-  },
-  {
-   "id": "fe3c9a1f9d16378020f2054152cd39e6",
-   "title": "Avengers: Secret Wars Filming Delay Reports Spark Concern That Marvel's Multiverse Saga Finale May Be Postponed",
-   "summary": "Reports of an Avengers: Secret Wars filming delay have sparked concern among Marvel fans that the movie's release date could be pushed back.",
-   "link": "https://www.ign.com/articles/avengers-secret-wars-filming-delay-reports-spark-concern-that-marvels-multiverse-saga-finale-may-be-delayed",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 16:48",
-   "ts": 1790930892
   },
   {
    "id": "3f5b727fe4ce82ad03c64e251e7b6d6a",
@@ -1744,19 +1860,6 @@
    "ts": 1790929800
   },
   {
-   "id": "2b78435dc2b4b5f5bdb656e94e736ddd",
-   "title": "Person Behind Viral AI-Generated Fallout: New York Game Hauls It Offline, Says Bethesda Issued Cease and Desist",
-   "summary": "The person behind a viral AI-generated Fallout: New York game has pulled it offline after receiving a cease and desist from Bethesda.",
-   "link": "https://www.ign.com/articles/person-behind-viral-ai-generated-fallout-new-york-game-hauls-it-offline-says-bethesda-issued-cease-and-desist",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 16:29",
-   "ts": 1790929786
-  },
-  {
    "id": "8c4705d01567795712e2da1598c317df",
    "title": "Samsung updates SmartThings app with redesigned Home tab",
    "summary": "Samsung is doing a major overhaul of its SmartThings app with version 1.8.51.30. This update redesigns the Home tab and updates the Devices tab. This version al",
@@ -1772,7 +1875,7 @@
   {
    "id": "3970b6d76487b8362ec16406910ed92f",
    "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 74\n# Comments: 28",
+   "summary": "Article URL: https://github.com/kvoltmer/Audionaut\nComments URL: https://news.ycombinator.com/item?id=49931031\nPoints: 80\n# Comments: 29",
    "link": "https://github.com/kvoltmer/Audionaut",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1915,7 +2018,7 @@
   {
    "id": "af33b5bbab24e50b74e293ed13a06c4b",
    "title": "Shimano Bicycle Museum Review",
-   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 214\n# Comments: 38",
+   "summary": "Article URL: https://inrng.com/2026/10/shimano-bicycle-museum/\nComments URL: https://news.ycombinator.com/item?id=49930047\nPoints: 221\n# Comments: 42",
    "link": "https://inrng.com/2026/10/shimano-bicycle-museum/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2030,22 +2133,9 @@
    "ts": 1790913661
   },
   {
-   "id": "606765a8b21487fc6d400380f0686c61",
-   "title": "Ben Affleck Explains His Approach to Using AI Ethically on New Movie ‘Animals’: “It’s Not About Making Fake People or Replacing Anybody, Ever”",
-   "summary": "\"I wouldn't use something that trains on or has learned from any work that is copywritten, or that is an intelligence created by a peer of mine or somebody that",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/ben-affleck-approach-ai-ethically-animals-replacing-1236720613/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 11:35",
-   "ts": 1790912109
-  },
-  {
    "id": "edd38f0a71d7d06b77bf24a69b2e893c",
    "title": "DeepSeek Harness Desktop for macOS and Windows",
-   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 328\n# Comments: 166",
+   "summary": "Article URL: https://www.deepseek.com/en/harness/\nComments URL: https://news.ycombinator.com/item?id=49929489\nPoints: 334\n# Comments: 167",
    "link": "https://www.deepseek.com/en/harness/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2080,19 +2170,6 @@
    "urgent": false,
    "fetched_at": "10-02 10:00",
    "ts": 1790906400
-  },
-  {
-   "id": "f2462edac521dab7479cbdbdf2636a40",
-   "title": "How Singapore's government-run dating service works",
-   "summary": "Article URL: https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works\nComments URL: https://news.ycombinator.com/item?i",
-   "link": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 09:56",
-   "ts": 1790906212
   },
   {
    "id": "9dfec91c3c255742f75eb1a6f5db8404",
@@ -2173,58 +2250,6 @@
    "ts": 1790899322
   },
   {
-   "id": "a832d521cd9a1ef83779992aa25958c6",
-   "title": "How to respond to hate speech without fuelling it further",
-   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03058-3Psychologist Mirta Galesic discusses an increase in hateful comments online, and the sc",
-   "link": "https://www.nature.com/articles/d41586-026-03058-3",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "教程",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-02 08:00",
-   "ts": 1790899200
-  },
-  {
-   "id": "7cf669f8037bae4d6ce4b0d1bf900d4b",
-   "title": "Stunning fossil shows dinosaurs' distinctive path to flight",
-   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8A fossil from a previously undiscovered species with feathery limbs, unearthed in China",
-   "link": "https://www.nature.com/articles/d41586-026-03126-8",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-02 08:00",
-   "ts": 1790899200
-  },
-  {
-   "id": "7427853c4b9b7e4f7df8d642639906a6",
-   "title": "Von Neumann’s party",
-   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02976-6A tricky question.",
-   "link": "https://www.nature.com/articles/d41586-026-02976-6",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-02 08:00",
-   "ts": 1790899200
-  },
-  {
-   "id": "2c7cb719055028dfdd7d1bb480625593",
-   "title": "Can we have class outside? Seven tips to breeze through outdoor lectures",
-   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-02564-8Advocates say that delivering lectures and presentations al fresco can energize student",
-   "link": "https://www.nature.com/articles/d41586-026-02564-8",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-02 08:00",
-   "ts": 1790899200
-  },
-  {
    "id": "5e7763362b98aad22ef0446984906849",
    "title": "Welcome to Opt Out October: It’s Time to Ditch Unwanted Subscriptions and AI Spies",
    "summary": "It’s a good month to reassess old accounts and retake control of your data and privacy.",
@@ -2266,7 +2291,7 @@
   {
    "id": "69f5cac8b7bca0cbd956b727558e2ef6",
    "title": "Several vulnerabilities have been discovered in the Linux kernel",
-   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 436\n# Comments: 305",
+   "summary": "Article URL: https://lwn.net/Articles/1097401/\nComments URL: https://news.ycombinator.com/item?id=49928121\nPoints: 446\n# Comments: 310",
    "link": "https://lwn.net/Articles/1097401/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2292,7 +2317,7 @@
   {
    "id": "43305a99e92c3a3a916d33ae355c222b",
    "title": "Frog and Toad and the Increasingly Capable Machines",
-   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 340\n# Comments: 77",
+   "summary": "Article URL: https://www.frogandtoad.ai/\nComments URL: https://news.ycombinator.com/item?id=49927760\nPoints: 358\n# Comments: 82",
    "link": "https://www.frogandtoad.ai/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2342,19 +2367,6 @@
    "ts": 1790891828
   },
   {
-   "id": "4ec734cf660814636df0d97017c2dff0",
-   "title": "Kevin Mandia’s new ‘agent swarm’ security startup Armadin raises $255.5M at $2.5B valuation",
-   "summary": "Kevin Mandia, best known as the founder of Mandiant, has a new startup that is using agent swarms to test and protect enterprises.",
-   "link": "https://techcrunch.com/2026/10/01/kevin-mandias-new-agent-swarm-security-startup-armadin-raises-255-5m-at-2-5b-valuation/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 05:55",
-   "ts": 1790891722
-  },
-  {
    "id": "929c3cbc1ec2b0559dc38030d4f61da7",
    "title": "GrayKey maker can reportedly bypass the iPhone’s ‘Inactivity Reboot’ security feature",
    "summary": "As reported by 404 Media, Magnet Forensics says it has found a way to bypass the iPhone security feature that automatically reboots devices if they haven’t been",
@@ -2370,7 +2382,7 @@
   {
    "id": "98ff326da4f4d4c7734c537ba1eae2b5",
    "title": "CSS Bed: Classless CSS themes to use as starting points in web development",
-   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 136\n# Comments: 43",
+   "summary": "Article URL: https://www.cssbed.com\nComments URL: https://news.ycombinator.com/item?id=49927212\nPoints: 138\n# Comments: 43",
    "link": "https://www.cssbed.com",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2459,19 +2471,6 @@
    "ts": 1790889241
   },
   {
-   "id": "d5e03f22c67943e1602d099de94fa87c",
-   "title": "Musk’s AI chatbot Grok reportedly encouraged Trump to capture  Venezuela’s president",
-   "summary": "President Trump reportedly asked for Grok's opinion before invading Venezuela and capturing Nicolás Maduro.",
-   "link": "https://techcrunch.com/2026/10/01/musks-ai-chatbot-grok-reportedly-encouraged-trump-to-capture-venezuelas-president/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 05:08",
-   "ts": 1790888891
-  },
-  {
    "id": "f3d6fd76fd406d0d006833c7dae933c6",
    "title": "California gives the green light to balcony solar",
    "summary": "Californians who can’t install rooftop solar are getting another way to tap into the sunshine. Governor Gavin Newsom signed a bill opening the door to small plu",
@@ -2511,22 +2510,9 @@
    "ts": 1790887717
   },
   {
-   "id": "3a3a4f0aec3c9ef2f6eba28214540ca7",
-   "title": "Apple Arcade adds five new games, including Terraria+ and Pusheen’s Place",
-   "summary": "Apple Arcade subscribers got access to five new games today, as Apple had promised in early September. Here are the details.\n\n\n\n more…",
-   "link": "https://9to5mac.com/2026/10/01/apple-arcade-adds-five-new-games-including-terraria-and-pusheens-place/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 04:44",
-   "ts": 1790887492
-  },
-  {
    "id": "f2857a36fd3d01c62f9b071142c9551b",
    "title": "Show HN: Janus – Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 85\n# Comments: 15",
+   "summary": "Article URL: https://github.com/Vibra-Ingenn/Janus\nComments URL: https://news.ycombinator.com/item?id=49926773\nPoints: 86\n# Comments: 15",
    "link": "https://github.com/Vibra-Ingenn/Janus",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2535,19 +2521,6 @@
    "urgent": false,
    "fetched_at": "10-02 04:36",
    "ts": 1790887007
-  },
-  {
-   "id": "d7f0d7f0213b657a4d6d99db765644e9",
-   "title": "Audible announces AI-powered character guides, interactive stories, more",
-   "summary": "Audible today announced three features coming to “deepen customers’ connections to their favorite stories.” Here are the details.\n\n\n\n more…",
-   "link": "https://9to5mac.com/2026/10/01/audible-announces-ai-powered-character-guides-interactive-stories-more/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "教程",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-02 04:06",
-   "ts": 1790885207
   },
   {
    "id": "26fdbbfa00041b89f98da403c49e4fd5",
@@ -2613,6 +2586,32 @@
    "urgent": false,
    "fetched_at": "10-02 02:54",
    "ts": 1790880857
+  },
+  {
+   "id": "8300ef748eeb131a494f586e97cbd55e",
+   "title": "Which Privacy and Security Apps Do You Trust the Most?",
+   "summary": "Do you use a VPN, antivirus or other security software? Let us know which ones are the most trustworthy.",
+   "link": "https://www.cnet.com/tech/services-and-software/peoples-picks-privacy-and-security-2026/",
+   "source": "CNET",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 02:50",
+   "ts": 1790880638
+  },
+  {
+   "id": "5fdf1ed299900cf8d1328099f2c230e2",
+   "title": "How to Sell Your Car Privately and Get the Most Money",
+   "summary": "With a little time and effort, you can easily beat the dealer trade-in value for your old car.",
+   "link": "https://www.caranddriver.com/shopping-advice/a27703340/how-to-sell-a-car/",
+   "source": "Car and Driver",
+   "channel": "汽车",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 02:05",
+   "ts": 1790877900
   }
  ]
 }
