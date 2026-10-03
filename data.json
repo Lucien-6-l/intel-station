@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03 11:13",
- "total": 282,
+ "updated_at": "2026-10-03 11:43",
+ "total": 281,
  "channels": [
   "AI·科技",
   "体育",
@@ -14,6 +14,84 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "144407b86848e37301a106274a4bb041",
+   "title": "微软 Win11 26H1 放大镜支持输入精准百分比，新增多种预设缩放级别",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 NeoWin 今天（10 月 2 日）发布博文，报道称在今天发布的 Windows 11 26H1 最新预览版中，微软进一步增强放大镜（Magnifier）体验。微软针对 Windows 11 26H1 系统，在 Beta 频道版 Build 28020.3142 以及 Exp",
+   "link": "https://www.ithome.com/1/009/423.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 11:39",
+   "ts": 1790998796
+  },
+  {
+   "id": "3f0555724fae7b262a762ba32c3bf2f9",
+   "title": "为 MAX 10 认证扫清障碍，FAA 认定波音 737 MAX 客机软件故障无安全隐患",
+   "summary": "IT之家 10 月 3 日消息，据路透社报道，当地时间 2 日，美国联邦航空管理局披露，专家组认定部分波音 737 MAX 客机的飞行计算机的软件故障不存在安全隐患，为 737 MAX 10 获得认证扫清了障碍。据IT之家了解，737 MAX 10 是波音畅销 737 MAX 窄体客机系列中最大的型号。737 MAX ",
+   "link": "https://www.ithome.com/1/009/421.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 11:34",
+   "ts": 1790998494
+  },
+  {
+   "id": "ec27b908ccc5fb48af17831c1080dbac",
+   "title": "Oppo Find X10 and Find X10 Pro Max leaked European prices are shocking",
+   "summary": "Price hikes are the name of the game these days in the mobile world, thanks to memory and storage chips costing many times more than a few years ago because of ",
+   "link": "https://www.gsmarena.com/oppo_find_x10_and_find_x10_pro_max_leaked_european_prices_are_shocking-news-74878.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 11:31",
+   "ts": 1790998262
+  },
+  {
+   "id": "9aa2c3d67fd8a5c048133753a175f58d",
+   "title": "韩国五大商业银行首次同时被黑客攻击，其中三家发生客户信息泄露",
+   "summary": "IT之家 10 月 3 日消息，据韩联社报道，韩国五大商业银行均遭疑似由人工智能驱动的黑客攻击，其中三家发生客户信息泄露。五大银行同时遇袭，在韩国金融业尚属首次。据韩国金融部门 2 日消息，继新韩银行之后，KB 国民银行和韩亚银行也遭到疑似由 AI 驱动的黑客攻击，造成客户信息泄露。BNK 釜山银行因黑客攻击，导致 1",
+   "link": "https://www.ithome.com/1/009/420.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 11:30",
+   "ts": 1790998227
+  },
+  {
+   "id": "ed005ac293a0b7ba541a675bc65c8bcf",
+   "title": "Win10/Win11 学院：如何禁用火狐 Firefox 157 浏览器 Nova 界面和新侧边栏",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 WinAero 昨日（10 月 2 日）发布博文，介绍了在火狐 Firefox 157 浏览器中，禁用 Nova 界面（已默认启用）的方式。IT之家曾于 9 月 29 日报道，在 Firefox 157 稳定版浏览器中，Mozilla 默认启用 Project Nova 的视觉",
+   "link": "https://www.ithome.com/1/009/419.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 11:20",
+   "ts": 1790997632
+  },
+  {
+   "id": "2d1932eb96b1967e45c86a446e813031",
+   "title": "2026 年度电影总票房突破 300 亿元，《飞驰人生 3》《功夫女足》《欢迎来龙餐馆》暂列前三",
+   "summary": "IT之家 10 月 3 日消息，据猫眼专业版数据，截至 10 月 3 日，2026 年度电影总票房（含预售）突破 300 亿元，总观影人次达 7.63 亿，放映总场次 1.12 亿场。《飞驰人生 3》《功夫女足》《欢迎来龙餐馆》暂列年度票房榜前三位，IT之家附前十名单：飞驰人生 3功夫女足欢迎来龙餐馆八仙！给阿嬷的情书",
+   "link": "https://www.ithome.com/1/009/418.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 11:20",
+   "ts": 1790997630
+  },
   {
    "id": "ecc26397cc20afd7f8d8258d33414c79",
    "title": "超 HBM3E 当前价 3 倍：消息称三星电子为 2027 年 HBM4 内存寻求高额定价",
@@ -119,32 +197,6 @@
    "ts": 1790996057
   },
   {
-   "id": "7231e3af5ad68a3b64ac30344df32a41",
-   "title": "自身股价下跌，安森美将收购 Synaptics 的对价调整为 57 亿美元现金",
-   "summary": "IT之家 10 月 3 日消息，onsemi（安森美）美国当地时间 1 日宣布，已就修改今年 6 月 25 日公布的合并协议与 Synaptics（新突思）达成一致。安森美将以约 57 亿美元（IT之家注：现汇率约合 382.72 亿元人民币）的现金完成该笔交易，而不是此前公布的 70 亿美元股票，这对应 18.6% ",
-   "link": "https://www.ithome.com/1/009/410.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 10:43",
-   "ts": 1790995398
-  },
-  {
-   "id": "579d4d06ab629fc2f891a10daa276c3f",
-   "title": "国内海拔最高、装机容量最大：青海华电格尔木一期 2×660MW 煤电项目 1 号机组首次并网一次成功",
-   "summary": "IT之家 10 月 3 日消息，据中国华电青海分公司，10 月 2 日 3 时 28 分，青海华电格尔木一期 2×660MW 煤电项目 1 号机组首次并网一次成功。机组各主辅系统运行平稳，主要参数指标优良，标志着 1 号机组正式接入电网，具备对外输电能力，为后续 168 小时满负荷试运行、按期高质量投产奠定坚实基础。I",
-   "link": "https://www.ithome.com/1/009/409.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 10:42",
-   "ts": 1790995349
-  },
-  {
    "id": "412ebaeb5bbb238aef569e68986e7264",
    "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
    "summary": "",
@@ -156,45 +208,6 @@
    "urgent": false,
    "fetched_at": "10-03 10:38",
    "ts": 1790995099
-  },
-  {
-   "id": "442112477e7a55489fad503ee620dddf",
-   "title": "三星首款 Googlebook 跑分曝光：高通骁龙 X Elite 处理器 +16GB 内存",
-   "summary": "IT之家 10 月 3 日消息，科技媒体 Android Headline 昨日（10 月 2 日）发布博文，爆料称三星首款 Googlebook（型号为 XE940SXA）现身 Geekbench 跑分平台，7.1.0 版本单核成绩 2,513 分，多核成绩为 15,214 分。IT之家附上相关截图如下：页面信息显示",
-   "link": "https://www.ithome.com/1/009/408.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 10:31",
-   "ts": 1790994681
-  },
-  {
-   "id": "075c6a4a7682a0b7f7181bef7cc25603",
-   "title": "消息称亚马逊考虑剥离并回租 80 亿美元英伟达 Grace Blackwell AI 芯片",
-   "summary": "IT之家 10 月 3 日消息，《金融时报》昨日报道称，Amazon（亚马逊）正寻求将价值约 80 亿美元（IT之家注：现汇率约合 537.15 亿元人民币）的 NVIDIA（英伟达） Grace Blackwell AI 芯片剥离至一家特殊目的实体 (SPV)，并从该 SPV 回租这些芯片。消息人士透露，这笔拟议交易",
-   "link": "https://www.ithome.com/1/009/407.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 10:27",
-   "ts": 1790994430
-  },
-  {
-   "id": "76cdd0489fe8c262751233858c5c2ac9",
-   "title": "华为乾崑智驾累计辅助驾驶里程突破 160 亿公里",
-   "summary": "IT之家 10 月 3 日消息，华为乾崑官网显示乾崑智驾累计辅助驾驶里程已正式突破 160 亿公里。乾崑智驾累计辅助驾驶里程：超 160 亿公里搭载乾崑智驾车辆累计行驶总里程：超 453 亿公里乾崑智驾累计主动避免可能的碰撞：超 664 万次华为乾崑官网显示，ADS（辅助驾驶）平均在一次严重碰撞前已安全行驶的公里数达 ",
-   "link": "https://www.ithome.com/1/009/406.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 10:24",
-   "ts": 1790994290
   },
   {
    "id": "c6086a3266959c88c3ddf6e2afe03d03",
@@ -238,7 +251,7 @@
   {
    "id": "a8a103a5c415df52b05d67dfa2606d26",
    "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-   "summary": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 16\n# Comm",
+   "summary": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 21\n# Comm",
    "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -277,7 +290,7 @@
   {
    "id": "191bd1c28b2d6d360ae0a2ed679bf01f",
    "title": "Newgrounds.com – A community of games, music, and art",
-   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 26\n# Comments: 0",
+   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 53\n# Comments: 5",
    "link": "https://www.newgrounds.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -342,7 +355,7 @@
   {
    "id": "eee1a4dc184033604a268feb7c4d4a69",
    "title": "Where Is the Planet",
-   "summary": "Article URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 9\n# Comments: 0",
+   "summary": "Article URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 12\n# Comments: 0",
    "link": "http://whereistheplanet.com",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -355,7 +368,7 @@
   {
    "id": "9f28acfc82367b8cd3b7290bc672e21b",
    "title": "Things that apparently cause cancer",
-   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 93\n# ",
+   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 110\n#",
    "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -979,7 +992,7 @@
   {
    "id": "6fa792b2ddd2b7c1f1679e0c4f3d6049",
    "title": "Every SaaS business will become a harness around a model",
-   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 106\n# Comments: 79",
+   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 113\n# Comments: 83",
    "link": "https://blog.sshh.io/p/the-harness-is-the-company",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1278,7 +1291,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 138\n# Comments: 78",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 141\n# Comments: 83",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1317,7 +1330,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 143\n# Comments: 68",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 150\n# Comments: 69",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1395,7 +1408,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 334\n# Comments: 223",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 343\n# Comments: 224",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1616,7 +1629,7 @@
   {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 164\n# Comments: 41",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 173\n# Comments: 43",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2019,7 +2032,7 @@
   {
    "id": "077fdf42fb97a882004a771ef6ef80bf",
    "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 121\n# Comments: 95",
+   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 128\n# Comments: 99",
    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2149,7 +2162,7 @@
   {
    "id": "deadc6e12be46fdc133a8b818e8ee069",
    "title": "The Forgetful CPU (Linux on M4)",
-   "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 126\n# Comments: 53",
+   "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 139\n# Comments: 63",
    "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2457,19 +2470,6 @@
    "urgent": false,
    "fetched_at": "10-02 18:15",
    "ts": 1790936151
-  },
-  {
-   "id": "8b89fede79dae9e0d4cd33c88c169acf",
-   "title": "Huawei Mate 90 Pro Max will let you use three SIMs simultaneously",
-   "summary": "Ever wished you could use three SIMs simultaneously on your phone? You can do just that with Huawei’s latest flagship phone, the Mate 90 Pro Max. Huawei launche",
-   "link": "https://www.gsmarena.com/huawei_mate_90_pro_max_will_let_you_use_three_sims_simultaneously-news-74872.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 18:05",
-   "ts": 1790935502
   },
   {
    "id": "46e301e4952c85b357682dadbeb23155",
