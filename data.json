@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 17:37",
+ "updated_at": "2026-10-03 18:02",
  "total": 268,
  "channels": [
   "AI·科技",
@@ -25,6 +25,71 @@
    "urgent": false,
    "fetched_at": "10-03 18:16",
    "ts": 1791022560
+  },
+  {
+   "id": "6bd973b5901f04c5d24ecc4394d8d32e",
+   "title": "一次认证 3 个月有效，北京首都机场免费 Wi-Fi 攻略发布",
+   "summary": "IT之家 10 月 3 日消息，据央视新闻今日报道，目前正值国庆假期出行高峰，机场客流量大幅攀升，人员密集区域手机信号拥堵、流量消耗加快，成为不少旅客的困扰。但其实像首都机场、大兴机场等不少机场都为旅客提供了免费的 Wi-Fi 服务，那机场的免费 Wi-Fi 如何连接？有哪些注意事项呢？按照相关法律规定，公共场所无线网",
+   "link": "https://www.ithome.com/1/009/522.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 17:59",
+   "ts": 1791021594
+  },
+  {
+   "id": "8b33fd443367b8cf0f57e44efa67bcbd",
+   "title": "AMD 出样 Versal AI Core XQRVC1902 自适应 SoC，满足 15 年太空任务要求",
+   "summary": "IT之家 10 月 3 日消息，AMD 当地时间本月 1 日宣布向航天客户交付 Versal AI Core XQRVC1902 自适应 SoC 的早期样品。这一 SoC 采用 AMD 自主研发的航天级无盖封装，结合了保守的设计规则和增强型有机基板材料，搭配航天级芯片电容器。该组合减轻了太空环境中的热应力和机械应力对芯",
+   "link": "https://www.ithome.com/1/009/521.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 17:53",
+   "ts": 1791021200
+  },
+  {
+   "id": "ee5d0a19d534a136e3549f1831a175d9",
+   "title": "戴尔推出 2 款强固型笔电，搭载第 3 代英特尔酷睿 Ultra 处理器",
+   "summary": "IT之家 10 月 3 日消息，Dell（戴尔）当地时间本月 6 日（IT之家注：此为原始新闻稿标注时间）宣布推出 2 款基于第 3 代英特尔酷睿 Ultra 处理器的强固型笔记本电脑新品。新一代的 Dell Pro Rugged 13 Extreme 采用“全强固”设计，是同级别最小巧最强大的型号。其拥有 IP66 ",
+   "link": "https://www.ithome.com/1/009/520.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 17:43",
+   "ts": 1791020601
+  },
+  {
+   "id": "20f3d92f7878d860de048df2f98c379a",
+   "title": "《黄金矿工：派对狂欢》将于 11 月 17 日登陆 Steam，支持 2–6 人多人在线游戏",
+   "summary": "IT之家 10 月 3 日消息，《黄金矿工》新作《黄金矿工：派对狂欢》将于 11 月 17 日登陆 Steam 平台，支持 2–6 人在线多人、简体中文界面，将经典黄金矿工的抓钩玩法带入正面对决的全新舞台。IT之家附官方介绍：《黄金矿工：派对狂欢》将 2 至 6 名玩家同时投入同一场疯狂的淘金热。你记忆中那根物理抓钩，",
+   "link": "https://www.ithome.com/1/009/518.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 17:42",
+   "ts": 1791020563
+  },
+  {
+   "id": "43b9de0bc5cf128bd630be429f207f4c",
+   "title": "Ten injured as car drives into crowd gathered to support NRL team",
+   "summary": "Newcastle Knights CEO Peter Parr has expressed his deep concern after a vehicle drove into a crowd of people supporting the NRL team on Saturday, as they prepar",
+   "link": "https://www.skysports.com/rugby-league/news/12040/13594605/newcastle-knights-ceo-extends-support-to-victims-after-car-drives-into-crowd-of-nrl-fans-leaving-10-injured",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 17:38",
+   "ts": 1791020280
   },
   {
    "id": "969e80f9bfc69a84c6c9f9cb3b84f164",
@@ -55,7 +120,7 @@
   {
    "id": "8e4b4f8c6af68706eb87721994269309",
    "title": "小米 Vision GT 十月即将正式入驻 Gran Turismo 7，成为游戏史上的首台中国 Vision GT",
-   "summary": "IT之家 10 月 3 日消息，小米汽车今日宣布，Xiaomi Vision GT（Vision Gran Turismo）10 月即将正式入驻 Gran Turismo 7（跑车浪漫旅 7 / GT 赛车 7），成为游戏史上的首台中国 Vision GT。Vision GT 是《Gran Turismo》赛车游戏发起",
+   "summary": "IT之家 10 月 3 日消息，小米汽车今日宣布，Xiaomi Vision GT（Vision Gran Turismo）10 月即将正式入驻 Gran Turismo 7（跑车浪漫旅 7 / GT 赛车 7），成为游戏史上的首台中国 Vision GT。Vision GT 是由 Gran Turismo 系列制作人",
    "link": "https://www.ithome.com/1/009/517.htm",
    "source": "IT之家",
    "channel": "AI·科技",
@@ -170,32 +235,6 @@
    "ts": 1791017425
   },
   {
-   "id": "2d668edecb2afb029f8c64bbd0ef9983",
-   "title": "国庆假期前两天全国高速公路充电量超 5000 万千瓦时，同比增长 51.34%",
-   "summary": "IT之家 10 月 3 日消息，据央视新闻报道，记者今天从国家能源局了解到，10 月 1 日 0 时至 10 月 2 日 24 时，全国高速公路累计充电次数 206.04 万次，累计充电量 5010.99 万千瓦时，同比增长 51.34%。其中 10 月 1 日充电量是平时的 3.24 倍；10 月 2 日充电需求维持",
-   "link": "https://www.ithome.com/1/009/508.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 16:42",
-   "ts": 1791016973
-  },
-  {
-   "id": "c642862940bb7b0a865fdf814606d95e",
-   "title": "U.S. may have overthrown Venezuela due to chat with Grok",
-   "summary": "Article URL: https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/\nComments URL: https://news.ycombinator.com/item?id=4994243",
-   "link": "https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 16:40",
-   "ts": 1791016838
-  },
-  {
    "id": "8cb2ced6c5204496cc5ef9659b28c41a",
    "title": "Save Big On Tolkien's Lord of the Rings and Hobbit Books Ahead of Prime Day",
    "summary": "From The Silmarillion to The Lord of the Rings and beyond, J.R.R. Tolkien's works are discounted at Amazon right now",
@@ -207,45 +246,6 @@
    "urgent": false,
    "fetched_at": "10-03 16:40",
    "ts": 1791016836
-  },
-  {
-   "id": "6e3ea91b152a49dbfd65fd619d657a4d",
-   "title": "Stellantis 公布 2026 年 Q3 美国市场汽车销量：公羊卡车大涨、Jeep 下滑、阿尔法 · 罗密欧暴跌",
-   "summary": "IT之家 10 月 3 日消息，Stellantis 现公布最新美国市场销量数据。2026 年第三季度，公司共售出 324,277 辆新车，仅比去年同期的 324,825 辆减少 548 辆，同比基本持平。今年前 9 个月，Stellantis 累计销量为 958,463 辆，同比增长 3%。从整体数据来看，Stell",
-   "link": "https://www.ithome.com/1/009/507.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 16:40",
-   "ts": 1791016807
-  },
-  {
-   "id": "b7452cfe9db318c57ed999a8cf5d7a4a",
-   "title": "长安凯程 V919 荣耀版 8 方车型 10 月 13 日上市，全系标配宁德时代电芯",
-   "summary": "IT之家 10 月 3 日消息，长安凯程宣布凯程 V919 荣耀版 8 方车型将于 10 月 13 日上市。新车全系标配宁德时代电芯，CLTC 工况续航 355km，支持 2C 快充，电池电量 30%-80% 仅需 15 分钟。IT之家从官方介绍获悉，该车拥有 1.74 米宽体货箱，标准周转箱可排列 4 箱，无需错位摆",
-   "link": "https://www.ithome.com/1/009/506.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 16:36",
-   "ts": 1791016568
-  },
-  {
-   "id": "b75ecd706122dd370e0026f6f9476baa",
-   "title": "LG 电子将在美国新建 AI 数据中心冷水机组工厂，韩国本土同步扩产",
-   "summary": "IT之家 10 月 3 日消息，LG 电子当地时间本月 1 日宣布，计划在美国建设其全球第三座人工智能数据中心 (AIDC) 冷水机组工厂，并提升其韩国平泽、昌原 2 座工厂的产能，相关投资合计 1,500 亿韩元（现汇率约合 7.44 亿元人民币）。LG 电子的美国新厂位于弗吉尼亚州温莎市，占地面积 170,000 ",
-   "link": "https://www.ithome.com/1/009/505.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 16:35",
-   "ts": 1791016532
   },
   {
    "id": "c0e6b0bf989ce4515cc807e3f4c928b9",
@@ -298,19 +298,6 @@
    "urgent": false,
    "fetched_at": "10-03 15:48",
    "ts": 1791013691
-  },
-  {
-   "id": "53e7f05688b3b06baba19ddb8e25dab0",
-   "title": "Understanding Frontier Artificial Intelligence",
-   "summary": "Article URL: https://casp.ac/reports/intelligence-explosion\nComments URL: https://news.ycombinator.com/item?id=49942002\nPoints: 38\n# Comments: 39",
-   "link": "https://casp.ac/reports/intelligence-explosion",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 15:06",
-   "ts": 1791011162
   },
   {
    "id": "d0fd02bc725de406b10ebdf64e7d6183",
@@ -419,7 +406,7 @@
   {
    "id": "eec9f70090370bef588c6b9f57a482b6",
    "title": "An Update on Orion for Linux and Windows",
-   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 39\n# Comments: 13",
+   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 48\n# Comments: 17",
    "link": "https://blog.kagi.com/update-orion-linux-windows",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -484,7 +471,7 @@
   {
    "id": "61c2fcf1db281fa8da97648647f3047e",
    "title": "Extra Big Ass Intelligence",
-   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 282\n# Comments: 60",
+   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 294\n# Comments: 61",
    "link": "https://www.extrabigassintelligence.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -497,7 +484,7 @@
   {
    "id": "e153fef4c61f951b0d4a131dbe6cbf99",
    "title": "Cloudflare OHTTP gateway",
-   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 70\n# Comments:",
+   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 74\n# Comments:",
    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -601,7 +588,7 @@
   {
    "id": "191bd1c28b2d6d360ae0a2ed679bf01f",
    "title": "Newgrounds.com – A community of games, music, and art",
-   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 203\n# Comments: 54",
+   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 216\n# Comments: 61",
    "link": "https://www.newgrounds.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1054,19 +1041,6 @@
    "ts": 1790977682
   },
   {
-   "id": "fc83d84cbb01bfcd25e1ec4fe5c5416a",
-   "title": "Brown scores twice as Northen Ireland cruise to win over Ukraine",
-   "summary": "Ciaron Brown's first international goals came as a pair to help a young Northern Ireland side stun Ukraine 3-0 and go clear at the top of Nations League Group B",
-   "link": "https://www.skysports.com/football/ukraine-vs-northern-ireland/report/554050",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:47",
-   "ts": 1790977620
-  },
-  {
    "id": "692c01c15363052489e14c53c6927e39",
    "title": "Lenovo Smart Clocks are finally getting their weather back",
    "summary": "No more having to check outside like a sucker!",
@@ -1303,7 +1277,7 @@
   {
    "id": "7e28dfddaf0aed2d57d27c663f3ab25a",
    "title": "Barcodes are about to go extinct",
-   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 32\n# Commen",
+   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 41\n# Commen",
    "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1431,6 +1405,19 @@
    "ts": 1790971220
   },
   {
+   "id": "539ccb39416b83a79869f18f5aad31c9",
+   "title": "Show HN: Made an open-source Lego AI generator",
+   "summary": "Hi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw lang",
+   "link": "https://github.com/anteloc/ldraw-nova",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:00",
+   "ts": 1790971215
+  },
+  {
    "id": "d4e0cb2f95a36bf60b01146a41bd51ae",
    "title": "9to5Mac Overtime 084: iPhone 18 Pro – a fantastic pro camera experience",
    "summary": "Jeff and Fernando share their excitement about the iPhone 18 Pro’s camera capabilities and explore whether it could truly replace a mirrorless camera for both p",
@@ -1485,7 +1472,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 193\n# Comments: 132",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 202\n# Comments: 134",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1524,7 +1511,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 192\n# Comments: 84",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 194\n# Comments: 85",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1589,7 +1576,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 418\n# Comments: 255",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 424\n# Comments: 259",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1602,7 +1589,7 @@
   {
    "id": "b81aa1a9d9c293e210822b73d0e28433",
    "title": "The Nintendo 64 Partner-N64 Development Kit",
-   "summary": "https://archive.is/WCnLA\n\nComments URL: https://news.ycombinator.com/item?id=49937146\nPoints: 37\n# Comments: 5",
+   "summary": "https://archive.is/WCnLA\n\nComments URL: https://news.ycombinator.com/item?id=49937146\nPoints: 39\n# Comments: 5",
    "link": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1780,6 +1767,19 @@
    "urgent": false,
    "fetched_at": "10-03 02:11",
    "ts": 1790964687
+  },
+  {
+   "id": "c4403da706604980eef315f527b9cd6e",
+   "title": "From the creator of Redis; run LLM locally with ds4",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 240\n# Comments: 63",
+   "link": "https://dwarfstar.sh/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:01",
+   "ts": 1790964076
   },
   {
    "id": "dc3d703729f5de65a3421fa0694dd72d",
