@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03 16:38",
- "total": 281,
+ "updated_at": "2026-10-03 17:05",
+ "total": 280,
  "channels": [
   "AI·科技",
   "体育",
@@ -14,6 +14,97 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "41e7e78133aaa9cba8319450709f29f7",
+   "title": "My Samsung phone was full of screenshots. This quick trick fixed it",
+   "summary": "It should be possible to do this natively.",
+   "link": "https://www.androidauthority.com/samsung-phone-full-screenshots-fixed-how-3715634/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 17:00",
+   "ts": 1791018003
+  },
+  {
+   "id": "b25ee25e539ac211c5d902cac536921f",
+   "title": "YouTube 调整 Shorts 短视频推荐算法：打击搬运内容、优先推荐原创作品",
+   "summary": "IT之家 10 月 3 日消息，据外媒 engadget 报道，YouTube 平台正在调整 Shorts 短视频推荐算法，计划降低主要通过搬运其他创作者内容、且没有进行实质性加工的账号曝光度。YouTube 称，此次算法调整将进一步“优先推荐原创内容”，而“那些主要聚焦于搬运其他平台视频的频道，可能会在 Shorts",
+   "link": "https://www.ithome.com/1/009/511.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 16:56",
+   "ts": 1791017795
+  },
+  {
+   "id": "cabb8339cc40fb4bffe8143c5823cdb4",
+   "title": "小米米家无线直发梳 2 开售：速热恒温、千万级等离子，首发价 299.2 元",
+   "summary": "IT之家 10 月 3 日消息，小米米家无线直发梳 2 现已开售，新品首发价 299.2 元。米家无线直发梳 2 采用无线设计，电池容量提升 56%，可实现 70 分钟续航，采用 Type-C 充电。这款产品升级 PI 发热技术，采用 PI 发热薄膜，支持 160°C/180°C/200°C 三挡温度可调，支持温度、电",
+   "link": "https://www.ithome.com/1/009/510.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 16:52",
+   "ts": 1791017529
+  },
+  {
+   "id": "04734bccd6b47d264a3db36bc023c6e4",
+   "title": "亚马逊推出 Strands Decider 2B 开源决策模型，支持本地部署",
+   "summary": "IT之家 10 月 3 日消息，Amazon（亚马逊）Strands Agents 团队当地时间本月 1 日宣布推出 Strands Decider 2B 决策模型。其已在 GitHub 上开源，权重则可在 Hugging Face 上找到；可在本地的 CPU / GPU 上运行。Strands Decider 2B ",
+   "link": "https://www.ithome.com/1/009/509.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 16:50",
+   "ts": 1791017425
+  },
+  {
+   "id": "2d668edecb2afb029f8c64bbd0ef9983",
+   "title": "国庆假期前两天全国高速公路充电量超 5000 万千瓦时，同比增长 51.34%",
+   "summary": "IT之家 10 月 3 日消息，据央视新闻报道，记者今天从国家能源局了解到，10 月 1 日 0 时至 10 月 2 日 24 时，全国高速公路累计充电次数 206.04 万次，累计充电量 5010.99 万千瓦时，同比增长 51.34%。其中 10 月 1 日充电量是平时的 3.24 倍；10 月 2 日充电需求维持",
+   "link": "https://www.ithome.com/1/009/508.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 16:42",
+   "ts": 1791016973
+  },
+  {
+   "id": "8cb2ced6c5204496cc5ef9659b28c41a",
+   "title": "Save Big On Tolkien's Lord of the Rings and Hobbit Books Ahead of Prime Day",
+   "summary": "From The Silmarillion to The Lord of the Rings and beyond, J.R.R. Tolkien's works are discounted at Amazon right now",
+   "link": "https://www.ign.com/articles/save-big-on-tolkiens-lord-of-the-rings-and-hobbit-books-ahead-of-prime-day",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 16:40",
+   "ts": 1791016836
+  },
+  {
+   "id": "6e3ea91b152a49dbfd65fd619d657a4d",
+   "title": "Stellantis 公布 2026 年 Q3 美国市场汽车销量：公羊卡车大涨、Jeep 下滑、阿尔法 · 罗密欧暴跌",
+   "summary": "IT之家 10 月 3 日消息，Stellantis 现公布最新美国市场销量数据。2026 年第三季度，公司共售出 324,277 辆新车，仅比去年同期的 324,825 辆减少 548 辆，同比基本持平。今年前 9 个月，Stellantis 累计销量为 958,463 辆，同比增长 3%。从整体数据来看，Stell",
+   "link": "https://www.ithome.com/1/009/507.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 16:40",
+   "ts": 1791016807
+  },
   {
    "id": "b7452cfe9db318c57ed999a8cf5d7a4a",
    "title": "长安凯程 V919 荣耀版 8 方车型 10 月 13 日上市，全系标配宁德时代电芯",
@@ -119,60 +210,8 @@
    "ts": 1791014663
   },
   {
-   "id": "4c1e442698c47993625400da62b45123",
-   "title": "我国电影银幕总数已接近 9.6 万块，稳居世界第一",
-   "summary": "IT之家 10 月 3 日消息，据央视新闻今日报道，截至 9 月底，全国净增影院 438 家、银幕 2632 块，银幕总数已接近 9.6 万块，稳居世界第一；特别是县域和乡镇商圈新增影厅占比不断提高，表明中国电影市场正在不断下沉。目前暂列 2026 年电影票房前五位的均为国产影片，分别为《飞驰人生 3》《功夫女足》《欢",
-   "link": "https://www.ithome.com/1/009/499.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 16:04",
-   "ts": 1791014643
-  },
-  {
-   "id": "d44128410b5bbf568f5de33d9b0b7d42",
-   "title": "明基推出 AK900ST / AK800ST 投影仪，面向室内高尔夫运动",
-   "summary": "IT之家 10 月 3 日消息，明基 (BenQ) 美国加州当地时间 1 日宣布推出 2 款面向室内高尔夫运动的投影仪设备，即 AK900ST 和 AK800ST。这两款产品支持 4K UHD 分辨率、亮度可达 6000 ANSI 流明，色域覆盖 97% Rec.709，能忠实再现真实高尔夫球场的细微细节和色彩变化。A",
-   "link": "https://www.ithome.com/1/009/498.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 16:02",
-   "ts": 1791014551
-  },
-  {
-   "id": "6eea32ecf9c45b023c361ba583756672",
-   "title": "消息称三星显示计划于本月开始为 Galaxy S27 系列手机量产 AMOLED 面板",
-   "summary": "IT之家 10 月 3 日消息，据韩媒 zdnet 报道，三星显示（Samsung Display）计划于本月开始量产 Galaxy S27 系列手机所采用的 AMOLED 屏幕。三星 Galaxy S27 系列预计将包含 4 款机型，分别为 6.27 英寸的 Galaxy S27、6.66 英寸的 Galaxy S2",
-   "link": "https://www.ithome.com/1/009/497.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 16:01",
-   "ts": 1791014503
-  },
-  {
-   "id": "36d296c06f3244f782a45a039083d6fd",
-   "title": "游戏《战地风云 6》Steam 国区永久降价：268 元起 → 198 元起（叠加折扣到手价 99 元起）",
-   "summary": "IT之家 10 月 3 日消息，《战地风云 6》现已在 Steam 平台迎来价格永久下调，标准版原价 268 元，现永降至 198 元；官方同时开启 5 折新史低折扣，标准版折后仅需 99 元。除此之外，本作魅影版也从 468 元降至 398 元，目前 6.5 折后到手价为 258.7 元。本作于 2025 年 10 ",
-   "link": "https://www.ithome.com/1/009/496.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 15:57",
-   "ts": 1791014233
-  },
-  {
    "id": "689266fdad22e3a6673b76e19fff0eaa",
-   "title": "Bahrain GP in Malaysia: Antonelli in trouble to reach Q3 LIVE!",
+   "title": "Bahrain GP in Malaysia: Verstappen beats Hamilton to claim pole LIVE!",
    "summary": "",
    "link": "https://www.skysports.com/f1/live-blog/12040/13594552/f1-bahrain-gp-in-malaysia-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-in-sepang",
    "source": "Sky Sports",
@@ -184,22 +223,35 @@
    "ts": 1791014220
   },
   {
-   "id": "48bb2a23341664761cea1beb58c3a120",
-   "title": "AI 数字人面试官引发求职者“恐怖谷效应”吐槽，相关话题冲上热搜",
-   "summary": "IT之家 10 月 3 日消息，#AI 面试恐怖谷#话题今天（10 月 3 日）冲上热搜，近期秋招中大量企业启用 AI 数字人面试官，其僵硬神态与微表情全景监控让面试沦为冰冷的算法打分，引发求职者集体吐槽“恐怖谷效应”。IT之家发稿前，该话题在热搜榜上排名第 25 位，相关热度值为 186,858。在今年 7 月“AI",
-   "link": "https://www.ithome.com/1/009/495.htm",
-   "source": "IT之家",
+   "id": "bde9121888d80eca31f2454c4624ff3d",
+   "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
+   "summary": "岗位JD甩了篇技术报告",
+   "link": "https://www.qbitai.com/2026/10/501381.html",
+   "source": "量子位",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-03 15:54",
+   "ts": 1791014083
+  },
+  {
+   "id": "da53dd6853b3b3e1f3278f224c8232af",
+   "title": "Why should I have to pay more for buses if I don't use a smartphone?",
+   "summary": "Article URL: https://www.theguardian.com/money/2026/oct/02/why-should-i-have-to-pay-more-for-buses-if-i-dont-use-a-smartphone\nComments URL: https://news.ycombin",
+   "link": "https://www.theguardian.com/money/2026/oct/02/why-should-i-have-to-pay-more-for-buses-if-i-dont-use-a-smartphone",
+   "source": "Hacker News",
    "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-03 15:52",
-   "ts": 1791013958
+   "fetched_at": "10-03 15:48",
+   "ts": 1791013691
   },
   {
    "id": "53e7f05688b3b06baba19ddb8e25dab0",
    "title": "Understanding Frontier Artificial Intelligence",
-   "summary": "Article URL: https://casp.ac/reports/intelligence-explosion\nComments URL: https://news.ycombinator.com/item?id=49942002\nPoints: 16\n# Comments: 4",
+   "summary": "Article URL: https://casp.ac/reports/intelligence-explosion\nComments URL: https://news.ycombinator.com/item?id=49942002\nPoints: 24\n# Comments: 17",
    "link": "https://casp.ac/reports/intelligence-explosion",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -316,7 +368,7 @@
   {
    "id": "eec9f70090370bef588c6b9f57a482b6",
    "title": "An Update on Orion for Linux and Windows",
-   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 28\n# Comments: 11",
+   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 32\n# Comments: 13",
    "link": "https://blog.kagi.com/update-orion-linux-windows",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -381,7 +433,7 @@
   {
    "id": "61c2fcf1db281fa8da97648647f3047e",
    "title": "Extra Big Ass Intelligence",
-   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 241\n# Comments: 52",
+   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 272\n# Comments: 60",
    "link": "https://www.extrabigassintelligence.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -394,7 +446,7 @@
   {
    "id": "e153fef4c61f951b0d4a131dbe6cbf99",
    "title": "Cloudflare OHTTP gateway",
-   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 64\n# Comments:",
+   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 67\n# Comments:",
    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -498,7 +550,7 @@
   {
    "id": "191bd1c28b2d6d360ae0a2ed679bf01f",
    "title": "Newgrounds.com – A community of games, music, and art",
-   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 185\n# Comments: 52",
+   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 196\n# Comments: 55",
    "link": "https://www.newgrounds.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1213,7 +1265,7 @@
   {
    "id": "7e28dfddaf0aed2d57d27c663f3ab25a",
    "title": "Barcodes are about to go extinct",
-   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 23\n# Commen",
+   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 26\n# Commen",
    "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1408,7 +1460,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 185\n# Comments: 129",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 190\n# Comments: 132",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1447,7 +1499,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 187\n# Comments: 83",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 188\n# Comments: 84",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1512,7 +1564,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 404\n# Comments: 248",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 410\n# Comments: 250",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1525,7 +1577,7 @@
   {
    "id": "b81aa1a9d9c293e210822b73d0e28433",
    "title": "The Nintendo 64 Partner-N64 Development Kit",
-   "summary": "Article URL: https://www.behindthecode.ca/partner-n64pc-dev-kit/\nComments URL: https://news.ycombinator.com/item?id=49937146\nPoints: 31\n# Comments: 3",
+   "summary": "https://archive.is/WCnLA\n\nComments URL: https://news.ycombinator.com/item?id=49937146\nPoints: 34\n# Comments: 4",
    "link": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1692,19 +1744,6 @@
    "ts": 1790964926
   },
   {
-   "id": "936e389a0e30c073bc821bf810c48d95",
-   "title": "Amazon Is Dropping Prices on Green Lantern Merch Ahead of Lanterns Season Finale",
-   "summary": "",
-   "link": "https://www.ign.com/articles/amazon-green-lantern-merch-comics-sale-lanterns-season-finale",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:13",
-   "ts": 1790964826
-  },
-  {
    "id": "a551a6449ab9e48f741873a8e0df9503",
    "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
    "summary": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, m",
@@ -1716,19 +1755,6 @@
    "urgent": false,
    "fetched_at": "10-03 02:11",
    "ts": 1790964687
-  },
-  {
-   "id": "c4403da706604980eef315f527b9cd6e",
-   "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 225\n# Comments: 57",
-   "link": "https://dwarfstar.sh/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:01",
-   "ts": 1790964076
   },
   {
    "id": "dc3d703729f5de65a3421fa0694dd72d",
@@ -1963,19 +1989,6 @@
    "urgent": false,
    "fetched_at": "10-03 00:35",
    "ts": 1790958913
-  },
-  {
-   "id": "abba382d36c6ff194be7d9719a5059e0",
-   "title": "Google just made the Pixel 10a a much tougher sell",
-   "summary": "The Pixel 10a just got $100 more expensive.",
-   "link": "https://www.androidauthority.com/pixel-10a-price-hike-google-11a-3718576/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:07",
-   "ts": 1790957245
   },
   {
    "id": "b23c7e928e9ac3f44bcce1ec39eece43",
@@ -2593,19 +2606,6 @@
    "title": "Opinion: The law has to catch up on orphan-designated drugs with multiple uses",
    "summary": "The law has to catch up on the 340B drug discount program, writes a pharmacist.",
    "link": "https://www.statnews.com/2026/10/02/340b-policy-orphan-designated-drugs-pharmacy-losses-hrsa-congress/?utm_campaign=rss",
-   "source": "STAT News",
-   "channel": "健康",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 16:30",
-   "ts": 1790929800
-  },
-  {
-   "id": "46a48e5dfc8e54e36597f73238b174ea",
-   "title": "Opinion: I treated heat stroke at the NYC Marathon. Marathons need to prepare for a climate-changed world",
-   "summary": "A doctor’s request to marathons: Let’s make evidence-based medical plans — especially for extreme heat.",
-   "link": "https://www.statnews.com/2026/10/02/marathons-climate-change-extreme-heat-medical-planning/?utm_campaign=rss",
    "source": "STAT News",
    "channel": "健康",
    "category": "资讯",
