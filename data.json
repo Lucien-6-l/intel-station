@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 12:38",
+ "updated_at": "2026-10-03 13:03",
  "total": 281,
  "channels": [
   "AI·科技",
@@ -15,8 +15,21 @@
  ],
  "items": [
   {
+   "id": "447debce32d2cc9c7e504248c8b4d503",
+   "title": "Scandinavia seeks sixth Group 1 in Prix du Cadran",
+   "summary": "Scandinavia takes on Queenstown and Caballo De Mar as Arc weekend gets underway - live on Sky Sports Racing.",
+   "link": "https://www.skysports.com/racing/news/12040/13594041/today-on-sky-sports-racing-scandinavia-seeks-sixth-group-1-in-prix-du-cadran",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 14:00",
+   "ts": 1791007200
+  },
+  {
    "id": "689266fdad22e3a6673b76e19fff0eaa",
-   "title": "Bahrain GP in Malaysia: Crucial final practice under way ahead of Qualifying LIVE!",
+   "title": "Bahrain GP in Malaysia: Norris currently fastest in final practice LIVE!",
    "summary": "",
    "link": "https://www.skysports.com/f1/live-blog/12040/13594552/f1-bahrain-gp-in-malaysia-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-in-sepang",
    "source": "Sky Sports",
@@ -26,6 +39,71 @@
    "urgent": false,
    "fetched_at": "10-03 13:05",
    "ts": 1791003900
+  },
+  {
+   "id": "b0dd62fbcdd3f1858772205d356a1550",
+   "title": "蔚来充电服务突破 1 亿次，86.67% 充电电量服务于非蔚来公司品牌用户",
+   "summary": "IT之家 10 月 3 日消息，蔚来今日宣布，2026 年 10 月 3 日 11:08:41，蔚来充电服务突破 1 亿次。官方表示，86.67% 充电电量服务于非蔚来公司品牌用户，为所有新能源汽车用户假期出行加电。截至目前，蔚来已在全国累计建成 9,522 座充换电站，提供充换电服务超过 2.2 亿次，其中充电站 5",
+   "link": "https://www.ithome.com/1/009/433.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 12:57",
+   "ts": 1791003463
+  },
+  {
+   "id": "5b1cf9ae192e3e6418477c930289c1b3",
+   "title": "微软向老用户抛橄榄枝：Win10/Win11 新版 Outlook 可换装经典版样式",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 Windows Latest 今天（10 月 3 日）发布博文，报道称微软为推动 Windows 10、Windows 11 用户迁移到新版 Outlook，推出“经典版 Outlook 样式”主题，可以复刻 Outlook Classic 的界面外观。报道称微软于 2026 ",
+   "link": "https://www.ithome.com/1/009/432.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 12:53",
+   "ts": 1791003226
+  },
+  {
+   "id": "7e6a4e4ae1bead6f6186c6dd989649a8",
+   "title": "10 月 9 日起，未订阅用户仅能使用谷歌 Gemini Flash-Lite 模型",
+   "summary": "IT之家 10 月 3 日消息，谷歌 Gemini 应用帮助中心显示，自 2026 年 10 月起，使用个人账号访问 Gemini 应用时，模型可用情况将发生变更。自 2026 年 10 月 9 日起，Gemini Web / App 端免费个人用户不再默认提供完整的 Flash 模型（以及 Pro 模型访问），而是统",
+   "link": "https://www.ithome.com/1/009/431.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 12:53",
+   "ts": 1791003196
+  },
+  {
+   "id": "f124f754b12776f9246e9560fbf25862",
+   "title": "Pitt emerges as top threat to Miami in ACC as Pat Narduzzi rips AP voters following win over Virginia Tech",
+   "summary": "The Panthers stunned Virginia Tech when a reliable Hokies kicker missed a 36-yarder on the final play",
+   "link": "https://www.cbssports.com/college-football/news/pitt-threat-miami-acc-pat-narduzzi-ap-voters-win-virginia-tech/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 12:41",
+   "ts": 1791002474
+  },
+  {
+   "id": "0f37ea3bd0c7428d4f74a8c66fa30b09",
+   "title": "OpenAI 自研 AI 芯片 Jalapeño ASIC 量产部署，因“务实”选择搭配 AMD Turin",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 Tom's Hardware 昨日（10 月 2 日）发布博文，报道称 OpenAI 公司已内部部署其自研 Jalapeño ASIC 芯片，与配备 1.5TB 内存的 AMD EPYC Turin 主机配合使用。在接受该媒体采访时，OpenAI 副总裁兼硬件主管理查德 · 何",
+   "link": "https://www.ithome.com/1/009/430.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 12:38",
+   "ts": 1791002333
   },
   {
    "id": "66db9b4846754457873a29e8971ad216",
@@ -52,6 +130,19 @@
    "urgent": false,
    "fetched_at": "10-03 12:19",
    "ts": 1791001174
+  },
+  {
+   "id": "7d8eb8fa65e3b59871212efb5c8dd077",
+   "title": "2026 WNBA playoffs bracket, schedule, where to watch: Valkyries beat Wings, advance to semis to face Aces",
+   "summary": "The semifinals will tip off on Sunday, with the Valkyries against the Aces and the Liberty against the Dream",
+   "link": "https://www.cbssports.com/wnba/news/2026-wnba-playoffs-bracket-schedule/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 12:16",
+   "ts": 1791000968
   },
   {
    "id": "81070b21aafb597ad44325130a01a468",
@@ -106,19 +197,6 @@
    "ts": 1790998796
   },
   {
-   "id": "f124f754b12776f9246e9560fbf25862",
-   "title": "Pitt emerges as top threat to Miami in ACC as Pat Narduzzi rips AP voters following win over Virginia Tech",
-   "summary": "The Panthers stunned Virginia Tech when a reliable Hokies kicker missed a 36-yarder on the final play",
-   "link": "https://www.cbssports.com/college-football/news/pitt-threat-miami-acc-pat-narduzzi-ap-voters-win-virginia-tech/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 11:36",
-   "ts": 1790998597
-  },
-  {
    "id": "3f0555724fae7b262a762ba32c3bf2f9",
    "title": "为 MAX 10 认证扫清障碍，FAA 认定波音 737 MAX 客机软件故障无安全隐患",
    "summary": "IT之家 10 月 3 日消息，据路透社报道，当地时间 2 日，美国联邦航空管理局披露，专家组认定部分波音 737 MAX 客机的飞行计算机的软件故障不存在安全隐患，为 737 MAX 10 获得认证扫清了障碍。据IT之家了解，737 MAX 10 是波音畅销 737 MAX 窄体客机系列中最大的型号。737 MAX ",
@@ -158,35 +236,22 @@
    "ts": 1790998227
   },
   {
-   "id": "ed005ac293a0b7ba541a675bc65c8bcf",
-   "title": "Win10/Win11 学院：如何禁用火狐 Firefox 157 浏览器 Nova 界面和新侧边栏",
-   "summary": "IT之家 10 月 3 日消息，科技媒体 WinAero 昨日（10 月 2 日）发布博文，介绍了在火狐 Firefox 157 浏览器中，禁用 Nova 界面（已默认启用）的方式。IT之家曾于 9 月 29 日报道，在 Firefox 157 稳定版浏览器中，Mozilla 默认启用 Project Nova 的视觉",
-   "link": "https://www.ithome.com/1/009/419.htm",
-   "source": "IT之家",
+   "id": "61c2fcf1db281fa8da97648647f3047e",
+   "title": "Extra Big Ass Intelligence",
+   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 7\n# Comments: 1",
+   "link": "https://www.extrabigassintelligence.com/",
+   "source": "Hacker News",
    "channel": "AI·科技",
-   "category": "发布/大事件",
+   "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-03 11:20",
-   "ts": 1790997632
-  },
-  {
-   "id": "2d1932eb96b1967e45c86a446e813031",
-   "title": "2026 年度电影总票房突破 300 亿元，《飞驰人生 3》《功夫女足》《欢迎来龙餐馆》暂列前三",
-   "summary": "IT之家 10 月 3 日消息，据猫眼专业版数据，截至 10 月 3 日，2026 年度电影总票房（含预售）突破 300 亿元，总观影人次达 7.63 亿，放映总场次 1.12 亿场。《飞驰人生 3》《功夫女足》《欢迎来龙餐馆》暂列年度票房榜前三位，IT之家附前十名单：飞驰人生 3功夫女足欢迎来龙餐馆八仙！给阿嬷的情书",
-   "link": "https://www.ithome.com/1/009/418.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 11:20",
-   "ts": 1790997630
+   "fetched_at": "10-03 11:19",
+   "ts": 1790997550
   },
   {
    "id": "e153fef4c61f951b0d4a131dbe6cbf99",
-   "title": "Cloudflare Ohttp Gateway",
-   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 9\n# Comments: ",
+   "title": "Cloudflare OHTTP gateway",
+   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 12\n# Comments:",
    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -195,32 +260,6 @@
    "urgent": false,
    "fetched_at": "10-03 11:15",
    "ts": 1790997305
-  },
-  {
-   "id": "ecc26397cc20afd7f8d8258d33414c79",
-   "title": "超 HBM3E 当前价 3 倍：消息称三星电子为 2027 年 HBM4 内存寻求高额定价",
-   "summary": "IT之家 10 月 3 日消息，韩媒《每日经济》当地时间昨日报道称，三星电子正与主要客户就 2027 年 HBM4 内存供应合约进行价格谈判，寻求将每 1Gb 单价定在 4～5 美元区间的中高位。（至少 4.5 美元 / Gb）。报道指出，三星电子的 HBM3E 内存当前单价在 1.5 美元 / Gb 左右，明年的 H",
-   "link": "https://www.ithome.com/1/009/417.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 11:12",
-   "ts": 1790997165
-  },
-  {
-   "id": "1ce3587ac7b97a50b8ec87bc4832f949",
-   "title": "特斯拉在美上线车辆充电中“紧急驶离”功能，但最高或对充电桩造成 2.5 万美元损失",
-   "summary": "IT之家 10 月 3 日消息，当地时间 1 日，特斯拉在美国上线推出“紧急驶离”功能。遇到危险时，即使车辆还插着超级充电枪，驾驶员也可以直接挂入 D 挡驶离。特斯拉发布这项功能时就明确说明，紧急驶离“会损坏车辆和超级充电桩”，不过并未说明损失可能有多大。据外媒 electrek 报道，直到一名车主追问车辆和充电桩会受",
-   "link": "https://www.ithome.com/1/009/416.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 11:12",
-   "ts": 1790997132
   },
   {
    "id": "bca496dab921a2c404877d88606bc7cd",
@@ -290,7 +329,7 @@
   {
    "id": "a8a103a5c415df52b05d67dfa2606d26",
    "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-   "summary": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 27\n# Comm",
+   "summary": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 29\n# Comm",
    "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -329,7 +368,7 @@
   {
    "id": "191bd1c28b2d6d360ae0a2ed679bf01f",
    "title": "Newgrounds.com – A community of games, music, and art",
-   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 89\n# Comments: 22",
+   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 95\n# Comments: 23",
    "link": "https://www.newgrounds.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -394,7 +433,7 @@
   {
    "id": "eee1a4dc184033604a268feb7c4d4a69",
    "title": "Where Is the Planet",
-   "summary": "Article URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 16\n# Comments: 0",
+   "summary": "Article URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 17\n# Comments: 0",
    "link": "http://whereistheplanet.com",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -407,7 +446,7 @@
   {
    "id": "9f28acfc82367b8cd3b7290bc672e21b",
    "title": "Things that apparently cause cancer",
-   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 134\n#",
+   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 137\n#",
    "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -795,19 +834,6 @@
    "ts": 1790979339
   },
   {
-   "id": "def056561b43831aa113cd0cc6dbf13b",
-   "title": "Borgata Sportsbook promo code 2026: Bet $20, get $100 instantly in bonus bets",
-   "summary": "Borgata Sportsbook promo code for new users: CBS100 to bet $20, get $100 instantly in bonus bets",
-   "link": "https://www.cbssports.com/betting/news/borgata-promo-code/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 06:12",
-   "ts": 1790979155
-  },
-  {
    "id": "8512b0a180a59fa1fe27dabd3e063842",
    "title": "Humphries 'disappointed' despite 3-0 win to clinch semi-final spot",
    "summary": "",
@@ -1001,6 +1027,19 @@
    "urgent": false,
    "fetched_at": "10-03 05:08",
    "ts": 1790975317
+  },
+  {
+   "id": "6fa792b2ddd2b7c1f1679e0c4f3d6049",
+   "title": "Every SaaS business will become a harness around a model",
+   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 120\n# Comments: 85",
+   "link": "https://blog.sshh.io/p/the-harness-is-the-company",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:06",
+   "ts": 1790975216
   },
   {
    "id": "d74aff60047cc46fb360229e55cad41d",
@@ -1291,7 +1330,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 154\n# Comments: 91",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 156\n# Comments: 95",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1330,7 +1369,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 158\n# Comments: 74",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 163\n# Comments: 76",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1408,7 +1447,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 363\n# Comments: 226",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 368\n# Comments: 229",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1443,19 +1482,6 @@
    "urgent": false,
    "fetched_at": "10-03 02:50",
    "ts": 1790967000
-  },
-  {
-   "id": "0897f69efdbdc65790bc158031c7d825",
-   "title": "Littler to compete in World Youth Championships",
-   "summary": "World No 1 and former champion Luke Littler will headline the list of Tour Card Holders and International Qualifiers competing in Monday's Winmau World Youth Ch",
-   "link": "https://www.skysports.com/darts/news/12040/13594484/luke-littler-world-no-1-to-headline-world-youth-championships-with-chance-to-reach-final-at-minehead",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:48",
-   "ts": 1790966880
   },
   {
    "id": "82b26f802c032ffa3452daa3fe91d83f",
@@ -1629,7 +1655,7 @@
   {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 186\n# Comments: 53",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 190\n# Comments: 54",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1677,19 +1703,6 @@
    "urgent": false,
    "fetched_at": "10-03 01:49",
    "ts": 1790963399
-  },
-  {
-   "id": "93e322c483dd9a7cf4e53196f428d46d",
-   "title": "There's a New Sea Spider in Town",
-   "summary": "Article URL: https://nautil.us/theres-a-new-sea-spider-in-town-1285470\nComments URL: https://news.ycombinator.com/item?id=49936398\nPoints: 6\n# Comments: 0",
-   "link": "https://nautil.us/theres-a-new-sea-spider-in-town-1285470",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:48",
-   "ts": 1790963334
   },
   {
    "id": "9ba49039f7a5e2563a403a5de669f200",
@@ -2041,19 +2054,6 @@
    "urgent": false,
    "fetched_at": "10-02 23:31",
    "ts": 1790955080
-  },
-  {
-   "id": "077fdf42fb97a882004a771ef6ef80bf",
-   "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 130\n# Comments: 105",
-   "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:29",
-   "ts": 1790954955
   },
   {
    "id": "af7b0ca621157e61766647a9502e9161",
