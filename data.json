@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03 09:04",
- "total": 270,
+ "updated_at": "2026-10-03 09:37",
+ "total": 282,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,9 +10,114 @@
   "数码",
   "汽车",
   "游戏",
+  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "749590a5e25e94f6638a0b3199e9686a",
+   "title": "曝索尼重启《捉猴啦》，沉寂 16 年经典游戏 IP 有望回归",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 Wccftech 昨日（10 月 2 日）发布博文，报道称索尼可能重启沉寂约 16 年的经典游戏 IP《捉猴啦》（Ape Escape），该项目已进入实际开发阶段。有用户于 10 月 1 日在 ResetEra 论坛上发帖，表示两个独立信源的交叉印证，指出索尼正在重启开发《捉猴",
+   "link": "https://www.ithome.com/1/009/397.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 09:35",
+   "ts": 1790991319
+  },
+  {
+   "id": "d6d145e1959a16f687e9f10aad7781af",
+   "title": "因内存等成本暴涨，英伟达标准版 Shield TV 停产、Pro 版涨价 50%",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 Wccftech 昨日（10 月 2 日）发布博文，报道称由于内存等相关组件成本上涨，英伟达宣布停止生产标准版 Shield TV，并将 Shield TV Pro 售价上调 100 美元至 299.99 美元（IT之家注：现汇率约合 671.4 元至 2,014 元人民币），",
+   "link": "https://www.ithome.com/1/009/396.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 09:24",
+   "ts": 1790990687
+  },
+  {
+   "id": "5e038b844142898eb6251001c35f7ca8",
+   "title": "配合宣传《GTA 6》，NBA 迈阿密热火队 11 月将以“罪城”之名出战",
+   "summary": "IT之家 10 月 3 日消息，据外媒 VGC 今天（3 日）报道，NBA 球队迈阿密热火将配合宣传《GTA 6》，以“罪城”之名出战。名为“罪城之夜”的活动将在 11 月 18 日举行，正好是《GTA 6》发售前一天。热火当天将在主场迎战密尔沃基雄鹿，届时球队将化身“罪城”登场。热火还会启用专门打造的“罪城”主题球场",
+   "link": "https://www.ithome.com/1/009/395.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 09:22",
+   "ts": 1790990552
+  },
+  {
+   "id": "e7b68a7ea7eabdf282dc6ec056d4e298",
+   "title": "消息称适马将推出 50-120mm F2.8 APS-C 相机镜头",
+   "summary": "IT之家 10 月 3 日消息，据 Sony Alpha Rumors 消息，适马（Sigma）即将于 10 月 8 日推出新款 50-120mm f/2.8 APS-C 画幅镜头。据知情人士透露，发布会预计定于柏林时间 10 月 8 日下午 1 点左右举行（IT之家注：北京时间晚上 7 点）。与此同时，适马还在为 1",
+   "link": "https://www.ithome.com/1/009/394.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 09:22",
+   "ts": 1790990537
+  },
+  {
+   "id": "eff72ecd98b3738c7eae414d98e875c8",
+   "title": "“Good Heavens”: Kathleen Turner Reacts to Michael Douglas’ Bombshell About Their Secret Romance During ‘Romancing the Stone’",
+   "summary": "The two-time Oscar nominee revealed via a new excerpt from his 'One Helluva Ride' memoir that they had an affair during production on the 1984 movie.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/kathleen-turner-michael-douglas-secret-romance-romancing-stone-1236721432/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 09:21",
+   "ts": 1790990510
+  },
+  {
+   "id": "abebf012f2f03b9d8fc86d61fa42e6b7",
+   "title": "产量提升 10%：曝三星 Exynos 2700 芯片已量产，多核较高通第六代骁龙 8 超级至尊版高约 9.5%",
+   "summary": "IT之家 10 月 3 日消息，数码博主 @i冰宇宙 昨日（10 月 2 日）发布博文，表示：“三星电子已开始量产 Exynos 2700 处理器，该处理器是 Galaxy S27 系列智能手机的核心部件。据悉，其产量比上一代产品提高了 10%。”IT之家查询相关资料，韩媒 The Elec 称三星已锁定 Galaxy",
+   "link": "https://www.ithome.com/1/009/393.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 09:13",
+   "ts": 1790990002
+  },
+  {
+   "id": "1bb480b55a452217e951c381697f8e39",
+   "title": "最高冲上 1200 马力，保时捷高性能纯电卡宴 Coupe 谍照曝光",
+   "summary": "IT之家 10 月 3 日消息，保时捷今年早些时候推出了纯电动卡宴 Coupe，共提供三个版本。入门版最大功率 325kW（442 马力），S 版提升至 490kW（666 马力），Turbo 版则达到 850kW（1156 马力）。卡宴 Coupe 还有性能更强的 Turbo GT，进入电动时代，对应的纯电版车型也没",
+   "link": "https://www.ithome.com/1/009/392.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 09:07",
+   "ts": 1790989660
+  },
+  {
+   "id": "b89b0aa0fbbf988243539cb427ce7fdd",
+   "title": "Here's when Honor's wide foldable is now rumored to launch",
+   "summary": "If you trust rumors, Honor has been working on a wide foldable of its own for quite some time now. Last we heard anything about it, it was apparently supposed t",
+   "link": "https://www.gsmarena.com/heres_when_honors_wide_foldable_is_now_rumored_to_launch-news-74886.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 09:03",
+   "ts": 1790989382
+  },
   {
    "id": "8f2a89e2e8ab32c92bd6a88b71f90b94",
    "title": "George Cheeks May Level Up in David Ellison’s TV Empire",
@@ -66,8 +171,8 @@
    "ts": 1790988339
   },
   {
-   "id": "ad8868d6d12a46382d23337080bfbd44",
-   "title": "特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%",
+   "id": "d202fca5f19c8f71c2897e9900c48375",
+   "title": "特朗普提出将“AI”改称“SI”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%",
    "summary": "IT之家 10 月 3 日消息，据英国 BBC 当地时间 1 日报道，斯洛文尼亚国家域名注册机构 Register.si 称，美国总统唐纳德 · 特朗普推动将人工智能（AI）改称“超级智能（SI）”，或是带动该国域名注册量“前所未有”地激增的原因。特朗普希望用“超级智能”的缩写 SI 取代 AI，而斯洛文尼亚的域名后缀",
    "link": "https://www.ithome.com/1/009/389.htm",
    "source": "IT之家",
@@ -116,6 +221,32 @@
    "urgent": false,
    "fetched_at": "10-03 08:27",
    "ts": 1790987249
+  },
+  {
+   "id": "eee1a4dc184033604a268feb7c4d4a69",
+   "title": "Where Is the Planet",
+   "summary": "Article URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 5\n# Comments: 0",
+   "link": "http://whereistheplanet.com",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:26",
+   "ts": 1790987179
+  },
+  {
+   "id": "9f28acfc82367b8cd3b7290bc672e21b",
+   "title": "Things That Apparently Cause Cancer",
+   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 11\n# ",
+   "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:23",
+   "ts": 1790986991
   },
   {
    "id": "b17b70538edc08d508d9101eef1bbf3f",
@@ -183,19 +314,6 @@
    "ts": 1790986219
   },
   {
-   "id": "68ea8c1f6b991cde9222336216a2006a",
-   "title": "OpenAI 内部动荡加剧之际，又一名安全负责人戴维 · 罗宾逊离职",
-   "summary": "IT之家 10 月 3 日消息，据《商业内幕》报道，当地时间 2 日，OpenAI 一名发言人证实，OpenAI 安全系统团队负责人之一戴维 · 罗宾逊已离职。罗宾逊于上周离开公司，OpenAI 安全团队再度出现人事变动。罗宾逊此前还负责过公司的政策规划工作，主要涉及“安全透明度”，包括参与编写和发布系统卡，向外界介绍",
-   "link": "https://www.ithome.com/1/009/385.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 08:08",
-   "ts": 1790986135
-  },
-  {
    "id": "658f68fae9218358dd04cc1c7a39c7a2",
    "title": "UFC 332: Payton Talbott eyes busy 2027 after Sean O'Malley, Cory Sandhagen fights failed to materialize",
    "summary": "Talbott faces former champion Deiveson Figueiredo as he looks to build toward a breakout campaign next year",
@@ -235,58 +353,6 @@
    "ts": 1790985600
   },
   {
-   "id": "e41a2a100cc28ae2539624be2fddecca",
-   "title": "部分 Win11 用户反馈安装微软 9 月可选更新后同时播放多个 MP3 文件触发崩溃",
-   "summary": "IT之家 10 月 3 日消息，科技媒体 BornCity 今天（10 月 3 日）发布博文，报道称微软推送 9 月 Windows 11 可选更新 KB5124010 存在 Bug，部分用户反馈同时播放多个 MP3 文件时，可能触发系统音频解码组件 msmpeg2ac3dec.dll 崩溃。IT之家此前报道，微软于 ",
-   "link": "https://www.ithome.com/1/009/384.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 07:56",
-   "ts": 1790985409
-  },
-  {
-   "id": "9d87a81fabdcac39e0d41a111973cd72",
-   "title": "奔驰大幅精简车型阵容，EQE、迈巴赫 EQS 680 SUV 等电车即将停产",
-   "summary": "IT之家 10 月 3 日消息，奔驰将大幅精简车型阵容，纯电车型是调整重点。至少三款车型将在 2027 款停产。奔驰发言人向外媒《Car and Driver》证实，EQE 轿车及其 AMG 版本、AMG S 63 E PERFORMANCE 和迈巴赫 EQS 680 SUV 明年都将退出产品阵容。奔驰也在继续让电动车",
-   "link": "https://www.ithome.com/1/009/383.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 07:53",
-   "ts": 1790985215
-  },
-  {
-   "id": "4fb4b06521bd68422359c7b412b81e62",
-   "title": "IT早报 1003：三星上调国行 S26 售价；问界 M6 推 3 年 0 息购车方案；曝 Anthropic 最早 11 月中旬上市；苹果预计本月发布触控 OLED 屏 MacBook...",
-   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 3 日星期六，今天的重要科技资讯有：1. 三星上调 Galaxy S26 系列手机建议零售价：涨 800-1800 元，7799 元起三星官网显示，三星上调了国行 Galaxy S26 系列手机的建议零售价。&gt;&gt; 查看详情2. 首付 6.98 万元起",
-   "link": "https://www.ithome.com/1/009/382.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 07:50",
-   "ts": 1790985059
-  },
-  {
-   "id": "87844433d30036327ede5c8285947073",
-   "title": "苹果收紧 macOS 27 等完全磁盘访问权限，降低 AI 智能体操控风险",
-   "summary": "IT之家 10 月 3 日消息，苹果开发者网站昨日（10 月 2 日）发布公告，宣布将升级 macOS 27 等系统的隐私管控，要求用户通过更明确的操作，才能授予应用“完全磁盘访问权限”。苹果表示，“完全磁盘访问权限”原本用于支持备份应用在 Mac 上正常运行。该权限会在很大程度上绕过系统为保护用户数据设置的常规控制，",
-   "link": "https://www.ithome.com/1/009/381.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 07:47",
-   "ts": 1790984848
-  },
-  {
    "id": "6864cef92da7d4ec50f0d48e0822b376",
    "title": "George Cheeks May Be Poised for Expanded TV Role at Skydance Post Paramount-Warner Bros. Merger",
    "summary": "Paramount TV media chair George Cheeks, whose domain has included all of CBS in addition to the Paramount cable networks, is said to be in line for an expanded ",
@@ -298,19 +364,6 @@
    "urgent": false,
    "fetched_at": "10-03 07:40",
    "ts": 1790984419
-  },
-  {
-   "id": "34e594426e2b88930c99ff72e81735e8",
-   "title": "苹果 homeOS 前瞻：整合 iOS / iPadOS / watchOS 特性，主打 Siri AI 交互",
-   "summary": "IT之家 10 月 3 日消息，科技媒体 9to5Mac 昨日（10 月 2 日）发布博文，综合彭博社马克 · 古尔曼（Mark Gurman）、@itspdfu 等诸多消息源，梳理整合苹果 homeOS 系统相关信息。名称方面，homeOS 目前尚未正式确认，IT之家曾于 2025 年 6 月报道，苹果公司已注册 h",
-   "link": "https://www.ithome.com/1/009/380.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 07:34",
-   "ts": 1790984055
   },
   {
    "id": "09b2e954ffff2d54d10c93fbf0744f18",
@@ -402,19 +455,6 @@
    "urgent": false,
    "fetched_at": "10-03 06:46",
    "ts": 1790981210
-  },
-  {
-   "id": "37d4972093984811d16b0ec41a784ab7",
-   "title": "Debian Inference Portal",
-   "summary": "Article URL: https://inference.debian.net/\nComments URL: https://news.ycombinator.com/item?id=49939513\nPoints: 6\n# Comments: 2",
-   "link": "https://inference.debian.net/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 06:43",
-   "ts": 1790980981
   },
   {
    "id": "8347d7e470999b15acb5376aab5b9a87",
@@ -757,7 +797,7 @@
   {
    "id": "ed92f170bb8e0d0a2aafcc4eb43c0e7d",
    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-   "summary": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 17\n# Comments: 2",
+   "summary": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 19\n# Comments: 3",
    "link": "https://allenai.org/blog/astabrief",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -874,7 +914,7 @@
   {
    "id": "6fa792b2ddd2b7c1f1679e0c4f3d6049",
    "title": "Every SaaS business will become a harness around a model",
-   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 86\n# Comments: 65",
+   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 90\n# Comments: 68",
    "link": "https://blog.sshh.io/p/the-harness-is-the-company",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -978,7 +1018,7 @@
   {
    "id": "0419d34b7ab29cdaac75720215ed2d2c",
    "title": "Zig v0.17.0",
-   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 203\n# Comments: 122",
+   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 207\n# Comments: 129",
    "link": "https://ziglang.org/download/0.17.0/release-notes.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1013,19 +1053,6 @@
    "urgent": false,
    "fetched_at": "10-03 04:47",
    "ts": 1790974022
-  },
-  {
-   "id": "a3f7c33fa28e4cff3ddaa76b9989d125",
-   "title": "Metallica Thrashes Las Vegas With Five Decades of Monumental Metal",
-   "summary": "The mind-melting moments from the first night of the Life Burns Faster residency at the Sphere.",
-   "link": "https://www.hollywoodreporter.com/music/music-features/metallica-sphere-residency-life-burns-faster-opening-night-1236721137/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:44",
-   "ts": 1790973873
   },
   {
    "id": "9096388c55152289eb0914769fc14524",
@@ -1212,7 +1239,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 110\n# Comments: 65",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 118\n# Comments: 69",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1251,7 +1278,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 118\n# Comments: 60",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 125\n# Comments: 65",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1329,7 +1356,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 303\n# Comments: 204",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 313\n# Comments: 212",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1563,7 +1590,7 @@
   {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 140\n# Comments: 36",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 146\n# Comments: 39",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1979,7 +2006,7 @@
   {
    "id": "077fdf42fb97a882004a771ef6ef80bf",
    "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 103\n# Comments: 80",
+   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 108\n# Comments: 82",
    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2109,7 +2136,7 @@
   {
    "id": "deadc6e12be46fdc133a8b818e8ee069",
    "title": "The Forgetful CPU (Linux on M4)",
-   "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 79\n# Comments: 11",
+   "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 94\n# Comments: 21",
    "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2131,19 +2158,6 @@
    "urgent": false,
    "fetched_at": "10-02 22:19",
    "ts": 1790950773
-  },
-  {
-   "id": "0c809ece3a48d001fb10a1fc65ef08c0",
-   "title": "With most information hidden, the game Stratego had stumped AI until now",
-   "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 171\n# Co",
-   "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:11",
-   "ts": 1790950284
   },
   {
    "id": "82bfc5608f41ed141f58804a3472d671",
@@ -2521,19 +2535,6 @@
    "urgent": false,
    "fetched_at": "10-02 16:30",
    "ts": 1790929800
-  },
-  {
-   "id": "8c4705d01567795712e2da1598c317df",
-   "title": "Samsung updates SmartThings app with redesigned Home tab",
-   "summary": "Samsung is doing a major overhaul of its SmartThings app with version 1.8.51.30. This update redesigns the Home tab and updates the Devices tab. This version al",
-   "link": "https://www.gsmarena.com/samsung_updates_smartthings_app_with_redesigned_home_tab-news-74858.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 16:21",
-   "ts": 1790929262
   },
   {
    "id": "9687caf462469744c49c6c2ca71fafaa",
