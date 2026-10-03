@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 11:43",
+ "updated_at": "2026-10-03 12:08",
  "total": 281,
  "channels": [
   "AI·科技",
@@ -14,6 +14,45 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "81070b21aafb597ad44325130a01a468",
+   "title": "“电动牧马人”Jeep Recon 搭载 94 度电池，外媒实测续航却不到 260 公里",
+   "summary": "IT之家 10 月 3 日消息，当地时间 2 日，据外媒 electrek 报道，以可拆卸车门，综合功率 670 马力为卖点的 Jeep Recon 纯电 SUV，实际能效表现却低于宣传水平。Jeep 今年夏天推出 Recon，起售价 66,995 美元（IT之家注：现汇率约合 45 万元人民币）。按照 Jeep 的说",
+   "link": "https://www.ithome.com/1/009/426.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 12:01",
+   "ts": 1791000065
+  },
+  {
+   "id": "9e221d6b24390a6f56f77133be5c53ad",
+   "title": "极哲 ZIP PRO 三折叠便携投影仪首销：586g 重、1080P 60Hz，2999 元",
+   "summary": "IT之家 10 月 3 日消息，极哲 ZIP PRO 三折叠便携投影仪今日开售，售价 2999 元。这款产品重 586g，折叠后厚度 44mm；采用三折叠结构设计，展开自带支架，无需额外支架即可使用，可投射 60-120 英寸画面，支持正投、竖投、吊投、背投等。这款产品支持 1080P 60Hz，色域覆盖 85% NT",
+   "link": "https://www.ithome.com/1/009/425.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 11:57",
+   "ts": 1790999870
+  },
+  {
+   "id": "87c5cc783572492f4e5556dbd20ddef3",
+   "title": "荣耀关海涛回应 Magic9 系列手机为何不多备货：贫穷限制了我们想象",
+   "summary": "IT之家 10 月 3 日消息，荣耀全球首席营销官关海涛于 10 月 1 日宣布，受版本缺货等因素，M9（Magic9）系列发布后第 3 天激活较上代增长 70% 多。IT之家注意到，评论区有网友提问：“为啥不提前多备点货呀，是不知道销量会这么好嘛？”关海涛则幽默回应“贫穷限制了我们想象”。荣耀手机此前宣布，荣耀 Ma",
+   "link": "https://www.ithome.com/1/009/424.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 11:48",
+   "ts": 1790999286
+  },
   {
    "id": "144407b86848e37301a106274a4bb041",
    "title": "微软 Win11 26H1 放大镜支持输入精准百分比，新增多种预设缩放级别",
@@ -158,58 +197,6 @@
    "ts": 1790996456
   },
   {
-   "id": "979e66a6213ddac46f8ab5733aea8e33",
-   "title": "传台积电探索与埃隆 · 马斯克旗下 Terafab 合作事宜",
-   "summary": "IT之家 10 月 3 日消息，科技媒体人 Tim Culpan（高鸣璨）今日爆料称，台积电 (TSMC) 正在探索与 Elon Musk（埃隆 · 马斯克）旗下 Terafab 晶圆厂的合作事宜。IT之家注意到，Terafab 此前已与 Intel（英特尔）达成合作；近来有风声传出台积电考虑在美国设立第二园区，Ter",
-   "link": "https://www.ithome.com/1/009/413.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 10:55",
-   "ts": 1790996108
-  },
-  {
-   "id": "617f22f0ae05cbb50e3c8a85b6ea844f",
-   "title": "上涨 35%：三星 Galaxy A 系列最便宜手机 A17 涨至 270 美元",
-   "summary": "IT之家 10 月 3 日消息，三星中国官网昨日（10 月 2 日）上调 Galaxy S26 系列手机售价后，也同步上调了 Galaxy A57 手机售价，起售价从 3,299 元上调到 3,799 元。配置版本此前价格调整后价格涨价金额涨幅比例8GB + 256GB3,299 元3,799 元500 元15.2%1",
-   "link": "https://www.ithome.com/1/009/412.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 10:54",
-   "ts": 1790996078
-  },
-  {
-   "id": "2d29339d890d02e3b05dd7cbd5d3e0d3",
-   "title": "《使命召唤：现代战争 4》将启用新技术，从源头严打透视挂",
-   "summary": "IT之家 10 月 3 日消息，当地时间 2 日，动视旗下 RICOCHET 反作弊团队公布了一项将在《使命召唤：现代战争 4》中启用的新技术，目标直指透视挂。透视挂之所以能让作弊者隔墙看到敌人，是因为多人游戏服务器会把玩家的位置数据发送到游戏客户端。作弊软件可以读取这些数据，因此即使对手隔着墙体等场景物体，作弊者也能",
-   "link": "https://www.ithome.com/1/009/411.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 10:54",
-   "ts": 1790996057
-  },
-  {
-   "id": "412ebaeb5bbb238aef569e68986e7264",
-   "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
-   "summary": "",
-   "link": "https://www.qbitai.com/2026/10/500148.html",
-   "source": "量子位",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-03 10:38",
-   "ts": 1790995099
-  },
-  {
    "id": "c6086a3266959c88c3ddf6e2afe03d03",
    "title": "Love and Deepspace Devs Issue Warning to Players After Deadly Drink Recipes Go Viral",
    "summary": "The official social media account for the popular RPG-dating sim Love and Deepspace issued a warning to players after announcing some fictional cocktails with p",
@@ -251,7 +238,7 @@
   {
    "id": "a8a103a5c415df52b05d67dfa2606d26",
    "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-   "summary": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 21\n# Comm",
+   "summary": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 24\n# Comm",
    "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -290,7 +277,7 @@
   {
    "id": "191bd1c28b2d6d360ae0a2ed679bf01f",
    "title": "Newgrounds.com – A community of games, music, and art",
-   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 53\n# Comments: 5",
+   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 75\n# Comments: 15",
    "link": "https://www.newgrounds.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -355,7 +342,7 @@
   {
    "id": "eee1a4dc184033604a268feb7c4d4a69",
    "title": "Where Is the Planet",
-   "summary": "Article URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 12\n# Comments: 0",
+   "summary": "Article URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 16\n# Comments: 0",
    "link": "http://whereistheplanet.com",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -368,7 +355,7 @@
   {
    "id": "9f28acfc82367b8cd3b7290bc672e21b",
    "title": "Things that apparently cause cancer",
-   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 110\n#",
+   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 123\n#",
    "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -992,7 +979,7 @@
   {
    "id": "6fa792b2ddd2b7c1f1679e0c4f3d6049",
    "title": "Every SaaS business will become a harness around a model",
-   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 113\n# Comments: 83",
+   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 117\n# Comments: 85",
    "link": "https://blog.sshh.io/p/the-harness-is-the-company",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1291,7 +1278,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 141\n# Comments: 83",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 147\n# Comments: 88",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1330,7 +1317,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 150\n# Comments: 69",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 155\n# Comments: 73",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1408,7 +1395,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 343\n# Comments: 224",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 350\n# Comments: 225",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1629,7 +1616,7 @@
   {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 173\n# Comments: 43",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 182\n# Comments: 45",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1677,6 +1664,19 @@
    "urgent": false,
    "fetched_at": "10-03 01:49",
    "ts": 1790963399
+  },
+  {
+   "id": "93e322c483dd9a7cf4e53196f428d46d",
+   "title": "There's a New Sea Spider in Town",
+   "summary": "Article URL: https://nautil.us/theres-a-new-sea-spider-in-town-1285470\nComments URL: https://news.ycombinator.com/item?id=49936398\nPoints: 5\n# Comments: 0",
+   "link": "https://nautil.us/theres-a-new-sea-spider-in-town-1285470",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 01:48",
+   "ts": 1790963334
   },
   {
    "id": "9ba49039f7a5e2563a403a5de669f200",
@@ -2032,7 +2032,7 @@
   {
    "id": "077fdf42fb97a882004a771ef6ef80bf",
    "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 128\n# Comments: 99",
+   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 129\n# Comments: 101",
    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2158,19 +2158,6 @@
    "urgent": false,
    "fetched_at": "10-02 22:25",
    "ts": 1790951100
-  },
-  {
-   "id": "deadc6e12be46fdc133a8b818e8ee069",
-   "title": "The Forgetful CPU (Linux on M4)",
-   "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 139\n# Comments: 63",
-   "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:22",
-   "ts": 1790950932
   },
   {
    "id": "d7611b0ada88b80c341beba5eecd6baf",
@@ -2613,6 +2600,19 @@
    "urgent": false,
    "fetched_at": "10-02 14:13",
    "ts": 1790921629
+  },
+  {
+   "id": "442198b5fecee2ba58bf25ae268263c5",
+   "title": "你的下一台「泡面盖」，何必是塑料的？",
+   "summary": "铝合金 Kindle 来了！压泡面更稳#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "link": "https://www.ifanr.com/1682870?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 14:10",
+   "ts": 1790921400
   }
  ]
 }
