@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03 14:51",
- "total": 269,
+ "updated_at": "2026-10-03 15:10",
+ "total": 281,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,9 +10,62 @@
   "数码",
   "汽车",
   "游戏",
+  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "689266fdad22e3a6673b76e19fff0eaa",
+   "title": "Bahrain GP in Malaysia: Mercedes, Red Bull set for big qualifying battle LIVE!",
+   "summary": "",
+   "link": "https://www.skysports.com/f1/live-blog/12040/13594552/f1-bahrain-gp-in-malaysia-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-in-sepang",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:57",
+   "ts": 1791014220
+  },
+  {
+   "id": "f701fcf7e3baa990e17f7c8e0e8640fd",
+   "title": "高德回应“店铺未开业先收差评”：可通过平台提交投诉举报，将持续完善评论机制",
+   "summary": "IT之家 10 月 3 日消息，10 月 2 日，汽车博主 @韩路 在微博上发文称，美团高德大众点评可随意造假评论。韩路表示，他的饭馆 10 月 2 日 17 点才试营业，连店还没开门，但在美团、高德、大众点评就上冒出一堆造假抹黑已经吃过了的差评点评。韩路写道：“实体经济本来就不好弄，平台为了评论热闹，把真实点评的门槛",
+   "link": "https://www.ithome.com/1/009/474.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:06",
+   "ts": 1791011179
+  },
+  {
+   "id": "d04fc7f47e87f0412282f375923ecef6",
+   "title": "爱彼迎 Airbnb 民宿房东利用 AI 图片勒索房客要求其支付维修费，后者利用水印检测器成功识破",
+   "summary": "综合外媒 PC Gamer 报道，近期一名用户 FurinaDeFontaine 在 Reddit 平台发文，称自己使用爱彼迎 Airbnb 订民宿退房后，房主用 AI 生成了一张所谓的“马桶漏水”照片，试图向其勒索 1,700 美元（IT之家注：现汇率约合 11,414 元人民币）“维修费”。据 FurinaDeFo",
+   "link": "https://www.ithome.com/1/009/473.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:05",
+   "ts": 1791011108
+  },
+  {
+   "id": "d0fd02bc725de406b10ebdf64e7d6183",
+   "title": "AI 视频榜全球第二，藏着一家新影视公司的野心",
+   "summary": "一家影视公司，杀进了视频模型的决赛圈#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "link": "https://www.ifanr.com/1682888?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:00",
+   "ts": 1791010820
+  },
   {
    "id": "78fea6ed7760ad7f2f4e83ecf5416038",
    "title": "AJ returns to trainer who is branded a 'traitor' by Fury",
@@ -25,6 +78,32 @@
    "urgent": false,
    "fetched_at": "10-03 15:00",
    "ts": 1791010800
+  },
+  {
+   "id": "010635d9273e10ea197e744db0f20f63",
+   "title": "NACON 推出 PS5 授权手柄 Revolution 5 Unlimited，配备 TMR 摇杆与控制屏",
+   "summary": "IT之家 10 月 3 日消息，法国游戏发行与外设企业 NACON 近日宣布推出获得 Sony（索尼）PlayStation 5 授权的 Revolution 5 Unlimited (R5U) 手柄控制器。这一产品定价 199.99 美元（IT之家注：现汇率约合 1,343 元人民币）。NACON R5U 采用非对称",
+   "link": "https://www.ithome.com/1/009/460.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 14:57",
+   "ts": 1791010642
+  },
+  {
+   "id": "605c0ddcee057579d6a72afa67031291",
+   "title": "2027 款标致 208 纯电汽车首曝：五门掀背车身，矩形 Hypersquare 方向盘",
+   "summary": "IT之家 10 月 3 日消息，汽车媒体 CarScoops 昨日（10 月 2 日）发布博文，分享了一组在西班牙抓拍的路测图，首次曝光展示了正在测试的 2027 款标致 208 车型，上市后预估和雷诺 5 E-Tech、大众 ID.Polo 等车型展开竞争。新车将基于 Stellantis 全新 STLA One 架",
+   "link": "https://www.ithome.com/1/009/459.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 14:51",
+   "ts": 1791010296
   },
   {
    "id": "95da2cd908ac8be68366b8c379b103f4",
@@ -144,32 +223,6 @@
    "ts": 1791009251
   },
   {
-   "id": "0074f00e930ca76d153a56d69bcae9d7",
-   "title": "GOG 喜加一：Roguelike 铁路经营模拟游戏《Bounty Train》免费领",
-   "summary": "IT之家 10 月 3 日消息，GOG 平台现已开启新一轮限时免费“喜加一”活动，玩家可以在北京时间 2026 年 10 月 5 日 21:00 前免费领取 Roguelike 铁路经营模拟游戏《Bounty Train（赏金列车）》，本作提供简体中文界面 / 字幕。IT之家附领取地址（https://www.gog.",
-   "link": "https://www.ithome.com/1/009/448.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 14:34",
-   "ts": 1791009251
-  },
-  {
-   "id": "dc1ec61b817502cab0802f258aa25567",
-   "title": "宝马入门车型确认“来电”，新世代 i1 将于 2028 年问世",
-   "summary": "IT之家 10 月 3 日消息，当地时间 9 月 30 日，据外媒 BMW Blog 报道，宝马传闻已久的入门级电动汽车终于得以确认。新车预计命名为宝马 i1，将于 2028 年面向欧洲推出，并成为宝马价格最低的新世代车型。据知情人士透露，新车内部代号“NB0”，将采用五门掀背车造型。宝马预计会以 i1 的名称推出新车",
-   "link": "https://www.ithome.com/1/009/447.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 14:31",
-   "ts": 1791009073
-  },
-  {
    "id": "e25d0908962aa33c5d8f82bbae5d7d57",
    "title": "Huawei Mate 90 Pro Max runs Geekbench, revealing Kirin 9050 Pro performance",
    "summary": "Huawei launched four new Mate 90 series phones in China yesterday and the more capable Pro Max and RS models feature the brand’s latest Kirin 9050 Pro chipset. ",
@@ -181,32 +234,6 @@
    "urgent": false,
    "fetched_at": "10-03 14:31",
    "ts": 1791009062
-  },
-  {
-   "id": "605a226af768a1966a10c6f501e46da5",
-   "title": "HPE 获得其首笔 AMD \"Helios\" AI 机架订单，价值 12 亿美元",
-   "summary": "IT之家 10 月 3 日消息，HPE（慧与）当地时间 9 月 30 日宣布获得该企业首笔 AMD \"Helios\" AI 机架系统订单。这笔价值 12 亿美元（IT之家注：现汇率约合 80.57 亿元人民币）的订单由私有云基础设施企业 Vultr 下达。Vultr 是 Juniper Networks（瞻博网络）的合",
-   "link": "https://www.ithome.com/1/009/446.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 14:23",
-   "ts": 1791008629
-  },
-  {
-   "id": "09a27fe9b10289c8edef888865ac19a1",
-   "title": "佳能 EOS R7 V 曝光：专用视频 APS-C 画幅相机，预估 2027 年底发布",
-   "summary": "IT之家 10 月 3 日消息，科技媒体 dailycameranews 昨日（10 月 2 日）发布博文，报道称佳能拟将旗舰 APS-C 产品线拆分为照片与视频两条路线，其中专用视频机型 EOS R7 V 预计于 2027 年底或 2028 年初发布。IT之家援引博文介绍，佳能计划将旗舰 APS-C 无反产品线细分为",
-   "link": "https://www.ithome.com/1/009/445.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 14:23",
-   "ts": 1791008583
   },
   {
    "id": "9eaa0083d3e19ea27974c9487ef7a4df",
@@ -246,32 +273,6 @@
    "urgent": false,
    "fetched_at": "10-03 13:06",
    "ts": 1791003976
-  },
-  {
-   "id": "689266fdad22e3a6673b76e19fff0eaa",
-   "title": "Bahrain GP in Malaysia: Antonelli fastest in final practice LIVE!",
-   "summary": "",
-   "link": "https://www.skysports.com/f1/live-blog/12040/13594552/f1-bahrain-gp-in-malaysia-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-in-sepang",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 13:05",
-   "ts": 1791003900
-  },
-  {
-   "id": "eec9f70090370bef588c6b9f57a482b6",
-   "title": "An Update on Orion for Linux and Windows",
-   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 11\n# Comments: 3",
-   "link": "https://blog.kagi.com/update-orion-linux-windows",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 12:53",
-   "ts": 1791003237
   },
   {
    "id": "1ed152348f461653d10bf75705236e27",
@@ -328,7 +329,7 @@
   {
    "id": "61c2fcf1db281fa8da97648647f3047e",
    "title": "Extra Big Ass Intelligence",
-   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 117\n# Comments: 26",
+   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 132\n# Comments: 29",
    "link": "https://www.extrabigassintelligence.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -341,7 +342,7 @@
   {
    "id": "e153fef4c61f951b0d4a131dbe6cbf99",
    "title": "Cloudflare OHTTP gateway",
-   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 48\n# Comments:",
+   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 51\n# Comments:",
    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -445,7 +446,7 @@
   {
    "id": "191bd1c28b2d6d360ae0a2ed679bf01f",
    "title": "Newgrounds.com – A community of games, music, and art",
-   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 154\n# Comments: 41",
+   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 163\n# Comments: 44",
    "link": "https://www.newgrounds.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -523,7 +524,7 @@
   {
    "id": "9f28acfc82367b8cd3b7290bc672e21b",
    "title": "Things that apparently cause cancer",
-   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 168\n#",
+   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 171\n#",
    "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1186,7 +1187,7 @@
   {
    "id": "7e28dfddaf0aed2d57d27c663f3ab25a",
    "title": "Barcodes are about to go extinct",
-   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 7\n# Comment",
+   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 11\n# Commen",
    "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1381,7 +1382,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 174\n# Comments: 115",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 177\n# Comments: 117",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1420,7 +1421,7 @@
   {
    "id": "1e6b53073bc57a4ec4b78690a8144d2b",
    "title": "Make Tmux the OS",
-   "summary": "Article URL: https://matduggan.com/what-does-my-dream-os-ui-look-like/\nComments URL: https://news.ycombinator.com/item?id=49937540\nPoints: 18\n# Comments: 4",
+   "summary": "Article URL: https://matduggan.com/what-does-my-dream-os-ui-look-like/\nComments URL: https://news.ycombinator.com/item?id=49937540\nPoints: 26\n# Comments: 10",
    "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1433,7 +1434,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 176\n# Comments: 79",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 181\n# Comments: 79",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1511,7 +1512,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 389\n# Comments: 239",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 395\n# Comments: 242",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1520,6 +1521,19 @@
    "urgent": false,
    "fetched_at": "10-03 03:06",
    "ts": 1790968016
+  },
+  {
+   "id": "b81aa1a9d9c293e210822b73d0e28433",
+   "title": "The Nintendo 64 Partner-N64 Development Kit",
+   "summary": "Article URL: https://www.behindthecode.ca/partner-n64pc-dev-kit/\nComments URL: https://news.ycombinator.com/item?id=49937146\nPoints: 20\n# Comments: 1",
+   "link": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:53",
+   "ts": 1790967214
   },
   {
    "id": "6da037b2aec6a6206b2d0ad04253f7f2",
@@ -2599,19 +2613,6 @@
    "urgent": true,
    "fetched_at": "10-02 15:34",
    "ts": 1790926455
-  },
-  {
-   "id": "11210fc9ff53d3c73936cac0c18b6133",
-   "title": "丘成桐新论文致谢了GPT和Claude",
-   "summary": "44年前被亲自列入问题清单",
-   "link": "https://www.qbitai.com/2026/10/499991.html",
-   "source": "量子位",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-02 15:27",
-   "ts": 1790926023
   }
  ]
 }
