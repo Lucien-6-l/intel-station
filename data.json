@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 13:03",
+ "updated_at": "2026-10-03 13:44",
  "total": 281,
  "channels": [
   "AI·科技",
@@ -28,8 +28,60 @@
    "ts": 1791007200
   },
   {
+   "id": "9c800705152b7562612edbbf9c26b1af",
+   "title": "2026 国庆假期第三天，全国铁路预计发送旅客 1890 万人次、加开列车 910 列",
+   "summary": "IT之家 10 月 3 日消息，据央视新闻，今天（10 月 3 日）是 2026 国庆假期的第三天，全国公路、铁路、民航、水路客流持续高位运行。旅游出行热度居高不下，景区观光、城市漫游、短途度假等出行需求集中释放，交通部门持续增加热门旅游线路运力投放。全国铁路今天预计发送旅客 1890 万人次，预计加开列车 910 列",
+   "link": "https://www.ithome.com/1/009/437.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 13:36",
+   "ts": 1791005781
+  },
+  {
+   "id": "c3a181dac4b3198fbf6a45f4e7c58963",
+   "title": "如何用好 GPT-6 系列 AI 模型？OpenAI 放出指南，教你选模型、优化提示词等",
+   "summary": "IT之家 10 月 3 日消息，OpenAI 昨日（10 月 2 日）发布博文，分享了 GPT‑6 系列模型指南，介绍了诸多使用技巧，让用户控制时间和成本的同时，充分发挥 GPT‑6 系列 AI 模型能力。官方介绍称：GPT‑6 是我们迄今最先进的模型系列，提供多款模型供你选择，以适应不同类型的工作。无论你是将想法转化",
+   "link": "https://www.ithome.com/1/009/436.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 13:33",
+   "ts": 1791005605
+  },
+  {
+   "id": "07e5359ca53a6f744ad0525f81abebf9",
+   "title": "重塑智能眼镜光学方案：TDK 展示全球首款超构光学镜 DRP 显示屏",
+   "summary": "IT之家 10 月 3 日消息，日本电子元器件厂商 TDK 昨日（10 月 2 日）发布公告，展示了全球首款采用超构光学镜（Meta-Optic Mirror）的直接视网膜投影（DRP）智能眼镜显示屏。全球智能眼镜出货量预计将快速增长，到 2030 年将达到 8,300 万台。（来源：富士奇美拉研究所《2025 年 X",
+   "link": "https://www.ithome.com/1/009/434.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 13:11",
+   "ts": 1791004264
+  },
+  {
+   "id": "dc75af136df201386830e7af6e3e988c",
+   "title": "'A switch flipped': Valkyries erase 16-point deficit against Wings, advance to WNBA semis to face the Aces",
+   "summary": "This was the first playoff series win for the Valkyries, who just launched as an expansion team in 2025",
+   "link": "https://www.cbssports.com/wnba/news/valkyries-wings-wnba-playoffs-game-3-comeback/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 13:06",
+   "ts": 1791003976
+  },
+  {
    "id": "689266fdad22e3a6673b76e19fff0eaa",
-   "title": "Bahrain GP in Malaysia: Norris currently fastest in final practice LIVE!",
+   "title": "Bahrain GP in Malaysia: Antonelli currently fastest in final practice LIVE!",
    "summary": "",
    "link": "https://www.skysports.com/f1/live-blog/12040/13594552/f1-bahrain-gp-in-malaysia-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-in-sepang",
    "source": "Sky Sports",
@@ -80,6 +132,19 @@
    "ts": 1791003196
   },
   {
+   "id": "1ed152348f461653d10bf75705236e27",
+   "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+   "summary": "又咋啦。。。",
+   "link": "https://www.qbitai.com/2026/10/501368.html",
+   "source": "量子位",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-03 12:41",
+   "ts": 1791002484
+  },
+  {
    "id": "f124f754b12776f9246e9560fbf25862",
    "title": "Pitt emerges as top threat to Miami in ACC as Pat Narduzzi rips AP voters following win over Virginia Tech",
    "summary": "The Panthers stunned Virginia Tech when a reliable Hokies kicker missed a 36-yarder on the final play",
@@ -119,8 +184,8 @@
    "ts": 1791001855
   },
   {
-   "id": "c678d51236cee23831f2a18a0051e740",
-   "title": "曝美国陆军着手组建自主系统司令部，推动机器人进入技术未来战争",
+   "id": "242fb078c37bc6b7a6e91360d1f95123",
+   "title": "曝美国陆军着手组建自主系统司令部，推动机器人技术进入未来战争",
    "summary": "IT之家 10 月 3 日消息，据美媒 Axios 获得的一份备忘录，美国陆军着手组建新的自主系统司令部，同时任命专门负责采购的官员，加快智能装备采购和列装。这些部署由代理陆军部长亚当 · 特尔下达。就在当地时间 1 日，美国国防部长皮特 · 赫格塞思公布了 Meridian 和 Agincourt 两个项目，重点都是",
    "link": "https://www.ithome.com/1/009/427.htm",
    "source": "IT之家",
@@ -184,32 +249,6 @@
    "ts": 1790999286
   },
   {
-   "id": "144407b86848e37301a106274a4bb041",
-   "title": "微软 Win11 26H1 放大镜支持输入精准百分比，新增多种预设缩放级别",
-   "summary": "IT之家 10 月 3 日消息，科技媒体 NeoWin 今天（10 月 2 日）发布博文，报道称在今天发布的 Windows 11 26H1 最新预览版中，微软进一步增强放大镜（Magnifier）体验。微软针对 Windows 11 26H1 系统，在 Beta 频道版 Build 28020.3142 以及 Exp",
-   "link": "https://www.ithome.com/1/009/423.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 11:39",
-   "ts": 1790998796
-  },
-  {
-   "id": "3f0555724fae7b262a762ba32c3bf2f9",
-   "title": "为 MAX 10 认证扫清障碍，FAA 认定波音 737 MAX 客机软件故障无安全隐患",
-   "summary": "IT之家 10 月 3 日消息，据路透社报道，当地时间 2 日，美国联邦航空管理局披露，专家组认定部分波音 737 MAX 客机的飞行计算机的软件故障不存在安全隐患，为 737 MAX 10 获得认证扫清了障碍。据IT之家了解，737 MAX 10 是波音畅销 737 MAX 窄体客机系列中最大的型号。737 MAX ",
-   "link": "https://www.ithome.com/1/009/421.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 11:34",
-   "ts": 1790998494
-  },
-  {
    "id": "ec27b908ccc5fb48af17831c1080dbac",
    "title": "Oppo Find X10 and Find X10 Pro Max leaked European prices are shocking",
    "summary": "Price hikes are the name of the game these days in the mobile world, thanks to memory and storage chips costing many times more than a few years ago because of ",
@@ -223,22 +262,9 @@
    "ts": 1790998262
   },
   {
-   "id": "9aa2c3d67fd8a5c048133753a175f58d",
-   "title": "韩国五大商业银行首次同时被黑客攻击，其中三家发生客户信息泄露",
-   "summary": "IT之家 10 月 3 日消息，据韩联社报道，韩国五大商业银行均遭疑似由人工智能驱动的黑客攻击，其中三家发生客户信息泄露。五大银行同时遇袭，在韩国金融业尚属首次。据韩国金融部门 2 日消息，继新韩银行之后，KB 国民银行和韩亚银行也遭到疑似由 AI 驱动的黑客攻击，造成客户信息泄露。BNK 釜山银行因黑客攻击，导致 1",
-   "link": "https://www.ithome.com/1/009/420.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 11:30",
-   "ts": 1790998227
-  },
-  {
    "id": "61c2fcf1db281fa8da97648647f3047e",
    "title": "Extra Big Ass Intelligence",
-   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 7\n# Comments: 1",
+   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 56\n# Comments: 7",
    "link": "https://www.extrabigassintelligence.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -251,7 +277,7 @@
   {
    "id": "e153fef4c61f951b0d4a131dbe6cbf99",
    "title": "Cloudflare OHTTP gateway",
-   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 12\n# Comments:",
+   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 29\n# Comments:",
    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -329,7 +355,7 @@
   {
    "id": "a8a103a5c415df52b05d67dfa2606d26",
    "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-   "summary": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 29\n# Comm",
+   "summary": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 32\n# Comm",
    "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -368,7 +394,7 @@
   {
    "id": "191bd1c28b2d6d360ae0a2ed679bf01f",
    "title": "Newgrounds.com – A community of games, music, and art",
-   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 95\n# Comments: 23",
+   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 126\n# Comments: 30",
    "link": "https://www.newgrounds.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -433,7 +459,7 @@
   {
    "id": "eee1a4dc184033604a268feb7c4d4a69",
    "title": "Where Is the Planet",
-   "summary": "Article URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 17\n# Comments: 0",
+   "summary": "Article URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 21\n# Comments: 1",
    "link": "http://whereistheplanet.com",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -446,7 +472,7 @@
   {
    "id": "9f28acfc82367b8cd3b7290bc672e21b",
    "title": "Things that apparently cause cancer",
-   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 137\n#",
+   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 152\n#",
    "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -702,19 +728,6 @@
    "urgent": false,
    "fetched_at": "10-03 06:31",
    "ts": 1790980308
-  },
-  {
-   "id": "a72141cd2f3a564e652c78e30f096cb0",
-   "title": "UFC 332 -- Natalia Silva vs. Wang Cong: Fight card, date, odds, location and more for Salt Lake City",
-   "summary": "All the news, information, complete fight card and more for this weekend's festivities in Utah",
-   "link": "https://www.cbssports.com/ufc/news/ufc-332-fight-card-date-odds-natalia-silva-wang-cong/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 06:30",
-   "ts": 1790980255
   },
   {
    "id": "1602325ea73d2432d7d817e458afe78f",
@@ -1029,19 +1042,6 @@
    "ts": 1790975317
   },
   {
-   "id": "6fa792b2ddd2b7c1f1679e0c4f3d6049",
-   "title": "Every SaaS business will become a harness around a model",
-   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 120\n# Comments: 85",
-   "link": "https://blog.sshh.io/p/the-harness-is-the-company",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:06",
-   "ts": 1790975216
-  },
-  {
    "id": "d74aff60047cc46fb360229e55cad41d",
    "title": "Kia sweetens EV deals with up to $10,000 off",
    "summary": "With the new EV3 now arriving at dealerships, Kia is throwing some extra savings into the mix with up to $10,000 off in customer cash on select EVs.\n\n\n\n more…",
@@ -1330,7 +1330,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 156\n# Comments: 95",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 166\n# Comments: 101",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1369,7 +1369,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 163\n# Comments: 76",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 170\n# Comments: 77",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1447,7 +1447,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 368\n# Comments: 229",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 378\n# Comments: 233",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1655,7 +1655,7 @@
   {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 190\n# Comments: 54",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 197\n# Comments: 56",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1703,6 +1703,19 @@
    "urgent": false,
    "fetched_at": "10-03 01:49",
    "ts": 1790963399
+  },
+  {
+   "id": "93e322c483dd9a7cf4e53196f428d46d",
+   "title": "There's a new sea spider in town",
+   "summary": "Article URL: https://nautil.us/theres-a-new-sea-spider-in-town-1285470\nComments URL: https://news.ycombinator.com/item?id=49936398\nPoints: 9\n# Comments: 0",
+   "link": "https://nautil.us/theres-a-new-sea-spider-in-town-1285470",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 01:48",
+   "ts": 1790963334
   },
   {
    "id": "9ba49039f7a5e2563a403a5de669f200",
@@ -2600,19 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-02 14:46",
    "ts": 1790923592
-  },
-  {
-   "id": "883bc0b0167829e035394f8efbb41834",
-   "title": "How to Add shadcn Charts to a Next.js App Without Writing Recharts Boilerplate",
-   "summary": "Charts look like a small task on a ticket. Then you open the Recharts docs and remember how much setup every chart needs: a config object for labels and colors,",
-   "link": "https://www.freecodecamp.org/news/how-to-add-shadcn-ui-charts-to-nextjs/",
-   "source": "freeCodeCamp",
-   "channel": "教程",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 14:13",
-   "ts": 1790921629
   }
  ]
 }
