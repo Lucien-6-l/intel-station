@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03 09:37",
- "total": 282,
+ "updated_at": "2026-10-03 10:02",
+ "total": 270,
  "channels": [
   "AI·科技",
   "体育",
@@ -15,6 +15,58 @@
  ],
  "items": [
   {
+   "id": "002c3a6ee86d815bf768a74608734962",
+   "title": "谷歌 Viewer 登场：定位 Googlebook 首个全能媒体编辑应用",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 Android Authority 昨日（10 月 2 日）发布博文，报道称 Viewer 应用已上架谷歌 Play 应用商店，定位适用于 Googlebook 的综合媒体编辑工具。功能方面，Viewer 应用目前仅适用于 Googlebook，首次启动后会展示欢迎界面，并提供",
+   "link": "https://www.ithome.com/1/009/401.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 10:01",
+   "ts": 1790992916
+  },
+  {
+   "id": "ab638b05c91633ec2dcd6a648688405f",
+   "title": "《真 · 三国无双》系列制作人庄知彦：我不想再亲自操刀复刻旧作了，更想做新作",
+   "summary": "IT之家 10 月 3 日消息，《真 · 三国无双》系列制作人庄知彦坦言，即使《真・三国无双 2 with 猛将传 Remastered》取得成功，并推动更多旧作推出复刻版，自己也不想一直亲自做下去了。庄知彦上世纪 90 年代加入光荣，曾参与《真 · 三国无双》的企划工作。该作首次引入后来成为系列招牌的“一骑当千”式一",
+   "link": "https://www.ithome.com/1/009/400.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 10:01",
+   "ts": 1790992892
+  },
+  {
+   "id": "2455c1b2e2fe8bbea0a3b42ce885405b",
+   "title": "烤串店未开业就被差评，车评人韩路质疑点评平台可随意造假评论",
+   "summary": "IT之家 10 月 3 日消息，10 月 2 日，车评人韩路在微博发文称，自己的“去野烤串”饭馆当天 17 点才开始试营业，然而店没开门，差评却提前来到。韩路表示，该店在美团、高德、大众点评平台收到了一堆造假抹黑“已经吃过了”的差评点评。“实体经济本来就不好弄，平台为了评论热闹，把真实点评的门槛去掉，任何人可随意可以造",
+   "link": "https://www.ithome.com/1/009/399.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 09:48",
+   "ts": 1790992101
+  },
+  {
+   "id": "707d4f52239f2b55f55862fc1814a6bd",
+   "title": "“全球首例”：用户反馈 RTX 4090 FE 显卡三角散热件脱落",
+   "summary": "IT之家 10 月 3 日消息，网友 u/Maker_753 昨日（10 月 2 日）发布博文，反馈称在移动电脑之后，其 RTX 4090 Founders Edition 显卡散热器的一块三角形部件脱落，暴露出热管与焊点。IT之家援引该网友帖子内容，该显卡为 Ada Lovelace 架构旗舰型号，购买时间为 202",
+   "link": "https://www.ithome.com/1/009/398.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 09:47",
+   "ts": 1790992060
+  },
+  {
    "id": "749590a5e25e94f6638a0b3199e9686a",
    "title": "曝索尼重启《捉猴啦》，沉寂 16 年经典游戏 IP 有望回归",
    "summary": "IT之家 10 月 3 日消息，科技媒体 Wccftech 昨日（10 月 2 日）发布博文，报道称索尼可能重启沉寂约 16 年的经典游戏 IP《捉猴啦》（Ape Escape），该项目已进入实际开发阶段。有用户于 10 月 1 日在 ResetEra 论坛上发帖，表示两个独立信源的交叉印证，指出索尼正在重启开发《捉猴",
@@ -26,6 +78,19 @@
    "urgent": false,
    "fetched_at": "10-03 09:35",
    "ts": 1790991319
+  },
+  {
+   "id": "af386bf0e96bc10be9f42c3fd088030c",
+   "title": "Capcom Announces Plans to Transform the RE Engine Into an AI-Generation Game Engine — ‘Our Goal Is a Future Where We Create Games Together With AI’",
+   "summary": "Resident Evil and Street Fighter developer Capcom revealed some big changes coming to its RE Engine, which they plan to gradually improve and transform into an ",
+   "link": "https://www.ign.com/articles/capcom-announces-plans-to-transform-the-re-engine-into-an-ai-generation-game-engine-our-goal-is-a-future-where-we-create-games-together-with-ai",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 09:33",
+   "ts": 1790991219
   },
   {
    "id": "d6d145e1959a16f687e9f10aad7781af",
@@ -171,17 +236,17 @@
    "ts": 1790988339
   },
   {
-   "id": "d202fca5f19c8f71c2897e9900c48375",
-   "title": "特朗普提出将“AI”改称“SI”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%",
-   "summary": "IT之家 10 月 3 日消息，据英国 BBC 当地时间 1 日报道，斯洛文尼亚国家域名注册机构 Register.si 称，美国总统唐纳德 · 特朗普推动将人工智能（AI）改称“超级智能（SI）”，或是带动该国域名注册量“前所未有”地激增的原因。特朗普希望用“超级智能”的缩写 SI 取代 AI，而斯洛文尼亚的域名后缀",
-   "link": "https://www.ithome.com/1/009/389.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
+   "id": "7504b14f37285aeeabbeb233e7edef2f",
+   "title": "Week 4 NFL odds, picks, predictions: Computer model backs Giants and Seahawks",
+   "summary": "SportsLine's advanced model has simulated every game in the Week 4 NFL schedule 10,000 times and locked in its NFL best bets today",
+   "link": "https://www.cbssports.com/betting/news/week-4-2026-nfl-odds-lines-spreads-picks-predictions-today/",
+   "source": "CBS Sports",
+   "channel": "体育",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-03 08:32",
-   "ts": 1790987550
+   "fetched_at": "10-03 08:31",
+   "ts": 1790987482
   },
   {
    "id": "a686f42dbc507083c610f763be860ee0",
@@ -197,19 +262,6 @@
    "ts": 1790987448
   },
   {
-   "id": "1bfc95b5a625ec7149c4a624b1bbab88",
-   "title": "告别冗长路径：微软 Win11 用“~”简化 AppData 等目录访问",
-   "summary": "IT之家 10 月 3 日消息，科技媒体 NeoWin 昨日（10 月 2 日）发布博文，报道称在 Windows 11 Build 26340.9596 预览版中，微软为文件管理器新增“~”（波浪号）快捷路径支持。用户输入“~”即可直达个人账号文件夹，例如输入“~\\AppData”等路径可直接访问其子目录，无需键入“",
-   "link": "https://www.ithome.com/1/009/388.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 08:30",
-   "ts": 1790987431
-  },
-  {
    "id": "a379dc6d04bbcb02f737560f94e530d4",
    "title": "College football odds, picks, predictions for Week 5, 2026: Computer likes Navy, Missouri",
    "summary": "SportsLine's model has revealed its 2026 Week 5 college football picks for Ohio State vs. Iowa, Alabama vs. Mississippi State and every other game",
@@ -221,45 +273,6 @@
    "urgent": false,
    "fetched_at": "10-03 08:27",
    "ts": 1790987249
-  },
-  {
-   "id": "eee1a4dc184033604a268feb7c4d4a69",
-   "title": "Where Is the Planet",
-   "summary": "Article URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 5\n# Comments: 0",
-   "link": "http://whereistheplanet.com",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 08:26",
-   "ts": 1790987179
-  },
-  {
-   "id": "9f28acfc82367b8cd3b7290bc672e21b",
-   "title": "Things That Apparently Cause Cancer",
-   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 11\n# ",
-   "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 08:23",
-   "ts": 1790986991
-  },
-  {
-   "id": "b17b70538edc08d508d9101eef1bbf3f",
-   "title": "微软官方 X 账号被劫持约 30 分钟，攻击者借“点赞 50 万回归 Clippy”炒作加密代币",
-   "summary": "IT之家 10 月 3 日消息，科技媒体 Windows Latest 今天（10 月 3 日）发布博文，报道称微软官方 X 账号（@microsoft，拥有超过 1,307.4 万粉丝）被盗用，曾发布推文称：“点赞达到 50 万，我们就让 Clippy 回归”。微软发言人布伦特 · 科尔伯恩表示：我们已确认有人未经授",
-   "link": "https://www.ithome.com/1/009/387.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 08:22",
-   "ts": 1790986968
   },
   {
    "id": "641b2085e6abe2527cb3db18cdab4aca",
@@ -299,19 +312,6 @@
    "urgent": false,
    "fetched_at": "10-03 08:15",
    "ts": 1790986559
-  },
-  {
-   "id": "d07b4d358d2226e0d97596bc2e00af3d",
-   "title": "微软 CEO 纳德拉重申 Copilot AI 定位：面向工作的新操作系统",
-   "summary": "IT之家 10 月 3 日消息，科技媒体 Windows Latest 今天（10 月 3 日）发布博文，报道称微软首席执行官萨蒂亚 · 纳德拉（Satya Nadella）再次将 Copilot 称为“面向工作的新操作系统”，而该应用实质上是 Windows 11 上的一款部分基于 Chromium 内核的网页应用。",
-   "link": "https://www.ithome.com/1/009/386.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 08:10",
-   "ts": 1790986219
   },
   {
    "id": "658f68fae9218358dd04cc1c7a39c7a2",
@@ -691,19 +691,6 @@
    "ts": 1790978833
   },
   {
-   "id": "188a10d93a52fe0ef52269dbdb258ac5",
-   "title": "Penn State vs. Northwestern prediction, odds: Week 5 college football Friday picks as new Ryan Field opens",
-   "summary": "The SportsLine Projection Model has revealed its best bets for the Friday matchup between the Penn State Nittany Lions and Northwestern Wildcats as new Ryan Fie",
-   "link": "https://www.cbssports.com/betting/news/penn-state-northwestern-prediction-odds-line-start-time-week-5-college-football-friday-picks-ryan-field-opening/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:55",
-   "ts": 1790978129
-  },
-  {
    "id": "eff6b2f1734dd31ec369818a997e3d6b",
    "title": "Wade: Gian was 'pretty poor' – 'I bashed him up!'",
    "summary": "James Wade felt Gian van Veen was &#8216;pretty poor&#8217; in their World Grand Prix Darts quarter-final, so he &#8216;bashed him up&#8217;!",
@@ -793,19 +780,6 @@
    "urgent": false,
    "fetched_at": "10-03 05:26",
    "ts": 1790976360
-  },
-  {
-   "id": "ed92f170bb8e0d0a2aafcc4eb43c0e7d",
-   "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-   "summary": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 19\n# Comments: 3",
-   "link": "https://allenai.org/blog/astabrief",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:25",
-   "ts": 1790976325
   },
   {
    "id": "342aa00964b7fa4c1bfdffbdcb4772f9",
@@ -912,19 +886,6 @@
    "ts": 1790975317
   },
   {
-   "id": "6fa792b2ddd2b7c1f1679e0c4f3d6049",
-   "title": "Every SaaS business will become a harness around a model",
-   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 90\n# Comments: 68",
-   "link": "https://blog.sshh.io/p/the-harness-is-the-company",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:06",
-   "ts": 1790975216
-  },
-  {
    "id": "d74aff60047cc46fb360229e55cad41d",
    "title": "Kia sweetens EV deals with up to $10,000 off",
    "summary": "With the new EV3 now arriving at dealerships, Kia is throwing some extra savings into the mix with up to $10,000 off in customer cash on select EVs.\n\n\n\n more…",
@@ -1014,19 +975,6 @@
    "urgent": false,
    "fetched_at": "10-03 04:59",
    "ts": 1790974747
-  },
-  {
-   "id": "0419d34b7ab29cdaac75720215ed2d2c",
-   "title": "Zig v0.17.0",
-   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 207\n# Comments: 129",
-   "link": "https://ziglang.org/download/0.17.0/release-notes.html",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:56",
-   "ts": 1790974596
   },
   {
    "id": "4f7f9da0058ac3d60d635cb653f1bc78",
@@ -1172,19 +1120,6 @@
    "ts": 1790971220
   },
   {
-   "id": "539ccb39416b83a79869f18f5aad31c9",
-   "title": "Show HN: Made an open-source Lego AI generator",
-   "summary": "Hi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw lang",
-   "link": "https://github.com/anteloc/ldraw-nova",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:00",
-   "ts": 1790971215
-  },
-  {
    "id": "d4e0cb2f95a36bf60b01146a41bd51ae",
    "title": "9to5Mac Overtime 084: iPhone 18 Pro – a fantastic pro camera experience",
    "summary": "Jeff and Fernando share their excitement about the iPhone 18 Pro’s camera capabilities and explore whether it could truly replace a mirrorless camera for both p",
@@ -1237,19 +1172,6 @@
    "ts": 1790970212
   },
   {
-   "id": "6df229ab077974bda8e6a25590201122",
-   "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 118\n# Comments: 69",
-   "link": "https://developer.apple.com/news/?id=p6zjojqw",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:37",
-   "ts": 1790969821
-  },
-  {
    "id": "d612b8a109c87de109994cf242eaf209",
    "title": "Jeep’s off-road electric SUV managed just 160 miles in a real-world highway range test",
    "summary": "The Jeep Recon EV has removable doors and packs 670 horsepower combined, but it’s less efficient than advertised.\n\n\n\n more…",
@@ -1274,19 +1196,6 @@
    "urgent": false,
    "fetched_at": "10-03 03:30",
    "ts": 1790969400
-  },
-  {
-   "id": "f9225cd3697c492ad79aca2e8f672df7",
-   "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 125\n# Comments: 65",
-   "link": "https://gadgets.muse.ai",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:26",
-   "ts": 1790969214
   },
   {
    "id": "83a5724b81e26a02785d7e8599b3ee5e",
@@ -1352,19 +1261,6 @@
    "urgent": false,
    "fetched_at": "10-03 03:14",
    "ts": 1790968487
-  },
-  {
-   "id": "e4cba515498e6627e20d7c244c3c1c32",
-   "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 313\n# Comments: 212",
-   "link": "https://developer.apple.com/pass-designer/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:06",
-   "ts": 1790968016
   },
   {
    "id": "6da037b2aec6a6206b2d0ad04253f7f2",
@@ -1588,38 +1484,12 @@
    "ts": 1790964629
   },
   {
-   "id": "c4403da706604980eef315f527b9cd6e",
-   "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 146\n# Comments: 39",
-   "link": "https://dwarfstar.sh/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:01",
-   "ts": 1790964076
-  },
-  {
    "id": "dc3d703729f5de65a3421fa0694dd72d",
    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
    "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachabl",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1004096/openai-chatgpt-dots-hands-on-agent",
    "source": "The Verge",
    "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:00",
-   "ts": 1790964000
-  },
-  {
-   "id": "c42108e2f3f751cf81e5a4a0738151e5",
-   "title": "Pokémon TCG’s Final 2026 Set Is Already Causing Even More Preorder Chaos",
-   "summary": "Find out where to preorder Pokémon TCG: Mega Evolution—Delta Reign at MSRP in the US and UK before Elite Trainer Boxes and Booster Displays sell out.",
-   "link": "https://www.ign.com/articles/pokemon-tcg-delta-reign-where-to-buy",
-   "source": "IGN",
-   "channel": "游戏",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
@@ -2004,19 +1874,6 @@
    "ts": 1790955080
   },
   {
-   "id": "077fdf42fb97a882004a771ef6ef80bf",
-   "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 108\n# Comments: 82",
-   "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:29",
-   "ts": 1790954955
-  },
-  {
    "id": "af7b0ca621157e61766647a9502e9161",
    "title": "Learn Modern Kotlin",
    "summary": "We just published a comprehensive, free Kotlin course on the freeCodeCamp.org YouTube channel. Whether you're targeting Android development, scalable backend se",
@@ -2132,19 +1989,6 @@
    "urgent": false,
    "fetched_at": "10-02 22:25",
    "ts": 1790951100
-  },
-  {
-   "id": "deadc6e12be46fdc133a8b818e8ee069",
-   "title": "The Forgetful CPU (Linux on M4)",
-   "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 94\n# Comments: 21",
-   "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:22",
-   "ts": 1790950932
   },
   {
    "id": "d7611b0ada88b80c341beba5eecd6baf",
@@ -2613,6 +2457,162 @@
    "urgent": false,
    "fetched_at": "10-02 14:10",
    "ts": 1790921400
+  },
+  {
+   "id": "f06db90cad0a2f8eafb9a03248adf238",
+   "title": "和 Opus 5.5 同题交卷，MiniMax M3.1 让 Flash 开始超纲了",
+   "summary": "从智能的高度，到使用的广度#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "link": "https://www.ifanr.com/1682850?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 14:01",
+   "ts": 1790920885
+  },
+  {
+   "id": "3c298581067fe302b86eb82038137398",
+   "title": "一瓶酒，两种价格—— 茅台的溢价、终局与回报",
+   "summary": "",
+   "link": "http://xueqiu.com/1835829265/411134956",
+   "source": "雪球",
+   "channel": "财经",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 12:50",
+   "ts": 1790916653
+  },
+  {
+   "id": "e9d8066701d17082acb48fdef3cf0f73",
+   "title": "大摩最新FCC纪要：指向的不是光模块，而是光芯片",
+   "summary": "",
+   "link": "http://xueqiu.com/6213467037/411187166",
+   "source": "雪球",
+   "channel": "财经",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 12:50",
+   "ts": 1790916643
+  },
+  {
+   "id": "b9500694068fdd0bbf9d4256c672fb56",
+   "title": "一年后的中性场景：仅依沃西就可以支撑3000亿+港元市值的康方",
+   "summary": "",
+   "link": "http://xueqiu.com/1781588375/411169265",
+   "source": "雪球",
+   "channel": "财经",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 12:50",
+   "ts": 1790916633
+  },
+  {
+   "id": "17ab15a3710cb5494419e2affd207462",
+   "title": "为什么坚定看好铜？复盘加息周期对铜价影响及铜企护城河",
+   "summary": "",
+   "link": "http://xueqiu.com/1641200866/411157003",
+   "source": "雪球",
+   "channel": "财经",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 12:50",
+   "ts": 1790916623
+  },
+  {
+   "id": "afab8b61846c98ac0186e691fa2194f0",
+   "title": "红海危局背后：破碎的也门与强势的胡塞，从何而来？",
+   "summary": "红海航道再起波澜。9月以来，胡塞武装发动大规模军事攻势，迅速占据曼德海峡周边多个战略要地，全球能源与航运市场随之剧烈震荡。也门这一轮冲突升级，究竟因何爆发？也门局势未来又可能会走向何方？本期节目，中东研究专家朱泉钢将为大家介绍当前也门内战和胡塞武装-沙特冲突的来龙去脉与最新变化，分析域外各利益相关方在此次冲突中的选择及",
+   "link": "https://www.gcores.com/radios/220465",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 10:00",
+   "ts": 1790906400
+  },
+  {
+   "id": "71c97223c841949a8523a184d47a8080",
+   "title": "Location, location, location: how to edit genes only in the cells you want",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03037-8Gene-editing CRISPR enzymes controlled by light and sound target tissues of interest.",
+   "link": "https://www.nature.com/articles/d41586-026-03037-8",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "教程",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
+  },
+  {
+   "id": "ba5fe6e01564f6297874448c9b77e425",
+   "title": "‘Learning about physics changed my life’: author Hernan Diaz on his new novel <i>Ply</i>",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03057-4The Pulitzer-Prize-winning author joins us to talk about his time visiting CERN and com",
+   "link": "https://www.nature.com/articles/d41586-026-03057-4",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
+  },
+  {
+   "id": "a832d521cd9a1ef83779992aa25958c6",
+   "title": "How to respond to hate speech without fuelling it further",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03058-3Psychologist Mirta Galesic discusses an increase in hateful comments online, and the sc",
+   "link": "https://www.nature.com/articles/d41586-026-03058-3",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "教程",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
+  },
+  {
+   "id": "7cf669f8037bae4d6ce4b0d1bf900d4b",
+   "title": "Stunning fossil shows dinosaurs’ distinctive path to flight",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03126-8A fossil from a previously undiscovered species with feathery limbs, unearthed in China",
+   "link": "https://www.nature.com/articles/d41586-026-03126-8",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
+  },
+  {
+   "id": "5fd34936b2bfaa9144379321c204e0b4",
+   "title": "Nature has rights — it is time the world recognized them",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03145-5Existing legal frameworks have not halted planetary crises. Recognizing the rights of n",
+   "link": "https://www.nature.com/articles/d41586-026-03145-5",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
+  },
+  {
+   "id": "0c703fe588e81f89db40206631e700cb",
+   "title": "Can you name the women who have won a science Nobel prize?",
+   "summary": "Nature, Published online: 02 October 2026; doi:10.1038/d41586-026-03133-9Take Nature’s quiz on female Nobel laureates in physics, chemistry and physiology or me",
+   "link": "https://www.nature.com/articles/d41586-026-03133-9",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-02 08:00",
+   "ts": 1790899200
   }
  ]
 }
