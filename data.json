@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 16:03",
+ "updated_at": "2026-10-03 16:38",
  "total": 281,
  "channels": [
   "AI·科技",
@@ -14,6 +14,123 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "b7452cfe9db318c57ed999a8cf5d7a4a",
+   "title": "长安凯程 V919 荣耀版 8 方车型 10 月 13 日上市，全系标配宁德时代电芯",
+   "summary": "IT之家 10 月 3 日消息，长安凯程宣布凯程 V919 荣耀版 8 方车型将于 10 月 13 日上市。新车全系标配宁德时代电芯，CLTC 工况续航 355km，支持 2C 快充，电池电量 30%-80% 仅需 15 分钟。IT之家从官方介绍获悉，该车拥有 1.74 米宽体货箱，标准周转箱可排列 4 箱，无需错位摆",
+   "link": "https://www.ithome.com/1/009/506.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 16:36",
+   "ts": 1791016568
+  },
+  {
+   "id": "b75ecd706122dd370e0026f6f9476baa",
+   "title": "LG 电子将在美国新建 AI 数据中心冷水机组工厂，韩国本土同步扩产",
+   "summary": "IT之家 10 月 3 日消息，LG 电子当地时间本月 1 日宣布，计划在美国建设其全球第三座人工智能数据中心 (AIDC) 冷水机组工厂，并提升其韩国平泽、昌原 2 座工厂的产能，相关投资合计 1,500 亿韩元（现汇率约合 7.44 亿元人民币）。LG 电子的美国新厂位于弗吉尼亚州温莎市，占地面积 170,000 ",
+   "link": "https://www.ithome.com/1/009/505.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 16:35",
+   "ts": 1791016532
+  },
+  {
+   "id": "0fd0cc9d0f9939b0f5d06f81609a12d2",
+   "title": "消息称 Netflix 奈飞调整原创内容策略：减少“叫好不叫座”作品、资源倾向更具备商业价值的项目",
+   "summary": "IT之家 10 月 3 日消息，据外媒 The Verge 报道，Netflix 奈飞正在逐步调整原创内容策略。最近几周，该公司陆续结束了其中一些合作协议，这或许意味着公司正在减少对知名电影人的长期依赖，将更多资源投入到能够持续吸引用户的剧集、真人秀、直播和体育内容。例如，Netflix 近日确认，与导演大卫 · 芬奇",
+   "link": "https://www.ithome.com/1/009/504.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 16:32",
+   "ts": 1791016354
+  },
+  {
+   "id": "46dbac2ec7abd7a2229eb4f7ae0fab27",
+   "title": "宝马德国巴伐利亚新电池组装工厂正式投运，量产新世代 i3 高压电池",
+   "summary": "IT之家 10 月 3 日消息，BMW（宝马）德国当地时间本月 1 日宣布，其位于巴伐利亚伊尔巴赫-施特拉斯基兴的新电池组装工厂正式投运并进入量产阶段，为新世代 i3 供应第六代高压电池。这座电池组装工厂占地 60 公顷，总投资约 10 亿欧元（IT之家注：现汇率约合 75.62 亿元人民币），2024 年 4 月动工",
+   "link": "https://www.ithome.com/1/009/503.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 16:24",
+   "ts": 1791015894
+  },
+  {
+   "id": "49edb2259bf54f786ec8be736e9b94c5",
+   "title": "Neurable One 头戴式耳机发布：号称能够监测用户脑电信号，499 美元",
+   "summary": "IT之家 10 月 3 日消息，初创公司 Neurable 现已正式推出 Neurable One 头戴式耳机，该耳机内置 12 通道脑电图（EEG）监测系统，可以记录用户的脑电信号，以便专业人士分析佩戴者专注度、认知负荷、平静程度等状态，定价 499 美元（IT之家注：现汇率约合 3,350 元人民币）。据介绍，Ne",
+   "link": "https://www.ithome.com/1/009/502.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 16:19",
+   "ts": 1791015592
+  },
+  {
+   "id": "c0e6b0bf989ce4515cc807e3f4c928b9",
+   "title": "‘April X’ Review: Connor Storrie Bides His Time in a Generic Sci-Fi Clone",
+   "summary": "It would be nice to say that Connor Storrie burns up the screen in &#8220;April X,&#8221; the star&#8217;s first film vehicle released since TV&#8217;s &#8220;H",
+   "link": "https://variety.com/2026/film/news/april-x-review-connor-storrie-1236898072/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 16:17",
+   "ts": 1791015470
+  },
+  {
+   "id": "aca6bed9f492be362ab11c96d705c8c3",
+   "title": "分析公司 Alinea：预计 Steam 平台 2026 年收入将首次突破 200 亿美元",
+   "summary": "IT之家 10 月 3 日消息，分析公司 Alinea 发文，透露 V 社 Steam 平台 2026 年前九个月收入约 165 亿美元（IT之家注：现汇率约合 1,107.87 亿元人民币），该平台第三季度以及 9 月单月的收入估算均创下新高，预计 Steam 平台全年收入将首次超过 200 亿美元（现汇率约合 1,",
+   "link": "https://www.ithome.com/1/009/501.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 16:08",
+   "ts": 1791014888
+  },
+  {
+   "id": "5e9a40404b741f245be8a8c5d79cb4e1",
+   "title": "《人类一败涂地》团队 VR 游戏新作《小小羊群》发售：Steam 国区首发价 ¥57.67，支持中文",
+   "summary": "IT之家 10 月 3 日消息，由《人类一败涂地》开发团队 No Brakes Games 打造的温馨 VR 物理解谜游戏《小小羊群》现已正式登陆 SteamVR / Quest 平台。以 Steam 国区为例，本作首发特惠 -21%，折后价 ¥57.67，优惠截止至 10 月 13 日。游戏支持简体中文界面、音频与字",
+   "link": "https://www.ithome.com/1/009/500.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 16:04",
+   "ts": 1791014663
+  },
+  {
+   "id": "4c1e442698c47993625400da62b45123",
+   "title": "我国电影银幕总数已接近 9.6 万块，稳居世界第一",
+   "summary": "IT之家 10 月 3 日消息，据央视新闻今日报道，截至 9 月底，全国净增影院 438 家、银幕 2632 块，银幕总数已接近 9.6 万块，稳居世界第一；特别是县域和乡镇商圈新增影厅占比不断提高，表明中国电影市场正在不断下沉。目前暂列 2026 年电影票房前五位的均为国产影片，分别为《飞驰人生 3》《功夫女足》《欢",
+   "link": "https://www.ithome.com/1/009/499.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 16:04",
+   "ts": 1791014643
+  },
   {
    "id": "d44128410b5bbf568f5de33d9b0b7d42",
    "title": "明基推出 AK900ST / AK800ST 投影仪，面向室内高尔夫运动",
@@ -55,7 +172,7 @@
   },
   {
    "id": "689266fdad22e3a6673b76e19fff0eaa",
-   "title": "Bahrain GP in Malaysia: Mercedes, Red Bull set for big qualifying battle LIVE!",
+   "title": "Bahrain GP in Malaysia: Antonelli in trouble to reach Q3 LIVE!",
    "summary": "",
    "link": "https://www.skysports.com/f1/live-blog/12040/13594552/f1-bahrain-gp-in-malaysia-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-in-sepang",
    "source": "Sky Sports",
@@ -80,113 +197,9 @@
    "ts": 1791013958
   },
   {
-   "id": "b0f2dc230e1cfa7a3d559bc1a196b666",
-   "title": "华为李小龙：睿影 Z10 模块相机卡口通过可拆卸转接环实现，未来手机形状变化、换一个转接环就能适配",
-   "summary": "IT之家 10 月 3 日消息，在 10 月 1 日举行的华为 Mate 90 系列及全场景新品发布会上，华为睿影 Z10 模块相机正式发布，有 H1、H2 两个卡口版本，分别适配 Mate 90 Pro Max 典藏版和 Mate 90 RS 非凡大师，定价 5999 元。华为终端 BG CTO 李小龙今日就这款新品",
-   "link": "https://www.ithome.com/1/009/494.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 15:50",
-   "ts": 1791013848
-  },
-  {
-   "id": "c22e4fff8057347bef18a1e2696a6452",
-   "title": "买二手 CPU 送“封号套餐”：玩家《无畏契约》游戏账号及电脑整机硬件被 Riot 连坐永封",
-   "summary": "IT之家 10 月 3 日消息，据 VideoCardz 报道，一名玩家 After-Cartoonist-196 在 Reddit 发帖，透露自己于 9 月 21 日购买了一颗二手 AMD 锐龙 7 5800X3D 处理器，在将处理器安装到电脑后，启动《无畏契约》便遭到封禁。之后，After-Cartoonist-1",
-   "link": "https://www.ithome.com/1/009/493.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 15:47",
-   "ts": 1791013678
-  },
-  {
-   "id": "711e5da2ebe41d547f480b8942c92e34",
-   "title": "硅含量达 40%，冠宇电芯及电池包首发配套荣耀 Magic 9 Pro Max",
-   "summary": "IT之家 10 月 3 日消息，荣耀 Magic9 系列手机于 9 月 28 日发布，珠海冠宇今日宣布为荣耀 Magic 9 Pro Max 首发配套电芯与电池包。IT之家从官方介绍获悉，通过负极材料配方创新与工艺优化，冠宇进一步提升电芯负极硅含量，让单位体积容纳更多能量。荣耀 Magic 9 Pro Max 电池硅含",
-   "link": "https://www.ithome.com/1/009/492.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 15:44",
-   "ts": 1791013471
-  },
-  {
-   "id": "fb6eea36102704abd7c3f6c0b1037b51",
-   "title": "联力发布 Edge V2 系列电源：延续 L 型设计，调整功率组合",
-   "summary": "IT之家 10 月 3 日消息，联力 (LIAN LI) 昨日宣布推出 V2 版本的 Edge 系列 ATX PC 电源。新一代产品延续了初代 Edge 的独特 L 型设计，功率组合有所调整。初代 EDGE 可选 850W / 1000W / 1300W，其继任者 Edge Platinum V2 提供 1000W /",
-   "link": "https://www.ithome.com/1/009/491.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 15:42",
-   "ts": 1791013379
-  },
-  {
-   "id": "8c206fb4997cdefbcc9c489b36e13cc8",
-   "title": "交通运输部：10 月 3 日 48 个服务区预计充电特别繁忙，主要集中在山西、河北、山东等省",
-   "summary": "IT之家 10 月 3 日消息，据央视新闻报道，交通运输部动态研判，10 月 3 日，全国高速公路预计有 48 个服务区充电特别繁忙，主要集中在山西、河北、山东等省。交通运输部还提供了动态研判的充电特别繁忙服务区（含停车区）清单，IT之家整理如下：动态研判的充电特别繁忙服务区（含停车区）清单（10 月 3 日）序号省份",
-   "link": "https://www.ithome.com/1/009/490.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 15:36",
-   "ts": 1791013008
-  },
-  {
-   "id": "b4f5efa4ad68ca3bc942cbe437a9cad9",
-   "title": "天价离婚案：SK 集团会长崔泰源决定出售价值 9440 亿韩元股份，用于财产分割",
-   "summary": "IT之家 10 月 3 日消息，据韩联社报道，SK 集团会长崔泰源已决定出售控股母公司 SK 株式会社的部分股份，以筹集向前妻卢素英支付的高达 9,440 亿韩元（IT之家注：现汇率约合 46.8 亿元人民币）的离婚财产分割款。预计减持完成后，崔泰源及其一致行动人的合计表决权比例仍将保持在 30% 以上，集团整体经营控",
-   "link": "https://www.ithome.com/1/009/485.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 15:31",
-   "ts": 1791012702
-  },
-  {
-   "id": "7e7f709b5a6272d218fdbf161f2b1d5e",
-   "title": "我国首个深水油田“流花油田”二次开发累计产原油突破 200 万吨",
-   "summary": "IT之家 10 月 3 日消息，据央视新闻报道，今天，我国首个深水油田 —— 流花油田二次开发项目累计生产原油突破 200 万吨，这标志着我国深水老油田二次开发模式经受住连续生产实战检验，为深水老油田提质增效、挖潜增产提供了可复制的实践样本。报道称，随着“北海开拓”油轮解缆离泊，投产刚满两年的亚洲首艘圆筒型海上油气加工",
-   "link": "https://www.ithome.com/1/009/482.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "教程",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 15:28",
-   "ts": 1791012526
-  },
-  {
-   "id": "cd27564ca7e29c7bd417b3f7783f3859",
-   "title": "华为 Mate 90 系列手机首发实装游戏助手弹幕通知功能，支持速度、大小等自定义设置",
-   "summary": "IT之家 10 月 3 日消息，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。根据华为官方预告，在 HarmonyOS 7.0.0.109 SP6 及以上，将支持弹幕通知功能。开启弹幕通知，支持针对部分应用消息（微信、QQ、畅连、短",
-   "link": "https://www.ithome.com/1/009/481.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 15:21",
-   "ts": 1791012094
-  },
-  {
    "id": "53e7f05688b3b06baba19ddb8e25dab0",
    "title": "Understanding Frontier Artificial Intelligence",
-   "summary": "Article URL: https://casp.ac/reports/intelligence-explosion\nComments URL: https://news.ycombinator.com/item?id=49942002\nPoints: 7\n# Comments: 1",
+   "summary": "Article URL: https://casp.ac/reports/intelligence-explosion\nComments URL: https://news.ycombinator.com/item?id=49942002\nPoints: 16\n# Comments: 4",
    "link": "https://casp.ac/reports/intelligence-explosion",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -303,7 +316,7 @@
   {
    "id": "eec9f70090370bef588c6b9f57a482b6",
    "title": "An Update on Orion for Linux and Windows",
-   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 27\n# Comments: 5",
+   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 28\n# Comments: 11",
    "link": "https://blog.kagi.com/update-orion-linux-windows",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -368,7 +381,7 @@
   {
    "id": "61c2fcf1db281fa8da97648647f3047e",
    "title": "Extra Big Ass Intelligence",
-   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 197\n# Comments: 45",
+   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 241\n# Comments: 52",
    "link": "https://www.extrabigassintelligence.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -381,7 +394,7 @@
   {
    "id": "e153fef4c61f951b0d4a131dbe6cbf99",
    "title": "Cloudflare OHTTP gateway",
-   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 58\n# Comments:",
+   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 64\n# Comments:",
    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -485,7 +498,7 @@
   {
    "id": "191bd1c28b2d6d360ae0a2ed679bf01f",
    "title": "Newgrounds.com – A community of games, music, and art",
-   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 176\n# Comments: 49",
+   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 185\n# Comments: 52",
    "link": "https://www.newgrounds.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -546,19 +559,6 @@
    "urgent": false,
    "fetched_at": "10-03 08:27",
    "ts": 1790987249
-  },
-  {
-   "id": "eee1a4dc184033604a268feb7c4d4a69",
-   "title": "Where Is the Planet",
-   "summary": "Article URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 26\n# Comments: 3",
-   "link": "http://whereistheplanet.com",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 08:26",
-   "ts": 1790987179
   },
   {
    "id": "641b2085e6abe2527cb3db18cdab4aca",
@@ -1159,19 +1159,6 @@
    "ts": 1790974920
   },
   {
-   "id": "cdb931b4bd4a8e03ea3d5ab926694940",
-   "title": "Skydance Says It’s Committed to L.A., but Threat to Leave Has Proved Potent",
-   "summary": "Skydance is officially L.A.’s newest Fortune 500 company — but for how long? In a message to employees last week, CEO David Ellison said he is committed to keep",
-   "link": "https://variety.com/2026/film/news/skydance-los-angeles-threat-leave-headquarters-1236897717/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:01",
-   "ts": 1790974908
-  },
-  {
    "id": "5203ee675c1f7670e4da253eb0818044",
    "title": "NFL London: 651-day wait over... Sauce's Colts go globe-trotting again",
    "summary": "Sauce Gardner just ended a 651-day wait for an NFL win in the United States. Now the Indianapolis Colts cornerback is back on international soil.",
@@ -1226,7 +1213,7 @@
   {
    "id": "7e28dfddaf0aed2d57d27c663f3ab25a",
    "title": "Barcodes are about to go extinct",
-   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 20\n# Commen",
+   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 23\n# Commen",
    "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1421,7 +1408,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 182\n# Comments: 124",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 185\n# Comments: 129",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1458,22 +1445,9 @@
    "ts": 1790969400
   },
   {
-   "id": "1e6b53073bc57a4ec4b78690a8144d2b",
-   "title": "Make Tmux the OS",
-   "summary": "Article URL: https://matduggan.com/what-does-my-dream-os-ui-look-like/\nComments URL: https://news.ycombinator.com/item?id=49937540\nPoints: 38\n# Comments: 20",
-   "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:29",
-   "ts": 1790969347
-  },
-  {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 185\n# Comments: 80",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 187\n# Comments: 83",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1538,7 +1512,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 399\n# Comments: 245",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 404\n# Comments: 248",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1547,6 +1521,19 @@
    "urgent": false,
    "fetched_at": "10-03 03:06",
    "ts": 1790968016
+  },
+  {
+   "id": "b81aa1a9d9c293e210822b73d0e28433",
+   "title": "The Nintendo 64 Partner-N64 Development Kit",
+   "summary": "Article URL: https://www.behindthecode.ca/partner-n64pc-dev-kit/\nComments URL: https://news.ycombinator.com/item?id=49937146\nPoints: 31\n# Comments: 3",
+   "link": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:53",
+   "ts": 1790967214
   },
   {
    "id": "6da037b2aec6a6206b2d0ad04253f7f2",
@@ -1729,6 +1716,19 @@
    "urgent": false,
    "fetched_at": "10-03 02:11",
    "ts": 1790964687
+  },
+  {
+   "id": "c4403da706604980eef315f527b9cd6e",
+   "title": "From the creator of Redis; run LLM locally with ds4",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 225\n# Comments: 57",
+   "link": "https://dwarfstar.sh/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 02:01",
+   "ts": 1790964076
   },
   {
    "id": "dc3d703729f5de65a3421fa0694dd72d",
