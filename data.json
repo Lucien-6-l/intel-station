@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 15:10",
+ "updated_at": "2026-10-03 15:40",
  "total": 281,
  "channels": [
   "AI·科技",
@@ -26,6 +26,110 @@
    "urgent": false,
    "fetched_at": "10-03 15:57",
    "ts": 1791014220
+  },
+  {
+   "id": "8c206fb4997cdefbcc9c489b36e13cc8",
+   "title": "交通运输部：10 月 3 日 48 个服务区预计充电特别繁忙，主要集中在山西、河北、山东等省",
+   "summary": "IT之家 10 月 3 日消息，据央视新闻报道，交通运输部动态研判，10 月 3 日，全国高速公路预计有 48 个服务区充电特别繁忙，主要集中在山西、河北、山东等省。交通运输部还提供了动态研判的充电特别繁忙服务区（含停车区）清单，IT之家整理如下：动态研判的充电特别繁忙服务区（含停车区）清单（10 月 3 日）序号省份",
+   "link": "https://www.ithome.com/1/009/490.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:36",
+   "ts": 1791013008
+  },
+  {
+   "id": "b4f5efa4ad68ca3bc942cbe437a9cad9",
+   "title": "天价离婚案：SK 集团会长崔泰源决定出售价值 9440 亿韩元股份，用于财产分割",
+   "summary": "IT之家 10 月 3 日消息，据韩联社报道，SK 集团会长崔泰源已决定出售控股母公司 SK 株式会社的部分股份，以筹集向前妻卢素英支付的高达 9,440 亿韩元（IT之家注：现汇率约合 46.8 亿元人民币）的离婚财产分割款。预计减持完成后，崔泰源及其一致行动人的合计表决权比例仍将保持在 30% 以上，集团整体经营控",
+   "link": "https://www.ithome.com/1/009/485.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:31",
+   "ts": 1791012702
+  },
+  {
+   "id": "7e7f709b5a6272d218fdbf161f2b1d5e",
+   "title": "我国首个深水油田“流花油田”二次开发累计产原油突破 200 万吨",
+   "summary": "IT之家 10 月 3 日消息，据央视新闻报道，今天，我国首个深水油田 —— 流花油田二次开发项目累计生产原油突破 200 万吨，这标志着我国深水老油田二次开发模式经受住连续生产实战检验，为深水老油田提质增效、挖潜增产提供了可复制的实践样本。报道称，随着“北海开拓”油轮解缆离泊，投产刚满两年的亚洲首艘圆筒型海上油气加工",
+   "link": "https://www.ithome.com/1/009/482.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "教程",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 15:28",
+   "ts": 1791012526
+  },
+  {
+   "id": "cd27564ca7e29c7bd417b3f7783f3859",
+   "title": "华为 Mate 90 系列手机首发实装游戏助手弹幕通知功能，支持速度、大小等自定义设置",
+   "summary": "IT之家 10 月 3 日消息，在 9 月 7 日的 HarmonyOS 7 | HUAWEI Mate XT 2 及全场景新品发布会上，鸿蒙 7 操作系统正式发布。根据华为官方预告，在 HarmonyOS 7.0.0.109 SP6 及以上，将支持弹幕通知功能。开启弹幕通知，支持针对部分应用消息（微信、QQ、畅连、短",
+   "link": "https://www.ithome.com/1/009/481.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:21",
+   "ts": 1791012094
+  },
+  {
+   "id": "56832c7189995c20cf235cb58451041a",
+   "title": "R 星遏制索尼 PS5 破解：想玩《GTA 6》就得为游戏机更新 14.10.00 最新固件",
+   "summary": "IT之家 10 月 3 日消息，近期索尼 PS5 游戏机被开发者 Nathan Fargo 攻破，用户只需将 PS5 的 DNS 改成特定 IP，即可快速破解游戏机，运行各种自制软件，不过截至IT之家发稿，相应破解方案仅适用于 13.60 版本及之前的固件。而综合数据挖掘者 PlayStation Game Size，",
+   "link": "https://www.ithome.com/1/009/480.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:21",
+   "ts": 1791012061
+  },
+  {
+   "id": "e7348f1d24d6515bbf1c2f113b77f984",
+   "title": "上汽 MG4 交车等待礼上线：10 月下定并锁单，交车等待超 30 天每日补偿 5000 MG Live 积分",
+   "summary": "IT之家 10 月 3 日消息，上汽 MG 宣布上线 MG4 交车等待礼，10 月下定并锁单 MG4，交车等待超 30 天，每日补偿 5000 MG Live 积分（100 积分等值于 1 元人民币），上不封顶。据IT之家此前报道，2026 款上汽 MG4 于 4 月 24 日北京车展正式上市，官方指导价区间 6.88",
+   "link": "https://www.ithome.com/1/009/479.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:11",
+   "ts": 1791011486
+  },
+  {
+   "id": "0a7757b28c02af2a1b1a359ca2316fb5",
+   "title": "金色巨龙盘踞车顶：1997 款林肯 Town Car 宫形灵车下月拍卖",
+   "summary": "IT之家 10 月 3 日消息，汽车媒体 CarScoops 今天（10 月 3 日）发布博文，报道称美国汽车拍卖行 Mecum 将于下月（2026 年 11 月）拍卖一辆 1997 年款林肯 Town Car（Lincoln Town Car）宫形灵车（Miyagata hearse）。IT之家注：宫形灵车是日本宫形",
+   "link": "https://www.ithome.com/1/009/477.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:10",
+   "ts": 1791011428
+  },
+  {
+   "id": "cf4cf54adc7376fd5ce45f4de54973cb",
+   "title": "《天国：拯救 2》负责人希望《GTA 6》推动游戏涨价：为了行业能活下去，早该涨了",
+   "summary": "IT之家 10 月 3 日消息，据外媒 Eurogamer 今天（3 日）报道，去年推出《天国：拯救 2》的开发商战马工作室联合创始人马丁 · 克拉玛希望游戏能够涨价，并将打破现有定价格局寄望于《GTA 6》。克拉玛指出，游戏行业面临几项棘手问题。开发成本近年来一路攀升，稳定购买新游戏的玩家群体却已基本停止增长。数字发",
+   "link": "https://www.ithome.com/1/009/476.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:10",
+   "ts": 1791011407
   },
   {
    "id": "f701fcf7e3baa990e17f7c8e0e8640fd",
@@ -106,71 +210,6 @@
    "ts": 1791010296
   },
   {
-   "id": "95da2cd908ac8be68366b8c379b103f4",
-   "title": "民政部：防范非法养老 App 以“民惠通”等为名诈骗",
-   "summary": "IT之家 10 月 3 日消息，据民政部官网，近期一些非法养老 App 以“民惠通”等为名实施诈骗。不法分子伪造文件、冒充民政部工作人员，宣称可“发放高龄补贴”等，要求先交所谓“保险金”“保证金”“激活费”。随后，骗局还可能以“签到赚钱”“高额返利”“拉人头返佣”等方式诱导继续充值或投资，最终出现无法提现。图谱把这条链",
-   "link": "https://www.ithome.com/1/009/457.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 14:50",
-   "ts": 1791010219
-  },
-  {
-   "id": "6a9480a6c8ab1160e4618a7540d0e772",
-   "title": "华为李小龙回应睿影 Z10 模块相机不支持 62mm 滤镜，称为避免遮挡红枫摄像头导致偏色而特意设计",
-   "summary": "IT之家 10 月 3 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为睿影 Z10 模块相机正式发布，采用 HyperClick 超级卡口设计，定价 5999 元（典藏版套装定价 19499 元）。有网友第一时间购买了华为睿影 Z10 模块相机，并专门为其配了 62mm 滤镜。但网友",
-   "link": "https://www.ithome.com/1/009/456.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 14:50",
-   "ts": 1791010209
-  },
-  {
-   "id": "63ced0c5590b02be7f62127e6dd63118",
-   "title": "前索尼 PlayStation 负责人莱登喊话微软 XBOX CEO 夏尔马：现在就是你们的 Dreamcast 时刻",
-   "summary": "IT之家 10 月 3 日消息，据外媒 Eurogamer 今天（3 日）报道，前索尼 PlayStation 负责人肖恩 · 莱登认为，XBOX 需要尽快明确自己的定位：究竟继续做需要独占游戏支撑的主机平台，还是凭借动视暴雪等业务转向大型游戏发行商。无论选择哪条路，都不能再在独占策略上反复摇摆。本世代 XBOX Se",
-   "link": "https://www.ithome.com/1/009/455.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 14:46",
-   "ts": 1791009979
-  },
-  {
-   "id": "abc43b93a8dfa461afc216d020ec2e58",
-   "title": "经典国产动作游戏《艾希》续作《艾希：续》众筹金额破 1800 万，明年 5 月 1 日发售",
-   "summary": "IT之家 10 月 3 日消息，在国产横版动作游戏《艾希》（ICEY）发售十年后，作者老马克肖公布了游戏续作《艾希：续》，本作于 10 月 1 日开启众筹，截至（10 月 3 日）IT之家发稿，目前众筹金额已突破 1800 万元。官方在致谢文中提到，目前开发组的核心目标是把明年 5 月 1 日上线的版本踏踏实实做好，还",
-   "link": "https://www.ithome.com/1/009/454.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 14:41",
-   "ts": 1791009714
-  },
-  {
-   "id": "4379be73d6920584da9eeacd6c6dd4e2",
-   "title": "刷新车型售价纪录：迈克尔 · 乔丹开过的法拉利 550 Maranello 跑车拍出 270 万美元",
-   "summary": "IT之家 10 月 3 日消息，汽车媒体 CarScoops 昨日（10 月 2 日）发布博文，报道称迈克尔 · 乔丹（Michael Jordan）曾拥有的 1997 年款法拉利 550 Maranello 以 270 万美元（IT之家注：现汇率约合 1,812.9 万元人民币）成交，远超 70 万至 130 万美元",
-   "link": "https://www.ithome.com/1/009/453.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 14:40",
-   "ts": 1791009648
-  },
-  {
    "id": "5ab5ea783140d050f5043980ea6053a4",
    "title": "Antonelli fastest from Verstappen ahead of qualifying in Malaysia",
    "summary": "Kimi Antonelli was fastest from Max Verstappen in final practice for the Bahrain Grand Prix in Malaysia to set up a Mercedes versus Red Bull fight for pole posi",
@@ -182,45 +221,6 @@
    "urgent": false,
    "fetched_at": "10-03 14:40",
    "ts": 1791009600
-  },
-  {
-   "id": "918d7f1a021bd1c0f7ad6d37298196a8",
-   "title": "华硕 ROG 八爪鱼 8 电竞无线路由器现身：规格类似上代，改进使用体验",
-   "summary": "IT之家 10 月 3 日消息，华硕 (ASUS) 玩家国度 (ROG) 即将面向中国大陆市场推出“八爪鱼 8”电竞无线路由器。这一产品支持新的 802.11bn 规范，整体规格与上代“八爪鱼 7”(Rapture GT-BE96) 类似。“八爪鱼 8”基于博通 4 核 2.6GHz 处理器，配备 2GB DDR4 内",
-   "link": "https://www.ithome.com/1/009/452.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 14:38",
-   "ts": 1791009530
-  },
-  {
-   "id": "b13561fc072cd894c67fa0e2195dff9a",
-   "title": "“争气机”换更强“争气芯”：全系韬芯片之华为 Mate 90 发布，央视报道称走出世界半导体的新路",
-   "summary": "IT之家 10 月 3 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 ——Mate 90 系列手机正式发布，全系搭载了韬定律芯片。旗舰 τ 芯片：麒麟 9030（Mate 90）、麒麟 9035（Mate 90 Pro）；逻辑折叠 τ 芯片：麒麟 9050（Mate 90 ",
-   "link": "https://www.ithome.com/1/009/451.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 14:38",
-   "ts": 1791009527
-  },
-  {
-   "id": "f24c7616ed54f379be641faf52e24168",
-   "title": "迪士尼回应收购 Epic 传闻：无相关计划，双方的合作关系非常紧密",
-   "summary": "IT之家 10 月 3 日消息，今年早些时候，有传闻称迪士尼可能全盘收购 Epic 公司，但迪士尼总裁兼首席创意官达娜 · 沃尔登（Dana Walden）明确表示，这并不在议程之中。在接受彭博社采访、被问及迪士尼是否可能全资收购该公司时，她表示：“显而易见，此前我们针对投资与入股开展过极其严谨的考量与探讨，”同时她补",
-   "link": "https://www.ithome.com/1/009/449.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 14:34",
-   "ts": 1791009251
   },
   {
    "id": "e25d0908962aa33c5d8f82bbae5d7d57",
@@ -273,6 +273,19 @@
    "urgent": false,
    "fetched_at": "10-03 13:06",
    "ts": 1791003976
+  },
+  {
+   "id": "eec9f70090370bef588c6b9f57a482b6",
+   "title": "An Update on Orion for Linux and Windows",
+   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 21\n# Comments: 3",
+   "link": "https://blog.kagi.com/update-orion-linux-windows",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 12:53",
+   "ts": 1791003237
   },
   {
    "id": "1ed152348f461653d10bf75705236e27",
@@ -329,7 +342,7 @@
   {
    "id": "61c2fcf1db281fa8da97648647f3047e",
    "title": "Extra Big Ass Intelligence",
-   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 132\n# Comments: 29",
+   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 175\n# Comments: 40",
    "link": "https://www.extrabigassintelligence.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -342,7 +355,7 @@
   {
    "id": "e153fef4c61f951b0d4a131dbe6cbf99",
    "title": "Cloudflare OHTTP gateway",
-   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 51\n# Comments:",
+   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 56\n# Comments:",
    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -446,7 +459,7 @@
   {
    "id": "191bd1c28b2d6d360ae0a2ed679bf01f",
    "title": "Newgrounds.com – A community of games, music, and art",
-   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 163\n# Comments: 44",
+   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 174\n# Comments: 49",
    "link": "https://www.newgrounds.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -511,7 +524,7 @@
   {
    "id": "eee1a4dc184033604a268feb7c4d4a69",
    "title": "Where Is the Planet",
-   "summary": "Article URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 22\n# Comments: 3",
+   "summary": "Article URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 26\n# Comments: 3",
    "link": "http://whereistheplanet.com",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -524,7 +537,7 @@
   {
    "id": "9f28acfc82367b8cd3b7290bc672e21b",
    "title": "Things that apparently cause cancer",
-   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 171\n#",
+   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 173\n#",
    "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1187,7 +1200,7 @@
   {
    "id": "7e28dfddaf0aed2d57d27c663f3ab25a",
    "title": "Barcodes are about to go extinct",
-   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 11\n# Commen",
+   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 19\n# Commen",
    "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1382,7 +1395,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 177\n# Comments: 117",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 182\n# Comments: 119",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1421,7 +1434,7 @@
   {
    "id": "1e6b53073bc57a4ec4b78690a8144d2b",
    "title": "Make Tmux the OS",
-   "summary": "Article URL: https://matduggan.com/what-does-my-dream-os-ui-look-like/\nComments URL: https://news.ycombinator.com/item?id=49937540\nPoints: 26\n# Comments: 10",
+   "summary": "Article URL: https://matduggan.com/what-does-my-dream-os-ui-look-like/\nComments URL: https://news.ycombinator.com/item?id=49937540\nPoints: 33\n# Comments: 17",
    "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1434,7 +1447,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 181\n# Comments: 79",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 184\n# Comments: 80",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1512,7 +1525,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 395\n# Comments: 242",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 399\n# Comments: 244",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1521,19 +1534,6 @@
    "urgent": false,
    "fetched_at": "10-03 03:06",
    "ts": 1790968016
-  },
-  {
-   "id": "b81aa1a9d9c293e210822b73d0e28433",
-   "title": "The Nintendo 64 Partner-N64 Development Kit",
-   "summary": "Article URL: https://www.behindthecode.ca/partner-n64pc-dev-kit/\nComments URL: https://news.ycombinator.com/item?id=49937146\nPoints: 20\n# Comments: 1",
-   "link": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:53",
-   "ts": 1790967214
   },
   {
    "id": "6da037b2aec6a6206b2d0ad04253f7f2",
