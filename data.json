@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03 07:35",
- "total": 283,
+ "updated_at": "2026-10-03 08:03",
+ "total": 274,
  "channels": [
   "AI·科技",
   "体育",
@@ -14,6 +14,97 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "3b9b09f92402e810320673c1188c19ec",
+   "title": "‘Behemoth!’ Review: Pedro Pascal Is a Classical Cellist Skating Through a Midlife Crisis in Tony Gilroy’s Elevated Bauble of a Music Drama",
+   "summary": "\"Behemoth!\" is a classical-musician movie. It’s a midlife-crisis movie. It’s a romantic mystery. It’s Tony Gilroy fiddling around with pure movie form.",
+   "link": "https://variety.com/2026/film/reviews/behemoth-review-pedro-pascal-tony-gilroy-1236897613/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:00",
+   "ts": 1790985604
+  },
+  {
+   "id": "c1df6e88796a6efafdaaf3081b2be063",
+   "title": "‘Behemoth!’ Review: Pedro Pascal Hints at Soulful Depths, but the Drama Keeps Stalling in Tony Gilroy’s Wan Character Study of a Virtuoso Cellist",
+   "summary": "Olivia Wilde, Eva Victor, Will Arnett and Alexa Swinton also star in the story of a former child prodigy struggling to free himself from the burden of his famou",
+   "link": "https://www.hollywoodreporter.com/movies/movie-reviews/behemoth-review-pedro-pascal-olivia-wilde-tony-gilroy-1236721313/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:00",
+   "ts": 1790985600
+  },
+  {
+   "id": "e41a2a100cc28ae2539624be2fddecca",
+   "title": "部分 Win11 用户反馈安装微软 9 月可选更新后同时播放多个 MP3 文件触发崩溃",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 BornCity 今天（10 月 3 日）发布博文，报道称微软推送 9 月 Windows 11 可选更新 KB5124010 存在 Bug，部分用户反馈同时播放多个 MP3 文件时，可能触发系统音频解码组件 msmpeg2ac3dec.dll 崩溃。IT之家此前报道，微软于 ",
+   "link": "https://www.ithome.com/1/009/384.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 07:56",
+   "ts": 1790985409
+  },
+  {
+   "id": "9d87a81fabdcac39e0d41a111973cd72",
+   "title": "奔驰大幅精简车型阵容，EQE、迈巴赫 EQS 680 SUV 等电车即将停产",
+   "summary": "IT之家 10 月 3 日消息，奔驰将大幅精简车型阵容，纯电车型是调整重点。至少三款车型将在 2027 款停产。奔驰发言人向外媒《Car and Driver》证实，EQE 轿车及其 AMG 版本、AMG S 63 E PERFORMANCE 和迈巴赫 EQS 680 SUV 明年都将退出产品阵容。奔驰也在继续让电动车",
+   "link": "https://www.ithome.com/1/009/383.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 07:53",
+   "ts": 1790985215
+  },
+  {
+   "id": "4fb4b06521bd68422359c7b412b81e62",
+   "title": "IT早报 1003：三星上调国行 S26 售价；问界 M6 推 3 年 0 息购车方案；曝 Anthropic 最早 11 月中旬上市；苹果预计本月发布触控 OLED 屏 MacBook...",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 3 日星期六，今天的重要科技资讯有：1. 三星上调 Galaxy S26 系列手机建议零售价：涨 800-1800 元，7799 元起三星官网显示，三星上调了国行 Galaxy S26 系列手机的建议零售价。&gt;&gt; 查看详情2. 首付 6.98 万元起",
+   "link": "https://www.ithome.com/1/009/382.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 07:50",
+   "ts": 1790985059
+  },
+  {
+   "id": "87844433d30036327ede5c8285947073",
+   "title": "苹果收紧 macOS 27 等完全磁盘访问权限，降低 AI 智能体操控风险",
+   "summary": "IT之家 10 月 3 日消息，苹果开发者网站昨日（10 月 2 日）发布公告，宣布将升级 macOS 27 等系统的隐私管控，要求用户通过更明确的操作，才能授予应用“完全磁盘访问权限”。苹果表示，“完全磁盘访问权限”原本用于支持备份应用在 Mac 上正常运行。该权限会在很大程度上绕过系统为保护用户数据设置的常规控制，",
+   "link": "https://www.ithome.com/1/009/381.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 07:47",
+   "ts": 1790984848
+  },
+  {
+   "id": "6864cef92da7d4ec50f0d48e0822b376",
+   "title": "George Cheeks May Be Poised for Expanded TV Role at Skydance Post Paramount-Warner Bros. Merger",
+   "summary": "Paramount TV media chair George Cheeks, whose domain has included all of CBS in addition to the Paramount cable networks, is said to be in line for an expanded ",
+   "link": "https://variety.com/2026/tv/news/george-cheeks-tv-role-skydance-paramount-warner-bros-merger-1236897948/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 07:40",
+   "ts": 1790984419
+  },
   {
    "id": "34e594426e2b88930c99ff72e81735e8",
    "title": "苹果 homeOS 前瞻：整合 iOS / iPadOS / watchOS 特性，主打 Siri AI 交互",
@@ -589,7 +680,7 @@
   {
    "id": "ed92f170bb8e0d0a2aafcc4eb43c0e7d",
    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-   "summary": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 10\n# Comments: 0",
+   "summary": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 13\n# Comments: 0",
    "link": "https://allenai.org/blog/astabrief",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -704,9 +795,9 @@
    "ts": 1790975317
   },
   {
-   "id": "7b95fdcedf41cbdc69cacc13d01b24c0",
-   "title": "The Harness Is the Company",
-   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 64\n# Comments: 45",
+   "id": "6fa792b2ddd2b7c1f1679e0c4f3d6049",
+   "title": "Every SaaS business will become a harness around a model",
+   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 75\n# Comments: 54",
    "link": "https://blog.sshh.io/p/the-harness-is-the-company",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -795,19 +886,6 @@
    "ts": 1790974800
   },
   {
-   "id": "01eb1b190bfdc2c8f8f8bbb22d68f5fc",
-   "title": "‘Verity’ Had a Much More Twisted Ending. Then Came the Focus Group Screenings",
-   "summary": "SPOILER ALERT: This article contains spoilers for &#8220;Verity,&#8221; now playing in theaters. To say that “Verity,” a new erotic thriller featuring the ubiqu",
-   "link": "https://variety.com/2026/film/news/verity-ending-changed-focus-groups-books-1236897426/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:00",
-   "ts": 1790974800
-  },
-  {
    "id": "aee9dd124e640b6c513327857c62111f",
    "title": "Selma Blair Reveals Extent of Fallout After Anti-Islam Instagram Comment: “I Didn’t Have a Career at All”",
    "summary": "During a speech at an Anti-Defamation League event in New York, the veteran actress said she got dropped, blocked and shunned in Hollywood and beyond: \"Two year",
@@ -823,7 +901,7 @@
   {
    "id": "0419d34b7ab29cdaac75720215ed2d2c",
    "title": "Zig v0.17.0",
-   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 172\n# Comments: 83",
+   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 185\n# Comments: 95",
    "link": "https://ziglang.org/download/0.17.0/release-notes.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -886,19 +964,6 @@
    "ts": 1790973848
   },
   {
-   "id": "fa042fd4911fb3e36a03bdac135614c7",
-   "title": "Skydance’s Track Record: 20 Years of Tom Cruise, Mark Wahlberg, Action and More Action",
-   "summary": "Next week, Paramount and Warner Bros. will officially combine into one mega-studio with a familiar name: Skydance. The deal is expected to close on Tuesday. “By",
-   "link": "https://variety.com/lists/skydance-media-track-record-tom-cruise-mark-wahlberg/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:38",
-   "ts": 1790973501
-  },
-  {
    "id": "9096388c55152289eb0914769fc14524",
    "title": "‘HomePad’ coming: Will Apple hold an October special event?",
    "summary": "With Apple reportedly planning to unveil new products on October 13, here’s when the company could announce an event, based on the timing of its previous Octobe",
@@ -949,19 +1014,6 @@
    "urgent": false,
    "fetched_at": "10-03 04:20",
    "ts": 1790972459
-  },
-  {
-   "id": "756234fc57b8356a275ef369e2f41c0a",
-   "title": "Tilda Swinton to Release Debut Memoir ‘Material Evidence’: “A Book About Curiosity”",
-   "summary": "The book will not follow a chronological format and instead tell the actress' story through objects.",
-   "link": "https://www.hollywoodreporter.com/lifestyle/arts/tilda-swinton-debut-memoir-material-evidence-1236721153/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:19",
-   "ts": 1790972373
   },
   {
    "id": "c837efb49915318fad2de891d794ef39",
@@ -1096,7 +1148,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 76\n# Comments: 51",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 85\n# Comments: 54",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1135,7 +1187,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 82\n# Comments: 44",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 97\n# Comments: 47",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1213,7 +1265,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 262\n# Comments: 185",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 280\n# Comments: 190",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1445,22 +1497,9 @@
    "ts": 1790964629
   },
   {
-   "id": "8ac0bf09251623b0dc54becef072a167",
-   "title": "What if we stopped using GPUs? [video]",
-   "summary": "Article URL: https://www.youtube.com/watch?v=xc2FTBGRSJo\nComments URL: https://news.ycombinator.com/item?id=49936671\nPoints: 34\n# Comments: 8",
-   "link": "https://www.youtube.com/watch?v=xc2FTBGRSJo",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:09",
-   "ts": 1790964578
-  },
-  {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 117\n# Comments: 34",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 123\n# Comments: 35",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1887,19 +1926,6 @@
    "ts": 1790955384
   },
   {
-   "id": "7db5817d8ec33a473afdf6f16d939d4f",
-   "title": "AMD“锐龙 9 5900X3D”处理器工程样品现身，配备 32MB + 96MB L3 缓存",
-   "summary": "IT之家 10 月 2 日消息，Chiphell 论坛用户 @灵乌路空 9 月 28 日分享了一款 AMD Socket AM4 平台处理器工程样品的信息。该处理器代号 \"100-000000652\"，属于 \"Zen 3\" 微架构的 \"Vermeer\" 家族，步进 \"B2\"，拥有 12 核心 24 线程的规格，频率可达",
-   "link": "https://www.ithome.com/1/009/372.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:36",
-   "ts": 1790955365
-  },
-  {
    "id": "c88cdebfc83b0f8bc922eb880cdfd7cf",
    "title": "How to Get the Best Offer for the Car You’re Trading",
    "summary": "Learning about the trade-in process can help you find out how to price your trade-in and determine whether this strategy is best for you.",
@@ -1926,22 +1952,9 @@
    "ts": 1790955080
   },
   {
-   "id": "0c760c8315363bff5f692de2b545b473",
-   "title": "焕新极氪 001 配色上新：推出哑光岩灰车色、冰川灰内饰",
-   "summary": "IT之家 10 月 2 日消息，极氪汽车今日宣布焕新极氪 001 色彩上新，推出全新外饰色“哑光岩灰”以及全新内饰色“冰川灰”。2026 年 10 月 1 日-10 月 31 日，下定焕新极氪 001 可享更多限时权益。IT之家注意到，焕新极氪 001 于 2025 年 10 月 11 日上市，售价 26.98 万元起",
-   "link": "https://www.ithome.com/1/009/371.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:30",
-   "ts": 1790955057
-  },
-  {
    "id": "077fdf42fb97a882004a771ef6ef80bf",
    "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 89\n# Comments: 67",
+   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 93\n# Comments: 74",
    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1978,19 +1991,6 @@
    "ts": 1790954236
   },
   {
-   "id": "8a2dc50fbe6b58de772971bc6bbf131c",
-   "title": "韩国全胜卫冕亚运会《英雄联盟》项目冠军，中国台北收获第二",
-   "summary": "IT之家 10 月 2 日消息，在当地时间今日举行的 2026 年爱知 · 名古屋亚运会《英雄联盟》项目决赛中，韩国队以 3:0 的比分战胜中国台北队，以未失小局的全胜战绩完成对该项目的卫冕。越南与沙特阿拉伯并列三四名。在韩国《英雄联盟》代表队中，李 \"Faker\" 相赫、崔 \"Zeus\" 祐齐、柳 \"Keria\" 岷",
-   "link": "https://www.ithome.com/1/009/370.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:15",
-   "ts": 1790954153
-  },
-  {
    "id": "91df8be2dec4dcf5a86a0909a85f0ad7",
    "title": "How to Trade In a Car in 5 Steps",
    "summary": "Follow these steps to get the best offer for your car at trade-in.",
@@ -2002,19 +2002,6 @@
    "urgent": false,
    "fetched_at": "10-02 23:15",
    "ts": 1790954100
-  },
-  {
-   "id": "58efc0882da5213176ce4de640156a8d",
-   "title": "1100 亿美元超级并购：派拉蒙与华纳兄弟探索合并后将更名为“Skydance”",
-   "summary": "IT之家 10 月 2 日消息，派拉蒙天舞公司（Paramount SkyDance）首席执行官埃里森（David Ellison）今日宣布，在公司下周完成与华纳兄弟探索（WBD）的合并后，合并后的实体将命名为“Skydance”。按照今年 2 月达成的协议，派拉蒙将以 1,100 亿美元（IT之家注：现汇率约合 7,",
-   "link": "https://www.ithome.com/1/009/369.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 23:00",
-   "ts": 1790953248
   },
   {
    "id": "201efddcb579e47287ee5a87f7e7bfa6",
@@ -2110,7 +2097,7 @@
   {
    "id": "deadc6e12be46fdc133a8b818e8ee069",
    "title": "The Forgetful CPU (Linux on M4)",
-   "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 15\n# Comments: 0",
+   "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 27\n# Comments: 0",
    "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2132,6 +2119,19 @@
    "urgent": false,
    "fetched_at": "10-02 22:19",
    "ts": 1790950773
+  },
+  {
+   "id": "0c809ece3a48d001fb10a1fc65ef08c0",
+   "title": "With most information hidden, the game Stratego had stumped AI until now",
+   "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 152\n# Co",
+   "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 22:11",
+   "ts": 1790950284
   },
   {
    "id": "82bfc5608f41ed141f58804a3472d671",
@@ -2459,19 +2459,6 @@
    "ts": 1790934171
   },
   {
-   "id": "19def8b5793a20eb5c685b9b1b4dd6c4",
-   "title": "本周看什么 | 最近值得一看的 8 部作品",
-   "summary": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ...查看全文",
-   "link": "https://sspai.com/post/115211",
-   "source": "少数派",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 17:30",
-   "ts": 1790933400
-  },
-  {
    "id": "67dc7bbef639400972f0e1f3e9a067df",
    "title": "搜打撤游戏《绝地求生：黑域撤离》宣布中止开发",
    "summary": "在评估了项目的开发状态与未来方向后，PUBG STUDIOS 认为当前的路线无法带来能让玩家长期享受的游戏体验。因此，官方做出了艰难的决定，决定终止《绝地求生：黑域撤离》的开发。\n\n开发团队对所有参与封闭内测并提供反馈的玩家表示感谢。开发团队表示，会将开发和测试期间获得的经验运用到未来的项目中，并在探索全新玩法时继续倾",
@@ -2613,6 +2600,19 @@
    "urgent": false,
    "fetched_at": "10-02 14:10",
    "ts": 1790921400
+  },
+  {
+   "id": "f06db90cad0a2f8eafb9a03248adf238",
+   "title": "和 Opus 5.5 同题交卷，MiniMax M3.1 让 Flash 开始超纲了",
+   "summary": "从智能的高度，到使用的广度#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
+   "link": "https://www.ifanr.com/1682850?utm_source=rss&utm_medium=rss&utm_campaign=",
+   "source": "爱范儿",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 14:01",
+   "ts": 1790920885
   }
  ]
 }
