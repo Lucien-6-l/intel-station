@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03 14:09",
- "total": 281,
+ "updated_at": "2026-10-03 14:51",
+ "total": 269,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,7 +10,6 @@
   "数码",
   "汽车",
   "游戏",
-  "科学",
   "财经"
  ],
  "items": [
@@ -28,6 +27,71 @@
    "ts": 1791010800
   },
   {
+   "id": "95da2cd908ac8be68366b8c379b103f4",
+   "title": "民政部：防范非法养老 App 以“民惠通”等为名诈骗",
+   "summary": "IT之家 10 月 3 日消息，据民政部官网，近期一些非法养老 App 以“民惠通”等为名实施诈骗。不法分子伪造文件、冒充民政部工作人员，宣称可“发放高龄补贴”等，要求先交所谓“保险金”“保证金”“激活费”。随后，骗局还可能以“签到赚钱”“高额返利”“拉人头返佣”等方式诱导继续充值或投资，最终出现无法提现。图谱把这条链",
+   "link": "https://www.ithome.com/1/009/457.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 14:50",
+   "ts": 1791010219
+  },
+  {
+   "id": "6a9480a6c8ab1160e4618a7540d0e772",
+   "title": "华为李小龙回应睿影 Z10 模块相机不支持 62mm 滤镜，称为避免遮挡红枫摄像头导致偏色而特意设计",
+   "summary": "IT之家 10 月 3 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为睿影 Z10 模块相机正式发布，采用 HyperClick 超级卡口设计，定价 5999 元（典藏版套装定价 19499 元）。有网友第一时间购买了华为睿影 Z10 模块相机，并专门为其配了 62mm 滤镜。但网友",
+   "link": "https://www.ithome.com/1/009/456.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 14:50",
+   "ts": 1791010209
+  },
+  {
+   "id": "63ced0c5590b02be7f62127e6dd63118",
+   "title": "前索尼 PlayStation 负责人莱登喊话微软 XBOX CEO 夏尔马：现在就是你们的 Dreamcast 时刻",
+   "summary": "IT之家 10 月 3 日消息，据外媒 Eurogamer 今天（3 日）报道，前索尼 PlayStation 负责人肖恩 · 莱登认为，XBOX 需要尽快明确自己的定位：究竟继续做需要独占游戏支撑的主机平台，还是凭借动视暴雪等业务转向大型游戏发行商。无论选择哪条路，都不能再在独占策略上反复摇摆。本世代 XBOX Se",
+   "link": "https://www.ithome.com/1/009/455.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 14:46",
+   "ts": 1791009979
+  },
+  {
+   "id": "abc43b93a8dfa461afc216d020ec2e58",
+   "title": "经典国产动作游戏《艾希》续作《艾希：续》众筹金额破 1800 万，明年 5 月 1 日发售",
+   "summary": "IT之家 10 月 3 日消息，在国产横版动作游戏《艾希》（ICEY）发售十年后，作者老马克肖公布了游戏续作《艾希：续》，本作于 10 月 1 日开启众筹，截至（10 月 3 日）IT之家发稿，目前众筹金额已突破 1800 万元。官方在致谢文中提到，目前开发组的核心目标是把明年 5 月 1 日上线的版本踏踏实实做好，还",
+   "link": "https://www.ithome.com/1/009/454.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 14:41",
+   "ts": 1791009714
+  },
+  {
+   "id": "4379be73d6920584da9eeacd6c6dd4e2",
+   "title": "刷新车型售价纪录：迈克尔 · 乔丹开过的法拉利 550 Maranello 跑车拍出 270 万美元",
+   "summary": "IT之家 10 月 3 日消息，汽车媒体 CarScoops 昨日（10 月 2 日）发布博文，报道称迈克尔 · 乔丹（Michael Jordan）曾拥有的 1997 年款法拉利 550 Maranello 以 270 万美元（IT之家注：现汇率约合 1,812.9 万元人民币）成交，远超 70 万至 130 万美元",
+   "link": "https://www.ithome.com/1/009/453.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 14:40",
+   "ts": 1791009648
+  },
+  {
    "id": "5ab5ea783140d050f5043980ea6053a4",
    "title": "Antonelli fastest from Verstappen ahead of qualifying in Malaysia",
    "summary": "Kimi Antonelli was fastest from Max Verstappen in final practice for the Bahrain Grand Prix in Malaysia to set up a Mercedes versus Red Bull fight for pole posi",
@@ -41,17 +105,121 @@
    "ts": 1791009600
   },
   {
-   "id": "79e412097da37bdbdb7812611a9fc2a3",
-   "title": "将语音与音乐作为单一连贯音轨共同生成，AI 音乐制作平台 Suno 推出 Speech 语音功能",
-   "summary": "IT之家 10 月 3 日消息，当地时间 10 月 1 日，AI 音乐制作平台 Suno 宣布推出 Speech，Suno 宣称这是业界首个能够将语音与音乐作为单一连贯音轨共同生成的音频模型。据悉，该模型并非像传统工作流那样先做 TTS（文本转语音）再拼接 BGM，而是端到端一体化生成，是首个能单次生成完整融合“语音朗",
-   "link": "https://www.ithome.com/1/009/440.htm",
+   "id": "918d7f1a021bd1c0f7ad6d37298196a8",
+   "title": "华硕 ROG 八爪鱼 8 电竞无线路由器现身：规格类似上代，改进使用体验",
+   "summary": "IT之家 10 月 3 日消息，华硕 (ASUS) 玩家国度 (ROG) 即将面向中国大陆市场推出“八爪鱼 8”电竞无线路由器。这一产品支持新的 802.11bn 规范，整体规格与上代“八爪鱼 7”(Rapture GT-BE96) 类似。“八爪鱼 8”基于博通 4 核 2.6GHz 处理器，配备 2GB DDR4 内",
+   "link": "https://www.ithome.com/1/009/452.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 14:38",
+   "ts": 1791009530
+  },
+  {
+   "id": "b13561fc072cd894c67fa0e2195dff9a",
+   "title": "“争气机”换更强“争气芯”：全系韬芯片之华为 Mate 90 发布，央视报道称走出世界半导体的新路",
+   "summary": "IT之家 10 月 3 日消息，在 10 月 1 日的华为 Mate 90 系列及全场景新品发布会上，华为年度旗舰 ——Mate 90 系列手机正式发布，全系搭载了韬定律芯片。旗舰 τ 芯片：麒麟 9030（Mate 90）、麒麟 9035（Mate 90 Pro）；逻辑折叠 τ 芯片：麒麟 9050（Mate 90 ",
+   "link": "https://www.ithome.com/1/009/451.htm",
    "source": "IT之家",
    "channel": "AI·科技",
    "category": "发布/大事件",
    "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 14:38",
+   "ts": 1791009527
+  },
+  {
+   "id": "f24c7616ed54f379be641faf52e24168",
+   "title": "迪士尼回应收购 Epic 传闻：无相关计划，双方的合作关系非常紧密",
+   "summary": "IT之家 10 月 3 日消息，今年早些时候，有传闻称迪士尼可能全盘收购 Epic 公司，但迪士尼总裁兼首席创意官达娜 · 沃尔登（Dana Walden）明确表示，这并不在议程之中。在接受彭博社采访、被问及迪士尼是否可能全资收购该公司时，她表示：“显而易见，此前我们针对投资与入股开展过极其严谨的考量与探讨，”同时她补",
+   "link": "https://www.ithome.com/1/009/449.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 14:34",
+   "ts": 1791009251
+  },
+  {
+   "id": "0074f00e930ca76d153a56d69bcae9d7",
+   "title": "GOG 喜加一：Roguelike 铁路经营模拟游戏《Bounty Train》免费领",
+   "summary": "IT之家 10 月 3 日消息，GOG 平台现已开启新一轮限时免费“喜加一”活动，玩家可以在北京时间 2026 年 10 月 5 日 21:00 前免费领取 Roguelike 铁路经营模拟游戏《Bounty Train（赏金列车）》，本作提供简体中文界面 / 字幕。IT之家附领取地址（https://www.gog.",
+   "link": "https://www.ithome.com/1/009/448.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
    "urgent": false,
-   "fetched_at": "10-03 14:01",
-   "ts": 1791007272
+   "fetched_at": "10-03 14:34",
+   "ts": 1791009251
+  },
+  {
+   "id": "dc1ec61b817502cab0802f258aa25567",
+   "title": "宝马入门车型确认“来电”，新世代 i1 将于 2028 年问世",
+   "summary": "IT之家 10 月 3 日消息，当地时间 9 月 30 日，据外媒 BMW Blog 报道，宝马传闻已久的入门级电动汽车终于得以确认。新车预计命名为宝马 i1，将于 2028 年面向欧洲推出，并成为宝马价格最低的新世代车型。据知情人士透露，新车内部代号“NB0”，将采用五门掀背车造型。宝马预计会以 i1 的名称推出新车",
+   "link": "https://www.ithome.com/1/009/447.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 14:31",
+   "ts": 1791009073
+  },
+  {
+   "id": "e25d0908962aa33c5d8f82bbae5d7d57",
+   "title": "Huawei Mate 90 Pro Max runs Geekbench, revealing Kirin 9050 Pro performance",
+   "summary": "Huawei launched four new Mate 90 series phones in China yesterday and the more capable Pro Max and RS models feature the brand’s latest Kirin 9050 Pro chipset. ",
+   "link": "https://www.gsmarena.com/huawei_mate_90_pro_max_runs_geekbench_revealing_kirin_9050_pro_performance__-news-74881.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 14:31",
+   "ts": 1791009062
+  },
+  {
+   "id": "605a226af768a1966a10c6f501e46da5",
+   "title": "HPE 获得其首笔 AMD \"Helios\" AI 机架订单，价值 12 亿美元",
+   "summary": "IT之家 10 月 3 日消息，HPE（慧与）当地时间 9 月 30 日宣布获得该企业首笔 AMD \"Helios\" AI 机架系统订单。这笔价值 12 亿美元（IT之家注：现汇率约合 80.57 亿元人民币）的订单由私有云基础设施企业 Vultr 下达。Vultr 是 Juniper Networks（瞻博网络）的合",
+   "link": "https://www.ithome.com/1/009/446.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 14:23",
+   "ts": 1791008629
+  },
+  {
+   "id": "09a27fe9b10289c8edef888865ac19a1",
+   "title": "佳能 EOS R7 V 曝光：专用视频 APS-C 画幅相机，预估 2027 年底发布",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 dailycameranews 昨日（10 月 2 日）发布博文，报道称佳能拟将旗舰 APS-C 产品线拆分为照片与视频两条路线，其中专用视频机型 EOS R7 V 预计于 2027 年底或 2028 年初发布。IT之家援引博文介绍，佳能计划将旗舰 APS-C 无反产品线细分为",
+   "link": "https://www.ithome.com/1/009/445.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 14:23",
+   "ts": 1791008583
+  },
+  {
+   "id": "9eaa0083d3e19ea27974c9487ef7a4df",
+   "title": "B站连续三年独家承办WF手办模型展，站内模玩相关UP主超76万",
+   "summary": "10月3日至4日，2026哔哩哔哩上海国际手办模型文化博览会（以下简称“WF2026”）在上海新国际博览中心正式拉开帷幕。作为全球规模最大的手办模型展会，WF2026在规模与阵容上进一步扩大，两日活动线下参与总人次预计突破15万。\n据了解，WF2026吸引超过400家品牌展商参与，展会老品牌展商续展率高达95.8%，同",
+   "link": "https://www.gcores.com/articles/220495",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "发布/大事件",
+   "weight": 3,
+   "urgent": true,
+   "fetched_at": "10-03 14:18",
+   "ts": 1791008322
   },
   {
    "id": "447debce32d2cc9c7e504248c8b4d503",
@@ -65,71 +233,6 @@
    "urgent": false,
    "fetched_at": "10-03 14:00",
    "ts": 1791007200
-  },
-  {
-   "id": "5d62055121b46701c299b24959c6dbc0",
-   "title": "路透社：AI 正竞相在资金耗尽之前改变世界",
-   "summary": "IT之家 10 月 3 日消息，路透社今天（3 日）发表题为《人工智能竞相在资金耗尽之前改变世界（AI's race to transform the world before the money runs out）》的长篇文章，其中提到，从未有何种新技术像 AI 这样吸引如此巨额的资金。铁路建设和互联网兴起都曾掀起资",
-   "link": "https://www.ithome.com/1/009/439.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 13:52",
-   "ts": 1791006766
-  },
-  {
-   "id": "bc1aa82b42c7110b8c777cfe5c8e8f48",
-   "title": "Turbo GT 版保时捷电动卡宴 Coupe 曝光，动力有望破 1200 马力",
-   "summary": "IT之家 10 月 3 日消息，汽车媒体 CarScoops 今天（10 月 3 日）发布博文，分享了一组在装卸过程中抓拍的图片，展示了保时捷正在研发的 Turbo GT 版电动卡宴 Coupe。IT之家援引博文介绍，保时捷今年早些时候推出电动 Cayenne Coupe 家族，包含入门级 Coupe（435 马力）、",
-   "link": "https://www.ithome.com/1/009/438.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 13:48",
-   "ts": 1791006530
-  },
-  {
-   "id": "9c800705152b7562612edbbf9c26b1af",
-   "title": "2026 国庆假期第三天，全国铁路预计发送旅客 1890 万人次、加开列车 910 列",
-   "summary": "IT之家 10 月 3 日消息，据央视新闻，今天（10 月 3 日）是 2026 国庆假期的第三天，全国公路、铁路、民航、水路客流持续高位运行。旅游出行热度居高不下，景区观光、城市漫游、短途度假等出行需求集中释放，交通部门持续增加热门旅游线路运力投放。全国铁路今天预计发送旅客 1890 万人次，预计加开列车 910 列",
-   "link": "https://www.ithome.com/1/009/437.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 13:36",
-   "ts": 1791005781
-  },
-  {
-   "id": "c3a181dac4b3198fbf6a45f4e7c58963",
-   "title": "如何用好 GPT-6 系列 AI 模型？OpenAI 放出指南，教你选模型、优化提示词等",
-   "summary": "IT之家 10 月 3 日消息，OpenAI 昨日（10 月 2 日）发布博文，分享了 GPT‑6 系列模型指南，介绍了诸多使用技巧，让用户控制时间和成本的同时，充分发挥 GPT‑6 系列 AI 模型能力。官方介绍称：GPT‑6 是我们迄今最先进的模型系列，提供多款模型供你选择，以适应不同类型的工作。无论你是将想法转化",
-   "link": "https://www.ithome.com/1/009/436.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 13:33",
-   "ts": 1791005605
-  },
-  {
-   "id": "07e5359ca53a6f744ad0525f81abebf9",
-   "title": "重塑智能眼镜光学方案：TDK 展示全球首款超构光学镜 DRP 显示屏",
-   "summary": "IT之家 10 月 3 日消息，日本电子元器件厂商 TDK 昨日（10 月 2 日）发布公告，展示了全球首款采用超构光学镜（Meta-Optic Mirror）的直接视网膜投影（DRP）智能眼镜显示屏。全球智能眼镜出货量预计将快速增长，到 2030 年将达到 8,300 万台。（来源：富士奇美拉研究所《2025 年 X",
-   "link": "https://www.ithome.com/1/009/434.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 13:11",
-   "ts": 1791004264
   },
   {
    "id": "dc75af136df201386830e7af6e3e988c",
@@ -158,22 +261,9 @@
    "ts": 1791003900
   },
   {
-   "id": "b0dd62fbcdd3f1858772205d356a1550",
-   "title": "蔚来充电服务突破 1 亿次，86.67% 充电电量服务于非蔚来公司品牌用户",
-   "summary": "IT之家 10 月 3 日消息，蔚来今日宣布，2026 年 10 月 3 日 11:08:41，蔚来充电服务突破 1 亿次。官方表示，86.67% 充电电量服务于非蔚来公司品牌用户，为所有新能源汽车用户假期出行加电。截至目前，蔚来已在全国累计建成 9,522 座充换电站，提供充换电服务超过 2.2 亿次，其中充电站 5",
-   "link": "https://www.ithome.com/1/009/433.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 12:57",
-   "ts": 1791003463
-  },
-  {
    "id": "eec9f70090370bef588c6b9f57a482b6",
    "title": "An Update on Orion for Linux and Windows",
-   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 6\n# Comments: 0",
+   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 11\n# Comments: 3",
    "link": "https://blog.kagi.com/update-orion-linux-windows",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -182,32 +272,6 @@
    "urgent": false,
    "fetched_at": "10-03 12:53",
    "ts": 1791003237
-  },
-  {
-   "id": "5b1cf9ae192e3e6418477c930289c1b3",
-   "title": "微软向老用户抛橄榄枝：Win10/Win11 新版 Outlook 可换装经典版样式",
-   "summary": "IT之家 10 月 3 日消息，科技媒体 Windows Latest 今天（10 月 3 日）发布博文，报道称微软为推动 Windows 10、Windows 11 用户迁移到新版 Outlook，推出“经典版 Outlook 样式”主题，可以复刻 Outlook Classic 的界面外观。报道称微软于 2026 ",
-   "link": "https://www.ithome.com/1/009/432.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 12:53",
-   "ts": 1791003226
-  },
-  {
-   "id": "7e6a4e4ae1bead6f6186c6dd989649a8",
-   "title": "10 月 9 日起，未订阅用户仅能使用谷歌 Gemini Flash-Lite 模型",
-   "summary": "IT之家 10 月 3 日消息，谷歌 Gemini 应用帮助中心显示，自 2026 年 10 月起，使用个人账号访问 Gemini 应用时，模型可用情况将发生变更。自 2026 年 10 月 9 日起，Gemini Web / App 端免费个人用户不再默认提供完整的 Flash 模型（以及 Pro 模型访问），而是统",
-   "link": "https://www.ithome.com/1/009/431.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 12:53",
-   "ts": 1791003196
   },
   {
    "id": "1ed152348f461653d10bf75705236e27",
@@ -234,58 +298,6 @@
    "urgent": false,
    "fetched_at": "10-03 12:41",
    "ts": 1791002474
-  },
-  {
-   "id": "0f37ea3bd0c7428d4f74a8c66fa30b09",
-   "title": "OpenAI 自研 AI 芯片 Jalapeño ASIC 量产部署，因“务实”选择搭配 AMD Turin",
-   "summary": "IT之家 10 月 3 日消息，科技媒体 Tom's Hardware 昨日（10 月 2 日）发布博文，报道称 OpenAI 公司已内部部署其自研 Jalapeño ASIC 芯片，与配备 1.5TB 内存的 AMD EPYC Turin 主机配合使用。在接受该媒体采访时，OpenAI 副总裁兼硬件主管理查德 · 何",
-   "link": "https://www.ithome.com/1/009/430.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 12:38",
-   "ts": 1791002333
-  },
-  {
-   "id": "66db9b4846754457873a29e8971ad216",
-   "title": "日本厂商推出华为 WATCH FIT 5 智能手表《超辉夜姬！》动画电影版：定制表带、表盘等，3.96 万日元",
-   "summary": "IT之家 10 月 3 日消息，当地时间 9 月 29 日，日本腕表与动漫周边企划商 U-ENI 贸易宣布，旗下专注于角色联名的品牌“GARRACK”正式推出以动画电影《超辉夜姬！》（超时空辉夜姬）中的辉夜、酒寄彩叶及月见八千代为设计灵感的智能手表，基于华为 WATCH FIT 5 定制。相关产品定于 10 月 2 日",
-   "link": "https://www.ithome.com/1/009/428.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 12:30",
-   "ts": 1791001855
-  },
-  {
-   "id": "6f2e63914e9df32350567497cc9c47e9",
-   "title": "What if AI worked at 1.000.000 tokens per seconds?",
-   "summary": "Article URL: https://www.echohive.ai/one-million-tokens-per-second\nComments URL: https://news.ycombinator.com/item?id=49941327\nPoints: 4\n# Comments: 2",
-   "link": "https://www.echohive.ai/one-million-tokens-per-second",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 12:22",
-   "ts": 1791001341
-  },
-  {
-   "id": "242fb078c37bc6b7a6e91360d1f95123",
-   "title": "曝美国陆军着手组建自主系统司令部，推动机器人技术进入未来战争",
-   "summary": "IT之家 10 月 3 日消息，据美媒 Axios 获得的一份备忘录，美国陆军着手组建新的自主系统司令部，同时任命专门负责采购的官员，加快智能装备采购和列装。这些部署由代理陆军部长亚当 · 特尔下达。就在当地时间 1 日，美国国防部长皮特 · 赫格塞思公布了 Meridian 和 Agincourt 两个项目，重点都是",
-   "link": "https://www.ithome.com/1/009/427.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 12:19",
-   "ts": 1791001174
   },
   {
    "id": "7d8eb8fa65e3b59871212efb5c8dd077",
@@ -316,7 +328,7 @@
   {
    "id": "61c2fcf1db281fa8da97648647f3047e",
    "title": "Extra Big Ass Intelligence",
-   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 79\n# Comments: 12",
+   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 117\n# Comments: 26",
    "link": "https://www.extrabigassintelligence.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -329,7 +341,7 @@
   {
    "id": "e153fef4c61f951b0d4a131dbe6cbf99",
    "title": "Cloudflare OHTTP gateway",
-   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 37\n# Comments:",
+   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 48\n# Comments:",
    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -405,19 +417,6 @@
    "ts": 1790990510
   },
   {
-   "id": "a8a103a5c415df52b05d67dfa2606d26",
-   "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-   "summary": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 33\n# Comm",
-   "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 09:09",
-   "ts": 1790989741
-  },
-  {
    "id": "b89b0aa0fbbf988243539cb427ce7fdd",
    "title": "Here's when Honor's wide foldable is now rumored to launch",
    "summary": "If you trust rumors, Honor has been working on a wide foldable of its own for quite some time now. Last we heard anything about it, it was apparently supposed t",
@@ -446,7 +445,7 @@
   {
    "id": "191bd1c28b2d6d360ae0a2ed679bf01f",
    "title": "Newgrounds.com – A community of games, music, and art",
-   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 136\n# Comments: 35",
+   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 154\n# Comments: 41",
    "link": "https://www.newgrounds.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -511,7 +510,7 @@
   {
    "id": "eee1a4dc184033604a268feb7c4d4a69",
    "title": "Where Is the Planet",
-   "summary": "Article URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 21\n# Comments: 1",
+   "summary": "Article URL: http://whereistheplanet.com\nComments URL: https://news.ycombinator.com/item?id=49940233\nPoints: 22\n# Comments: 3",
    "link": "http://whereistheplanet.com",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -524,7 +523,7 @@
   {
    "id": "9f28acfc82367b8cd3b7290bc672e21b",
    "title": "Things that apparently cause cancer",
-   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 156\n#",
+   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 168\n#",
    "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1185,6 +1184,19 @@
    "ts": 1790974022
   },
   {
+   "id": "7e28dfddaf0aed2d57d27c663f3ab25a",
+   "title": "Barcodes are about to go extinct",
+   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 7\n# Comment",
+   "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 04:37",
+   "ts": 1790973427
+  },
+  {
    "id": "9096388c55152289eb0914769fc14524",
    "title": "‘HomePad’ coming: Will Apple hold an October special event?",
    "summary": "With Apple reportedly planning to unveil new products on October 13, here’s when the company could announce an event, based on the timing of its previous Octobe",
@@ -1369,7 +1381,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 170\n# Comments: 108",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 174\n# Comments: 115",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1406,9 +1418,22 @@
    "ts": 1790969400
   },
   {
+   "id": "1e6b53073bc57a4ec4b78690a8144d2b",
+   "title": "Make Tmux the OS",
+   "summary": "Article URL: https://matduggan.com/what-does-my-dream-os-ui-look-like/\nComments URL: https://news.ycombinator.com/item?id=49937540\nPoints: 18\n# Comments: 4",
+   "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 03:29",
+   "ts": 1790969347
+  },
+  {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 174\n# Comments: 78",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 176\n# Comments: 79",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1486,7 +1511,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 382\n# Comments: 236",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 389\n# Comments: 239",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2459,19 +2484,6 @@
    "ts": 1790941863
   },
   {
-   "id": "e161ff8f46b06f4c41811051d93fce48",
-   "title": "iPhone Duo's inner display protector is replaceable, here's how much it costs",
-   "summary": "According to Apple's service and repair website, the iPhone Duo's top layer of the foldable screen can be replaced. And it's quite cheap if you have AppleCare.\n",
-   "link": "https://www.gsmarena.com/iphone_duos_inner_display_cover_can_be_replaced-news-74873.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 19:06",
-   "ts": 1790939162
-  },
-  {
    "id": "0f0954bac2c81d677284c98ac315b61c",
    "title": "对“死亡”的极致迷恋：电影与绘画中的死亡狂欢",
    "summary": "凡人终有一死，但从未有过死去的人返回现世，告诉我们那个世界的样子。这恰恰激发了艺术家对于死后世界的想象。从中世纪的死亡之舞，到墨西哥的亡灵狂欢，用不同国家、不同文明的绘画与电影，和你一起拆解令人迷恋的“死亡美学”。",
@@ -2506,6 +2518,19 @@
    "channel": "AI·科技",
    "category": "发布/大事件",
    "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 17:30",
+   "ts": 1790933400
+  },
+  {
+   "id": "f9fe4f43f2981fb96c5d5a4fd9159aec",
+   "title": "最好的《火焰纹章》与最坏的《金刚狼》&《瘟疫传说》新作&《战狗》【游戏日记】 | 走神大师227",
+   "summary": "最好的《火焰纹章》与最坏的《金刚狼》，以及《瘟疫传说》新作与《战狗》【游戏日记】 | 走神大师227参与人员：修理、箱子、九十玖、LostOP&amp;ED：True to His Colors - Fire Emblem Fortune's Weave各位国庆快乐！本期录制于 10 月 1 日国庆节当晚，大师众人放弃",
+   "link": "https://www.gcores.com/radios/220491",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
    "urgent": false,
    "fetched_at": "10-02 17:30",
    "ts": 1790933400
@@ -2587,32 +2612,6 @@
    "urgent": false,
    "fetched_at": "10-02 15:27",
    "ts": 1790926023
-  },
-  {
-   "id": "e95019c838459efa37a3d979b87f5f45",
-   "title": "Bushiroad旗下游戏现已开启限时折扣促销",
-   "summary": "Bushiroad Inc.将于2026年10月2日（星期五）起举办“Bushiroad Autumn Sale 2026”，旗下 Nintendo Switch 下载版及 Steam 版游戏将在活动期间以限时优惠价格发售。\nBushiroad旗下游戏的 Nintendo Switch 下载版与 Steam 版现已开启",
-   "link": "https://www.gcores.com/articles/220469",
-   "source": "机核网",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-02 14:53",
-   "ts": 1790924004
-  },
-  {
-   "id": "27e9547643c04e8e988a56c7668fd6c8",
-   "title": "arXiv最严新规！每人每月最多提交2篇，拒稿不退额度",
-   "summary": "换区也没用",
-   "link": "https://www.qbitai.com/2026/10/499958.html",
-   "source": "量子位",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-02 14:46",
-   "ts": 1790923592
   }
  ]
 }
