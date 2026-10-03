@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03 18:48",
- "total": 280,
+ "updated_at": "2026-10-03 19:25",
+ "total": 268,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,10 +10,113 @@
   "数码",
   "汽车",
   "游戏",
-  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "e2c3f495c6c7b5f0e734b75b3836a319",
+   "title": "F1 boss Domenicali confirms plan to stage final two races in Middle East",
+   "summary": "",
+   "link": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 19:53",
+   "ts": 1791028380
+  },
+  {
+   "id": "023b970ec59ae7d05b1f319cad218049",
+   "title": "Pretorius breaks record for highest individual T20 score",
+   "summary": "Lhuan-dre Pretorius smashed an unbeaten 188 from 79 balls for South Africa&#8217;s Titans against the Knights on Friday, setting a new record for the highest in",
+   "link": "https://www.skysports.com/cricket/news/12040/13594655/lhuan-dre-pretorius-unbeaten-188-breaks-chris-gayles-record-for-highest-t20-score",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 19:36",
+   "ts": 1791027360
+  },
+  {
+   "id": "7660c96eb191770b1535c226e7a70b14",
+   "title": "外媒试玩 VR 游戏《新世纪福音战士：ΔCROSS REFLECTIONS》：线性叙事结构、支持体感战斗",
+   "summary": "IT之家 10 月 3 日消息，韩国工作室 Pixelity 将于明年推出基于经典动画《新世纪福音战士》改编的 VR 游戏《EVANGELION：Δ CROSS REFLECTIONS》，目前媒体 RoadtoVR 提前体验了游戏早期版本中的“Story Mode（故事模式）”和“Battle Mode（战斗模式）”，",
+   "link": "https://www.ithome.com/1/009/530.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 19:15",
+   "ts": 1791026148
+  },
+  {
+   "id": "2945a1febdddeff63037f7840e4f177c",
+   "title": "College football odds, picks, predictions for Week 5, 2026: Computer likes Navy, Missouri",
+   "summary": "SportsLine's model has revealed its 2026 Week 5 college football picks for Ohio State vs. Iowa, Alabama vs. Mississippi State and every other game",
+   "link": "https://www.cbssports.com/betting/news/college-football-odds-lines-game-picks-predictions-betting-guide-for-week-5-2026/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 19:04",
+   "ts": 1791025459
+  },
+  {
+   "id": "67d963cc6ae54b88785a8d651c1f2e35",
+   "title": "'It's like I won!' - Hamilton's wholesome reaction to qualifying on front row",
+   "summary": "Lewis Hamilton's wholesome reaction to qualifying on front row at Bahrain GP in Malaysia.",
+   "link": "https://www.skysports.com/watch/video/13594641/lewis-hamilton-wholesome-reaction-to-qualifying-on-front-row-at-bahrain-gp-in-malaysia",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 19:03",
+   "ts": 1791025380
+  },
+  {
+   "id": "ef74f34431fe6dabf2cfef20c1670c32",
+   "title": "开发者为经典 FPS《泰坦陨落 2》单人战役模式推出免费 VR 模组：支持体感操作武器换弹",
+   "summary": "IT之家 10 月 3 日消息，模组作者 CircuitLord 宣布为经典 FPS 游戏《泰坦陨落 2》推出一款免费 VR 模组，为游戏加入头部追踪、武器瞄准、机甲武器控制以及手动换弹等功能，玩家可以通过 CircuitLord 制作的 Mod 安装器进行快速安装。除了头部追踪和 VR 武器瞄准外，玩家还可以利用手部",
+   "link": "https://www.ithome.com/1/009/529.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 19:02",
+   "ts": 1791025360
+  },
+  {
+   "id": "adae8be12bad3c8af712b9929a805311",
+   "title": "These 9 Thunderbird features made me ditch Gmail for good",
+   "summary": "The underdog with cooler and better features",
+   "link": "https://www.androidauthority.com/ditched-gmail-for-thunderbird-why-3716057/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 19:00",
+   "ts": 1791025234
+  },
+  {
+   "id": "5bcc8a7e3374f429f0d35d1a01e13a7b",
+   "title": "总想在游戏里花钱？我真没招了【视频播客音频版】",
+   "summary": "欢迎回到“核电波”！今天聊聊为什么我们总喜欢在游戏里花钱？ 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【核电波】   本期主播：Nadya / 西蒙 / Ryoma",
+   "link": "https://www.gcores.com/radios/220498",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-03 18:58",
+   "ts": 1791025121
+  },
   {
    "id": "20b204fef87ddb16377c900a52339be9",
    "title": "How Trading In a Car Works",
@@ -52,6 +155,19 @@
    "urgent": false,
    "fetched_at": "10-03 18:30",
    "ts": 1791023443
+  },
+  {
+   "id": "563e651586884c06078b385ac4c9740f",
+   "title": "Bahrain Grand Prix in Malaysia | Qualifying highlights",
+   "summary": "Highlights of qualifying at the Bahrain Grand Prix in Malaysia on the Sepang International Circuit.",
+   "link": "https://www.skysports.com/watch/video/13594628/bahrain-grand-prix-in-malaysia-qualifying-highlights",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 18:26",
+   "ts": 1791023160
   },
   {
    "id": "d50d7f5a0412de50ce8e98d75c26705d",
@@ -117,6 +233,19 @@
    "urgent": true,
    "fetched_at": "10-03 17:59",
    "ts": 1791021594
+  },
+  {
+   "id": "39eb24b7997e394eecf6158b77f3d6c8",
+   "title": "GitHub's new dashboard experience now the default",
+   "summary": "Article URL: https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/\nComments URL: https://news.ycombinator.com/item?id=49942818\nPoin",
+   "link": "https://github.blog/changelog/2026-10-01-new-dashboard-experience-now-the-default/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 17:59",
+   "ts": 1791021541
   },
   {
    "id": "8b33fd443367b8cf0f57e44efa67bcbd",
@@ -249,6 +378,19 @@
    "ts": 1791018943
   },
   {
+   "id": "7d926159ad21cfe424b10dc2167e30c3",
+   "title": "Gemini ending free use of Flash and Pro models",
+   "summary": "Article URL: https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/\nComments URL: https://news.ycombinator.com/item",
+   "link": "https://www.reddit.com/r/GeminiAI/comments/1wwalmc/wtf_google_getting_rid_of_free_gemini_flash_and/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 17:13",
+   "ts": 1791018799
+  },
+  {
    "id": "62b9613e22c6eafbfa77f459b2f08018",
    "title": "交通运输部：10 月 3 日全国 24 个高速公路路段易发拥堵",
    "summary": "IT之家 10 月 3 日消息，据交通运输部动态研判，10 月 3 日，全国高速公路有 24 个路段易发拥堵，主要集中在江苏、广东、四川、陕西等省份。如计划途经这些路段，请合理安排出行时间和路线。序号省份城市路线编号路线名称起点桩号止点桩号方向1江苏无锡市G2京沪高速K1133K1099下行2江苏常州市G25长深高速K",
@@ -262,19 +404,6 @@
    "ts": 1791018775
   },
   {
-   "id": "ee8490b63ec9312af3c44a3cbf487012",
-   "title": "HMD M-Kopa X4e 运营商定制机曝光：Helio G81 处理器 + 4GB RAM",
-   "summary": "IT之家 10 月 3 日消息，消息源 smashx_60 现已曝光了 HMD M-Kopa X4e 运营商定制机型规格信息，该机基于 HMD Luma2 手机打造，但规格更为精简。该机配备一块 90Hz IPS LCD 面板，匹配 8MP 自拍摄像头；手机背面配备 50MP 主摄摄像头。搭载 4GB LPDDR4X ",
-   "link": "https://www.ithome.com/1/009/513.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 17:12",
-   "ts": 1791018762
-  },
-  {
    "id": "41e7e78133aaa9cba8319450709f29f7",
    "title": "My Samsung phone was full of screenshots. This quick trick fixed it",
    "summary": "It should be possible to do this natively.",
@@ -286,19 +415,6 @@
    "urgent": false,
    "fetched_at": "10-03 17:00",
    "ts": 1791018003
-  },
-  {
-   "id": "b25ee25e539ac211c5d902cac536921f",
-   "title": "YouTube 调整 Shorts 短视频推荐算法：打击搬运内容、优先推荐原创作品",
-   "summary": "IT之家 10 月 3 日消息，据外媒 engadget 报道，YouTube 平台正在调整 Shorts 短视频推荐算法，计划降低主要通过搬运其他创作者内容、且没有进行实质性加工的账号曝光度。YouTube 称，此次算法调整将进一步“优先推荐原创内容”，而“那些主要聚焦于搬运其他平台视频的频道，可能会在 Shorts",
-   "link": "https://www.ithome.com/1/009/511.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 16:56",
-   "ts": 1791017795
   },
   {
    "id": "8cb2ced6c5204496cc5ef9659b28c41a",
@@ -418,6 +534,19 @@
    "ts": 1791009062
   },
   {
+   "id": "e746cd469fff1574edb4094345b0024a",
+   "title": "'It's not a snake, is it?!' - Mystery object brings out red flag!",
+   "summary": "A mystery object brings out the red flag and stops final practice at the Bahrain Grand Prix in Malaysia.",
+   "link": "https://www.skysports.com/watch/video/13594558/bahrain-gp-in-malaysia-mystery-object-brings-out-red-flag-and-stops-final-practice",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 14:21",
+   "ts": 1791008460
+  },
+  {
    "id": "9eaa0083d3e19ea27974c9487ef7a4df",
    "title": "B站连续三年独家承办WF手办模型展，站内模玩相关UP主超76万",
    "summary": "10月3日至4日，2026哔哩哔哩上海国际手办模型文化博览会（以下简称“WF2026”）在上海新国际博览中心正式拉开帷幕。作为全球规模最大的手办模型展会，WF2026在规模与阵容上进一步扩大，两日活动线下参与总人次预计突破15万。\n据了解，WF2026吸引超过400家品牌展商参与，展会老品牌展商续展率高达95.8%，同",
@@ -444,19 +573,6 @@
    "ts": 1791007200
   },
   {
-   "id": "34cf9c831e26776a8d6119e730f213ac",
-   "title": "Memory-Safe WebP Decoding",
-   "summary": "Article URL: https://halide.cx/blog/wpd/\nComments URL: https://news.ycombinator.com/item?id=49941641\nPoints: 7\n# Comments: 1",
-   "link": "https://halide.cx/blog/wpd/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 13:45",
-   "ts": 1791006330
-  },
-  {
    "id": "dc75af136df201386830e7af6e3e988c",
    "title": "'A switch flipped': Valkyries erase 16-point deficit against Wings, advance to WNBA semis to face the Aces",
    "summary": "This was the first playoff series win for the Valkyries, who just launched as an expansion team in 2025",
@@ -472,7 +588,7 @@
   {
    "id": "eec9f70090370bef588c6b9f57a482b6",
    "title": "An Update on Orion for Linux and Windows",
-   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 54\n# Comments: 22",
+   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 63\n# Comments: 29",
    "link": "https://blog.kagi.com/update-orion-linux-windows",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -537,7 +653,7 @@
   {
    "id": "61c2fcf1db281fa8da97648647f3047e",
    "title": "Extra Big Ass Intelligence",
-   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 305\n# Comments: 66",
+   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 313\n# Comments: 68",
    "link": "https://www.extrabigassintelligence.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -550,7 +666,7 @@
   {
    "id": "e153fef4c61f951b0d4a131dbe6cbf99",
    "title": "Cloudflare OHTTP gateway",
-   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 84\n# Comments:",
+   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 92\n# Comments:",
    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -613,6 +729,19 @@
    "ts": 1790991219
   },
   {
+   "id": "43251e6426bfca624c9f675484ef63fb",
+   "title": "秋促仅需8.4的《火线迈阿密》，凭什么让人死到红温还舍不得关游戏？",
+   "summary": "如果预算只有10元，去推荐一款高难度又极度耐玩的游戏，你最想推荐谁？首先排除《和班尼福特一起掘地求生》，它确实很难，但绝大数人红温之后都会选择离开。其次《Limbo》、《Inside》、《Braid》这样的，解谜难度高不假，也能讲好一个故事，只是通关后便再少捡起来的机会。\n如果只允许推荐一款，那我一定会推荐2012年的",
+   "link": "https://www.gcores.com/articles/220484",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-03 09:31",
+   "ts": 1790991069
+  },
+  {
    "id": "eff72ecd98b3738c7eae414d98e875c8",
    "title": "“Good Heavens”: Kathleen Turner Reacts to Michael Douglas’ Bombshell About Their Secret Romance During ‘Romancing the Stone’",
    "summary": "The two-time Oscar nominee revealed via a new excerpt from his 'One Helluva Ride' memoir that they had an affair during production on the 1984 movie.",
@@ -654,7 +783,7 @@
   {
    "id": "191bd1c28b2d6d360ae0a2ed679bf01f",
    "title": "Newgrounds.com – A community of games, music, and art",
-   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 240\n# Comments: 63",
+   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 244\n# Comments: 65",
    "link": "https://www.newgrounds.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -702,19 +831,6 @@
    "urgent": false,
    "fetched_at": "10-03 08:30",
    "ts": 1790987448
-  },
-  {
-   "id": "a379dc6d04bbcb02f737560f94e530d4",
-   "title": "College football odds, picks, predictions for Week 5, 2026: Computer likes Navy, Missouri",
-   "summary": "SportsLine's model has revealed its 2026 Week 5 college football picks for Ohio State vs. Iowa, Alabama vs. Mississippi State and every other game",
-   "link": "https://www.cbssports.com/betting/news/college-football-odds-lines-picks-spread-predictions-betting-guide-for-week-5-2026/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 08:27",
-   "ts": 1790987249
   },
   {
    "id": "641b2085e6abe2527cb3db18cdab4aca",
@@ -795,19 +911,6 @@
    "ts": 1790985600
   },
   {
-   "id": "96cfd47b633a41fb69e37840ea3fba1c",
-   "title": "Kim gains exemption from mandatory military service after Asian Games gold",
-   "summary": "Tom Kim secured an exemption from completing full mandatory military service in South Korea after he clinched gold in the Men's Individual Strokeplay event at t",
-   "link": "https://www.skysports.com/golf/news/12040/13594544/tom-kim-gains-exemption-from-south-koreas-military-service-after-securing-asian-games-gold-medal",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 07:51",
-   "ts": 1790985060
-  },
-  {
    "id": "6864cef92da7d4ec50f0d48e0822b376",
    "title": "George Cheeks May Be Poised for Expanded TV Role at Skydance Post Paramount-Warner Bros. Merger",
    "summary": "Paramount TV media chair George Cheeks, whose domain has included all of CBS in addition to the Paramount cable networks, is said to be in line for an expanded ",
@@ -847,19 +950,6 @@
    "ts": 1790983183
   },
   {
-   "id": "22a0da6865650c6a478d01f90733c898",
-   "title": "Wade and Aspinall make statement ahead of World Grand Prix semi-finals",
-   "summary": "James Wade and Nathan Aspinall put in statement performances that will have made their semi-final opponents take note ahead of a mouthwatering Saturday night li",
-   "link": "https://www.skysports.com/darts/news/12040/13594543/world-grand-prix-darts-james-wade-and-nathan-aspinall-with-statement-displays-ahead-of-semi-finals",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 07:19",
-   "ts": 1790983140
-  },
-  {
    "id": "5ead88f5064243e9e60eacabc739c5cb",
    "title": "‘Digger’: How Its Big Twist Saves the Movie From Being a Complete Disaster (Opinion)",
    "summary": "SPOILER ALERT: This story contains major spoilers for “Digger,” in theaters now via Warner Bros. When does a bad movie become a fascinating watch? So often the ",
@@ -886,19 +976,6 @@
    "ts": 1790982662
   },
   {
-   "id": "40e092680277ef9057e4810d28e2bde1",
-   "title": "Papers: Man Utd to consider legal action if Gabriel leaves",
-   "summary": "The top stories and transfer rumours from Saturday's newspapers...",
-   "link": "https://www.skysports.com/football/news/12040/13594537/man-utd-to-consider-legal-action-if-jj-gabriel-leaves-as-bayern-munich-barcelona-and-real-madrid-chase-youngster-paper-talk",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 07:07",
-   "ts": 1790982420
-  },
-  {
    "id": "1a43a8e1d46b44a91016a59aa0b1a442",
    "title": "Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build",
    "summary": "Former NFL coach Mike Tomlin spent 19 seasons with the Pittsburgh Steelers and won Super Bowl LXIII, and now he's added another major accomplishment to his resu",
@@ -923,19 +1000,6 @@
    "urgent": false,
    "fetched_at": "10-03 06:40",
    "ts": 1790980836
-  },
-  {
-   "id": "aa9063b31d5f38f6cc73966ce5acee0b",
-   "title": "Aston Villa latest: Garnacho scores in Antonio Puerta Trophy win over Sevilla",
-   "summary": "",
-   "link": "https://www.skysports.com/football/live-blog/12040/13025491/aston-villa-transfer-news-rumours-and-gossip-live-updates-and-latest-on-deals-signings-loans-and-contracts",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 06:40",
-   "ts": 1790980800
   },
   {
    "id": "52f1a1c1dee3d82b37dc6e84309316f9",
@@ -1053,19 +1117,6 @@
    "urgent": false,
    "fetched_at": "10-03 06:17",
    "ts": 1790979471
-  },
-  {
-   "id": "c9a6b9bd20d0234f70b8a41f3b9cb28f",
-   "title": "Zidane's France held by Italy as De Bruyne inspires Belgium",
-   "summary": "",
-   "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 06:16",
-   "ts": 1790979360
   },
   {
    "id": "d3b9a46002e3bded9dcdc13f8b8995ec",
@@ -1330,7 +1381,7 @@
   {
    "id": "7e28dfddaf0aed2d57d27c663f3ab25a",
    "title": "Barcodes are about to go extinct",
-   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 48\n# Commen",
+   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 51\n# Commen",
    "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1512,7 +1563,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 205\n# Comments: 138",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 209\n# Comments: 141",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1551,7 +1602,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 201\n# Comments: 87",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 202\n# Comments: 88",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1616,7 +1667,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 434\n# Comments: 269",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 439\n# Comments: 274",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1629,7 +1680,7 @@
   {
    "id": "b81aa1a9d9c293e210822b73d0e28433",
    "title": "The Nintendo 64 Partner-N64 Development Kit",
-   "summary": "https://archive.is/WCnLA\n\nComments URL: https://news.ycombinator.com/item?id=49937146\nPoints: 42\n# Comments: 5",
+   "summary": "https://archive.is/WCnLA\n\nComments URL: https://news.ycombinator.com/item?id=49937146\nPoints: 45\n# Comments: 5",
    "link": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1731,19 +1782,6 @@
    "ts": 1790965800
   },
   {
-   "id": "abe0a358394ed68ceffd63eab628167b",
-   "title": "Audible has three new features to give you a deeper connection to your stories",
-   "summary": "Audible's new features will let you talk to characters, keep track of the cast, and provide visual context.",
-   "link": "https://www.androidauthority.com/audible-character-guide-visual-explorer-interactive-story-3718603/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:29",
-   "ts": 1790965761
-  },
-  {
    "id": "c68f22b515e4fcbdfb4c70541a9eb537",
    "title": "The world’s tallest wind turbine just reached 1,197 feet",
    "summary": "The world’s tallest wind turbine has reached its full height in Germany, and its developer says the extra altitude could roughly double its electricity output.\n",
@@ -1794,19 +1832,6 @@
    "urgent": false,
    "fetched_at": "10-03 02:11",
    "ts": 1790964687
-  },
-  {
-   "id": "c4403da706604980eef315f527b9cd6e",
-   "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 247\n# Comments: 67",
-   "link": "https://dwarfstar.sh/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:01",
-   "ts": 1790964076
   },
   {
    "id": "dc3d703729f5de65a3421fa0694dd72d",
@@ -2587,32 +2612,6 @@
    "urgent": false,
    "fetched_at": "10-02 17:30",
    "ts": 1790933400
-  },
-  {
-   "id": "67dc7bbef639400972f0e1f3e9a067df",
-   "title": "搜打撤游戏《绝地求生：黑域撤离》宣布中止开发",
-   "summary": "在评估了项目的开发状态与未来方向后，PUBG STUDIOS 认为当前的路线无法带来能让玩家长期享受的游戏体验。因此，官方做出了艰难的决定，决定终止《绝地求生：黑域撤离》的开发。\n\n开发团队对所有参与封闭内测并提供反馈的玩家表示感谢。开发团队表示，会将开发和测试期间获得的经验运用到未来的项目中，并在探索全新玩法时继续倾",
-   "link": "https://www.gcores.com/articles/220471",
-   "source": "机核网",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-02 17:03",
-   "ts": 1790931803
-  },
-  {
-   "id": "a3a51438a588b7fbf3feba7bcca4b6a3",
-   "title": "STAT+: NIH awarded all its grant funding, but delayed and opaque decisions stymied researchers",
-   "summary": "The NIH continued reducing grants involving health disparities, race, and ethnicity but made little progress toward other administration priorities in the 2026 ",
-   "link": "https://www.statnews.com/2026/10/02/nih-grant-funding-fy2026-analysis/?utm_campaign=rss",
-   "source": "STAT News",
-   "channel": "健康",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 16:30",
-   "ts": 1790929800
   }
  ]
 }
