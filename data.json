@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03 18:02",
- "total": 268,
+ "updated_at": "2026-10-03 18:48",
+ "total": 280,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,9 +10,49 @@
   "数码",
   "汽车",
   "游戏",
+  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "20b204fef87ddb16377c900a52339be9",
+   "title": "How Trading In a Car Works",
+   "summary": "Wondering how to trade in your old car for a new one? We've got you covered.",
+   "link": "https://www.caranddriver.com/auto-loans/a41612674/how-trading-in-car-works/",
+   "source": "Car and Driver",
+   "channel": "汽车",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 18:45",
+   "ts": 1791024300
+  },
+  {
+   "id": "ff15ce93ae2525b1b153125050f3dd94",
+   "title": "AI 自动识别后厨违规行为，浙江 19.5 万家外卖商家接入系统",
+   "summary": "IT之家 10 月 3 日消息，据央视财经今日报道，近日，杭州市萧山区开展网络餐饮专项整治集群执法行动，101 名执法人员共检查餐饮门店 216 家。据介绍，2022 年 3 月 1 日起，《浙江省电子商务条例》施行。全省入网外卖商家必须以视频形式实时公开食品加工制作现场，在后厨装监控，实现“明厨亮灶”。画面同步上传监",
+   "link": "https://www.ithome.com/1/009/527.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 18:36",
+   "ts": 1791023772
+  },
+  {
+   "id": "203fcb20964d6d2c9ea13969d52c9f53",
+   "title": "I used Pixel’s new battery summaries for a week — and Google has work to do",
+   "summary": "Battery summaries have a long way to go.",
+   "link": "https://www.androidauthority.com/pixel-battery-summaries-hands-on-3718048/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 18:30",
+   "ts": 1791023443
+  },
   {
    "id": "d50d7f5a0412de50ce8e98d75c26705d",
    "title": "Verstappen beats Hamilton to pole in Malaysia",
@@ -25,6 +65,45 @@
    "urgent": false,
    "fetched_at": "10-03 18:16",
    "ts": 1791022560
+  },
+  {
+   "id": "6505e420fec5f149d501c79b086c94ae",
+   "title": "An AI agent emailed researchers for help. It told us why",
+   "summary": "Article URL: https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why\nComments URL: https://news.ycombinator.",
+   "link": "https://www.science.org/content/article/exclusive-ai-agent-emailed-hundreds-researchers-help-it-told-us-why",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 18:07",
+   "ts": 1791022028
+  },
+  {
+   "id": "79c54a87435c13e6cb45f56dbf42479e",
+   "title": "大航跃迁自研 150 吨级火箭发动机“擎宇-11”完成核心部件研制与试验",
+   "summary": "IT之家 10 月 3 日消息，大航跃迁今日宣布，近日，大航跃迁自研 150 吨级液氧甲烷发动机“擎宇-11”配套阀门顺利完成设计、生产及全工况地面试验，各项性能指标全部达标，实现动力核心部件自主可控。此前，擎宇-11 已先后完成火炬点火、组件低温及组件液流等多项核心研制试验，验证了核心组件性能与硬件可靠性。本次阀门研",
+   "link": "https://www.ithome.com/1/009/526.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 18:04",
+   "ts": 1791021882
+  },
+  {
+   "id": "794fd12ef19a57c8e6cb49f98c45ce5c",
+   "title": "What’s the best Snapdragon 8 Gen 5 series chip? I tested them all to find out",
+   "summary": "CPU testing goes about as expected, but GPU benchmarking is another story altogether.",
+   "link": "https://www.androidauthority.com/all-snapdragon-8-gen-5-chips-tested-3704993/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 18:00",
+   "ts": 1791021605
   },
   {
    "id": "6bd973b5901f04c5d24ecc4394d8d32e",
@@ -131,6 +210,19 @@
    "ts": 1791019795
   },
   {
+   "id": "32ecfac525fb4e1e303a38640c53f6fb",
+   "title": "Erdogan ends Elliott’s title hopes with second-round submission",
+   "summary": "Paul Elliott was one victory away from the biggest moment of his career, but Shamil Erdogan ensured it never arrived at ONE Fight Night 48.",
+   "link": "https://www.skysports.com/mma/news/12040/13594600/shamil-erdogan-ends-paul-elliotts-title-hopes-with-second-round-submission-at-one-fight-night-48",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 17:22",
+   "ts": 1791019320
+  },
+  {
    "id": "89d7555486b92d5bd5c573a3cce34bcf",
    "title": "华为 HarmonyOS 7.0 小艺帮帮忙智能体功能调整，将不再支持后续新增的设备",
    "summary": "IT之家 10 月 3 日消息，小艺帮帮忙智能体是 HarmonyOS 6.0 上推出的探索性智能体。华为官网显示，因业务调整，小艺帮帮忙智能体将不再支持后续新增的设备。据悉，小艺帮帮忙智能体是一个专注于应用操控的智能体，支持操控更多的场景，可在智能体对话列表页中找到小艺帮帮忙智能体，也可以在广场中搜索小艺帮帮忙来体验",
@@ -209,32 +301,6 @@
    "ts": 1791017795
   },
   {
-   "id": "cabb8339cc40fb4bffe8143c5823cdb4",
-   "title": "小米米家无线直发梳 2 开售：速热恒温、千万级等离子，首发价 299.2 元",
-   "summary": "IT之家 10 月 3 日消息，小米米家无线直发梳 2 现已开售，新品首发价 299.2 元。米家无线直发梳 2 采用无线设计，电池容量提升 56%，可实现 70 分钟续航，采用 Type-C 充电。这款产品升级 PI 发热技术，采用 PI 发热薄膜，支持 160°C/180°C/200°C 三挡温度可调，支持温度、电",
-   "link": "https://www.ithome.com/1/009/510.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 16:52",
-   "ts": 1791017529
-  },
-  {
-   "id": "04734bccd6b47d264a3db36bc023c6e4",
-   "title": "亚马逊推出 Strands Decider 2B 开源决策模型，支持本地部署",
-   "summary": "IT之家 10 月 3 日消息，Amazon（亚马逊）Strands Agents 团队当地时间本月 1 日宣布推出 Strands Decider 2B 决策模型。其已在 GitHub 上开源，权重则可在 Hugging Face 上找到；可在本地的 CPU / GPU 上运行。Strands Decider 2B ",
-   "link": "https://www.ithome.com/1/009/509.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 16:50",
-   "ts": 1791017425
-  },
-  {
    "id": "8cb2ced6c5204496cc5ef9659b28c41a",
    "title": "Save Big On Tolkien's Lord of the Rings and Hobbit Books Ahead of Prime Day",
    "summary": "From The Silmarillion to The Lord of the Rings and beyond, J.R.R. Tolkien's works are discounted at Amazon right now",
@@ -285,19 +351,6 @@
    "urgent": false,
    "fetched_at": "10-03 15:54",
    "ts": 1791014083
-  },
-  {
-   "id": "da53dd6853b3b3e1f3278f224c8232af",
-   "title": "Why should I have to pay more for buses if I don't use a smartphone?",
-   "summary": "Article URL: https://www.theguardian.com/money/2026/oct/02/why-should-i-have-to-pay-more-for-buses-if-i-dont-use-a-smartphone\nComments URL: https://news.ycombin",
-   "link": "https://www.theguardian.com/money/2026/oct/02/why-should-i-have-to-pay-more-for-buses-if-i-dont-use-a-smartphone",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 15:48",
-   "ts": 1791013691
   },
   {
    "id": "d0fd02bc725de406b10ebdf64e7d6183",
@@ -391,6 +444,19 @@
    "ts": 1791007200
   },
   {
+   "id": "34cf9c831e26776a8d6119e730f213ac",
+   "title": "Memory-Safe WebP Decoding",
+   "summary": "Article URL: https://halide.cx/blog/wpd/\nComments URL: https://news.ycombinator.com/item?id=49941641\nPoints: 7\n# Comments: 1",
+   "link": "https://halide.cx/blog/wpd/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 13:45",
+   "ts": 1791006330
+  },
+  {
    "id": "dc75af136df201386830e7af6e3e988c",
    "title": "'A switch flipped': Valkyries erase 16-point deficit against Wings, advance to WNBA semis to face the Aces",
    "summary": "This was the first playoff series win for the Valkyries, who just launched as an expansion team in 2025",
@@ -406,7 +472,7 @@
   {
    "id": "eec9f70090370bef588c6b9f57a482b6",
    "title": "An Update on Orion for Linux and Windows",
-   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 48\n# Comments: 17",
+   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 54\n# Comments: 22",
    "link": "https://blog.kagi.com/update-orion-linux-windows",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -471,7 +537,7 @@
   {
    "id": "61c2fcf1db281fa8da97648647f3047e",
    "title": "Extra Big Ass Intelligence",
-   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 294\n# Comments: 61",
+   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 305\n# Comments: 66",
    "link": "https://www.extrabigassintelligence.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -484,7 +550,7 @@
   {
    "id": "e153fef4c61f951b0d4a131dbe6cbf99",
    "title": "Cloudflare OHTTP gateway",
-   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 74\n# Comments:",
+   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 84\n# Comments:",
    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -588,7 +654,7 @@
   {
    "id": "191bd1c28b2d6d360ae0a2ed679bf01f",
    "title": "Newgrounds.com – A community of games, music, and art",
-   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 216\n# Comments: 61",
+   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 240\n# Comments: 63",
    "link": "https://www.newgrounds.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1002,19 +1068,6 @@
    "ts": 1790979360
   },
   {
-   "id": "4db3dfae5413198a4bbfc3577a2acc3c",
-   "title": "Pool pioneer Fisher retiring after being diagnosed with Parkinson's",
-   "summary": "Pool pioneer Allison Fisher is retiring from professional competition after being diagnosed with Parkinson's disease.",
-   "link": "https://www.skysports.com/snooker/news/12040/13594525/allison-fisher-pool-pioneer-retiring-from-professional-competition-after-being-diagnosed-with-parkinsons-disease",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 06:16",
-   "ts": 1790979360
-  },
-  {
    "id": "d3b9a46002e3bded9dcdc13f8b8995ec",
    "title": "Tinashe Wants to Challenge the Pop Star Label",
    "summary": "As one of pop's most consistent and boundary-pushing artists, the 33-year-old has landed at a new chapter in her career with 'Popstar': \"I feel very self-assure",
@@ -1277,7 +1330,7 @@
   {
    "id": "7e28dfddaf0aed2d57d27c663f3ab25a",
    "title": "Barcodes are about to go extinct",
-   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 41\n# Commen",
+   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 48\n# Commen",
    "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1405,19 +1458,6 @@
    "ts": 1790971220
   },
   {
-   "id": "539ccb39416b83a79869f18f5aad31c9",
-   "title": "Show HN: Made an open-source Lego AI generator",
-   "summary": "Hi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw lang",
-   "link": "https://github.com/anteloc/ldraw-nova",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:00",
-   "ts": 1790971215
-  },
-  {
    "id": "d4e0cb2f95a36bf60b01146a41bd51ae",
    "title": "9to5Mac Overtime 084: iPhone 18 Pro – a fantastic pro camera experience",
    "summary": "Jeff and Fernando share their excitement about the iPhone 18 Pro’s camera capabilities and explore whether it could truly replace a mirrorless camera for both p",
@@ -1472,7 +1512,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 202\n# Comments: 134",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 205\n# Comments: 138",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1511,7 +1551,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 194\n# Comments: 85",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 201\n# Comments: 87",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1576,7 +1616,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 424\n# Comments: 259",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 434\n# Comments: 269",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1589,7 +1629,7 @@
   {
    "id": "b81aa1a9d9c293e210822b73d0e28433",
    "title": "The Nintendo 64 Partner-N64 Development Kit",
-   "summary": "https://archive.is/WCnLA\n\nComments URL: https://news.ycombinator.com/item?id=49937146\nPoints: 39\n# Comments: 5",
+   "summary": "https://archive.is/WCnLA\n\nComments URL: https://news.ycombinator.com/item?id=49937146\nPoints: 42\n# Comments: 5",
    "link": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1704,19 +1744,6 @@
    "ts": 1790965761
   },
   {
-   "id": "ff1e16d2fec835c2fee18e00524ae13d",
-   "title": "Chrome on Android’s password autofill could soon require a biometric test",
-   "summary": "Revisiting an old idea.",
-   "link": "https://www.androidauthority.com/chrome-android-biometric-password-autofill-3718614/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:25",
-   "ts": 1790965541
-  },
-  {
    "id": "c68f22b515e4fcbdfb4c70541a9eb537",
    "title": "The world’s tallest wind turbine just reached 1,197 feet",
    "summary": "The world’s tallest wind turbine has reached its full height in Germany, and its developer says the extra altitude could roughly double its electricity output.\n",
@@ -1771,7 +1798,7 @@
   {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 240\n# Comments: 63",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 247\n# Comments: 67",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1806,19 +1833,6 @@
    "urgent": false,
    "fetched_at": "10-03 02:00",
    "ts": 1790964000
-  },
-  {
-   "id": "6917d9e002a64ff862b39e87ae873baf",
-   "title": "Record-low deal cuts the Arlo Ultra 4K HDR 2-camera SmartHub bundle to $221",
-   "summary": "Save $129 on Arlo’s 2025 4K HDR 2-camera bundle with SmartHub, now at a record low for sharp wireless home security.",
-   "link": "https://www.androidauthority.com/arlo-ultra-wireless-security-camera-4k-hdr-deal-3718581/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:49",
-   "ts": 1790963399
   },
   {
    "id": "9ba49039f7a5e2563a403a5de669f200",
@@ -2592,19 +2606,6 @@
    "title": "STAT+: NIH awarded all its grant funding, but delayed and opaque decisions stymied researchers",
    "summary": "The NIH continued reducing grants involving health disparities, race, and ethnicity but made little progress toward other administration priorities in the 2026 ",
    "link": "https://www.statnews.com/2026/10/02/nih-grant-funding-fy2026-analysis/?utm_campaign=rss",
-   "source": "STAT News",
-   "channel": "健康",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 16:30",
-   "ts": 1790929800
-  },
-  {
-   "id": "982ec00286f2507ccc5567ca63810cd2",
-   "title": "Opinion: The law has to catch up on orphan-designated drugs with multiple uses",
-   "summary": "The law has to catch up on the 340B drug discount program, writes a pharmacist.",
-   "link": "https://www.statnews.com/2026/10/02/340b-policy-orphan-designated-drugs-pharmacy-losses-hrsa-congress/?utm_campaign=rss",
    "source": "STAT News",
    "channel": "健康",
    "category": "资讯",
