@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03 08:03",
- "total": 274,
+ "updated_at": "2026-10-03 08:43",
+ "total": 282,
  "channels": [
   "AI·科技",
   "体育",
@@ -14,6 +14,149 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "ad8868d6d12a46382d23337080bfbd44",
+   "title": "特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%",
+   "summary": "IT之家 10 月 3 日消息，据英国 BBC 当地时间 1 日报道，斯洛文尼亚国家域名注册机构 Register.si 称，美国总统唐纳德 · 特朗普推动将人工智能（AI）改称“超级智能（SI）”，或是带动该国域名注册量“前所未有”地激增的原因。特朗普希望用“超级智能”的缩写 SI 取代 AI，而斯洛文尼亚的域名后缀",
+   "link": "https://www.ithome.com/1/009/389.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:32",
+   "ts": 1790987550
+  },
+  {
+   "id": "a686f42dbc507083c610f763be860ee0",
+   "title": "UFC 332 fight card: King Green vs. Esteban Ribovics, Anthony Wint's return among undercard fights to watch",
+   "summary": "Payton Talbott is getting a lot of attention, but there's more under the hood of UFC 332",
+   "link": "https://www.cbssports.com/ufc/news/ufc-332-fight-card-king-green-vs-esteban-ribovics-anthony-wint-roberto-soldic/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:30",
+   "ts": 1790987448
+  },
+  {
+   "id": "1bfc95b5a625ec7149c4a624b1bbab88",
+   "title": "告别冗长路径：微软 Win11 用“~”简化 AppData 等目录访问",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 NeoWin 昨日（10 月 2 日）发布博文，报道称在 Windows 11 Build 26340.9596 预览版中，微软为文件管理器新增“~”（波浪号）快捷路径支持。用户输入“~”即可直达个人账号文件夹，例如输入“~\\AppData”等路径可直接访问其子目录，无需键入“",
+   "link": "https://www.ithome.com/1/009/388.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:30",
+   "ts": 1790987431
+  },
+  {
+   "id": "a379dc6d04bbcb02f737560f94e530d4",
+   "title": "College football odds, picks, predictions for Week 5, 2026: Computer likes Navy, Missouri",
+   "summary": "SportsLine's model has revealed its 2026 Week 5 college football picks for Ohio State vs. Iowa, Alabama vs. Mississippi State and every other game",
+   "link": "https://www.cbssports.com/betting/news/college-football-odds-lines-picks-spread-predictions-betting-guide-for-week-5-2026/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:27",
+   "ts": 1790987249
+  },
+  {
+   "id": "b17b70538edc08d508d9101eef1bbf3f",
+   "title": "微软官方 X 账号被劫持约 30 分钟，攻击者借“点赞 50 万回归 Clippy”炒作加密代币",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 Windows Latest 今天（10 月 3 日）发布博文，报道称微软官方 X 账号（@microsoft，拥有超过 1,307.4 万粉丝）被盗用，曾发布推文称：“点赞达到 50 万，我们就让 Clippy 回归”。微软发言人布伦特 · 科尔伯恩表示：我们已确认有人未经授",
+   "link": "https://www.ithome.com/1/009/387.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:22",
+   "ts": 1790986968
+  },
+  {
+   "id": "641b2085e6abe2527cb3db18cdab4aca",
+   "title": "Ohio State vs. Iowa prediction, odds, time: Week 5 college football picks by proven model",
+   "summary": "The SportsLine Projection Model has revealed its best bets for the Saturday matchup between the Ohio State Buckeyes vs. Iowa Hawkeyes on CBS and Paramount+",
+   "link": "https://www.cbssports.com/betting/news/ohio-state-iowa-prediction-odds-time-2026-week-5-college-football-picks/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:22",
+   "ts": 1790986962
+  },
+  {
+   "id": "a991433969680ab3fdb2e489311ff627",
+   "title": "Sanders introduces bill to ban the federal government from using Flock",
+   "summary": "The proposed legislation would extend to all automotica license plate readers.",
+   "link": "https://techcrunch.com/2026/10/02/sanders-introduces-bill-to-ban-the-federal-government-from-using-flock/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:21",
+   "ts": 1790986917
+  },
+  {
+   "id": "cd48559944ef417e6f934e05b146bb90",
+   "title": "Alabama vs. Mississippi State prediction, odds, time: Week 5 college football picks by proven model",
+   "summary": "The SportsLine Projection Model has revealed its best bets for the Saturday matchup between the Alabama Crimson Tide vs. Mississippi State Bulldogs",
+   "link": "https://www.cbssports.com/betting/news/alabama-mississippi-state-prediction-odds-time-2026-week-5-college-football-picks/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:15",
+   "ts": 1790986559
+  },
+  {
+   "id": "d07b4d358d2226e0d97596bc2e00af3d",
+   "title": "微软 CEO 纳德拉重申 Copilot AI 定位：面向工作的新操作系统",
+   "summary": "IT之家 10 月 3 日消息，科技媒体 Windows Latest 今天（10 月 3 日）发布博文，报道称微软首席执行官萨蒂亚 · 纳德拉（Satya Nadella）再次将 Copilot 称为“面向工作的新操作系统”，而该应用实质上是 Windows 11 上的一款部分基于 Chromium 内核的网页应用。",
+   "link": "https://www.ithome.com/1/009/386.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:10",
+   "ts": 1790986219
+  },
+  {
+   "id": "68ea8c1f6b991cde9222336216a2006a",
+   "title": "OpenAI 内部动荡加剧之际，又一名安全负责人戴维 · 罗宾逊离职",
+   "summary": "IT之家 10 月 3 日消息，据《商业内幕》报道，当地时间 2 日，OpenAI 一名发言人证实，OpenAI 安全系统团队负责人之一戴维 · 罗宾逊已离职。罗宾逊于上周离开公司，OpenAI 安全团队再度出现人事变动。罗宾逊此前还负责过公司的政策规划工作，主要涉及“安全透明度”，包括参与编写和发布系统卡，向外界介绍",
+   "link": "https://www.ithome.com/1/009/385.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:08",
+   "ts": 1790986135
+  },
+  {
+   "id": "658f68fae9218358dd04cc1c7a39c7a2",
+   "title": "UFC 332: Payton Talbott eyes busy 2027 after Sean O'Malley, Cory Sandhagen fights failed to materialize",
+   "summary": "Talbott faces former champion Deiveson Figueiredo as he looks to build toward a breakout campaign next year",
+   "link": "https://www.cbssports.com/ufc/news/ufc-332-payton-talbott-deiveson-figueiredo-sean-omalley-cory-sandhagen/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:00",
+   "ts": 1790985655
+  },
   {
    "id": "3b9b09f92402e810320673c1188c19ec",
    "title": "‘Behemoth!’ Review: Pedro Pascal Is a Classical Cellist Skating Through a Midlife Crisis in Tony Gilroy’s Elevated Bauble of a Music Drama",
@@ -184,19 +327,6 @@
    "ts": 1790983140
   },
   {
-   "id": "f5528fba5aa929148b8921617518d6c0",
-   "title": "亚马逊云科技 CEO 加尔曼强势回应数据中心反对声浪：后果或影响数代人",
-   "summary": "IT之家 10 月 3 日消息，据《商业内幕》今天（3 日）凌晨报道，亚马逊云科技 CEO 马特 · 加尔曼警告，美国各地针对数据中心建设的反对声浪不断扩大，可能让美国在全球 AI 竞争中失去优势。加尔曼发表了一篇 3000 多词的博文称，如果美国大范围叫停数据中心建设，影响可能延续数代人。“数据中心建设刻不容缓，因为",
-   "link": "https://www.ithome.com/1/009/377.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 07:17",
-   "ts": 1790983070
-  },
-  {
    "id": "5ead88f5064243e9e60eacabc739c5cb",
    "title": "‘Digger’: How Its Big Twist Saves the Movie From Being a Complete Disaster (Opinion)",
    "summary": "SPOILER ALERT: This story contains major spoilers for “Digger,” in theaters now via Warner Bros. When does a bad movie become a fascinating watch? So often the ",
@@ -236,32 +366,6 @@
    "ts": 1790982420
   },
   {
-   "id": "bc20454ea4f2f6b856ef8074ae5487f5",
-   "title": "Anthropic 拟斥资 1 亿美元培训万名工程师，破解企业 AI 落地“人才荒”",
-   "summary": "IT之家 10 月 3 日消息，Anthropic 计划投入 1 亿美元（IT之家注：现汇率约合 6.71 亿元人民币）培训 1 万名工程师，帮助企业把 AI 项目从构想真正推进到业务应用。当地时间 2 日，Anthropic 宣布推出 Claude Frontier Academy（Claude 前沿学院）培训项目，",
-   "link": "https://www.ithome.com/1/009/376.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 07:03",
-   "ts": 1790982234
-  },
-  {
-   "id": "6ccff1084a4e90e72ba41622b8cb35ed",
-   "title": "下载体验了 Muse 后，我清仓了 Airbnb，加仓了 Meta",
-   "summary": "IT之家 10 月 3 日消息，9 月 29 日作客财经播客《The Synopsis》时，资深独立股票分析师 Mostly Borrowed Ideas（下文简称 MBI）表示：在下载体验了 Muse 后，我清仓了 Airbnb，加仓了 Meta。IT之家注：MBI 是独立分析师 Abdullah Al Rezwan",
-   "link": "https://www.ithome.com/1/009/375.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 07:03",
-   "ts": 1790982199
-  },
-  {
    "id": "1a43a8e1d46b44a91016a59aa0b1a442",
    "title": "Former NFL Coach Mike Tomlin Is a Hardcore Minecraft Player, Reveals City He Took 12 Years to Build",
    "summary": "Former NFL coach Mike Tomlin spent 19 seasons with the Pittsburgh Steelers and won Super Bowl LXIII, and now he's added another major accomplishment to his resu",
@@ -273,6 +377,19 @@
    "urgent": false,
    "fetched_at": "10-03 06:46",
    "ts": 1790981210
+  },
+  {
+   "id": "37d4972093984811d16b0ec41a784ab7",
+   "title": "Debian Inference Portal",
+   "summary": "Article URL: https://inference.debian.net/\nComments URL: https://news.ycombinator.com/item?id=49939513\nPoints: 6\n# Comments: 2",
+   "link": "https://inference.debian.net/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 06:43",
+   "ts": 1790980981
   },
   {
    "id": "8347d7e470999b15acb5376aab5b9a87",
@@ -587,71 +704,6 @@
    "ts": 1790977247
   },
   {
-   "id": "e669af54f401b4f9513bf6af91b10258",
-   "title": "NFL Week 4 injury report: Justin Jefferson out, Nico Collins in; Terry McLaurin suffers late-week injury",
-   "summary": "Here's a look at each game designation for Week 4 in the NFL",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-injury-report-justin-jefferson-aaron-donald-terry-mclaurin/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:36",
-   "ts": 1790976972
-  },
-  {
-   "id": "0b4cf021b7da2bf8da9cb82f95038bd4",
-   "title": "Week 4 NFL survivor pool picks, advice, strategy: NFL expert reveals best knockout pick, teams to avoid",
-   "summary": "R.J. White reveals his knockout pool strategy and top Week 4 NFL survivor pick",
-   "link": "https://www.cbssports.com/betting/news/week-4-nfl-survivor-pool-picks-advice-strategy-guide-knockout-teams-to-avoid/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:32",
-   "ts": 1790976749
-  },
-  {
-   "id": "464bb4a47863420d8b099fcdaa434abe",
-   "title": "Pittsburgh vs. Virginia Tech prediction, odds, time: Week 5 college football Friday picks by proven model",
-   "summary": "The SportsLine Projection Model has revealed its best bets for the Friday matchup between the Pitt Panthers vs. Virginia Tech Hokies",
-   "link": "https://www.cbssports.com/betting/news/pittsburgh-virginia-tech-prediction-odds-start-time-week-5-college-football-friday-picks-best-bets/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:30",
-   "ts": 1790976659
-  },
-  {
-   "id": "174ffdf149c38f10fb877f0104814cc8",
-   "title": "Liberty at Delaware live stream, where to watch, CBS Sports Network channel finder, odds",
-   "summary": "A full weekend of football on CBS Sports Network kicks off on Thursday night",
-   "link": "https://www.cbssports.com/college-football/news/liberty-delaware-live-stream-where-to-watch-online-cbs-sports-network-channel-finder-odds/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:30",
-   "ts": 1790976659
-  },
-  {
-   "id": "5784f4270b2fdac17ea12935e3c2a4b7",
-   "title": "Pitt vs. Virginia Tech odds, picks, predictions, time: Betting preview for Week 5 college football on Friday",
-   "summary": "Pittsburgh travels to Virginia Tech on Friday for a Week 5 college football matchup",
-   "link": "https://www.cbssports.com/betting/news/pitt-vs-virginia-tech-odds-picks-predictions-time-betting-preview-for-week-5-college-football-on-friday/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:30",
-   "ts": 1790976655
-  },
-  {
    "id": "a42bb10271d0da87212e933f6dfe9d9c",
    "title": "Best Buy Has the ASRock Radeon RX 9070 XT 16GB Graphics Card in Stock for $740",
    "summary": "Nearly as powerful as the GeForce RTX 5070 Ti for hundreds less.",
@@ -680,7 +732,7 @@
   {
    "id": "ed92f170bb8e0d0a2aafcc4eb43c0e7d",
    "title": "Open-sourcing AstaBrief, the fast report-generation model in Asta",
-   "summary": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 13\n# Comments: 0",
+   "summary": "Article URL: https://allenai.org/blog/astabrief\nComments URL: https://news.ycombinator.com/item?id=49938783\nPoints: 17\n# Comments: 2",
    "link": "https://allenai.org/blog/astabrief",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -797,7 +849,7 @@
   {
    "id": "6fa792b2ddd2b7c1f1679e0c4f3d6049",
    "title": "Every SaaS business will become a harness around a model",
-   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 75\n# Comments: 54",
+   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 83\n# Comments: 60",
    "link": "https://blog.sshh.io/p/the-harness-is-the-company",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -901,7 +953,7 @@
   {
    "id": "0419d34b7ab29cdaac75720215ed2d2c",
    "title": "Zig v0.17.0",
-   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 185\n# Comments: 95",
+   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 199\n# Comments: 115",
    "link": "https://ziglang.org/download/0.17.0/release-notes.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1148,7 +1200,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 85\n# Comments: 54",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 102\n# Comments: 63",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1187,7 +1239,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 97\n# Comments: 47",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 113\n# Comments: 58",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1265,7 +1317,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 280\n# Comments: 190",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 300\n# Comments: 197",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1499,7 +1551,7 @@
   {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 123\n# Comments: 35",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 132\n# Comments: 36",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1679,19 +1731,6 @@
    "ts": 1790960942
   },
   {
-   "id": "fc1eb1545a0738fef9d4ce67c34cf291",
-   "title": "微软发布 Win11 Beta 和 Experimental 频道多版本预览版，支持 Unicode 17.0 文本、优化设置主页性能",
-   "summary": "IT之家 10 月 3 日消息，微软昨天（10 月 2 日）发布博文，邀请 Beta 和 Experimental 频道的 Windows Insider 项目成员，测试适用于 Windows 11 的多个预览版更新，本次推送版本如下：Beta 通道：Build 26220.9587（26H2）、Build 28020",
-   "link": "https://www.ithome.com/1/009/374.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 01:05",
-   "ts": 1790960718
-  },
-  {
    "id": "bc7fdf17cb4f1ec01e44bc6607566184",
    "title": "Circuit Breaker Labs hopes to make AI safer for your kids (and you)",
    "summary": "With all the talk about how AI might one day kill us all, it's easy to forget that AI has already harmed some people psychologically. Circuit Breaker Labs has c",
@@ -1703,19 +1742,6 @@
    "urgent": false,
    "fetched_at": "10-03 01:00",
    "ts": 1790960400
-  },
-  {
-   "id": "48bf975ad9fe5bb7cb8ccb3dee7181b9",
-   "title": "STS-51-F Abort-to-Orbit (1985)",
-   "summary": "Today I learned that one Space Shuttle flight (in 1985) successfully used the Abort-to-Orbit recovery plan (changing its flight path in real time in response to",
-   "link": "https://en.wikipedia.org/wiki/STS-51-F",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:56",
-   "ts": 1790960207
   },
   {
    "id": "ce9c88e6dce08ce8102e019378718b7d",
@@ -1781,19 +1807,6 @@
    "urgent": false,
    "fetched_at": "10-03 00:35",
    "ts": 1790958913
-  },
-  {
-   "id": "500be1e33e3bb1854dd0c1d1cf3ba42d",
-   "title": "继 AMD 后，高通、英特尔、英伟达硬件本月将全面支持微软高级着色器交付",
-   "summary": "IT之家 10 月 3 日消息，Microsoft（微软）当地时间 1 日通过 DirectX 开发者博客宣布，高级着色器交付 (ASD) 将在本月扩展到高通、英特尔、英伟达硬件上。由于 AMD 的 \"RDNA\" 家族已率先支持 ASD，这意味着该特性即将实现对四大 GPU 制造商平台的全覆盖。更多用户将可享受到直接下",
-   "link": "https://www.ithome.com/1/009/373.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 00:16",
-   "ts": 1790957815
   },
   {
    "id": "abba382d36c6ff194be7d9719a5059e0",
@@ -1954,7 +1967,7 @@
   {
    "id": "077fdf42fb97a882004a771ef6ef80bf",
    "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 93\n# Comments: 74",
+   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 99\n# Comments: 78",
    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2097,7 +2110,7 @@
   {
    "id": "deadc6e12be46fdc133a8b818e8ee069",
    "title": "The Forgetful CPU (Linux on M4)",
-   "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 27\n# Comments: 0",
+   "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 69\n# Comments: 5",
    "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2123,7 +2136,7 @@
   {
    "id": "0c809ece3a48d001fb10a1fc65ef08c0",
    "title": "With most information hidden, the game Stratego had stumped AI until now",
-   "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 152\n# Co",
+   "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 166\n# Co",
    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2158,19 +2171,6 @@
    "urgent": false,
    "fetched_at": "10-02 22:06",
    "ts": 1790949989
-  },
-  {
-   "id": "31161f261f052a1d281e7aa4932d2dde",
-   "title": "Last 24 hours: Exhibit at TechCrunch Disrupt 2026 and reach 10,000+ tech leaders",
-   "summary": "Today is the last day to book your exhibit table at TechCrunch Disrupt 2026. From October 13–15, 10,000+ founders, investors, operators, and tech leaders will a",
-   "link": "https://techcrunch.com/2026/10/02/last-24-hours-exhibit-at-techcrunch-disrupt-2026-and-reach-10000-tech-leaders/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:00",
-   "ts": 1790949600
   },
   {
    "id": "f63091a74aaff2f19fce128670ab53e3",
@@ -2459,6 +2459,19 @@
    "ts": 1790934171
   },
   {
+   "id": "19def8b5793a20eb5c685b9b1b4dd6c4",
+   "title": "本周看什么 | 最近值得一看的 8 部作品",
+   "summary": "📅本周新预告《泥面人》终极预告9月24日，DC新片《泥面人》发布了终极预告，将于10月23日在北美上映。詹姆斯·瓦特金斯执导，汤姆·里斯·哈里斯主演，隆重介绍哥谭市的新面孔，一位意外毁容的演员在注射了 ...查看全文",
+   "link": "https://sspai.com/post/115211",
+   "source": "少数派",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-02 17:30",
+   "ts": 1790933400
+  },
+  {
    "id": "67dc7bbef639400972f0e1f3e9a067df",
    "title": "搜打撤游戏《绝地求生：黑域撤离》宣布中止开发",
    "summary": "在评估了项目的开发状态与未来方向后，PUBG STUDIOS 认为当前的路线无法带来能让玩家长期享受的游戏体验。因此，官方做出了艰难的决定，决定终止《绝地求生：黑域撤离》的开发。\n\n开发团队对所有参与封闭内测并提供反馈的玩家表示感谢。开发团队表示，会将开发和测试期间获得的经验运用到未来的项目中，并在探索全新玩法时继续倾",
@@ -2600,19 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-02 14:10",
    "ts": 1790921400
-  },
-  {
-   "id": "f06db90cad0a2f8eafb9a03248adf238",
-   "title": "和 Opus 5.5 同题交卷，MiniMax M3.1 让 Flash 开始超纲了",
-   "summary": "从智能的高度，到使用的广度#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "link": "https://www.ifanr.com/1682850?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 14:01",
-   "ts": 1790920885
   }
  ]
 }
