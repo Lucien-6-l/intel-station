@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 12:08",
+ "updated_at": "2026-10-03 12:38",
  "total": 281,
  "channels": [
   "AI·科技",
@@ -14,6 +14,45 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "689266fdad22e3a6673b76e19fff0eaa",
+   "title": "Bahrain GP in Malaysia: Crucial final practice under way ahead of Qualifying LIVE!",
+   "summary": "",
+   "link": "https://www.skysports.com/f1/live-blog/12040/13594552/f1-bahrain-gp-in-malaysia-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-in-sepang",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 13:05",
+   "ts": 1791003900
+  },
+  {
+   "id": "66db9b4846754457873a29e8971ad216",
+   "title": "日本厂商推出华为 WATCH FIT 5 智能手表《超辉夜姬！》动画电影版：定制表带、表盘等，3.96 万日元",
+   "summary": "IT之家 10 月 3 日消息，当地时间 9 月 29 日，日本腕表与动漫周边企划商 U-ENI 贸易宣布，旗下专注于角色联名的品牌“GARRACK”正式推出以动画电影《超辉夜姬！》（超时空辉夜姬）中的辉夜、酒寄彩叶及月见八千代为设计灵感的智能手表，基于华为 WATCH FIT 5 定制。相关产品定于 10 月 2 日",
+   "link": "https://www.ithome.com/1/009/428.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 12:30",
+   "ts": 1791001855
+  },
+  {
+   "id": "c678d51236cee23831f2a18a0051e740",
+   "title": "曝美国陆军着手组建自主系统司令部，推动机器人进入技术未来战争",
+   "summary": "IT之家 10 月 3 日消息，据美媒 Axios 获得的一份备忘录，美国陆军着手组建新的自主系统司令部，同时任命专门负责采购的官员，加快智能装备采购和列装。这些部署由代理陆军部长亚当 · 特尔下达。就在当地时间 1 日，美国国防部长皮特 · 赫格塞思公布了 Meridian 和 Agincourt 两个项目，重点都是",
+   "link": "https://www.ithome.com/1/009/427.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 12:19",
+   "ts": 1791001174
+  },
   {
    "id": "81070b21aafb597ad44325130a01a468",
    "title": "“电动牧马人”Jeep Recon 搭载 94 度电池，外媒实测续航却不到 260 公里",
@@ -65,6 +104,19 @@
    "urgent": false,
    "fetched_at": "10-03 11:39",
    "ts": 1790998796
+  },
+  {
+   "id": "f124f754b12776f9246e9560fbf25862",
+   "title": "Pitt emerges as top threat to Miami in ACC as Pat Narduzzi rips AP voters following win over Virginia Tech",
+   "summary": "The Panthers stunned Virginia Tech when a reliable Hokies kicker missed a 36-yarder on the final play",
+   "link": "https://www.cbssports.com/college-football/news/pitt-threat-miami-acc-pat-narduzzi-ap-voters-win-virginia-tech/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 11:36",
+   "ts": 1790998597
   },
   {
    "id": "3f0555724fae7b262a762ba32c3bf2f9",
@@ -132,6 +184,19 @@
    "ts": 1790997630
   },
   {
+   "id": "e153fef4c61f951b0d4a131dbe6cbf99",
+   "title": "Cloudflare Ohttp Gateway",
+   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 9\n# Comments: ",
+   "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 11:15",
+   "ts": 1790997305
+  },
+  {
    "id": "ecc26397cc20afd7f8d8258d33414c79",
    "title": "超 HBM3E 当前价 3 倍：消息称三星电子为 2027 年 HBM4 内存寻求高额定价",
    "summary": "IT之家 10 月 3 日消息，韩媒《每日经济》当地时间昨日报道称，三星电子正与主要客户就 2027 年 HBM4 内存供应合约进行价格谈判，寻求将每 1Gb 单价定在 4～5 美元区间的中高位。（至少 4.5 美元 / Gb）。报道指出，三星电子的 HBM3E 内存当前单价在 1.5 美元 / Gb 左右，明年的 H",
@@ -158,32 +223,6 @@
    "ts": 1790997132
   },
   {
-   "id": "5ee954b61511ed582cb0f54479245818",
-   "title": "谷歌向 Pixel 11 等手机推送安卓 17 QPR3 Beta 1，修复指纹解锁死机问题",
-   "summary": "IT之家 10 月 3 日消息，科技媒体 Android Headline 昨日（10 月 2 日）发布博文，报道称谷歌面向 Pixel 6a 到 Pixel 11 系列手机，推送安卓 17 QPR3 Beta 1 更新，聚焦提升系统稳定性。IT之家注：QPR 是指谷歌季度平台发布版本，每三个月推出一次 Android",
-   "link": "https://www.ithome.com/1/009/415.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 11:07",
-   "ts": 1790996833
-  },
-  {
-   "id": "a3614a4850d7421bf7ca7b447ae0e21f",
-   "title": "小米 Civi 4 Pro、REDMI K70 手机新增电池升级服务，限时 8 折 151.2 元",
-   "summary": "IT之家 10 月 3 日消息，小米此前宣布，小米 14 和 14 Pro 手机的电池升级服务于 10 月 1 日上线。小米 14：4610mAh → 4795mAh小米 14 Pro：4880mAh → 5140mAh据介绍，电池换新服务是更换同规格新电池，电池升级服务是在原有基础上再进一步，更换容量更大的电池。IT",
-   "link": "https://www.ithome.com/1/009/414.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 11:05",
-   "ts": 1790996717
-  },
-  {
    "id": "bca496dab921a2c404877d88606bc7cd",
    "title": "New York’s Inaugural Muslim Film Festival Aims to Move Past Counter-Narratives, Unveils Lineup, Jury (EXCLUSIVE)",
    "summary": "A festival launching Oct. 11 at Manhattan&#8217;s SVA Theatre is positioning itself as an answer to the flattened, stereotyped picture of Muslims Western media ",
@@ -195,6 +234,19 @@
    "urgent": false,
    "fetched_at": "10-03 11:00",
    "ts": 1790996456
+  },
+  {
+   "id": "412ebaeb5bbb238aef569e68986e7264",
+   "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+   "summary": "",
+   "link": "https://www.qbitai.com/2026/10/500148.html",
+   "source": "量子位",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-03 10:38",
+   "ts": 1790995099
   },
   {
    "id": "c6086a3266959c88c3ddf6e2afe03d03",
@@ -238,7 +290,7 @@
   {
    "id": "a8a103a5c415df52b05d67dfa2606d26",
    "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-   "summary": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 24\n# Comm",
+   "summary": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 27\n# Comm",
    "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -277,7 +329,7 @@
   {
    "id": "191bd1c28b2d6d360ae0a2ed679bf01f",
    "title": "Newgrounds.com – A community of games, music, and art",
-   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 75\n# Comments: 15",
+   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 89\n# Comments: 22",
    "link": "https://www.newgrounds.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -355,7 +407,7 @@
   {
    "id": "9f28acfc82367b8cd3b7290bc672e21b",
    "title": "Things that apparently cause cancer",
-   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 123\n#",
+   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 134\n#",
    "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -769,32 +821,6 @@
    "ts": 1790979120
   },
   {
-   "id": "3f09979611b41be86ea9980a5f6fdf8e",
-   "title": "Court ruling leaves Mark Mitchell, other fifth-year college athletes in eligibility limbo",
-   "summary": "The eligibility battle for Missouri star Mark Mitchell and several other prominent college basketball players seeking a fifth season got more complicated Friday",
-   "link": "https://www.cbssports.com/college-basketball/news/court-ruling-mark-mitchell-eligibility/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 06:07",
-   "ts": 1790978833
-  },
-  {
-   "id": "eff6b2f1734dd31ec369818a997e3d6b",
-   "title": "Wade: Gian was 'pretty poor' – 'I bashed him up!'",
-   "summary": "James Wade felt Gian van Veen was &#8216;pretty poor&#8217; in their World Grand Prix Darts quarter-final, so he &#8216;bashed him up&#8217;!",
-   "link": "https://www.skysports.com/watch/video/13594526/james-wade-defeats-poor-gian-van-veen-i-bashed-him-up",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:54",
-   "ts": 1790978040
-  },
-  {
    "id": "df4a458f35424f32444d5c96c29444cc",
    "title": "iPhone 18 Pro Max connectivity issue on AT&T isn't fixed by iOS 27.0.1 apparently",
    "summary": "Earlier this week, Apple released iOS 27.0.1, following the initial iOS 27 launch earlier in September. The update fixes an issue that caused the newly launched",
@@ -975,19 +1001,6 @@
    "urgent": false,
    "fetched_at": "10-03 05:08",
    "ts": 1790975317
-  },
-  {
-   "id": "6fa792b2ddd2b7c1f1679e0c4f3d6049",
-   "title": "Every SaaS business will become a harness around a model",
-   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 117\n# Comments: 85",
-   "link": "https://blog.sshh.io/p/the-harness-is-the-company",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:06",
-   "ts": 1790975216
   },
   {
    "id": "d74aff60047cc46fb360229e55cad41d",
@@ -1278,7 +1291,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 147\n# Comments: 88",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 154\n# Comments: 91",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1317,7 +1330,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 155\n# Comments: 73",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 158\n# Comments: 74",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1395,7 +1408,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 350\n# Comments: 225",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 363\n# Comments: 226",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1616,7 +1629,7 @@
   {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 182\n# Comments: 45",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 186\n# Comments: 53",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1668,7 +1681,7 @@
   {
    "id": "93e322c483dd9a7cf4e53196f428d46d",
    "title": "There's a New Sea Spider in Town",
-   "summary": "Article URL: https://nautil.us/theres-a-new-sea-spider-in-town-1285470\nComments URL: https://news.ycombinator.com/item?id=49936398\nPoints: 5\n# Comments: 0",
+   "summary": "Article URL: https://nautil.us/theres-a-new-sea-spider-in-town-1285470\nComments URL: https://news.ycombinator.com/item?id=49936398\nPoints: 6\n# Comments: 0",
    "link": "https://nautil.us/theres-a-new-sea-spider-in-town-1285470",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2032,7 +2045,7 @@
   {
    "id": "077fdf42fb97a882004a771ef6ef80bf",
    "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 129\n# Comments: 101",
+   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 130\n# Comments: 105",
    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2600,19 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-02 14:13",
    "ts": 1790921629
-  },
-  {
-   "id": "442198b5fecee2ba58bf25ae268263c5",
-   "title": "你的下一台「泡面盖」，何必是塑料的？",
-   "summary": "铝合金 Kindle 来了！压泡面更稳#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
-   "link": "https://www.ifanr.com/1682870?utm_source=rss&utm_medium=rss&utm_campaign=",
-   "source": "爱范儿",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 14:10",
-   "ts": 1790921400
   }
  ]
 }
