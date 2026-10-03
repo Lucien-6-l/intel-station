@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03 08:43",
- "total": 282,
+ "updated_at": "2026-10-03 09:04",
+ "total": 270,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,10 +10,61 @@
   "数码",
   "汽车",
   "游戏",
-  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "8f2a89e2e8ab32c92bd6a88b71f90b94",
+   "title": "George Cheeks May Level Up in David Ellison’s TV Empire",
+   "summary": "The CBS networks chief is poised to expand his oversight with the Warner Bros. Discovery assets arriving onboard the Skydance train.",
+   "link": "https://www.hollywoodreporter.com/business/business-news/george-cheeks-skydance-david-ellison-tv-empire-1236721367/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 09:02",
+   "ts": 1790989334
+  },
+  {
+   "id": "269400e42a1e719e0327198016f4dcc1",
+   "title": "微软工程师探究 Win11 滚动条“Shift+ 点击”直达操作，因生态碎片化应用无法完全支持",
+   "summary": "IT之家 10 月 3 日消息，微软资深 Windows 工程师 Raymond Chen 于 9 月 22 日在其 The Old New Thing 博客上发布博文，指出用户无需拖动滑块，按住 Shift 键并点击滚动条任意位置，滚动条滑块即直接移动到该位置。Chen 表示在 Windows 7 和 Windows",
+   "link": "https://www.ithome.com/1/009/391.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 09:00",
+   "ts": 1790989230
+  },
+  {
+   "id": "72d6231c3b1b94a60baba18996467410",
+   "title": "OpenAI 披露：澳大利亚又一政府机构遭失控智能体入侵",
+   "summary": "IT之家 10 月 3 日消息，据澳大利亚广播公司当地时间 10 月 2 日报道，澳大利亚新南威尔士州政府网站遭到了失控的 OpenAI 智能体侵入。当地政府与 OpenAI 双方均证实，在此次发生于今年 6 月的事件中，并没有任何公众信息被读取。不过，官方直到本周才收到正式通报。OpenAI 发言人在声明中称：“在察",
+   "link": "https://www.ithome.com/1/009/390.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:57",
+   "ts": 1790989030
+  },
+  {
+   "id": "023d9ac109c2bc5094409b9c5cb1a84e",
+   "title": "Meta wants your next gadget to be Muse-infused",
+   "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+   "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 08:45",
+   "ts": 1790988339
+  },
   {
    "id": "ad8868d6d12a46382d23337080bfbd44",
    "title": "特朗普提出将“人工智能”改称“超级智能”后，斯洛文尼亚“.si”域名注册量环比暴增 2100%",
@@ -273,32 +324,6 @@
    "urgent": false,
    "fetched_at": "10-03 07:30",
    "ts": 1790983847
-  },
-  {
-   "id": "685a857b4d891695ceb1ef2f211ca66f",
-   "title": "初代 M3 上市 40 年，宝马 M 车型迎来百万辆下线里程碑",
-   "summary": "IT之家 10 月 3 日消息，当地时间 2 日，宝马集团旗下高性能品牌 M 的累计产量正式突破 100 万辆，第 100 万辆车型是一辆在德国慕尼黑工厂下线的 M3，采用个性化定制 Fire Orange III 车漆，慕尼黑工厂负责人彼得 · 韦伯将车钥匙交给 M CEO 弗兰克 · 范梅尔。与此同时，下一代纯电 ",
-   "link": "https://www.ithome.com/1/009/379.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 07:29",
-   "ts": 1790983771
-  },
-  {
-   "id": "1234d43a00e9d23c1a6e8490c240e4ae",
-   "title": "苹果回应少数美国运营商 AT&T 版 iPhone 18 Pro Max 出现 SOS 通信故障",
-   "summary": "IT之家 10 月 3 日消息，科技媒体 9to5Mac 昨日（10 月 2 日）发布博文，报道称美国电信运营商 AT&amp;T 和苹果公司分别发布声明，表示少量美版 iPhone 18 Pro Max 存在蜂窝网络问题。IT之家曾于 9 月援引市场调查机构 TechInsights 公布的拆解报告，美国版苹果 iP",
-   "link": "https://www.ithome.com/1/009/378.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 07:20",
-   "ts": 1790983242
   },
   {
    "id": "4d0f519d758b7b0d4042b6462988cfb1",
@@ -849,7 +874,7 @@
   {
    "id": "6fa792b2ddd2b7c1f1679e0c4f3d6049",
    "title": "Every SaaS business will become a harness around a model",
-   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 83\n# Comments: 60",
+   "summary": "Article URL: https://blog.sshh.io/p/the-harness-is-the-company\nComments URL: https://news.ycombinator.com/item?id=49938616\nPoints: 86\n# Comments: 65",
    "link": "https://blog.sshh.io/p/the-harness-is-the-company",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -953,7 +978,7 @@
   {
    "id": "0419d34b7ab29cdaac75720215ed2d2c",
    "title": "Zig v0.17.0",
-   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 199\n# Comments: 115",
+   "summary": "Article URL: https://ziglang.org/download/0.17.0/release-notes.html\nComments URL: https://news.ycombinator.com/item?id=49938521\nPoints: 203\n# Comments: 122",
    "link": "https://ziglang.org/download/0.17.0/release-notes.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1001,19 +1026,6 @@
    "urgent": false,
    "fetched_at": "10-03 04:44",
    "ts": 1790973873
-  },
-  {
-   "id": "e1be4b38df48cab04d9e4ef8891c5fdf",
-   "title": "J.A. Bayona Leads Field to Direct ‘Jurassic World’ Sequel",
-   "summary": "Universal is eyeing the Spanish filmmaker to return to the dinosaur island and helm the follow-up to 'Jurassic World Rebirth.'",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/ja-bayona-jurassic-world-rebirth-sequel-frontrunner-1236721214/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:44",
-   "ts": 1790973848
   },
   {
    "id": "9096388c55152289eb0914769fc14524",
@@ -1200,7 +1212,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 102\n# Comments: 63",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 110\n# Comments: 65",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1239,7 +1251,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 113\n# Comments: 58",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 118\n# Comments: 60",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1317,7 +1329,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 300\n# Comments: 197",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 303\n# Comments: 204",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1551,7 +1563,7 @@
   {
    "id": "c4403da706604980eef315f527b9cd6e",
    "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 132\n# Comments: 36",
+   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 140\n# Comments: 36",
    "link": "https://dwarfstar.sh/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1967,7 +1979,7 @@
   {
    "id": "077fdf42fb97a882004a771ef6ef80bf",
    "title": "One month coding with GLM 5.3 Flash",
-   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 99\n# Comments: 78",
+   "summary": "Article URL: https://wagtail.org/blog/one-month-on-glm-53-flash/\nComments URL: https://news.ycombinator.com/item?id=49934620\nPoints: 103\n# Comments: 80",
    "link": "https://wagtail.org/blog/one-month-on-glm-53-flash/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2082,19 +2094,6 @@
    "ts": 1790951462
   },
   {
-   "id": "10e337007aa7118ae76712b7165b74ee",
-   "title": "TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer",
-   "summary": "Clay Co-founder and CEO Kareem Amin joins the AI Stage to discuss the rise of GTM engineer at TechCrunch Disrupt 2026. Register for your ticket and get a second",
-   "link": "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 22:30",
-   "ts": 1790951400
-  },
-  {
    "id": "fcddbcfe994f9fdf3ee3ee1970bb8af5",
    "title": "An Ebola treatment center was burned down as the death toll in Congo passes 4,000",
    "summary": "Congo's Ebola outbreak has killed more than 4,000 people, authorities said, as they struggle to contain what has become the fastest-growing Ebola outbreak in hi",
@@ -2110,7 +2109,7 @@
   {
    "id": "deadc6e12be46fdc133a8b818e8ee069",
    "title": "The Forgetful CPU (Linux on M4)",
-   "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 69\n# Comments: 5",
+   "summary": "Article URL: https://yuka.dev/blog-2026-10-02-linux-m4.html\nComments URL: https://news.ycombinator.com/item?id=49933869\nPoints: 79\n# Comments: 11",
    "link": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2136,7 +2135,7 @@
   {
    "id": "0c809ece3a48d001fb10a1fc65ef08c0",
    "title": "With most information hidden, the game Stratego had stumped AI until now",
-   "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 166\n# Co",
+   "summary": "https://www.nature.com/articles/s41586-026-11036-yhttps://arxiv.org/abs/2511.07312\n\nComments URL: https://news.ycombinator.com/item?id=49933740\nPoints: 171\n# Co",
    "link": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
    "source": "Hacker News",
    "channel": "AI·科技",
