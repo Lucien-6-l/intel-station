@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-03 17:05",
- "total": 280,
+ "updated_at": "2026-10-03 17:37",
+ "total": 268,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,10 +10,113 @@
   "数码",
   "汽车",
   "游戏",
-  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "d50d7f5a0412de50ce8e98d75c26705d",
+   "title": "Verstappen beats Hamilton to pole in Malaysia",
+   "summary": "Max Verstappen claimed Red Bull's first pole position of the season as he beat Lewis Hamilton in qualifying for the Bahrain Grand Prix in Malaysia.",
+   "link": "https://www.skysports.com/f1/news/12040/13594547/bahrain-gp-in-malaysia-max-verstappen-beats-lewis-hamilton-to-pole-position-to-claim-first-red-bull-pole-of-2026-formula-1-season",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 18:16",
+   "ts": 1791022560
+  },
+  {
+   "id": "969e80f9bfc69a84c6c9f9cb3b84f164",
+   "title": "Deals: Early Prime Day deals on Samsung foldables now live, Pixel 11 Pro and Galaxy S26 Ultra discounted",
+   "summary": "Amazon’s Prime Big Deal Days sale begins on October 6, but the e-commerce giant is already offering early deals on select devices. However, you’ll need an Amazo",
+   "link": "https://www.gsmarena.com/deals_early_prime_day_deals_on_samsung_foldables_now_live_pixel_11_pro_and_galaxy_s26_ultra_discount-news-74885.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 17:31",
+   "ts": 1791019862
+  },
+  {
+   "id": "31e6689ad9ec8164e6d6eb616883da86",
+   "title": "I hate when Android brands copy Apple — but the iPhone Duo is the exception",
+   "summary": "The iPhone Duo could make Android foldables much better.",
+   "link": "https://www.androidauthority.com/hate-when-android-copies-apple-iphone-duo-exception-3716696/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 17:30",
+   "ts": 1791019840
+  },
+  {
+   "id": "8e4b4f8c6af68706eb87721994269309",
+   "title": "小米 Vision GT 十月即将正式入驻 Gran Turismo 7，成为游戏史上的首台中国 Vision GT",
+   "summary": "IT之家 10 月 3 日消息，小米汽车今日宣布，Xiaomi Vision GT（Vision Gran Turismo）10 月即将正式入驻 Gran Turismo 7（跑车浪漫旅 7 / GT 赛车 7），成为游戏史上的首台中国 Vision GT。Vision GT 是《Gran Turismo》赛车游戏发起",
+   "link": "https://www.ithome.com/1/009/517.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 17:29",
+   "ts": 1791019795
+  },
+  {
+   "id": "89d7555486b92d5bd5c573a3cce34bcf",
+   "title": "华为 HarmonyOS 7.0 小艺帮帮忙智能体功能调整，将不再支持后续新增的设备",
+   "summary": "IT之家 10 月 3 日消息，小艺帮帮忙智能体是 HarmonyOS 6.0 上推出的探索性智能体。华为官网显示，因业务调整，小艺帮帮忙智能体将不再支持后续新增的设备。据悉，小艺帮帮忙智能体是一个专注于应用操控的智能体，支持操控更多的场景，可在智能体对话列表页中找到小艺帮帮忙智能体，也可以在广场中搜索小艺帮帮忙来体验",
+   "link": "https://www.ithome.com/1/009/516.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 17:18",
+   "ts": 1791019092
+  },
+  {
+   "id": "2bdea427aaf1d51513c2b03a389452b4",
+   "title": "消息称大众 CARIAD 拟进一步裁员 1000 人，未来 5 年削减 61 亿欧元投资",
+   "summary": "IT之家 10 月 3 日消息，德国《商报》(handelsblatt) 当地时间 9 月 30 日报道称，大众汽车集团旗下软件公司 CARIAD 拟进一步裁员 1000 人并在 2027~2031 年期间削减 61 亿欧元（IT之家注：现汇率约合 461.25 亿元人民币）投资。CARIAD 此前已在 2025 年进",
+   "link": "https://www.ithome.com/1/009/515.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 17:15",
+   "ts": 1791018943
+  },
+  {
+   "id": "62b9613e22c6eafbfa77f459b2f08018",
+   "title": "交通运输部：10 月 3 日全国 24 个高速公路路段易发拥堵",
+   "summary": "IT之家 10 月 3 日消息，据交通运输部动态研判，10 月 3 日，全国高速公路有 24 个路段易发拥堵，主要集中在江苏、广东、四川、陕西等省份。如计划途经这些路段，请合理安排出行时间和路线。序号省份城市路线编号路线名称起点桩号止点桩号方向1江苏无锡市G2京沪高速K1133K1099下行2江苏常州市G25长深高速K",
+   "link": "https://www.ithome.com/1/009/514.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 17:12",
+   "ts": 1791018775
+  },
+  {
+   "id": "ee8490b63ec9312af3c44a3cbf487012",
+   "title": "HMD M-Kopa X4e 运营商定制机曝光：Helio G81 处理器 + 4GB RAM",
+   "summary": "IT之家 10 月 3 日消息，消息源 smashx_60 现已曝光了 HMD M-Kopa X4e 运营商定制机型规格信息，该机基于 HMD Luma2 手机打造，但规格更为精简。该机配备一块 90Hz IPS LCD 面板，匹配 8MP 自拍摄像头；手机背面配备 50MP 主摄摄像头。搭载 4GB LPDDR4X ",
+   "link": "https://www.ithome.com/1/009/513.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 17:12",
+   "ts": 1791018762
+  },
   {
    "id": "41e7e78133aaa9cba8319450709f29f7",
    "title": "My Samsung phone was full of screenshots. This quick trick fixed it",
@@ -80,6 +183,19 @@
    "ts": 1791016973
   },
   {
+   "id": "c642862940bb7b0a865fdf814606d95e",
+   "title": "U.S. may have overthrown Venezuela due to chat with Grok",
+   "summary": "Article URL: https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/\nComments URL: https://news.ycombinator.com/item?id=4994243",
+   "link": "https://www.thedailybeast.com/jaw-dropping-way-trump-80-got-talked-into-a-war-is-leaked/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 16:40",
+   "ts": 1791016838
+  },
+  {
    "id": "8cb2ced6c5204496cc5ef9659b28c41a",
    "title": "Save Big On Tolkien's Lord of the Rings and Hobbit Books Ahead of Prime Day",
    "summary": "From The Silmarillion to The Lord of the Rings and beyond, J.R.R. Tolkien's works are discounted at Amazon right now",
@@ -132,45 +248,6 @@
    "ts": 1791016532
   },
   {
-   "id": "0fd0cc9d0f9939b0f5d06f81609a12d2",
-   "title": "消息称 Netflix 奈飞调整原创内容策略：减少“叫好不叫座”作品、资源倾向更具备商业价值的项目",
-   "summary": "IT之家 10 月 3 日消息，据外媒 The Verge 报道，Netflix 奈飞正在逐步调整原创内容策略。最近几周，该公司陆续结束了其中一些合作协议，这或许意味着公司正在减少对知名电影人的长期依赖，将更多资源投入到能够持续吸引用户的剧集、真人秀、直播和体育内容。例如，Netflix 近日确认，与导演大卫 · 芬奇",
-   "link": "https://www.ithome.com/1/009/504.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 16:32",
-   "ts": 1791016354
-  },
-  {
-   "id": "46dbac2ec7abd7a2229eb4f7ae0fab27",
-   "title": "宝马德国巴伐利亚新电池组装工厂正式投运，量产新世代 i3 高压电池",
-   "summary": "IT之家 10 月 3 日消息，BMW（宝马）德国当地时间本月 1 日宣布，其位于巴伐利亚伊尔巴赫-施特拉斯基兴的新电池组装工厂正式投运并进入量产阶段，为新世代 i3 供应第六代高压电池。这座电池组装工厂占地 60 公顷，总投资约 10 亿欧元（IT之家注：现汇率约合 75.62 亿元人民币），2024 年 4 月动工",
-   "link": "https://www.ithome.com/1/009/503.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 16:24",
-   "ts": 1791015894
-  },
-  {
-   "id": "49edb2259bf54f786ec8be736e9b94c5",
-   "title": "Neurable One 头戴式耳机发布：号称能够监测用户脑电信号，499 美元",
-   "summary": "IT之家 10 月 3 日消息，初创公司 Neurable 现已正式推出 Neurable One 头戴式耳机，该耳机内置 12 通道脑电图（EEG）监测系统，可以记录用户的脑电信号，以便专业人士分析佩戴者专注度、认知负荷、平静程度等状态，定价 499 美元（IT之家注：现汇率约合 3,350 元人民币）。据介绍，Ne",
-   "link": "https://www.ithome.com/1/009/502.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 16:19",
-   "ts": 1791015592
-  },
-  {
    "id": "c0e6b0bf989ce4515cc807e3f4c928b9",
    "title": "‘April X’ Review: Connor Storrie Bides His Time in a Generic Sci-Fi Clone",
    "summary": "It would be nice to say that Connor Storrie burns up the screen in &#8220;April X,&#8221; the star&#8217;s first film vehicle released since TV&#8217;s &#8220;H",
@@ -184,34 +261,8 @@
    "ts": 1791015470
   },
   {
-   "id": "aca6bed9f492be362ab11c96d705c8c3",
-   "title": "分析公司 Alinea：预计 Steam 平台 2026 年收入将首次突破 200 亿美元",
-   "summary": "IT之家 10 月 3 日消息，分析公司 Alinea 发文，透露 V 社 Steam 平台 2026 年前九个月收入约 165 亿美元（IT之家注：现汇率约合 1,107.87 亿元人民币），该平台第三季度以及 9 月单月的收入估算均创下新高，预计 Steam 平台全年收入将首次超过 200 亿美元（现汇率约合 1,",
-   "link": "https://www.ithome.com/1/009/501.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 16:08",
-   "ts": 1791014888
-  },
-  {
-   "id": "5e9a40404b741f245be8a8c5d79cb4e1",
-   "title": "《人类一败涂地》团队 VR 游戏新作《小小羊群》发售：Steam 国区首发价 ¥57.67，支持中文",
-   "summary": "IT之家 10 月 3 日消息，由《人类一败涂地》开发团队 No Brakes Games 打造的温馨 VR 物理解谜游戏《小小羊群》现已正式登陆 SteamVR / Quest 平台。以 Steam 国区为例，本作首发特惠 -21%，折后价 ¥57.67，优惠截止至 10 月 13 日。游戏支持简体中文界面、音频与字",
-   "link": "https://www.ithome.com/1/009/500.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 16:04",
-   "ts": 1791014663
-  },
-  {
    "id": "689266fdad22e3a6673b76e19fff0eaa",
-   "title": "Bahrain GP in Malaysia: Verstappen beats Hamilton to claim pole LIVE!",
+   "title": "Bahrain GP in Malaysia: Reaction to Verstappen-Hamilton front row LIVE!",
    "summary": "",
    "link": "https://www.skysports.com/f1/live-blog/12040/13594552/f1-bahrain-gp-in-malaysia-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-in-sepang",
    "source": "Sky Sports",
@@ -251,7 +302,7 @@
   {
    "id": "53e7f05688b3b06baba19ddb8e25dab0",
    "title": "Understanding Frontier Artificial Intelligence",
-   "summary": "Article URL: https://casp.ac/reports/intelligence-explosion\nComments URL: https://news.ycombinator.com/item?id=49942002\nPoints: 24\n# Comments: 17",
+   "summary": "Article URL: https://casp.ac/reports/intelligence-explosion\nComments URL: https://news.ycombinator.com/item?id=49942002\nPoints: 38\n# Comments: 39",
    "link": "https://casp.ac/reports/intelligence-explosion",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -368,7 +419,7 @@
   {
    "id": "eec9f70090370bef588c6b9f57a482b6",
    "title": "An Update on Orion for Linux and Windows",
-   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 32\n# Comments: 13",
+   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 39\n# Comments: 13",
    "link": "https://blog.kagi.com/update-orion-linux-windows",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -433,7 +484,7 @@
   {
    "id": "61c2fcf1db281fa8da97648647f3047e",
    "title": "Extra Big Ass Intelligence",
-   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 272\n# Comments: 60",
+   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 282\n# Comments: 60",
    "link": "https://www.extrabigassintelligence.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -446,7 +497,7 @@
   {
    "id": "e153fef4c61f951b0d4a131dbe6cbf99",
    "title": "Cloudflare OHTTP gateway",
-   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 67\n# Comments:",
+   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 70\n# Comments:",
    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -550,7 +601,7 @@
   {
    "id": "191bd1c28b2d6d360ae0a2ed679bf01f",
    "title": "Newgrounds.com – A community of games, music, and art",
-   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 196\n# Comments: 55",
+   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 203\n# Comments: 54",
    "link": "https://www.newgrounds.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1211,19 +1262,6 @@
    "ts": 1790974920
   },
   {
-   "id": "5203ee675c1f7670e4da253eb0818044",
-   "title": "NFL London: 651-day wait over... Sauce's Colts go globe-trotting again",
-   "summary": "Sauce Gardner just ended a 651-day wait for an NFL win in the United States. Now the Indianapolis Colts cornerback is back on international soil.",
-   "link": "https://www.skysports.com/nfl/news/12040/13593991/nfl-london-games-2026-sauce-gardner-globe-trotting-again-after-ending-651-day-wait-for-win-in-united-states",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:00",
-   "ts": 1790974800
-  },
-  {
    "id": "aee9dd124e640b6c513327857c62111f",
    "title": "Selma Blair Reveals Extent of Fallout After Anti-Islam Instagram Comment: “I Didn’t Have a Career at All”",
    "summary": "During a speech at an Anti-Defamation League event in New York, the veteran actress said she got dropped, blocked and shunned in Hollywood and beyond: \"Two year",
@@ -1265,7 +1303,7 @@
   {
    "id": "7e28dfddaf0aed2d57d27c663f3ab25a",
    "title": "Barcodes are about to go extinct",
-   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 26\n# Commen",
+   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 32\n# Commen",
    "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1393,19 +1431,6 @@
    "ts": 1790971220
   },
   {
-   "id": "539ccb39416b83a79869f18f5aad31c9",
-   "title": "Show HN: Made an open-source Lego AI generator",
-   "summary": "Hi there :-) New on HN, first time posting.Past year, around December, I started experimenting with making ChatGPT and Claude generate source code in LDraw lang",
-   "link": "https://github.com/anteloc/ldraw-nova",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:00",
-   "ts": 1790971215
-  },
-  {
    "id": "d4e0cb2f95a36bf60b01146a41bd51ae",
    "title": "9to5Mac Overtime 084: iPhone 18 Pro – a fantastic pro camera experience",
    "summary": "Jeff and Fernando share their excitement about the iPhone 18 Pro’s camera capabilities and explore whether it could truly replace a mirrorless camera for both p",
@@ -1460,7 +1485,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 190\n# Comments: 132",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 193\n# Comments: 132",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1499,7 +1524,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 188\n# Comments: 84",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 192\n# Comments: 84",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1564,7 +1589,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 410\n# Comments: 250",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 418\n# Comments: 255",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1577,7 +1602,7 @@
   {
    "id": "b81aa1a9d9c293e210822b73d0e28433",
    "title": "The Nintendo 64 Partner-N64 Development Kit",
-   "summary": "https://archive.is/WCnLA\n\nComments URL: https://news.ycombinator.com/item?id=49937146\nPoints: 34\n# Comments: 4",
+   "summary": "https://archive.is/WCnLA\n\nComments URL: https://news.ycombinator.com/item?id=49937146\nPoints: 37\n# Comments: 5",
    "link": "https://www.behindthecode.ca/partner-n64pc-dev-kit/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1833,19 +1858,6 @@
    "urgent": false,
    "fetched_at": "10-03 01:32",
    "ts": 1790962325
-  },
-  {
-   "id": "d9abeb4c6cfbaa2c930f5d901253ca74",
-   "title": "Google Calendar may soon realize not every new event needs the same default length",
-   "summary": "Juggling work and family? Google Calendar may soon tailor event lengths per calendar.",
-   "link": "https://www.androidauthority.com/calendar-default-length-3718621/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:25",
-   "ts": 1790961932
   },
   {
    "id": "987cdca8b49fef76c87cd55c9cc576a0",
@@ -2418,19 +2430,6 @@
    "urgent": false,
    "fetched_at": "10-02 21:11",
    "ts": 1790946676
-  },
-  {
-   "id": "3edff936663aa625257886ce1653a47e",
-   "title": "Amazon unveils its updated Kindle lineup",
-   "summary": "Amazon announced three new Kindles today, which bring updated colors, thinner and lighter profiles and longer-lasting batteries. All versions now come with flus",
-   "link": "https://www.gsmarena.com/amazon_unveils_its_updated_kindle_lineup-news-74874.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-02 20:09",
-   "ts": 1790942941
   },
   {
    "id": "524481bd8f81b1c2a3673f908b5b63c3",
