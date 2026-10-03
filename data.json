@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 15:40",
+ "updated_at": "2026-10-03 16:03",
  "total": 281,
  "channels": [
   "AI·科技",
@@ -15,6 +15,45 @@
  ],
  "items": [
   {
+   "id": "d44128410b5bbf568f5de33d9b0b7d42",
+   "title": "明基推出 AK900ST / AK800ST 投影仪，面向室内高尔夫运动",
+   "summary": "IT之家 10 月 3 日消息，明基 (BenQ) 美国加州当地时间 1 日宣布推出 2 款面向室内高尔夫运动的投影仪设备，即 AK900ST 和 AK800ST。这两款产品支持 4K UHD 分辨率、亮度可达 6000 ANSI 流明，色域覆盖 97% Rec.709，能忠实再现真实高尔夫球场的细微细节和色彩变化。A",
+   "link": "https://www.ithome.com/1/009/498.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 16:02",
+   "ts": 1791014551
+  },
+  {
+   "id": "6eea32ecf9c45b023c361ba583756672",
+   "title": "消息称三星显示计划于本月开始为 Galaxy S27 系列手机量产 AMOLED 面板",
+   "summary": "IT之家 10 月 3 日消息，据韩媒 zdnet 报道，三星显示（Samsung Display）计划于本月开始量产 Galaxy S27 系列手机所采用的 AMOLED 屏幕。三星 Galaxy S27 系列预计将包含 4 款机型，分别为 6.27 英寸的 Galaxy S27、6.66 英寸的 Galaxy S2",
+   "link": "https://www.ithome.com/1/009/497.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 16:01",
+   "ts": 1791014503
+  },
+  {
+   "id": "36d296c06f3244f782a45a039083d6fd",
+   "title": "游戏《战地风云 6》Steam 国区永久降价：268 元起 → 198 元起（叠加折扣到手价 99 元起）",
+   "summary": "IT之家 10 月 3 日消息，《战地风云 6》现已在 Steam 平台迎来价格永久下调，标准版原价 268 元，现永降至 198 元；官方同时开启 5 折新史低折扣，标准版折后仅需 99 元。除此之外，本作魅影版也从 468 元降至 398 元，目前 6.5 折后到手价为 258.7 元。本作于 2025 年 10 ",
+   "link": "https://www.ithome.com/1/009/496.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:57",
+   "ts": 1791014233
+  },
+  {
    "id": "689266fdad22e3a6673b76e19fff0eaa",
    "title": "Bahrain GP in Malaysia: Mercedes, Red Bull set for big qualifying battle LIVE!",
    "summary": "",
@@ -26,6 +65,71 @@
    "urgent": false,
    "fetched_at": "10-03 15:57",
    "ts": 1791014220
+  },
+  {
+   "id": "48bb2a23341664761cea1beb58c3a120",
+   "title": "AI 数字人面试官引发求职者“恐怖谷效应”吐槽，相关话题冲上热搜",
+   "summary": "IT之家 10 月 3 日消息，#AI 面试恐怖谷#话题今天（10 月 3 日）冲上热搜，近期秋招中大量企业启用 AI 数字人面试官，其僵硬神态与微表情全景监控让面试沦为冰冷的算法打分，引发求职者集体吐槽“恐怖谷效应”。IT之家发稿前，该话题在热搜榜上排名第 25 位，相关热度值为 186,858。在今年 7 月“AI",
+   "link": "https://www.ithome.com/1/009/495.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:52",
+   "ts": 1791013958
+  },
+  {
+   "id": "b0f2dc230e1cfa7a3d559bc1a196b666",
+   "title": "华为李小龙：睿影 Z10 模块相机卡口通过可拆卸转接环实现，未来手机形状变化、换一个转接环就能适配",
+   "summary": "IT之家 10 月 3 日消息，在 10 月 1 日举行的华为 Mate 90 系列及全场景新品发布会上，华为睿影 Z10 模块相机正式发布，有 H1、H2 两个卡口版本，分别适配 Mate 90 Pro Max 典藏版和 Mate 90 RS 非凡大师，定价 5999 元。华为终端 BG CTO 李小龙今日就这款新品",
+   "link": "https://www.ithome.com/1/009/494.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:50",
+   "ts": 1791013848
+  },
+  {
+   "id": "c22e4fff8057347bef18a1e2696a6452",
+   "title": "买二手 CPU 送“封号套餐”：玩家《无畏契约》游戏账号及电脑整机硬件被 Riot 连坐永封",
+   "summary": "IT之家 10 月 3 日消息，据 VideoCardz 报道，一名玩家 After-Cartoonist-196 在 Reddit 发帖，透露自己于 9 月 21 日购买了一颗二手 AMD 锐龙 7 5800X3D 处理器，在将处理器安装到电脑后，启动《无畏契约》便遭到封禁。之后，After-Cartoonist-1",
+   "link": "https://www.ithome.com/1/009/493.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:47",
+   "ts": 1791013678
+  },
+  {
+   "id": "711e5da2ebe41d547f480b8942c92e34",
+   "title": "硅含量达 40%，冠宇电芯及电池包首发配套荣耀 Magic 9 Pro Max",
+   "summary": "IT之家 10 月 3 日消息，荣耀 Magic9 系列手机于 9 月 28 日发布，珠海冠宇今日宣布为荣耀 Magic 9 Pro Max 首发配套电芯与电池包。IT之家从官方介绍获悉，通过负极材料配方创新与工艺优化，冠宇进一步提升电芯负极硅含量，让单位体积容纳更多能量。荣耀 Magic 9 Pro Max 电池硅含",
+   "link": "https://www.ithome.com/1/009/492.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:44",
+   "ts": 1791013471
+  },
+  {
+   "id": "fb6eea36102704abd7c3f6c0b1037b51",
+   "title": "联力发布 Edge V2 系列电源：延续 L 型设计，调整功率组合",
+   "summary": "IT之家 10 月 3 日消息，联力 (LIAN LI) 昨日宣布推出 V2 版本的 Edge 系列 ATX PC 电源。新一代产品延续了初代 Edge 的独特 L 型设计，功率组合有所调整。初代 EDGE 可选 850W / 1000W / 1300W，其继任者 Edge Platinum V2 提供 1000W /",
+   "link": "https://www.ithome.com/1/009/491.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-03 15:42",
+   "ts": 1791013379
   },
   {
    "id": "8c206fb4997cdefbcc9c489b36e13cc8",
@@ -80,82 +184,17 @@
    "ts": 1791012094
   },
   {
-   "id": "56832c7189995c20cf235cb58451041a",
-   "title": "R 星遏制索尼 PS5 破解：想玩《GTA 6》就得为游戏机更新 14.10.00 最新固件",
-   "summary": "IT之家 10 月 3 日消息，近期索尼 PS5 游戏机被开发者 Nathan Fargo 攻破，用户只需将 PS5 的 DNS 改成特定 IP，即可快速破解游戏机，运行各种自制软件，不过截至IT之家发稿，相应破解方案仅适用于 13.60 版本及之前的固件。而综合数据挖掘者 PlayStation Game Size，",
-   "link": "https://www.ithome.com/1/009/480.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 15:21",
-   "ts": 1791012061
-  },
-  {
-   "id": "e7348f1d24d6515bbf1c2f113b77f984",
-   "title": "上汽 MG4 交车等待礼上线：10 月下定并锁单，交车等待超 30 天每日补偿 5000 MG Live 积分",
-   "summary": "IT之家 10 月 3 日消息，上汽 MG 宣布上线 MG4 交车等待礼，10 月下定并锁单 MG4，交车等待超 30 天，每日补偿 5000 MG Live 积分（100 积分等值于 1 元人民币），上不封顶。据IT之家此前报道，2026 款上汽 MG4 于 4 月 24 日北京车展正式上市，官方指导价区间 6.88",
-   "link": "https://www.ithome.com/1/009/479.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 15:11",
-   "ts": 1791011486
-  },
-  {
-   "id": "0a7757b28c02af2a1b1a359ca2316fb5",
-   "title": "金色巨龙盘踞车顶：1997 款林肯 Town Car 宫形灵车下月拍卖",
-   "summary": "IT之家 10 月 3 日消息，汽车媒体 CarScoops 今天（10 月 3 日）发布博文，报道称美国汽车拍卖行 Mecum 将于下月（2026 年 11 月）拍卖一辆 1997 年款林肯 Town Car（Lincoln Town Car）宫形灵车（Miyagata hearse）。IT之家注：宫形灵车是日本宫形",
-   "link": "https://www.ithome.com/1/009/477.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 15:10",
-   "ts": 1791011428
-  },
-  {
-   "id": "cf4cf54adc7376fd5ce45f4de54973cb",
-   "title": "《天国：拯救 2》负责人希望《GTA 6》推动游戏涨价：为了行业能活下去，早该涨了",
-   "summary": "IT之家 10 月 3 日消息，据外媒 Eurogamer 今天（3 日）报道，去年推出《天国：拯救 2》的开发商战马工作室联合创始人马丁 · 克拉玛希望游戏能够涨价，并将打破现有定价格局寄望于《GTA 6》。克拉玛指出，游戏行业面临几项棘手问题。开发成本近年来一路攀升，稳定购买新游戏的玩家群体却已基本停止增长。数字发",
-   "link": "https://www.ithome.com/1/009/476.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 15:10",
-   "ts": 1791011407
-  },
-  {
-   "id": "f701fcf7e3baa990e17f7c8e0e8640fd",
-   "title": "高德回应“店铺未开业先收差评”：可通过平台提交投诉举报，将持续完善评论机制",
-   "summary": "IT之家 10 月 3 日消息，10 月 2 日，汽车博主 @韩路 在微博上发文称，美团高德大众点评可随意造假评论。韩路表示，他的饭馆 10 月 2 日 17 点才试营业，连店还没开门，但在美团、高德、大众点评就上冒出一堆造假抹黑已经吃过了的差评点评。韩路写道：“实体经济本来就不好弄，平台为了评论热闹，把真实点评的门槛",
-   "link": "https://www.ithome.com/1/009/474.htm",
-   "source": "IT之家",
+   "id": "53e7f05688b3b06baba19ddb8e25dab0",
+   "title": "Understanding Frontier Artificial Intelligence",
+   "summary": "Article URL: https://casp.ac/reports/intelligence-explosion\nComments URL: https://news.ycombinator.com/item?id=49942002\nPoints: 7\n# Comments: 1",
+   "link": "https://casp.ac/reports/intelligence-explosion",
+   "source": "Hacker News",
    "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
    "fetched_at": "10-03 15:06",
-   "ts": 1791011179
-  },
-  {
-   "id": "d04fc7f47e87f0412282f375923ecef6",
-   "title": "爱彼迎 Airbnb 民宿房东利用 AI 图片勒索房客要求其支付维修费，后者利用水印检测器成功识破",
-   "summary": "综合外媒 PC Gamer 报道，近期一名用户 FurinaDeFontaine 在 Reddit 平台发文，称自己使用爱彼迎 Airbnb 订民宿退房后，房主用 AI 生成了一张所谓的“马桶漏水”照片，试图向其勒索 1,700 美元（IT之家注：现汇率约合 11,414 元人民币）“维修费”。据 FurinaDeFo",
-   "link": "https://www.ithome.com/1/009/473.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 15:05",
-   "ts": 1791011108
+   "ts": 1791011162
   },
   {
    "id": "d0fd02bc725de406b10ebdf64e7d6183",
@@ -171,6 +210,19 @@
    "ts": 1791010820
   },
   {
+   "id": "4cbb19849d0438b3df484e08f677767b",
+   "title": "TDS REVIEW | CMF Clip Pro 耳夹式无线耳机体验",
+   "summary": "不知道以后 CMF 的设计还会不会像现在一样出彩。查看全文",
+   "link": "https://sspai.com/post/114922",
+   "source": "少数派",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:00",
+   "ts": 1791010800
+  },
+  {
    "id": "78fea6ed7760ad7f2f4e83ecf5416038",
    "title": "AJ returns to trainer who is branded a 'traitor' by Fury",
    "summary": "Anthony Joshua has returned to trainer Ben Davison for his heavyweight super-fight with Tyson Fury in December.",
@@ -182,32 +234,6 @@
    "urgent": false,
    "fetched_at": "10-03 15:00",
    "ts": 1791010800
-  },
-  {
-   "id": "010635d9273e10ea197e744db0f20f63",
-   "title": "NACON 推出 PS5 授权手柄 Revolution 5 Unlimited，配备 TMR 摇杆与控制屏",
-   "summary": "IT之家 10 月 3 日消息，法国游戏发行与外设企业 NACON 近日宣布推出获得 Sony（索尼）PlayStation 5 授权的 Revolution 5 Unlimited (R5U) 手柄控制器。这一产品定价 199.99 美元（IT之家注：现汇率约合 1,343 元人民币）。NACON R5U 采用非对称",
-   "link": "https://www.ithome.com/1/009/460.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 14:57",
-   "ts": 1791010642
-  },
-  {
-   "id": "605c0ddcee057579d6a72afa67031291",
-   "title": "2027 款标致 208 纯电汽车首曝：五门掀背车身，矩形 Hypersquare 方向盘",
-   "summary": "IT之家 10 月 3 日消息，汽车媒体 CarScoops 昨日（10 月 2 日）发布博文，分享了一组在西班牙抓拍的路测图，首次曝光展示了正在测试的 2027 款标致 208 车型，上市后预估和雷诺 5 E-Tech、大众 ID.Polo 等车型展开竞争。新车将基于 Stellantis 全新 STLA One 架",
-   "link": "https://www.ithome.com/1/009/459.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 14:51",
-   "ts": 1791010296
   },
   {
    "id": "5ab5ea783140d050f5043980ea6053a4",
@@ -277,7 +303,7 @@
   {
    "id": "eec9f70090370bef588c6b9f57a482b6",
    "title": "An Update on Orion for Linux and Windows",
-   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 21\n# Comments: 3",
+   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 27\n# Comments: 5",
    "link": "https://blog.kagi.com/update-orion-linux-windows",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -342,7 +368,7 @@
   {
    "id": "61c2fcf1db281fa8da97648647f3047e",
    "title": "Extra Big Ass Intelligence",
-   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 175\n# Comments: 40",
+   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 197\n# Comments: 45",
    "link": "https://www.extrabigassintelligence.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -355,7 +381,7 @@
   {
    "id": "e153fef4c61f951b0d4a131dbe6cbf99",
    "title": "Cloudflare OHTTP gateway",
-   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 56\n# Comments:",
+   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 58\n# Comments:",
    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -459,7 +485,7 @@
   {
    "id": "191bd1c28b2d6d360ae0a2ed679bf01f",
    "title": "Newgrounds.com – A community of games, music, and art",
-   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 174\n# Comments: 49",
+   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 176\n# Comments: 49",
    "link": "https://www.newgrounds.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -533,19 +559,6 @@
    "urgent": false,
    "fetched_at": "10-03 08:26",
    "ts": 1790987179
-  },
-  {
-   "id": "9f28acfc82367b8cd3b7290bc672e21b",
-   "title": "Things that apparently cause cancer",
-   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 173\n#",
-   "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 08:23",
-   "ts": 1790986991
   },
   {
    "id": "641b2085e6abe2527cb3db18cdab4aca",
@@ -624,6 +637,19 @@
    "urgent": false,
    "fetched_at": "10-03 08:00",
    "ts": 1790985600
+  },
+  {
+   "id": "96cfd47b633a41fb69e37840ea3fba1c",
+   "title": "Kim gains exemption from mandatory military service after Asian Games gold",
+   "summary": "Tom Kim secured an exemption from completing full mandatory military service in South Korea after he clinched gold in the Men's Individual Strokeplay event at t",
+   "link": "https://www.skysports.com/golf/news/12040/13594544/tom-kim-gains-exemption-from-south-koreas-military-service-after-securing-asian-games-gold-medal",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 07:51",
+   "ts": 1790985060
   },
   {
    "id": "6864cef92da7d4ec50f0d48e0822b376",
@@ -1200,7 +1226,7 @@
   {
    "id": "7e28dfddaf0aed2d57d27c663f3ab25a",
    "title": "Barcodes are about to go extinct",
-   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 19\n# Commen",
+   "summary": "Article URL: https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct\nComments URL: https://news.ycombinator.com/item?id=49938306\nPoints: 20\n# Commen",
    "link": "https://thehustle.co/originals/why-barcodes-are-about-to-go-extinct",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1395,7 +1421,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 182\n# Comments: 119",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 182\n# Comments: 124",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1434,7 +1460,7 @@
   {
    "id": "1e6b53073bc57a4ec4b78690a8144d2b",
    "title": "Make Tmux the OS",
-   "summary": "Article URL: https://matduggan.com/what-does-my-dream-os-ui-look-like/\nComments URL: https://news.ycombinator.com/item?id=49937540\nPoints: 33\n# Comments: 17",
+   "summary": "Article URL: https://matduggan.com/what-does-my-dream-os-ui-look-like/\nComments URL: https://news.ycombinator.com/item?id=49937540\nPoints: 38\n# Comments: 20",
    "link": "https://matduggan.com/what-does-my-dream-os-ui-look-like/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1447,7 +1473,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 184\n# Comments: 80",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 185\n# Comments: 80",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1484,19 +1510,6 @@
    "ts": 1790968855
   },
   {
-   "id": "e0c1fcd430599703a221c8799c1a00cf",
-   "title": "Man City sponsor's 2015 statement raises questions about appeal strategy",
-   "summary": "Manchester City&#8217;s strategy in their bid to clear their name after being found guilty of breaking more than 100 of the Premier League's rules has been brou",
-   "link": "https://www.skysports.com/football/news/12040/13594496/man-city-appeal-clubs-strategy-brought-into-question-by-2015-statement-main-sponsor-etihad-airways-submitted-to-us-government",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:20",
-   "ts": 1790968800
-  },
-  {
    "id": "b064883436e6ac625f8e0c9b48f96902",
    "title": "Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass",
    "summary": "Your next opportunity could be one conversation away. Get your Expo+ Pass for just $75. Limited to the first 100 qualifying people.",
@@ -1525,7 +1538,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 399\n# Comments: 244",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 399\n# Comments: 245",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2600,19 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-02 16:30",
    "ts": 1790929800
-  },
-  {
-   "id": "9687caf462469744c49c6c2ca71fafaa",
-   "title": "openJiuwen X-Router自演进模型路由技术首发，昇腾亲和，Agent越跑越省，实测减少50+%Token消耗",
-   "summary": "让每一次请求选对模型，让每一次反馈都成为下一次更优、更省的选择",
-   "link": "https://www.qbitai.com/2026/10/500098.html",
-   "source": "量子位",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "10-02 15:34",
-   "ts": 1790926455
   }
  ]
 }
