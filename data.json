@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-03 13:44",
+ "updated_at": "2026-10-03 14:09",
  "total": 281,
  "channels": [
   "AI·科技",
@@ -15,6 +15,45 @@
  ],
  "items": [
   {
+   "id": "78fea6ed7760ad7f2f4e83ecf5416038",
+   "title": "AJ returns to trainer who is branded a 'traitor' by Fury",
+   "summary": "Anthony Joshua has returned to trainer Ben Davison for his heavyweight super-fight with Tyson Fury in December.",
+   "link": "https://www.skysports.com/boxing/news/12040/13594398/fury-vs-joshua-anthony-joshua-brings-back-tyson-furys-former-trainer-ben-davison-for-heavyweight-grudge-match-in-cardiff",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 15:00",
+   "ts": 1791010800
+  },
+  {
+   "id": "5ab5ea783140d050f5043980ea6053a4",
+   "title": "Antonelli fastest from Verstappen ahead of qualifying in Malaysia",
+   "summary": "Kimi Antonelli was fastest from Max Verstappen in final practice for the Bahrain Grand Prix in Malaysia to set up a Mercedes versus Red Bull fight for pole posi",
+   "link": "https://www.skysports.com/f1/news/12040/13594546/bahrain-gp-in-malaysia-kimi-antonelli-fastest-from-max-verstappen-ahead-of-qualifying-at-sepang-international-circuit",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 14:40",
+   "ts": 1791009600
+  },
+  {
+   "id": "79e412097da37bdbdb7812611a9fc2a3",
+   "title": "将语音与音乐作为单一连贯音轨共同生成，AI 音乐制作平台 Suno 推出 Speech 语音功能",
+   "summary": "IT之家 10 月 3 日消息，当地时间 10 月 1 日，AI 音乐制作平台 Suno 宣布推出 Speech，Suno 宣称这是业界首个能够将语音与音乐作为单一连贯音轨共同生成的音频模型。据悉，该模型并非像传统工作流那样先做 TTS（文本转语音）再拼接 BGM，而是端到端一体化生成，是首个能单次生成完整融合“语音朗",
+   "link": "https://www.ithome.com/1/009/440.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 14:01",
+   "ts": 1791007272
+  },
+  {
    "id": "447debce32d2cc9c7e504248c8b4d503",
    "title": "Scandinavia seeks sixth Group 1 in Prix du Cadran",
    "summary": "Scandinavia takes on Queenstown and Caballo De Mar as Arc weekend gets underway - live on Sky Sports Racing.",
@@ -26,6 +65,32 @@
    "urgent": false,
    "fetched_at": "10-03 14:00",
    "ts": 1791007200
+  },
+  {
+   "id": "5d62055121b46701c299b24959c6dbc0",
+   "title": "路透社：AI 正竞相在资金耗尽之前改变世界",
+   "summary": "IT之家 10 月 3 日消息，路透社今天（3 日）发表题为《人工智能竞相在资金耗尽之前改变世界（AI's race to transform the world before the money runs out）》的长篇文章，其中提到，从未有何种新技术像 AI 这样吸引如此巨额的资金。铁路建设和互联网兴起都曾掀起资",
+   "link": "https://www.ithome.com/1/009/439.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 13:52",
+   "ts": 1791006766
+  },
+  {
+   "id": "bc1aa82b42c7110b8c777cfe5c8e8f48",
+   "title": "Turbo GT 版保时捷电动卡宴 Coupe 曝光，动力有望破 1200 马力",
+   "summary": "IT之家 10 月 3 日消息，汽车媒体 CarScoops 今天（10 月 3 日）发布博文，分享了一组在装卸过程中抓拍的图片，展示了保时捷正在研发的 Turbo GT 版电动卡宴 Coupe。IT之家援引博文介绍，保时捷今年早些时候推出电动 Cayenne Coupe 家族，包含入门级 Coupe（435 马力）、",
+   "link": "https://www.ithome.com/1/009/438.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 13:48",
+   "ts": 1791006530
   },
   {
    "id": "9c800705152b7562612edbbf9c26b1af",
@@ -81,7 +146,7 @@
   },
   {
    "id": "689266fdad22e3a6673b76e19fff0eaa",
-   "title": "Bahrain GP in Malaysia: Antonelli currently fastest in final practice LIVE!",
+   "title": "Bahrain GP in Malaysia: Antonelli fastest in final practice LIVE!",
    "summary": "",
    "link": "https://www.skysports.com/f1/live-blog/12040/13594552/f1-bahrain-gp-in-malaysia-live-final-practice-and-qualifying-updates-results-stream-highlights-from-formula-1-race-weekend-in-sepang",
    "source": "Sky Sports",
@@ -104,6 +169,19 @@
    "urgent": true,
    "fetched_at": "10-03 12:57",
    "ts": 1791003463
+  },
+  {
+   "id": "eec9f70090370bef588c6b9f57a482b6",
+   "title": "An Update on Orion for Linux and Windows",
+   "summary": "Article URL: https://blog.kagi.com/update-orion-linux-windows\nComments URL: https://news.ycombinator.com/item?id=49941447\nPoints: 6\n# Comments: 0",
+   "link": "https://blog.kagi.com/update-orion-linux-windows",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 12:53",
+   "ts": 1791003237
   },
   {
    "id": "5b1cf9ae192e3e6418477c930289c1b3",
@@ -184,6 +262,19 @@
    "ts": 1791001855
   },
   {
+   "id": "6f2e63914e9df32350567497cc9c47e9",
+   "title": "What if AI worked at 1.000.000 tokens per seconds?",
+   "summary": "Article URL: https://www.echohive.ai/one-million-tokens-per-second\nComments URL: https://news.ycombinator.com/item?id=49941327\nPoints: 4\n# Comments: 2",
+   "link": "https://www.echohive.ai/one-million-tokens-per-second",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 12:22",
+   "ts": 1791001341
+  },
+  {
    "id": "242fb078c37bc6b7a6e91360d1f95123",
    "title": "曝美国陆军着手组建自主系统司令部，推动机器人技术进入未来战争",
    "summary": "IT之家 10 月 3 日消息，据美媒 Axios 获得的一份备忘录，美国陆军着手组建新的自主系统司令部，同时任命专门负责采购的官员，加快智能装备采购和列装。这些部署由代理陆军部长亚当 · 特尔下达。就在当地时间 1 日，美国国防部长皮特 · 赫格塞思公布了 Meridian 和 Agincourt 两个项目，重点都是",
@@ -210,45 +301,6 @@
    "ts": 1791000968
   },
   {
-   "id": "81070b21aafb597ad44325130a01a468",
-   "title": "“电动牧马人”Jeep Recon 搭载 94 度电池，外媒实测续航却不到 260 公里",
-   "summary": "IT之家 10 月 3 日消息，当地时间 2 日，据外媒 electrek 报道，以可拆卸车门，综合功率 670 马力为卖点的 Jeep Recon 纯电 SUV，实际能效表现却低于宣传水平。Jeep 今年夏天推出 Recon，起售价 66,995 美元（IT之家注：现汇率约合 45 万元人民币）。按照 Jeep 的说",
-   "link": "https://www.ithome.com/1/009/426.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 12:01",
-   "ts": 1791000065
-  },
-  {
-   "id": "9e221d6b24390a6f56f77133be5c53ad",
-   "title": "极哲 ZIP PRO 三折叠便携投影仪首销：586g 重、1080P 60Hz，2999 元",
-   "summary": "IT之家 10 月 3 日消息，极哲 ZIP PRO 三折叠便携投影仪今日开售，售价 2999 元。这款产品重 586g，折叠后厚度 44mm；采用三折叠结构设计，展开自带支架，无需额外支架即可使用，可投射 60-120 英寸画面，支持正投、竖投、吊投、背投等。这款产品支持 1080P 60Hz，色域覆盖 85% NT",
-   "link": "https://www.ithome.com/1/009/425.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 11:57",
-   "ts": 1790999870
-  },
-  {
-   "id": "87c5cc783572492f4e5556dbd20ddef3",
-   "title": "荣耀关海涛回应 Magic9 系列手机为何不多备货：贫穷限制了我们想象",
-   "summary": "IT之家 10 月 3 日消息，荣耀全球首席营销官关海涛于 10 月 1 日宣布，受版本缺货等因素，M9（Magic9）系列发布后第 3 天激活较上代增长 70% 多。IT之家注意到，评论区有网友提问：“为啥不提前多备点货呀，是不知道销量会这么好嘛？”关海涛则幽默回应“贫穷限制了我们想象”。荣耀手机此前宣布，荣耀 Ma",
-   "link": "https://www.ithome.com/1/009/424.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 11:48",
-   "ts": 1790999286
-  },
-  {
    "id": "ec27b908ccc5fb48af17831c1080dbac",
    "title": "Oppo Find X10 and Find X10 Pro Max leaked European prices are shocking",
    "summary": "Price hikes are the name of the game these days in the mobile world, thanks to memory and storage chips costing many times more than a few years ago because of ",
@@ -264,7 +316,7 @@
   {
    "id": "61c2fcf1db281fa8da97648647f3047e",
    "title": "Extra Big Ass Intelligence",
-   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 56\n# Comments: 7",
+   "summary": "Article URL: https://www.extrabigassintelligence.com/\nComments URL: https://news.ycombinator.com/item?id=49941114\nPoints: 79\n# Comments: 12",
    "link": "https://www.extrabigassintelligence.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -277,7 +329,7 @@
   {
    "id": "e153fef4c61f951b0d4a131dbe6cbf99",
    "title": "Cloudflare OHTTP gateway",
-   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 29\n# Comments:",
+   "summary": "Article URL: https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/\nComments URL: https://news.ycombinator.com/item?id=49941091\nPoints: 37\n# Comments:",
    "link": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -355,7 +407,7 @@
   {
    "id": "a8a103a5c415df52b05d67dfa2606d26",
    "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
-   "summary": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 32\n# Comm",
+   "summary": "Article URL: https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf\nComments URL: https://news.ycombinator.com/item?id=49940467\nPoints: 33\n# Comm",
    "link": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -394,7 +446,7 @@
   {
    "id": "191bd1c28b2d6d360ae0a2ed679bf01f",
    "title": "Newgrounds.com – A community of games, music, and art",
-   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 126\n# Comments: 30",
+   "summary": "Article URL: https://www.newgrounds.com/\nComments URL: https://news.ycombinator.com/item?id=49940394\nPoints: 136\n# Comments: 35",
    "link": "https://www.newgrounds.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -472,7 +524,7 @@
   {
    "id": "9f28acfc82367b8cd3b7290bc672e21b",
    "title": "Things that apparently cause cancer",
-   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 152\n#",
+   "summary": "Article URL: https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer\nComments URL: https://news.ycombinator.com/item?id=49940219\nPoints: 156\n#",
    "link": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -845,19 +897,6 @@
    "urgent": false,
    "fetched_at": "10-03 06:15",
    "ts": 1790979339
-  },
-  {
-   "id": "8512b0a180a59fa1fe27dabd3e063842",
-   "title": "Humphries 'disappointed' despite 3-0 win to clinch semi-final spot",
-   "summary": "",
-   "link": "https://www.skysports.com/darts/live-blog/12040/13594445/world-grand-prix-darts-live-latest-scores-updates-highlights-as-luke-humphries-gerwyn-price-james-wade-in-quarter-final-action",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 06:12",
-   "ts": 1790979120
   },
   {
    "id": "df4a458f35424f32444d5c96c29444cc",
@@ -1330,7 +1369,7 @@
   {
    "id": "6df229ab077974bda8e6a25590201122",
    "title": "Updates to Full Disk Access in macOS",
-   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 166\n# Comments: 101",
+   "summary": "Article URL: https://developer.apple.com/news/?id=p6zjojqw\nComments URL: https://news.ycombinator.com/item?id=49937631\nPoints: 170\n# Comments: 108",
    "link": "https://developer.apple.com/news/?id=p6zjojqw",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1369,7 +1408,7 @@
   {
    "id": "f9225cd3697c492ad79aca2e8f672df7",
    "title": "Muse Gadgets",
-   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 170\n# Comments: 77",
+   "summary": "Article URL: https://gadgets.muse.ai\nComments URL: https://news.ycombinator.com/item?id=49937504\nPoints: 174\n# Comments: 78",
    "link": "https://gadgets.muse.ai",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1447,7 +1486,7 @@
   {
    "id": "e4cba515498e6627e20d7c244c3c1c32",
    "title": "Apple Pass Designer",
-   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 378\n# Comments: 233",
+   "summary": "Article URL: https://developer.apple.com/pass-designer/\nComments URL: https://news.ycombinator.com/item?id=49937276\nPoints: 382\n# Comments: 236",
    "link": "https://developer.apple.com/pass-designer/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1469,19 +1508,6 @@
    "urgent": false,
    "fetched_at": "10-03 02:51",
    "ts": 1790967080
-  },
-  {
-   "id": "51585becf0cf6346d19ab950da7ee657",
-   "title": "Djokovic battles through fitness issues to produce resilient China Open comeback",
-   "summary": "Novak Djokovic again appeared to struggle with fitness issues as he came from behind to avoid a second-round exit to world No 104 Yunchaokete Bu at the China Op",
-   "link": "https://www.skysports.com/tennis/news/12040/13594284/china-open-and-japan-open-novak-djokovic-aryna-sabalenka-and-naomi-osaka-all-advance-as-katie-boulter-knocked-out",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:50",
-   "ts": 1790967000
   },
   {
    "id": "82b26f802c032ffa3452daa3fe91d83f",
@@ -1653,19 +1679,6 @@
    "ts": 1790964687
   },
   {
-   "id": "c4403da706604980eef315f527b9cd6e",
-   "title": "From the creator of Redis; run LLM locally with ds4",
-   "summary": "Article URL: https://dwarfstar.sh/\nComments URL: https://news.ycombinator.com/item?id=49936575\nPoints: 197\n# Comments: 56",
-   "link": "https://dwarfstar.sh/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 02:01",
-   "ts": 1790964076
-  },
-  {
    "id": "dc3d703729f5de65a3421fa0694dd72d",
    "title": "OpenAI’s Dot agent is enterprise software that can also order your dinner",
    "summary": "It's a tale as old as last week: OpenAI's new agent platform, called Dots, is full of cute little guys who can do your bidding. But unlike the ultra-approachabl",
@@ -1703,19 +1716,6 @@
    "urgent": false,
    "fetched_at": "10-03 01:49",
    "ts": 1790963399
-  },
-  {
-   "id": "93e322c483dd9a7cf4e53196f428d46d",
-   "title": "There's a new sea spider in town",
-   "summary": "Article URL: https://nautil.us/theres-a-new-sea-spider-in-town-1285470\nComments URL: https://news.ycombinator.com/item?id=49936398\nPoints: 9\n# Comments: 0",
-   "link": "https://nautil.us/theres-a-new-sea-spider-in-town-1285470",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 01:48",
-   "ts": 1790963334
   },
   {
    "id": "9ba49039f7a5e2563a403a5de669f200",
