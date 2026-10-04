@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05 07:02",
+ "updated_at": "2026-10-05 07:37",
  "total": 263,
  "channels": [
   "AI·科技",
@@ -14,6 +14,162 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "99b91b5e1e7691489e373d220b2846ee",
+   "title": "Zoe Kazan on Honoring Steinbeck’s ‘East of Eden’ for Netflix Series While Rethinking Its Characters",
+   "summary": "The series creator explains her decision to build the adaptation around a love story, between brothers, rereading Cathy Ames and how she updated Steinbeck's nov",
+   "link": "https://www.hollywoodreporter.com/tv/tv-features/netflix-east-of-eden-creator-interview-adapting-steinbeck-1236713934/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:30",
+   "ts": 1791156600
+  },
+  {
+   "id": "a35f2043f04a95d36d61e06f5ababa1e",
+   "title": "再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%",
+   "summary": "IT之家 10 月 5 日消息，韩媒 ddaily 于 10 月 2 日发布博文，报道称在决定上调 10%~20% 基础上，台积电计划 2027 年第一季度针对最先进晶圆出货价格，再次上调约 6%~8%，理由是制造成本和电力费用上涨。报道援引半导体业界消息称，台积电 2 纳米制程订单激增，公司已将晶圆订单目标较原计划提",
+   "link": "https://www.ithome.com/1/009/740.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:29",
+   "ts": 1791156555
+  },
+  {
+   "id": "6127985d6664600b48d3f0cda5492dcb",
+   "title": "华为首款“韬定律逻辑折叠”芯片海思麒麟 9050 Pro 裸片显微照首曝：双裸片垂直堆叠，晶体管密度提升 55% 而面积小于前代",
+   "summary": "IT之家 10 月 5 日消息，半导体分析机构 Kurnal Insights 于当地时间 9 月 30 日发布了华为麒麟 9050 Pro 芯片的裸片（Die Shot）显微照，首次从物理层面展示了这款芯片的内部结构。照片显示，麒麟 9050 Pro 由两颗尺寸完全相同的裸片垂直堆叠而成，尺寸 11.13 × 10.",
+   "link": "https://www.ithome.com/1/009/739.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:26",
+   "ts": 1791156372
+  },
+  {
+   "id": "ff33755258077ddaa2d7fcf07687e596",
+   "title": "2026 MLB playoff bracket: Schedule, scores, where to watch with Division Series underway",
+   "summary": "Eight teams remain in the 2026 MLB playoffs, with the best-of-five LDS round underway",
+   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:24",
+   "ts": 1791156284
+  },
+  {
+   "id": "b8ab3bb613c6a825bbad3c3ce2bd9cca",
+   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Lions vs. Panthers Sunday Night Football",
+   "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NFL on Sunday",
+   "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-lions-vs-panthers-sunday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:23",
+   "ts": 1791156207
+  },
+  {
+   "id": "3931fd9d88c0209b73de1ae0620eb39a",
+   "title": "NFL DFS, Panthers vs. Lions: Top daily Fantasy picks, lineup advice for 'Sunday Night Football'",
+   "summary": "DFS millionaire Mike McClure shares his top daily Fantasy picks and lineups for Lions vs. Panthers on 'Sunday Night Football'",
+   "link": "https://www.cbssports.com/betting/news/nfl-dfs-panthers-lions-daily-fantasy-picks-lineups-advice-stacks-sunday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:20",
+   "ts": 1791156051
+  },
+  {
+   "id": "721fed4f41bc695569b1395e98ed9424",
+   "title": "'Sunday Night Football' prediction, odds, spread, time: Lions vs. Panthers picks from expert on 22-11 roll",
+   "summary": "Larry Hartstein reveals his picks for Detroit Lions vs. Carolina Panthers in the 2026 Week 4 'Sunday Night Football' matchup",
+   "link": "https://www.cbssports.com/betting/news/sunday-night-football-prediction-odds-spread-time-lions-panthers-picks-nfl-bets/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:16",
+   "ts": 1791155798
+  },
+  {
+   "id": "ef8ce25d73a1307381b6d36d6ba74a03",
+   "title": "内存涨价倒逼系统瘦身：微软详解 Win11 为何要降低 RAM 占用",
+   "summary": "IT之家 10 月 5 日消息，随着内存成本持续上涨，微软正将“降低 Windows 11 内存占用”列为 2026 年剩余时间的重要工作之一。微软 Windows 与设备业务负责人帕万 · 达武卢里（Pavan Davuluri）在官方播客《Inside Windows》中表示，内存涨价已经成为整个 PC 行业都在关",
+   "link": "https://www.ithome.com/1/009/738.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:09",
+   "ts": 1791155377
+  },
+  {
+   "id": "90d0cb753fab62047753a3f180a988c2",
+   "title": "Jayden Daniels update: Dan Quinn says 'the hope' is for Commanders QB to return in Week 5",
+   "summary": "The plan is for Daniels to practice in full this week",
+   "link": "https://www.cbssports.com/nfl/news/commanders-jayden-daniels-update-hope-week-5-return/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:06",
+   "ts": 1791155211
+  },
+  {
+   "id": "1a1d0d50dad0c8eb603de6286aff8893",
+   "title": "Colorado playbook allegedly found at hotel bar by opposing fan amid offensive woes",
+   "summary": "Colorado doesn't need to give opposing defenses additional help these days",
+   "link": "https://www.cbssports.com/college-football/news/colorado-playbook-allegedly-found-at-hotel-bar-by-opposing-fan-amid-offensive-woes/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:04",
+   "ts": 1791155085
+  },
+  {
+   "id": "b7d962ca5d74344a66c78003a1fe9d7c",
+   "title": "Panthers vs. Lions picks, prediction, player props: Expert's NFL Week 4 best bets for Sunday Night Football",
+   "summary": "Targeting a high-scoring shootout in Charlotte, our betting picks back Jahmyr Gibbs in the passing game and Darren Waller to stay heavily involved",
+   "link": "https://www.cbssports.com/betting/news/panthers-vs-lions-picks-prediction-player-props-experts-nfl-week-4-best-bets-for-sunday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:01",
+   "ts": 1791154869
+  },
+  {
+   "id": "de0c2a61ddfad859e8347caac127a4d4",
+   "title": "Lions vs. Panthers odds, predictions, betting preview, start time: Sunday Night Football picks, best bets",
+   "summary": "Best bets and betting preview for Lions vs. Panthers on Sunday Night Football",
+   "link": "https://www.cbssports.com/betting/news/lions-vs-panthers-odds-predictions-betting-preview-start-time-sunday-night-football-picks-best-bets/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:00",
+   "ts": 1791154857
+  },
   {
    "id": "6786dc0269b725193b51b43d02ce72f9",
    "title": "Marvel Canceled ‘Blade,’ But the Gory Vampire Brawler ‘Half’ Will Thrill Genre Fans",
@@ -54,6 +210,19 @@
    "ts": 1791154536
   },
   {
+   "id": "8f9e4df044108f0516c9e4c4addd018b",
+   "title": "Use FanDuel promo code to get $250 in bonus bets by targeting Lions vs. Panthers, Week 4 Sunday Night Football",
+   "summary": "Sign up and bet on Lions vs. Panthers NFL Week 4 SNF with the latest FanDuel promo code",
+   "link": "https://www.cbssports.com/nfl/news/use-fanduel-promo-code-to-get-250-bonus-bets-lions-vs-panthers-week-4-sunday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 06:52",
+   "ts": 1791154352
+  },
+  {
    "id": "7ebf7fd09bf336aa6b7ff9cfbb3ab044",
    "title": "Fox One Offering Free Trial, Bundle Discount for NFL Streaming Coverage Online",
    "summary": "The 2026-27 NFL season is underway, and fans who want to watch the games from home can now take advantage of a Fox One offer, which gets you a free trial to the",
@@ -78,19 +247,6 @@
    "urgent": false,
    "fetched_at": "10-05 06:30",
    "ts": 1791153000
-  },
-  {
-   "id": "c494507db91b00894b719a57a51f003b",
-   "title": "Mike Vrabel calls out official after being penalized during Patriots win over Bills",
-   "summary": "Vrabel's team overcame his penalty, which led to a Bills touchdown",
-   "link": "https://www.cbssports.com/nfl/news/mike-vrabel-calls-out-official-after-being-penalized-patriots-bills/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 06:27",
-   "ts": 1791152864
   },
   {
    "id": "a7d12b7e7ab07a6aab35738bb64251a1",
@@ -119,6 +275,19 @@
    "ts": 1791152804
   },
   {
+   "id": "283a544198b28b13622046a7284a2021",
+   "title": "Self-hosted HTTP tunnels with SSH and Nginx",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 18\n# Comments: 3",
+   "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 06:25",
+   "ts": 1791152710
+  },
+  {
    "id": "f516cc84587a465132dfe03d28941e72",
    "title": "NFL Week 4 winners and losers: Drake Maye delivers, Texans' season slips away",
    "summary": "Maye rediscovered his 2025 form against the Bills, while Houston's latest loss left its playoff hopes hanging by a thread",
@@ -143,19 +312,6 @@
    "urgent": false,
    "fetched_at": "10-05 06:20",
    "ts": 1791152452
-  },
-  {
-   "id": "3560a9f92889883d4c02a5d05fb33007",
-   "title": "CeeDee Lamb makes Cowboys history, caps career day with winning TD vs. Texans",
-   "summary": "The five-time Pro Bowler erupted for 11 catches and 140 yards after halftime before scoring the decisive touchdown with 40 seconds remaining",
-   "link": "https://www.cbssports.com/nfl/news/ceedee-lamb-stats-cowboys-record-texans/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 06:13",
-   "ts": 1791151994
   },
   {
    "id": "cbe95efda3ffcddb19b0988056e20c52",
@@ -197,30 +353,17 @@
    "ts": 1791151500
   },
   {
-   "id": "5a487b29dc877d8da13725655644b739",
-   "title": "Week 4 overreactions: Should Rams still be Super Bowl favorites? Cowboys to win NFC East?",
-   "summary": "Plus, why Ben Johnson won't win Coach of the Year",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-overreactions-rams-jaguars-cowboys-win-nfc-east/",
-   "source": "CBS Sports",
-   "channel": "体育",
+   "id": "2e0d5dc1b2f3a76f66dca03c736ca9fb",
+   "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
+   "summary": "Article URL: https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/\nComments URL: https://news.ycombinator.com/",
+   "link": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-05 06:02",
-   "ts": 1791151345
-  },
-  {
-   "id": "22f8ccec8bc139195050dc8a400a8288",
-   "title": "Chris Sale won't start NLDS Game 2 vs. Dodgers as Braves go with another bullpen game",
-   "summary": "Sale came out of the bullpen on Thursday against the Phillies and will not start on Sunday",
-   "link": "https://www.cbssports.com/mlb/news/chris-sale-nlds-game-2-dodgers-braves/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 05:53",
-   "ts": 1791150801
+   "fetched_at": "10-05 06:03",
+   "ts": 1791151421
   },
   {
    "id": "f41e7eb881c69885847dcb30399a9864",
@@ -262,58 +405,6 @@
    "ts": 1791150600
   },
   {
-   "id": "a51dc74920dc25693f6177fec89fc8f7",
-   "title": "WNBA playoffs winners and losers: Jordin Canada shines as Dream beat Liberty in Game 1 of semifinals",
-   "summary": "The Dream won 92-82, but might have lost one of their best players",
-   "link": "https://www.cbssports.com/wnba/news/wnba-playoffs-winners-and-losers-semifinals-game-1/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 05:43",
-   "ts": 1791150215
-  },
-  {
-   "id": "752484f20653ab17870ac3a3a5ffed17",
-   "title": "Use FanDuel promo code to claim $250 bonus bets by targeting Lions-Panthers, NFL Week 4 Sunday Night Football",
-   "summary": "Sign up and bet with the latest FanDuel promo code on Sunday to get your bonus bets",
-   "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-claim-250-bonus-bets-lions-panthers-nfl-week-4-sunday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 05:41",
-   "ts": 1791150093
-  },
-  {
-   "id": "c014c4837099e5a0579c337b9ac52d95",
-   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Lions-Panthers on Sunday Night Football",
-   "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NFL on Sunday",
-   "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-lions-panthers-sunday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 05:39",
-   "ts": 1791149965
-  },
-  {
-   "id": "ae120ab62b4ae99a3a87a109ae1f3809",
-   "title": "Use DraftKings promo code to get $150 bonus bets by targeting Lions-Panthers, NFL Week 4 Sunday Night Football",
-   "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for NFL betting on Sunday",
-   "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-lions-panthers-nfl-week-4-sunday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 05:34",
-   "ts": 1791149669
-  },
-  {
    "id": "0d2ec806a8110175d7e42c110ee1800c",
    "title": "iPhone Duo shows what the future of smartphones could look like",
    "summary": "Since the unveiling of iPhone Duo, the idea of all major interface navigation elements being accessible from your thumb has been really interesting. Apple re-in",
@@ -338,19 +429,6 @@
    "urgent": false,
    "fetched_at": "10-05 05:31",
    "ts": 1791149462
-  },
-  {
-   "id": "df0423e98035312ca42fbc3f107f5649",
-   "title": "Packers fear Edgerrin Cooper suffered torn Achilles in win over Buccaneers",
-   "summary": "Matt LaFleur called the injury \"not good\" after the game, and the emerging defensive star is suspected to miss the rest of the year after being carted off again",
-   "link": "https://www.cbssports.com/nfl/news/packers-fear-edgerrin-cooper-suffered-torn-achilles-in-win-over-buccaneers/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 05:18",
-   "ts": 1791148701
   },
   {
    "id": "d35e7f7025a474cec78358523f322d99",
@@ -498,7 +576,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 233\n# Comments: 132",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 273\n# Comments: 154",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -550,7 +628,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 19\n# Comments: 6",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 36\n# Comments: 12",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -665,22 +743,9 @@
    "ts": 1791136800
   },
   {
-   "id": "43161bc160eba8fb8a2b5d2546227999",
-   "title": "All I wanted was a custom domain email",
-   "summary": "Article URL: https://jacobg.co/emails-at-jacobg-co/\nComments URL: https://news.ycombinator.com/item?id=49956092\nPoints: 36\n# Comments: 37",
-   "link": "https://jacobg.co/emails-at-jacobg-co/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 01:47",
-   "ts": 1791136041
-  },
-  {
    "id": "e49cb76f32a7dde56f80586a82cabdc8",
    "title": "Incentives in Academic Research",
-   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 23\n# Comments: 1",
+   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 27\n# Comments: 1",
    "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -693,7 +758,7 @@
   {
    "id": "d0549b40cf18c06783f4fb0f5d660e7f",
    "title": "Xray-core concealed a certificate verification bypass vulnerability",
-   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 21\n# Comments: 0",
+   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 27\n# Comments: 0",
    "link": "https://github.com/net4people/bbs/issues/672",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -923,19 +988,6 @@
    "urgent": false,
    "fetched_at": "10-04 23:55",
    "ts": 1791129314
-  },
-  {
-   "id": "e364053939d21e450a21e42dd7fa5e06",
-   "title": "‘Avengers: Endgame’ Returns to No. 1 on All-Time Global Box Office Chart, Surpassing ‘Avatar’",
-   "summary": "Marvel Studios' 2019 release headed back to theaters last weekend ahead of this year's 'Doomsday.'",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/avengers-endgame-beats-avatar-highest-grossing-box-office-1236721833/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 23:34",
-   "ts": 1791128075
   },
   {
    "id": "5dde12017a2d1be53cdc77539a091ceb",
@@ -1263,19 +1315,6 @@
    "ts": 1791120018
   },
   {
-   "id": "2920441a329d03d209bc9171b198075b",
-   "title": "竞速游戏《星球大战：银河赛车手》获 IGN 8 分评价，10 月 6 日发售",
-   "summary": "IT之家 10 月 4 日消息，开发商 Fuse Games 旗下《星球大战》IP 竞速游戏《星球大战：银河赛车手（STAR WARS：Galactic Racer）》将于 10 月 6 日正式发售，目前本作全球媒体评分已解禁。截至IT之家发稿，本作 PC 版在 Metacritic 上获 84 分（基于 16 家媒体",
-   "link": "https://www.ithome.com/1/009/727.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 21:09",
-   "ts": 1791119380
-  },
-  {
    "id": "f98d3c206b611ce62591c48d970cab58",
    "title": "The AirPods Pro 3 are a fantastic deal at $179",
    "summary": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening n",
@@ -1302,22 +1341,9 @@
    "ts": 1791118800
   },
   {
-   "id": "6442785894d0a05d4fd8c19288f8d6db",
-   "title": "拉瑞安工作室：《博德之门 3》Steam 国区即将永久降价：298 元起 → 268 元起",
-   "summary": "IT之家 10 月 4 日消息，拉瑞安工作室宣布，为了感谢中国玩家一直以来的支持，《博德之门 3》将在本次 10 月促销活动结束后降价。游戏基础版从 298 元下调至 268 元。目前，《博德之门 3》正在 Steam 秋季特卖中进行促销，7 折后到手价为 208.6 元，活动预计将于 10 月 9 日结束。IT之家附",
-   "link": "https://www.ithome.com/1/009/726.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 20:58",
-   "ts": 1791118701
-  },
-  {
    "id": "b2f4a7c23b312ad1f2de434faa293b99",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 532\n# Comments: 262",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 552\n# Comments: 268",
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1326,19 +1352,6 @@
    "urgent": false,
    "fetched_at": "10-04 20:51",
    "ts": 1791118313
-  },
-  {
-   "id": "0e60a3fbd07e250a23865c691e3999cb",
-   "title": "国庆假期前三天：汽车以旧换新 4.6 万辆、数码和智能产品购新 170.9 万件",
-   "summary": "IT之家 10 月 4 日消息，据新华社报道，记者 4 日从商务部获悉，国庆假期过半，全国消费市场平稳有序，生活必需品货足价稳。商务部商务大数据显示，国庆假期前三天（10 月 1 至 3 日），商务部重点监测的 78 个步行街（商圈）客流量、营业额同比分别增长 3.4%、5.3%。消费品以旧换新带动销售额 196.3 ",
-   "link": "https://www.ithome.com/1/009/725.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 20:46",
-   "ts": 1791117993
   },
   {
    "id": "e63a993205e5992659754025231a5486",
@@ -1382,7 +1395,7 @@
   {
    "id": "6c0c163721146c3be48644c9ffb10866",
    "title": "Bill Draper has died",
-   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 57\n# Comments: 12",
+   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 64\n# Comments: 18",
    "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1560,19 +1573,6 @@
    "urgent": false,
    "fetched_at": "10-04 17:30",
    "ts": 1791106250
-  },
-  {
-   "id": "2de3b1ecfa3eaada8f4abe79355cd62d",
-   "title": "Show HN: AI search for every photo and every frame of video on macOS",
-   "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 132\n# Comments: 62",
-   "link": "https://github.com/allenv0/SCM",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 17:24",
-   "ts": 1791105892
   },
   {
    "id": "3ad299ecdad5305419938dd8ec010297",
