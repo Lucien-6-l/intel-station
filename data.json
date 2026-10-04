@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05 06:37",
+ "updated_at": "2026-10-05 07:02",
  "total": 263,
  "channels": [
   "AI·科技",
@@ -14,6 +14,58 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "6786dc0269b725193b51b43d02ce72f9",
+   "title": "Marvel Canceled ‘Blade,’ But the Gory Vampire Brawler ‘Half’ Will Thrill Genre Fans",
+   "summary": "Marvel mastermind Kevin Feige has made some of the shrewdest financial decisions in Hollywood history, but he sure dropped the bag when he didn’t make a new “Bl",
+   "link": "https://variety.com/2026/film/features/half-vampire-action-movie-india-blade-1236898106/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:00",
+   "ts": 1791154800
+  },
+  {
+   "id": "7e6ccb54d67b1593f484df478ad61eb2",
+   "title": "Is ‘Rubber Soul’ the Beatles’ Best Album? The Answer to That is as Malleable as the Shifting Track Lists, but This ‘Super Deluxe’ Is Super Essential: Boxed Set Review",
+   "summary": "What is the Beatles&#8217; best album? &#8220;The one you&#8217;re listening to right now&#8221; is always the correct answer, of course, and that could encompa",
+   "link": "https://variety.com/2026/music/album-reviews/beatles-rubber-soul-super-deluxe-boxed-set-review-1236898774/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 06:56",
+   "ts": 1791154590
+  },
+  {
+   "id": "d3f1db72c6c9b054021941b1fc88409f",
+   "title": "1nm 之后晶体管怎么走？泛林集团探索 SA-CFET 架构，SRAM 单元面积较 N3 缩小 52.7%",
+   "summary": "IT之家 10 月 5 日消息，随着先进制程不断向 1nm 及以下节点推进，传统 GAA 纳米片晶体管在漏电、迁移率、寄生电阻以及制造工艺波动等方面面临越来越大的挑战。当地时间 9 月 29 日，全球前三的晶圆制造设备厂商泛林集团（Lam Research）提出一种自对准互补场效应晶体管（SA-CFET）架构，有望将 ",
+   "link": "https://www.ithome.com/1/009/737.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 06:55",
+   "ts": 1791154536
+  },
+  {
+   "id": "7ebf7fd09bf336aa6b7ff9cfbb3ab044",
+   "title": "Fox One Offering Free Trial, Bundle Discount for NFL Streaming Coverage Online",
+   "summary": "The 2026-27 NFL season is underway, and fans who want to watch the games from home can now take advantage of a Fox One offer, which gets you a free trial to the",
+   "link": "https://variety.com/2026/shopping/athletes/get-fox-one-app-free-trial-streaming-offer-online-deal-1236779147/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 06:41",
+   "ts": 1791153660
+  },
   {
    "id": "162e19031d027729e2b44c5a6bcac4d9",
    "title": "Mardle: Humphries can do it against anyone from any position",
@@ -446,7 +498,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 218\n# Comments: 122",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 233\n# Comments: 132",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -498,7 +550,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 12\n# Comments: 5",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 19\n# Comments: 6",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -615,7 +667,7 @@
   {
    "id": "43161bc160eba8fb8a2b5d2546227999",
    "title": "All I wanted was a custom domain email",
-   "summary": "Article URL: https://jacobg.co/emails-at-jacobg-co/\nComments URL: https://news.ycombinator.com/item?id=49956092\nPoints: 26\n# Comments: 29",
+   "summary": "Article URL: https://jacobg.co/emails-at-jacobg-co/\nComments URL: https://news.ycombinator.com/item?id=49956092\nPoints: 36\n# Comments: 37",
    "link": "https://jacobg.co/emails-at-jacobg-co/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -628,7 +680,7 @@
   {
    "id": "e49cb76f32a7dde56f80586a82cabdc8",
    "title": "Incentives in Academic Research",
-   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 20\n# Comments: 1",
+   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 23\n# Comments: 1",
    "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -641,7 +693,7 @@
   {
    "id": "d0549b40cf18c06783f4fb0f5d660e7f",
    "title": "Xray-core concealed a certificate verification bypass vulnerability",
-   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 19\n# Comments: 0",
+   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 21\n# Comments: 0",
    "link": "https://github.com/net4people/bbs/issues/672",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -756,19 +808,6 @@
    "ts": 1791133092
   },
   {
-   "id": "1dfc3bf19591c415ff05422d84997029",
-   "title": "Daily Wire’s Pro-ICE Film ‘Pawn Shop’ Production Temporarily Suspended",
-   "summary": "Production of Daily Wire’s pro-ICE film “Pawn Shop” has been temporarily halted in Livingston, Mont., following a Special City Commission Meeting held on Saturd",
-   "link": "https://variety.com/2026/film/news/daily-wires-pro-ice-film-temporarily-suspended-montana-1236898635/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 00:58",
-   "ts": 1791133088
-  },
-  {
    "id": "a34b8f94da503f11d6341290fd397372",
    "title": "‘Edward Said: Between Worlds’ Review: A Crucial Palestinian Scholar, Revived for a New Generation",
    "summary": "The latest doc from the Danish filmmaker and producer Maiken Baird (‘Icarus’) examines Said’s role in reframing the Palestinian struggle.",
@@ -808,19 +847,6 @@
    "ts": 1791132010
   },
   {
-   "id": "f9bddc8769d0f688f1ae8451a5565191",
-   "title": "‘East of Eden’ Boss Zoe Kazan on That Devastating Ending, Why Florence Pugh’s Cathy Is Both a ‘Murderer’ and ‘Survivor’ and Making Lee a Central Character",
-   "summary": "SPOILER ALERT: This interview contains major spoilers from “East of Eden,” now streaming on Netflix. Zoe Kazan has spent much of her life thinking about family ",
-   "link": "https://variety.com/2026/tv/news/east-of-eden-explained-ending-cathy-lee-sexuality-1236897001/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 00:30",
-   "ts": 1791131400
-  },
-  {
    "id": "4b81087d6752407853678db9f942d2ab",
    "title": "Where to Watch the Chiefs vs. Raiders Game Online",
    "summary": "The NFL Week 4 matchup is set for Sunday, Oct. 4 at Allegiant Stadium in Las Vegas.",
@@ -858,19 +884,6 @@
    "urgent": false,
    "fetched_at": "10-05 00:16",
    "ts": 1791130564
-  },
-  {
-   "id": "3b57946241e44f69e3ff95e66136de27",
-   "title": "Pedro Pascal in ‘Behemoth!’: The Oscar-Worthy Role That He (and Latinos) Have Been Waiting For",
-   "summary": "Pedro Pascal makes his Oscar case with a cello. “Behemoth!,” Tony Gilroy&#8217;s first feature as a director since “The Bourne Legacy” in 2012, world-premiered ",
-   "link": "https://variety.com/2026/film/awards/pedro-pascal-behemoth-oscars-chances-latino-best-actor-1236898464/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 00:15",
-   "ts": 1791130500
   },
   {
    "id": "faac6fb8fe99f4e0c3af42d1a9085329",
@@ -1304,7 +1317,7 @@
   {
    "id": "b2f4a7c23b312ad1f2de434faa293b99",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 522\n# Comments: 260",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 532\n# Comments: 262",
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1367,22 +1380,9 @@
    "ts": 1791117061
   },
   {
-   "id": "a24960229cffaa261d9c56c084d64a21",
-   "title": "DeepSeek Harness 崔添翼：产品核心理念是“一切皆插件”，可扩展性是初心",
-   "summary": "IT之家 10 月 4 日消息，DeepSeek Harness 组成员崔添翼今日回应了“如何看待 DeepSeek Harness 在新版本中加入 Claude Code Mods 兼容？”，他本人是这次 v0.2.1-alpha.1 版本中加入 Claude Code Mods 兼容层的作者。目前 DeepSeek",
-   "link": "https://www.ithome.com/1/009/701.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 20:27",
-   "ts": 1791116844
-  },
-  {
    "id": "6c0c163721146c3be48644c9ffb10866",
    "title": "Bill Draper has died",
-   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 53\n# Comments: 12",
+   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 57\n# Comments: 12",
    "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1564,7 +1564,7 @@
   {
    "id": "2de3b1ecfa3eaada8f4abe79355cd62d",
    "title": "Show HN: AI search for every photo and every frame of video on macOS",
-   "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 129\n# Comments: 62",
+   "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 132\n# Comments: 62",
    "link": "https://github.com/allenv0/SCM",
    "source": "Hacker News",
    "channel": "AI·科技",
