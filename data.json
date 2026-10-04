@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 05:46",
- "total": 263,
+ "updated_at": "2026-10-05 06:03",
+ "total": 251,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,7 +10,6 @@
   "数码",
   "汽车",
   "游戏",
-  "科学",
   "财经"
  ],
  "items": [
@@ -28,6 +27,19 @@
    "ts": 1791151500
   },
   {
+   "id": "3560a9f92889883d4c02a5d05fb33007",
+   "title": "CeeDee Lamb makes Cowboys history, caps career day with winning TD vs. Texans",
+   "summary": "The five-time Pro Bowler erupted for 11 catches and 140 yards after halftime before scoring the decisive touchdown with 40 seconds remaining",
+   "link": "https://www.cbssports.com/nfl/news/ceedee-lamb-stats-cowboys-record-texans/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:57",
+   "ts": 1791151039
+  },
+  {
    "id": "bfc41294bbdd108eb37045be86a4a7bf",
    "title": "Hojlund pen condemns Wales to third Nations League defeat in four",
    "summary": "Wales suffered a 1-0 Nations League defeat to Denmark as Rasmus Hojlund scored the game's only goal from the penalty spot.",
@@ -39,6 +51,32 @@
    "urgent": false,
    "fetched_at": "10-05 05:55",
    "ts": 1791150900
+  },
+  {
+   "id": "22f8ccec8bc139195050dc8a400a8288",
+   "title": "Chris Sale won't start NLDS Game 2 vs. Dodgers as Braves go with another bullpen game",
+   "summary": "Sale came out of the bullpen on Thursday against the Phillies and will not start on Sunday",
+   "link": "https://www.cbssports.com/mlb/news/chris-sale-nlds-game-2-dodgers-braves/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:53",
+   "ts": 1791150801
+  },
+  {
+   "id": "f41e7eb881c69885847dcb30399a9864",
+   "title": "Newport Beach Film Fest: ‘Furious’ Star Emmy Rossum Will Receive TV Performance Award, Guest on Live Episode of ‘Awards Chatter’ Pod",
+   "summary": "The critically acclaimed and popular actress best known for 'Shameless' will be feted on Oct. 18.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/newport-beach-film-fest-furious-emmy-rossum-award-podcast-1236721462/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:52",
+   "ts": 1791150771
   },
   {
    "id": "64ac32f4d993cbe9ea88e1d9eac241ad",
@@ -54,10 +92,10 @@
    "ts": 1791150660
   },
   {
-   "id": "9ed6491624af39bf700c2c5e3101b15c",
-   "title": "World Grand Prix final LIVE! Humphries beats Price after epic comeback",
+   "id": "60d10ab8fc48689c129fd66094de9a52",
+   "title": "'Harry Potter did well, didn't he!?' - Humphries savours Grand Prix success",
    "summary": "",
-   "link": "https://www.skysports.com/darts/live-blog/12040/13595086/world-grand-prix-darts-final-live-luke-humphries-takes-on-gerwyn-price-in-double-start-event-in-leicester",
+   "link": "https://www.skysports.com/darts/live-blog/12040/13595086/world-grand-prix-darts-final-luke-humphries-beats-gerwyn-price-6-4-after-epic-comeback-from-3-0-down-in-leicester",
    "source": "Sky Sports",
    "channel": "体育",
    "category": "资讯",
@@ -65,6 +103,19 @@
    "urgent": false,
    "fetched_at": "10-05 05:50",
    "ts": 1791150600
+  },
+  {
+   "id": "a51dc74920dc25693f6177fec89fc8f7",
+   "title": "WNBA playoffs winners and losers: Jordin Canada shines as Dream beat Liberty in Game 1 of semifinals",
+   "summary": "The Dream won 92-82, but might have lost one of their best players",
+   "link": "https://www.cbssports.com/wnba/news/wnba-playoffs-winners-and-losers-semifinals-game-1/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:43",
+   "ts": 1791150215
   },
   {
    "id": "752484f20653ab17870ac3a3a5ffed17",
@@ -106,6 +157,19 @@
    "ts": 1791149669
   },
   {
+   "id": "0d2ec806a8110175d7e42c110ee1800c",
+   "title": "iPhone Duo shows what the future of smartphones could look like",
+   "summary": "Since the unveiling of iPhone Duo, the idea of all major interface navigation elements being accessible from your thumb has been really interesting. Apple re-in",
+   "link": "https://9to5mac.com/2026/10/04/iphone-duo-shows-what-the-future-of-smartphones-could-look-like/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:32",
+   "ts": 1791149520
+  },
+  {
    "id": "260d39a8ab112b1b9c041dc72ae086e7",
    "title": "Weekly poll: are you interested in the vivo X Fold6?",
    "summary": "The vivo X Fold6 launched on July 1 in China and is now starting its worldwide tour – it’s already available in Europe and is expected to launch in India next w",
@@ -143,6 +207,32 @@
    "urgent": false,
    "fetched_at": "10-05 05:17",
    "ts": 1791148671
+  },
+  {
+   "id": "a2a0b75dd253014cc0b7c9bb7a93e5ef",
+   "title": "The Best Deals Today: Star Wars Zero Company, AirPods Pro 3, Trails in the Sky 1st Chapter, and More",
+   "summary": "",
+   "link": "https://www.ign.com/articles/best-deals-for-october-4-2026",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:13",
+   "ts": 1791148414
+  },
+  {
+   "id": "52332bad0e31b129e390a60d7bed90ba",
+   "title": "Blade Director Defends 'Good Dude' Kevin Feige After Marvel Scrapped Mahershala Ali's 1920s Vampire Movie",
+   "summary": "Blade director Bassam Tariq said he felt like a \"failure\" after exiting the Mahershala Ali-led Marvel movie, but he doesn't blame MCU mastermind Kevin Feige for",
+   "link": "https://www.ign.com/articles/blade-director-defends-good-dude-kevin-feige-after-marvel-scrapped-mahershala-alis-1920s-vampire-movie",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:11",
+   "ts": 1791148299
   },
   {
    "id": "4fad2de2c2ac8944f601fca3b2180494",
@@ -195,6 +285,19 @@
    "urgent": false,
    "fetched_at": "10-05 04:46",
    "ts": 1791146782
+  },
+  {
+   "id": "8bb42f5fd0a2d42513c0b8aee22cee5d",
+   "title": "Iran is going after America's debt it's targeting the $40T America owes",
+   "summary": "Article URL: https://jaymartin.substack.com/p/iran-is-going-after-americas-debt\nComments URL: https://news.ycombinator.com/item?id=49957602\nPoints: 14\n# Comment",
+   "link": "https://jaymartin.substack.com/p/iran-is-going-after-americas-debt",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 04:42",
+   "ts": 1791146532
   },
   {
    "id": "7e35cbc7b690a7993342a00d9e6210ce",
@@ -288,19 +391,6 @@
    "ts": 1791143426
   },
   {
-   "id": "a8f398b695d5f8ec875b2e3b0f38ebe1",
-   "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-   "summary": "Article URL: https://island-three.gruberbuilds.workers.dev/\nComments URL: https://news.ycombinator.com/item?id=49957191\nPoints: 23\n# Comments: 19",
-   "link": "https://island-three.gruberbuilds.workers.dev/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 03:49",
-   "ts": 1791143352
-  },
-  {
    "id": "1ecbd283fb029617d28723a055e1ca8b",
    "title": "James Gunn Confirms He’s ‘Already’ Writing His Next Film Ahead of ‘Superman: Man of Tomorrow’",
    "summary": "James Gunn announced on Threads that he is actively working on writing his next film ahead of the release of &#8220;Superman: Man of Tomorrow,&#8221; due in the",
@@ -329,7 +419,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 160\n# Comments: 76",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 178\n# Comments: 92",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -351,45 +441,6 @@
    "urgent": false,
    "fetched_at": "10-05 03:37",
    "ts": 1791142625
-  },
-  {
-   "id": "22f8ccec8bc139195050dc8a400a8288",
-   "title": "Chris Sale won't start NLDS Game 2 vs. Dodgers as Braves go with another bullpen game",
-   "summary": "Sale came out of the bullpen on Thursday against the Phillies and will not start on Sunday",
-   "link": "https://www.cbssports.com/mlb/news/chris-sale-nlds-game-2-dodgers-braves/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 03:36",
-   "ts": 1791142565
-  },
-  {
-   "id": "58540d795f0048eb60e3687025dd4eb7",
-   "title": "Week 4 NFL betting promos: Collect nearly $3,000 in bonuses from top online betting apps, sportsbooks",
-   "summary": "Top Week 4 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-   "link": "https://www.cbssports.com/nfl/news/week-4-nfl-betting-promos-collect-nearly-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 03:30",
-   "ts": 1791142218
-  },
-  {
-   "id": "4b71e0f9dfdb2ecc4ecc75d071484a70",
-   "title": "2026 Week 4 NFL odds, picks, best bets, predictions: Experts backing Seahawks, Raiders, Broncos on Sunday",
-   "summary": "SportsLine's experts have revealed their Week 4 NFL picks and best bets for Sunday",
-   "link": "https://www.cbssports.com/betting/news/2026-week-4-nfl-odds-picks-best-bets-predictions-experts-backing-seahawks-raiders-broncos-on-sunday/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 03:20",
-   "ts": 1791141652
   },
   {
    "id": "dd1929a961d381687e79a1e73c22a716",
@@ -524,7 +575,7 @@
   {
    "id": "43161bc160eba8fb8a2b5d2546227999",
    "title": "All I wanted was a custom domain email",
-   "summary": "Article URL: https://jacobg.co/emails-at-jacobg-co/\nComments URL: https://news.ycombinator.com/item?id=49956092\nPoints: 3\n# Comments: 1",
+   "summary": "Article URL: https://jacobg.co/emails-at-jacobg-co/\nComments URL: https://news.ycombinator.com/item?id=49956092\nPoints: 9\n# Comments: 8",
    "link": "https://jacobg.co/emails-at-jacobg-co/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -537,7 +588,7 @@
   {
    "id": "e49cb76f32a7dde56f80586a82cabdc8",
    "title": "Incentives in Academic Research",
-   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 14\n# Comments: 7",
+   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 16\n# Comments: 9",
    "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1055,19 +1106,6 @@
    "ts": 1791124884
   },
   {
-   "id": "63df35db357793044147893f844cf7a2",
-   "title": "Tom Cruise’s ‘Digger’ Tries New Marketing Tactic: The French Love It, Americans Don’t",
-   "summary": "A new ad for Alejandro G. Iñárritu's box office bomb shows international critics praising the film compared to their American counterparts.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-critics-box-office-1236721806/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 22:29",
-   "ts": 1791124191
-  },
-  {
    "id": "ed903b9d8771df8841d65d6e5d1f2f8d",
    "title": "时隔九年重返内地大银幕，《生化危机：爆发夜》游改真人电影明日上映",
    "summary": "IT之家 10 月 4 日消息，《生化危机：爆发夜》游改真人电影将于明日在中国内地上映，该电影将以 CINITY、IMAX、中国巨幕、4DX、SCREENX 多制式上映，让影迷感受扑面而来的惊悚感。值得一提的是，这也是《生化危机》系列时隔九年，重返内地大银幕。IT之家附该电影官方简介如下：嘘，别出声。黑暗中的生化怪物正",
@@ -1252,7 +1290,7 @@
   {
    "id": "b2f4a7c23b312ad1f2de434faa293b99",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 496\n# Comments: 251",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 507\n# Comments: 252",
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1330,7 +1368,7 @@
   {
    "id": "6c0c163721146c3be48644c9ffb10866",
    "title": "Bill Draper has died",
-   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 45\n# Comments: 12",
+   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 50\n# Comments: 12",
    "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1512,7 +1550,7 @@
   {
    "id": "2de3b1ecfa3eaada8f4abe79355cd62d",
    "title": "Show HN: AI search for every photo and every frame of video on macOS",
-   "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 125\n# Comments: 59",
+   "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 128\n# Comments: 60",
    "link": "https://github.com/allenv0/SCM",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1538,7 +1576,7 @@
   {
    "id": "0cac07fcefa7b890e2eeef2c39c1bee1",
    "title": "How to scale intent, quality, and artistry with AI [video]",
-   "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk\nComments URL: https://news.ycombinator.com/item?id=49951891\nPoints: 28\n# Comments: 7",
+   "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk\nComments URL: https://news.ycombinator.com/item?id=49951891\nPoints: 30\n# Comments: 7",
    "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1939,19 +1977,6 @@
    "ts": 1791050400
   },
   {
-   "id": "9c6ed6a2d9842fd9c676be338c0fadc3",
-   "title": "Call of Duty: Modern Warfare 4 Video Reveals Major Change That Could End Wallhacks for Good",
-   "summary": "Wallhacks have plagued Call of Duty for years, but in Modern Warfare 4, Activision has a plan to change that.",
-   "link": "https://www.ign.com/articles/call-of-duty-modern-warfare-4-video-reveals-major-change-that-could-end-wallhacks-for-good",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 01:54",
-   "ts": 1791050066
-  },
-  {
    "id": "f24791e08fffe9eb137bfcea9efe633c",
    "title": "Here’s everything we know so far about Apple’s next entry-level iPad: A19 chip, more",
    "summary": "Apple’s current iPad, the A16 model, has gone untouched for well over a year. It remains the only device in Apple’s core product lineup without support for Appl",
@@ -1976,19 +2001,6 @@
    "urgent": false,
    "fetched_at": "10-04 00:30",
    "ts": 1791045001
-  },
-  {
-   "id": "daee7ecae3c282a9918acffbfc6a450d",
-   "title": "'I Did My Best' — Final Fantasy 7 Revelation Director Responds to Fans Asking for Full Disc Version",
-   "summary": "Final Fantasy 7 Revelation director Naoki Hamaguchi said he did his best to fight for a disc release as the industry heads toward a \"future where physical media",
-   "link": "https://www.ign.com/articles/i-did-my-best-final-fantasy-7-revelation-director-responds-to-fans-asking-for-full-disc-version",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 00:21",
-   "ts": 1791044471
   },
   {
    "id": "ccd072f5b590bf14bf5346b4ca67c78a",
@@ -2535,19 +2547,6 @@
    "urgent": false,
    "fetched_at": "10-03 05:06",
    "ts": 1790975194
-  },
-  {
-   "id": "c2e8cf8d68370a2d823737ec44295a26",
-   "title": "Apple TV releases ‘The Sisters Grimm’ season 2 in full",
-   "summary": "Apple TV today released the second season of its animated fantasy adventure series “The Sisters Grimm,” with all six new episodes now available to stream. Here ",
-   "link": "https://9to5mac.com/2026/10/02/apple-tv-releases-the-sisters-grimm-season-2-in-full/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-03 05:05",
-   "ts": 1790975113
   },
   {
    "id": "19ecd380fe9c2177dec54a14a8d4f84e",
