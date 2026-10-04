@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05 05:03",
+ "updated_at": "2026-10-05 05:46",
  "total": 263,
  "channels": [
   "AI·科技",
@@ -15,6 +15,45 @@
  ],
  "items": [
   {
+   "id": "b233366c5ffbf84f4860d6079ecf04d9",
+   "title": "Humphries completes comeback victory over Price in World Grand Prix epic",
+   "summary": "Luke Humphries secured a second World Grand Prix title after producing an extraordinary comeback to defeat Gerwyn Price 6-4 in a thrilling final.",
+   "link": "https://www.skysports.com/darts/news/12040/13595109/world-grand-prix-darts-luke-humphries-beats-gerwyn-price-6-4-after-epic-comeback-to-claim-major-title-in-leicester",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 06:05",
+   "ts": 1791151500
+  },
+  {
+   "id": "bfc41294bbdd108eb37045be86a4a7bf",
+   "title": "Hojlund pen condemns Wales to third Nations League defeat in four",
+   "summary": "Wales suffered a 1-0 Nations League defeat to Denmark as Rasmus Hojlund scored the game's only goal from the penalty spot.",
+   "link": "https://www.skysports.com/football/wales-vs-denmark/report/554066",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:55",
+   "ts": 1791150900
+  },
+  {
+   "id": "64ac32f4d993cbe9ea88e1d9eac241ad",
+   "title": "Republic of Ireland draw with Israel in second Nations League meeting",
+   "summary": "The Republic of Ireland drew 1-1 with Israel in the second controversial Nations League fixture between the sides.",
+   "link": "https://www.skysports.com/football/republic-of-ireland-vs-israel/report/554064",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:51",
+   "ts": 1791150660
+  },
+  {
    "id": "9ed6491624af39bf700c2c5e3101b15c",
    "title": "World Grand Prix final LIVE! Humphries beats Price after epic comeback",
    "summary": "",
@@ -26,6 +65,110 @@
    "urgent": false,
    "fetched_at": "10-05 05:50",
    "ts": 1791150600
+  },
+  {
+   "id": "752484f20653ab17870ac3a3a5ffed17",
+   "title": "Use FanDuel promo code to claim $250 bonus bets by targeting Lions-Panthers, NFL Week 4 Sunday Night Football",
+   "summary": "Sign up and bet with the latest FanDuel promo code on Sunday to get your bonus bets",
+   "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-claim-250-bonus-bets-lions-panthers-nfl-week-4-sunday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:41",
+   "ts": 1791150093
+  },
+  {
+   "id": "c014c4837099e5a0579c337b9ac52d95",
+   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Lions-Panthers on Sunday Night Football",
+   "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NFL on Sunday",
+   "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-lions-panthers-sunday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:39",
+   "ts": 1791149965
+  },
+  {
+   "id": "ae120ab62b4ae99a3a87a109ae1f3809",
+   "title": "Use DraftKings promo code to get $150 bonus bets by targeting Lions-Panthers, NFL Week 4 Sunday Night Football",
+   "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for NFL betting on Sunday",
+   "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-lions-panthers-nfl-week-4-sunday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:34",
+   "ts": 1791149669
+  },
+  {
+   "id": "260d39a8ab112b1b9c041dc72ae086e7",
+   "title": "Weekly poll: are you interested in the vivo X Fold6?",
+   "summary": "The vivo X Fold6 launched on July 1 in China and is now starting its worldwide tour – it’s already available in Europe and is expected to launch in India next w",
+   "link": "https://www.gsmarena.com/weekly_poll_are_you_interested_in_the_vivo_x_fold6-news-74860.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:31",
+   "ts": 1791149462
+  },
+  {
+   "id": "df0423e98035312ca42fbc3f107f5649",
+   "title": "Packers fear Edgerrin Cooper suffered torn Achilles in win over Buccaneers",
+   "summary": "Matt LaFleur called the injury \"not good\" after the game, and the emerging defensive star is suspected to miss the rest of the year after being carted off again",
+   "link": "https://www.cbssports.com/nfl/news/packers-fear-edgerrin-cooper-suffered-torn-achilles-in-win-over-buccaneers/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:18",
+   "ts": 1791148701
+  },
+  {
+   "id": "d35e7f7025a474cec78358523f322d99",
+   "title": "Taylor Swift’s ‘Encore’ Edition Boosts ‘The Life of a Showgirl’ Back to No. 1 for First Time Since January, Adding a 13th Week on Top",
+   "summary": "Taylor Swift&#8217;s &#8220;The Life of a Showgirl&#8221; returned to the No. 1 spot on the Billboard 200 album chart after last vacating that position in Janua",
+   "link": "https://variety.com/2026/music/news/taylor-swift-showgirl-encore-album-chart-number-one-1236898681/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:17",
+   "ts": 1791148671
+  },
+  {
+   "id": "4fad2de2c2ac8944f601fca3b2180494",
+   "title": "The new Fitbit Edge leaks",
+   "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in the",
+   "link": "https://www.theverge.com/gadgets/1004616/the-new-fitbit-edge-leaks",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:02",
+   "ts": 1791147729
+  },
+  {
+   "id": "3a74c15fd52f0d4ac65baafdf48678ee",
+   "title": "Lamar Jackson injury: Ravens QB being monitored, considered day-to-day after exiting vs. Titans",
+   "summary": "Tyler Huntley opened the second half at quarterback with Baltimore leading Tennessee 24-7",
+   "link": "https://www.cbssports.com/nfl/news/ravens-lamar-jackson-injury-tyler-huntley-titans/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 04:56",
+   "ts": 1791147415
   },
   {
    "id": "57e2ed66761bff121ba378cce951c488",
@@ -147,7 +290,7 @@
   {
    "id": "a8f398b695d5f8ec875b2e3b0f38ebe1",
    "title": "I asked Claude build a physically accurate O'Neill cylinder you can walk around",
-   "summary": "Article URL: https://island-three.gruberbuilds.workers.dev/\nComments URL: https://news.ycombinator.com/item?id=49957191\nPoints: 6\n# Comments: 4",
+   "summary": "Article URL: https://island-three.gruberbuilds.workers.dev/\nComments URL: https://news.ycombinator.com/item?id=49957191\nPoints: 23\n# Comments: 19",
    "link": "https://island-three.gruberbuilds.workers.dev/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -156,19 +299,6 @@
    "urgent": false,
    "fetched_at": "10-05 03:49",
    "ts": 1791143352
-  },
-  {
-   "id": "17c7e95d697a9eaa8a0e71c67bbef00f",
-   "title": "Use FanDuel promo code to claim $250 in bonus bets by targeting Chiefs-Raiders, Lions-Panthers, NFL Week 4",
-   "summary": "Sign up and bet with the latest FanDuel promo code on Sunday to get your bonus bets",
-   "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-claim-250-bonus-bets-chiefs-raiders-lions-panthers-nfl-week-4-betting/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 03:48",
-   "ts": 1791143319
   },
   {
    "id": "1ecbd283fb029617d28723a055e1ca8b",
@@ -185,8 +315,8 @@
   },
   {
    "id": "b71aff21427c0a99633e23c11066b2b8",
-   "title": "Homa: The End of TCP for AI Clusters [video]",
-   "summary": "Related: https://www.theregister.com/networks/2026/10/01/stanford-pro...\n\nComments URL: https://news.ycombinator.com/item?id=49957117\nPoints: 14\n# Comments: 1",
+   "title": "Homa: The end of TCP for AI clusters [video]",
+   "summary": "Paper: \nhttps://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stan",
    "link": "https://www.youtube.com/watch?v=eZ8WWZzoaR0",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -197,9 +327,9 @@
    "ts": 1791142945
   },
   {
-   "id": "69c34b6268d0a30be9f4b8bb02f2ce57",
-   "title": "Remove and Disable Apple Macos27 AI Models Tool",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 81\n# Comments: 37",
+   "id": "42d1ad500220192635b03238c099c52f",
+   "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 160\n# Comments: 76",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -236,32 +366,6 @@
    "ts": 1791142565
   },
   {
-   "id": "919c534dca53b62037cb9f7e4448b4a9",
-   "title": "Use DraftKings promo code to get $150 in bonus bets by targeting Broncos-49ers, Lions-Panthers, NFL Week 4",
-   "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for NFL betting on Sunday",
-   "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-broncos-49ers-lions-panthers-nfl-week-4/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 03:33",
-   "ts": 1791142417
-  },
-  {
-   "id": "d728fe42eb788c8a0d4776fdd6020be6",
-   "title": "Bill Belichick joins Giants' 1986 reunion following North Carolina's loss to Notre Dame",
-   "summary": "Belichick quickly revisited one of his biggest NFL moments",
-   "link": "https://www.cbssports.com/nfl/news/bill-belichick-joins-giants-reunion-following-north-carolinas-loss/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 03:32",
-   "ts": 1791142328
-  },
-  {
    "id": "58540d795f0048eb60e3687025dd4eb7",
    "title": "Week 4 NFL betting promos: Collect nearly $3,000 in bonuses from top online betting apps, sportsbooks",
    "summary": "Top Week 4 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
@@ -275,19 +379,6 @@
    "ts": 1791142218
   },
   {
-   "id": "ec6faadd22aea66090e163b98de180a3",
-   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Chiefs-Raiders, Lions-Panthers, NFL",
-   "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NFL on Sunday",
-   "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-chiefs-raiders-lions-panthers-nfl-betting/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 03:24",
-   "ts": 1791141879
-  },
-  {
    "id": "4b71e0f9dfdb2ecc4ecc75d071484a70",
    "title": "2026 Week 4 NFL odds, picks, best bets, predictions: Experts backing Seahawks, Raiders, Broncos on Sunday",
    "summary": "SportsLine's experts have revealed their Week 4 NFL picks and best bets for Sunday",
@@ -299,19 +390,6 @@
    "urgent": false,
    "fetched_at": "10-05 03:20",
    "ts": 1791141652
-  },
-  {
-   "id": "8f5df9da125ff82d484b206da5702633",
-   "title": "AP Top 25 poll: Alabama leaps Indiana, sits just outside top five ahead of pivotal SEC clash with Georgia",
-   "summary": "The Crimson Tide sit just outside the top five before hosting the Dawgs, while Missouri surges 11 spots and Pittsburgh enters the rankings",
-   "link": "https://www.cbssports.com/college-football/news/ap-top-25-college-football-rankings-alabama-indiana/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 03:19",
-   "ts": 1791141595
   },
   {
    "id": "dd1929a961d381687e79a1e73c22a716",
@@ -353,17 +431,17 @@
    "ts": 1791139617
   },
   {
-   "id": "325e3bab581017e7640f40ddf3edb10b",
-   "title": "Slegers: Arsenal not in title conversation and in need of a review",
-   "summary": "Under-fire Arsenal boss Renee Slegers says her side are not in the conversation for this season's Women's Super League title after a 4-2 defeat to Man City left",
-   "link": "https://www.skysports.com/football/news/12040/13595107/renee-slegers-arsenal-are-not-in-wsl-title-race-as-under-pressure-boss-calls-for-review-after-man-city-loss",
+   "id": "11996ef70e0b9586922bdc4e677aae5d",
+   "title": "NFL results: Maye fires Patriots past Bills as Rams comeback downs Eagles",
+   "summary": "",
+   "link": "https://www.skysports.com/nfl/live-blog/12040/13595110/nfl-2026-results-and-highlights-drake-maye-fires-new-england-patriots-past-buffalo-bills-as-los-angeles-rams-clinch-late-comeback-win",
    "source": "Sky Sports",
    "channel": "体育",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-05 02:38",
-   "ts": 1791139080
+   "fetched_at": "10-05 02:41",
+   "ts": 1791139260
   },
   {
    "id": "45a566f2607bf005247a52bd2e7ab260",
@@ -444,9 +522,22 @@
    "ts": 1791136800
   },
   {
+   "id": "43161bc160eba8fb8a2b5d2546227999",
+   "title": "All I wanted was a custom domain email",
+   "summary": "Article URL: https://jacobg.co/emails-at-jacobg-co/\nComments URL: https://news.ycombinator.com/item?id=49956092\nPoints: 3\n# Comments: 1",
+   "link": "https://jacobg.co/emails-at-jacobg-co/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 01:47",
+   "ts": 1791136041
+  },
+  {
    "id": "e49cb76f32a7dde56f80586a82cabdc8",
    "title": "Incentives in Academic Research",
-   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 12\n# Comments: 2",
+   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 14\n# Comments: 7",
    "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -730,19 +821,6 @@
    "ts": 1791129852
   },
   {
-   "id": "f362db6d23fad0f03b3d8e580a6735e5",
-   "title": "John Steinbeck’s ‘East of Eden’ Returns to Top of Book Charts Following Netflix Adaptation’s Release",
-   "summary": "Fresh off the heels of the hit Netflix adaptation release, which stars Florence Pugh, John Steinbeck&#8217;s &#8220;East of Eden&#8221; is at the top of Amazon&",
-   "link": "https://variety.com/2026/shopping/news/read-east-of-eden-john-steinbeck-netflix-buy-shop-book-online-1236898511/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 00:00",
-   "ts": 1791129600
-  },
-  {
    "id": "6098d168b7ec26c70fe19cf6a874e51b",
    "title": "SNL Weighs in on GTA 6 vs. The Legend of Zelda With Skit Featuring Jason and Link",
    "summary": "SNL weighed in on GTA 6 vs. The Legend of Zelda: Ocarina of Time remake with a new Weekend Update skit featuring video game protagonists Jason Duval and Link.",
@@ -754,19 +832,6 @@
    "urgent": false,
    "fetched_at": "10-04 23:55",
    "ts": 1791129314
-  },
-  {
-   "id": "6a6c0190d4d85e157f770e39df32bef7",
-   "title": "Meronk outlasts Jarvis to win Alfred Dunhill Links Championship",
-   "summary": "Adrian Meronk came from four shots behind to overtake Casey Jarvis and win the Alfred Dunhill Links Championship by two strokes on a gripping final day at St An",
-   "link": "https://www.skysports.com/golf/news/12040/13595050/alfred-dunhill-links-championship-liv-golfs-adrian-meronk-outlasts-casey-jarvis-to-claim-victory-at-st-andrews",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 23:35",
-   "ts": 1791128100
   },
   {
    "id": "e364053939d21e450a21e42dd7fa5e06",
@@ -1107,9 +1172,9 @@
    "ts": 1791120692
   },
   {
-   "id": "6fb69482847345c3360bf1676727c190",
-   "title": "How effective altruism conquered the world (and might yet end it)",
-   "summary": "https://archive.ph/3gSCc\n\nComments URL: https://news.ycombinator.com/item?id=49953777\nPoints: 30\n# Comments: 29",
+   "id": "9e0b40694f8766e5a814609c63e83e0a",
+   "title": "The evolution of effective altruism",
+   "summary": "https://archive.ph/3gSCcRelated: https://www.economist.com/by-invitation/2026/10/04/will-maca...\n\nComments URL: https://news.ycombinator.com/item?id=49953777\nPo",
    "link": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1187,7 +1252,7 @@
   {
    "id": "b2f4a7c23b312ad1f2de434faa293b99",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 471\n# Comments: 244",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 496\n# Comments: 251",
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1265,7 +1330,7 @@
   {
    "id": "6c0c163721146c3be48644c9ffb10866",
    "title": "Bill Draper has died",
-   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 35\n# Comments: 10",
+   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 45\n# Comments: 12",
    "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1328,19 +1393,6 @@
    "ts": 1791115200
   },
   {
-   "id": "cc6b7c8118eae736c1e3ba1d316a14e7",
-   "title": "The rise, fall, and rise of portable MP3 players",
-   "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the collapse and the resurgence of the portable med",
-   "link": "https://www.theverge.com/column/1003566/history-apple-ipod-mp3-music-player",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 20:00",
-   "ts": 1791115200
-  },
-  {
    "id": "4bf949ac4b8e722a4800cf4741da5a72",
    "title": "Quiz: Python's collections: A Buffet of Specialized Data Types",
    "summary": "Check your understanding of Python's collections module and the specialized container data types it provides, from namedtuple to ChainMap.",
@@ -1352,19 +1404,6 @@
    "urgent": false,
    "fetched_at": "10-04 20:00",
    "ts": 1791115200
-  },
-  {
-   "id": "d8f118d7cc086a2dd51ef4cb7cbfbaef",
-   "title": "Russell 'beyond disappointment' as Wolff 'massively annoyed' by engine failure",
-   "summary": "Mercedes boss Toto Wolff said he was \"massively annoyed\" after the late unreliability that delivered a potentially knock-out blow to George Russell's title hope",
-   "link": "https://www.skysports.com/f1/news/12040/13594862/george-russell-mercedes-boss-toto-wolff-massively-annoyed-by-bahrain-gp-unreliability-with-driver-now-beyond-disappointment",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 19:50",
-   "ts": 1791114600
   },
   {
    "id": "12945e349a62ce2f018798ab8001bcb3",
@@ -1432,19 +1471,6 @@
    "ts": 1791109441
   },
   {
-   "id": "256734c140c445d6499992e2ecaa4af5",
-   "title": "Daryz retains Arc crown with dazzling display",
-   "summary": "Daryz became the first colt for almost 50 years to win Europe&#8217;s most prestigious race, the Qatar Prix de l&#8217;Arc de Triomphe, in successive seasons wi",
-   "link": "https://www.skysports.com/racing/news/12040/13594944/prix-de-larc-de-triomphe-daryz-becomes-first-colt-since-1978-to-retain-group-1-crown",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 18:23",
-   "ts": 1791109380
-  },
-  {
    "id": "55d02f53313d16cb02ce1ef8a8eedb6f",
    "title": "This 2025 Motorola phone is quietly becoming one of my favorite Android devices",
    "summary": "The Motorola Edge 70 flew under the radar, but I love it.",
@@ -1486,7 +1512,7 @@
   {
    "id": "2de3b1ecfa3eaada8f4abe79355cd62d",
    "title": "Show HN: AI search for every photo and every frame of video on macOS",
-   "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 119\n# Comments: 58",
+   "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 125\n# Comments: 59",
    "link": "https://github.com/allenv0/SCM",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1512,7 +1538,7 @@
   {
    "id": "0cac07fcefa7b890e2eeef2c39c1bee1",
    "title": "How to scale intent, quality, and artistry with AI [video]",
-   "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk\nComments URL: https://news.ycombinator.com/item?id=49951891\nPoints: 19\n# Comments: 5",
+   "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk\nComments URL: https://news.ycombinator.com/item?id=49951891\nPoints: 28\n# Comments: 7",
    "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1560,19 +1586,6 @@
    "urgent": false,
    "fetched_at": "10-04 14:31",
    "ts": 1791095462
-  },
-  {
-   "id": "7313a700699bb74b59769e4f9a52dada",
-   "title": "Emitting metadata early makes building/checking Rust up to twice as fast",
-   "summary": "Article URL: https://github.com/PowderworksCode/headstart\nComments URL: https://news.ycombinator.com/item?id=49951218\nPoints: 109\n# Comments: 28",
-   "link": "https://github.com/PowderworksCode/headstart",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 14:26",
-   "ts": 1791095217
   },
   {
    "id": "e3fbd658118963c5c640fd5083f0d871",
@@ -2210,19 +2223,6 @@
    "urgent": false,
    "fetched_at": "10-03 20:47",
    "ts": 1791031631
-  },
-  {
-   "id": "1e08a2ae4e15dacc8c300d96bc4f010c",
-   "title": "Huawei Watch GT 7 Pro review",
-   "summary": "Huawei’s Watch GT series has consistently offered a blend of premium build quality, extensive health and activity tracking, and top-tier battery endurance, and ",
-   "link": "https://www.gsmarena.com/huawei_watch_gt_7_pro_review-news-74802.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 20:31",
-   "ts": 1791030662
   },
   {
    "id": "56a156f733076ace66b849f72bc6e6c6",
