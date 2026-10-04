@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 06:03",
- "total": 251,
+ "updated_at": "2026-10-05 06:37",
+ "total": 263,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,9 +10,127 @@
   "数码",
   "汽车",
   "游戏",
+  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "162e19031d027729e2b44c5a6bcac4d9",
+   "title": "Mardle: Humphries can do it against anyone from any position",
+   "summary": "Sky Sports Darts pundit Wayne Mardle reflects on Luke Humphries becoming a two-time World Grand Prix champion after 'Cool Hand' rallied from 3-0 down against Ge",
+   "link": "https://www.skysports.com/darts/news/12040/13595177/luke-humphries-wayne-mardle-says-world-grand-prix-champion-has-put-down-a-marker-ahead-of-world-championship-this-christmas",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 06:30",
+   "ts": 1791153000
+  },
+  {
+   "id": "c494507db91b00894b719a57a51f003b",
+   "title": "Mike Vrabel calls out official after being penalized during Patriots win over Bills",
+   "summary": "Vrabel's team overcame his penalty, which led to a Bills touchdown",
+   "link": "https://www.cbssports.com/nfl/news/mike-vrabel-calls-out-official-after-being-penalized-patriots-bills/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 06:27",
+   "ts": 1791152864
+  },
+  {
+   "id": "a7d12b7e7ab07a6aab35738bb64251a1",
+   "title": "Broncos' Patrick Surtain II exits 49ers game with non-contact ankle injury",
+   "summary": "The 2024 Defensive Player of the Year is officially questionable to return after exiting late in the first half",
+   "link": "https://www.cbssports.com/nfl/news/patrick-surtain-ankle-injury-update-broncos-2026/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 06:26",
+   "ts": 1791152807
+  },
+  {
+   "id": "c8fb721872a733631477f3372c710cbd",
+   "title": "Rachel Reid on Upcoming Book ‘Unrivaled’ and Keeping All Those ‘Heated Rivalry’ Season 2 Secrets",
+   "summary": "The 'Heated Rivalry' author is currently on a tour for the deluxe edition of the best-selling hockey romance novel.",
+   "link": "https://www.hollywoodreporter.com/lifestyle/arts/rachel-reid-unrivaled-heated-rivalry-season-2-interview-1236721934/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 06:26",
+   "ts": 1791152804
+  },
+  {
+   "id": "f516cc84587a465132dfe03d28941e72",
+   "title": "NFL Week 4 winners and losers: Drake Maye delivers, Texans' season slips away",
+   "summary": "Maye rediscovered his 2025 form against the Bills, while Houston's latest loss left its playoff hopes hanging by a thread",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-winners-losers-drake-maye-texans/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 06:22",
+   "ts": 1791152522
+  },
+  {
+   "id": "e76663354e9f41907649ed27fcf4c697",
+   "title": "What David Zaslav Got Wrong About ‘Coyote vs. Acme’",
+   "summary": "Three years after “Coyote vs. Acme” was shelved by Warner Bros. as a tax write-off and rescued by indie distributor Ketchup Entertainment, the Looney Tunes come",
+   "link": "https://variety.com/2026/film/box-office/coyote-vs-acme-proves-david-zaslav-wrong-box-office-1236895011/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 06:20",
+   "ts": 1791152452
+  },
+  {
+   "id": "3560a9f92889883d4c02a5d05fb33007",
+   "title": "CeeDee Lamb makes Cowboys history, caps career day with winning TD vs. Texans",
+   "summary": "The five-time Pro Bowler erupted for 11 catches and 140 yards after halftime before scoring the decisive touchdown with 40 seconds remaining",
+   "link": "https://www.cbssports.com/nfl/news/ceedee-lamb-stats-cowboys-record-texans/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 06:13",
+   "ts": 1791151994
+  },
+  {
+   "id": "cbe95efda3ffcddb19b0988056e20c52",
+   "title": "Dodgers vs. Braves prediction, odds, time: 2026 NLDS Game 2 picks by proven model",
+   "summary": "SportsLine's model simulated Braves vs. Dodgers in the NL Divisional Series as the 2026 MLB playoffs continue Sunday",
+   "link": "https://www.cbssports.com/betting/news/dodgers-braves-prediction-odds-time-2026-mlb-playoff-bets-nlds-game-2-picks/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 06:10",
+   "ts": 1791151835
+  },
+  {
+   "id": "39ad641b8c64b1b91a402fc211050644",
+   "title": "Peacock’s Free Trial Offer Returns – But You Won’t Find It On the Streaming Service",
+   "summary": "Peacock subscribers were hit with another rate hike over the summer, with prices for the NBCUniversal streaming service rising for the fourth time in four years",
+   "link": "https://variety.com/2026/shopping/news/best-peacock-streaming-deals-offers-1235625188/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 06:08",
+   "ts": 1791151680
+  },
   {
    "id": "b233366c5ffbf84f4860d6079ecf04d9",
    "title": "Humphries completes comeback victory over Price in World Grand Prix epic",
@@ -27,30 +145,17 @@
    "ts": 1791151500
   },
   {
-   "id": "3560a9f92889883d4c02a5d05fb33007",
-   "title": "CeeDee Lamb makes Cowboys history, caps career day with winning TD vs. Texans",
-   "summary": "The five-time Pro Bowler erupted for 11 catches and 140 yards after halftime before scoring the decisive touchdown with 40 seconds remaining",
-   "link": "https://www.cbssports.com/nfl/news/ceedee-lamb-stats-cowboys-record-texans/",
+   "id": "5a487b29dc877d8da13725655644b739",
+   "title": "Week 4 overreactions: Should Rams still be Super Bowl favorites? Cowboys to win NFC East?",
+   "summary": "Plus, why Ben Johnson won't win Coach of the Year",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-overreactions-rams-jaguars-cowboys-win-nfc-east/",
    "source": "CBS Sports",
    "channel": "体育",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-05 05:57",
-   "ts": 1791151039
-  },
-  {
-   "id": "bfc41294bbdd108eb37045be86a4a7bf",
-   "title": "Hojlund pen condemns Wales to third Nations League defeat in four",
-   "summary": "Wales suffered a 1-0 Nations League defeat to Denmark as Rasmus Hojlund scored the game's only goal from the penalty spot.",
-   "link": "https://www.skysports.com/football/wales-vs-denmark/report/554066",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 05:55",
-   "ts": 1791150900
+   "fetched_at": "10-05 06:02",
+   "ts": 1791151345
   },
   {
    "id": "22f8ccec8bc139195050dc8a400a8288",
@@ -248,58 +353,6 @@
    "ts": 1791147729
   },
   {
-   "id": "3a74c15fd52f0d4ac65baafdf48678ee",
-   "title": "Lamar Jackson injury: Ravens QB being monitored, considered day-to-day after exiting vs. Titans",
-   "summary": "Tyler Huntley opened the second half at quarterback with Baltimore leading Tennessee 24-7",
-   "link": "https://www.cbssports.com/nfl/news/ravens-lamar-jackson-injury-tyler-huntley-titans/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 04:56",
-   "ts": 1791147415
-  },
-  {
-   "id": "57e2ed66761bff121ba378cce951c488",
-   "title": "Panthers vs. Lions predictions, odds, time: Week 4 'Sunday Night Football' picks by proven model",
-   "summary": "SportsLine's model has revealed its Detroit Lions vs. Carolina Panthers picks for 'Sunday Night Football'",
-   "link": "https://www.cbssports.com/betting/news/panthers-lions-predictions-odds-time-spread-week-4-sunday-night-football-picks-best-bets/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 04:55",
-   "ts": 1791147326
-  },
-  {
-   "id": "c0fb7904a145c11503a8aba30c872442",
-   "title": "Fever players address additional public scrutiny of playing with Caitlin Clark, while GM defends fans",
-   "summary": "Former Fever forward Brianna Turner, however, said that players have 'repeatedly' complained about the fanbase",
-   "link": "https://www.cbssports.com/wnba/news/fever-fans-caitlin-clark-amber-cox/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 04:46",
-   "ts": 1791146782
-  },
-  {
-   "id": "8bb42f5fd0a2d42513c0b8aee22cee5d",
-   "title": "Iran is going after America's debt it's targeting the $40T America owes",
-   "summary": "Article URL: https://jaymartin.substack.com/p/iran-is-going-after-americas-debt\nComments URL: https://news.ycombinator.com/item?id=49957602\nPoints: 14\n# Comment",
-   "link": "https://jaymartin.substack.com/p/iran-is-going-after-americas-debt",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 04:42",
-   "ts": 1791146532
-  },
-  {
    "id": "7e35cbc7b690a7993342a00d9e6210ce",
    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
    "summary": "AI slop seems to be overwhelming bug bounty programs.",
@@ -311,19 +364,6 @@
    "urgent": false,
    "fetched_at": "10-05 04:31",
    "ts": 1791145867
-  },
-  {
-   "id": "509bf17d13a4d86bbc32194a9a375385",
-   "title": "Jalen Duren says he wants 'to be a Piston for life' despite contentious free agency, trade rumors",
-   "summary": "Duren eventually accepted Detroit's five-year, $200 million offer, but not before leaks of a fractured team-player relationship",
-   "link": "https://www.cbssports.com/nba/news/jalen-duren-piston-for-life-free-agency/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 04:21",
-   "ts": 1791145290
   },
   {
    "id": "bea6ab26337773edef25bb84fd137853",
@@ -350,19 +390,6 @@
    "urgent": false,
    "fetched_at": "10-05 04:08",
    "ts": 1791144514
-  },
-  {
-   "id": "782d60a4df262bc8f931a23a24672c41",
-   "title": "'Sunday Night Football' prediction, odds, spread, time: Lions vs. Panthers picks from expert on 22-11 roll",
-   "summary": "Larry Hartstein reveals his picks for Detroit Lions vs. Carolina Panthers in the 2026 Week 4 'Sunday Night Football' matchup",
-   "link": "https://www.cbssports.com/betting/news/sunday-night-football-prediction-odds-spread-time-lions-panthers-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 04:01",
-   "ts": 1791144101
   },
   {
    "id": "f793c1ca4bd18f5eed5d94e474da6311",
@@ -419,7 +446,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 178\n# Comments: 92",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 218\n# Comments: 122",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -467,6 +494,19 @@
    "urgent": false,
    "fetched_at": "10-05 02:59",
    "ts": 1791140365
+  },
+  {
+   "id": "4d417d1d1d55e2460abb701debf3c3eb",
+   "title": "A browser-native classic Visual Basic VB6 IDE",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 12\n# Comments: 5",
+   "link": "https://wieslawsoltes.github.io/VB6/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 02:49",
+   "ts": 1791139757
   },
   {
    "id": "0ad58753d8af39e306eaa856eff3aa50",
@@ -575,7 +615,7 @@
   {
    "id": "43161bc160eba8fb8a2b5d2546227999",
    "title": "All I wanted was a custom domain email",
-   "summary": "Article URL: https://jacobg.co/emails-at-jacobg-co/\nComments URL: https://news.ycombinator.com/item?id=49956092\nPoints: 9\n# Comments: 8",
+   "summary": "Article URL: https://jacobg.co/emails-at-jacobg-co/\nComments URL: https://news.ycombinator.com/item?id=49956092\nPoints: 26\n# Comments: 29",
    "link": "https://jacobg.co/emails-at-jacobg-co/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -588,7 +628,7 @@
   {
    "id": "e49cb76f32a7dde56f80586a82cabdc8",
    "title": "Incentives in Academic Research",
-   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 16\n# Comments: 9",
+   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 20\n# Comments: 1",
    "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -597,6 +637,19 @@
    "urgent": false,
    "fetched_at": "10-05 01:42",
    "ts": 1791135758
+  },
+  {
+   "id": "d0549b40cf18c06783f4fb0f5d660e7f",
+   "title": "Xray-core concealed a certificate verification bypass vulnerability",
+   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 19\n# Comments: 0",
+   "link": "https://github.com/net4people/bbs/issues/672",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 01:38",
+   "ts": 1791135534
   },
   {
    "id": "02590146ad174f7a1302829541580c48",
@@ -820,32 +873,6 @@
    "ts": 1791130500
   },
   {
-   "id": "26090c39b3085d76853ea6480371344f",
-   "title": "Zach Bryan Breaks Attendance Record at Robert Kraft’s Gillette Stadium While Wearing ‘Free Palestine’ Shirt for Second Night in a Row",
-   "summary": "Zach Bryan broke the attendance record at Robert Kraft’s Gillette Stadium on Saturday night, performing for 73,538 fans — the largest crowd for any event in the",
-   "link": "https://variety.com/2026/music/news/zach-bryan-breaks-record-kraft-free-palestine-1236898609/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 00:09",
-   "ts": 1791130162
-  },
-  {
-   "id": "cd4f6255de78cebfd6741fc3753eafb9",
-   "title": "James Van Der Beek Was the ‘Soul’ of ‘Dawson’s Creek,’ Says Show Creator Kevin Williamson: ‘He Handled His Cancer With Such Grace and Courage’",
-   "summary": "“Dawson’s Creek” creator Kevin Williamson remembered the show’s late star Jame Van Der Beek on Saturday night while being honored with a Hero Award at the Barba",
-   "link": "https://variety.com/2026/tv/columns/dawsons-creek-kevin-williamson-james-van-der-beek-cancer-1236898546/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 00:07",
-   "ts": 1791130075
-  },
-  {
    "id": "faac6fb8fe99f4e0c3af42d1a9085329",
    "title": "TechCrunch Mobility: Reining in robotaxis",
    "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
@@ -896,19 +923,6 @@
    "urgent": false,
    "fetched_at": "10-04 23:34",
    "ts": 1791128075
-  },
-  {
-   "id": "6ae2415eb23b91e1f13e9f8b5943c0fd",
-   "title": "‘In The Heart of the South’ Director Wants to Change the Narrative For Indigenous Filmmakers: “You’ve Been Telling Our Stories Forever”",
-   "summary": "Nyla Innuksuk's supernatural thriller, where themes of trauma and tragedy come painfully alive, is screening at the Vancouver Film Festival this week.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/nyla-innuksuk-change-narrative-indigenous-filmmakers-1236721816/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 23:32",
-   "ts": 1791127927
   },
   {
    "id": "5dde12017a2d1be53cdc77539a091ceb",
@@ -1290,7 +1304,7 @@
   {
    "id": "b2f4a7c23b312ad1f2de434faa293b99",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 507\n# Comments: 252",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 522\n# Comments: 260",
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1368,7 +1382,7 @@
   {
    "id": "6c0c163721146c3be48644c9ffb10866",
    "title": "Bill Draper has died",
-   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 50\n# Comments: 12",
+   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 53\n# Comments: 12",
    "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1550,7 +1564,7 @@
   {
    "id": "2de3b1ecfa3eaada8f4abe79355cd62d",
    "title": "Show HN: AI search for every photo and every frame of video on macOS",
-   "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 128\n# Comments: 60",
+   "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 129\n# Comments: 62",
    "link": "https://github.com/allenv0/SCM",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1572,19 +1586,6 @@
    "urgent": false,
    "fetched_at": "10-04 17:00",
    "ts": 1791104427
-  },
-  {
-   "id": "0cac07fcefa7b890e2eeef2c39c1bee1",
-   "title": "How to scale intent, quality, and artistry with AI [video]",
-   "summary": "Article URL: https://www.youtube.com/watch?v=GLvFTMtw4Jk\nComments URL: https://news.ycombinator.com/item?id=49951891\nPoints: 30\n# Comments: 7",
-   "link": "https://www.youtube.com/watch?v=GLvFTMtw4Jk",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 16:41",
-   "ts": 1791103318
   },
   {
    "id": "2dc7528a8b598676b88d09a155e4844d",
