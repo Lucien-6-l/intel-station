@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05 18:06",
+ "updated_at": "2026-10-05 18:40",
  "total": 258,
  "channels": [
   "AI·科技",
@@ -14,6 +14,110 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "f479003d2e20c1221842e54e13a62892",
+   "title": "通用汽车推出 2027 款雪佛兰 Silverado 1500/GMC Sierra 1500 车型，将 CarPlay / Android Auto 整合入自家车机卡片",
+   "summary": "IT之家 10 月 5 日消息，通用汽车此前曾多次释放信号，暗示未来可能逐步在旗下车型中放弃苹果 CarPlay 和谷歌 Android Auto 车联功能。不过根据外媒 Carbuzz 报道，通用汽车目前仍在 2027 款雪佛兰 Silverado 1500 和 GMC Sierra 1500 车型上保留了苹果 Ca",
+   "link": "https://www.ithome.com/1/009/860.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:39",
+   "ts": 1791196744
+  },
+  {
+   "id": "c1977d898793bc230c88e81bd5a83d07",
+   "title": "我们为什么仍然需要一场15万人的“线下手办聚会”？",
+   "summary": "作者：柏亚舟最近三年的国庆，我都得去一趟上海，去一个有点特别的展会。10月3日至4日，2026哔哩哔哩上海国际手办模型文化博览会（以下简称“WF2026”）在这里如期拉开帷幕。顺着人潮涌入场馆，你会发现一个别的展会不太会有的现象：在这预计突破15万的线下参与人次中，随处可见的是拖着巨大硬壳行李箱、绑着加固带的折叠小推车",
+   "link": "https://www.gcores.com/articles/220529",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "发布/大事件",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-05 18:35",
+   "ts": 1791196535
+  },
+  {
+   "id": "9623cd4a370f47b1b351f75527f0bfe3",
+   "title": "Apple’s rumored smart display is a serious threat to Google Home — if it gets these things right",
+   "summary": "Google should be terrified of Apple actually taking the smart home seriously.",
+   "link": "https://www.androidauthority.com/apple-smart-display-google-home-3718655/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:30",
+   "ts": 1791196214
+  },
+  {
+   "id": "5ea5fae7534edc4d4869f2aa676c2834",
+   "title": "First look: Gemini in Android Auto could get a new animation",
+   "summary": "Gemini in Android Auto could get a Neural Expressive makeover.",
+   "link": "https://www.androidauthority.com/gemini-android-auto-new-animation-apk-teardown-3719046/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:30",
+   "ts": 1791196202
+  },
+  {
+   "id": "fa3e35db7f7cb3f8b951d8d217524560",
+   "title": "《黎明杀机》开发商 Behaviour Interactive 发布“高级技术动画师”招募信息，意外曝光旗下神秘 3A 大作",
+   "summary": "IT之家 10 月 5 日消息，据外媒 Insider Gaming 报道，《黎明杀机》开发商 Behaviour Interactive 近日发布了一则高级技术动画师（Senior Technical Animator）招聘信息，岗位隶属于该公司位于加拿大蒙特利尔的工作室。根据职位描述，该动画师将参与 Behavio",
+   "link": "https://www.ithome.com/1/009/859.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 18:20",
+   "ts": 1791195611
+  },
+  {
+   "id": "99027ef3e41874447f70e891db3ce417",
+   "title": "Oppo F35 and F35 Pro debut with 8,000mAh batteries and 50MP selfie cameras",
+   "summary": "Right on schedule, Oppo unveiled the F35 series in India. They’ve grown heavier compared to their predecessors, the F33 and F33 Pro, since they bring bigger bat",
+   "link": "https://www.gsmarena.com/oppo_f35_and_f35_pro_debut_with_8000mah_batteries_and_50mp_selfie_cameras-news-74898.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:12",
+   "ts": 1791195122
+  },
+  {
+   "id": "8363f56b9f586b3e3962fed481eb66cf",
+   "title": "运营约 3 年，SE 跨平台游戏《最终幻想 7：永恒危机》将于 10 月 7 日停服",
+   "summary": "IT之家 10 月 5 日消息，Square Enix 发文，宣布旗下跨平台游戏《最终幻想 7：永恒危机》将于北京时间 2026 年 10 月 7 日 14 时正式停止运营，停服相关流程全部完成后，玩家账户信息将被删除，以保护用户个人信息。公开信息显示，《最终幻想 7：永恒危机》由 Square Enix 与 AppL",
+   "link": "https://www.ithome.com/1/009/857.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:06",
+   "ts": 1791194819
+  },
+  {
+   "id": "5b7ae3f4d353c7d7288399122933be2c",
+   "title": "Apple and a Hacker's Future",
+   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 5\n# Comments: 0",
+   "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:05",
+   "ts": 1791194702
+  },
   {
    "id": "ae9fbda56466af633c9786bc6af7ad8c",
    "title": "Google is downgrading Gemini for users on budget plans",
@@ -52,19 +156,6 @@
    "urgent": false,
    "fetched_at": "10-05 18:00",
    "ts": 1791194411
-  },
-  {
-   "id": "38f20d16e1e8ed07ac14a4af8d142a6f",
-   "title": "Our minds aren’t equipped to handle AI",
-   "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflec",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:00",
-   "ts": 1791194400
   },
   {
    "id": "9bd27413adf975dd2ceb2f2b69b7c65c",
@@ -147,7 +238,7 @@
   {
    "id": "a37501930336cfc277be5e9a4c9036bd",
    "title": "高通与华为达成逻辑折叠芯片技术相关专利授权，韬定律加速出海",
-   "summary": "IT之家 10 月 5 日消息，彭博社今日发布报道《Qualcomm Licenses Patents on Huawei' s LogicFolding Chip Tech》，高通公司已同意授权华为技术公司的逻辑折叠芯片制造技术所依赖的专利，这对华为及其在海外 AI 市场的推动力来说是一笔胜利（Qualcomm In",
+   "summary": "IT之家 10 月 5 日消息，彭博社今日发布报道《Qualcomm Licenses Patents on Huawei' s LogicFolding Chip Tech》，高通公司已同意获得支撑华为技术有限公司新型逻辑折叠芯片制造技术的专利许可，这对华为及其在海外 AI 市场的推动力来说是一笔胜利（Qualcom",
    "link": "https://www.ithome.com/1/009/852.htm",
    "source": "IT之家",
    "channel": "AI·科技",
@@ -169,6 +260,19 @@
    "urgent": false,
    "fetched_at": "10-05 17:39",
    "ts": 1791193142
+  },
+  {
+   "id": "494e7203df715b453b2ea7a2260c0ee4",
+   "title": "McDermott explains Connor exclusion and England's World Cup game plan",
+   "summary": "Brian McDermott has consistently talked about England having a \"point of difference\" in the Rugby League World Cup but eyebrows were raised when the head coach ",
+   "link": "https://www.skysports.com/rugby-league/news/12040/13595271/englands-rugby-league-world-cup-squad-brian-mcdermott-explains-jake-connor-exclusion-mikey-lewis-inclusion-and-game-plan",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:39",
+   "ts": 1791193140
   },
   {
    "id": "4adfcbb2fc09bdce4f639117c65aa0c2",
@@ -288,32 +392,6 @@
    "ts": 1791191926
   },
   {
-   "id": "f9e57f0369390b4e18863abf411e5b61",
-   "title": "Scott withdraws from England and could miss 'several weeks'",
-   "summary": "Alex Scott is withdrawing from the England squad after picking up a tendon injury in the 7-0 win over Croatia.",
-   "link": "https://www.skysports.com/football/news/12040/13595264/alex-scott-bournemouth-midfielder-withdraws-from-england-duty-and-could-miss-several-weeks-with-tendon-injury",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:16",
-   "ts": 1791191760
-  },
-  {
-   "id": "d2cbb008cefa1f05a67ac54ea48f5a55",
-   "title": "游改电影《生化危机：爆发夜》今日上映：时隔九年重返内地大银幕，票房已破 5000 万",
-   "summary": "IT之家 10 月 5 日消息，游改真人电影《生化危机：爆发夜》今日上映，累计票房破 5000 万。这也是《生化危机》系列时隔九年，重返内地大银幕。这部惊悚片此前已经在海外上映，在烂番茄上首映获得 96% 的新鲜度，成为有史以来评分最高的电子游戏改编电影作品。全球首周票房 1.08 亿美元（IT之家注：现汇率约合 7.",
-   "link": "https://www.ithome.com/1/009/845.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:07",
-   "ts": 1791191252
-  },
-  {
    "id": "ae54002f1ca506663c22dd8ccb8a2cdc",
    "title": "I love the Pixel 11 Pro, but Google has 3 big problems to fix for the Pixel 12 Pro",
    "summary": "Google, this is what you need to do.",
@@ -353,19 +431,6 @@
    "ts": 1791190565
   },
   {
-   "id": "71ed747c6d455247745799168a1d473c",
-   "title": "丹麦人口数据库遭未授权访问，约 880 万人信息被泄露",
-   "summary": "IT之家 10 月 5 日消息，据彭博社报道，丹麦发生了一起重大数据泄露事件，导致该国中央人口数据库（Central Population Database）中约 880 万名登记人员的姓名、住址及 CPR 号码（个人身份证号）遭到未授权人员访问。丹麦政府在周一发布的一份声明中表示，此次泄露事件源于不明身份人员滥用了一",
-   "link": "https://www.ithome.com/1/009/844.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 16:54",
-   "ts": 1791190479
-  },
-  {
    "id": "bff3cd8aa096568e9b5897baf2ef92ae",
    "title": "This ‘Ultra’ flagship looked like a spec monster, but no one will be able to buy it",
    "summary": "Xiaomi seemingly canceled the Xiaomi 18 Ultra because it would be too expensive.",
@@ -377,19 +442,6 @@
    "urgent": false,
    "fetched_at": "10-05 16:49",
    "ts": 1791190183
-  },
-  {
-   "id": "bafd4c2f6194b536d802ae98a7428a5c",
-   "title": "2027 款玛莎拉蒂 Mcpura 车型上市：提供硬顶 / 敞篷双版本，237 万元起",
-   "summary": "IT之家 10 月 5 日消息，玛莎拉蒂宣布旗下 2027 款 Mcpura 车型正式上市，共推出硬顶版（Coupe）和敞篷版（Cielo）两款车型，售价分别为 237 万元和 270 万元。该车提供神秘灰、隐秘灰、纯粹黑、冰川皓白、无界曜蓝、烈焰红、绝尘黄、皇家绿、灵动黑、魔力橙配色。前脸采用了与 GT2 赛车相同的",
-   "link": "https://www.ithome.com/1/009/843.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-05 16:45",
-   "ts": 1791189957
   },
   {
    "id": "b63b4b5b8231331089d2f9f65072a2de",
@@ -498,7 +550,7 @@
   {
    "id": "fd6e9c68ace5f1f8462ed457afa8d812",
    "title": "WF2026首次曝光INART《影之刃零》主角魂1:1雕像",
-   "summary": "在刚刚落幕的WF2026上海展会上，INART展台首次对外展出了国产武侠动作游戏《影之刃零》主角魂的1:1与1:3比例雕像。展会现场人流量巨大，这组雕像也成为展位当中的热门看点之一，实物雕像从整体呈现到细节展示，都给到场的观众带来了很强的视觉冲击。\n\n《影之刃零》3D美术负责人王琛也在个人微博放出了雕像更多的实拍照片，",
+   "summary": "在刚刚落幕的WF2026上海展会上，INART展台首次对外展出了国产武侠动作游戏《影之刃零》主角魂的1:1与1:3比例雕像。展会现场人流量巨大，这组雕像也成为展位当中的热门看点之一，实物雕像从整体呈现到细节展示，都给到场的观众带来了很强的视觉冲击。\n\n\n\n《影之刃零》3D美术负责人王琛也在个人微博放出了雕像更多的实拍照",
    "link": "https://www.gcores.com/articles/220527",
    "source": "机核网",
    "channel": "游戏",
@@ -576,7 +628,7 @@
   {
    "id": "f3d78edab88a060c1d1eeb190a672a1a",
    "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 57\n# Com",
+   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 68\n# Com",
    "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -585,19 +637,6 @@
    "urgent": false,
    "fetched_at": "10-05 15:46",
    "ts": 1791186370
-  },
-  {
-   "id": "4bc848481e058b915a405290ea7880a6",
-   "title": "Google Maps has become nearly unusable for some Pixel 11 users on Android Auto",
-   "summary": "Maps can flicker, freeze, or fall behind while the rest of Android Auto keeps working.",
-   "link": "https://www.androidauthority.com/pixel-11-google-maps-android-auto-bug-3718880/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:38",
-   "ts": 1791185938
   },
   {
    "id": "094c62e2fd82d5d0981d8335ff27d6da",
@@ -611,19 +650,6 @@
    "urgent": false,
    "fetched_at": "10-05 15:32",
    "ts": 1791185520
-  },
-  {
-   "id": "9e22d6dcd21447dee3f05733d93d2cb0",
-   "title": "Google Pixels could get an all-new way to customize lock screens, for better or for worse",
-   "summary": "Is this better than the current lock screen customization UI? It's hard to say at this stage.",
-   "link": "https://www.androidauthority.com/google-wallpaper-style-app-lock-screen-customization-teardown-3718877/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:30",
-   "ts": 1791185441
   },
   {
    "id": "b17a81c17cc44b48f49e9748e0432cea",
@@ -745,7 +771,7 @@
   {
    "id": "51ff97dab6bb1ce0f06918ce5eeeeb95",
    "title": "Replacement of petroleum based products with plant-based materials (2025)",
-   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 66\n# Comments: 28",
+   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 69\n# Comments: 34",
    "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1148,7 +1174,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 140\n# Comments: 32",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 143\n# Comments: 32",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1265,7 +1291,7 @@
   {
    "id": "2e52209d54610fcee4461e07dfed5f5a",
    "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 137\n# Comments: 17",
+   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 144\n# Comments: 17",
    "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1343,7 +1369,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 575\n# Comments: 396",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 587\n# Comments: 402",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1382,7 +1408,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 241\n# Comments: 76",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 249\n# Comments: 86",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1482,19 +1508,6 @@
    "urgent": false,
    "fetched_at": "10-05 00:41",
    "ts": 1791132118
-  },
-  {
-   "id": "843e77235e9cadcbc74250264ec4bf8a",
-   "title": "Blindsight (Watts Novel)",
-   "summary": "Article URL: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)\nComments URL: https://news.ycombinator.com/item?id=49955297\nPoints: 90\n# Comments: 99",
-   "link": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 00:25",
-   "ts": 1791131117
   },
   {
    "id": "5b6a5aec16e4a2e461a9efc7c9707de6",
@@ -1759,7 +1772,7 @@
   {
    "id": "b2f4a7c23b312ad1f2de434faa293b99",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 806\n# Comments: 355",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 812\n# Comments: 358",
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1809,22 +1822,9 @@
    "ts": 1791117061
   },
   {
-   "id": "f52481f8308b494470722d6dc87f07ac",
-   "title": "How did Lewis recover from P18 to the podium?! SkyPad ANALYSIS reveals all...",
-   "summary": "SkyPad ANALYSIS of Lewis Hamilton's P15 to podium recovery drive!",
-   "link": "https://www.skysports.com/watch/video/13594995/skypad-analysis-of-lewis-hamiltons-p15-to-podium-recovery-drive",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 20:23",
-   "ts": 1791116580
-  },
-  {
    "id": "6c0c163721146c3be48644c9ffb10866",
    "title": "Bill Draper has died",
-   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 121\n# Comments: 38",
+   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 122\n# Comments: 38",
    "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1872,6 +1872,19 @@
    "urgent": false,
    "fetched_at": "10-04 20:11",
    "ts": 1791115862
+  },
+  {
+   "id": "a4733b8727f0fb8e7833b705116c0100",
+   "title": "The forgotten Chromebook that started it all",
+   "summary": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product y",
+   "link": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-04 20:00",
+   "ts": 1791115200
   },
   {
    "id": "4bf949ac4b8e722a4800cf4741da5a72",
@@ -2082,19 +2095,6 @@
    "ts": 1791073863
   },
   {
-   "id": "2feda2eba5238a6dae3c19169295f67c",
-   "title": "Honor Magic9 series is official, Motorola's wide foldable coming, Week 40 in review",
-   "summary": "Honor unveiled its Magic9 flagship series in China, consisting of the Magic9, Magic9 Super Edition, and the range-topping Magic9 Pro Max. The regular Magic9 pai",
-   "link": "https://www.gsmarena.com/honor_magic9_series_is_official_motorolas_wide_foldable_coming_week_40_in_review-news-74882.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 08:31",
-   "ts": 1791073862
-  },
-  {
    "id": "cc9ab564ef5d4b409b59351501263cfc",
    "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
    "summary": "Following the compute-based usage change in May, Google will soon introduce limits on which Gemini models free users and AI Plus subscribers can access.\n\n\n\n mor",
@@ -2106,6 +2106,19 @@
    "urgent": false,
    "fetched_at": "10-04 05:26",
    "ts": 1791062792
+  },
+  {
+   "id": "a805ec71882f9fbddbcad0b9b0238a71",
+   "title": "Fixtures set for 2027 season as Netball Super Cup heads to Nottingham",
+   "summary": "The fixtures for the 2027 Netball Super League have been set with the Netball Super Cup to be held on February 27.",
+   "link": "https://www.skysports.com/netball/news/12040/13594826/netball-super-league-fixtures-set-for-2027-season-with-netball-super-cup-heading-to-nottinghams-motorpoint-arena",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-04 04:11",
+   "ts": 1791058260
   },
   {
    "id": "b87ae2a69fb38c238e47ed8ba6855325",
@@ -2600,19 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-03 09:31",
    "ts": 1790991069
-  },
-  {
-   "id": "023d9ac109c2bc5094409b9c5cb1a84e",
-   "title": "Meta wants your next gadget to be Muse-infused",
-   "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
-   "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 08:45",
-   "ts": 1790988339
   }
  ]
 }
