@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 12:56",
- "total": 250,
+ "updated_at": "2026-10-05 13:18",
+ "total": 259,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,9 +10,36 @@
   "数码",
   "汽车",
   "游戏",
+  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "a8eab768a7f3fd455df757beabb41ed2",
+   "title": "纪录片《缅北电诈覆灭纪实》今晚 18 点开播，公安部和中央广播电视总台联合摄制",
+   "summary": "IT之家 10 月 5 日消息，央视新闻今日宣布，10 月 5 日至 7 日，由公安部和中央广播电视总台联合摄制的纪录片《缅北电诈覆灭纪实》，每晚 18 点在央视综合频道首播，当晚央视新闻频道 21:30 分重播。IT之家获悉，纪录片以真实案例揭露缅北犯罪生态，共分《利剑出鞘》《犁庭扫穴》《共筑天网》三集，全面展现了彻",
+   "link": "https://www.ithome.com/1/009/796.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 13:13",
+   "ts": 1791177237
+  },
+  {
+   "id": "06297aab87e39de4c5975cbddc66d8f1",
+   "title": "美国佛州一女子把 AI 当“日记本”用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
+   "summary": "IT之家 10 月 5 日消息，美国佛罗里达州李县（Lee County）一名 30 岁女子因涉嫌在与 Anthropic 旗下聊天机器人 Claude 的对话中写下针对当地警长办公室的暴力威胁而被捕。据当地警方通报，邦尼塔斯普林斯居民卡莉 · 米歇尔 · 赫勒（Carli Michelle Heller）于 9 月 ",
+   "link": "https://www.ithome.com/1/009/795.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 13:00",
+   "ts": 1791176425
+  },
   {
    "id": "687b763b0d920ddb4f882238d3778f33",
    "title": "华米 Amazfit 智能手表 T-Rex Dual Solar 上架：双面太阳能充电系统，4499 元",
@@ -64,6 +91,19 @@
    "urgent": false,
    "fetched_at": "10-05 12:30",
    "ts": 1791174647
+  },
+  {
+   "id": "79412f6eba569f50c1ff8ad028bea20d",
+   "title": "Kagi Ends Orion Browser Development for Linux, Will Open-Source It",
+   "summary": "Article URL: https://linuxiac.com/kagi-ends-orion-browser-development-for-linux-will-open-source-it/\nComments URL: https://news.ycombinator.com/item?id=49960628",
+   "link": "https://linuxiac.com/kagi-ends-orion-browser-development-for-linux-will-open-source-it/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 12:18",
+   "ts": 1791173919
   },
   {
    "id": "5de586a6f55d9ab2ff3785263bcaaf9e",
@@ -235,19 +275,6 @@
    "ts": 1791169927
   },
   {
-   "id": "4b123fba93f92da78cdef936b6ec095b",
-   "title": "瓦尔基里公布 VK 99 V2 机械键盘：AI 创想灯效，长至 12000hr 无线续航",
-   "summary": "IT之家 10 月 5 日消息，瓦尔基里 (Valkyrie, Vk) 今日公布了 VK 99 V2 系列三模机械键盘的完整参数表。其价格情况尚未公开。VK 99 V2 整体采用 2U0 的 98 配列，集成天际光廊贯穿式灯柱与下灯位 RGB 背光，支持人工智能驱动的 AI 创想灯效、音乐律动，内部包含竖向音量旋钮。其",
-   "link": "https://www.ithome.com/1/009/782.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 11:08",
-   "ts": 1791169711
-  },
-  {
    "id": "2ba035e48aa5881aa952c1a6330f9883",
    "title": "十个案例助你轻松上手 iOS 27 通知自动化",
    "summary": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。查看全文",
@@ -272,19 +299,6 @@
    "urgent": false,
    "fetched_at": "10-05 10:54",
    "ts": 1791168876
-  },
-  {
-   "id": "ed1f83fd03bc0f029de212abb9146c97",
-   "title": "Linux 7.3-rc6 发布：Torvalds 称进入“AI 新常态”，稳定版预计 10 月中旬发布",
-   "summary": "IT之家 10 月 5 日消息，Linus Torvalds 于当地时间 10 月 4 日发布了 Linux 7.3-rc6 测试版。相比前一周较为特殊的代码变更统计，本周整体恢复正常，驱动修复重新占据大头。不过，Torvalds 也特别提到，随着 AI 和大语言模型（LLM）的参与，这种“AI 新常态”已经成为当前 ",
-   "link": "https://www.ithome.com/1/009/781.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-05 10:54",
-   "ts": 1791168843
   },
   {
    "id": "5566a8ccad2390f8144cb2c1bbf6d2d8",
@@ -419,7 +433,7 @@
   {
    "id": "e5f1789defb27862d3b2b1792d982eb8",
    "title": "A 40ms Go garbage collector pause caused by swap",
-   "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 22\n# Comments: 5",
+   "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 25\n# Comments: 6",
    "link": "https://frn.sh/go-gc/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -679,7 +693,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 97\n# Comments: 29",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 101\n# Comments: 30",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -900,7 +914,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 459\n# Comments: 284",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 464\n# Comments: 289",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -939,7 +953,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 133\n# Comments: 48",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 139\n# Comments: 49",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1043,7 +1057,7 @@
   {
    "id": "d0549b40cf18c06783f4fb0f5d660e7f",
    "title": "Xray-core concealed a certificate verification bypass vulnerability",
-   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 67\n# Comments: 8",
+   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 67\n# Comments: 9",
    "link": "https://github.com/net4people/bbs/issues/672",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1446,7 +1460,7 @@
   {
    "id": "b2f4a7c23b312ad1f2de434faa293b99",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 664\n# Comments: 309",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 674\n# Comments: 311",
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1494,19 +1508,6 @@
    "urgent": false,
    "fetched_at": "10-04 20:31",
    "ts": 1791117061
-  },
-  {
-   "id": "6c0c163721146c3be48644c9ffb10866",
-   "title": "Bill Draper has died",
-   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 98\n# Comments: 27",
-   "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 20:21",
-   "ts": 1791116495
   },
   {
    "id": "a1bee9fa41825175870bfe40d4011228",
