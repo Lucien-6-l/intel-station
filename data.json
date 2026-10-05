@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 16:42",
- "total": 258,
+ "updated_at": "2026-10-05 17:06",
+ "total": 249,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,10 +10,35 @@
   "数码",
   "汽车",
   "游戏",
-  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "9bd27413adf975dd2ceb2f2b69b7c65c",
+   "title": "Messi lauded as Ronaldo involved in bitter dispute - a fitting finale?",
+   "summary": "Maybe it was inevitable, given how entwined their careers have been. But the comparison is irresistible. As Lionel Messi is lauded in Argentina during his farew",
+   "link": "https://www.skysports.com/football/news/12040/13594313/cristiano-ronaldos-portugal-dispute-happening-against-the-backdrop-of-lionel-messis-argentina-farewell-feels-fitting",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:00",
+   "ts": 1791194400
+  },
+  {
+   "id": "dc57b0abebece188aa16cd0c7f0681c3",
+   "title": "'What a pass!' - Jokic pulls off outrageous behind-the-back dime across court",
+   "summary": "Nikola Jokic reminded everyone of his extraordinary playmaking ability in Sunday's preseason opener, whipping a sensational behind-the-back crosscourt assist to",
+   "link": "https://www.skysports.com/watch/video/13595270/nikola-jokic-stuns-with-outrageous-behind-the-back-assist-in-nuggets-preseason-opener",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:41",
+   "ts": 1791193260
+  },
   {
    "id": "f9e57f0369390b4e18863abf411e5b61",
    "title": "Scott withdraws from England and could miss 'several weeks'",
@@ -28,6 +53,19 @@
    "ts": 1791191760
   },
   {
+   "id": "ae54002f1ca506663c22dd8ccb8a2cdc",
+   "title": "I love the Pixel 11 Pro, but Google has 3 big problems to fix for the Pixel 12 Pro",
+   "summary": "Google, this is what you need to do.",
+   "link": "https://www.androidauthority.com/pixel-11-pro-problems-google-needs-fix-pixel-12-pro-3717405/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:00",
+   "ts": 1791190813
+  },
+  {
    "id": "bb7fd934980af39eddaa51d7453526b7",
    "title": "Connor out, Lewis in - England's World Cup squad confirmed",
    "summary": "Brian McDermott has named his 23-player England squad for the 2026 Rugby League World Cup, with Mikey Lewis selected ahead of Jake Connor.",
@@ -39,6 +77,58 @@
    "urgent": false,
    "fetched_at": "10-05 17:00",
    "ts": 1791190800
+  },
+  {
+   "id": "4db1788f62f56994d886f22f18335236",
+   "title": "GrapheneOS explains why your Pixel is lagging and freezing after Android 17 QPR1",
+   "summary": "A newly identified regression could explain some of the lag Pixel users reported.",
+   "link": "https://www.androidauthority.com/android-17-qpr1-pixel-performance-regression-3718939/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 16:56",
+   "ts": 1791190565
+  },
+  {
+   "id": "71ed747c6d455247745799168a1d473c",
+   "title": "丹麦人口数据库遭未授权访问，约 880 万人信息被泄露",
+   "summary": "IT之家 10 月 5 日消息，据彭博社报道，丹麦发生了一起重大数据泄露事件，导致该国中央人口数据库（Central Population Database）中约 880 万名登记人员的姓名、住址及 CPR 号码（个人身份证号）遭到未授权人员访问。丹麦政府在周一发布的一份声明中表示，此次泄露事件源于不明身份人员滥用了一",
+   "link": "https://www.ithome.com/1/009/844.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 16:54",
+   "ts": 1791190479
+  },
+  {
+   "id": "bff3cd8aa096568e9b5897baf2ef92ae",
+   "title": "This ‘Ultra’ flagship looked like a spec monster, but no one will be able to buy it",
+   "summary": "Xiaomi seemingly canceled the Xiaomi 18 Ultra because it would be too expensive.",
+   "link": "https://www.androidauthority.com/xiaomi-18-ultra-specs-price-leak-phone-canceled-3718980/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 16:49",
+   "ts": 1791190183
+  },
+  {
+   "id": "bafd4c2f6194b536d802ae98a7428a5c",
+   "title": "2027 款玛莎拉蒂 Mcpura 车型上市：提供硬顶 / 敞篷双版本，237 万元起",
+   "summary": "IT之家 10 月 5 日消息，玛莎拉蒂宣布旗下 2027 款 Mcpura 车型正式上市，共推出硬顶版（Coupe）和敞篷版（Cielo）两款车型，售价分别为 237 万元和 270 万元。该车提供神秘灰、隐秘灰、纯粹黑、冰川皓白、无界曜蓝、烈焰红、绝尘黄、皇家绿、灵动黑、魔力橙配色。前脸采用了与 GT2 赛车相同的",
+   "link": "https://www.ithome.com/1/009/843.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 16:45",
+   "ts": 1791189957
   },
   {
    "id": "b5a093cfd23e3f70729f3b7d016924cc",
@@ -156,6 +246,19 @@
    "urgent": false,
    "fetched_at": "10-05 16:30",
    "ts": 1791189000
+  },
+  {
+   "id": "d50d377a9057f16bfa583f8131a797c2",
+   "title": "Rockstar Traveled Across Florida With Gang Members and Cops for GTA 6 Research",
+   "summary": "Rockstar has discussed travelling across Florida with gang members and cops for GTA 6 research, and hovering in a helicopter above a Beyonce concert.",
+   "link": "https://www.ign.com/articles/gta-6-research-gang-members",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 16:29",
+   "ts": 1791188940
   },
   {
    "id": "ddf45e1e007c0d53ec25a9db89a94ee2",
@@ -342,7 +445,7 @@
   {
    "id": "f3d78edab88a060c1d1eeb190a672a1a",
    "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 15\n# Com",
+   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 30\n# Com",
    "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -351,19 +454,6 @@
    "urgent": false,
    "fetched_at": "10-05 15:46",
    "ts": 1791186370
-  },
-  {
-   "id": "ee7bf32d0de6d6c1ebc16d6a2bebd8ce",
-   "title": "狼蛛 A8 镂空电竞头戴式耳机上架：约 235g 重量、40mm 单元，299.2 元起",
-   "summary": "IT之家 10 月 5 日消息，狼蛛现已在京东上架 A8 轻量化镂空电竞头戴式耳机，其中镂金黑配色首发价 299.2 元，其他配色首发价 329.8 元。京东狼蛛 A8 镂空头戴式游戏耳机 299.2 元起直达链接该耳机提供镂金黑、星耀银、空山翠和炽焰红四色，带有幻彩 RGB 灯效。机身采用镂空设计，重约 235g±5",
-   "link": "https://www.ithome.com/1/009/830.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:45",
-   "ts": 1791186330
   },
   {
    "id": "4bc848481e058b915a405290ea7880a6",
@@ -377,19 +467,6 @@
    "urgent": false,
    "fetched_at": "10-05 15:38",
    "ts": 1791185938
-  },
-  {
-   "id": "16b6cc27a4c8e1da3e71281536442fb6",
-   "title": "零刻 EQR5 迷你电脑主机新增 AMD R5 5500U 版本：内置电源 + 双网口，准系统 1379 元",
-   "summary": "IT之家 10 月 5 日消息，零刻 EQR5 上个月新增了一款搭载 AMD R5 5500U 处理器的入门级版本，准系统版本（无内存硬盘系统）售价 1379 元，16GB DDR4 内存 +500GB 固态硬盘版本 3029 元。这款小主机主打“稳静办公”，满载运行噪声仅为 32dB ，噪声水平低于普通图书馆环境（4",
-   "link": "https://www.ithome.com/1/009/829.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:34",
-   "ts": 1791185662
   },
   {
    "id": "094c62e2fd82d5d0981d8335ff27d6da",
@@ -537,7 +614,7 @@
   {
    "id": "51ff97dab6bb1ce0f06918ce5eeeeb95",
    "title": "Replacement of petroleum based products with plant-based materials (2025)",
-   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 52\n# Comments: 20",
+   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 59\n# Comments: 22",
    "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -795,19 +872,6 @@
    "ts": 1791162802
   },
   {
-   "id": "e5f1789defb27862d3b2b1792d982eb8",
-   "title": "A 40ms Go garbage collector pause caused by swap",
-   "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 83\n# Comments: 63",
-   "link": "https://frn.sh/go-gc/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:11",
-   "ts": 1791162716
-  },
-  {
    "id": "ba138ea226597b284485fc2b68aa8cac",
    "title": "Korea Box Office: ‘The Assassin(s)’ Holds Admissions Lead as ‘Chiikawa’ Generates Top Weekend Gross",
    "summary": "Director Hur Jin-ho&#8217;s political crime thriller &#8220;The Assassin(s)&#8221; held the top position at the South Korean box office in admissions over the w",
@@ -964,19 +1028,6 @@
    "ts": 1791155075
   },
   {
-   "id": "162e19031d027729e2b44c5a6bcac4d9",
-   "title": "Mardle: Humphries can do it against anyone from any position",
-   "summary": "Sky Sports Darts pundit Wayne Mardle reflects on Luke Humphries becoming a two-time World Grand Prix champion after 'Cool Hand' rallied from 3-0 down against Ge",
-   "link": "https://www.skysports.com/darts/news/12040/13595177/luke-humphries-wayne-mardle-says-world-grand-prix-champion-has-put-down-a-marker-ahead-of-world-championship-this-christmas",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 06:30",
-   "ts": 1791153000
-  },
-  {
    "id": "c8fb721872a733631477f3372c710cbd",
    "title": "Rachel Reid on Upcoming Book ‘Unrivaled’ and Keeping All Those ‘Heated Rivalry’ Season 2 Secrets",
    "summary": "The 'Heated Rivalry' author is currently on a tour for the deluxe edition of the best-selling hockey romance novel.",
@@ -992,7 +1043,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 131\n# Comments: 31",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 136\n# Comments: 31",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1109,7 +1160,7 @@
   {
    "id": "2e52209d54610fcee4461e07dfed5f5a",
    "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 125\n# Comments: 13",
+   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 130\n# Comments: 14",
    "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1187,7 +1238,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 550\n# Comments: 369",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 561\n# Comments: 375",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1211,19 +1262,6 @@
    "ts": 1791142625
   },
   {
-   "id": "6e3026f5a7c0979fdb2f2897e3c1c056",
-   "title": "'Are you KIDDING?!' - Commentators STUNNED by incredible TD catch!",
-   "summary": "Philadelphia Eagles' Darius Cooper makes a sensational catch for a touchdown in his team's clash with the Los Angeles Rams.",
-   "link": "https://www.skysports.com/watch/video/13595118/los-angeles-rams-vs-philadelphia-eagles-darius-cooper-makes-incredible-td-catch-over-defender",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 03:10",
-   "ts": 1791141000
-  },
-  {
    "id": "dd1929a961d381687e79a1e73c22a716",
    "title": "This is my biggest AirPods complaint, and it’s not necessarily about the hardware",
    "summary": "AirPods are one of Apple’s most interesting products. The demand for them was largely invented by the fact that the company removed the headphone jack 10 years ",
@@ -1239,7 +1277,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 202\n# Comments: 67",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 219\n# Comments: 71",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1369,7 +1407,7 @@
   {
    "id": "843e77235e9cadcbc74250264ec4bf8a",
    "title": "Blindsight (Watts Novel)",
-   "summary": "Article URL: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)\nComments URL: https://news.ycombinator.com/item?id=49955297\nPoints: 80\n# Comments: 78",
+   "summary": "Article URL: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)\nComments URL: https://news.ycombinator.com/item?id=49955297\nPoints: 83\n# Comments: 80",
    "link": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1638,6 +1676,19 @@
    "urgent": false,
    "fetched_at": "10-04 21:00",
    "ts": 1791118800
+  },
+  {
+   "id": "b2f4a7c23b312ad1f2de434faa293b99",
+   "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 788\n# Comments: 352",
+   "link": "https://github.com/Niko1221/Strata",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-04 20:51",
+   "ts": 1791118313
   },
   {
    "id": "e63a993205e5992659754025231a5486",
@@ -2043,19 +2094,6 @@
    "ts": 1791062792
   },
   {
-   "id": "c2bab75994df6d52da798b6706f6af63",
-   "title": "Inde Navarrette Teases X-Men Role, Says She's 'Doing Everything Humanly Possible' to Do Rogue Justice",
-   "summary": "Inde Navarrette has opened up about playing Rogue in X-Men, saying she's \"doing everything humanly possible\" to make sure she does the character justice.",
-   "link": "https://www.ign.com/articles/inde-navarrette-teases-x-men-role-says-shes-doing-everything-humanly-possible-to-do-rogue-justice",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 05:03",
-   "ts": 1791061426
-  },
-  {
    "id": "b87ae2a69fb38c238e47ed8ba6855325",
    "title": "Watch F1 on Apple TV tonight, free for everyone in the US",
    "summary": "The Bahrain Grand Prix is streaming for free on Apple TV this weekend, subscription not required. Rather amusingly, the location of the Bahrain Grand Prix is ac",
@@ -2433,19 +2471,6 @@
    "ts": 1791028723
   },
   {
-   "id": "adae8be12bad3c8af712b9929a805311",
-   "title": "These 9 Thunderbird features made me ditch Gmail for good",
-   "summary": "The underdog with cooler and better features",
-   "link": "https://www.androidauthority.com/ditched-gmail-for-thunderbird-why-3716057/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 19:00",
-   "ts": 1791025234
-  },
-  {
    "id": "5bcc8a7e3374f429f0d35d1a01e13a7b",
    "title": "总想在游戏里花钱？我真没招了【视频播客音频版】",
    "summary": "欢迎回到“核电波”！今天聊聊为什么我们总喜欢在游戏里花钱？ 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【核电波】   本期主播：Nadya / 西蒙 / Ryoma",
@@ -2470,32 +2495,6 @@
    "urgent": false,
    "fetched_at": "10-03 18:45",
    "ts": 1791024300
-  },
-  {
-   "id": "203fcb20964d6d2c9ea13969d52c9f53",
-   "title": "I used Pixel’s new battery summaries for a week — and Google has work to do",
-   "summary": "Battery summaries have a long way to go.",
-   "link": "https://www.androidauthority.com/pixel-battery-summaries-hands-on-3718048/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 18:30",
-   "ts": 1791023443
-  },
-  {
-   "id": "794fd12ef19a57c8e6cb49f98c45ce5c",
-   "title": "What’s the best Snapdragon 8 Gen 5 series chip? I tested them all to find out",
-   "summary": "CPU testing goes about as expected, but GPU benchmarking is another story altogether.",
-   "link": "https://www.androidauthority.com/all-snapdragon-8-gen-5-chips-tested-3704993/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 18:00",
-   "ts": 1791021605
   },
   {
    "id": "bde9121888d80eca31f2454c4624ff3d",
