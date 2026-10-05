@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06 07:02",
+ "updated_at": "2026-10-06 07:35",
  "total": 265,
  "channels": [
   "AI·科技",
@@ -15,6 +15,71 @@
  ],
  "items": [
   {
+   "id": "36e778557831c097845b8835252a7dfa",
+   "title": "tvOS 27.2 代码显示苹果 Apple TV 4K（第四代）将支持 Siri AI 和 Apple Intelligence",
+   "summary": "IT之家 10 月 6 日消息，科技媒体 MacRumors 昨日（10 月 5 日）发布博文，通过挖掘 tvOS 27.2 Beta 3 更新代码，发现新的线索，表明苹果 Apple TV 4K（第四代）将支持 Siri AI 与 Apple Intelligence。代码显示，系统设置应用中新增“改进 Siri 与",
+   "link": "https://www.ithome.com/1/009/920.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:33",
+   "ts": 1791243209
+  },
+  {
+   "id": "b94be4ef237c1bb2e32ce087e4ca6898",
+   "title": "Neon Sets ‘Artificial’ Oscar Campaign With Andrew Garfield in Supporting Actor, Yura Borisov in Lead (EXCLUSIVE)",
+   "summary": "Sixteen years ago, Andrew Garfield played the Facebook co-founder who was pushed out of the company he helped create in “The Social Network” and came up short i",
+   "link": "https://variety.com/2026/film/awards/artificial-oscars-campaign-andrew-garfield-supporting-actor-1236899378/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:30",
+   "ts": 1791243000
+  },
+  {
+   "id": "0c2217434bb8bdb376483a60c9726372",
+   "title": "丰田联合五十铃推出新款 Sora 氢燃料电池巴士，续航突破 300 公里",
+   "summary": "IT之家 10 月 6 日消息，丰田汽车于当地时间周一宣布，将推出新款 Sora 氢燃料电池巴士，续航里程超过 300 公里，相比老款车型提升约 100 公里。据IT之家了解，丰田从 2018 年开始投放 Sora 巴士。新款车型由丰田与五十铃汽车联合开发，采用五十铃研发的巴士底盘平台，搭载丰田的燃料电池系统。新款巴士",
+   "link": "https://www.ithome.com/1/009/919.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 07:24",
+   "ts": 1791242678
+  },
+  {
+   "id": "5c1ec7979a3b9610f8468168d39364b3",
+   "title": "苹果 macOS 27.2 Beta 测试触控手势代码，有望为触屏 MacBook 铺路",
+   "summary": "IT之家 10 月 6 日消息，科技媒体 MacRumors 今天（10 月 6 日）发布博文，通过挖掘 macOS 27.2 Beta 3 更新代码，发现苹果可能为其首款触控 MacBook（上市后预估名为 MacBook Ultra）做准备。IT之家援引博文介绍，该媒体发现苹果可能已着手准备软件适配工作，在 Saf",
+   "link": "https://www.ithome.com/1/009/918.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:23",
+   "ts": 1791242614
+  },
+  {
+   "id": "14a5214b680a78650f1d18f8995a6651",
+   "title": "SpaceX 股价大涨 7.6%，马斯克身家重回 1 万亿美元",
+   "summary": "IT之家 10 月 6 日消息，美东时间周一，SpaceX 股价大涨 7.6%，升至 6 月中旬以来最高水平，推动马斯克的身家重新超过 1 万亿美元（IT之家注：现汇率约合 6.71 万亿元人民币），较上周五增加了 306 亿美元（现汇率约合 2,053.37 亿元人民币）。这巩固了马斯克作为全球首富的地位，亚马逊创始",
+   "link": "https://www.ithome.com/1/009/916.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:18",
+   "ts": 1791242307
+  },
+  {
    "id": "e0a650084422bfcfcc9fec9549fec708",
    "title": "Papers: Liverpool's Jacquet suffers hamstring strain on France duty",
    "summary": "The top stories and transfer rumours from Tuesday's newspapers...",
@@ -28,6 +93,149 @@
    "ts": 1791242100
   },
   {
+   "id": "b594a7bda19f900aa094816a7a715525",
+   "title": "Joel Kinnaman on Facing Off Against Saddam Hussein in ‘The Hunt for Saddam’",
+   "summary": "Kinnaman plays CIA officer John Nixon interrogating Saddam Hussein (played by Waleed Zuaiter) to locate WMDs he never had in the eight-part TNT series 'High Val",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/joel-kinnaman-saddam-hussein-the-hunt-for-saddam-1236720893/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:15",
+   "ts": 1791242100
+  },
+  {
+   "id": "57dcc5d7c049070338b92ee68bb75132",
+   "title": "Use FanDuel promo code to get $250 bonus bets by targeting Falcons vs. Saints on Monday Night Football",
+   "summary": "Sign up and bet with the latest FanDuel promo code on Monday to get your bonus bets",
+   "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-falcons-vs-saints-on-monday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:10",
+   "ts": 1791241839
+  },
+  {
+   "id": "f0a46265f787260d316a0d7b874fc280",
+   "title": "Fueled by Sean Payton's 'disrespect,' 49ers' Dre Greenlaw dominates Broncos and lets former coach know",
+   "summary": "The linebacker led San Francisco with 12 tackles in Sunday's win before opening up about feeling ignored and disrespected during his lone season in Denver",
+   "link": "https://www.cbssports.com/nfl/news/sean-paytons-disrespect-49ers-dre-greenlaw-dominates-broncos/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:10",
+   "ts": 1791241823
+  },
+  {
+   "id": "e2393ece57b3c42aa2e13a6e8ab35a39",
+   "title": "比亚迪 Racco 电动微型车将走出日本，率先登陆斯里兰卡、中国澳门",
+   "summary": "IT之家 10 月 6 日消息，据日经亚洲报道，比亚迪于上周日对外表示，该公司将把面向日本市场推出的 Racco 电动微型车推向其他市场，首批计划在斯里兰卡与中国澳门开启销售。IT之家注意到，该计划是在神奈川县平冢市一家比亚迪经销门店举办的仪式上对外公布的，这场仪式临近东京，用于纪念比亚迪在日本市场的车辆交付量突破一万",
+   "link": "https://www.ithome.com/1/009/915.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:10",
+   "ts": 1791241820
+  },
+  {
+   "id": "c0077324f440060dae2b8b9f6c6fd0c9",
+   "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
+   "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports f",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:09",
+   "ts": 1791241795
+  },
+  {
+   "id": "d015711f25722eaaa3e8dae7cecb9f16",
+   "title": "Blippi’s Meekah and Dove Release Music Video to Promote Children’s Body Confidence (EXCLUSIVE)",
+   "summary": "Meekah, best friend of children&#8217;s entertainment and education character Blippi, has teamed up with Dove on a new music video promoting body confidence. Mo",
+   "link": "https://variety.com/2026/digital/columns/blippi-meekah-dove-music-video-childrens-body-confidence-1236899630/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:09",
+   "ts": 1791241779
+  },
+  {
+   "id": "91c8750334b69a948ac674e65d8727c9",
+   "title": "Apple may soon track when Google promotes Chrome inside Safari",
+   "summary": "Apple may be preparing to track when Google promotes Chrome or the Google app to users browsing in Safari, and how users react to those promotions. Here are the",
+   "link": "https://9to5mac.com/2026/10/05/apple-may-soon-track-when-google-promotes-chrome-inside-safari/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:09",
+   "ts": 1791241775
+  },
+  {
+   "id": "0b91244801684142e3a1c4b5ae1c3a62",
+   "title": "英伟达美股连续 3 天创历史新高，本月市值有望冲击 6 万亿美元",
+   "summary": "IT之家 10 月 6 日消息，英伟达股价于美国东部时间 10 月 5 日星期一再度刷新历史纪录，收盘报 238.90 美元（IT之家注：现汇率约合 1,603 元人民币），单日上涨 2.12%，连续第三个交易日以收盘价创历史新高。英伟达公司盘后交易进一步上行至约 239.54 美元（现汇率约合 1,607 元人民币）",
+   "link": "https://www.ithome.com/1/009/914.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:05",
+   "ts": 1791241542
+  },
+  {
+   "id": "69d37bbf8b88d0c218b2ce60e2832891",
+   "title": "Fox News Marks 30 Years On Air: ‘We Saw an Opportunity Nobody Else Saw’",
+   "summary": "Today&#8217;s episode of Variety&#8216;s “Strictly Business” podcast takes a long look back at 30 years since the launch of Fox News Channel. Love it or hate it",
+   "link": "https://variety.com/2026/tv/news/fox-news-30-anniversary-jason-klarman-october-7-1236899619/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:05",
+   "ts": 1791241542
+  },
+  {
+   "id": "a0976ade09907a6d83039ada57a52c3b",
+   "title": "Six Flags has installed one of the largest solar carports in the US",
+   "summary": "Six Flags Magic Mountain is putting its parking lots to work with a new 12.37-megawatt (MW) solar installation – California’s largest solar carport. It’s expect",
+   "link": "https://electrek.co/2026/10/05/six-flags-has-installed-one-of-the-largest-solar-carports-in-the-us/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:05",
+   "ts": 1791241505
+  },
+  {
+   "id": "803c74df6637283854727826888e7999",
+   "title": "Saints vs. Falcons picks, player props: Expert's best bets for NFL Week 4 Monday Night Football",
+   "summary": "Target a high-scoring NFC South clash in New Orleans with top player props for Bijan Robinson and Chris Olave, plus value on anytime touchdowns",
+   "link": "https://www.cbssports.com/betting/news/saints-vs-falcons-picks-player-props-experts-best-bets-for-nfl-week-4-monday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:01",
+   "ts": 1791241282
+  },
+  {
    "id": "208d4055955baf74f1dc8de443029597",
    "title": "历史性拐点！2026 上半年全球纯燃油车新车销量占比首次跌破 50%",
    "summary": "IT之家 10 月 6 日消息，据日经亚洲报道，受中东地区冲突推高国际油价影响，今年 1‑6 月上半年，燃油车在全球新车销量中的占比已经下滑至 50% 以下。不含混合动力以及其他电气化车型在内的燃油车销量同比下降 10%，至 2025 万辆。这类车型在全球新车销量当中的份额下降 3 个百分点，达到 49%。仅仅五年时间",
@@ -39,6 +247,19 @@
    "urgent": false,
    "fetched_at": "10-06 07:00",
    "ts": 1791241202
+  },
+  {
+   "id": "2368a8eed5c8f6baa0fcadbde069cb21",
+   "title": "Worth Building",
+   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 9\n# Comments: 0",
+   "link": "https://armstr.ng/writing/worth-building",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 06:59",
+   "ts": 1791241164
   },
   {
    "id": "9204ad61807c09dd3ea9b9f6e41e79e8",
@@ -67,17 +288,30 @@
    "ts": 1791240949
   },
   {
-   "id": "c962e564ee8b924a9043c0f752e169d5",
-   "title": "Use FanDuel promo code to get $250 in bonus bets by targeting Falcons vs. Saints, NFL Monday Night Football",
-   "summary": "Sign up and bet on Falcons vs. Saints NFL Week 4 MNF with the latest FanDuel promo code",
-   "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-falcons-vs-saints-nfl-monday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
+   "id": "9a599dc855536688121514bf3da41ee6",
+   "title": "Example.com Just Launched the Biggest Redesign in Decades",
+   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 17\n# Comments: ",
+   "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 06:55",
+   "ts": 1791240911
+  },
+  {
+   "id": "963a14a165d1754b90abcebfb0032cb3",
+   "title": "Food Atlas: Connections behind the dishes we love",
+   "summary": "Article URL: https://knowledgeartist.org/pages/food-atlas\nComments URL: https://news.ycombinator.com/item?id=49971895\nPoints: 3\n# Comments: 0",
+   "link": "https://knowledgeartist.org/pages/food-atlas",
+   "source": "Hacker News",
+   "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-06 06:50",
-   "ts": 1791240643
+   "fetched_at": "10-06 06:51",
+   "ts": 1791240717
   },
   {
    "id": "bb377662ba811ee1195f6f75206800ff",
@@ -366,19 +600,6 @@
    "ts": 1791237482
   },
   {
-   "id": "07f8a52debb799b5b47239856d5c9beb",
-   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Falcons-Saints on Monday Night Football",
-   "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Saints vs. Falcons, Monday Night Football",
-   "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-falcons-saints-monday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:55",
-   "ts": 1791237302
-  },
-  {
    "id": "8f6fbdf9938bdfe8022fdebbf647cbe6",
    "title": "Google Acknowledges Day 1 Android App Performance Issues on New Laptops",
    "summary": "Five new Googlebooks are available now, but the company says that not every Android app will offer “smooth performance” at launch.",
@@ -405,19 +626,6 @@
    "ts": 1791237241
   },
   {
-   "id": "b17844921fe2f81d0f5d8bffaf3ceeaa",
-   "title": "Use FanDuel promo code to get $250 bonus bets by targeting Falcons vs. Saints Monday Night Football",
-   "summary": "Sign up and bet with the latest FanDuel promo code on Monday to get your bonus bets",
-   "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-falcons-vs-saints-monday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:53",
-   "ts": 1791237216
-  },
-  {
    "id": "6c2558282d64fa020f057f05564721be",
    "title": "Robert Kelker-Kelly, ‘Days of Our Lives’ and ‘General Hospital’ Star, Dies at 62",
    "summary": "He also starred in the soap operas 'Another World' and 'Port Charles.'",
@@ -429,6 +637,19 @@
    "urgent": false,
    "fetched_at": "10-06 05:51",
    "ts": 1791237083
+  },
+  {
+   "id": "f2df964e17e26bd65ed89707bff428c7",
+   "title": "Graphical UI",
+   "summary": "Article URL: https://www.graphicalui.com/\nComments URL: https://news.ycombinator.com/item?id=49971356\nPoints: 6\n# Comments: 0",
+   "link": "https://www.graphicalui.com/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 05:51",
+   "ts": 1791237069
   },
   {
    "id": "0dc77ca65b7355e17850f493b851b616",
@@ -485,7 +706,7 @@
   {
    "id": "e88b8b5c62879e9d6e67740fbae01f68",
    "title": "Find the flattest route between any two points in SF",
-   "summary": "Article URL: https://flattensf.com/\nComments URL: https://news.ycombinator.com/item?id=49971230\nPoints: 39\n# Comments: 8",
+   "summary": "Article URL: https://flattensf.com/\nComments URL: https://news.ycombinator.com/item?id=49971230\nPoints: 61\n# Comments: 16",
    "link": "https://flattensf.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -665,22 +886,9 @@
    "ts": 1791235065
   },
   {
-   "id": "fdda9f957b1159604247560845b971a5",
-   "title": "Pam Levine Exits Netflix as Marketing & Publicity VP (EXCLUSIVE)",
-   "summary": "Pam Levine, Netflix&#8217;s marketing and publicity VP for the U.S. and Canada, is out at the streamer after a year and a half in her post, Variety has confirme",
-   "link": "https://variety.com/2026/film/news/pam-levine-leaves-netflix-marketing-publicity-vp-1236899440/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:17",
-   "ts": 1791235043
-  },
-  {
    "id": "b12f26b2c27403ff92371d875a858d25",
    "title": "Dust: Pretraining Transformers Without Backpropagation",
-   "summary": "Article URL: https://qlabs.sh/research/dust\nComments URL: https://news.ycombinator.com/item?id=49970871\nPoints: 53\n# Comments: 4",
+   "summary": "Article URL: https://qlabs.sh/research/dust\nComments URL: https://news.ycombinator.com/item?id=49970871\nPoints: 66\n# Comments: 3",
    "link": "https://qlabs.sh/research/dust",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -702,19 +910,6 @@
    "urgent": false,
    "fetched_at": "10-06 05:15",
    "ts": 1791234905
-  },
-  {
-   "id": "6fbf5ce3b8e68cb6540df10d66e94385",
-   "title": "‘Coven Academy’ Star Malina Weissman Unpacks Briar’s Backstory, Her Take on the Love Triangle and Her Hopes for Season 2",
-   "summary": "SPOILER ALERT: This story contains spoilers for “Coven Academy,” now streaming on Disney+. Nestled amid a tree-lined New Orleans exterior is a boarding school h",
-   "link": "https://variety.com/2026/tv/news/coven-academy-malina-weissman-briar-mom-dad-love-triangle-1236897980/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:14",
-   "ts": 1791234883
   },
   {
    "id": "00ed20194cca4f4d3b2c795173cf25d4",
@@ -756,22 +951,9 @@
    "ts": 1791234716
   },
   {
-   "id": "9a9c974f71f0e07aac0bef3d7deef7aa",
-   "title": "As ‘Digger’ Sinks, Hollywood’s Three Amigos Close Ranks",
-   "summary": "Alfonso Cuarón and Guillermo del Toro’s defense of Alejandro G. Iñárritu’s costly flop is the latest chapter in a remarkable 30-year creative alliance that carr",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/as-digger-sinks-hollywoods-three-amigos-1236722788/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:04",
-   "ts": 1791234262
-  },
-  {
    "id": "1ad31c2d866b0a88f0567e6c4107551d",
    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-   "summary": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors\nComments URL: https://news.ycombinator.com/item?id=49970667\nPoints: 132\n# Commen",
+   "summary": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors\nComments URL: https://news.ycombinator.com/item?id=49970667\nPoints: 156\n# Commen",
    "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -886,19 +1068,6 @@
    "ts": 1791233030
   },
   {
-   "id": "0e9917afd0f48a5b1bbe9c01d457779c",
-   "title": "Rachel Zegler Recalls Her ‘Evita’ Audition While Starring on Broadway in ‘Romeo + Juliet’: ‘I Sang 40 Pages of Material’",
-   "summary": "Tom Felton can&#8217;t go anywhere without getting recognized as Draco Malfoy, the icy-blond villain he memorably portrayed in eight &#8220;Harry Potter&#8221; ",
-   "link": "https://variety.com/2026/legit/news/rachel-zegler-evita-broadway-audition-1236899263/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 04:41",
-   "ts": 1791232909
-  },
-  {
    "id": "e3d0b171bcc3aeee1ce0e2e557948caa",
    "title": "Lucid (LCID) Q3 deliveries drop 7% as it slashes production by 38%",
    "summary": "Lucid (LCID) delivered 3,806 vehicles in the third quarter, down 7% from a year ago. It built only 2,954, a 38% cut from the previous quarter and its lowest pro",
@@ -992,7 +1161,7 @@
   {
    "id": "606f1545960336bb16e4587451d31900",
    "title": "A third way of using Linux",
-   "summary": "Article URL: https://hisvirusness.com/third-is-the-way\nComments URL: https://news.ycombinator.com/item?id=49970073\nPoints: 17\n# Comments: 26",
+   "summary": "Article URL: https://hisvirusness.com/third-is-the-way\nComments URL: https://news.ycombinator.com/item?id=49970073\nPoints: 22\n# Comments: 33",
    "link": "https://hisvirusness.com/third-is-the-way",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1031,7 +1200,7 @@
   {
    "id": "c007ace3389875e35cafecbfd34b3d30",
    "title": "Incident with Actions",
-   "summary": "Article URL: https://www.githubstatus.com/incidents/3q1yb5m7ltvb\nComments URL: https://news.ycombinator.com/item?id=49969961\nPoints: 88\n# Comments: 59",
+   "summary": "Article URL: https://www.githubstatus.com/incidents/3q1yb5m7ltvb\nComments URL: https://news.ycombinator.com/item?id=49969961\nPoints: 91\n# Comments: 61",
    "link": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1239,7 +1408,7 @@
   {
    "id": "0aa202d473d6f145cff9b73e2a2b2a51",
    "title": "The Future of Mathematics",
-   "summary": "Article URL: https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/\nComments URL: https://news.ycombinator.com/item?id=49969256\nPoints: 68\n# Comme",
+   "summary": "Article URL: https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/\nComments URL: https://news.ycombinator.com/item?id=49969256\nPoints: 70\n# Comme",
    "link": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1252,7 +1421,7 @@
   {
    "id": "a4e0da46e8952145a2a5d11a7bc1acee",
    "title": "Beam: Reflection's 501B open-weight model",
-   "summary": "Article URL: https://reflection.ai/blog/introducing-beam\nComments URL: https://news.ycombinator.com/item?id=49969183\nPoints: 234\n# Comments: 63",
+   "summary": "Article URL: https://reflection.ai/blog/introducing-beam\nComments URL: https://news.ycombinator.com/item?id=49969183\nPoints: 253\n# Comments: 66",
    "link": "https://reflection.ai/blog/introducing-beam",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1380,19 +1549,6 @@
    "ts": 1791225495
   },
   {
-   "id": "6bd4a91d5fa36525bf2f94bad4075714",
-   "title": "苹果 macOS 27.2 开发者预览版 Beta 3 发布",
-   "summary": "IT之家 10 月 6 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 3 更新（内部版本号：26B5101f），本次更新距离上次发布 Beta/RC 间隔 14 天。    如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版",
-   "link": "https://www.ithome.com/1/009/906.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-06 02:38",
-   "ts": 1791225494
-  },
-  {
    "id": "47202a94179bbb107dc737d22a3f2617",
    "title": "苹果 iOS / iPadOS 27.2 开发者预览版 Beta 3 发布",
    "summary": "【点此直达升级教程】IT之家 10 月 6 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.2 开发者预览版 Beta 3 更新（内部版本号：24B5099f），本次更新距离上次发布 Beta / RC 间隔 14 天。 IT之家附上官方更新日志，苹果公司并未介绍新版本带来的",
@@ -1404,19 +1560,6 @@
    "urgent": true,
    "fetched_at": "10-06 02:38",
    "ts": 1791225494
-  },
-  {
-   "id": "18748fb72d1c8f41044b7974c3055ac8",
-   "title": "Greenvolt begins building 600 MW/2.4 GWh BESS in Poland",
-   "summary": "Article URL: https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/\nComments URL: https://news.ycombinator.com/item?id=499",
-   "link": "https://www.ess-news.com/2026/09/25/greenvolt-begins-building-600-mw-2-4-gwh-bess-in-poland/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 02:38",
-   "ts": 1791225481
   },
   {
    "id": "f04f3ad73c451b132b2678c840e7fba7",
@@ -1521,32 +1664,6 @@
    "urgent": false,
    "fetched_at": "10-06 02:21",
    "ts": 1791224460
-  },
-  {
-   "id": "0bf3cb50c9ea08a8184567d38c4130c7",
-   "title": "Apple releases third iOS 27.2 developer beta for iPhone",
-   "summary": "Apple has released the third iOS 27.2 developer beta for iPhone. The update follows the release of iOS 27 to everyone. It also leaps over iOS 27.1, which Apple ",
-   "link": "https://9to5mac.com/2026/10/05/apple-releases-third-ios-27-2-developer-beta-for-iphone/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-06 02:18",
-   "ts": 1791224330
-  },
-  {
-   "id": "9d30a3a849d79b0a0add068af7934cd5",
-   "title": "Norway Eyes Partial Ban of Smart Glasses",
-   "summary": "Article URL: https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239\nComments URL: https://news.ycombinator.com/item?id=49968402\nPoints: ",
-   "link": "https://www.barrons.com/news/norway-eyes-partial-ban-of-smart-glasses-e65dc239",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 02:15",
-   "ts": 1791224120
   },
   {
    "id": "6bb34b9aa7348889faaf2ccd56e6f50f",
@@ -1809,19 +1926,6 @@
    "ts": 1791217083
   },
   {
-   "id": "5dcb0202244915b24c7ee094cd2293c6",
-   "title": "纳指盘中再创历史新高：SpaceX 涨逾 5%，英伟达涨超 1% 再度逼近历史新高",
-   "summary": "IT之家 10 月 6 日消息，美股纳斯达克指数周一（当地时间 10 月 5 日）创下盘中历史新高，多数大型股和成长股上涨。IT之家注意到，英伟达盘中最高上涨 1.65%，再度逼近历史新高。Meta、微软和特斯拉股价均上涨超过 1%。SpaceX 盘中股价最高涨超 5%，是近三个月来的历史新高。",
-   "link": "https://www.ithome.com/1/009/904.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:08",
-   "ts": 1791216514
-  },
-  {
    "id": "b2fb7f2486c7c0b2950073195d94ba3a",
    "title": "U.S. Sedan Sales Are Surging, with Honda and Toyota Leading the Charge",
    "summary": "SUVs and trucks are still plenty popular, but there’s a notable shift happening as consumers seek more affordable and more fuel-efficient new cars.",
@@ -1848,19 +1952,6 @@
    "ts": 1791216014
   },
   {
-   "id": "35abda6c7065be65b6990df564e54246",
-   "title": "OpenAI 将在欧盟为 ChatGPT 和 Codex 文本输出添加隐形水印",
-   "summary": "IT之家 10 月 5 日消息，OpenAI 今日宣布，为配合《欧盟人工智能法案》的内容透明要求，未来几周将在欧盟地区符合条件的 ChatGPT 和 Codex 文本输出中加入机器可识别的隐形水印。据介绍，文本水印技术名为 textGrain（文本粒水印），会在模型选词过程中嵌入不可见的统计信号。检测器通过识别该信号，",
-   "link": "https://www.ithome.com/1/009/903.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:58",
-   "ts": 1791215882
-  },
-  {
    "id": "73be0a2608e94083880bab1e5e5fec79",
    "title": "Toyota gets the green light for a new EV built to take on China",
    "summary": "Toyota will invest around $1.3 billion, the largest in Argentina’s automotive industry to date, to produce a new electric vehicle at its site in Buenos Aires.\n\n",
@@ -1885,19 +1976,6 @@
    "urgent": false,
    "fetched_at": "10-05 23:43",
    "ts": 1791215024
-  },
-  {
-   "id": "ea5ab2767e70953772d9f76c3fc21dea",
-   "title": "Nvidia’s Shield TV Pro just got a $100 price hike",
-   "summary": "Nvidia's Shield TV streaming boxes are the latest victims of the memory shortage that has seen prices increase dramatically for everything from digital cameras ",
-   "link": "https://www.theverge.com/tech/1004791/nvidia-shield-tv-pro-streaming-box-price-increase",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:43",
-   "ts": 1791214993
   },
   {
    "id": "3dcdce975d9f8b4385ab8b71bab4a681",
@@ -1939,19 +2017,6 @@
    "ts": 1791214020
   },
   {
-   "id": "76c30a6a33b7697ddbe85da7f9c53b82",
-   "title": "2026《英雄联盟》S16 全球总决赛 10 月 16 日开赛，11 月 15 日冠亚军决赛",
-   "summary": "IT之家 10 月 5 日消息，今日，《英雄联盟》发布 2026 年全球总决赛（S16）观赛指南。全球总决赛由三个阶段组成：分别是入围赛阶段（10 月 16 日至 19 日）、瑞士轮赛阶段（10 月 24 日至 11 月 1 日）和淘汰赛阶段（11 月 4 日至 15 日），以上日期均为北京时间。入围赛阶段（Bo5） ",
-   "link": "https://www.ithome.com/1/009/902.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:23",
-   "ts": 1791213793
-  },
-  {
    "id": "b69a6efcbd9582581d285eef64624ba4",
    "title": "OpenAI launches visual ads that appear alongside image generation results",
    "summary": "The new ads will begin to appear later this month in the U.S. only for now, and will feature products and services from an initial test group of advertisers.",
@@ -1963,19 +2028,6 @@
    "urgent": true,
    "fetched_at": "10-05 23:14",
    "ts": 1791213264
-  },
-  {
-   "id": "530128f0d984408dc4f4ef0a6c0fd475",
-   "title": "OpenAI 将在 ChatGPT 中推出全新图片广告形式，不会影响生成结果",
-   "summary": "IT之家 10 月 5 日消息，OpenAI 今日宣布，将在 ChatGPT 中推出全新的图片广告形式，扩充广告效果衡量工具与合作生态，并研发新方案用于评估品牌适配性。IT之家从官方介绍获悉，ChatGPT 每周覆盖 12 亿用户，是全球规模最大的原生 AI 消费平台。这款全新图片广告形式，能够帮助用户想象产品与服务如",
-   "link": "https://www.ithome.com/1/009/901.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:01",
-   "ts": 1791212519
   },
   {
    "id": "d2bfc610e7f14f59ad0da3ce02a9957f",
@@ -2108,19 +2160,6 @@
    "ts": 1791210840
   },
   {
-   "id": "ea355735cd3072977490ec1380d5331f",
-   "title": "香蕉派推出 BPI-CM7 核心板：全志 H618 + LPDDR4 + eMMC",
-   "summary": "IT之家 10 月 5 日消息，香蕉派 (Banana Pi) 上月末推出了 BPI-CM7。这一核心板基于全志 (Allwinner) H618 芯片，拥有 4 个 Arm Cortex-A53 CPU 核心、Arm Mali-G31 GPU。BPI-CM7 板载 2GB LPDDR4 内存、32GB eMMC 闪存",
-   "link": "https://www.ithome.com/1/009/900.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 22:30",
-   "ts": 1791210652
-  },
-  {
    "id": "2c4b12a145a58bf57f8d6ac465d87488",
    "title": "因涌入大量 AI 报告 Google 冻结其 Bug 悬赏计划",
    "summary": "因涌入大量无效的 AI bug 报告，Google 宣布冻结其 Bug 悬赏计划 Open Source Software Vulnerability Reward Program (OSS VRP)，该决定于 10 月 1 日生效。Google 承诺将于 2027 年第一季度提供相关更新，期间将对该项目进行调整。Go",
@@ -2132,19 +2171,6 @@
    "urgent": false,
    "fetched_at": "10-05 22:27",
    "ts": 1791210472
-  },
-  {
-   "id": "7243e4d735a6a3231371fac465231860",
-   "title": "Making a GTK application in Haskell, part 1",
-   "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/\nComments URL: https://news.ycombinator.com/item?id=49965308\nPoints: 119\n# Commen",
-   "link": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 22:23",
-   "ts": 1791210227
   },
   {
    "id": "219f6a26662b6155dbfa418f968dc96a",
@@ -2171,19 +2197,6 @@
    "urgent": false,
    "fetched_at": "10-05 22:14",
    "ts": 1791209664
-  },
-  {
-   "id": "757d6176735651e4dc12268735ccca8e",
-   "title": "The lamps in my house",
-   "summary": "Article URL: https://arslan.io/2026/10/05/the-lamps-in-my-house/\nComments URL: https://news.ycombinator.com/item?id=49965152\nPoints: 100\n# Comments: 56",
-   "link": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 22:12",
-   "ts": 1791209534
   },
   {
    "id": "16e755417522960453060867e56e2cce",
@@ -2418,19 +2431,6 @@
    "urgent": false,
    "fetched_at": "10-05 19:54",
    "ts": 1791201256
-  },
-  {
-   "id": "da8b5c9d28a112b3956ff93d999b1cc6",
-   "title": "It’s now easier than ever to get your motorcycle license on an electric bike",
-   "summary": "LiveWire’s smallest electric motorcycle is about to take on a new role, and it could prove to be one of the most important ones yet. The LiveWire S4 Honcho Stre",
-   "link": "https://electrek.co/2026/10/05/its-now-easier-than-ever-to-get-your-motorcycle-license-on-an-electric-bike/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:39",
-   "ts": 1791200340
   },
   {
    "id": "52156ce365f9569eb10cebc67ed6bace",
