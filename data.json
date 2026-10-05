@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05 17:42",
+ "updated_at": "2026-10-05 18:06",
  "total": 258,
  "channels": [
   "AI·科技",
@@ -15,6 +15,58 @@
  ],
  "items": [
   {
+   "id": "ae9fbda56466af633c9786bc6af7ad8c",
+   "title": "Google is downgrading Gemini for users on budget plans",
+   "summary": "Starting October 9, Google is cutting access to newer Gemini models for free and AI Plus subscribers.",
+   "link": "https://www.androidauthority.com/google-gemini-free-ai-plus-usage-limits-3719012/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:03",
+   "ts": 1791194588
+  },
+  {
+   "id": "c0db5a5a7add4ee08264d437c74b022a",
+   "title": "5 Android phones you should buy instead of the iPhone 18 Pro Max",
+   "summary": "Apple isn't the only tempting option.",
+   "link": "https://www.androidauthority.com/iphone-18-pro-max-android-alternatives-3717855/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:00",
+   "ts": 1791194413
+  },
+  {
+   "id": "0974caae931afd978857cc454f5d18cb",
+   "title": "2026 Nobel Prize in Medicine awarded for brain research tool called optogenetics",
+   "summary": "Karl Deisseroth, Peter Hegemann, and Georg Nagel are the joint recipients of the 2026 Nobel Prize in Physiology or Medicine “for their discoveries concerning li",
+   "link": "https://www.statnews.com/2026/10/05/nobel-prize-medicine-2026-winner-deisseroth-hegemann-nagel/?utm_campaign=rss",
+   "source": "STAT News",
+   "channel": "健康",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:00",
+   "ts": 1791194411
+  },
+  {
+   "id": "38f20d16e1e8ed07ac14a4af8d142a6f",
+   "title": "Our minds aren’t equipped to handle AI",
+   "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflec",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:00",
+   "ts": 1791194400
+  },
+  {
    "id": "9bd27413adf975dd2ceb2f2b69b7c65c",
    "title": "Messi lauded as Ronaldo involved in bitter dispute - a fitting finale?",
    "summary": "Maybe it was inevitable, given how entwined their careers have been. But the comparison is irresistible. As Lionel Messi is lauded in Argentina during his farew",
@@ -26,6 +78,58 @@
    "urgent": false,
    "fetched_at": "10-05 18:00",
    "ts": 1791194400
+  },
+  {
+   "id": "b5a17009a86938829e7731fa78932fb6",
+   "title": "阿斯顿马丁：短期内，纯电车型尚未成为客户的主要需求方向",
+   "summary": "IT之家 10 月 5 日消息，在阿斯顿 · 马丁 S 系列三款车型发布之际，易车采访到阿斯顿 · 马丁大中华区及亚太区总裁卡尔 · 贝利斯（Carl Bayliss），及全球产品管理负责人尼尔 · 休斯（Neil Hughes）。尼尔 · 休斯在谈及电动化策略的时候表示，阿斯顿马丁非常重视客户的反馈，也与大量客户进行",
+   "link": "https://www.ithome.com/1/009/856.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:59",
+   "ts": 1791194347
+  },
+  {
+   "id": "3f5a854ffd4c0e51852dbead814d10ad",
+   "title": "Google says some Googlebooks have better Android app support than others, and here’s why",
+   "summary": "Google says the vast majority of Android apps run fine on Googlebooks, but a few apps don't play nicely with Intel laptops.",
+   "link": "https://www.androidauthority.com/googlebooks-android-app-support-complicated-3718943/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:57",
+   "ts": 1791194225
+  },
+  {
+   "id": "fa4d09fb45b5b19ec29a29c71c24e01a",
+   "title": "日本经济新闻社一员工微软 Microsoft 365 账号遭黑客入侵，被操控发送 9000 封钓鱼邮件",
+   "summary": "IT之家 10 月 5 日消息，日本经济新闻社（NIKKEI）昨日发布通告，称公司一名员工的微软 Microsoft 365 账号遭黑客入侵攻击，黑客借用该员工名义发送了约 9000 封钓鱼邮件，引导收件人访问“恶意网站”。日本经济新闻社表示，在员工修改该账号密码后，目前尚未发现进一步的非法登录迹象。公司已逐一联系邮件",
+   "link": "https://www.ithome.com/1/009/855.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:56",
+   "ts": 1791194185
+  },
+  {
+   "id": "463493a9e344ad0a58cc96f502aaf301",
+   "title": "领克 900 新款谍照疑曝光：插混旗舰 SUV，现款 25.48 万元起",
+   "summary": "IT之家 10 月 5 日消息，近期，网络上流出了疑似中期改款领克 900 的测试谍照，官方暂未公布量产版细节和上市节点。从图上可以看到，新车的前脸大灯较在售版本预计有较大变化。IT之家注意到，目前在售的领克 900 于去年 4 月发布，10 月限时置换价大五座版本 25.48 万元起，大六座版本 26.99 万元起。",
+   "link": "https://www.ithome.com/1/009/853.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:47",
+   "ts": 1791193661
   },
   {
    "id": "dc57b0abebece188aa16cd0c7f0681c3",
@@ -43,7 +147,7 @@
   {
    "id": "a37501930336cfc277be5e9a4c9036bd",
    "title": "高通与华为达成逻辑折叠芯片技术相关专利授权，韬定律加速出海",
-   "summary": "IT之家 10 月 5 日消息，彭博社今日发布报道《Qualcomm Licenses Patents on Huawei' s LogicFolding Chip Tech》，高通公司已同意授权华为技术公司的逻辑折叠芯片制造技术的专利，这对华为及其在海外 AI 市场的推动力来说是一笔胜利（Qualcomm Inc. ",
+   "summary": "IT之家 10 月 5 日消息，彭博社今日发布报道《Qualcomm Licenses Patents on Huawei' s LogicFolding Chip Tech》，高通公司已同意授权华为技术公司的逻辑折叠芯片制造技术所依赖的专利，这对华为及其在海外 AI 市场的推动力来说是一笔胜利（Qualcomm In",
    "link": "https://www.ithome.com/1/009/852.htm",
    "source": "IT之家",
    "channel": "AI·科技",
@@ -54,8 +158,21 @@
    "ts": 1791193218
   },
   {
+   "id": "9316d3514042d3e4f9f95f77ada48fdc",
+   "title": "Oppo F35 Pro hands-on",
+   "summary": "The Oppo F35 series launched in India in two flavors - F35 Pro and a non-Pro F35. We had the chance to play around with the Pro version, which is a feature-pack",
+   "link": "https://www.gsmarena.com/oppo_f35_pro_handson-news-74896.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:39",
+   "ts": 1791193142
+  },
+  {
    "id": "4adfcbb2fc09bdce4f639117c65aa0c2",
-   "title": "2026 诺贝尔奖生理学或医学奖授予三学者：表彰三人在“光控离子通道和光遗传学”领域发现",
+   "title": "2026 诺贝尔奖生理学或医学奖揭晓：三学者凭借“光控离子通道和光遗传学”领域发现获表彰",
    "summary": "IT之家 10 月 5 日消息，即日起，一年一度的诺贝尔奖“开奖周”正式拉开帷幕，六大奖项将逐次揭晓。IT之家后续将为大家带来每天的详细报道。今日，诺贝尔奖基金会宣布将 2026 年诺贝尔生理学或医学奖授予以下三人，以表彰他们在“光控离子通道和光遗传学”领域的发现：美国霍华德 · 休斯医学研究所及斯坦福大学的 Karl",
    "link": "https://www.ithome.com/1/009/851.htm",
    "source": "IT之家",
@@ -104,6 +221,19 @@
    "urgent": false,
    "fetched_at": "10-05 17:28",
    "ts": 1791192499
+  },
+  {
+   "id": "bec490379e3cda1359d22c340414548c",
+   "title": "'The Movie Still Hasn't Made Any Money': Dakota Johnson is Happy to Joke About Madame Web Being One of Hollywood's Worst Ever Flops",
+   "summary": "Madame Web star Dakota Johnson has joked about her widely-panned superhero movie's status as a box office bomb.",
+   "link": "https://www.ign.com/articles/the-movie-still-hasnt-made-any-money-dakota-johnson-is-happy-to-joke-about-madame-web-being-one-of-hollywoods-worst-ever-flops",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:27",
+   "ts": 1791192478
   },
   {
    "id": "5374b5b0a24a3f96ec3c2c0586848dd2",
@@ -262,19 +392,6 @@
    "ts": 1791189957
   },
   {
-   "id": "b5a093cfd23e3f70729f3b7d016924cc",
-   "title": "台电推出 M60 平板电脑：搭 12 英寸 2K 面板、紫光展锐 T7250 处理器，899 元",
-   "summary": "IT之家 10 月 5 日消息，台电现已在京东上架一款 M60 平板电脑，该机配备一块 12 英寸 2K 面板，定价为 899 元，部分地区国补后低至 755.65 元。京东台电 M60 平板电脑 899 元直达链接该机使用冰川蓝配色，正面配备一块 2000x1200 分辨率 IPS LCD 面板，匹配 5Mp 自拍摄",
-   "link": "https://www.ithome.com/1/009/842.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 16:40",
-   "ts": 1791189614
-  },
-  {
    "id": "b63b4b5b8231331089d2f9f65072a2de",
    "title": "‘The Social Reckoning’ Is an Even Bigger Burn on Mark Zuckerberg Than You Think",
    "summary": "Aaron Sorkin's film takes on a sitting mogul in a way Hollywood rarely attempts.",
@@ -286,32 +403,6 @@
    "urgent": false,
    "fetched_at": "10-05 16:31",
    "ts": 1791189101
-  },
-  {
-   "id": "d1fd7701233adbd742e2b0a90506fd35",
-   "title": "倍思 MC2 NC 降噪耳夹耳机发售：12mm 动圈、-50dB 降噪，783 元（国补后 598 元）",
-   "summary": "IT之家 10 月 5 日消息，倍思旗下 MC2 NC 降噪耳夹耳机现已在京东发售，定价为 783 元，部分地区国补后低至 598 元。京东倍思 MC2 NC 蓝牙耳黑 783 元点此访问该耳机拥有 IP67 认证，提供星际黑、星月米两种配色，其采用超长宽弧 C 桥与单耳 4 点承托设计，可减少 90% 耳部受力。单耳",
-   "link": "https://www.ithome.com/1/009/841.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 16:31",
-   "ts": 1791189091
-  },
-  {
-   "id": "baf433efda20807aad92c0932271ff51",
-   "title": "交警提醒千万不能把“智驾”当成“代驾”，一男子被吊销驾驶证",
-   "summary": "IT之家 10 月 5 日消息，据央视新闻今日报道，假日期间，亲朋好友间的聚会增多，交管部门提醒广大驾驶人，开车不喝酒，喝酒不开车。如今，汽车的智能辅助驾驶功能越来越普及，部分车主可能会有“开启智驾后，不需要驾驶人干预车子就能安全自动驾驶”的错误认知，交警提醒，千万不能把“智驾”当成“代驾”。从公共场所视频可以看到，凌",
-   "link": "https://www.ithome.com/1/009/840.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 16:31",
-   "ts": 1791189088
   },
   {
    "id": "ae6dfd268fbc151cb0f8a38a1e0ea704",
@@ -483,22 +574,9 @@
    "ts": 1791186881
   },
   {
-   "id": "aa48723b53d3cdd1b4ad217d9b15b391",
-   "title": "Sales of sub-€25,000 electric car models set to rise sevenfold",
-   "summary": "Article URL: https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-ri",
-   "link": "https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:51",
-   "ts": 1791186674
-  },
-  {
    "id": "f3d78edab88a060c1d1eeb190a672a1a",
    "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 46\n# Com",
+   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 57\n# Com",
    "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -667,7 +745,7 @@
   {
    "id": "51ff97dab6bb1ce0f06918ce5eeeeb95",
    "title": "Replacement of petroleum based products with plant-based materials (2025)",
-   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 63\n# Comments: 25",
+   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 66\n# Comments: 28",
    "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -702,19 +780,6 @@
    "urgent": false,
    "fetched_at": "10-05 12:42",
    "ts": 1791175372
-  },
-  {
-   "id": "0b6a6b7e6feb6459cf889754d3d20a07",
-   "title": "Fitbit Edge leaks in full: Google’s new fitness tracker finally spills its secrets",
-   "summary": "The perfect middle ground between Fitbit Air and Pixel Watch 5?",
-   "link": "https://www.androidauthority.com/google-fitbit-edge-leak-3718856/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 12:11",
-   "ts": 1791173481
   },
   {
    "id": "50e2243f4437278f492f79b2e045af5e",
@@ -1083,7 +1148,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 136\n# Comments: 31",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 140\n# Comments: 32",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1200,7 +1265,7 @@
   {
    "id": "2e52209d54610fcee4461e07dfed5f5a",
    "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 133\n# Comments: 16",
+   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 137\n# Comments: 17",
    "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1278,7 +1343,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 567\n# Comments: 379",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 575\n# Comments: 396",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1317,7 +1382,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 232\n# Comments: 72",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 241\n# Comments: 76",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1367,19 +1432,6 @@
    "ts": 1791136800
   },
   {
-   "id": "d0549b40cf18c06783f4fb0f5d660e7f",
-   "title": "Xray-core concealed a certificate verification bypass vulnerability",
-   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 82\n# Comments: 10",
-   "link": "https://github.com/net4people/bbs/issues/672",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 01:38",
-   "ts": 1791135534
-  },
-  {
    "id": "62a4e9e53f35953f07982161814b58db",
    "title": "Avengers: Endgame Beats Avatar to Become the Highest-Grossing Movie of All Time (Again)",
    "summary": "Marvel Studios' Encore re-release has helped Avengers: Endgame beat Avatar to become the highest-grossing movie at the box office of all time…again.",
@@ -1404,19 +1456,6 @@
    "urgent": false,
    "fetched_at": "10-05 01:18",
    "ts": 1791134280
-  },
-  {
-   "id": "af83312d39dab96dbc0901d67f59997d",
-   "title": "The Soulog Sense is an AI voice recorder with a personal context system that never misses a word",
-   "summary": "It not only records your conversations, but it also helps you understand and organize them.",
-   "link": "https://www.androidauthority.com/soulog-sense-ai-voice-recorder-3716740/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 01:00",
-   "ts": 1791133258
   },
   {
    "id": "999670218561d3f8638f9b1be38c5b2a",
@@ -1447,7 +1486,7 @@
   {
    "id": "843e77235e9cadcbc74250264ec4bf8a",
    "title": "Blindsight (Watts Novel)",
-   "summary": "Article URL: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)\nComments URL: https://news.ycombinator.com/item?id=49955297\nPoints: 87\n# Comments: 87",
+   "summary": "Article URL: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)\nComments URL: https://news.ycombinator.com/item?id=49955297\nPoints: 90\n# Comments: 99",
    "link": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1718,6 +1757,19 @@
    "ts": 1791118800
   },
   {
+   "id": "b2f4a7c23b312ad1f2de434faa293b99",
+   "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 806\n# Comments: 355",
+   "link": "https://github.com/Niko1221/Strata",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-04 20:51",
+   "ts": 1791118313
+  },
+  {
    "id": "e63a993205e5992659754025231a5486",
    "title": "The MacBook Air M5 is $200 off for the first time in months",
    "summary": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of stora",
@@ -1770,6 +1822,19 @@
    "ts": 1791116580
   },
   {
+   "id": "6c0c163721146c3be48644c9ffb10866",
+   "title": "Bill Draper has died",
+   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 121\n# Comments: 38",
+   "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-04 20:21",
+   "ts": 1791116495
+  },
+  {
    "id": "a1bee9fa41825175870bfe40d4011228",
    "title": "How to Avoid JNI Crashes by Managing Local and Global References Correctly",
    "summary": "Most JNI crashes don't come from complicated logic. They come from a small set of mistakes around object references: holding on to a reference after it has beco",
@@ -1809,19 +1874,6 @@
    "ts": 1791115862
   },
   {
-   "id": "a4733b8727f0fb8e7833b705116c0100",
-   "title": "The forgotten Chromebook that started it all",
-   "summary": "Google didn't even call the first Chromebook a \"Chromebook.\" The Cr-48 had no interesting design and no bright logos - it wasn't even designed to be a product y",
-   "link": "https://www.theverge.com/podcast/1001215/the-forgotten-chromebook-that-started-it-all",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 20:00",
-   "ts": 1791115200
-  },
-  {
    "id": "4bf949ac4b8e722a4800cf4741da5a72",
    "title": "Quiz: Python's collections: A Buffet of Specialized Data Types",
    "summary": "Check your understanding of Python's collections module and the specialized container data types it provides, from namedtuple to ChainMap.",
@@ -1859,19 +1911,6 @@
    "urgent": false,
    "fetched_at": "10-04 18:24",
    "ts": 1791109441
-  },
-  {
-   "id": "55d02f53313d16cb02ce1ef8a8eedb6f",
-   "title": "This 2025 Motorola phone is quietly becoming one of my favorite Android devices",
-   "summary": "The Motorola Edge 70 flew under the radar, but I love it.",
-   "link": "https://www.androidauthority.com/motorola-edge-70-becoming-favorite-android-phone-3715468/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 18:00",
-   "ts": 1791108034
   },
   {
    "id": "4b7426f1ddd7864af6ecaca785a07207",
@@ -2054,32 +2093,6 @@
    "urgent": false,
    "fetched_at": "10-04 08:31",
    "ts": 1791073862
-  },
-  {
-   "id": "6ad36ca9caf72f84bf7150f0337a5327",
-   "title": "Avengers: Doomsday Poster Highlights Doctor Doom and 3 Latverian Witches",
-   "summary": "Marvel Studios has revealed a new Avengers: Doomsday poster, giving audiences a closer look not only at Doctor Doom but also at the three Latverian witches who ",
-   "link": "https://www.ign.com/articles/avengers-doomsday-poster-highlights-doctor-doom-and-3-latverian-witches",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 06:03",
-   "ts": 1791065025
-  },
-  {
-   "id": "2d8a70e649acd10985aa03e46c7174a5",
-   "title": "Google's Pixel 10a gets $100 more expensive",
-   "summary": "It's definitely price hike season for smartphones these days. Following Samsung raising its smartphone prices just yesterday, today Google is going the same rou",
-   "link": "https://www.gsmarena.com/googles_pixel_10a_gets_100_more_expensive-news-74889.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 05:31",
-   "ts": 1791063062
   },
   {
    "id": "cc9ab564ef5d4b409b59351501263cfc",
@@ -2600,19 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-03 08:45",
    "ts": 1790988339
-  },
-  {
-   "id": "4d0f519d758b7b0d4042b6462988cfb1",
-   "title": "Hollywood’s Newest Media Colossus: Paramount and Warner Bros. Merge Under Skydance",
-   "summary": "Skydance will now be one of the largest media companies in history, consolidating film studios, broadcast and cable networks, news and streaming.",
-   "link": "https://www.cnet.com/tech/paramount-skydance-warner-bros-discovery-media-empire/",
-   "source": "CNET",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 07:19",
-   "ts": 1790983183
   }
  ]
 }
