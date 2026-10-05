@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 07:37",
- "total": 263,
+ "updated_at": "2026-10-05 08:03",
+ "total": 260,
  "channels": [
   "AI·科技",
   "体育",
@@ -14,6 +14,149 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "0ea545b5f727e24402ea01e2d32fcbed",
+   "title": "人人都能有自己的智能体设备：Meta 开源 Muse Gadgets，用 ESP32 和树莓派打造自定义 AI 硬件",
+   "summary": "IT之家 10 月 5 日消息，Meta 于当地时间 10 月 2 日宣布推出开源项目 Muse Gadgets，允许开发者为旗下个人 AI 智能体 Muse 打造自定义硬件。Meta 同时也已经在 GitHub 上按照 Apache 2.0 许可发布了 ESP32 固件和 Linux 设备 SDK。开发者可以将低成本",
+   "link": "https://www.ithome.com/1/009/743.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 08:00",
+   "ts": 1791158433
+  },
+  {
+   "id": "de0c2a61ddfad859e8347caac127a4d4",
+   "title": "Lions vs. Panthers odds, predictions, betting preview, start time: Sunday Night Football picks, best bets",
+   "summary": "Best bets and betting preview for Lions vs. Panthers on Sunday Night Football",
+   "link": "https://www.cbssports.com/betting/news/lions-vs-panthers-odds-predictions-betting-preview-start-time-sunday-night-football-picks-best-bets/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:59",
+   "ts": 1791158360
+  },
+  {
+   "id": "ab46034d3cba9c434bf9219f7b94b59b",
+   "title": "NLDS Game 2 winners and losers: Brewers magic strikes again in walk-off win; Mason Miller implodes",
+   "summary": "Milwaukee worked three walks against the Padres closer in the ninth inning before Jackson Chourio called game",
+   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoffs-nlds-game-2-winners-losers/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:57",
+   "ts": 1791158231
+  },
+  {
+   "id": "bb7c3972f21d7984b8949fd8eabefab4",
+   "title": "NFL reviewing incident between official and Cardinals' Trey McBride, NFLPA issues statement",
+   "summary": "The altercation between the two went viral following New York's win over Arizona",
+   "link": "https://www.cbssports.com/nfl/news/nfl-reviewing-incident-between-official-cardinals-trey-mcbride/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:55",
+   "ts": 1791158139
+  },
+  {
+   "id": "5a487b29dc877d8da13725655644b739",
+   "title": "Week 4 overreactions: Should Rams still be Super Bowl favorites? Cowboys to win NFC East?",
+   "summary": "Plus, why Ben Johnson won't win Coach of the Year",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-overreactions-rams-jaguars-cowboys-win-nfc-east/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:53",
+   "ts": 1791158002
+  },
+  {
+   "id": "5adaba759ce1b69035c8b394d99a9e66",
+   "title": "Tyquan Thornton exits with gruesome ankle injury after monster game for Chiefs",
+   "summary": "Thornton had already established career highs in receiving yards and touchdowns before exiting late in the fourth quarter",
+   "link": "https://www.cbssports.com/nfl/news/chiefs-tyquan-thornton-ankle-injury-raiders/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:52",
+   "ts": 1791157956
+  },
+  {
+   "id": "2faeed3007d9f9d483149b6ec27d260a",
+   "title": "IT早报 1005：乐山大佛“掏耳朵”视频系 AI 合成；央视曝光外卖“明厨亮灶”造假；余承东称华为已量产 381 款 τ 芯片；马斯克确认 SpaceXAI 将更名 SpaceXSI...",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 5 日星期一，今天的重要科技资讯有：1. 乐山大佛景区回应网传“掏耳朵”养护作业视频：系 AI 合成，佛耳内并无所谓“杂物”网传视频显示文保工人给大佛掏耳朵、掏鼻孔，还出现猴子抢安全帽等离谱画面。乐山大佛管委会回应称该视频系他人 AI 生成，并非真实场景。202",
+   "link": "https://www.ithome.com/1/009/742.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:49",
+   "ts": 1791157762
+  },
+  {
+   "id": "ae9a476611e483d462ce1c9524d083f7",
+   "title": "Sarah Jessica Parker Says She’s ‘Never’ Worn Her Archived ‘Sex and the City’ Wardrobe: ‘There’s a Huge Separation Between Myself and Carrie Bradshaw’",
+   "summary": "Despite Carrie Bradshaw’s reputation for wearing trend-setting outfits, Sarah Jessica Parker never wears any of her &#8220;Sex and the City&#8221; character&#82",
+   "link": "https://variety.com/2026/tv/news/sarah-jessica-parker-carrie-bradshaw-sex-and-the-city-wardrobe-1236898781/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:47",
+   "ts": 1791157621
+  },
+  {
+   "id": "7d8eb8fa65e3b59871212efb5c8dd077",
+   "title": "2026 WNBA playoffs bracket, schedule, where to watch: Liberty and Aces both fall in Game 1 of semifinals",
+   "summary": "The Dream beat the Liberty and the Valkyries stifled the Aces on Sunday",
+   "link": "https://www.cbssports.com/wnba/news/2026-wnba-playoffs-bracket-schedule/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:43",
+   "ts": 1791157419
+  },
+  {
+   "id": "cf5d4f485d65578a5c6ca9d9b8b76db3",
+   "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
+   "summary": "IT之家 10 月 5 日消息，美国上周逮捕了一名嫌疑人，此人被控走私含有受出口管制的英伟达芯片的高端计算机服务器进入中国。美国司法部于当地时间上周四发布新闻稿，指控 38 岁的格雷格 · 刘（Greg Lui）使用虚假文件掩盖一批货值超过 3 亿美元（IT之家注：现汇率约合 20.16 亿元人民币）的服务器货物；据称",
+   "link": "https://www.ithome.com/1/009/741.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:40",
+   "ts": 1791157233
+  },
+  {
+   "id": "db38767efaded0386bc28d4eda456c79",
+   "title": "Use DraftKings promo code to get $150 bonus bets by targeting Lions-Panthers, NFL Week 4 Sunday Night Football",
+   "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for NFL betting on Sunday",
+   "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-lions-vs-panthers-nfl-week-4-sunday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:39",
+   "ts": 1791157194
+  },
   {
    "id": "99b91b5e1e7691489e373d220b2846ee",
    "title": "Zoe Kazan on Honoring Steinbeck’s ‘East of Eden’ for Netflix Series While Rethinking Its Characters",
@@ -52,6 +195,19 @@
    "urgent": false,
    "fetched_at": "10-05 07:26",
    "ts": 1791156372
+  },
+  {
+   "id": "0747c473fe4aeb9484dc4faa5837d594",
+   "title": "Panthers vs. Lions predictions, odds, time: Week 4 'Sunday Night Football' picks by proven model",
+   "summary": "SportsLine's model has revealed its Detroit Lions vs. Carolina Panthers picks for 'Sunday Night Football'",
+   "link": "https://www.cbssports.com/betting/news/panthers-lions-predictions-odds-time-spread-week-4-sunday-night-football-picks-nfl-best-bets/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:25",
+   "ts": 1791156304
   },
   {
    "id": "ff33755258077ddaa2d7fcf07687e596",
@@ -119,56 +275,17 @@
    "ts": 1791155377
   },
   {
-   "id": "90d0cb753fab62047753a3f180a988c2",
-   "title": "Jayden Daniels update: Dan Quinn says 'the hope' is for Commanders QB to return in Week 5",
-   "summary": "The plan is for Daniels to practice in full this week",
-   "link": "https://www.cbssports.com/nfl/news/commanders-jayden-daniels-update-hope-week-5-return/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:06",
-   "ts": 1791155211
-  },
-  {
-   "id": "1a1d0d50dad0c8eb603de6286aff8893",
-   "title": "Colorado playbook allegedly found at hotel bar by opposing fan amid offensive woes",
-   "summary": "Colorado doesn't need to give opposing defenses additional help these days",
-   "link": "https://www.cbssports.com/college-football/news/colorado-playbook-allegedly-found-at-hotel-bar-by-opposing-fan-amid-offensive-woes/",
-   "source": "CBS Sports",
-   "channel": "体育",
+   "id": "8d3987a3587e6998053c571f4ad3bdeb",
+   "title": "Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner",
+   "summary": "Professional Tekken 8 player SuperBrine is going viral after reaching God of Destruction using Alisa while completely blindfolded with a sleep mask.",
+   "link": "https://www.ign.com/articles/blindfolded-tekken-8-player-achieves-one-of-the-games-top-ranks-from-beginner",
+   "source": "IGN",
+   "channel": "游戏",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
    "fetched_at": "10-05 07:04",
-   "ts": 1791155085
-  },
-  {
-   "id": "b7d962ca5d74344a66c78003a1fe9d7c",
-   "title": "Panthers vs. Lions picks, prediction, player props: Expert's NFL Week 4 best bets for Sunday Night Football",
-   "summary": "Targeting a high-scoring shootout in Charlotte, our betting picks back Jahmyr Gibbs in the passing game and Darren Waller to stay heavily involved",
-   "link": "https://www.cbssports.com/betting/news/panthers-vs-lions-picks-prediction-player-props-experts-nfl-week-4-best-bets-for-sunday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:01",
-   "ts": 1791154869
-  },
-  {
-   "id": "de0c2a61ddfad859e8347caac127a4d4",
-   "title": "Lions vs. Panthers odds, predictions, betting preview, start time: Sunday Night Football picks, best bets",
-   "summary": "Best bets and betting preview for Lions vs. Panthers on Sunday Night Football",
-   "link": "https://www.cbssports.com/betting/news/lions-vs-panthers-odds-predictions-betting-preview-start-time-sunday-night-football-picks-best-bets/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:00",
-   "ts": 1791154857
+   "ts": 1791155075
   },
   {
    "id": "6786dc0269b725193b51b43d02ce72f9",
@@ -210,17 +327,17 @@
    "ts": 1791154536
   },
   {
-   "id": "8f9e4df044108f0516c9e4c4addd018b",
-   "title": "Use FanDuel promo code to get $250 in bonus bets by targeting Lions vs. Panthers, Week 4 Sunday Night Football",
-   "summary": "Sign up and bet on Lions vs. Panthers NFL Week 4 SNF with the latest FanDuel promo code",
-   "link": "https://www.cbssports.com/nfl/news/use-fanduel-promo-code-to-get-250-bonus-bets-lions-vs-panthers-week-4-sunday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
+   "id": "e6312d933429fc9249ff538201bf6cec",
+   "title": "\"No Vendor Lock-In\" Is Code for \"No Product\"",
+   "summary": "Article URL: https://ferran.sh/writing/no-vendor-lock-in-is-code-for-no-product\nComments URL: https://news.ycombinator.com/item?id=49958761\nPoints: 11\n# Comment",
+   "link": "https://ferran.sh/writing/no-vendor-lock-in-is-code-for-no-product",
+   "source": "Hacker News",
+   "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-05 06:52",
-   "ts": 1791154352
+   "fetched_at": "10-05 06:51",
+   "ts": 1791154302
   },
   {
    "id": "7ebf7fd09bf336aa6b7ff9cfbb3ab044",
@@ -249,19 +366,6 @@
    "ts": 1791153000
   },
   {
-   "id": "a7d12b7e7ab07a6aab35738bb64251a1",
-   "title": "Broncos' Patrick Surtain II exits 49ers game with non-contact ankle injury",
-   "summary": "The 2024 Defensive Player of the Year is officially questionable to return after exiting late in the first half",
-   "link": "https://www.cbssports.com/nfl/news/patrick-surtain-ankle-injury-update-broncos-2026/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 06:26",
-   "ts": 1791152807
-  },
-  {
    "id": "c8fb721872a733631477f3372c710cbd",
    "title": "Rachel Reid on Upcoming Book ‘Unrivaled’ and Keeping All Those ‘Heated Rivalry’ Season 2 Secrets",
    "summary": "The 'Heated Rivalry' author is currently on a tour for the deluxe edition of the best-selling hockey romance novel.",
@@ -277,7 +381,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 18\n# Comments: 3",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 21\n# Comments: 4",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -286,19 +390,6 @@
    "urgent": false,
    "fetched_at": "10-05 06:25",
    "ts": 1791152710
-  },
-  {
-   "id": "f516cc84587a465132dfe03d28941e72",
-   "title": "NFL Week 4 winners and losers: Drake Maye delivers, Texans' season slips away",
-   "summary": "Maye rediscovered his 2025 form against the Bills, while Houston's latest loss left its playoff hopes hanging by a thread",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-winners-losers-drake-maye-texans/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 06:22",
-   "ts": 1791152522
   },
   {
    "id": "e76663354e9f41907649ed27fcf4c697",
@@ -312,19 +403,6 @@
    "urgent": false,
    "fetched_at": "10-05 06:20",
    "ts": 1791152452
-  },
-  {
-   "id": "cbe95efda3ffcddb19b0988056e20c52",
-   "title": "Dodgers vs. Braves prediction, odds, time: 2026 NLDS Game 2 picks by proven model",
-   "summary": "SportsLine's model simulated Braves vs. Dodgers in the NL Divisional Series as the 2026 MLB playoffs continue Sunday",
-   "link": "https://www.cbssports.com/betting/news/dodgers-braves-prediction-odds-time-2026-mlb-playoff-bets-nlds-game-2-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 06:10",
-   "ts": 1791151835
   },
   {
    "id": "39ad641b8c64b1b91a402fc211050644",
@@ -351,19 +429,6 @@
    "urgent": false,
    "fetched_at": "10-05 06:05",
    "ts": 1791151500
-  },
-  {
-   "id": "2e0d5dc1b2f3a76f66dca03c736ca9fb",
-   "title": "AI doesn't need 'superintelligence' or evil intent to start a nuclear war",
-   "summary": "Article URL: https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/\nComments URL: https://news.ycombinator.com/",
-   "link": "https://thebulletin.org/2026/10/ai-doesnt-need-superintelligence-or-evil-intent-to-start-a-nuclear-war/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 06:03",
-   "ts": 1791151421
   },
   {
    "id": "f41e7eb881c69885847dcb30399a9864",
@@ -576,7 +641,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 273\n# Comments: 154",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 288\n# Comments: 169",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -628,7 +693,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 36\n# Comments: 12",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 41\n# Comments: 15",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -745,7 +810,7 @@
   {
    "id": "e49cb76f32a7dde56f80586a82cabdc8",
    "title": "Incentives in Academic Research",
-   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 27\n# Comments: 1",
+   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 29\n# Comments: 1",
    "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -758,7 +823,7 @@
   {
    "id": "d0549b40cf18c06783f4fb0f5d660e7f",
    "title": "Xray-core concealed a certificate verification bypass vulnerability",
-   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 27\n# Comments: 0",
+   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 29\n# Comments: 0",
    "link": "https://github.com/net4people/bbs/issues/672",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -819,19 +884,6 @@
    "urgent": false,
    "fetched_at": "10-05 01:14",
    "ts": 1791134040
-  },
-  {
-   "id": "66062beebb2905262f60534cffa61081",
-   "title": "‘Spotlight’ Director Says The Catholic Church Hasn’t Done ‘Enough’ To Protect Children From Sexual Assault 10 Years After Film’s Best Picture Win: ‘Not Until Every Child Is Safe’",
-   "summary": "Tom McCarthy’s biographical drama “Spotlight” won Best Picture at the Academy Awards in 2016. The film, featuring a stacked ensemble led by Michael Keaton, Rach",
-   "link": "https://variety.com/2026/film/news/spotlight-catholic-church-children-sexual-abuse-nyff-1236898551/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 01:07",
-   "ts": 1791133667
   },
   {
    "id": "af83312d39dab96dbc0901d67f59997d",
@@ -1263,32 +1315,6 @@
    "ts": 1791121327
   },
   {
-   "id": "ecd7e62cd5c8c6a6619ac3e713032566",
-   "title": "央视曝光车辆“ETC 异常”短信骗局：系不法分子钓鱼陷阱",
-   "summary": "IT之家 10 月 4 日消息，据央视新闻报道，近期市面上出现一种“ETC 异常”短信骗局，相应短信谎称汽车 ETC“被停用”“更新升级”“认证失效”，要求车主点击所谓链接处理。央视新闻表示，相应短信系陷阱。这种不明链接往往是骗子专门设置的钓鱼网站，为的就是骗取银行卡号、密码、身份证号等个人信息。如果车主对车辆 ETC",
-   "link": "https://www.ithome.com/1/009/730.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 21:34",
-   "ts": 1791120893
-  },
-  {
-   "id": "1d9e3af2cfc7211a39c0c72671d37a9d",
-   "title": "荣耀平板 X10 Mini 上架：9.7 英寸护眼屏，10 月 23 日发售",
-   "summary": "IT之家 10 月 4 日消息，荣耀平板 X10 Mini 现已在京东平台上架并预约，将于 10 月 23 日 10:00 发售。IT之家从官方海报获悉，这款新品配备 9.7 英寸 2K 护眼屏，内置 8000mAh 大电池，获得 SGS 抗摔抗压五星金标认证。作为参考，今年 3 月发布的荣耀平板 X10 搭载高通骁龙",
-   "link": "https://www.ithome.com/1/009/729.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 21:31",
-   "ts": 1791120692
-  },
-  {
    "id": "9e0b40694f8766e5a814609c63e83e0a",
    "title": "The evolution of effective altruism",
    "summary": "https://archive.ph/3gSCcRelated: https://www.economist.com/by-invitation/2026/10/04/will-maca...\n\nComments URL: https://news.ycombinator.com/item?id=49953777\nPo",
@@ -1300,19 +1326,6 @@
    "urgent": false,
    "fetched_at": "10-04 21:30",
    "ts": 1791120649
-  },
-  {
-   "id": "88bbdd3f7436c87d3274e6ae2752595b",
-   "title": "乐山大佛景区回应网传“掏耳朵”养护作业视频：系 AI 合成，佛耳内并无所谓“杂物”",
-   "summary": "IT之家 10 月 4 日消息，近期网络上流传一段所谓“乐山大佛开展养护作业”短视频，其中显示文保工人正在给大佛“掏耳朵”，佛耳里掏出鸽子和腐叶，鼻孔里清理出大量腐叶等物质，旁边还有一只猴子在佛身上上蹿下跳，猴子还抢工人的安全帽戴在自己头上。对此，乐山大佛文物保护（景区）管委会回应媒体“四川观察”，称相应视频不实，系他",
-   "link": "https://www.ithome.com/1/009/728.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 21:20",
-   "ts": 1791120018
   },
   {
    "id": "f98d3c206b611ce62591c48d970cab58",
@@ -1343,7 +1356,7 @@
   {
    "id": "b2f4a7c23b312ad1f2de434faa293b99",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 552\n# Comments: 268",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 563\n# Comments: 270",
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1395,7 +1408,7 @@
   {
    "id": "6c0c163721146c3be48644c9ffb10866",
    "title": "Bill Draper has died",
-   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 64\n# Comments: 18",
+   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 65\n# Comments: 17",
    "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1484,19 +1497,6 @@
    "ts": 1791114120
   },
   {
-   "id": "f6f7b213a372370c39fd526e2bc3e2d5",
-   "title": "Is your phone not charging? Try this simple fix before paying for a repair",
-   "summary": "How to clean your phone’s USB-C port and fix charging.",
-   "link": "https://www.androidauthority.com/usb-c-port-cleaning-3716899/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 19:00",
-   "ts": 1791111650
-  },
-  {
    "id": "101fa450bf2d1dcfa85646b0b24731cd",
    "title": "Taylor stars as Colts cruise past Commanders in NFL's return to London",
    "summary": "Jonathan Taylor scored twice as Indianapolis Colts overcame Washington Commanders 30-13 at the Tottenham Hotspur Stadium to open this year's triple-header of NF",
@@ -1508,19 +1508,6 @@
    "urgent": false,
    "fetched_at": "10-04 18:59",
    "ts": 1791111540
-  },
-  {
-   "id": "265b995d9348e9eb003cd2f7a2a0909c",
-   "title": "Your Samsung Gallery app finally syncs with Google Photos — how to set it up right now",
-   "summary": "For better or worse, OneDrive's gone.",
-   "link": "https://www.androidauthority.com/samsung-gallery-google-photos-sync-how-use-3717795/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 18:30",
-   "ts": 1791109816
   },
   {
    "id": "6afc29803bdd833845fc7538df0ca9b6",
@@ -1937,19 +1924,6 @@
    "urgent": false,
    "fetched_at": "10-04 02:43",
    "ts": 1791053037
-  },
-  {
-   "id": "05fe2d8d644b1b0fe1b54032e0dd5dc0",
-   "title": "The Best Deals Today: Trails in the Sky 1st Chapter, Shuten Order, MLB The Show 26, and More",
-   "summary": "",
-   "link": "https://www.ign.com/articles/best-deals-for-october-3-2026",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 02:32",
-   "ts": 1791052354
   },
   {
    "id": "2641bc9671a244448954d2b33ffea58d",
@@ -2535,6 +2509,32 @@
    "urgent": false,
    "fetched_at": "10-03 05:43",
    "ts": 1790977424
+  },
+  {
+   "id": "a1fceeef74b0778bed6beb188ff7aa47",
+   "title": "Deal: Samsung Galaxy S26 FE gets its first price cut",
+   "summary": "Save on the new Samsung Galaxy S26 FE at Amazon and get a 6.7-inch AMOLED display, 120Hz refresh rate, and Galaxy AI.",
+   "link": "https://www.androidauthority.com/deal-samsung-galaxy-s26-fe-3718767/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:40",
+   "ts": 1790977247
+  },
+  {
+   "id": "dc44b8c92d536b5745a44d73ae58e106",
+   "title": "Android Auto’s signal bars are finally returning to dashboards",
+   "summary": "Android Auto's signal bars were missing for months, but a fix is finally here.",
+   "link": "https://www.androidauthority.com/android-auto-signal-bar-icon-return-3718732/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 05:12",
+   "ts": 1790975568
   },
   {
    "id": "d74aff60047cc46fb360229e55cad41d",
