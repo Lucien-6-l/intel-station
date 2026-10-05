@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 21:08",
- "total": 246,
+ "updated_at": "2026-10-05 21:43",
+ "total": 258,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,6 +10,7 @@
   "数码",
   "汽车",
   "游戏",
+  "科学",
   "财经"
  ],
  "items": [
@@ -27,6 +28,175 @@
    "ts": 1791207900
   },
   {
+   "id": "bf25801833e93f0aac8573410cec838f",
+   "title": "精粤发布 B650 扩展卡 Xscale.io，提供 4 个 M.2、2.5GbE RJ-45 与 USB",
+   "summary": "IT之家 10 月 5 日消息，精粤 (JGINYUE) 今日正式发布了其基于 AMD B650 芯片组 \"Promontory 21\" 的扩展卡产品 Xscale.io。该产品共有 4 个 M.2 SSD 盘位，正面两个均为 PCIe Gen4 ×4、反面两个分别为 PCIe Gen3 ×2 和 PCIe Gen3 ",
+   "link": "https://www.ithome.com/1/009/878.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 21:40",
+   "ts": 1791207636
+  },
+  {
+   "id": "cdee21a1387ccacec39312a2be64234a",
+   "title": "宝马首款纯电 M3 伪装官图公布，新世代设计语言",
+   "summary": "IT之家 10 月 5 日消息，今日，宝马发布了即将问世的纯电 M3 最新官图，这批图片的曝光度为迄今最高，即便车身覆盖伪装，也可以清晰窥见新车的设计走向。IT之家注意到，新车的设计思路与今年 6 月亮相的概念车高度相近，量产版本收敛了概念车上的激进设计，保留了概念车充满力量感的整车姿态，但空气动力学套件有所收敛，取消",
+   "link": "https://www.ithome.com/1/009/877.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:36",
+   "ts": 1791207392
+  },
+  {
+   "id": "335cda2276a35b87869bbbbc4cb37e2a",
+   "title": "Saints vs. Falcons where to watch: Michael Penix Jr. leads Atlanta into New Orleans",
+   "summary": "The NFC South rivals meet Monday night in New Orleans as Michael Penix Jr. and the Falcons look to build on their first win of the season",
+   "link": "https://www.cbssports.com/nfl/news/saints-vs-falcons-how-to-watch-tv-channel-live-stream-kickoff-time-prediction/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:34",
+   "ts": 1791207248
+  },
+  {
+   "id": "da2fdb35d84464c7755af2078f16453a",
+   "title": "Yankees vs. Rays ALDS Game 2 parlay, MLB picks: Runs likely at a premium behind Cam Schlittler, Freddy Peralta",
+   "summary": "It's a pair of standout pitchers on the mound tonight when the Yankees try to avoid a 2-0 ALDS hole at the Rays",
+   "link": "https://www.cbssports.com/betting/news/yankees-vs-rays-alds-game-2-parlay-mlb-picks-runs-likely-at-a-premium-behind-cam-schlittler-freddy-peralta/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:31",
+   "ts": 1791207093
+  },
+  {
+   "id": "51bfa1ece23d686a8c2515679aaf8703",
+   "title": "Karoline Leavitt is Latest Trump Administration Official to Join Fox News",
+   "summary": "Karoline Leavitt, the former Trump administration press secretary who spent much of her time chastising and denigrating the journalists who asked her questions,",
+   "link": "https://variety.com/2026/tv/news/karoline-leavit-fox-news-contrbutor-1236899073/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:31",
+   "ts": 1791207081
+  },
+  {
+   "id": "ea5471af44d18112da2aab4629978f10",
+   "title": "蓝宝石为其 AMD Radeon RX 7000 系列显卡推送固件更新，包含安全改进",
+   "summary": "IT之家 10 月 5 日消息，蓝宝石科技 (SAPPHIRE) 近日为其 AMD Radeon RX 7000 系列独立显卡推送固件更新。IT之家注意到，此次更新覆盖 Radeon RX 7900 XTX / 7900 XT / 7900 GRE / 7800 XT / 7700 XT / 7650 GRE / 76",
+   "link": "https://www.ithome.com/1/009/876.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:25",
+   "ts": 1791206739
+  },
+  {
+   "id": "d09295ce046fd51de92225a75cc823a4",
+   "title": "‘Bowie80’ to Celebrate David Bowie’s 80th Birthday With Events, Exhibits, Releases and More Throughout 2027",
+   "summary": "The late, legendary musician David Bowie will have his 80th birthday celebrated with a series of events, exhibits, releases, collaborations and experiences begi",
+   "link": "https://variety.com/2026/music/news/bowie80-david-bowie-80th-birthday-events-1236898767/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:22",
+   "ts": 1791206521
+  },
+  {
+   "id": "9758c85dff0c89e082154c1b5c1ceb95",
+   "title": "Oppo K15s and K15x debut in China with familiar specs",
+   "summary": "The Oppo K15 series has two additional members in China: the K15s and K15x. While new in name, the pair share their key hardware with previously launched Oppo m",
+   "link": "https://www.gsmarena.com/oppo_k15s_and_k15x_debut_in_china_with_familiar_specs_-news-74906.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:21",
+   "ts": 1791206462
+  },
+  {
+   "id": "ff33755258077ddaa2d7fcf07687e596",
+   "title": "2026 MLB playoff bracket: Schedule, scores, where to watch with Division Series underway",
+   "summary": "Eight teams remain in the 2026 MLB playoffs, with the best-of-five LDS round underway",
+   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:17",
+   "ts": 1791206268
+  },
+  {
+   "id": "1329968ea5372365e5ab1b030ef50f09",
+   "title": "John Ternus writes post celebrating Steve Jobs on anniversary of passing",
+   "summary": "Apple CEO John Ternus, as well as former CEO Tim Cook, have shared posts in remembrance of Steve Jobs today on the 15th anniversary of his passing. Here’s what ",
+   "link": "https://9to5mac.com/2026/10/05/john-ternus-writes-post-celebrating-steve-jobs-on-anniversary-of-passing/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:13",
+   "ts": 1791206025
+  },
+  {
+   "id": "10b370d4576e985e93280b4e9f6e660c",
+   "title": "Huawei and Qualcomm sign patent cross-licensing deal for 5G, AI and other tech",
+   "summary": "Huawei and Qualcomm just signed a broad, multi-year cross-licensing agreement that covers 5G, compute, AI and networking technologies developed by the two compa",
+   "link": "https://www.gsmarena.com/huawei_and_qualcomm_sign_patent_crosslicensing_deal_for_5g_ai_and_other_tech-news-74900.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:11",
+   "ts": 1791205862
+  },
+  {
+   "id": "0c142b1e020021c51bda3c81531f8d10",
+   "title": "STAT+: Pharmalittle: We’re reading about a Vaxcyte pneumococcal shot, increasing pharma M&A, and more",
+   "summary": "Vaxcyte said its pneumococcal vaccine hit the primary endpoints in a Phase 3 clinical trial, setting up a competition with Pfizer and Merck",
+   "link": "https://www.statnews.com/pharmalot/2026/10/05/vaxcyte-pneumococcal-vaccine-rising-pharma-mergers-acquisitions/?utm_campaign=rss",
+   "source": "STAT News",
+   "channel": "健康",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:10",
+   "ts": 1791205803
+  },
+  {
+   "id": "92bc1921ee7ad0b57ba1b479331f5c89",
+   "title": "Saints vs. Falcons SGP: 'Monday Night Football' same-game parlay picks, bets, props from SportsLine AI",
+   "summary": "SportsLine's Machine Learning Model AI reveals its 'Monday Night Football' SGP for Atlanta vs. New Orleans",
+   "link": "https://www.cbssports.com/betting/news/saints-falcons-sgp-monday-night-football-same-game-parlay-picks-bets-props/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:09",
+   "ts": 1791205769
+  },
+  {
    "id": "d3c0ea9aa37e9e4169f7a2139786b4a9",
    "title": "Mark Thompson to Remain at CNN Following Skydance’s Warner Buy",
    "summary": "Mark Thompson said Monday that he would remain in charge of CNN following the purchase of the new giant&#8217;s parent, Warner Bros. Discovery, by Skydance, a m",
@@ -42,11 +212,11 @@
   {
    "id": "083392d8ed5932345aeb8dbe80da12ff",
    "title": "David Ellison Unveils Skydance Team Who Will Run Paramount-Warner Bros. Empire",
-   "summary": "Skydance announced the executive leadership for the combined Paramount-Warner Bros. Discovery.",
+   "summary": "The C-suite will be a mix of Warners insiders like Casey Bloys and JB Perrette along with Paramount film chiefs Dana Goldberg and Josh Greenstein and TV exec Ge",
    "link": "https://www.hollywoodreporter.com/business/business-news/skydance-executive-team-set-david-ellison-deal-close-1236722100/",
    "source": "好莱坞报道",
    "channel": "娱乐·影视",
-   "category": "发布/大事件",
+   "category": "资讯",
    "weight": 2,
    "urgent": false,
    "fetched_at": "10-05 21:08",
@@ -66,6 +236,19 @@
    "ts": 1791205691
   },
   {
+   "id": "8c97e52af0c09b4e9c6be3e178d58c3b",
+   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Falcons vs. Saints Monday Night Football",
+   "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Saints vs. Falcons, Monday Night Football",
+   "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-falcons-vs-saints-monday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:07",
+   "ts": 1791205678
+  },
+  {
    "id": "fa4143c00f6c80795a3ab360e3a3629c",
    "title": "David Ellison Names Skydance Corp.’s New Leadership Team for Movies, TV, Streaming and More",
    "summary": "David Ellison, on the eve of officially closing the Paramount-Warner Bros. Discovery merger to form Skydance Corp., has announced his picks for the senior execs",
@@ -77,6 +260,32 @@
    "urgent": false,
    "fetched_at": "10-05 21:05",
    "ts": 1791205528
+  },
+  {
+   "id": "251389ede51ff9874486642993778aba",
+   "title": "Superstar injury updates from NFL Week 4; Alabama, Florida CFP paths diverge",
+   "summary": "Plus, winners and losers from MLB and WNBA playoffs",
+   "link": "https://www.cbssports.com/nfl/news/superstar-injury-updates-from-nfl-week-4-alabama-florida-cfp-paths-diverge/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:04",
+   "ts": 1791205456
+  },
+  {
+   "id": "6c1f99162ea54f7ac1b4a07580ab51a3",
+   "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+   "summary": "Article URL: https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped\nComments URL: https://news.yco",
+   "link": "https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:02",
+   "ts": 1791205345
   },
   {
    "id": "ceebcf431bfb9400834f9dec38cce542",
@@ -93,7 +302,7 @@
   },
   {
    "id": "4021d561686b3a0d8285f188a1185ea1",
-   "title": "英伟达 RTX Spark 笔记本 OLED 屏幕供应商曝光：三星七款、LG 一款",
+   "title": "英伟达 RTX Spark 笔记本 OLED 屏幕供应商曝光：三星六款、LG 一款",
    "summary": "IT之家 10 月 5 日消息，据 thelec 今日援引行业消息，基于英伟达 RTX Spark 平台、搭载 OLED 屏的 7 款主流 AI 笔记本，全部采用三星显示与 LG 显示的面板。其中三星显示供应 6 款机型，LG 显示供应 1 款。三星显示面板应用于惠普 OmniBook Ultra 16、OmniBoo",
    "link": "https://www.ithome.com/1/009/872.htm",
    "source": "IT之家",
@@ -144,6 +353,19 @@
    "ts": 1791205200
   },
   {
+   "id": "55c62611979d517cbd5d218dfbc4a5ae",
+   "title": "Gitframes",
+   "summary": "Article URL: https://github.com/gatewai-dev/gitframes\nComments URL: https://news.ycombinator.com/item?id=49964265\nPoints: 5\n# Comments: 4",
+   "link": "https://github.com/gatewai-dev/gitframes",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:59",
+   "ts": 1791205154
+  },
+  {
    "id": "9a39219029078c465d5ce824f9fb6360",
    "title": "消息称三星 Galaxy S27 Ultra 手机将提供“罗兰紫”特殊配色，预计作为官网专属颜色提供",
    "summary": "IT之家 10 月 5 日消息，消息源 @i冰宇宙 发文，透露三星 Galaxy S27 Ultra 除了提供蓝色、黑色、浅粉色、白色四款基础配色可选，同时还拥有一款“罗兰紫”特殊配色，预计该配色可能作为三星官网专属配色提供。此前消息显示，三星 Galaxy S27 系列手机预计将在 2027 年初正式发布，其中 Pr",
@@ -157,17 +379,17 @@
    "ts": 1791204991
   },
   {
-   "id": "034b2cf7ad9b443377fe6ed3bdb0d674",
-   "title": "Accept 'bad things' in return for benefits of AI, says Sam Altman",
-   "summary": "Article URL: https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks\nComments URL: https://news.ycombinator.com/item?id=499",
-   "link": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-   "source": "Hacker News",
-   "channel": "AI·科技",
+   "id": "f109098ff6de2ea27a4a3e1fa6eb0aa9",
+   "title": "'Monday Night Football' prediction, odds, spread, time: Falcons vs. Saints picks from expert on 22-12 run",
+   "summary": "Larry Hartstein reveals his picks for Atlanta Falcons vs. New Orleans Saints in the 2026 Week 4 'Monday Night Football' matchup",
+   "link": "https://www.cbssports.com/betting/news/monday-night-football-prediction-odds-spread-time-falcons-saints-expert-picks/",
+   "source": "CBS Sports",
+   "channel": "体育",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-05 20:56",
-   "ts": 1791204978
+   "fetched_at": "10-05 20:54",
+   "ts": 1791204869
   },
   {
    "id": "d130146b09d023271c43d3df1d419b18",
@@ -285,6 +507,19 @@
    "urgent": false,
    "fetched_at": "10-05 20:38",
    "ts": 1791203900
+  },
+  {
+   "id": "76cb958fe12162f6202b8cd5837d2c53",
+   "title": "Tell HN: Uceprotect is extorting website owners",
+   "summary": "I recently discovered by accident that our website was being blocked by Orange's security filters.After a quick check, I found that our IP address is listed on ",
+   "link": "https://news.ycombinator.com/item?id=49964045",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:35",
+   "ts": 1791203755
   },
   {
    "id": "661090c0b2fc41c117e1a966b360acbf",
@@ -638,19 +873,6 @@
    "ts": 1791201182
   },
   {
-   "id": "8d61b96ebb8bd0dbeef78930dbfdd7d5",
-   "title": "Wilson's 2027 NFL mock draft: Arch Manning falls out of Round 1 where five QBs are taken",
-   "summary": "Jeremiah Smith leads a loaded class with five QBs landing in the first round",
-   "link": "https://www.cbssports.com/nfl/draft/news/2027-nfl-mock-draft-arch-manning-first-round-quarterback/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:52",
-   "ts": 1791201150
-  },
-  {
    "id": "36f86671495bb70490dc7283035c7ace",
    "title": "Doctor Who Ex-Showrunner Says He's Not Bothered About Walking Away With His Cliffhanger Ending Left Unresolved",
    "summary": "Doctor Who ex-showrunner Russell T Davies has described his unresolved cliffhanger ending as \"a piece of p***\" for the series' next production team to resolve.",
@@ -662,19 +884,6 @@
    "urgent": false,
    "fetched_at": "10-05 19:50",
    "ts": 1791201034
-  },
-  {
-   "id": "38085d40f574b1fcf0a9cce6e4275ac6",
-   "title": "College football score predictions for Week 6, 2026: Model backs Kentucky (+10) against LSU",
-   "summary": "SportsLine's model has revealed its 2026 Week 6 college football score predictions for Alabama vs. Georgia, Oregon vs. UCLA and more",
-   "link": "https://www.cbssports.com/betting/news/college-football-score-predictions-picks-week-6-2026/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:45",
-   "ts": 1791200738
   },
   {
    "id": "3e1a011e20a3caf6644a4ae932802d0e",
@@ -703,32 +912,6 @@
    "ts": 1791200340
   },
   {
-   "id": "0c4ee23756d9f7122dfded40bd1a3de6",
-   "title": "Cover 32: Packers don't instill any faith on possible playoff run, plus game balls, biggest gaffes from Week 4",
-   "summary": "Tyler Sullivan dives into all the biggest items from Week 4 in the NFL, including CeeDee Lamb's historic day and Mike Vrabel's bizarre tiff",
-   "link": "https://www.cbssports.com/nfl/news/nfl-cover-32-packers-ceedee-lamb-week-4/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:34",
-   "ts": 1791200057
-  },
-  {
-   "id": "c62165595b273291f106e49f7f7e47fc",
-   "title": "三星 W27 心系天下折叠屏手机发布会预计 10 月 29 日举行，线下已开启预定",
-   "summary": "IT之家 10 月 5 日消息，今日，有三星授权体验店发布预告，心系天下 W27 新品发布会将于 10 月 29 日举行。消息显示，新机预计将于 11 月 5 日开启首批门店取机，高端旗舰折叠现开启优先预定。预交订金锁定首批现货，优先选配色，名额有限，先订先得。按照以往惯例，三星 W27 心系天下手机预计基于 Gala",
-   "link": "https://www.ithome.com/1/009/863.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-05 19:33",
-   "ts": 1791200018
-  },
-  {
    "id": "1c746a9896cdcaf37c25ae2a8aeb0e19",
    "title": "Jack O’Connell and Odessa A’zion to Play Flat-Earthers in ‘The End of the World as We Know It’ for Studiocanal, Working Title and ‘An Irish Goodbye’ Oscar Winners (EXCLUSIVE)",
    "summary": "Ross White and Tom Berkeley, the filmmaking duo behind the Oscar and BAFTA winning short film &#8220;An Irish Goodbye,&#8221; have teamed up with Studiocanal, W",
@@ -742,32 +925,6 @@
    "ts": 1791199800
   },
   {
-   "id": "c2b534903a1fc5b355adfd94b9f61a18",
-   "title": "Southern Miss vs. Troy prediction, odds, time: Week 6 college football Tuesday picks by proven model",
-   "summary": "The SportsLine Projection Model has revealed its best bets for the Tuesday Sun Belt matchup between the Southern Miss Golden Eagles vs. Troy Trojans",
-   "link": "https://www.cbssports.com/betting/news/southern-miss-troy-prediction-odds-time-week-6-college-football-tuesday-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:26",
-   "ts": 1791199572
-  },
-  {
-   "id": "36ab5d06695ece049b47a0ef86610890",
-   "title": "College football odds, picks, predictions for Week 6, 2026: Computer likes Arkansas, Nebraska",
-   "summary": "SportsLine's model has revealed its 2026 Week 6 college football picks for matchups such as Alabama vs. Georgia, Oregon vs. UCLA and LSU vs. Kentucky",
-   "link": "https://www.cbssports.com/betting/news/college-football-odds-picks-predictions-week-6-2026/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:23",
-   "ts": 1791199395
-  },
-  {
    "id": "98f67984aaa9d40d90b3631bf003ac5e",
    "title": "Android Auto could soon stop working on millions of phones",
    "summary": "Android 10 users are starting to see warnings that support will end soon.",
@@ -779,32 +936,6 @@
    "urgent": false,
    "fetched_at": "10-05 19:22",
    "ts": 1791199354
-  },
-  {
-   "id": "9cf00dab81429fa01b117783ef0502ff",
-   "title": "Yankees vs. Rays prediction, odds, time: 2026 ALDS Game 2 picks by proven model",
-   "summary": "SportsLine's model simulated Rays vs. Yankees in the AL Divisional Series as the 2026 MLB playoffs continue Monday",
-   "link": "https://www.cbssports.com/betting/news/yankees-rays-prediction-odds-time-2026-alds-game-2-mlb-playoff-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:17",
-   "ts": 1791199039
-  },
-  {
-   "id": "f32249e279b55d0f14b8e4b6f4ae0564",
-   "title": "Guardians vs. White Sox prediction, odds, time: 2026 ALDS Game 2 picks by proven model",
-   "summary": "SportsLine's model simulated White Sox vs. Guardians in the American League Divisional Series as the 2026 MLB playoffs continue on Monday",
-   "link": "https://www.cbssports.com/betting/news/guardians-white-sox-prediction-odds-time-2026-alds-game-2-mlb-playoff-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:15",
-   "ts": 1791198930
   },
   {
    "id": "f8fec38f92a67b83f1f3723e5c237b52",
@@ -911,19 +1042,6 @@
    "ts": 1791197226
   },
   {
-   "id": "4c69db1580155441701231c012f97db7",
-   "title": "Spotify 提前泄露《GTA 6》原声带艺人信息：Cardi B 与 Fuerza Regida 确认加入阵容",
-   "summary": "IT之家 10 月 5 日消息，随着《GTA 6》发售日期临近，游戏原声带的更多信息也陆续曝光。Spotify 近日提前泄露了两名将参与《GTA 6》原声带的音乐艺人信息 Cardi B 和 Fuerza Regida，引发玩家讨论。目前 Rockstar Games 仅正式公布了 34 首歌曲中的 6 首，剩余 28",
-   "link": "https://www.ithome.com/1/009/861.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:44",
-   "ts": 1791197079
-  },
-  {
    "id": "aaf24589811f215dbfb1b6f7961cd747",
    "title": "France’s Canal+ Threatens to Pull $1.1 Billion Cinema Deal Over French Tax Hike",
    "summary": "Canal+ Group chairman Maxime Saada has warned that the pay TV banner could pull out of its €1 billion ($1.1 billion) investment deal with the French film indust",
@@ -935,19 +1053,6 @@
    "urgent": false,
    "fetched_at": "10-05 18:43",
    "ts": 1791196988
-  },
-  {
-   "id": "f479003d2e20c1221842e54e13a62892",
-   "title": "通用汽车推出 2027 款雪佛兰 Silverado 1500/GMC Sierra 1500 车型，将 CarPlay / Android Auto 整合入自家车机卡片",
-   "summary": "IT之家 10 月 5 日消息，通用汽车此前曾多次释放信号，暗示未来可能逐步在旗下车型中放弃苹果 CarPlay 和谷歌 Android Auto 车联功能。不过根据外媒 Carbuzz 报道，通用汽车目前仍在 2027 款雪佛兰 Silverado 1500 和 GMC Sierra 1500 车型上保留了苹果 Ca",
-   "link": "https://www.ithome.com/1/009/860.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:39",
-   "ts": 1791196744
   },
   {
    "id": "b2558d25d8c55278379e43035354737e",
@@ -965,7 +1070,7 @@
   {
    "id": "75cb8a66c04957898938155783d505d2",
    "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-   "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49963094\nPoints: 50\n# Comments: 1",
+   "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49963094\nPoints: 57\n# Comments: 1",
    "link": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1030,7 +1135,7 @@
   {
    "id": "5b7ae3f4d353c7d7288399122933be2c",
    "title": "Apple and a Hacker's Future",
-   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 85\n# Comments: 54",
+   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 92\n# Comments: 70",
    "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1301,19 +1406,6 @@
    "ts": 1791187776
   },
   {
-   "id": "f6c6397c0a0cf32c19cfac972f4464d3",
-   "title": "John de Mol’s Formats Giant Talpa Studios Heads to Mipcom With New Shows ‘Sing With Me,’ ‘The Golden Elevators’ (EXCLUSIVE)",
-   "summary": "John de Mol’s Talpa Studios, whose hit formats include quiz show “The Floor,” is heading to next week’s TV market Mipcom with a slate of new entertainment forma",
-   "link": "https://variety.com/2026/tv/global/talpa-studios-mipcom-sing-with-me-the-golden-elevators-1236898478/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 16:00",
-   "ts": 1791187200
-  },
-  {
    "id": "4cf3d8b81ba1deb2402d0e7e94eacc8d",
    "title": "Movies With “Real Political Messages” Underneath the Surface, Animation and More: What Not to Miss at London Film Fest",
    "summary": "Kristy Matheson previews key highlights and stars featured in the 70th edition and why she doesn't agree with people having \"a grumble about how it doesn't seem",
@@ -1329,7 +1421,7 @@
   {
    "id": "f3d78edab88a060c1d1eeb190a672a1a",
    "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 92\n# Com",
+   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 98\n# Com",
    "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1351,19 +1443,6 @@
    "urgent": false,
    "fetched_at": "10-05 15:32",
    "ts": 1791185520
-  },
-  {
-   "id": "b17a81c17cc44b48f49e9748e0432cea",
-   "title": "ITV Studios Travels to Mipcom With 10 New Titles on Its Formats Slate, Led by ‘The Chase Around the World’ (EXCLUSIVE)",
-   "summary": "ITV Studios has unveiled 10 new titles on its Mipcom formats slate, led by “The Chase Around the World,” and also revealed the unscripted lineup, which includes",
-   "link": "https://variety.com/2026/tv/global/itv-studios-mipcom-formats-slate-the-chase-around-the-world-1236898689/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:30",
-   "ts": 1791185400
   },
   {
    "id": "79519ea3942ee9314cb663840a5c5d92",
@@ -1429,19 +1508,6 @@
    "urgent": false,
    "fetched_at": "10-05 13:31",
    "ts": 1791178306
-  },
-  {
-   "id": "51ff97dab6bb1ce0f06918ce5eeeeb95",
-   "title": "Replacement of petroleum based products with plant-based materials (2025)",
-   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 87\n# Comments: 44",
-   "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 13:09",
-   "ts": 1791176983
   },
   {
    "id": "f00a225f9533e8e4cfd8af016247d7b0",
@@ -1574,6 +1640,45 @@
    "ts": 1791161905
   },
   {
+   "id": "dd04eaad30409f47d35b926f772fe5f0",
+   "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light: live updates",
+   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03091-2Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology ",
+   "link": "https://www.nature.com/articles/d41586-026-03091-2",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-05 08:00",
+   "ts": 1791158400
+  },
+  {
+   "id": "a06000fb863533e0e0a482adfd6949a5",
+   "title": "How big tech is building a military–industrial complex in the age of AI",
+   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03134-8Two books explore how warfare is being reshaped, with influence shifting from states to",
+   "link": "https://www.nature.com/articles/d41586-026-03134-8",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-05 08:00",
+   "ts": 1791158400
+  },
+  {
+   "id": "7312eacd1cd3f8f15b5b158e784c7395",
+   "title": "AI biohazard hype must not divert attention from the real risks we face now",
+   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03135-7Twenty-five years after the US anthrax attacks, fears around AI are distracting people ",
+   "link": "https://www.nature.com/articles/d41586-026-03135-7",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-05 08:00",
+   "ts": 1791158400
+  },
+  {
    "id": "fc1cf557572c4b37d59fbeb791144269",
    "title": "Mighty Mike Plays Dad Says He Owns 'Like 12 Companies,' Promises Refunds for AI Shirts",
    "summary": "Mighty Mike Plays dad Dave has promised refunds and issued a lengthy explanation after the internet demanded more information about the YouTube ads allegedly pu",
@@ -1693,7 +1798,7 @@
   {
    "id": "2e52209d54610fcee4461e07dfed5f5a",
    "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 171\n# Comments: 19",
+   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 179\n# Comments: 20",
    "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1741,19 +1846,6 @@
    "urgent": false,
    "fetched_at": "10-05 04:00",
    "ts": 1791144000
-  },
-  {
-   "id": "42d1ad500220192635b03238c099c52f",
-   "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 644\n# Comments: 439",
-   "link": "https://github.com/omlahore/RemoveMacAI",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 03:42",
-   "ts": 1791142945
   },
   {
    "id": "dd1929a961d381687e79a1e73c22a716",
@@ -2172,19 +2264,6 @@
    "ts": 1791109441
   },
   {
-   "id": "4b7426f1ddd7864af6ecaca785a07207",
-   "title": "Deals: Amazon's early Prime Deals slash the prices of foldables and flagships",
-   "summary": "Amazon will kick off Prime Deal Days on October 6 (Tuesday next week). The sales event will run for two days, but you don’t have to wait for it to start as the ",
-   "link": "https://www.gsmarena.com/deals_amazons_early_prime_deals_slash_the_prices_of_foldables_and_flagships-news-74876.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 17:31",
-   "ts": 1791106262
-  },
-  {
    "id": "2dc7528a8b598676b88d09a155e4844d",
    "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
    "summary": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。查看全文",
@@ -2209,19 +2288,6 @@
    "urgent": false,
    "fetched_at": "10-04 15:08",
    "ts": 1791097698
-  },
-  {
-   "id": "8664a39177ff5bb919604a8d24a98410",
-   "title": "This is when the Honor Magic9 series is landing in Europe",
-   "summary": "Honor launched the Magic9, Magic9 Super, and Magic9 Pro Max in China a few days ago. If the devices interest you, you may want to know when to expect them to ar",
-   "link": "https://www.gsmarena.com/this_is_when_the_honor_magic9_series_is_landing_in_europe-news-74887.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 14:31",
-   "ts": 1791095462
   },
   {
    "id": "e3fbd658118963c5c640fd5083f0d871",
@@ -2313,19 +2379,6 @@
    "urgent": false,
    "fetched_at": "10-04 08:53",
    "ts": 1791075209
-  },
-  {
-   "id": "cc9ab564ef5d4b409b59351501263cfc",
-   "title": "Gemini app limiting what models free & AI Plus users can access, AI Pro adding Deep Think",
-   "summary": "Following the compute-based usage change in May, Google will soon introduce limits on which Gemini models free users and AI Plus subscribers can access.\n\n\n\n mor",
-   "link": "https://9to5google.com/2026/10/03/gemini-model-limits-oct-26/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 05:26",
-   "ts": 1791062792
   },
   {
    "id": "576adbf735ce9f0dc10efdfb3fd452ed",
@@ -2560,58 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-03 20:48",
    "ts": 1791031686
-  },
-  {
-   "id": "425aa844cf154db9d0c3cd2e6ed00e13",
-   "title": "从美光财报谈谈市场需要什么预期",
-   "summary": "",
-   "link": "http://xueqiu.com/5332385101/411250110",
-   "source": "雪球",
-   "channel": "财经",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 20:47",
-   "ts": 1791031679
-  },
-  {
-   "id": "b37cb5146ca805dea98999576e724232",
-   "title": "View Photos of the 1978 Subaru Wagon Through Baja",
-   "summary": "See photos of the 1978 Subaru wagon through Baja from every angle.",
-   "link": "https://www.caranddriver.com/photos/a73963655/1978-subaru-wagon-through-baja-archive-feature-gallery/",
-   "source": "Car and Driver",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 20:47",
-   "ts": 1791031635
-  },
-  {
-   "id": "f9cf0d1346d718d2a570a29f9483c46e",
-   "title": "1978 Subaru Wagon Through Baja: Only the Strong Survive",
-   "summary": "And that should tell you something about our four-wheel-drive Subaru.",
-   "link": "https://www.caranddriver.com/features/a73924282/1978-subaru-wagon-through-baja-archive-feature/",
-   "source": "Car and Driver",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 20:47",
-   "ts": 1791031631
-  },
-  {
-   "id": "56a156f733076ace66b849f72bc6e6c6",
-   "title": "Quiz: Operator and Function Overloading in Custom Python Classes",
-   "summary": "Test your understanding of operator and function overloading in Python. Practice the dunder methods that make your classes work with built-ins.",
-   "link": "https://realpython.com/quizzes/operator-function-overloading/",
-   "source": "Real Python",
-   "channel": "教程",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 20:00",
-   "ts": 1791028800
   }
  ]
 }
