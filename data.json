@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 12:07",
- "total": 259,
+ "updated_at": "2026-10-05 12:56",
+ "total": 250,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,10 +10,74 @@
   "数码",
   "汽车",
   "游戏",
-  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "687b763b0d920ddb4f882238d3778f33",
+   "title": "华米 Amazfit 智能手表 T-Rex Dual Solar 上架：双面太阳能充电系统，4499 元",
+   "summary": "IT之家 10 月 5 日消息，华米 Amazfit 智能手表 T-Rex Dual Solar 现已上架电商平台，标价 4499 元。该产品搭载双面太阳能充电系统，为长距离多日户外探险设计；典型使用场景续航可达 25 天，在每日 3 小时 50000lux 光照条件下，续航天数可提升至 34 天（正面接触光照） / ",
+   "link": "https://www.ithome.com/1/009/794.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 12:55",
+   "ts": 1791176125
+  },
+  {
+   "id": "dbd6c3c753a9db76701c9bfe5f5f9b2d",
+   "title": "China Box Office: Crime Procedural ‘Traces of Justice’ Leads National Day Frame",
+   "summary": "New Classics Pictures&#8217; crime procedural drama &#8220;Traces of Justice&#8221; took the top spot at the mainland China box office during the Oct. 2–4 weeke",
+   "link": "https://variety.com/2026/film/box-office/china-box-office-traces-of-justice-national-day-1236898842/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 12:49",
+   "ts": 1791175741
+  },
+  {
+   "id": "abef624a81dc871619a118fd52e528d1",
+   "title": "特朗普宣布成立超级智能工作组，谋求维持美国技术领先地位",
+   "summary": "IT之家 10 月 5 日消息，正如此前所承诺的，美国总统唐纳德 · 特朗普已经宣布成立全新的超级智能工作组（Super Intelligence Force）。他表示，该机构将由美国国家情报总监杰伊 · 克莱顿（Jay Clayton）以及本届政府的其他官员牵头负责。特朗普当地时间上周日上午在自己的社交平台“真实社交",
+   "link": "https://www.ithome.com/1/009/792.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 12:39",
+   "ts": 1791175172
+  },
+  {
+   "id": "58c70722b227b08d3eba75beb0da4b44",
+   "title": "迪士尼宣布《复仇者联盟 4》重映后反超《阿凡达》再登全球影史票房冠军，漫威电影累计超 350 亿美元",
+   "summary": "IT之家 10 月 5 日消息，漫威影业今日宣布，《复仇者联盟 4：终局之战》再次夺回全球影史票房冠军。这也意味着，漫威影业出品的 38 部院线电影全球票房累计超 350 亿美元（现汇率约合 2,348.63 亿元人民币），使漫威电影宇宙成为影史上最成功的电影系列。迪士尼当地时间 10 月 4 日公布的数据显示，《复仇",
+   "link": "https://www.ithome.com/1/009/791.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 12:30",
+   "ts": 1791174647
+  },
+  {
+   "id": "5de586a6f55d9ab2ff3785263bcaaf9e",
+   "title": "This is the Fitbit Edge: Google’s next fitness tracker finally spills its secrets",
+   "summary": "The perfect middle ground between Fitbit Air and Pixel Watch 5?",
+   "link": "https://www.androidauthority.com/google-fitbit-edge-leak-3718856/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 12:11",
+   "ts": 1791173481
+  },
   {
    "id": "edc2270b9be32ce809bf1d6c77660e39",
    "title": "德国电力公司推出游戏玩家专属电价套餐：瞄准高耗电家庭，电力 100% 来自可再生能源",
@@ -26,6 +90,19 @@
    "urgent": false,
    "fetched_at": "10-05 12:01",
    "ts": 1791172905
+  },
+  {
+   "id": "50e2243f4437278f492f79b2e045af5e",
+   "title": "NFL Week 4 grades for all 32 teams: Ben Johnson, Bears earn 'A-' despite injury woes; Bengals slip again",
+   "summary": "We're handing out grades for every Week 4 game",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 12:01",
+   "ts": 1791172881
   },
   {
    "id": "8cac73c2e6d7bc28ec5e6bb029ef96d1",
@@ -210,43 +287,17 @@
    "ts": 1791168843
   },
   {
-   "id": "185156729ce0e30218b339e80e920a06",
-   "title": "我国沙漠最大油田，6000 米之下超深油气产量突破 2600 万吨",
-   "summary": "IT之家 10 月 5 日消息，据央视新闻今日从中国石油获悉，我国沙漠最大油田，哈得－富满油田已从 6000 米之下采出油气突破 2600 万吨。塔里木盆地超深地层油气储量丰厚，是我国油气增储上产重要潜力区。我国在塔里木盆地已探明油气储量超过 50 亿吨，其中，超过一半来自超深地层。IT之家从报道获悉，近年来，塔里木油",
-   "link": "https://www.ithome.com/1/009/780.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-05 10:53",
-   "ts": 1791168834
-  },
-  {
-   "id": "7d60c4279d6b82007584bf02a72754a1",
-   "title": "AI 生成的跨游戏混搭模组兴起，资深制作者集体表达不满",
-   "summary": "IT之家 10 月 5 日消息，资深游戏模组（mod）制作者们对互联网模组圈子新近兴起的风潮深感不满，也就是由 AI 生成、所谓的“氛围编码（vibe‑coded）”模组。据 IGN 报道，如今反对的声音正在持续发酵：不少模组制作者（其中一部分人坦然承认自己会使用生成式 AI 辅助编写模组）公开讨论一类混搭模组，这类模",
-   "link": "https://www.ithome.com/1/009/779.htm",
-   "source": "IT之家",
+   "id": "5566a8ccad2390f8144cb2c1bbf6d2d8",
+   "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
+   "summary": "有改进就体验，没改进就重置，横竖不亏。",
+   "link": "https://www.qbitai.com/2026/10/501700.html",
+   "source": "量子位",
    "channel": "AI·科技",
    "category": "资讯",
-   "weight": 2,
+   "weight": 3,
    "urgent": false,
-   "fetched_at": "10-05 10:52",
-   "ts": 1791168724
-  },
-  {
-   "id": "d2576ef49edf4f48ad1167cd6737d7b9",
-   "title": "迈从公布 A7 V3-X 中大手鼠标：雾透渐变配色，nRF54L + PAW3955，日常价 459 元",
-   "summary": "IT之家 10 月 5 日消息，迈从 (MCHOSE) 今日宣布，其中大手三模鼠标新品 A7 V3-X 现已登陆迈从线下门店。该款可选浮影 / 幻樱 2 种雾透渐变配色，日常价 459 元。A7 V3-X 三维 125.8 × 63.2 × 39.7 (mm)，内置 500mAh 电池，覆盖 Super Glide 玻",
-   "link": "https://www.ithome.com/1/009/778.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:43",
-   "ts": 1791168234
+   "fetched_at": "10-05 10:50",
+   "ts": 1791168646
   },
   {
    "id": "5bc5e640d1d724687c5e0b50f2bc37e4",
@@ -353,19 +404,6 @@
    "ts": 1791165248
   },
   {
-   "id": "62c1f496cc96e2ff187d6338c2482e8b",
-   "title": "A tribute to one of the best games on the Atari 2600",
-   "summary": "Article URL: https://plicerin.github.io/riverraid-rom-port/\nComments URL: https://news.ycombinator.com/item?id=49959865\nPoints: 16\n# Comments: 5",
-   "link": "https://plicerin.github.io/riverraid-rom-port/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:54",
-   "ts": 1791165240
-  },
-  {
    "id": "3e6e4ef824e8b39c4593cd0e39cb1f06",
    "title": "Korean Directors Rally Behind ‘The Assassin(s)’ as Political Firestorm Turns on Its Makers",
    "summary": "The Directors Guild of Korea (DGK) has come out in support of the team behind &#8220;The Assassin(s),&#8221; Hur Jin-ho&#8217;s thriller about the 1974 shooting",
@@ -381,7 +419,7 @@
   {
    "id": "e5f1789defb27862d3b2b1792d982eb8",
    "title": "A 40ms Go garbage collector pause caused by swap",
-   "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 7\n# Comments: 0",
+   "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 22\n# Comments: 5",
    "link": "https://frn.sh/go-gc/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -548,19 +586,6 @@
    "ts": 1791157621
   },
   {
-   "id": "7d8eb8fa65e3b59871212efb5c8dd077",
-   "title": "2026 WNBA playoffs bracket, schedule, where to watch: Liberty and Aces both fall in Game 1 of semifinals",
-   "summary": "The Dream beat the Liberty and the Valkyries stifled the Aces on Sunday",
-   "link": "https://www.cbssports.com/wnba/news/2026-wnba-playoffs-bracket-schedule/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:43",
-   "ts": 1791157419
-  },
-  {
    "id": "99b91b5e1e7691489e373d220b2846ee",
    "title": "Zoe Kazan on Honoring Steinbeck’s ‘East of Eden’ for Netflix Series While Rethinking Its Characters",
    "summary": "The series creator explains her decision to build the adaptation around a love story, between brothers, rereading Cathy Ames and how she updated Steinbeck's nov",
@@ -654,7 +679,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 90\n# Comments: 23",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 97\n# Comments: 29",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -663,19 +688,6 @@
    "urgent": false,
    "fetched_at": "10-05 06:25",
    "ts": 1791152710
-  },
-  {
-   "id": "e76663354e9f41907649ed27fcf4c697",
-   "title": "What David Zaslav Got Wrong About ‘Coyote vs. Acme’",
-   "summary": "Three years after “Coyote vs. Acme” was shelved by Warner Bros. as a tax write-off and rescued by indie distributor Ketchup Entertainment, the Looney Tunes come",
-   "link": "https://variety.com/2026/film/box-office/coyote-vs-acme-proves-david-zaslav-wrong-box-office-1236895011/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 06:20",
-   "ts": 1791152452
   },
   {
    "id": "b233366c5ffbf84f4860d6079ecf04d9",
@@ -888,7 +900,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 426\n# Comments: 270",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 459\n# Comments: 284",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -927,7 +939,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 116\n# Comments: 46",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 133\n# Comments: 48",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1029,22 +1041,9 @@
    "ts": 1791136800
   },
   {
-   "id": "e49cb76f32a7dde56f80586a82cabdc8",
-   "title": "Incentives in Academic Research",
-   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 43\n# Comments: 3",
-   "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 01:42",
-   "ts": 1791135758
-  },
-  {
    "id": "d0549b40cf18c06783f4fb0f5d660e7f",
    "title": "Xray-core concealed a certificate verification bypass vulnerability",
-   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 62\n# Comments: 3",
+   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 67\n# Comments: 8",
    "link": "https://github.com/net4people/bbs/issues/672",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1445,6 +1444,19 @@
    "ts": 1791118800
   },
   {
+   "id": "b2f4a7c23b312ad1f2de434faa293b99",
+   "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 664\n# Comments: 309",
+   "link": "https://github.com/Niko1221/Strata",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-04 20:51",
+   "ts": 1791118313
+  },
+  {
    "id": "e63a993205e5992659754025231a5486",
    "title": "The MacBook Air M5 is $200 off for the first time in months",
    "summary": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of stora",
@@ -1482,6 +1494,19 @@
    "urgent": false,
    "fetched_at": "10-04 20:31",
    "ts": 1791117061
+  },
+  {
+   "id": "6c0c163721146c3be48644c9ffb10866",
+   "title": "Bill Draper has died",
+   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 98\n# Comments: 27",
+   "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-04 20:21",
+   "ts": 1791116495
   },
   {
    "id": "a1bee9fa41825175870bfe40d4011228",
@@ -2537,19 +2562,6 @@
    "ts": 1790977247
   },
   {
-   "id": "dc44b8c92d536b5745a44d73ae58e106",
-   "title": "Android Auto’s signal bars are finally returning to dashboards",
-   "summary": "Android Auto's signal bars were missing for months, but a fix is finally here.",
-   "link": "https://www.androidauthority.com/android-auto-signal-bar-icon-return-3718732/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:12",
-   "ts": 1790975568
-  },
-  {
    "id": "d74aff60047cc46fb360229e55cad41d",
    "title": "Kia sweetens EV deals with up to $10,000 off",
    "summary": "With the new EV3 now arriving at dealerships, Kia is throwing some extra savings into the mix with up to $10,000 off in customer cash on select EVs.\n\n\n\n more…",
@@ -2600,19 +2612,6 @@
    "urgent": false,
    "fetched_at": "10-03 03:52",
    "ts": 1790970723
-  },
-  {
-   "id": "dd77e85f4da1fae24f4574ce255dad49",
-   "title": "Can AI Fix Your Chaotic Inbox? I Unleashed It On 200,000 Unread Emails",
-   "summary": "I sifted through a boatload of emails with the help of Gemini.",
-   "link": "https://www.cnet.com/tech/services-and-software/ai-fix-your-inbox-unread-emails/",
-   "source": "CNET",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:43",
-   "ts": 1790970212
   }
  ]
 }
