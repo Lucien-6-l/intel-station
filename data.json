@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 20:05",
- "total": 248,
+ "updated_at": "2026-10-05 20:47",
+ "total": 246,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,9 +10,244 @@
   "数码",
   "汽车",
   "游戏",
+  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "c84d62ee7c2151d6958d25a2f36f7194",
+   "title": "《GTA 6》投入专门团队打造 NPC 路人对话：玩家可鲜明感知游戏世界社会文化风采",
+   "summary": "IT之家 10 月 5 日消息，Rockstar Games 近日公布了更多《GTA 6》细节，强调开发人员对“NPC 路人的背景对话”进行了精心设计。Rockstar Games 叙事部门高级副总裁 Rupert Humphries 在接受 LOVE 杂志采访时透露，在玩家探索罪恶城的过程中，很容易因为急于完成目标而",
+   "link": "https://www.ithome.com/1/009/870.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:46",
+   "ts": 1791204367
+  },
+  {
+   "id": "f2998b792d6b965accd642885c3ea7d0",
+   "title": "Saints vs. Falcons prediction, odds, time: Week 4 'Monday Night Football' picks from proven model",
+   "summary": "SportsLine's model has revealed its Atlanta Falcons vs. New Orleans Saints picks for 'Monday Night Football'",
+   "link": "https://www.cbssports.com/betting/news/saints-vs-falcons-prediction-odds-time-week-4-monday-night-football-picks/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:42",
+   "ts": 1791204173
+  },
+  {
+   "id": "08fc08b339fff1a21048374e13ff563c",
+   "title": "Apple TV doc All of Us shows how iPads enable inclusive learning in a unique school",
+   "summary": "A new documentary available on Apple TV, All of Us, tells the story of a public elementary school that has taken a unique approach to how education works for st",
+   "link": "https://9to5mac.com/2026/10/05/apple-tv-doc-all-of-us-shows-how-ipads-enable-inclusive-learning-in-a-unique-school/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:40",
+   "ts": 1791204004
+  },
+  {
+   "id": "c18a121b9a7cf7a7c9f9575984fdc142",
+   "title": "England to play white-ball warm-up in Australia after pre-Ashes criticism",
+   "summary": "England will play a Western Australia XI in a 50-over warm-up game at the WACA ahead of their ODI series against Australia in November - having been criticised ",
+   "link": "https://www.skysports.com/cricket/news/12040/13595346/england-to-play-warm-up-in-australia-before-november-series-after-criticism-for-lack-of-preparation-ahead-of-ashes",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:40",
+   "ts": 1791204000
+  },
+  {
+   "id": "ef650900a63fc09821e170660253c16a",
+   "title": "The Galaxy S27 Pro could have bad news for Snapdragon fans",
+   "summary": "Is this still a Pro phone with Exynos power?",
+   "link": "https://www.androidauthority.com/samsung-galaxy-s27-pro-exynos-3719108/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:38",
+   "ts": 1791203900
+  },
+  {
+   "id": "661090c0b2fc41c117e1a966b360acbf",
+   "title": "I Got a First Look at Vitamix’s First Juicer, and I’m in Love",
+   "summary": "The MaxExtract has turned me into a juice enthusiast.",
+   "link": "https://www.cnet.com/home/kitchen-and-household/i-got-first-look-vitamix-first-juicer-im-in-love/",
+   "source": "CNET",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:35",
+   "ts": 1791203700
+  },
+  {
+   "id": "58e019bbc8d59d0fbffa5c3e4283506b",
+   "title": "苹果悄悄提升 iCloud 邮箱别名创建上限：从 3 个增至 9 个",
+   "summary": "IT之家 10 月 5 日消息，据外媒 MacRumors 报道，苹果近期悄悄提高了 iCloud 邮箱别名的创建上限，从此前的 3 个提升至 9 个。iCloud 邮箱别名允许用户在不创建全新 iCloud 邮箱账户的情况下，额外生成不同的 @iCloud.com 邮箱地址。用户可以使用这些别名收发邮件，将其用于不同",
+   "link": "https://www.ithome.com/1/009/869.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:31",
+   "ts": 1791203486
+  },
+  {
+   "id": "50e2243f4437278f492f79b2e045af5e",
+   "title": "NFL Week 4 grades for all 32 teams: Ben Johnson, Bears earn 'A-' despite injury woes; Bengals slip again",
+   "summary": "We're handing out grades for every Week 4 game",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:29",
+   "ts": 1791203397
+  },
+  {
+   "id": "df03c90bd354ba99eeceadd49e7290ea",
+   "title": "Sam Altman Says ‘Artificial’ Filmed Outside His House and He Waved at Andrew Garfield: ‘He Did Walk Like Me … I Felt I Was in Some Weird Glitch of the Simulation’",
+   "summary": "OpenAI CEO Sam Altman has never met Andrew Garfield — who is portraying him in Luca Guadagnino&#8217;s upcoming film &#8220;Artificial&#8221; — but he did wave ",
+   "link": "https://variety.com/2026/film/news/sam-altman-artificial-filmed-outside-house-waved-andrew-garfield-1236899020/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:27",
+   "ts": 1791203275
+  },
+  {
+   "id": "dce741039c7155ea12e8e1c603bd0645",
+   "title": "珠海拱北海关查获旅客人身绑藏旧手机 79 台",
+   "summary": "IT之家 10 月 5 日消息，据“海关发布”公众号，拱北海关所属港珠澳大桥海关 9 月 4 日在进境随车厅查获 2 名旅客人身绑藏走私旧手机 79 台。▲ 图源“海关发布”公众号（下同）当日 23 时许，海关关员在进境随车厅监管时，发现两名推着婴儿车的旅客步伐沉重、行为异常，存在人身绑藏走私物品嫌疑。经询问，婴儿车内",
+   "link": "https://www.ithome.com/1/009/868.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:25",
+   "ts": 1791203150
+  },
+  {
+   "id": "8b0776e3a4deb7c0286c6454fd584239",
+   "title": "三星 Galaxy S27 Ultra 基础颜色选项曝光：黑色、蓝色、浅粉色、白色",
+   "summary": "IT之家 10 月 5 日消息，博主 @i冰宇宙 今日曝光三星 Galaxy S27 Ultra 基础颜色选项，分别为黑色、蓝色、浅粉色、白色。三星 Galaxy S27 系列预计将包含 4 款机型，分别为 6.27 英寸的 Galaxy S27、6.66 英寸的 Galaxy S27+、6.47 英寸的 Galaxy",
+   "link": "https://www.ithome.com/1/009/867.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:23",
+   "ts": 1791203018
+  },
+  {
+   "id": "cfaa1eb30bb75da79766bd73a8b7a917",
+   "title": "Prime Day Mac deals start early: New Mac mini $150 off, MacBook Air $200 off, much more",
+   "summary": "Just after catching AirPods Pro 3 dropping to one of the lowest prices to date, the fall Prime Day deals are starting to flood in on the latest Mac releases. We",
+   "link": "https://9to5mac.com/2026/10/05/prime-day-mac-deals-start-early-new-mac-mini-150-off-macbook-air-200-off-much-more/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:23",
+   "ts": 1791203012
+  },
+  {
+   "id": "ef2940ab5dc06b9ae4184886ba748904",
+   "title": "手游《恋与深空》国际服官方账号分享“鸡尾酒配方”，因其中使用有毒植物作为装饰引发争议",
+   "summary": "IT之家 10 月 5 日消息，据外媒 kotaku 报道，近期手游《恋与深空》国际服官方社交账号因分享“有毒鸡尾酒配方”陷入争议。据报道，《恋与深空》国际服官方社交账号本周发布了 5 款以游戏内物品为灵感的鸡尾酒配方，这些饮品大多为无酒精饮料，基础配方包括桃汁、蜂蜜、糖浆和明胶片等，本身并没有太大问题。真正引发争议的",
+   "link": "https://www.ithome.com/1/009/866.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:21",
+   "ts": 1791202894
+  },
+  {
+   "id": "d130146b09d023271c43d3df1d419b18",
+   "title": "Ranking the NBA's best starting fives: 76ers look great on paper, but champion Knicks hold No. 1 spot",
+   "summary": "With the 2026-27 NBA season fast approaching, we're ranking the five best starting units in the league",
+   "link": "https://www.cbssports.com/nba/news/ranking-nba-best-starting-fives-76ers-knicks/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:19",
+   "ts": 1791202774
+  },
+  {
+   "id": "40a92f321fe7fdaa22ab24c402d6c74f",
+   "title": "STAT+: Vaxcyte claims success in bid to beat Pfizer and Merck in lucrative vaccine market",
+   "summary": "Vaxcyte said its experimental pneumococcal vaccine hit the primary endpoints in a Phase 3 clinical trial, setting up the biotech to compete with Pfizer and Merc",
+   "link": "https://www.statnews.com/2026/10/05/vaxcyte-pneumococcal-vaccine-study-pfizer-merck/?utm_campaign=rss",
+   "source": "STAT News",
+   "channel": "健康",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:19",
+   "ts": 1791202751
+  },
+  {
+   "id": "ce69eeff43a596862797f84015f9d401",
+   "title": "Pixel 11’s new Pixel Search app could be coming to older Pixels",
+   "summary": "You might still need to be on Android 17 QPR2 to use the app, which could be bad news for the Pixel 6 and 6 Pro.",
+   "link": "https://www.androidauthority.com/pixel-search-app-older-pixels-apk-teardown-3719097/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:16",
+   "ts": 1791202601
+  },
+  {
+   "id": "338fd01d0cd8bb94f543168333256d67",
+   "title": "Pixel Search could soon get a Gemini-powered upgrade along with privacy improvements",
+   "summary": "The new \"Privacy &#038; Permissions\" section lets you opt out of data collection.",
+   "link": "https://www.androidauthority.com/pixel-search-gemini-suggestions-apk-teardown-3719102/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:11",
+   "ts": 1791202296
+  },
+  {
+   "id": "62d27209a8aec03e6cf539c85b2927cd",
+   "title": "TCL’s paperlike OLED phone made me more excited for the iPhone Duo",
+   "summary": "I've spent most of the last couple weeks using an otherwise unexceptional midrange Android phone with one amazing feature: a matte OLED display. That screen is ",
+   "link": "https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:02",
+   "ts": 1791201761
+  },
   {
    "id": "baeb03ee997439de57b4b66ed4f2c25e",
    "title": "NFL Week 5 early odds: Bears favorites at Lambeau, Bills underdogs to Rams",
@@ -111,6 +346,32 @@
    "link": "https://www.hollywoodreporter.com/movies/movie-features/artificial-exclusive-luca-guadagnino-andrew-garfield-1236721477/",
    "source": "好莱坞报道",
    "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:00",
+   "ts": 1791201600
+  },
+  {
+   "id": "2a9bd5539162a62b6b760f0699f01e86",
+   "title": "Ready for Driverless Trucks? I Took a Ride in Kodiak’s Autonomous Semi",
+   "summary": "Kodiak is planning to bring its fully self-driving trucks to highways later this year. I took a test ride to see the technology in action.",
+   "link": "https://www.cnet.com/roadshow/automobiles/riding-in-kodiak-autonomous-semi-truck/",
+   "source": "CNET",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:00",
+   "ts": 1791201600
+  },
+  {
+   "id": "2496b01d77d9ebfeed6d0b3f40914802",
+   "title": "Meta’s ‘AI Tamagotchi’ Looks to Me Like a Smartwatch Preview for 2027",
+   "summary": "As smartwatches head toward becoming AI companions, Meta might be working a new angle.",
+   "link": "https://www.cnet.com/tech/mobile/meta-muse-charm-pendant-smartwatch-hint/",
+   "source": "CNET",
+   "channel": "数码",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
@@ -326,19 +587,6 @@
    "ts": 1791198831
   },
   {
-   "id": "52156ce365f9569eb10cebc67ed6bace",
-   "title": "Realme P4s Lite goes official with a 7,000mAh battery",
-   "summary": "The Realme P4s, which launched in India in August, is now getting a new variant. Realme appears to have quietly unveiled the P4s Lite in the country, with sligh",
-   "link": "https://www.gsmarena.com/realme_p4s_lite_goes_official_with_a_7000mah_battery-news-74899.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:11",
-   "ts": 1791198661
-  },
-  {
    "id": "c00dfb981aba745c5a47dbc0d1d34ed9",
    "title": "Best Buy’s Techtober Sale Challenges Prime Day with Major Video Game Deals and No Membership Fees",
    "summary": "Best Buy's Techtober sale is now live, rivalling Amazon Prime Day with savings on new PS5 game releases, Xbox hardware bundles, and plenty more.",
@@ -456,9 +704,22 @@
    "ts": 1791196744
   },
   {
+   "id": "b2558d25d8c55278379e43035354737e",
+   "title": "刚刚，诺贝尔奖颁给光遗传学！",
+   "summary": "从绿藻里的光开关，到控制神经元",
+   "link": "https://www.qbitai.com/2026/10/501720.html",
+   "source": "量子位",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-05 18:37",
+   "ts": 1791196621
+  },
+  {
    "id": "75cb8a66c04957898938155783d505d2",
    "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-   "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49963094\nPoints: 15\n# Comments: 8",
+   "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49963094\nPoints: 32\n# Comments: 9",
    "link": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -521,19 +782,6 @@
    "ts": 1791195611
   },
   {
-   "id": "99027ef3e41874447f70e891db3ce417",
-   "title": "Oppo F35 and F35 Pro debut with 8,000mAh batteries and 50MP selfie cameras",
-   "summary": "Right on schedule, Oppo unveiled the F35 series in India. They’ve grown heavier compared to their predecessors, the F33 and F33 Pro, since they bring bigger bat",
-   "link": "https://www.gsmarena.com/oppo_f35_and_f35_pro_debut_with_8000mah_batteries_and_50mp_selfie_cameras-news-74898.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:12",
-   "ts": 1791195122
-  },
-  {
    "id": "8363f56b9f586b3e3962fed481eb66cf",
    "title": "运营约 3 年，SE 跨平台游戏《最终幻想 7：永恒危机》将于 10 月 7 日停服",
    "summary": "IT之家 10 月 5 日消息，Square Enix 发文，宣布旗下跨平台游戏《最终幻想 7：永恒危机》将于北京时间 2026 年 10 月 7 日 14 时正式停止运营，停服相关流程全部完成后，玩家账户信息将被删除，以保护用户个人信息。公开信息显示，《最终幻想 7：永恒危机》由 Square Enix 与 AppL",
@@ -549,7 +797,7 @@
   {
    "id": "5b7ae3f4d353c7d7288399122933be2c",
    "title": "Apple and a Hacker's Future",
-   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 50\n# Comments: 20",
+   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 70\n# Comments: 32",
    "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -638,32 +886,6 @@
    "ts": 1791194225
   },
   {
-   "id": "fa4d09fb45b5b19ec29a29c71c24e01a",
-   "title": "日本经济新闻社一员工微软 Microsoft 365 账号遭黑客入侵，被操控发送 9000 封钓鱼邮件",
-   "summary": "IT之家 10 月 5 日消息，日本经济新闻社（NIKKEI）昨日发布通告，称公司一名员工的微软 Microsoft 365 账号遭黑客入侵攻击，黑客借用该员工名义发送了约 9000 封钓鱼邮件，引导收件人访问“恶意网站”。日本经济新闻社表示，在员工修改该账号密码后，目前尚未发现进一步的非法登录迹象。公司已逐一联系邮件",
-   "link": "https://www.ithome.com/1/009/855.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:56",
-   "ts": 1791194185
-  },
-  {
-   "id": "463493a9e344ad0a58cc96f502aaf301",
-   "title": "领克 900 新款谍照疑曝光：插混旗舰 SUV，现款 25.48 万元起",
-   "summary": "IT之家 10 月 5 日消息，近期，网络上流出了疑似中期改款领克 900 的测试谍照，官方暂未公布量产版细节和上市节点。从图上可以看到，新车的前脸大灯较在售版本预计有较大变化。IT之家注意到，目前在售的领克 900 于去年 4 月发布，10 月限时置换价大五座版本 25.48 万元起，大六座版本 26.99 万元起。",
-   "link": "https://www.ithome.com/1/009/853.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:47",
-   "ts": 1791193661
-  },
-  {
    "id": "dc57b0abebece188aa16cd0c7f0681c3",
    "title": "'What a pass!' - Jokic pulls off OUTRAGEOUS behind-the-back dime across court!",
    "summary": "Nikola Jokic reminded everyone of his extraordinary playmaking ability in Sunday's preseason opener, whipping a sensational behind-the-back crosscourt assist to",
@@ -675,58 +897,6 @@
    "urgent": false,
    "fetched_at": "10-05 17:41",
    "ts": 1791193260
-  },
-  {
-   "id": "a37501930336cfc277be5e9a4c9036bd",
-   "title": "高通与华为达成逻辑折叠芯片技术相关专利授权，韬定律加速出海",
-   "summary": "IT之家 10 月 5 日消息，彭博社今日发布报道《Qualcomm Licenses Patents on Huawei' s LogicFolding Chip Tech》，高通公司已同意获得支撑华为技术有限公司新型逻辑折叠芯片制造技术的专利许可，这对华为及其在海外 AI 市场的推动力来说是一笔胜利（原文为 Qua",
-   "link": "https://www.ithome.com/1/009/852.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:40",
-   "ts": 1791193218
-  },
-  {
-   "id": "9316d3514042d3e4f9f95f77ada48fdc",
-   "title": "Oppo F35 Pro hands-on",
-   "summary": "The Oppo F35 series launched in India in two flavors - F35 Pro and a non-Pro F35. We had the chance to play around with the Pro version, which is a feature-pack",
-   "link": "https://www.gsmarena.com/oppo_f35_pro_handson-news-74896.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:39",
-   "ts": 1791193142
-  },
-  {
-   "id": "494e7203df715b453b2ea7a2260c0ee4",
-   "title": "McDermott explains Connor exclusion and England's World Cup game plan",
-   "summary": "Brian McDermott has consistently talked about England having a \"point of difference\" in the Rugby League World Cup but eyebrows were raised when the head coach ",
-   "link": "https://www.skysports.com/rugby-league/news/12040/13595271/englands-rugby-league-world-cup-squad-brian-mcdermott-explains-jake-connor-exclusion-mikey-lewis-inclusion-and-game-plan",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:39",
-   "ts": 1791193140
-  },
-  {
-   "id": "4adfcbb2fc09bdce4f639117c65aa0c2",
-   "title": "2026 诺贝尔奖生理学或医学奖揭晓：三学者凭借“光控离子通道和光遗传学”领域发现获表彰",
-   "summary": "IT之家 10 月 5 日消息，即日起，一年一度的诺贝尔奖“开奖周”正式拉开帷幕，六大奖项将逐次揭晓。IT之家后续将为大家带来每天的详细报道。今日，诺贝尔奖基金会宣布将 2026 年诺贝尔生理学或医学奖授予以下三人，以表彰他们在“光控离子通道和光遗传学”领域的发现：美国霍华德 · 休斯医学研究所及斯坦福大学的 Karl",
-   "link": "https://www.ithome.com/1/009/851.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:36",
-   "ts": 1791192993
   },
   {
    "id": "82e6b286ab2f6afe8378b60a9bce624e",
@@ -742,32 +912,6 @@
    "ts": 1791192669
   },
   {
-   "id": "29ed9ed8093d7960e78a8b7aaca05579",
-   "title": "We’re witnessing a critical moment for Amazon Kindles",
-   "summary": "Two steps forward, one step back.",
-   "link": "https://www.androidauthority.com/critical-moment-for-amazon-kindle-2026-3718411/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:30",
-   "ts": 1791192621
-  },
-  {
-   "id": "9dda841f8ca9e077e2c4e2d09f6d8f47",
-   "title": "荣耀 WIN 小平板上架：搭 8.4 英寸 240Hz OLED 挖孔屏，有望 10 月 15 日发售",
-   "summary": "IT之家 10 月 5 日消息，荣耀 WIN 小平板现已在京东上架，页面显示该机有望于 10 月 15 日发售。京东荣耀 WIN 平板待发布直达链接此前消息显示，该机拥有黑 / 银两种配色，搭载 8.4 英寸 240Hz OLED 挖孔屏，搭载骁龙 8E5（第五代骁龙 8 至尊版处理器）+ 主动散热风扇，不过没有 5G",
-   "link": "https://www.ithome.com/1/009/850.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:28",
-   "ts": 1791192499
-  },
-  {
    "id": "bec490379e3cda1359d22c340414548c",
    "title": "'The Movie Still Hasn't Made Any Money': Dakota Johnson is Happy to Joke About Madame Web Being One of Hollywood's Worst Ever Flops",
    "summary": "Madame Web star Dakota Johnson has joked about her widely-panned superhero movie's status as a box office bomb.",
@@ -779,32 +923,6 @@
    "urgent": false,
    "fetched_at": "10-05 17:27",
    "ts": 1791192478
-  },
-  {
-   "id": "16e0fd2926ff8be2f1af8eb8fdef7f5e",
-   "title": "This Android flagship won our best iPhone 18 Pro alternative survey by a landslide",
-   "summary": "The latest Pixel plays second fiddle to its biggest Android rival.",
-   "link": "https://www.androidauthority.com/best-iphone-18-pro-alternative-poll-results-3718944/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:20",
-   "ts": 1791192017
-  },
-  {
-   "id": "ae54002f1ca506663c22dd8ccb8a2cdc",
-   "title": "I love the Pixel 11 Pro, but Google has 3 big problems to fix for the Pixel 12 Pro",
-   "summary": "Google, this is what you need to do.",
-   "link": "https://www.androidauthority.com/pixel-11-pro-problems-google-needs-fix-pixel-12-pro-3717405/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:00",
-   "ts": 1791190813
   },
   {
    "id": "bb7fd934980af39eddaa51d7453526b7",
@@ -978,7 +1096,7 @@
   {
    "id": "f3d78edab88a060c1d1eeb190a672a1a",
    "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 79\n# Com",
+   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 85\n# Com",
    "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1067,19 +1185,6 @@
    "ts": 1791183120
   },
   {
-   "id": "9cd34b17130cad0e14183e093a2ef7aa",
-   "title": "Here's your first look at Google's next fitness tracker, the Fitbit Edge",
-   "summary": "Back in August, Google Australia accidentally revealed an upcoming Fitbit device in official promo images during the Pixel 11 series launch. Now, a new report h",
-   "link": "https://www.gsmarena.com/heres_your_first_look_at_googles_next_fitness_tracker_the_fitbit_edge-news-74895.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 14:05",
-   "ts": 1791180302
-  },
-  {
    "id": "97900eed23a2e29d1578f1e93d341238",
    "title": "F1 Sprint format: How does it work in 2026?",
    "summary": "Everything you need to know about Formula 1's Sprint weekend format for the 2026 F1 season.",
@@ -1091,19 +1196,6 @@
    "urgent": false,
    "fetched_at": "10-05 14:05",
    "ts": 1791180300
-  },
-  {
-   "id": "64e83eb528f391e38664d8d821e7e43f",
-   "title": "Harvey Keitel Plays Acting Teacher in Gaurav Bhardwaj’s Debut Feature ‘The Method’ (EXCLUSIVE)",
-   "summary": "Harvey Keitel stars as a celebrated acting teacher in &#8220;The Method,&#8221; the first feature from director and co-writer Gaurav Bhardwaj, produced by &#822",
-   "link": "https://variety.com/2026/film/news/harvey-keitel-stars-new-york-acting-drama-method-1236898849/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 14:00",
-   "ts": 1791180000
   },
   {
    "id": "ff2e03762f875f40248f2b0a0177a398",
@@ -1121,7 +1213,7 @@
   {
    "id": "51ff97dab6bb1ce0f06918ce5eeeeb95",
    "title": "Replacement of petroleum based products with plant-based materials (2025)",
-   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 78\n# Comments: 40",
+   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 82\n# Comments: 42",
    "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1145,19 +1237,6 @@
    "ts": 1791175372
   },
   {
-   "id": "50e2243f4437278f492f79b2e045af5e",
-   "title": "NFL Week 4 grades for all 32 teams: Ben Johnson, Bears earn 'A-' despite injury woes; Bengals slip again",
-   "summary": "We're handing out grades for every Week 4 game",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 12:01",
-   "ts": 1791172881
-  },
-  {
    "id": "ab46034d3cba9c434bf9219f7b94b59b",
    "title": "NLDS Game 2 winners and losers: Brewers magic strikes again in walk-off win; Braves put on pitching clinic",
    "summary": "The Brewers took a 2-0 series lead over the Padres, while the Braves evened their own series against the Dodgers",
@@ -1169,19 +1248,6 @@
    "urgent": false,
    "fetched_at": "10-05 11:22",
    "ts": 1791170560
-  },
-  {
-   "id": "ff33755258077ddaa2d7fcf07687e596",
-   "title": "2026 MLB playoff bracket: Schedule, scores, where to watch with Division Series underway",
-   "summary": "Eight teams remain in the 2026 MLB playoffs, with the best-of-five LDS round underway",
-   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 11:22",
-   "ts": 1791170525
   },
   {
    "id": "14a2372116aee36d0ece3d8da48517b0",
@@ -1210,19 +1276,6 @@
    "ts": 1791169164
   },
   {
-   "id": "e171af19b6ad8b2e5e17e00c92552494",
-   "title": "Chiefs very interested in a Tyreek Hill reunion amid injuries at receiver, per report",
-   "summary": "Kansas City has reportedly reached out to Hill's agent",
-   "link": "https://www.cbssports.com/nfl/news/chiefs-interested-tyreek-hill-reunion-amid-injuries-at-receiver/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:54",
-   "ts": 1791168876
-  },
-  {
    "id": "5566a8ccad2390f8144cb2c1bbf6d2d8",
    "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
    "summary": "有改进就体验，没改进就重置，横竖不亏。",
@@ -1234,19 +1287,6 @@
    "urgent": false,
    "fetched_at": "10-05 10:50",
    "ts": 1791168646
-  },
-  {
-   "id": "3b4971f743786ddcdbe9ffd25f7f8e90",
-   "title": "Beats 360 review",
-   "summary": "The Beats 360 are the newest pair of headphones from Apple-owned Beats by Dre, and are aimed specifically at those looking for a pair of headphones to use durin",
-   "link": "https://www.gsmarena.com/beats_360_review-news-74894.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:00",
-   "ts": 1791165602
   },
   {
    "id": "0c1c6977a952f8d70066348d0bb7b067",
@@ -1312,6 +1352,45 @@
    "urgent": false,
    "fetched_at": "10-05 08:58",
    "ts": 1791161905
+  },
+  {
+   "id": "dd04eaad30409f47d35b926f772fe5f0",
+   "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light: live updates",
+   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03091-2Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology ",
+   "link": "https://www.nature.com/articles/d41586-026-03091-2",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-05 08:00",
+   "ts": 1791158400
+  },
+  {
+   "id": "a06000fb863533e0e0a482adfd6949a5",
+   "title": "How big tech is building a military–industrial complex in the age of AI",
+   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03134-8Two books explore how warfare is being reshaped, with influence shifting from states to",
+   "link": "https://www.nature.com/articles/d41586-026-03134-8",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-05 08:00",
+   "ts": 1791158400
+  },
+  {
+   "id": "7312eacd1cd3f8f15b5b158e784c7395",
+   "title": "AI biohazard hype must not divert attention from the real risks we face now",
+   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03135-7Twenty-five years after the US anthrax attacks, fears around AI are distracting people ",
+   "link": "https://www.nature.com/articles/d41586-026-03135-7",
+   "source": "Nature",
+   "channel": "科学",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-05 08:00",
+   "ts": 1791158400
   },
   {
    "id": "fc1cf557572c4b37d59fbeb791144269",
@@ -1418,19 +1497,6 @@
    "ts": 1791149520
   },
   {
-   "id": "260d39a8ab112b1b9c041dc72ae086e7",
-   "title": "Weekly poll: are you interested in the vivo X Fold6?",
-   "summary": "The vivo X Fold6 launched on July 1 in China and is now starting its worldwide tour – it’s already available in Europe and is expected to launch in India next w",
-   "link": "https://www.gsmarena.com/weekly_poll_are_you_interested_in_the_vivo_x_fold6-news-74860.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 05:31",
-   "ts": 1791149462
-  },
-  {
    "id": "a2a0b75dd253014cc0b7c9bb7a93e5ef",
    "title": "The Best Deals Today: Star Wars Zero Company, AirPods Pro 3, Trails in the Sky 1st Chapter, and More",
    "summary": "",
@@ -1472,7 +1538,7 @@
   {
    "id": "2e52209d54610fcee4461e07dfed5f5a",
    "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 159\n# Comments: 19",
+   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 169\n# Comments: 19",
    "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1537,7 +1603,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 621\n# Comments: 417",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 632\n# Comments: 427",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1576,7 +1642,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 272\n# Comments: 90",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 285\n# Comments: 96",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1598,19 +1664,6 @@
    "urgent": false,
    "fetched_at": "10-05 02:46",
    "ts": 1791139617
-  },
-  {
-   "id": "45a566f2607bf005247a52bd2e7ab260",
-   "title": "Deals: here's how to avoid the Galaxy S26 series price hike",
-   "summary": "In case you missed it, Samsung increased the Galaxy S26 prices globally – in the US, they are $100 higher than they were at launch seven months ago. And even ba",
-   "link": "https://www.gsmarena.com/deals_heres_how_to_avoid_the_galaxy_s26_series_price_hike-news-74871.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 02:31",
-   "ts": 1791138661
   },
   {
    "id": "de00533785426c407cf26dcefebc3fb0",
@@ -1702,19 +1755,6 @@
    "urgent": false,
    "fetched_at": "10-05 00:05",
    "ts": 1791129900
-  },
-  {
-   "id": "5dde12017a2d1be53cdc77539a091ceb",
-   "title": "Weekly poll results: pricing will decide the fate of the Xiaomi 18 Pro and Xiaomi 18 Pro Max",
-   "summary": "Last week, we asked you for your thoughts on Xiaomi’s 18 Pro series in light of the news that the series is going global. Xiaomi is still mum on the details, bu",
-   "link": "https://www.gsmarena.com/weekly_poll_results_pricing_will_decide_the_fate_of_the_xiaomi_18_pro_and_xiaomi_18_pro_max-news-74864.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 23:31",
-   "ts": 1791127862
   },
   {
    "id": "2696b7d229b558368d35d0419ff5e7e7",
@@ -1925,32 +1965,6 @@
    "ts": 1791118800
   },
   {
-   "id": "e63a993205e5992659754025231a5486",
-   "title": "The MacBook Air M5 is $200 off for the first time in months",
-   "summary": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of stora",
-   "link": "https://www.theverge.com/gadgets/1000832/macbook-air-m5-amazon-prime-big-deal-sale",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 20:34",
-   "ts": 1791117241
-  },
-  {
-   "id": "1c7d871c1178ddc255598e81c81c9c63",
-   "title": "Our Redmi Note 17 4G battery life and charging tests are ready",
-   "summary": "Does a market for 4G phones still exist? Xiaomi thinks so, so it released the Redmi Note 17 4G. We’ve already looked at the battery life and charging tests of i",
-   "link": "https://www.gsmarena.com/our_redmi_note_17_4g_battery_life_and_charging_tests_are_ready-news-74823.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 20:31",
-   "ts": 1791117061
-  },
-  {
    "id": "a1bee9fa41825175870bfe40d4011228",
    "title": "How to Avoid JNI Crashes by Managing Local and Global References Correctly",
    "summary": "Most JNI crashes don't come from complicated logic. They come from a small set of mistakes around object references: holding on to a reference after it has beco",
@@ -2029,19 +2043,6 @@
    "ts": 1791109441
   },
   {
-   "id": "4b7426f1ddd7864af6ecaca785a07207",
-   "title": "Deals: Amazon's early Prime Deals slash the prices of foldables and flagships",
-   "summary": "Amazon will kick off Prime Deal Days on October 6 (Tuesday next week). The sales event will run for two days, but you don’t have to wait for it to start as the ",
-   "link": "https://www.gsmarena.com/deals_amazons_early_prime_deals_slash_the_prices_of_foldables_and_flagships-news-74876.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 17:31",
-   "ts": 1791106262
-  },
-  {
    "id": "2dc7528a8b598676b88d09a155e4844d",
    "title": "方方面面都熟悉，方方面面都更好：iPhone 18 Pro 体验",
    "summary": "iPhone 18 Pro 也许不会让你感觉焕然一新，却在许多地方都变得更加完整了。查看全文",
@@ -2066,19 +2067,6 @@
    "urgent": false,
    "fetched_at": "10-04 15:08",
    "ts": 1791097698
-  },
-  {
-   "id": "8664a39177ff5bb919604a8d24a98410",
-   "title": "This is when the Honor Magic9 series is landing in Europe",
-   "summary": "Honor launched the Magic9, Magic9 Super, and Magic9 Pro Max in China a few days ago. If the devices interest you, you may want to know when to expect them to ar",
-   "link": "https://www.gsmarena.com/this_is_when_the_honor_magic9_series_is_landing_in_europe-news-74887.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 14:31",
-   "ts": 1791095462
   },
   {
    "id": "e3fbd658118963c5c640fd5083f0d871",
@@ -2159,19 +2147,6 @@
    "ts": 1791085862
   },
   {
-   "id": "0ec2eed70478b014c70c16bd5aef7474",
-   "title": "iQOO 16 is headed to India, but at what price?",
-   "summary": "The iQOO 16 became official in China earlier this week. Now if you've been wondering whether it will be available in India, a tipster over on X today tells us t",
-   "link": "https://www.gsmarena.com/iqoo_16_is_headed_to_india_but_at_what_price-news-74888.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 11:31",
-   "ts": 1791084662
-  },
-  {
    "id": "719c19facc963981a80b71b6f1ab6af2",
    "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
    "summary": "专业3D模型反而更稀缺了",
@@ -2235,32 +2210,6 @@
    "urgent": false,
    "fetched_at": "10-04 03:31",
    "ts": 1791055873
-  },
-  {
-   "id": "2208b1005dcc5d107040d11ee40ba2f3",
-   "title": "Indie App Spotlight: ‘HEVCut’ helps you trim your photo library without deleting anything",
-   "summary": "Welcome to Indie App Spotlight. This is a weekly 9to5Mac series where we showcase the latest apps in the indie app world. If you’re a developer and would like y",
-   "link": "https://9to5mac.com/2026/10/03/indie-app-spotlight-hevcut-iphone-photo-storage/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 03:30",
-   "ts": 1791055800
-  },
-  {
-   "id": "cfedd0c94d5deb085116300c9ee5fb9a",
-   "title": "Here’s why I upgraded from the Apple Watch Series 10 to Series 12",
-   "summary": "I’m someone who doesn’t often upgrade my Apple Watch right when a new one comes out. The Apple Watch Series 10 I owned prior was only purchased this January, de",
-   "link": "https://9to5mac.com/2026/10/03/heres-why-i-upgraded-from-the-apple-watch-series-10-to-series-12/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 02:48",
-   "ts": 1791053302
   },
   {
    "id": "4bb32ef4c4807792090365833b41eea7",
@@ -2612,6 +2561,58 @@
    "urgent": false,
    "fetched_at": "10-03 15:00",
    "ts": 1791010800
+  },
+  {
+   "id": "9eaa0083d3e19ea27974c9487ef7a4df",
+   "title": "B站连续三年独家承办WF手办模型展，站内模玩相关UP主超76万",
+   "summary": "10月3日至4日，2026哔哩哔哩上海国际手办模型文化博览会（以下简称“WF2026”）在上海新国际博览中心正式拉开帷幕。作为全球规模最大的手办模型展会，WF2026在规模与阵容上进一步扩大，两日活动线下参与总人次预计突破15万。\n据了解，WF2026吸引超过400家品牌展商参与，展会老品牌展商续展率高达95.8%，同",
+   "link": "https://www.gcores.com/articles/220495",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "发布/大事件",
+   "weight": 3,
+   "urgent": true,
+   "fetched_at": "10-03 14:18",
+   "ts": 1791008322
+  },
+  {
+   "id": "1ed152348f461653d10bf75705236e27",
+   "title": "OpenAI安全团队持续地震！负责人离职，三名员工因泄密被开",
+   "summary": "又咋啦。。。",
+   "link": "https://www.qbitai.com/2026/10/501368.html",
+   "source": "量子位",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-03 12:41",
+   "ts": 1791002484
+  },
+  {
+   "id": "412ebaeb5bbb238aef569e68986e7264",
+   "title": "Jev估值100亿美元！创始人Diogo Almeida回答一切",
+   "summary": "",
+   "link": "https://www.qbitai.com/2026/10/500148.html",
+   "source": "量子位",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-03 10:38",
+   "ts": 1790995099
+  },
+  {
+   "id": "43251e6426bfca624c9f675484ef63fb",
+   "title": "秋促仅需8.4的《火线迈阿密》，凭什么让人死到红温还舍不得关游戏？",
+   "summary": "如果预算只有10元，去推荐一款高难度又极度耐玩的游戏，你最想推荐谁？首先排除《和班尼福特一起掘地求生》，它确实很难，但绝大数人红温之后都会选择离开。其次《Limbo》、《Inside》、《Braid》这样的，解谜难度高不假，也能讲好一个故事，只是通关后便再少捡起来的机会。\n如果只允许推荐一款，那我一定会推荐2012年的",
+   "link": "https://www.gcores.com/articles/220484",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-03 09:31",
+   "ts": 1790991069
   }
  ]
 }
