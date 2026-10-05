@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 11:41",
- "total": 258,
+ "updated_at": "2026-10-05 12:07",
+ "total": 259,
  "channels": [
   "AI·科技",
   "体育",
@@ -15,9 +15,61 @@
  ],
  "items": [
   {
+   "id": "edc2270b9be32ce809bf1d6c77660e39",
+   "title": "德国电力公司推出游戏玩家专属电价套餐：瞄准高耗电家庭，电力 100% 来自可再生能源",
+   "summary": "IT之家 10 月 5 日消息，德国公用事业与电力零售企业 SWK Energie 推出了一项面向游戏玩家的全新营销策略。据 ComputerBase 报道，这项名为 meinGAMING 的业务围绕游戏玩家展开大量营销宣传，例如将供电的稳定性比作“你最喜爱的游戏服务器”，还邀约 Limcube 这类游戏主播开展网红推",
+   "link": "https://www.ithome.com/1/009/790.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 12:01",
+   "ts": 1791172905
+  },
+  {
+   "id": "8cac73c2e6d7bc28ec5e6bb029ef96d1",
+   "title": "John Oliver Dodges David Ellison-Skydance News on ‘Last Week Tonight’",
+   "summary": "The big media news this week concerned Skydance Corp., David Ellison’s newly formed Hollywood mega-company comprising Paramount Skydance and Warner Bros. Discov",
+   "link": "https://variety.com/2026/tv/news/john-oliver-last-week-tonight-david-ellison-skydance-hbo-warner-bros-1236898839/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 11:53",
+   "ts": 1791172416
+  },
+  {
+   "id": "ce17f2be7132147689acc923907cef91",
+   "title": "美国造车新势力 Rivian 第三季度交付 19248 辆，同比增长 46%",
+   "summary": "IT之家 10 月 5 日消息，当地时间 10 月 2 日，美国造车新势力 Rivian 公布了截至 2026 年 9 月 30 日的季度产量与交付量数据。本季度，该公司位于美国伊利诺伊州诺默尔的生产工厂共生产汽车 19,751 辆，同期完成交付 19,248 辆（同比增长 46%）。Rivian 曾在今年早些时候上调",
+   "link": "https://www.ithome.com/1/009/788.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 11:50",
+   "ts": 1791172249
+  },
+  {
+   "id": "8fa53ddfd2f46d5d03f7a8e6ff2443dd",
+   "title": "纽约时报：石油大国闹油荒，俄罗斯人抢购中国电动汽车",
+   "summary": "北京时间 10 月 5 日，《纽约时报》发文称，随着乌克兰越来越多地将战火带到俄罗斯，俄罗斯出现了燃料短缺的情况，这促使俄罗斯人开始抢购中国电动汽车。俄罗斯加油站排起长队谢尔盖 · 采利科夫 (Sergei Tselikov) 是俄罗斯首屈一指的汽车行业专家，先后拥有过 20 多辆车，包括沃尔沃、大众和路虎。这些车全都",
+   "link": "https://www.ithome.com/1/009/787.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 11:44",
+   "ts": 1791171872
+  },
+  {
    "id": "8267988ef1cc1679f8ee5f3f54b02844",
    "title": "Thrustmaster 推出《跑车浪漫旅 7》授权直驱方向盘套装 T-GT III",
-   "summary": "IT之家 10 月 5 日消息，Thrustmaster（图马思特）近日宣布推出直驱方向盘 T-GT III。这一套装得到《跑车浪漫旅 7》(Gran Turismo 7) 与 PlayStation 官方授权。T-GT III 是首款专为《跑车浪漫旅》设计的直驱方向盘套装，也是首款原生集成力传感器踏板组的方向盘。其可",
+   "summary": "IT之家 10 月 5 日消息，Thrustmaster（图马思特）近日宣布推出直驱方向盘 T-GT III。这一套装得到《跑车浪漫旅 7》(Gran Turismo 7) 与 PlayStation 官方授权。T-GT III 是史上第一款为《跑车浪漫旅》设计的直接轴向驱动套装，也是第一款内含压力传感踏板组的套装。其",
    "link": "https://www.ithome.com/1/009/786.htm",
    "source": "IT之家",
    "channel": "AI·科技",
@@ -93,6 +145,19 @@
    "ts": 1791170210
   },
   {
+   "id": "14a2372116aee36d0ece3d8da48517b0",
+   "title": "Lanterns Star Kyle Chandler's Hal Jordan Is a Superhero Casting That Rivals Robert Downey Jr.'s Iron Man, Fans Say",
+   "summary": "Lanterns Season 1 is over, and the verdict is in: Fans say Kyle Chandler's Hal Jordan rivals Robert Downey Jr.'s Iron Man as one of the best superhero casting c",
+   "link": "https://www.ign.com/articles/lanterns-star-kyle-chandlers-hal-jordan-is-a-superhero-casting-that-rivals-robert-downey-jrs-iron-man-fans-say",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 11:12",
+   "ts": 1791169927
+  },
+  {
    "id": "4b123fba93f92da78cdef936b6ec095b",
    "title": "瓦尔基里公布 VK 99 V2 机械键盘：AI 创想灯效，长至 12000hr 无线续航",
    "summary": "IT之家 10 月 5 日消息，瓦尔基里 (Valkyrie, Vk) 今日公布了 VK 99 V2 系列三模机械键盘的完整参数表。其价格情况尚未公开。VK 99 V2 整体采用 2U0 的 98 配列，集成天际光廊贯穿式灯柱与下灯位 RGB 背光，支持人工智能驱动的 AI 创想灯效、音乐律动，内部包含竖向音量旋钮。其",
@@ -104,6 +169,19 @@
    "urgent": false,
    "fetched_at": "10-05 11:08",
    "ts": 1791169711
+  },
+  {
+   "id": "2ba035e48aa5881aa952c1a6330f9883",
+   "title": "十个案例助你轻松上手 iOS 27 通知自动化",
+   "summary": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。查看全文",
+   "link": "https://sspai.com/post/114536",
+   "source": "少数派",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:59",
+   "ts": 1791169164
   },
   {
    "id": "e171af19b6ad8b2e5e17e00c92552494",
@@ -169,45 +247,6 @@
    "urgent": false,
    "fetched_at": "10-05 10:43",
    "ts": 1791168234
-  },
-  {
-   "id": "10c8b5003b96a1e6aef146a5e2bea93c",
-   "title": "一汽丰田：“一汽丰田或将彻底退出历史舞台”“丰田大降价”等均为不实言论",
-   "summary": "IT之家 10 月 5 日消息，一汽丰田汽车销售有限公司今日发布《针对近期网络上出现的有关一汽丰田不实言论的声明》。IT之家附声明全文如下：针对近期网络上出现的有关一汽丰田不实言论的声明近期，中国第一汽车集团有限公司与广州汽车工业集团有限公司签署战略合作框架协议，引发行业及消费者广泛关注。一汽丰田深耕国内市场 23 年",
-   "link": "https://www.ithome.com/1/009/776.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:41",
-   "ts": 1791168100
-  },
-  {
-   "id": "7a3eb24ae0f5193bb7fbe28d91457f8e",
-   "title": "JEDEC 发布首份全行业硅光子学（SiPh）可靠性标准 JESD264",
-   "summary": "IT之家 10 月 5 日消息，JEDEC 固态技术协会美国当地时间本月 1 日发布了 JESD264 硅光子学 (SiPh) 器件认证和可靠性要求，这是首份全行业级别的硅光器件统一认证和可靠性实践规范。硅光领域此前缺乏标准化的、行业通用的可靠性所有权和验证框架，导致整个供应链存在不确定性。JESD264 通过建立测试",
-   "link": "https://www.ithome.com/1/009/775.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "教程",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-05 10:34",
-   "ts": 1791167696
-  },
-  {
-   "id": "2baeb2a81a6f6bc7598da80b686a83db",
-   "title": "iQOO 16 手机首销情况曝光：同期约为 iQOO 15 的 50%、iQOO 13 的 100%",
-   "summary": "IT之家 10 月 5 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料了 iQOO 16 手机的首销情况（Sell out）。以首销当天（20:30 开售）+ 后三天为标准iQOO 16 同期约为 iQOO 15 的 50%、iQOO 13 的 100%▲ IT之家开箱：iQOO 16「赛道」配色图赏",
-   "link": "https://www.ithome.com/1/009/774.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:32",
-   "ts": 1791167521
   },
   {
    "id": "5bc5e640d1d724687c5e0b50f2bc37e4",
@@ -316,7 +355,7 @@
   {
    "id": "62c1f496cc96e2ff187d6338c2482e8b",
    "title": "A tribute to one of the best games on the Atari 2600",
-   "summary": "Article URL: https://plicerin.github.io/riverraid-rom-port/\nComments URL: https://news.ycombinator.com/item?id=49959865\nPoints: 13\n# Comments: 4",
+   "summary": "Article URL: https://plicerin.github.io/riverraid-rom-port/\nComments URL: https://news.ycombinator.com/item?id=49959865\nPoints: 16\n# Comments: 5",
    "link": "https://plicerin.github.io/riverraid-rom-port/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -338,6 +377,19 @@
    "urgent": false,
    "fetched_at": "10-05 09:13",
    "ts": 1791162802
+  },
+  {
+   "id": "e5f1789defb27862d3b2b1792d982eb8",
+   "title": "A 40ms Go garbage collector pause caused by swap",
+   "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 7\n# Comments: 0",
+   "link": "https://frn.sh/go-gc/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:11",
+   "ts": 1791162716
   },
   {
    "id": "ba138ea226597b284485fc2b68aa8cac",
@@ -418,19 +470,6 @@
    "ts": 1791161905
   },
   {
-   "id": "50e2243f4437278f492f79b2e045af5e",
-   "title": "NFL Week 4 grades for all 32 teams: Ben Johnson, Bears earn 'A-' despite injury woes; Bengals slip again",
-   "summary": "We're handing out grades for every Week 4 game",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 08:31",
-   "ts": 1791160292
-  },
-  {
    "id": "b9db9d47eaa6c229fbba50ed0d34c4a5",
    "title": "J. Todd Anderson, ‘The Nice Guys’ Storyboard Artist and Longtime Coen Brothers Collaborator, Dies at 67",
    "summary": "J. Todd Anderson, the storyboard artist behind films like “The Nice Guys” and “Raising Arizona” and a longtime Coen Brothers collaborator, has died following a ",
@@ -507,6 +546,19 @@
    "urgent": false,
    "fetched_at": "10-05 07:47",
    "ts": 1791157621
+  },
+  {
+   "id": "7d8eb8fa65e3b59871212efb5c8dd077",
+   "title": "2026 WNBA playoffs bracket, schedule, where to watch: Liberty and Aces both fall in Game 1 of semifinals",
+   "summary": "The Dream beat the Liberty and the Valkyries stifled the Aces on Sunday",
+   "link": "https://www.cbssports.com/wnba/news/2026-wnba-playoffs-bracket-schedule/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:43",
+   "ts": 1791157419
   },
   {
    "id": "99b91b5e1e7691489e373d220b2846ee",
@@ -602,7 +654,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 87\n# Comments: 22",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 90\n# Comments: 23",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -624,19 +676,6 @@
    "urgent": false,
    "fetched_at": "10-05 06:20",
    "ts": 1791152452
-  },
-  {
-   "id": "39ad641b8c64b1b91a402fc211050644",
-   "title": "Peacock’s Free Trial Offer Returns – But You Won’t Find It On the Streaming Service",
-   "summary": "Peacock subscribers were hit with another rate hike over the summer, with prices for the NBCUniversal streaming service rising for the fourth time in four years",
-   "link": "https://variety.com/2026/shopping/news/best-peacock-streaming-deals-offers-1235625188/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 06:08",
-   "ts": 1791151680
   },
   {
    "id": "b233366c5ffbf84f4860d6079ecf04d9",
@@ -849,7 +888,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 421\n# Comments: 270",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 426\n# Comments: 270",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -888,7 +927,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 111\n# Comments: 46",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 116\n# Comments: 46",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -992,7 +1031,7 @@
   {
    "id": "e49cb76f32a7dde56f80586a82cabdc8",
    "title": "Incentives in Academic Research",
-   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 42\n# Comments: 3",
+   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 43\n# Comments: 3",
    "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1005,7 +1044,7 @@
   {
    "id": "d0549b40cf18c06783f4fb0f5d660e7f",
    "title": "Xray-core concealed a certificate verification bypass vulnerability",
-   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 62\n# Comments: 2",
+   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 62\n# Comments: 3",
    "link": "https://github.com/net4people/bbs/issues/672",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1404,19 +1443,6 @@
    "urgent": false,
    "fetched_at": "10-04 21:00",
    "ts": 1791118800
-  },
-  {
-   "id": "b2f4a7c23b312ad1f2de434faa293b99",
-   "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 647\n# Comments: 303",
-   "link": "https://github.com/Niko1221/Strata",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 20:51",
-   "ts": 1791118313
   },
   {
    "id": "e63a993205e5992659754025231a5486",
@@ -1846,19 +1872,6 @@
    "urgent": false,
    "fetched_at": "10-04 05:03",
    "ts": 1791061426
-  },
-  {
-   "id": "930f71e2d0fd68033ef80e314c88a209",
-   "title": "Everything We Saw at RuneFest 2026, Including RuneScape 4 and RuneScape Reignited",
-   "summary": "RuneFest 2026 is over, and we’ve got a roundup of everything announced at Jagex’s big show celebrating its long-running fantasy MMORPG.",
-   "link": "https://www.ign.com/articles/runefest-2026-runescape-4-runescape-reignited-old-school-runescape-jagex",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 04:00",
-   "ts": 1791057641
   },
   {
    "id": "b87ae2a69fb38c238e47ed8ba6855325",
@@ -2600,19 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-03 03:43",
    "ts": 1790970212
-  },
-  {
-   "id": "d612b8a109c87de109994cf242eaf209",
-   "title": "Jeep’s off-road electric SUV managed just 160 miles in a real-world highway range test",
-   "summary": "The Jeep Recon EV has removable doors and packs 670 horsepower combined, but it’s less efficient than advertised.\n\n\n\n more…",
-   "link": "https://electrek.co/2026/10/02/jeeps-off-road-ev-drove-160-miles-real-world-highway-range-test/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:30",
-   "ts": 1790969417
   }
  ]
 }
