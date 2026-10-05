@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 08:03",
- "total": 260,
+ "updated_at": "2026-10-05 08:48",
+ "total": 258,
  "channels": [
   "AI·科技",
   "体育",
@@ -14,6 +14,110 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "e8fe6dc3ab3792ba0c8f335f787ee19c",
+   "title": "古尔曼：配备 OLED 触控屏的全新苹果 MacBook Pro 将大幅减重",
+   "summary": "IT之家 10 月 5 日消息，苹果即将对 MacBook Pro 进行一次重大重塑，新机大约会在一个月之内正式亮相。这将是首款支持触控屏的 MacBook，同时也是首次采用叠层 OLED（Tandem OLED）屏幕的机型。除此之外，据彭博社的马克 · 古尔曼（Mark Gurman）在最新一期《Power On》中",
+   "link": "https://www.ithome.com/1/009/750.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 08:39",
+   "ts": 1791160798
+  },
+  {
+   "id": "f1fb328dab776be2b5bca1909ffd09b7",
+   "title": "2026 诺贝尔奖即将揭晓，9 位华人科学家成热门候选人",
+   "summary": "IT之家 10 月 5 日消息，2026 年诺贝尔奖各奖项揭晓活动将于 10 月 5 日至 12 日依次进行，其中与科技相关的生理学或医学奖（10 月 5 日）、物理学奖（10 月 6 日）、化学奖（10 月 7 日）即将公布，目前有 9 位华人科学家被视作相关奖项的热门候选人，其中薛其坤、卢煜明、陈志坚等人呼声最高。",
+   "link": "https://www.ithome.com/1/009/748.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 08:27",
+   "ts": 1791160059
+  },
+  {
+   "id": "e060755960d8536f9316483ef5176966",
+   "title": "宝马中国 2027 年产品规划路线图曝光：iX1 长轴距版与 3 系长轴距版有望同期亮相",
+   "summary": "IT之家 10 月 5 日消息，宝马在 2026 资本市场日活动的相关文件中披露了一张面向中国市场的产品路线图，其中展示了数款身披伪装车衣、计划于 2027 年底前登陆中国市场的神秘车型。这张路线图并未标注具体车型名称，但结合宝马当前的产品规划，BMWBlog 对其中的蒙布车型给出了若干推测。已明确出现在路线图中的车型",
+   "link": "https://www.ithome.com/1/009/747.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 08:24",
+   "ts": 1791159897
+  },
+  {
+   "id": "872de5325a9caa640f55860d478e5f83",
+   "title": "“机器人通用大脑”受追捧：FieldAI 拟融资 7 亿美元，估值达 100 亿美元",
+   "summary": "IT之家 10 月 5 日消息，FieldAI 正在为人形机器人、无人机等各类机器人打造一款通用大脑。投资者正为重押这一发展愿景投入巨资。据《商业内幕》报道，一位了解本次交易的人士透露，这家机器人企业正在融资 7 亿美元（IT之家注：现汇率约合 46.97 亿元人民币），投后估值达到 100 亿美元（现汇率约合 671",
+   "link": "https://www.ithome.com/1/009/746.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 08:15",
+   "ts": 1791159329
+  },
+  {
+   "id": "e559c10beaa7bd4924709ca14932b735",
+   "title": "OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露",
+   "summary": "大模型圈的核心机密，终究还是保不住了！继前阵子 Opus 5.5 被爆出 190 万字提示词泄露后，AI 圈的「地心引力」再次失效 ——OpenAI 的现役代码模型 GPT-6 Sol Codex 惨遭「开盒」，老底被扒得一干二净！据外网爆料者（@elder_plinius）放出的大瓜，他成功提取了 GPT-6 Sol",
+   "link": "https://www.ithome.com/1/009/745.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 08:14",
+   "ts": 1791159245
+  },
+  {
+   "id": "b9db9d47eaa6c229fbba50ed0d34c4a5",
+   "title": "J. Todd Anderson, ‘The Nice Guys’ Storyboard Artist and Longtime Coen Brothers Collaborator, Dies at 67",
+   "summary": "J. Todd Anderson, the storyboard artist behind films like “The Nice Guys” and “Raising Arizona” and a longtime Coen Brothers collaborator, has died following a ",
+   "link": "https://variety.com/2026/film/people-news/j-todd-anderson-dead-the-nice-guys-coen-brothers-1236898722/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 08:12",
+   "ts": 1791159163
+  },
+  {
+   "id": "a88cff8c25ac12828de37fd18f985c01",
+   "title": "TypeSafe AI 决策模型 Jev 日处理量达 1 万亿 Token，硅谷巨头火速跟进复刻",
+   "summary": "IT之家 10 月 5 日消息，据《华尔街日报》报道，一款仅问世三周的人工智能模型 Jev 已经在硅谷圈子引发热议，人们开始探讨大语言模型之外的替代路线，同时这款模型也已经催生出不少跟风仿制产品。初创企业 TypeSafe AI 于当地时间 9 月 15 日发布了 Jev。该模型的运行方式不同于聊天机器人，它并不生成文",
+   "link": "https://www.ithome.com/1/009/744.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 08:06",
+   "ts": 1791158808
+  },
+  {
+   "id": "0aeea7e94fa2dffc9ccbd1a2d2354e9f",
+   "title": "1 in 8 cancer cases are caused by infections",
+   "summary": "Article URL: https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say\nComments",
+   "link": "https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 08:04",
+   "ts": 1791158642
+  },
   {
    "id": "0ea545b5f727e24402ea01e2d32fcbed",
    "title": "人人都能有自己的智能体设备：Meta 开源 Muse Gadgets，用 ESP32 和树莓派打造自定义 AI 硬件",
@@ -314,32 +418,6 @@
    "ts": 1791154590
   },
   {
-   "id": "d3f1db72c6c9b054021941b1fc88409f",
-   "title": "1nm 之后晶体管怎么走？泛林集团探索 SA-CFET 架构，SRAM 单元面积较 N3 缩小 52.7%",
-   "summary": "IT之家 10 月 5 日消息，随着先进制程不断向 1nm 及以下节点推进，传统 GAA 纳米片晶体管在漏电、迁移率、寄生电阻以及制造工艺波动等方面面临越来越大的挑战。当地时间 9 月 29 日，全球前三的晶圆制造设备厂商泛林集团（Lam Research）提出一种自对准互补场效应晶体管（SA-CFET）架构，有望将 ",
-   "link": "https://www.ithome.com/1/009/737.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 06:55",
-   "ts": 1791154536
-  },
-  {
-   "id": "e6312d933429fc9249ff538201bf6cec",
-   "title": "\"No Vendor Lock-In\" Is Code for \"No Product\"",
-   "summary": "Article URL: https://ferran.sh/writing/no-vendor-lock-in-is-code-for-no-product\nComments URL: https://news.ycombinator.com/item?id=49958761\nPoints: 11\n# Comment",
-   "link": "https://ferran.sh/writing/no-vendor-lock-in-is-code-for-no-product",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 06:51",
-   "ts": 1791154302
-  },
-  {
    "id": "7ebf7fd09bf336aa6b7ff9cfbb3ab044",
    "title": "Fox One Offering Free Trial, Bundle Discount for NFL Streaming Coverage Online",
    "summary": "The 2026-27 NFL season is underway, and fans who want to watch the games from home can now take advantage of a Fox One offer, which gets you a free trial to the",
@@ -381,7 +459,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 21\n# Comments: 4",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 33\n# Comments: 10",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -548,6 +626,19 @@
    "ts": 1791147729
   },
   {
+   "id": "2e52209d54610fcee4461e07dfed5f5a",
+   "title": "In the wake of closure, a digital archive of animated materials appears online",
+   "summary": "Article URL: https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/\nComments URL: htt",
+   "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 05:01",
+   "ts": 1791147688
+  },
+  {
    "id": "7e35cbc7b690a7993342a00d9e6210ce",
    "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
    "summary": "AI slop seems to be overwhelming bug bounty programs.",
@@ -641,7 +732,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 288\n# Comments: 169",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 315\n# Comments: 202",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -693,7 +784,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 41\n# Comments: 15",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 56\n# Comments: 22",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -810,7 +901,7 @@
   {
    "id": "e49cb76f32a7dde56f80586a82cabdc8",
    "title": "Incentives in Academic Research",
-   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 29\n# Comments: 1",
+   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 34\n# Comments: 1",
    "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -823,7 +914,7 @@
   {
    "id": "d0549b40cf18c06783f4fb0f5d660e7f",
    "title": "Xray-core concealed a certificate verification bypass vulnerability",
-   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 29\n# Comments: 0",
+   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 44\n# Comments: 0",
    "link": "https://github.com/net4people/bbs/issues/672",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -832,19 +923,6 @@
    "urgent": false,
    "fetched_at": "10-05 01:38",
    "ts": 1791135534
-  },
-  {
-   "id": "02590146ad174f7a1302829541580c48",
-   "title": "Sass Jordan, Singer and Longtime ‘Canadian Idol’ Judge, Dies at 65",
-   "summary": "Sass Jordan, the singer, songwriter and longtime &#8220;Canadian Idol&#8221; judge, died on Oct. 2. She was 65. Her family confirmed her death, noting that she ",
-   "link": "https://variety.com/2026/music/people-news/sass-jordan-dead-canadian-idol-singer-1236898644/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 01:37",
-   "ts": 1791135432
   },
   {
    "id": "62a4e9e53f35953f07982161814b58db",
@@ -1068,19 +1146,6 @@
    "ts": 1791127574
   },
   {
-   "id": "8fea590c2cad74747e43377d85e74f71",
-   "title": "机器人格斗公司 REK 举办真人与机器人笼斗赛被叫停：未取得许可组织活动",
-   "summary": "IT之家 10 月 4 日消息，据 tomshardware 今日报道，一家机器人格斗公司在旧金山举办了一场人机格斗赛后，收到了加州政府发来的停止侵权禁令。加州州立体育委员会（CSAC）要求该公司停止举办、宣传或赞助这类未经审批的格斗赛事，并称在未取得许可的情况下组织此类活动属于轻罪。IT之家从报道获悉，这份停止令针对",
-   "link": "https://www.ithome.com/1/009/736.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 23:22",
-   "ts": 1791127376
-  },
-  {
    "id": "bdfe26e6c88946c010fd28a4e2b783b9",
    "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
    "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentia",
@@ -1185,19 +1250,6 @@
    "ts": 1791126000
   },
   {
-   "id": "b94c81c876d09f77152ffde95b641967",
-   "title": "消息称微软为 20 多个数据中心建设项目引入“仿生”计划：修复湿地生态、种植本土植物以降低环境影响",
-   "summary": "IT之家 10 月 4 日消息，据外媒 The Verge 报道，微软正在推行一项名为“仿生”（Biomimicry）的计划，该公司正重新规划旗下 20 多个数据中心周边土地，陆续恢复原先湿地生态、种植本土植物，希望让数据中心更好地融入当地环境。微软透露，后续微软在美国境内所有新建项目都将采用这一方式，在项目建设过程中",
-   "link": "https://www.ithome.com/1/009/734.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 22:59",
-   "ts": 1791125988
-  },
-  {
    "id": "1b851dee50b21b94812ff6197a259515",
    "title": "十年前的「外挂相机」，如何在华为 Mate 90 上复活？｜硬哲学",
    "summary": "那个曾经太早出现的想法，这一次，可能终于等到了属于它的时代#欢迎关注爱范儿官方微信公众号：爱范儿（微信号：ifanr），更多精彩内容第一时间为您奉上。",
@@ -1211,19 +1263,6 @@
    "ts": 1791125347
   },
   {
-   "id": "46b3d466cf37657fa71f99a43a446a0d",
-   "title": "10 月 5 日高速服务区充电特别繁忙清单公布，主要集中河北、湖南、山西等省份",
-   "summary": "IT之家 10 月 4 日消息，据交通运输部动态研判，10 月 5 日，全国高速公路预计有 30 个服务区充电特别繁忙，主要集中在河北、湖南、山西等省份，大家可通过“e 路畅通”微信小程序查询服务区充电桩运行状态。IT之家整理如下：序号省份所在城市服务区名称编号方向1河北唐山市唐海服务区G0111天津-沈阳2河北唐山市",
-   "link": "https://www.ithome.com/1/009/733.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 22:48",
-   "ts": 1791125336
-  },
-  {
    "id": "505458f0a5e64606c40f963e38474341",
    "title": "Why the Moon Is a Legal Wild West",
    "summary": "Private companies are taking cremated remains and stunt payloads to the moon. Former NASA attorney Steve Mirmina warns that there’s nothing stopping them.",
@@ -1235,19 +1274,6 @@
    "urgent": false,
    "fetched_at": "10-04 22:41",
    "ts": 1791124884
-  },
-  {
-   "id": "ed903b9d8771df8841d65d6e5d1f2f8d",
-   "title": "时隔九年重返内地大银幕，《生化危机：爆发夜》游改真人电影明日上映",
-   "summary": "IT之家 10 月 4 日消息，《生化危机：爆发夜》游改真人电影将于明日在中国内地上映，该电影将以 CINITY、IMAX、中国巨幕、4DX、SCREENX 多制式上映，让影迷感受扑面而来的惊悚感。值得一提的是，这也是《生化危机》系列时隔九年，重返内地大银幕。IT之家附该电影官方简介如下：嘘，别出声。黑暗中的生化怪物正",
-   "link": "https://www.ithome.com/1/009/732.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 22:26",
-   "ts": 1791123986
   },
   {
    "id": "89c91cfea6a2cb7bfb8f9cf66a1e9708",
@@ -1302,32 +1328,6 @@
    "ts": 1791121734
   },
   {
-   "id": "3385a493981e4cb1cdd99a286a8bdc85",
-   "title": "海南商发二期项目已基本建成，再添三号、四号两个发射工位",
-   "summary": "IT之家 10 月 4 日消息，海南商发 10 月 1 日官宣，海南商业航天发射场二期项目以崭新姿态震撼亮相，该项目已基本建成并正式进入全系统合练阶段。IT之家注意到，海南商业航天发射场是中国首个专业化商业航天发射基地，位于海南省文昌市东郊镇，由海南国际商业航天发射有限公司建设运营。该项目于 2022 年 7 月 6 ",
-   "link": "https://www.ithome.com/1/009/731.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 21:42",
-   "ts": 1791121327
-  },
-  {
-   "id": "9e0b40694f8766e5a814609c63e83e0a",
-   "title": "The evolution of effective altruism",
-   "summary": "https://archive.ph/3gSCcRelated: https://www.economist.com/by-invitation/2026/10/04/will-maca...\n\nComments URL: https://news.ycombinator.com/item?id=49953777\nPo",
-   "link": "https://www.economist.com/international/2026/10/01/how-effective-altruism-conquered-the-world",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 21:30",
-   "ts": 1791120649
-  },
-  {
    "id": "f98d3c206b611ce62591c48d970cab58",
    "title": "The AirPods Pro 3 are a fantastic deal at $179",
    "summary": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening n",
@@ -1356,7 +1356,7 @@
   {
    "id": "b2f4a7c23b312ad1f2de434faa293b99",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 563\n# Comments: 270",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 580\n# Comments: 278",
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1408,7 +1408,7 @@
   {
    "id": "6c0c163721146c3be48644c9ffb10866",
    "title": "Bill Draper has died",
-   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 65\n# Comments: 17",
+   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 70\n# Comments: 17",
    "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
    "source": "Hacker News",
    "channel": "AI·科技",
