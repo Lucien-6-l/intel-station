@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06 01:03",
+ "updated_at": "2026-10-06 01:39",
  "total": 265,
  "channels": [
   "AI·科技",
@@ -14,6 +14,279 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "b662dbc4af340ed5aab53e200bc547fb",
+   "title": "‘The Batman 2’ Pauses Production as Director Matt Reeves Steps Away for a ‘Family Matter’",
+   "summary": "Warner Bros. and DC Studios have halted production on &#8220;The Batman Part II,&#8221; as director Matt Reeves takes a pause to deal with personal matters. “Pr",
+   "link": "https://variety.com/2026/film/news/the-batman-2-pauses-production-matt-reeves-steps-away-1236899247/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:35",
+   "ts": 1791221700
+  },
+  {
+   "id": "e3c1b5f0a66e279324bb94924ffa28c3",
+   "title": "Taylor Swift’s ‘Patient Zero’ Bumps ‘Choosin’ Texas’ Out of No. 1 on Hot 100; ‘Encore’ Tracks Fill Four Out of Five Top Slots",
+   "summary": "At least for one week, America finally chose differently when it came to the nation&#8217;s most consumed song. Ella Langley&#8217;s &#8220;Choosin&#8217; Texas",
+   "link": "https://variety.com/2026/music/news/taylor-swift-patient-zero-number-one-hot-100-chart-single-1236899253/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:34",
+   "ts": 1791221698
+  },
+  {
+   "id": "1d56fa0d81b0a945391a5789f47d5cdf",
+   "title": "The Kia PV5 makes for a ridiculously cool dump truck",
+   "summary": "Kia’s electric van might look even cooler as a dump truck. The PV5 was made into a dump truck, and it works.\n\n\n\n more…",
+   "link": "https://electrek.co/2026/10/05/kia-pv5-ridiculously-cool-dump-truck/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:34",
+   "ts": 1791221661
+  },
+  {
+   "id": "beb81d1c868e121b2f5162bf19643f8e",
+   "title": "David Berson to Take Over Combined Sports Operations at Skydance, Luis Silberwasser to Exit",
+   "summary": "David Berson, the head of CBS Sports, will take over the broader sports operations of Skydance once it completes its acquisition of Warner Bros. Discovery., and",
+   "link": "https://variety.com/2026/tv/news/david-berson-sports-skydance-luis-silberwasser-to-exit-1236899287/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:33",
+   "ts": 1791221626
+  },
+  {
+   "id": "0a79710322cce85b8dd4fc600d3a0fee",
+   "title": "Joey and Matthew Lawrence on Launching Their New Graphic Novel, ’90s Nostalgia and Hopes for an Animated Series",
+   "summary": "'The Lawrence Brothers Detective Agency' features Joey, Matthew and Andrew Lawrence poking fun at themselves while also battling a monster outbreak at a fan con",
+   "link": "https://www.hollywoodreporter.com/news/general-news/joey-matthew-lawrence-interview-graphic-novel-90s-nostalgia-1236722286/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:33",
+   "ts": 1791221599
+  },
+  {
+   "id": "f3433c482f2af960924449fa3815d947",
+   "title": "Jasmine Curtis-Smith, Yao, Jamie Chung to Star in Rom-Com ‘We Could Be in Love’ (Exclusive)",
+   "summary": "Lou Diamond Phillips, Tamlyn Tomita and Airline Inthyrath are also set for Marie Jamora's feature that will shoot in New York and the Philippines.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/we-could-be-in-love-jasmine-curtis-smith-yao-rom-com-1236722397/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:32",
+   "ts": 1791221563
+  },
+  {
+   "id": "d48bb19d2cd165c6cc3733b2385d1aef",
+   "title": "AirPods Pro 3 vs AirPods Pro 2: Three reasons to upgrade",
+   "summary": "Apple released AirPods Pro 3 last year, bringing several big updates to its in-ear headphones. If you’re currently using AirPods Pro 2, there are three key reas",
+   "link": "https://9to5mac.com/2026/10/05/airpods-pro-3-vs-airpods-pro-2-three-reasons-to-upgrade/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:31",
+   "ts": 1791221501
+  },
+  {
+   "id": "fa2cb3d7d544a5130167e50100f15a40",
+   "title": "Rising Italian Horror Filmmaker Paolo Strippoli Signs with WME (Exclusive)",
+   "summary": "The festival darling's latest psychological horror film, 'The Spiral', was a hit at the Venice Film Festival.",
+   "link": "https://www.hollywoodreporter.com/news/general-news/italian-horror-filmmaker-paolo-strippoli-signs-with-wme-1236717338/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:30",
+   "ts": 1791221412
+  },
+  {
+   "id": "8056d3600de9ff0fbc8cc973a1ff7600",
+   "title": "‘Verity’ Star Anne Hathaway on Whether She’s Team Letter or Team Manuscript",
+   "summary": "The ending of the book, and now movie adaptation, has had fans in a heated debate. But Hathaway, whose character is at center of it all, is pretty set on her st",
+   "link": "https://www.hollywoodreporter.com/movies/movie-features/verity-anne-hathaway-letter-manuscript-1236722356/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:30",
+   "ts": 1791221400
+  },
+  {
+   "id": "99b92ab69f62f2dec54f89b62b4a9b48",
+   "title": "Hot Girl Hotline is like ‘Dear Abby’ for the AI era",
+   "summary": "Founded by two sisters, Hot Girl Hotline uses AI to give young women personalized dating and relationship advice, with an emphasis on safety and avoiding emotio",
+   "link": "https://techcrunch.com/2026/10/05/hot-girl-hotline-is-like-dear-abby-for-the-ai-era/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:29",
+   "ts": 1791221362
+  },
+  {
+   "id": "f3ef00bba1be7b846de21a1f20a4d31a",
+   "title": "Aaron Sorkin on Why Mark Zuckerberg Isn’t a Villain in ‘The Social Reckoning,’ Despite That “He’s Making Bad Decisions That Are Hurting Us”",
+   "summary": "Sorkin joined stars Mikey Madison, Jeremy Allen White and Jeremy Strong at the NYC premiere of his 'Social Network' follow-up on Sunday.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/aaron-sorkin-mark-zuckerberg-villain-social-reckoning-1236722367/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:28",
+   "ts": 1791221284
+  },
+  {
+   "id": "2b169b77592f76d9e17f910ba729a2e8",
+   "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
+   "summary": "TechCrunch attended Pear’s latest  demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
+   "link": "https://techcrunch.com/2026/10/05/5-startups-that-caught-vcs-attention-at-the-latest-pearx-demo-day/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:26",
+   "ts": 1791221204
+  },
+  {
+   "id": "72a15b6042caf623a7765c8ed9ed6379",
+   "title": "Tony Awards Name Nominating Committee for 2026-2027 Season Including Migdalia Cruz, Daniel K. Isaac, José Rivera and More",
+   "summary": "The Tony Awards Administration Committee has announced its Nominating Committee for the 2026-27 Broadway season, with former Washington Post chief theater criti",
+   "link": "https://variety.com/2026/awards/news/tony-awards-2026-2027-nominating-committee-1236875725/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:18",
+   "ts": 1791220730
+  },
+  {
+   "id": "bef7bca27bd4c7a5e29d0ac66fa5c064",
+   "title": "‘The Batman Part II’ Production Paused as Filmmaker Matt Reeves Steps Away for “Family Matter”",
+   "summary": "DC Studios said in a statement: \"Matt has the full support of DC Studios and we look forward to continuing the journey soon.\"",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/the-batman-part-ii-paused-as-filmmaker-matt-reeves-1236722514/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:17",
+   "ts": 1791220676
+  },
+  {
+   "id": "b4b12f1ed3d68c55ab48605d751d35bf",
+   "title": "Oscars: Pakistan Picks ‘Hanging by a Wire’ for Best International Feature Film Race",
+   "summary": "Mohammed ali Naqvi’s film about an August 2023 cable car emergency is the first documentary selected as the country’s entry at the Academy Awards.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/pakistan-hanging-by-a-wire-oscars-international-feature-1236722466/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:15",
+   "ts": 1791220504
+  },
+  {
+   "id": "b6bdcc467340607369e99d792a73831a",
+   "title": "Apple notifies Apple Cash users about two upcoming changes",
+   "summary": "Apple Cash’s terms and conditions have just been updated, and Apple is notifying users about two upcoming changes in particular.\n\n\n\n more…",
+   "link": "https://9to5mac.com/2026/10/05/apple-notifies-apple-cash-users-about-two-upcoming-changes/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:14",
+   "ts": 1791220442
+  },
+  {
+   "id": "3149f6568afe25947817a947a1047b13",
+   "title": "Pick Six: NFL Week 4 winners and losers, plus grades for every team and Falcons-Saints picks",
+   "summary": "Here's everything you need to know about the NFL for Oct. 5",
+   "link": "https://www.cbssports.com/nfl/news/pick-six-nfl-week-4-winners-losers-plus-grades-falcons-saints/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:11",
+   "ts": 1791220312
+  },
+  {
+   "id": "3b9ffbee42d4af2b58b2d0c97724a1eb",
+   "title": "Karl-Anthony Towns says extension negotiations with Knicks 'don't look good' as two sides remain apart on deal",
+   "summary": "Towns expected a contract to be quickly worked out easily after his playoff showcase, but it's now clear that will not come before the season begins",
+   "link": "https://www.cbssports.com/nba/news/karl-anthony-towns-knicks-extension-negotiations/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:08",
+   "ts": 1791220115
+  },
+  {
+   "id": "63e176b3c0593511517bd5ca5338077f",
+   "title": "NFL Week 4 winners and losers, plus grades for every team and Falcons-Saints picks for Monday night",
+   "summary": "Here's everything you need to know about the NFL for Oct. 5",
+   "link": "https://www.cbssports.com/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:06",
+   "ts": 1791220006
+  },
+  {
+   "id": "01e05a061b21f23e4106ad4a78934e21",
+   "title": "Chris Wayland to Succeed Valari Staab as President of NBCUniversal Local",
+   "summary": "Chris Wayland will succeed veteran Valari Staab as president of NBCUniversal&#8217;s local-media operations, elevating the head of the company&#8217;s Boston po",
+   "link": "https://variety.com/2026/tv/news/chris-wayland-succeed-valari-staab-president-nbcu-local-1236899214/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:05",
+   "ts": 1791219900
+  },
+  {
+   "id": "a9a22d508e34d29bde679585f31f0647",
+   "title": "Saints vs. Falcons SGP: 'Monday Night Football' same-game parlay picks, bets, props from SportsLine AI",
+   "summary": "SportsLine's Machine Learning Model AI reveals its 'Monday Night Football' SGP for Atlanta vs. New Orleans",
+   "link": "https://www.cbssports.com/betting/news/saints-falcons-sgp-monday-night-football-same-game-parlay-picks-bets-player-props/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:03",
+   "ts": 1791219838
+  },
   {
    "id": "a7efc2f8dacafa2e00374bd2d0cf2652",
    "title": "SCAD Savannah Film Fest: ‘Ink’ Helmer Danny Boyle Will Receive Maverick Director Award, Guest on Live Episode of THR’s ‘Awards Chatter’ Pod",
@@ -39,6 +312,45 @@
    "urgent": false,
    "fetched_at": "10-06 01:02",
    "ts": 1791219772
+  },
+  {
+   "id": "7397904a521c501b426cef5e4eb2dbcd",
+   "title": "Daniil Medvedev DQ'd against Novak Djokovic at China Open for hitting a fan in the head with a ball",
+   "summary": "Medvedev said he's 'terribly sorry' about the incident that lead to a default",
+   "link": "https://www.cbssports.com/tennis/news/daniil-medvedev-dq-novak-djokovic-china-open-hitting-fan-ball/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:01",
+   "ts": 1791219693
+  },
+  {
+   "id": "577089cbcf1ed30cc89aa3463dff048b",
+   "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
+   "summary": "Article URL: https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk\nComments URL: https://n",
+   "link": "https://www.theguardian.com/world/2026/oct/05/russia-lab-worker-possibly-dies-of-plague-siberia-quarantine-measures-irkutsk",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:01",
+   "ts": 1791219687
+  },
+  {
+   "id": "edfe22956cff0311d3d8a6d32f4afc7b",
+   "title": "NWSL Team of the Week: Jaedyn Shaw and Lindsey Heaps stand out ahead of USWNT camps",
+   "summary": "The Attacking Third crew picked their best XI from the past week's NWSL action",
+   "link": "https://www.cbssports.com/soccer/news/nwsl-team-of-the-week-jaedyn-shaw-lindsey-heaps-uswnt/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:00",
+   "ts": 1791219634
   },
   {
    "id": "fe0a2141f06f466e6df8490eb60d69ea",
@@ -288,19 +600,6 @@
    "ts": 1791218288
   },
   {
-   "id": "3b9ffbee42d4af2b58b2d0c97724a1eb",
-   "title": "Karl-Anthony Towns says extension negotiations with Knicks 'don't look good' as two sides remain apart on deal",
-   "summary": "Towns said he expected a contract to be worked out easily after his playoff showcase",
-   "link": "https://www.cbssports.com/nba/news/karl-anthony-towns-knicks-extension-negotiations/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:37",
-   "ts": 1791218272
-  },
-  {
    "id": "14de129e4e5d467badf6b239951b6d5e",
    "title": "God Packs are Officially Coming to Magic: The Gathering",
    "summary": "Magic: The Gathering booster packs have gone through a lot of changes in the last decade, some of which have been awful. But Wizards of the Coast are introducin",
@@ -340,45 +639,6 @@
    "ts": 1791217800
   },
   {
-   "id": "0c19b62d3c42f45d97853ea70ced4ef7",
-   "title": "Inside the ‘Verity’ Adaptation: Crafting a Mystery Where Nothing Is Certain",
-   "summary": "Director Michael Showalter and author Colleen Hoover on the choices that keep viewers guessing, from an unreliable manuscript to a letter and an ending open to ",
-   "link": "https://www.hollywoodreporter.com/movies/movie-features/inside-verity-adaptation-michael-showalter-colleen-hoover-1236713900/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:30",
-   "ts": 1791217800
-  },
-  {
-   "id": "38bd45c796cce8c737c975de591924b2",
-   "title": "College Football Power Rankings: Ohio State up to No. 2 after Jeremiah Smith's historic day, Florida falls",
-   "summary": "Missouri surges, Florida tumbles and only 15 undefeated teams remain after a chaotic weekend that cleared the way for Ohio State to climb to No. 2",
-   "link": "https://www.cbssports.com/college-football/news/college-football-power-rankings-ohio-state-florida/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:27",
-   "ts": 1791217622
-  },
-  {
-   "id": "ade7f46d12d726bbcbf08db2d53ddeaa",
-   "title": "High stakes, external pressure bring out best in Tom Kim, Adrian Meronk over wild golf weekend",
-   "summary": "From the FedEx Cup Fall slate on the PGA Tour all the way to the Asian Games, this weekend in golf was not one to miss",
-   "link": "https://www.cbssports.com/golf/news/high-stakes-external-pressure-tom-kim-adrian-meronk/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:26",
-   "ts": 1791217604
-  },
-  {
    "id": "fa23a8133409a1aba1cc8fa3e56ce157",
    "title": "Explained: What other PL clubs expect to happen after Man City rule breaches",
    "summary": "Kaveh Solhekol explains how the other Premier League clubs are reacting to Manchester City's rule breaches ahead of the appeal process",
@@ -390,19 +650,6 @@
    "urgent": false,
    "fetched_at": "10-06 00:26",
    "ts": 1791217560
-  },
-  {
-   "id": "09c00c91ad89e92b0d7582a77de76f44",
-   "title": "Saints vs. Falcons prediction, odds, time: Week 4 'Monday Night Football' picks from proven model",
-   "summary": "SportsLine's model has revealed its Atlanta Falcons vs. New Orleans Saints picks for 'Monday Night Football'",
-   "link": "https://www.cbssports.com/betting/news/saints-vs-falcons-prediction-odds-time-week-4-monday-night-football-picks-bets/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:25",
-   "ts": 1791217523
   },
   {
    "id": "b83949d5deea71d58a05f9e3a7114e54",
@@ -429,19 +676,6 @@
    "urgent": false,
    "fetched_at": "10-06 00:23",
    "ts": 1791217391
-  },
-  {
-   "id": "7cea3f146bf3e5a79c4f42566449139c",
-   "title": "CMA’s ‘Celebration of Dolly Parton’ Special Slates 20 Performers, Including Ella Langley, Lainey Wilson, Molly Tuttle and Reba McEntire",
-   "summary": "The lineup has been announced for “CMA Presents I Will Always Love You: A Celebration of Dolly Parton,” a special set to air live on ABC and Disney+ Oct. 21, wi",
-   "link": "https://variety.com/2026/music/news/cma-dolly-parton-celebration-abc-special-ella-langley-1236899168/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:21",
-   "ts": 1791217271
   },
   {
    "id": "7b0fba4339908144189a6f92b889fe27",
@@ -483,19 +717,6 @@
    "ts": 1791217083
   },
   {
-   "id": "307649a5270513ce7bb6b3276e263996",
-   "title": "Disney Wants Up to $12 Million for Super Bowl Commercials, Even With Big Game Ads Sold Out",
-   "summary": "Disney is attempting a feat of magic that might vex even talented sorcerers like its own Maleficient or Dr. Strange. After clashing with advertisers earlier thi",
-   "link": "https://variety.com/2026/tv/news/disney-seeking-12-million-super-bowl-commercials-sold-out-1236899146/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:18",
-   "ts": 1791217080
-  },
-  {
    "id": "4f0035aa3c600a8e28d28b9079bb7722",
    "title": "Arc Raiders and The Finals Are Getting Adapted Into Films and TV Shows",
    "summary": "Hollywood is mining Arc Raiders and The Finals for its next big video game adaptations, as the two franchises will be turned into films and TV shows.",
@@ -507,45 +728,6 @@
    "urgent": false,
    "fetched_at": "10-06 00:17",
    "ts": 1791217044
-  },
-  {
-   "id": "2ca2e260776cc8696c7ad1625727293a",
-   "title": "Jamie Foxx Does Not Want to Be Canceled Over New Hulu Stand-up Special: “After That Kevin Hart Roast, I Had to Cut Everything”",
-   "summary": "The comedian tells THR how he really felt about that George Floyd joke, why he won't go on Shannon Sharpe's 'Club Shay Shay' podcast and why he's not chasing la",
-   "link": "https://www.hollywoodreporter.com/tv/tv-features/jamie-foxx-take-care-of-yourself-hulu-special-interview-1236710409/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:15",
-   "ts": 1791216900
-  },
-  {
-   "id": "c8af9d21709b0824ba668c5ab063250b",
-   "title": "Underdog promo code and prediction markets review: Use code CBS for up to $1,000 Bonus",
-   "summary": "Learn about the Underdog Prediction Picks product within the Underdog app and use Underdog promo code CBS for up to $1,000 in bonus funds and more, as of Octobe",
-   "link": "https://www.cbssports.com/prediction/news/underdog-promo-code/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:12",
-   "ts": 1791216751
-  },
-  {
-   "id": "7279cbfaef235503b61f6c702dfa0b5f",
-   "title": "How Lionel Messi transcended 'next Maradona' tag and remade Argentina in his own image",
-   "summary": "The Argentinian legend will play his last ever match with the national team on October 6 against Benin",
-   "link": "https://www.cbssports.com/soccer/news/lionel-messi-next-maradona-argentina/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:10",
-   "ts": 1791216608
   },
   {
    "id": "5dcb0202244915b24c7ee094cd2293c6",
@@ -587,19 +769,6 @@
    "ts": 1791216014
   },
   {
-   "id": "20e809a01109e1628be1c1ef4151a0c1",
-   "title": "Hammer Films Boss John Gore on Resurrecting the British Horror Icon, Plans to Remake the Classics and Why Christopher Lee Was the ‘Greatest Dracula’",
-   "summary": "In the credits for the &#8220;Paranormal Activity&#8221; stage play currently running on the West End before it heads off to Broadway next year, next to Blumhou",
-   "link": "https://variety.com/2026/film/global/hammer-films-boss-john-gore-resurrecting-horror-icon-1236897440/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:00",
-   "ts": 1791216008
-  },
-  {
    "id": "385be668ca901ca2ce1ae7f484813062",
    "title": "Dungeons and Dragons: World of Warcraft – Everything You Need to Know",
    "summary": "Dungeons and Dragons: World of Warcraft was announced way back in July, as the first Universes Beyond release for the storied tabletop RPG. And just like the MM",
@@ -639,58 +808,6 @@
    "ts": 1791216000
   },
   {
-   "id": "b40cc8f0d23a149b9789c93087ce4e5e",
-   "title": "As WME’s Literary Media Department Turns 10, It Aims to Keep Pace With How Books Are Adapted: ‘Our Culture Is Shifting’",
-   "summary": "The WME literary media department, responsible for working with authors and shepherding screen adaptations of their literary works, is marking its tenth anniver",
-   "link": "https://variety.com/2026/tv/news/wme-literary-media-10-year-anniversary-dtf-st-louis-1236893981/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:00",
-   "ts": 1791216000
-  },
-  {
-   "id": "c04e70b10f663fb4181947156d18dc1f",
-   "title": "‘I Play Rocky,’ ‘Paper Tiger’ and ‘Josephine’ Among Coronado Island Film Festival 2026 Lineup",
-   "summary": "“I Play Rocky,” “Paper Tiger” and “Josephine” are among the 140 narrative features, documentaries and short films set to screen during the Coronado Island Film ",
-   "link": "https://variety.com/2026/film/news/coronado-island-film-festival-i-play-rocky-paper-tiger-1236898862/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:00",
-   "ts": 1791216000
-  },
-  {
-   "id": "b9fdc4f6100a518d585383064efdb56b",
-   "title": "‘SNL UK’ Cast Member Al Nash, DaniBabes Among UTA Creators Roster Signings (Exclusive)",
-   "summary": "Britney De Villiers, Nimi Mehta, Grace Andrews and Tara Keeney also join the talent company's growing London-based practice.",
-   "link": "https://www.hollywoodreporter.com/business/business-news/snl-uk-cast-member-al-nash-danibabes-uta-creators-signing-1236720773/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:00",
-   "ts": 1791216000
-  },
-  {
-   "id": "b908ce0f362843dcdccf7ad0ea00430e",
-   "title": "Ron Howard to be Honored at 2026 Critics Choice Documentary Awards",
-   "summary": "Jehane Noujaim will receive a lifetime achievement award named for D.A. Pennebaker while Ross Mathews is set to host the Nov. 8 awards ceremony in New York.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/ron-howard-2026-critics-choice-documentary-awards-honor-1236722378/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:00",
-   "ts": 1791216000
-  },
-  {
    "id": "35abda6c7065be65b6990df564e54246",
    "title": "OpenAI 将在欧盟为 ChatGPT 和 Codex 文本输出添加隐形水印",
    "summary": "IT之家 10 月 5 日消息，OpenAI 今日宣布，为配合《欧盟人工智能法案》的内容透明要求，未来几周将在欧盟地区符合条件的 ChatGPT 和 Codex 文本输出中加入机器可识别的隐形水印。据介绍，文本水印技术名为 textGrain（文本粒水印），会在模型选词过程中嵌入不可见的统计信号。检测器通过识别该信号，",
@@ -715,19 +832,6 @@
    "urgent": false,
    "fetched_at": "10-05 23:57",
    "ts": 1791215826
-  },
-  {
-   "id": "1db0abbd061629bb2e1053c37199c271",
-   "title": "Luke Grimes Wasn’t Sure If ‘Marshals’ Would Be a Hit. Now He’s Prepping for a ‘Yellowstone’ Kind of Run",
-   "summary": "The actor who plays Kayce Dutton talks all things season two, including 'Yellowstone' star Jimmy's (Jefferson White) return, if former star Kelsey Asbille has b",
-   "link": "https://www.hollywoodreporter.com/tv/tv-features/marshals-season-2-yellowstone-luke-grimes-interview-1236722080/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:47",
-   "ts": 1791215222
   },
   {
    "id": "0cfd94df06b578d44e6d95835549c563",
@@ -782,6 +886,19 @@
    "ts": 1791214993
   },
   {
+   "id": "ef9f5b1fac4c6685cdc3c3d825972f07",
+   "title": "Our approach to EU text provenance rules",
+   "summary": "Article URL: https://openai.com/index/eu-text-provenance/\nComments URL: https://news.ycombinator.com/item?id=49966293\nPoints: 12\n# Comments: 0",
+   "link": "https://openai.com/index/eu-text-provenance/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:38",
+   "ts": 1791214735
+  },
+  {
    "id": "3dcdce975d9f8b4385ab8b71bab4a681",
    "title": "Gas cars fall below 50% of global new car sales for the first time",
    "summary": "Gas cars are now a minority of the world’s new car sales. Gasoline-only vehicles made up 49% of global new-vehicle sales in the first half of 2026, down from 73",
@@ -823,7 +940,7 @@
   {
    "id": "dd7471b0aeb45d5a072ab7618bb4d18b",
    "title": "The future of independence is interdependence",
-   "summary": "Article URL: https://onlys.ky/independence-is-interdependence/\nComments URL: https://news.ycombinator.com/item?id=49966163\nPoints: 13\n# Comments: 6",
+   "summary": "Article URL: https://onlys.ky/independence-is-interdependence/\nComments URL: https://news.ycombinator.com/item?id=49966163\nPoints: 26\n# Comments: 17",
    "link": "https://onlys.ky/independence-is-interdependence/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -901,7 +1018,7 @@
   {
    "id": "2792218ac71de41470524fc80453d942",
    "title": "Borland Turbo Basic",
-   "summary": "Article URL: https://dosdays.co.uk/topics/Software/borland_turbo_basic.php\nComments URL: https://news.ycombinator.com/item?id=49965894\nPoints: 63\n# Comments: 32",
+   "summary": "Article URL: https://dosdays.co.uk/topics/Software/borland_turbo_basic.php\nComments URL: https://news.ycombinator.com/item?id=49965894\nPoints: 84\n# Comments: 47",
    "link": "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -925,30 +1042,17 @@
    "ts": 1791212911
   },
   {
-   "id": "36f55c8bcb6800dbf52b619d886bf386",
-   "title": "Gillian Anderson Responds to Backlash Over Telling Superfans to Stop Sitting in Front Row",
-   "summary": "\"It'll drive me mad,\" she said. The actress then clarified her comments after a video of the confrontation went viral.",
-   "link": "https://www.hollywoodreporter.com/news/general-news/gillian-anderson-virginia-woolf-fans-front-row-video-1236722252/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
+   "id": "cc21d3e6313ad15f0f1315de505dc661",
+   "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+   "summary": "Article URL: https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election\nComments URL: https://news.ycombinator.com/item?id=49965833\nPoints: 17\n# ",
+   "link": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "教程",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-05 23:03",
-   "ts": 1791212618
-  },
-  {
-   "id": "0a06d5a80af609066c94d809003cd57f",
-   "title": "Prime Video’s ‘Things We Never Got Over’ Adaptation Adds Sean Teale, Sarah Jeffery and More",
-   "summary": "The series is based on Lucy Score's novel of the same name, the first in her 'Knockemout' trilogy.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/things-we-never-got-over-prime-video-adds-six-cast-1236722300/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:03",
-   "ts": 1791212584
+   "fetched_at": "10-05 23:06",
+   "ts": 1791212787
   },
   {
    "id": "530128f0d984408dc4f4ef0a6c0fd475",
@@ -1005,7 +1109,7 @@
   {
    "id": "c301be9ba2a38e79d14579d0fc0d4e3b",
    "title": "Medvedev defaulted for hitting spectator with ball in defeat to Djokovic",
-   "summary": "Daniil Medvedev was defaulted for hitting a spectator with a ball as Novak Djokovic took his impeccable record at the China Open to 33-0 and moved one win away ",
+   "summary": "Daniil Medvedev was defaulted for hitting a spectator in the face with a ball as Novak Djokovic took his impeccable record at the China Open to 33-0 and moved o",
    "link": "https://www.skysports.com/tennis/news/12040/13595259/daniil-medvedev-defaulted-for-hitting-spectator-with-ball-as-novak-djokovic-reaches-another-china-open-final",
    "source": "Sky Sports",
    "channel": "体育",
@@ -1317,7 +1421,7 @@
   {
    "id": "7243e4d735a6a3231371fac465231860",
    "title": "Making a GTK application in Haskell, part 1",
-   "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/\nComments URL: https://news.ycombinator.com/item?id=49965308\nPoints: 45\n# Comment",
+   "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/\nComments URL: https://news.ycombinator.com/item?id=49965308\nPoints: 55\n# Comment",
    "link": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1393,6 +1497,19 @@
    "ts": 1791209664
   },
   {
+   "id": "757d6176735651e4dc12268735ccca8e",
+   "title": "The designer lamps in my house",
+   "summary": "Article URL: https://arslan.io/2026/10/05/the-lamps-in-my-house/\nComments URL: https://news.ycombinator.com/item?id=49965152\nPoints: 4\n# Comments: 1",
+   "link": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:12",
+   "ts": 1791209534
+  },
+  {
    "id": "f9a23262fc3bc3d9b17960c9ca1d2dac",
    "title": "The best early October Prime Day deals happening now",
    "summary": "Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on th",
@@ -1421,7 +1538,7 @@
   {
    "id": "5116a159e846f1c968ec92897323663e",
    "title": "Picard 3.0",
-   "summary": "Article URL: https://blog.metabrainz.org/2026/10/04/picard-3-0-released/\nComments URL: https://news.ycombinator.com/item?id=49965047\nPoints: 42\n# Comments: 25",
+   "summary": "Article URL: https://blog.metabrainz.org/2026/10/04/picard-3-0-released/\nComments URL: https://news.ycombinator.com/item?id=49965047\nPoints: 63\n# Comments: 28",
    "link": "https://blog.metabrainz.org/2026/10/04/picard-3-0-released/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1796,19 +1913,6 @@
    "ts": 1791203700
   },
   {
-   "id": "2ea7bfe223ca0cffdadf93b28e09167b",
-   "title": "The Era of Software Quality, or the Era of Ostriches?",
-   "summary": "Article URL: https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/\nComments URL: https://news.ycombinator.com/item?",
-   "link": "https://blogs.gnome.org/mcatanzaro/2026/10/02/the-era-of-software-quality-or-the-era-of-ostriches/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:33",
-   "ts": 1791203595
-  },
-  {
    "id": "cfaa1eb30bb75da79766bd73a8b7a917",
    "title": "Prime Day Mac deals start early: New Mac mini $150 off, MacBook Air $200 off, much more",
    "summary": "Just after catching AirPods Pro 3 dropping to one of the lowest prices to date, the fall Prime Day deals are starting to flood in on the latest Mac releases. We",
@@ -1978,19 +2082,6 @@
    "ts": 1791201256
   },
   {
-   "id": "36d8d88650831f3ceccaea142e237e64",
-   "title": "John Ternus and Tim Cook took opposite approaches to design, and both were right",
-   "summary": "One of the most famous and successful partnerships in the history of technology has been that of Steve Jobs and Jony Ive. When Tim Cook took over as CEO, he did",
-   "link": "https://9to5mac.com/2026/10/05/john-ternus-and-tim-cook-took-opposite-approaches-to-design-and-both-were-right/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:53",
-   "ts": 1791201182
-  },
-  {
    "id": "da8b5c9d28a112b3956ff93d999b1cc6",
    "title": "It’s now easier than ever to get your motorcycle license on an electric bike",
    "summary": "LiveWire’s smallest electric motorcycle is about to take on a new role, and it could prove to be one of the most important ones yet. The LiveWire S4 Honcho Stre",
@@ -2019,7 +2110,7 @@
   {
    "id": "3312239b96eedb90cb913ac372ca3f79",
    "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
-   "summary": "Article URL: https://github.com/rui314/mold/releases/tag/v3.0.0\nComments URL: https://news.ycombinator.com/item?id=49963385\nPoints: 94\n# Comments: 35",
+   "summary": "Article URL: https://github.com/rui314/mold/releases/tag/v3.0.0\nComments URL: https://news.ycombinator.com/item?id=49963385\nPoints: 118\n# Comments: 50",
    "link": "https://github.com/rui314/mold/releases/tag/v3.0.0",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2069,19 +2160,6 @@
    "ts": 1791197831
   },
   {
-   "id": "cd5f43595a77897148499a8cb44853f1",
-   "title": "Focus Modes are another way Apple has adapted iOS 27 for the iPhone Duo",
-   "summary": "The unique form factor of the iPhone Duo led Apple to adapt iOS 27 in a number of ways to take full advantage of the upcoming new phone. This includes the iPhon",
-   "link": "https://9to5mac.com/2026/10/05/focus-modes-are-another-way-apple-has-adapted-ios-27-for-the-iphone-duo/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:54",
-   "ts": 1791197693
-  },
-  {
    "id": "48ddca0ccc9576e3119e6d5c59f265c1",
    "title": "The Engineering Anatomy of API Vulnerabilities: A Deep Dive into the OWASP API Security Top 10",
    "summary": "Most security articles read like threat reports. They describe vulnerabilities from the outside looking in: what an attacker does, what the impact is, and how m",
@@ -2093,19 +2171,6 @@
    "urgent": false,
    "fetched_at": "10-05 18:54",
    "ts": 1791197680
-  },
-  {
-   "id": "cdc0640cf0c674ee2720f80f1fbc61b3",
-   "title": "Web Search API",
-   "summary": "Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/\nComments URL: https://news.ycombinator.com/item?id=49963171",
-   "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:47",
-   "ts": 1791197226
   },
   {
    "id": "b2558d25d8c55278379e43035354737e",
@@ -2147,19 +2212,6 @@
    "ts": 1791195122
   },
   {
-   "id": "5b7ae3f4d353c7d7288399122933be2c",
-   "title": "Apple and a Hacker's Future",
-   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 147\n# Comments: 141",
-   "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:05",
-   "ts": 1791194702
-  },
-  {
    "id": "0974caae931afd978857cc454f5d18cb",
    "title": "2026 Nobel Prize in Medicine awarded for brain research tool called optogenetics",
    "summary": "Karl Deisseroth, Peter Hegemann, and Georg Nagel are the joint recipients of the 2026 Nobel Prize in Physiology or Medicine “for their discoveries concerning li",
@@ -2184,19 +2236,6 @@
    "urgent": false,
    "fetched_at": "10-05 17:39",
    "ts": 1791193142
-  },
-  {
-   "id": "6c33b3fd15bc85c234177b37412d294a",
-   "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
-   "summary": "https://www.nobelprize.org/prizes/medicine/2026/press-releas...\n\nComments URL: https://news.ycombinator.com/item?id=49962572\nPoints: 26\n# Comments: 29",
-   "link": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:33",
-   "ts": 1791192793
   },
   {
    "id": "ae6dfd268fbc151cb0f8a38a1e0ea704",
@@ -2420,19 +2459,6 @@
    "ts": 1791145867
   },
   {
-   "id": "039fe5e2a6538f6f90f4b1018137a4bf",
-   "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
-   "summary": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
-   "link": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 04:08",
-   "ts": 1791144514
-  },
-  {
    "id": "45a566f2607bf005247a52bd2e7ab260",
    "title": "Deals: here's how to avoid the Galaxy S26 series price hike",
    "summary": "In case you missed it, Samsung increased the Galaxy S26 prices globally – in the US, they are $100 higher than they were at launch seven months ago. And even ba",
@@ -2496,19 +2522,6 @@
    "urgent": false,
    "fetched_at": "10-05 00:10",
    "ts": 1791130202
-  },
-  {
-   "id": "faac6fb8fe99f4e0c3af42d1a9085329",
-   "title": "TechCrunch Mobility: Reining in robotaxis",
-   "summary": "Welcome back to TechCrunch Mobility, your hub for the future of transportation and now, more than ever, the role AI is playing in it.",
-   "link": "https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 00:05",
-   "ts": 1791129900
   },
   {
    "id": "062a24f938d7498871d46c5c78524202",
@@ -2596,19 +2609,6 @@
    "source": "Real Python",
    "channel": "教程",
    "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 22:00",
-   "ts": 1791122400
-  },
-  {
-   "id": "77f2f4e1bb3ec5552a2063cb48ae4f19",
-   "title": "Strings and Character Data in Python",
-   "summary": "Work with Python strings using a rich set of operators and functions: string literals, the str() function, and the methods you'll use most.",
-   "link": "https://realpython.com/python-strings/",
-   "source": "Real Python",
-   "channel": "教程",
-   "category": "资讯",
    "weight": 2,
    "urgent": false,
    "fetched_at": "10-04 22:00",
