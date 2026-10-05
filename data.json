@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05 09:38",
+ "updated_at": "2026-10-05 10:03",
  "total": 258,
  "channels": [
   "AI·科技",
@@ -14,6 +14,123 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "88e3d6321207af7750cda0afbd5f8e6b",
+   "title": "消息称 Reflection 等多家西方企业本月将推出开放权重 AI 模型",
+   "summary": "IT之家 10 月 5 日消息，外媒 Axios 当地时间 4 日报道称，Reflection 等多家西方企业本月将推出开放权重 AI 模型，人工智能模型领域的竞争将进一步升级。开放权重模型的一大好处是其支持客户本地部署，这对微调和推理数据安全有着严格要求的部分行业来说是一项关键性优势。报道表示，Reflection ",
+   "link": "https://www.ithome.com/1/009/765.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 10:02",
+   "ts": 1791165725
+  },
+  {
+   "id": "816ce3e86888371894e0df9021caae72",
+   "title": "跨越百年的代言：斯凯孚用 AI“复活”已故女星葛丽泰 · 嘉宝拍广告",
+   "summary": "IT之家 10 月 5 日消息，“开拍了吗？”由人工智能生成的好莱坞三十年代影星葛丽泰 · 嘉宝（Greta Garbo）的形象柔声问道。这是一则看起来颇出人意料的广告，广告的投放方是瑞典滚珠轴承制造商斯凯孚（SKF）。据路透社报道，这则广告引发了热议，收获赞许的同时也遭到嘲讽。这件事也凸显出，技术日趋成熟的人工智能正",
+   "link": "https://www.ithome.com/1/009/764.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:00",
+   "ts": 1791165614
+  },
+  {
+   "id": "1417de4fef9a482454b2f963509594a6",
+   "title": "‘Lanterns’ Finale: Hal Jordan’s Killer and Manhunter Revealed, Sinestro Creates [SPOILER], John Stewart Powers Up for ‘Superman’ Sequel",
+   "summary": "SPOILER ALERT: This article contains spoilers for the &#8220;Lanterns&#8221; finale, now streaming on HBO Max. Have no fear, the &#8220;Lanterns&#8221; finale i",
+   "link": "https://variety.com/2026/tv/news/lanterns-finale-hal-killer-manhunter-sinestro-yellow-lantern-1236897626/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:00",
+   "ts": 1791165600
+  },
+  {
+   "id": "d286b4ad84c09497bac295efd3b3b086",
+   "title": "‘Lanterns’ Team Breaks Down Finale’s Emotional Gamble, Hal Jordan’s Ultimate Fate and John Stewart’s Future",
+   "summary": "Some viewers might take issue with one major swing, but the team sees it as \"remixing\" rather than \"rewriting\" Green Lantern canon.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-features/lanterns-finale-john-stewart-hal-jordan-1236721962/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:00",
+   "ts": 1791165600
+  },
+  {
+   "id": "0bc42e5083cd3c5f1b6a8023f1038ab9",
+   "title": "消息称 Wayve 将为大众供应自动驾驶解决方案",
+   "summary": "IT之家 10 月 5 日消息，德媒 Donaukurier 当地时间本月 2 日报道称，英国具身智能初创企业 Wayve 从诸多竞争者中胜出，将同大众汽车集团旗下软件公司 CARIAD 合作为大众供应自动驾驶解决方案。Wayve 将开发自动驾驶人工智能软件，CARIAD 则负责软件与大众-博世联合开发硬件的系统集成工",
+   "link": "https://www.ithome.com/1/009/762.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:48",
+   "ts": 1791164899
+  },
+  {
+   "id": "03134b93beb96396e9f5c6ec279070be",
+   "title": "OpenAI 宣布“28 天计划”：Codex、Work 日进一步或“重置”",
+   "summary": "IT之家 10 月 5 日消息，OpenAI 核心产品与平台负责人 Thibault Sottiaux 今日在 X 上发文，透露团队将在未来 28 天持续推进 Codex 和 ChatGPT Work 相关改进。他表示，OpenAI 接下来每天都会发布一项“对大多数 Codex / Work 用户而言有明显改善且具备实",
+   "link": "https://www.ithome.com/1/009/761.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:47",
+   "ts": 1791164847
+  },
+  {
+   "id": "5adaba759ce1b69035c8b394d99a9e66",
+   "title": "Tyquan Thornton exits with gruesome ankle injury after monster game for Chiefs",
+   "summary": "Thornton had already established career highs in receiving yards and touchdowns before exiting late in the fourth quarter",
+   "link": "https://www.cbssports.com/nfl/news/chiefs-tyquan-thornton-ankle-injury-raiders/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:46",
+   "ts": 1791164818
+  },
+  {
+   "id": "e441a92ae5ee0f77b1fc37941f05412c",
+   "title": "iQOO Pad Ultra 小平板开售：第六代骁龙 8 超级至尊版，首销价 5999 元起",
+   "summary": "IT之家 10 月 5 日消息，iQOO Pad Ultra 小平板于 9 月 29 日正式发布，10 月 5 日 10:00 全渠道正式开售，首销价 5999 元起：12GB+256GB：6499 元，首销优惠价 5999 元，国补后 5499 元16GB+256GB：7199 元16GB+512GB：7999 元1",
+   "link": "https://www.ithome.com/1/009/760.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:39",
+   "ts": 1791164354
+  },
+  {
+   "id": "1062c33a407ee30cf9dba653f433ed53",
+   "title": "更大容量选项：SUNEAST 预告 2TB microSD Express 存储卡",
+   "summary": "IT之家 10 月 5 日消息，日本存储与配件制造商旭东 (SUNEAST) 此前已推出了 128GB / 256GB / 512GB / 1TB 四种容量的 microSD Express 存储卡。而根据其官网上的宣传资料，该企业还将推出 2TB 版本的 microSD Express 卡。该卡获得 U3、V30、A",
+   "link": "https://www.ithome.com/1/009/759.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:38",
+   "ts": 1791164316
+  },
   {
    "id": "8aead6d560b2bb06ad065cfdf6741077",
    "title": "软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁",
@@ -184,19 +301,6 @@
    "ts": 1791161905
   },
   {
-   "id": "b66d8cfd0e1ed343608b04eb62101d71",
-   "title": "The logic of gambling undergirds everything coming out of Silicon Valley",
-   "summary": "Article URL: https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html\nComments URL: https://news.ycombinator.com/item?id=49959583",
-   "link": "https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 08:58",
-   "ts": 1791161888
-  },
-  {
    "id": "adfebe999f9ec349c31494411efb4123",
    "title": "古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室",
    "summary": "IT之家 10 月 5 日消息，自乔纳森 · 伊夫（Jony Ive）2019 年离开苹果之后，这家公司就一直没有一位真正的首席设计负责人。此前一段时间，由前首席运营官杰夫 · 威廉姆斯（Jeff Williams）接管设计业务，直至他去年离职。彭博社的马克 · 古尔曼（Mark Gurman）称，自杰夫 · 威廉姆斯",
@@ -210,32 +314,6 @@
    "ts": 1791161812
   },
   {
-   "id": "06b2117ba8fdcfa0715bca7bbf6064df",
-   "title": "DeepSeek V4.1 Flash 发力，中美顶尖模型 LiveBench 跑分差距缩至 3%",
-   "summary": "北京时间 10 月 5 日，据彭博行业研究称，过去几个月，随着 DeepSeek 等中国 AI 实验室的模型不断进步，美国 AI 公司相对中国同行的性能领先优势急剧缩小，降至历史最低水平，这让美国的科技主导地位面临威胁。DeepSeek彭博行业研究高级分析师罗伯特 · 利亚 (Robert Lea) 在周一的一份报告中",
-   "link": "https://www.ithome.com/1/009/751.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-05 08:50",
-   "ts": 1791161423
-  },
-  {
-   "id": "e8fe6dc3ab3792ba0c8f335f787ee19c",
-   "title": "古尔曼：配备 OLED 触控屏的全新苹果 MacBook Pro 将大幅减重",
-   "summary": "IT之家 10 月 5 日消息，苹果即将对 MacBook Pro 进行一次重大重塑，新机大约会在一个月之内正式亮相。这将是首款支持触控屏的 MacBook，同时也是首次采用叠层 OLED（Tandem OLED）屏幕的机型。除此之外，据彭博社的马克 · 古尔曼（Mark Gurman）在最新一期《Power On》中",
-   "link": "https://www.ithome.com/1/009/750.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 08:39",
-   "ts": 1791160798
-  },
-  {
    "id": "50e2243f4437278f492f79b2e045af5e",
    "title": "NFL Week 4 grades for all 32 teams: Ben Johnson, Bears earn 'A-' despite injury woes; Bengals slip again",
    "summary": "We're handing out grades for every Week 4 game",
@@ -247,58 +325,6 @@
    "urgent": false,
    "fetched_at": "10-05 08:31",
    "ts": 1791160292
-  },
-  {
-   "id": "f1fb328dab776be2b5bca1909ffd09b7",
-   "title": "2026 诺贝尔奖即将揭晓，9 位华人科学家成热门候选人",
-   "summary": "IT之家 10 月 5 日消息，2026 年诺贝尔奖各奖项揭晓活动将于 10 月 5 日至 12 日依次进行，其中与科技相关的生理学或医学奖（10 月 5 日）、物理学奖（10 月 6 日）、化学奖（10 月 7 日）即将公布，目前有 9 位华人科学家被视作相关奖项的热门候选人，其中薛其坤、卢煜明、陈志坚等人呼声最高。",
-   "link": "https://www.ithome.com/1/009/748.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 08:27",
-   "ts": 1791160059
-  },
-  {
-   "id": "e060755960d8536f9316483ef5176966",
-   "title": "宝马中国 2027 年产品规划路线图曝光：iX1 长轴距版与 3 系长轴距版有望同期亮相",
-   "summary": "IT之家 10 月 5 日消息，宝马在 2026 资本市场日活动的相关文件中披露了一张面向中国市场的产品路线图，其中展示了数款身披伪装车衣、计划于 2027 年底前登陆中国市场的神秘车型。这张路线图并未标注具体车型名称，但结合宝马当前的产品规划，BMWBlog 对其中的蒙布车型给出了若干推测。已明确出现在路线图中的车型",
-   "link": "https://www.ithome.com/1/009/747.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 08:24",
-   "ts": 1791159897
-  },
-  {
-   "id": "872de5325a9caa640f55860d478e5f83",
-   "title": "“机器人通用大脑”受追捧：FieldAI 拟融资 7 亿美元，估值达 100 亿美元",
-   "summary": "IT之家 10 月 5 日消息，FieldAI 正在为人形机器人、无人机等各类机器人打造一款通用大脑。投资者正为重押这一发展愿景投入巨资。据《商业内幕》报道，一位了解本次交易的人士透露，这家机器人企业正在融资 7 亿美元（IT之家注：现汇率约合 46.97 亿元人民币），投后估值达到 100 亿美元（现汇率约合 671",
-   "link": "https://www.ithome.com/1/009/746.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-05 08:15",
-   "ts": 1791159329
-  },
-  {
-   "id": "e559c10beaa7bd4924709ca14932b735",
-   "title": "OpenAI GPT-6 Sol 被破解，30 万字系统提示词已泄露",
-   "summary": "大模型圈的核心机密，终究还是保不住了！继前阵子 Opus 5.5 被爆出 190 万字提示词泄露后，AI 圈的「地心引力」再次失效 ——OpenAI 的现役代码模型 GPT-6 Sol Codex 惨遭「开盒」，老底被扒得一干二净！据外网爆料者（@elder_plinius）放出的大瓜，他成功提取了 GPT-6 Sol",
-   "link": "https://www.ithome.com/1/009/745.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 08:14",
-   "ts": 1791159245
   },
   {
    "id": "b9db9d47eaa6c229fbba50ed0d34c4a5",
@@ -364,19 +390,6 @@
    "urgent": false,
    "fetched_at": "10-05 07:53",
    "ts": 1791158002
-  },
-  {
-   "id": "5adaba759ce1b69035c8b394d99a9e66",
-   "title": "Tyquan Thornton exits with gruesome ankle injury after monster game for Chiefs",
-   "summary": "Thornton had already established career highs in receiving yards and touchdowns before exiting late in the fourth quarter",
-   "link": "https://www.cbssports.com/nfl/news/chiefs-tyquan-thornton-ankle-injury-raiders/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:52",
-   "ts": 1791157956
   },
   {
    "id": "fc1cf557572c4b37d59fbeb791144269",
@@ -459,7 +472,7 @@
   {
    "id": "a61705551fcaf05aa19a7aeaf36d5d7a",
    "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-   "summary": "Article URL: https://getartcraft.com/apps\nComments URL: https://news.ycombinator.com/item?id=49958850\nPoints: 29\n# Comments: 18",
+   "summary": "Article URL: https://getartcraft.com/apps\nComments URL: https://news.ycombinator.com/item?id=49958850\nPoints: 32\n# Comments: 30",
    "link": "https://getartcraft.com/apps",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -537,7 +550,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 59\n# Comments: 12",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 65\n# Comments: 16",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -650,19 +663,6 @@
    "urgent": false,
    "fetched_at": "10-05 05:31",
    "ts": 1791149462
-  },
-  {
-   "id": "d35e7f7025a474cec78358523f322d99",
-   "title": "Taylor Swift’s ‘Encore’ Edition Boosts ‘The Life of a Showgirl’ Back to No. 1 for First Time Since January, Adding a 13th Week on Top",
-   "summary": "Taylor Swift&#8217;s &#8220;The Life of a Showgirl&#8221; returned to the No. 1 spot on the Billboard 200 album chart after last vacating that position in Janua",
-   "link": "https://variety.com/2026/music/news/taylor-swift-showgirl-encore-album-chart-number-one-1236898681/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 05:17",
-   "ts": 1791148671
   },
   {
    "id": "a2a0b75dd253014cc0b7c9bb7a93e5ef",
@@ -797,7 +797,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 356\n# Comments: 222",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 367\n# Comments: 225",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -849,7 +849,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 87\n# Comments: 27",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 93\n# Comments: 33",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -953,7 +953,7 @@
   {
    "id": "e49cb76f32a7dde56f80586a82cabdc8",
    "title": "Incentives in Academic Research",
-   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 38\n# Comments: 2",
+   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 38\n# Comments: 3",
    "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1079,19 +1079,6 @@
    "urgent": false,
    "fetched_at": "10-05 00:41",
    "ts": 1791132118
-  },
-  {
-   "id": "025cb3543d946c70d40ee90b6d84e0df",
-   "title": "Marjoe Gortner, Child Preacher and ‘Earthquake,’ ‘Falcon Crest’ Actor, Dies at 82",
-   "summary": "The subject of an Oscar-winning documentary, the Universal Pictures contract player also starred with Lynda Carter in ‘Bobbie Jo and the Outlaw.’",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/marjoe-gortner-dead-child-preacher-earthquake-falcon-crest-1236721873/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 00:40",
-   "ts": 1791132010
   },
   {
    "id": "049e5e278e21cffe512af6004a83e2d0",
@@ -1382,7 +1369,7 @@
   {
    "id": "b2f4a7c23b312ad1f2de434faa293b99",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 612\n# Comments: 285",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 617\n# Comments: 289",
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1430,6 +1417,19 @@
    "urgent": false,
    "fetched_at": "10-04 20:31",
    "ts": 1791117061
+  },
+  {
+   "id": "6c0c163721146c3be48644c9ffb10866",
+   "title": "Bill Draper has died",
+   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 81\n# Comments: 19",
+   "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-04 20:21",
+   "ts": 1791116495
   },
   {
    "id": "a1bee9fa41825175870bfe40d4011228",
