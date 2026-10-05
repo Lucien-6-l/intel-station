@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 08:48",
- "total": 258,
+ "updated_at": "2026-10-05 09:07",
+ "total": 249,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,10 +10,113 @@
   "数码",
   "汽车",
   "游戏",
-  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "ba138ea226597b284485fc2b68aa8cac",
+   "title": "Korea Box Office: ‘The Assassin(s)’ Holds Admissions Lead as ‘Chiikawa’ Generates Top Weekend Gross",
+   "summary": "Director Hur Jin-ho&#8217;s political crime thriller &#8220;The Assassin(s)&#8221; held the top position at the South Korean box office in admissions over the w",
+   "link": "https://variety.com/2026/film/box-office/korea-box-office-the-assassins-admissions-lead-1236898809/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:05",
+   "ts": 1791162337
+  },
+  {
+   "id": "4c689b6cab4131d86e6944f02220867c",
+   "title": "OpenAI 奥尔特曼：人工智能的巨大效益值得承担部分风险",
+   "summary": "IT之家 10 月 5 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）近日在接受《Decoded》栏目专访时表示，他的公司与竞争对手 Anthropic 在人工智能监管问题上，仍然存在根本性的世界观分歧。奥尔特曼指出，AI 技术所带来的巨大效益完全值得社会承担部分风险，且这项技术应当继续面向",
+   "link": "https://www.ithome.com/1/009/754.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:02",
+   "ts": 1791162126
+  },
+  {
+   "id": "1bb3eb28183baf3aa2cb77a727800747",
+   "title": "So Long, Kody & Robyn: Where to Watch ‘Sister Wives’ Season 21 for Free Online Featuring Only the OG Spouses",
+   "summary": "The newest season premieres on Sunday, Oct. 4, and specifically revolves around Meri, Janelle and Christine's lives.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-sister-wives-season-21-free-online-1236717631/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:00",
+   "ts": 1791162000
+  },
+  {
+   "id": "cea05880e12febcf3539928beec12363",
+   "title": "格力技工学校首届新生开学：董明珠任校长，机电与制冷方向最热门",
+   "summary": "IT之家 10 月 5 日消息，据“中国珠海发布”，由格力电器牵头打造、董明珠亲自担任校长的珠海市格力技工学校，10 月 4 日正式迎来建校后的首批新生入学报到。迎新当天，校园里“人人皆可成才人人尽展其才”的横幅标语格外醒目，新生和陪同家长在学生志愿者的引导下有序核验信息、办理入住，整个报到流程顺畅井然。据北京日报、澎",
+   "link": "https://www.ithome.com/1/009/753.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 08:58",
+   "ts": 1791161921
+  },
+  {
+   "id": "878f13df42feb03f2760afaa780373e6",
+   "title": "Reggie McFadden, Actor-Comedian Known for ‘Def Comedy Jam’ and ‘In Living Color,’ Dies at 57",
+   "summary": "He also appeared on ‘Martin,’ ‘Hangin’ With Mr. Cooper,’ ‘Moesha,’ ‘Coach’ and 'Curb Your Enthusiasm.’",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/reggie-mcfadden-dead-def-comedy-jam-in-living-color-1236722079/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 08:58",
+   "ts": 1791161905
+  },
+  {
+   "id": "b66d8cfd0e1ed343608b04eb62101d71",
+   "title": "The logic of gambling undergirds everything coming out of Silicon Valley",
+   "summary": "Article URL: https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html\nComments URL: https://news.ycombinator.com/item?id=49959583",
+   "link": "https://www.nytimes.com/2026/10/04/magazine/gambling-prediction-markets-statistics.html",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 08:58",
+   "ts": 1791161888
+  },
+  {
+   "id": "adfebe999f9ec349c31494411efb4123",
+   "title": "古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室",
+   "summary": "IT之家 10 月 5 日消息，自乔纳森 · 伊夫（Jony Ive）2019 年离开苹果之后，这家公司就一直没有一位真正的首席设计负责人。此前一段时间，由前首席运营官杰夫 · 威廉姆斯（Jeff Williams）接管设计业务，直至他去年离职。彭博社的马克 · 古尔曼（Mark Gurman）称，自杰夫 · 威廉姆斯",
+   "link": "https://www.ithome.com/1/009/752.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 08:56",
+   "ts": 1791161812
+  },
+  {
+   "id": "06b2117ba8fdcfa0715bca7bbf6064df",
+   "title": "DeepSeek V4.1 Flash 发力，中美顶尖模型 LiveBench 跑分差距缩至 3%",
+   "summary": "北京时间 10 月 5 日，据彭博行业研究称，过去几个月，随着 DeepSeek 等中国 AI 实验室的模型不断进步，美国 AI 公司相对中国同行的性能领先优势急剧缩小，降至历史最低水平，这让美国的科技主导地位面临威胁。DeepSeek彭博行业研究高级分析师罗伯特 · 利亚 (Robert Lea) 在周一的一份报告中",
+   "link": "https://www.ithome.com/1/009/751.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 08:50",
+   "ts": 1791161423
+  },
   {
    "id": "e8fe6dc3ab3792ba0c8f335f787ee19c",
    "title": "古尔曼：配备 OLED 触控屏的全新苹果 MacBook Pro 将大幅减重",
@@ -26,6 +129,19 @@
    "urgent": false,
    "fetched_at": "10-05 08:39",
    "ts": 1791160798
+  },
+  {
+   "id": "50e2243f4437278f492f79b2e045af5e",
+   "title": "NFL Week 4 grades for all 32 teams: Ben Johnson, Bears earn 'A-' despite injury woes; Bengals slip again",
+   "summary": "We're handing out grades for every Week 4 game",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 08:31",
+   "ts": 1791160292
   },
   {
    "id": "f1fb328dab776be2b5bca1909ffd09b7",
@@ -106,17 +222,17 @@
    "ts": 1791158808
   },
   {
-   "id": "0aeea7e94fa2dffc9ccbd1a2d2354e9f",
-   "title": "1 in 8 cancer cases are caused by infections",
-   "summary": "Article URL: https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say\nComments",
-   "link": "https://www.livescience.com/health/cancer/1-in-8-cancer-cases-are-caused-by-infections-underscoring-the-importance-of-vaccines-experts-say",
-   "source": "Hacker News",
-   "channel": "AI·科技",
+   "id": "f516cc84587a465132dfe03d28941e72",
+   "title": "NFL Week 4 winners and losers: Drake Maye delivers, Texans' season slips away",
+   "summary": "Maye rediscovered his 2025 form against the Bills, while Houston's latest loss left its playoff hopes hanging by a thread",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-winners-losers-drake-maye-texans/",
+   "source": "CBS Sports",
+   "channel": "体育",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
    "fetched_at": "10-05 08:04",
-   "ts": 1791158642
+   "ts": 1791158689
   },
   {
    "id": "0ea545b5f727e24402ea01e2d32fcbed",
@@ -210,6 +326,19 @@
    "ts": 1791157762
   },
   {
+   "id": "fc1cf557572c4b37d59fbeb791144269",
+   "title": "Mighty Mike Plays Dad Says He Owns 'Like 12 Companies,' Promises Refunds for AI Shirts",
+   "summary": "Mighty Mike Plays dad Dave has promised refunds and issued a lengthy explanation after the internet demanded more information about the YouTube ads allegedly pu",
+   "link": "https://www.ign.com/articles/mighty-mike-plays-dad-says-he-owns-like-12-companies-promises-refunds-for-ai-shirts",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:48",
+   "ts": 1791157687
+  },
+  {
    "id": "ae9a476611e483d462ce1c9524d083f7",
    "title": "Sarah Jessica Parker Says She’s ‘Never’ Worn Her Archived ‘Sex and the City’ Wardrobe: ‘There’s a Huge Separation Between Myself and Carrie Bradshaw’",
    "summary": "Despite Carrie Bradshaw’s reputation for wearing trend-setting outfits, Sarah Jessica Parker never wears any of her &#8220;Sex and the City&#8221; character&#82",
@@ -236,19 +365,6 @@
    "ts": 1791157419
   },
   {
-   "id": "cf5d4f485d65578a5c6ca9d9b8b76db3",
-   "title": "英伟达 AI 芯片走私案嫌疑人被捕，涉案金额超 3 亿美元",
-   "summary": "IT之家 10 月 5 日消息，美国上周逮捕了一名嫌疑人，此人被控走私含有受出口管制的英伟达芯片的高端计算机服务器进入中国。美国司法部于当地时间上周四发布新闻稿，指控 38 岁的格雷格 · 刘（Greg Lui）使用虚假文件掩盖一批货值超过 3 亿美元（IT之家注：现汇率约合 20.16 亿元人民币）的服务器货物；据称",
-   "link": "https://www.ithome.com/1/009/741.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:40",
-   "ts": 1791157233
-  },
-  {
    "id": "db38767efaded0386bc28d4eda456c79",
    "title": "Use DraftKings promo code to get $150 bonus bets by targeting Lions-Panthers, NFL Week 4 Sunday Night Football",
    "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for NFL betting on Sunday",
@@ -273,32 +389,6 @@
    "urgent": false,
    "fetched_at": "10-05 07:30",
    "ts": 1791156600
-  },
-  {
-   "id": "a35f2043f04a95d36d61e06f5ababa1e",
-   "title": "再涨价！消息称台积电先进晶圆价格 2027Q1 拟计划再上调 6%~8%",
-   "summary": "IT之家 10 月 5 日消息，韩媒 ddaily 于 10 月 2 日发布博文，报道称在决定上调 10%~20% 基础上，台积电计划 2027 年第一季度针对最先进晶圆出货价格，再次上调约 6%~8%，理由是制造成本和电力费用上涨。报道援引半导体业界消息称，台积电 2 纳米制程订单激增，公司已将晶圆订单目标较原计划提",
-   "link": "https://www.ithome.com/1/009/740.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:29",
-   "ts": 1791156555
-  },
-  {
-   "id": "6127985d6664600b48d3f0cda5492dcb",
-   "title": "华为首款“韬定律逻辑折叠”芯片海思麒麟 9050 Pro 裸片显微照首曝：双裸片垂直堆叠，晶体管密度提升 55% 而面积小于前代",
-   "summary": "IT之家 10 月 5 日消息，半导体分析机构 Kurnal Insights 于当地时间 9 月 30 日发布了华为麒麟 9050 Pro 芯片的裸片（Die Shot）显微照，首次从物理层面展示了这款芯片的内部结构。照片显示，麒麟 9050 Pro 由两颗尺寸完全相同的裸片垂直堆叠而成，尺寸 11.13 × 10.",
-   "link": "https://www.ithome.com/1/009/739.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:26",
-   "ts": 1791156372
   },
   {
    "id": "0747c473fe4aeb9484dc4faa5837d594",
@@ -340,45 +430,6 @@
    "ts": 1791156207
   },
   {
-   "id": "3931fd9d88c0209b73de1ae0620eb39a",
-   "title": "NFL DFS, Panthers vs. Lions: Top daily Fantasy picks, lineup advice for 'Sunday Night Football'",
-   "summary": "DFS millionaire Mike McClure shares his top daily Fantasy picks and lineups for Lions vs. Panthers on 'Sunday Night Football'",
-   "link": "https://www.cbssports.com/betting/news/nfl-dfs-panthers-lions-daily-fantasy-picks-lineups-advice-stacks-sunday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:20",
-   "ts": 1791156051
-  },
-  {
-   "id": "721fed4f41bc695569b1395e98ed9424",
-   "title": "'Sunday Night Football' prediction, odds, spread, time: Lions vs. Panthers picks from expert on 22-11 roll",
-   "summary": "Larry Hartstein reveals his picks for Detroit Lions vs. Carolina Panthers in the 2026 Week 4 'Sunday Night Football' matchup",
-   "link": "https://www.cbssports.com/betting/news/sunday-night-football-prediction-odds-spread-time-lions-panthers-picks-nfl-bets/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:16",
-   "ts": 1791155798
-  },
-  {
-   "id": "ef8ce25d73a1307381b6d36d6ba74a03",
-   "title": "内存涨价倒逼系统瘦身：微软详解 Win11 为何要降低 RAM 占用",
-   "summary": "IT之家 10 月 5 日消息，随着内存成本持续上涨，微软正将“降低 Windows 11 内存占用”列为 2026 年剩余时间的重要工作之一。微软 Windows 与设备业务负责人帕万 · 达武卢里（Pavan Davuluri）在官方播客《Inside Windows》中表示，内存涨价已经成为整个 PC 行业都在关",
-   "link": "https://www.ithome.com/1/009/738.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:09",
-   "ts": 1791155377
-  },
-  {
    "id": "8d3987a3587e6998053c571f4ad3bdeb",
    "title": "Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner",
    "summary": "Professional Tekken 8 player SuperBrine is going viral after reaching God of Destruction using Alisa while completely blindfolded with a sleep mask.",
@@ -390,6 +441,19 @@
    "urgent": false,
    "fetched_at": "10-05 07:04",
    "ts": 1791155075
+  },
+  {
+   "id": "a61705551fcaf05aa19a7aeaf36d5d7a",
+   "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
+   "summary": "Article URL: https://getartcraft.com/apps\nComments URL: https://news.ycombinator.com/item?id=49958850\nPoints: 13\n# Comments: 1",
+   "link": "https://getartcraft.com/apps",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:02",
+   "ts": 1791154963
   },
   {
    "id": "6786dc0269b725193b51b43d02ce72f9",
@@ -459,7 +523,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 33\n# Comments: 10",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 49\n# Comments: 11",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -732,7 +796,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 315\n# Comments: 202",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 336\n# Comments: 211",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -784,7 +848,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 56\n# Comments: 22",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 72\n# Comments: 24",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -847,19 +911,6 @@
    "ts": 1791138600
   },
   {
-   "id": "e9c741bf9e7da2018caec2e9275b6ee9",
-   "title": "Gypsy-Rose Blanchard Launches Petition to ‘Fight Online Harassment’ Following Partner Ken Urker’s Death: ‘Fame Does Not Erase Humanity’",
-   "summary": "Gypsy-Rose Blanchard is speaking out following the death of her partner Ken Urker and urging fans to support Kenan’s Law, a petition aimed at holding social med",
-   "link": "https://variety.com/2026/tv/news/gypsy-rose-blanchard-petition-online-harassment-ken-urker-1236898652/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 02:19",
-   "ts": 1791137984
-  },
-  {
    "id": "4fc6256d6deb5c7015f22b72dd426799",
    "title": "Zach Bryan Breaks Gillette Stadium’s Attendance Record While Wearing “Free Palestine” Shirt",
    "summary": "The singer's performance came weeks after Gillette Stadium owner Robert Kraft's controversy with Macklemore, who was dropped from Ed Sheeran's tour over his pro",
@@ -901,7 +952,7 @@
   {
    "id": "e49cb76f32a7dde56f80586a82cabdc8",
    "title": "Incentives in Academic Research",
-   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 34\n# Comments: 1",
+   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 38\n# Comments: 2",
    "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -914,7 +965,7 @@
   {
    "id": "d0549b40cf18c06783f4fb0f5d660e7f",
    "title": "Xray-core concealed a certificate verification bypass vulnerability",
-   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 44\n# Comments: 0",
+   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 49\n# Comments: 2",
    "link": "https://github.com/net4people/bbs/issues/672",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1042,19 +1093,6 @@
    "ts": 1791132010
   },
   {
-   "id": "4b81087d6752407853678db9f942d2ab",
-   "title": "Where to Watch the Chiefs vs. Raiders Game Online",
-   "summary": "The NFL Week 4 matchup is set for Sunday, Oct. 4 at Allegiant Stadium in Las Vegas.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-chiefs-vs-raiders-game-free-nfl-streams-2026-1236721201/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 00:30",
-   "ts": 1791131400
-  },
-  {
    "id": "049e5e278e21cffe512af6004a83e2d0",
    "title": "'He's a real champion!' | Graffard hails Arc hero Daryz",
    "summary": "Francis-Henri Graffard lauded the achievements of Daryz after he retained his Prix de l'Arc de Triomphe crown at ParisLongchamp.",
@@ -1092,19 +1130,6 @@
    "urgent": false,
    "fetched_at": "10-05 00:05",
    "ts": 1791129900
-  },
-  {
-   "id": "f0b1f5869b30915733737788d58800e3",
-   "title": "Tom Cruise’s ‘Digger’ Buried at Box Office With $8M as ‘Verity’ Wins Weekend",
-   "summary": "Alejandro G. Iñárritu helmed the pricey satire that will go down as a big financial loss for Warner Bros.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-bombs-box-office-opening-verity-1236721814/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 00:04",
-   "ts": 1791129852
   },
   {
    "id": "6098d168b7ec26c70fe19cf6a874e51b",
@@ -1356,7 +1381,7 @@
   {
    "id": "b2f4a7c23b312ad1f2de434faa293b99",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 580\n# Comments: 278",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 599\n# Comments: 280",
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1404,19 +1429,6 @@
    "urgent": false,
    "fetched_at": "10-04 20:31",
    "ts": 1791117061
-  },
-  {
-   "id": "6c0c163721146c3be48644c9ffb10866",
-   "title": "Bill Draper has died",
-   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 70\n# Comments: 17",
-   "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 20:21",
-   "ts": 1791116495
   },
   {
    "id": "a1bee9fa41825175870bfe40d4011228",
@@ -1833,19 +1845,6 @@
    "urgent": false,
    "fetched_at": "10-04 04:00",
    "ts": 1791057622
-  },
-  {
-   "id": "05f679cb0db9b71bfe2ca9180d101f78",
-   "title": "Gears of War: E-Day Devs 'Proud to Be One of Xbox's Main Titles' Amid Newfound Focus on Exclusivity",
-   "summary": "The Gears of War: E-Day developers at The Coalition say they are \"proud to be one of Xbox's main titles\" as Microsoft refocuses on exclusivity.",
-   "link": "https://www.ign.com/articles/gears-of-war-e-day-devs-proud-to-be-one-of-xboxs-main-titles-amid-newfound-focus-on-exclusivity",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 03:45",
-   "ts": 1791056742
   },
   {
    "id": "b87ae2a69fb38c238e47ed8ba6855325",
