@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 19:41",
- "total": 259,
+ "updated_at": "2026-10-05 20:05",
+ "total": 248,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,10 +10,74 @@
   "数码",
   "汽车",
   "游戏",
-  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "baeb03ee997439de57b4b66ed4f2c25e",
+   "title": "NFL Week 5 early odds: Bears favorites at Lambeau, Bills underdogs to Rams",
+   "summary": "Los Angeles is a slight favorite against Buffalo in a potential Super Bowl preview, while Chicago enters Lambeau Field favored over Green Bay",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-5-odds-lines-spreads-betting-2026/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:01",
+   "ts": 1791201664
+  },
+  {
+   "id": "ce52987e3cb4b1282942c1ea129c9c63",
+   "title": "Could we one day vaccinate against every cancer?",
+   "summary": "What science says so far about which cancers can be beat by vaccines — and which will require more creative approaches.",
+   "link": "https://www.statnews.com/2026/10/05/health-news-could-we-one-day-vaccinate-against-every-cancer/?utm_campaign=rss",
+   "source": "STAT News",
+   "channel": "健康",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:00",
+   "ts": 1791201651
+  },
+  {
+   "id": "f9b1aa90e830ed5f808e604021beb59e",
+   "title": "Want cheaper flights? Google says this is the best time to book one",
+   "summary": "Cheap flights care more about timing than Tuesdays.",
+   "link": "https://www.androidauthority.com/google-flights-data-for-cheapest-flights-3719064/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:00",
+   "ts": 1791201639
+  },
+  {
+   "id": "0080b9ce745ba70d22e6c3892e54fca8",
+   "title": "Can Safeworld convince people that gen AI robots won’t hurt them?",
+   "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
+   "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:00",
+   "ts": 1791201600
+  },
+  {
+   "id": "9297a2b6221d306bff5460cf9996455f",
+   "title": "Quiz: How to Launch an HTTP Server in One Line of Python Code",
+   "summary": "Test your understanding of Python's http.server module. Serve files with one command, run CGI scripts, and encrypt the connection with HTTPS.",
+   "link": "https://realpython.com/quizzes/python-http-server/",
+   "source": "Real Python",
+   "channel": "教程",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:00",
+   "ts": 1791201600
+  },
   {
    "id": "bcc087cdb5ca88d0342ba3b52d998090",
    "title": "Humphries ready to win another World title - and wants Littler in the final",
@@ -28,6 +92,110 @@
    "ts": 1791201600
   },
   {
+   "id": "c05653a3bc8cb8f4dc68dfbdd298ed73",
+   "title": "Why Verstappen's 'special' Malaysia win was so significant",
+   "summary": "Max Verstappen says his victory at the Bahrain Grand Prix in Malaysia was a &#8220;really special and emotional moment&#8221; after Red Bull claimed their first",
+   "link": "https://www.skysports.com/f1/news/12040/13595198/max-verstappen-why-red-bull-drivers-victory-at-bahrain-grand-prix-in-malaysia-was-so-special",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:00",
+   "ts": 1791201600
+  },
+  {
+   "id": "5c300b9bb79762c44a3919a5224b8d28",
+   "title": "‘Artificial’ Took on a Big Tech Giant. Hollywood Wasn’t Ready",
+   "summary": "Luca Guadagnino and star Andrew Garfield speak frankly about what went into their daring film about Sam Altman and OpenAI, and what led to Neon rescuing it afte",
+   "link": "https://www.hollywoodreporter.com/movies/movie-features/artificial-exclusive-luca-guadagnino-andrew-garfield-1236721477/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:00",
+   "ts": 1791201600
+  },
+  {
+   "id": "7d525eca9a206f3a50c2311a8c608fd3",
+   "title": "Galaxy S27 Ultra colors leak, and Samsung could be breaking up with purple",
+   "summary": "Samsung may be picking a color it hasn't used directly on the Ultra for ages.",
+   "link": "https://www.androidauthority.com/galaxy-s27-ultra-colors-leak-3719062/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 19:53",
+   "ts": 1791201225
+  },
+  {
+   "id": "4966f401c0f9a7879349f24ca22dee4d",
+   "title": "中国铁路：所有第三方平台自身不产生任何“票源”，其“抢票”行为的尽头都是 12306",
+   "summary": "IT之家 10 月 5 日消息，中国铁路官方今日发文，称警惕第三方平台的“抢票”套路，不仅有附加收费、捆绑销售、虚假营销、退票改签不便、个人信息泄露等风险，还可能造成经济损失，请旅客朋友注意识别与防范。与此同时，官方还公布了具体案例（IT之家注：详见文末）。中国铁路强调，所有第三方平台自身不产生任何“票源”，其“抢票”",
+   "link": "https://www.ithome.com/1/009/865.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 19:53",
+   "ts": 1791201195
+  },
+  {
+   "id": "36d8d88650831f3ceccaea142e237e64",
+   "title": "John Ternus and Tim Cook took opposite approaches to design, and both were right",
+   "summary": "One of the most famous and successful partnerships in the history of technology has been that of Steve Jobs and Jony Ive. When Tim Cook took over as CEO, he did",
+   "link": "https://9to5mac.com/2026/10/05/john-ternus-and-tim-cook-took-opposite-approaches-to-design-and-both-were-right/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 19:53",
+   "ts": 1791201182
+  },
+  {
+   "id": "8d61b96ebb8bd0dbeef78930dbfdd7d5",
+   "title": "Wilson's 2027 NFL mock draft: Arch Manning falls out of Round 1 where five QBs are taken",
+   "summary": "Jeremiah Smith leads a loaded class with five QBs landing in the first round",
+   "link": "https://www.cbssports.com/nfl/draft/news/2027-nfl-mock-draft-arch-manning-first-round-quarterback/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 19:52",
+   "ts": 1791201150
+  },
+  {
+   "id": "38085d40f574b1fcf0a9cce6e4275ac6",
+   "title": "College football score predictions for Week 6, 2026: Model backs Kentucky (+10) against LSU",
+   "summary": "SportsLine's model has revealed its 2026 Week 6 college football score predictions for Alabama vs. Georgia, Oregon vs. UCLA and more",
+   "link": "https://www.cbssports.com/betting/news/college-football-score-predictions-picks-week-6-2026/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 19:45",
+   "ts": 1791200738
+  },
+  {
+   "id": "3e1a011e20a3caf6644a4ae932802d0e",
+   "title": "Mark Ruffalo Tells Trump ‘Hands Off Our F—ing Vote’ or ‘I’m Gonna Hulk Out’: ‘You Won’t Like Me When I’m Angry’",
+   "summary": "Mark Ruffalo made a passionate speech at a Hands Off Our Vote event in New York City on Sunday night, slamming U.S. President Donald Trump and saying he&#8217;s",
+   "link": "https://variety.com/2026/film/news/mark-ruffalo-slams-trump-voting-rights-hulk-out-1236898975/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 19:44",
+   "ts": 1791200647
+  },
+  {
    "id": "da8b5c9d28a112b3956ff93d999b1cc6",
    "title": "It’s now easier than ever to get your motorcycle license on an electric bike",
    "summary": "LiveWire’s smallest electric motorcycle is about to take on a new role, and it could prove to be one of the most important ones yet. The LiveWire S4 Honcho Stre",
@@ -39,6 +207,19 @@
    "urgent": false,
    "fetched_at": "10-05 19:39",
    "ts": 1791200340
+  },
+  {
+   "id": "0c4ee23756d9f7122dfded40bd1a3de6",
+   "title": "Cover 32: Packers don't instill any faith on possible playoff run, plus game balls, biggest gaffes from Week 4",
+   "summary": "Tyler Sullivan dives into all the biggest items from Week 4 in the NFL, including CeeDee Lamb's historic day and Mike Vrabel's bizarre tiff",
+   "link": "https://www.cbssports.com/nfl/news/nfl-cover-32-packers-ceedee-lamb-week-4/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 19:34",
+   "ts": 1791200057
   },
   {
    "id": "c62165595b273291f106e49f7f7e47fc",
@@ -65,6 +246,19 @@
    "urgent": false,
    "fetched_at": "10-05 19:30",
    "ts": 1791199800
+  },
+  {
+   "id": "c2b534903a1fc5b355adfd94b9f61a18",
+   "title": "Southern Miss vs. Troy prediction, odds, time: Week 6 college football Tuesday picks by proven model",
+   "summary": "The SportsLine Projection Model has revealed its best bets for the Tuesday Sun Belt matchup between the Southern Miss Golden Eagles vs. Troy Trojans",
+   "link": "https://www.cbssports.com/betting/news/southern-miss-troy-prediction-odds-time-week-6-college-football-tuesday-picks/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 19:26",
+   "ts": 1791199572
   },
   {
    "id": "36ab5d06695ece049b47a0ef86610890",
@@ -145,17 +339,17 @@
    "ts": 1791198661
   },
   {
-   "id": "d0ddc55cd9417d305ca429c5120c4ccb",
-   "title": "Alcaraz fights back against Munar to book spot in Japan Open final",
-   "summary": "Highlights from Carlos Alcaraz's semi-final clash against Juame Munar at the Japan Open.",
-   "link": "https://www.skysports.com/watch/video/13595305/carlos-alcaraz-vs-jaume-munar-japan-open-highlights",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
+   "id": "c00dfb981aba745c5a47dbc0d1d34ed9",
+   "title": "Best Buy’s Techtober Sale Challenges Prime Day with Major Video Game Deals and No Membership Fees",
+   "summary": "Best Buy's Techtober sale is now live, rivalling Amazon Prime Day with savings on new PS5 game releases, Xbox hardware bundles, and plenty more.",
+   "link": "https://www.ign.com/articles/best-buy-techtober-sale-deals-prime-day-2026",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "发布/大事件",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-05 19:11",
-   "ts": 1791198660
+   "fetched_at": "10-05 19:10",
+   "ts": 1791198638
   },
   {
    "id": "5e821e49e6615b034b04567c1c82b536",
@@ -264,7 +458,7 @@
   {
    "id": "75cb8a66c04957898938155783d505d2",
    "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-   "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49963094\nPoints: 12\n# Comments: 7",
+   "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49963094\nPoints: 15\n# Comments: 8",
    "link": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -355,7 +549,7 @@
   {
    "id": "5b7ae3f4d353c7d7288399122933be2c",
    "title": "Apple and a Hacker's Future",
-   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 42\n# Comments: 16",
+   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 50\n# Comments: 20",
    "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -587,19 +781,6 @@
    "ts": 1791192478
   },
   {
-   "id": "5374b5b0a24a3f96ec3c2c0586848dd2",
-   "title": "荣耀 MagicOS 11 新增自定义充电上限功能，充多少自己决定",
-   "summary": "IT之家 10 月 5 日消息，据荣耀客服，荣耀 MagicOS 11 新增自定义充电上限功能，帮用户更科学地管理电池健康，延长电池使用寿命。具体路径：设置 &gt; 电池 &gt; 电池健康 &gt; 自定义充电上限。若偶尔需将电量充至 100%，无需调整设置，在下拉系统弹窗中点击“本次充满”即可。官方此前已经公布 ",
-   "link": "https://www.ithome.com/1/009/849.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:26",
-   "ts": 1791192404
-  },
-  {
    "id": "16e0fd2926ff8be2f1af8eb8fdef7f5e",
    "title": "This Android flagship won our best iPhone 18 Pro alternative survey by a landslide",
    "summary": "The latest Pixel plays second fiddle to its biggest Android rival.",
@@ -637,32 +818,6 @@
    "urgent": false,
    "fetched_at": "10-05 17:00",
    "ts": 1791190800
-  },
-  {
-   "id": "4db1788f62f56994d886f22f18335236",
-   "title": "GrapheneOS explains why your Pixel is lagging and freezing after Android 17 QPR1",
-   "summary": "A newly identified regression could explain some of the lag Pixel users reported.",
-   "link": "https://www.androidauthority.com/android-17-qpr1-pixel-performance-regression-3718939/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 16:56",
-   "ts": 1791190565
-  },
-  {
-   "id": "bff3cd8aa096568e9b5897baf2ef92ae",
-   "title": "This ‘Ultra’ flagship looked like a spec monster, but no one will be able to buy it",
-   "summary": "Xiaomi seemingly canceled the Xiaomi 18 Ultra because it would be too expensive.",
-   "link": "https://www.androidauthority.com/xiaomi-18-ultra-specs-price-leak-phone-canceled-3718980/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 16:49",
-   "ts": 1791190183
   },
   {
    "id": "b63b4b5b8231331089d2f9f65072a2de",
@@ -823,7 +978,7 @@
   {
    "id": "f3d78edab88a060c1d1eeb190a672a1a",
    "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 77\n# Com",
+   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 79\n# Com",
    "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -899,6 +1054,19 @@
    "ts": 1791183600
   },
   {
+   "id": "1650a52774abe9da02e4871b4c2d641f",
+   "title": "Scotland's next golf star? Scott surges to top 100 after back-to-back wins",
+   "summary": "Sandy Scott&#8217;s remarkable rise continued on Sunday as the Scot, who has battled back from a career-threatening wrist injury, clinched his second straight K",
+   "link": "https://www.skysports.com/golf/news/12040/13595226/korn-ferry-tour-sandy-scott-breaks-into-top-100-with-back-to-back-wins-after-career-threatening-injury",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:52",
+   "ts": 1791183120
+  },
+  {
    "id": "9cd34b17130cad0e14183e093a2ef7aa",
    "title": "Here's your first look at Google's next fitness tracker, the Fitbit Edge",
    "summary": "Back in August, Google Australia accidentally revealed an upcoming Fitbit device in official promo images during the Pixel 11 series launch. Now, a new report h",
@@ -923,19 +1091,6 @@
    "urgent": false,
    "fetched_at": "10-05 14:05",
    "ts": 1791180300
-  },
-  {
-   "id": "ce4e3154d19a7fdc1b180c190869b371",
-   "title": "Singapore GP: Sprint weekend schedule and how to watch",
-   "summary": "Formula 1 concludes its Asian triple-header with a Sprint weekend at the Singapore Grand Prix.",
-   "link": "https://www.skysports.com/f1/news/12040/13594859/singapore-gp-2026-sprint-weekend-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-marina-bay-circuit-live-on-sky-sports",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 14:00",
-   "ts": 1791180000
   },
   {
    "id": "64e83eb528f391e38664d8d821e7e43f",
@@ -966,7 +1121,7 @@
   {
    "id": "51ff97dab6bb1ce0f06918ce5eeeeb95",
    "title": "Replacement of petroleum based products with plant-based materials (2025)",
-   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 76\n# Comments: 39",
+   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 78\n# Comments: 40",
    "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -975,19 +1130,6 @@
    "urgent": false,
    "fetched_at": "10-05 13:09",
    "ts": 1791176983
-  },
-  {
-   "id": "dbd6c3c753a9db76701c9bfe5f5f9b2d",
-   "title": "China Box Office: Crime Procedural ‘Traces of Justice’ Leads National Day Frame",
-   "summary": "New Classics Pictures&#8217; crime procedural drama &#8220;Traces of Justice&#8221; took the top spot at the mainland China box office during the Oct. 2–4 weeke",
-   "link": "https://variety.com/2026/film/box-office/china-box-office-traces-of-justice-national-day-1236898842/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 12:49",
-   "ts": 1791175741
   },
   {
    "id": "f00a225f9533e8e4cfd8af016247d7b0",
@@ -1094,19 +1236,6 @@
    "ts": 1791168646
   },
   {
-   "id": "b30870ed0f57a515beafa035f50696af",
-   "title": "NFL reviewing heated exchange between referee, Vikings' Eric Wilson",
-   "summary": "The league is looking into two separate incidents involving a player and an official during Week 4",
-   "link": "https://www.cbssports.com/nfl/news/nfl-reviews-heated-exchange-referee-vikings-eric-wilson/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:29",
-   "ts": 1791167387
-  },
-  {
    "id": "3b4971f743786ddcdbe9ffd25f7f8e90",
    "title": "Beats 360 review",
    "summary": "The Beats 360 are the newest pair of headphones from Apple-owned Beats by Dre, and are aimed specifically at those looking for a pair of headphones to use durin",
@@ -1146,19 +1275,6 @@
    "ts": 1791165600
   },
   {
-   "id": "bb7c3972f21d7984b8949fd8eabefab4",
-   "title": "NFL reviewing incident between official and Cardinals' Trey McBride, NFLPA issues statement",
-   "summary": "The altercation between the two went viral following New York's win over Arizona",
-   "link": "https://www.cbssports.com/nfl/news/nfl-reviewing-incident-between-official-cardinals-trey-mcbride/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:59",
-   "ts": 1791165570
-  },
-  {
    "id": "26a02a56311cdd1c221325b1e7333dc4",
    "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
    "summary": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/\nComments U",
@@ -1170,45 +1286,6 @@
    "urgent": false,
    "fetched_at": "10-05 09:54",
    "ts": 1791165248
-  },
-  {
-   "id": "d537da20dcee6f92f90863f18f4b61ec",
-   "title": "Eagles' offense completely collapses vs. Rams: Who's to blame and what needs to change",
-   "summary": "The offensive meltdown after having the chance to deliver the knockout punch to Los Angeles highlights an uncomfortable truth in Philadelphia",
-   "link": "https://www.cbssports.com/nfl/news/eagles-collapse-vs-rams-whos-to-blame-nick-sirianni-jalen-hurts/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:04",
-   "ts": 1791162278
-  },
-  {
-   "id": "2a880db7c08f33f9eadd27cc6e031b53",
-   "title": "Falcons vs. Saints predictions, odds, time: Week 4 'Monday Night Football' picks from proven model",
-   "summary": "SportsLine's model has revealed its Atlanta Falcons vs. New Orleans Saints picks for 'Monday Night Football'",
-   "link": "https://www.cbssports.com/betting/news/falcons-saints-predictions-odds-time-week-4-monday-night-football-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:01",
-   "ts": 1791162090
-  },
-  {
-   "id": "b0336b39f9951ee958a4010dee008129",
-   "title": "Week 4 Fantasy Football panic meter: Early Week 5 waiver wire adds, Keon Coleman emerging as post-hype sleeper",
-   "summary": "There's nothing quite like the overreactions from Fantasy Football managers that pour in after every Sunday, so let's try and parse through what actually matter",
-   "link": "https://www.cbssports.com/fantasy/football/news/week-4-fantasy-football-panic-meter-early-week-5-waiver-wire-adds-keon-coleman-emerging-as-post-hype-sleeper/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:00",
-   "ts": 1791162053
   },
   {
    "id": "1bb3eb28183baf3aa2cb77a727800747",
@@ -1235,32 +1312,6 @@
    "urgent": false,
    "fetched_at": "10-05 08:58",
    "ts": 1791161905
-  },
-  {
-   "id": "dd04eaad30409f47d35b926f772fe5f0",
-   "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light: live updates",
-   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03091-2Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology ",
-   "link": "https://www.nature.com/articles/d41586-026-03091-2",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-05 08:00",
-   "ts": 1791158400
-  },
-  {
-   "id": "7312eacd1cd3f8f15b5b158e784c7395",
-   "title": "AI biohazard hype must not divert attention from the real risks we face now",
-   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03135-7Twenty-five years after the US anthrax attacks, fears around AI are distracting people ",
-   "link": "https://www.nature.com/articles/d41586-026-03135-7",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-05 08:00",
-   "ts": 1791158400
   },
   {
    "id": "fc1cf557572c4b37d59fbeb791144269",
@@ -1421,7 +1472,7 @@
   {
    "id": "2e52209d54610fcee4461e07dfed5f5a",
    "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 154\n# Comments: 17",
+   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 159\n# Comments: 19",
    "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1443,19 +1494,6 @@
    "urgent": false,
    "fetched_at": "10-05 04:31",
    "ts": 1791145867
-  },
-  {
-   "id": "bea6ab26337773edef25bb84fd137853",
-   "title": "J. Todd Anderson, ‘The Nice Guys’ and ‘The Big Lebowski’ Storyboard Artist, Dies at 67",
-   "summary": "He was a frequent collaborator of the Coen Brothers, storyboarding ‘Fargo,’ ‘Drive-Away Dolls’ and ‘The Tragedy of Macbeth,’ among other films.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/j-todd-anderson-dead-storyboard-artist-1236721947/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 04:12",
-   "ts": 1791144757
   },
   {
    "id": "039fe5e2a6538f6f90f4b1018137a4bf",
@@ -1499,7 +1537,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 612\n# Comments: 415",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 621\n# Comments: 417",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1538,7 +1576,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 268\n# Comments: 90",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 272\n# Comments: 90",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1664,19 +1702,6 @@
    "urgent": false,
    "fetched_at": "10-05 00:05",
    "ts": 1791129900
-  },
-  {
-   "id": "6098d168b7ec26c70fe19cf6a874e51b",
-   "title": "SNL Weighs in on GTA 6 vs. The Legend of Zelda With Skit Featuring Jason and Link",
-   "summary": "SNL weighed in on GTA 6 vs. The Legend of Zelda: Ocarina of Time remake with a new Weekend Update skit featuring video game protagonists Jason Duval and Link.",
-   "link": "https://www.ign.com/articles/snl-weighs-in-on-gta-6-vs-the-legend-of-zelda-with-skit-featuring-jason-and-link",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 23:55",
-   "ts": 1791129314
   },
   {
    "id": "5dde12017a2d1be53cdc77539a091ceb",
@@ -2264,19 +2289,6 @@
    "ts": 1791050400
   },
   {
-   "id": "f24791e08fffe9eb137bfcea9efe633c",
-   "title": "Here’s everything we know so far about Apple’s next entry-level iPad: A19 chip, more",
-   "summary": "Apple’s current iPad, the A16 model, has gone untouched for well over a year. It remains the only device in Apple’s core product lineup without support for Appl",
-   "link": "https://9to5mac.com/2026/10/03/apples-next-ipad-a19-details-release-date/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 00:36",
-   "ts": 1791045383
-  },
-  {
    "id": "2fced6aea36e89e565f8ea4aa893b92b",
    "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
    "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
@@ -2600,19 +2612,6 @@
    "urgent": false,
    "fetched_at": "10-03 15:00",
    "ts": 1791010800
-  },
-  {
-   "id": "9eaa0083d3e19ea27974c9487ef7a4df",
-   "title": "B站连续三年独家承办WF手办模型展，站内模玩相关UP主超76万",
-   "summary": "10月3日至4日，2026哔哩哔哩上海国际手办模型文化博览会（以下简称“WF2026”）在上海新国际博览中心正式拉开帷幕。作为全球规模最大的手办模型展会，WF2026在规模与阵容上进一步扩大，两日活动线下参与总人次预计突破15万。\n据了解，WF2026吸引超过400家品牌展商参与，展会老品牌展商续展率高达95.8%，同",
-   "link": "https://www.gcores.com/articles/220495",
-   "source": "机核网",
-   "channel": "游戏",
-   "category": "发布/大事件",
-   "weight": 3,
-   "urgent": true,
-   "fetched_at": "10-03 14:18",
-   "ts": 1791008322
   }
  ]
 }
