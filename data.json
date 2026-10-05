@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 21:43",
- "total": 258,
+ "updated_at": "2026-10-05 22:07",
+ "total": 244,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,10 +10,217 @@
   "数码",
   "汽车",
   "游戏",
-  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "c301be9ba2a38e79d14579d0fc0d4e3b",
+   "title": "Medvedev defaulted for hitting spectator with ball as Djokovic makes Beijing final",
+   "summary": "Daniil Medvedev was defaulted for hitting a spectator with a ball as Novak Djokovic took his impeccable record at the China Open to 33-0 and moved one win away ",
+   "link": "https://www.skysports.com/tennis/news/12040/13595259/daniil-medvedev-defaulted-for-hitting-spectator-with-ball-as-novak-djokovic-reaches-another-china-open-final",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:00",
+   "ts": 1791212400
+  },
+  {
+   "id": "c5fe393761ab5aeaef7afe380e20de45",
+   "title": "Oscars: Syria Selects Doc ‘The Other Side of the Sun’ for International Feature Race, Marking First Entry Since Fall of Assad Regime",
+   "summary": "Tawfik Sabouni’s documentary “The Other Side of the Sun,&#8221; which world premiered as part of the Panorama section of this year’s Berlinale, has been chosen ",
+   "link": "https://variety.com/2026/film/global/oscars-syria-the-other-side-of-the-sun-intl-feature-race-1236899058/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:04",
+   "ts": 1791209065
+  },
+  {
+   "id": "660709c0bd058485d9de6a841340a5fc",
+   "title": "玩家“魔改”12V-2×6：引入额外 2 组 8Pin 分流供电，减负效果显著",
+   "summary": "IT之家 10 月 5 日消息，Reddit 网友 @DallasGrave 近日展示了其 12V-2×6 的修改方案：该玩家为显卡的 12+4 Pin 接口补充了 2 组 PCIe 8Pin 供电，达成分流减负的效果。▲ 该卡为微星 GeForce RTX 5090 32G VENTUS 3X OC@DallasGr",
+   "link": "https://www.ithome.com/1/009/880.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:00",
+   "ts": 1791208838
+  },
+  {
+   "id": "92fdbe004e3119daaa3ff0446eba73bb",
+   "title": "This iOS calendar app is side-stepping Android to embrace Googlebooks",
+   "summary": "Will we be seeing more Googlebook exclusives further down the road?",
+   "link": "https://www.androidauthority.com/fantastical-googlebook-3718834/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:00",
+   "ts": 1791208809
+  },
+  {
+   "id": "056aa25878ab3b54a54b4e3a2b5846be",
+   "title": "The final Disrupt Stage lineup: Three days of conversations you won’t hear anywhere outside of TechCrunch Disrupt 2026",
+   "summary": "The full TechCrunch Disrupt Stage lineup revealed, featuring Max Hodak, Mark Wahlberg, Benchmark partners, and more. Register now to save up to $100 on your pas",
+   "link": "https://techcrunch.com/2026/10/05/the-final-disrupt-stage-lineup-three-days-of-conversations-you-wont-hear-anywhere-outside-of-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:00",
+   "ts": 1791208800
+  },
+  {
+   "id": "37711f229c57dc55f30fef75838f00ac",
+   "title": "Is the ‘Trump Curse’ Real? See the Overwhelming Evidence",
+   "summary": "When Jaxson Dart, the New York Giants’ hot young quarterback, went down in Week 2 with a brutal, season-ending knee injury on the team’s opening drive against t",
+   "link": "https://variety.com/lists/trump-curse-sports-real-jaxson-dart-nfl-knicks-world-cup/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:00",
+   "ts": 1791208800
+  },
+  {
+   "id": "e415be7d74f426ef347ad9d8f4606778",
+   "title": "Shohei Ohtani still struggling at the plate: Can the Dodgers survive with this version of their superstar?",
+   "summary": "Ohtani's second half was devastated by injuries and he's just 2 for 8 with no extra-base hits or walks in the NLDS so far",
+   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoffs-dodgers-shohei-ohtani-offense-nlds-braves/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:56",
+   "ts": 1791208613
+  },
+  {
+   "id": "1a86b658ebe348db32af290e2eb83ee2",
+   "title": "RISION Magic series thermal cameras are what you need to find air leaks and cold spots at home",
+   "summary": "Make your winter maintenance easier.",
+   "link": "https://www.androidauthority.com/rision-magic-series-thermal-camaeras-3718377/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:56",
+   "ts": 1791208566
+  },
+  {
+   "id": "4c887a9240ff0d99b6c4e528e5f4f92c",
+   "title": "STAT+: Lilly’s Jaypirca approved as first-line CLL therapy",
+   "summary": "Eli Lilly’s Jaypirca has won FDA approval for previously untreated chronic lymphocytic leukemia and small lymphocytic lymphoma.",
+   "link": "https://www.statnews.com/2026/10/05/biotech-news-lilly-jaypirca-approved-as-first-line-cll-therapy/?utm_campaign=rss",
+   "source": "STAT News",
+   "channel": "健康",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:55",
+   "ts": 1791208541
+  },
+  {
+   "id": "1497279169a2e6b14d04571c6a672bd5",
+   "title": "乔布斯逝世 15 周年，苹果两任 CEO 特努斯、库克发文缅怀",
+   "summary": "IT之家 10 月 5 日消息，今天是乔布斯逝世 15 周年，苹果新任 CEO 约翰 · 特努斯、前任 CEO 蒂姆 · 库克分别发文缅怀。约翰 · 特努斯：Steve 教会了我们用心对待每一个细节、每一份体验和每一个人，这份教益至今依然指引我们的工作。永怀感激。The way Steve taught us to c",
+   "link": "https://www.ithome.com/1/009/879.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:54",
+   "ts": 1791208444
+  },
+  {
+   "id": "80d57863442604f653546eac09c502e1",
+   "title": "NFL DFS, Saints vs. Falcons: Top daily Fantasy picks, lineup advice for 'Monday Night Football'",
+   "summary": "DFS millionaire Mike McClure shares his top daily Fantasy picks and lineups for Atlanta vs. New Orleans on 'Monday Night Football'",
+   "link": "https://www.cbssports.com/betting/news/nfl-dfs-saints-falcons-daily-fantasy-picks-fanduel-draftkings-lineups-monday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:53",
+   "ts": 1791208425
+  },
+  {
+   "id": "5b63448d0b2508dc5ca025c1d1b6abab",
+   "title": "I turned my phone into a thermal camera with the RISION Magic Pro",
+   "summary": "Make any phone a surprisingly capable thermal camera with this simple USB-C accessory.",
+   "link": "https://www.androidauthority.com/rision-magic-pro-review-3717389/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:52",
+   "ts": 1791208342
+  },
+  {
+   "id": "94f3df590ec6de760097d2c9026c4b7b",
+   "title": "Apple event is reportedly happening next week, per Mark Gurman",
+   "summary": "Apple is expected to launch several new products next week on October 13, and per Bloomberg’s Mark Gurman, the product unveilings will happen at “an event.” Her",
+   "link": "https://9to5mac.com/2026/10/05/apple-event-is-reportedly-happening-next-week-per-mark-gurman/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:51",
+   "ts": 1791208290
+  },
+  {
+   "id": "d82fb57cdd64c6a5066d7992e6efd085",
+   "title": "Former White House Press Secretary Karoline Leavitt Joins Fox News",
+   "summary": "Leavitt will act as a contributor, a few months after she left the White House.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/white-house-press-secretary-karoline-leavitt-joins-fox-news-1236722251/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:51",
+   "ts": 1791208263
+  },
+  {
+   "id": "b551e6d26032c31261ce45ca82777c72",
+   "title": "Full Disk Access on Mac: Here’s what Apple must, and must not, do",
+   "summary": "We’ve seen a number of examples of why giving Meta’s Muse app full disk access to your Mac is a very bad idea, and yet another major privacy issue has recently ",
+   "link": "https://9to5mac.com/2026/10/05/full-disk-access-on-mac-heres-what-apple-must-and-must-not-do/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:48",
+   "ts": 1791208092
+  },
+  {
+   "id": "6f36ff95ade1d2ab88bae3506813bb62",
+   "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
+   "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1004672/mac-delete-apple-intelligence-ai-tool",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:47",
+   "ts": 1791208034
+  },
   {
    "id": "89d9f62e239b34deec21ae315e78d4cf",
    "title": "Moore inducted into Hall of Fame",
@@ -26,6 +233,19 @@
    "urgent": false,
    "fetched_at": "10-05 21:45",
    "ts": 1791207900
+  },
+  {
+   "id": "f11e43055741a0810d8efbebabb07597",
+   "title": "Saints vs. Falcons picks, player props: Expert's best bets for Monday Night Football in NFL Week 4",
+   "summary": "Target a high-scoring NFC South clash in New Orleans with top player props for Bijan Robinson and Chris Olave, plus value on anytime touchdowns",
+   "link": "https://www.cbssports.com/betting/news/saints-vs-falcons-picks-player-props-experts-best-bets-for-monday-night-football-in-nfl-week-4/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:44",
+   "ts": 1791207851
   },
   {
    "id": "bf25801833e93f0aac8573410cec838f",
@@ -81,7 +301,7 @@
   },
   {
    "id": "51bfa1ece23d686a8c2515679aaf8703",
-   "title": "Karoline Leavitt is Latest Trump Administration Official to Join Fox News",
+   "title": "Karoline Leavitt Is Latest Trump Administration Official to Join Fox News",
    "summary": "Karoline Leavitt, the former Trump administration press secretary who spent much of her time chastising and denigrating the journalists who asked her questions,",
    "link": "https://variety.com/2026/tv/news/karoline-leavit-fox-news-contrbutor-1236899073/",
    "source": "Variety",
@@ -184,6 +404,19 @@
    "ts": 1791205803
   },
   {
+   "id": "93b97662f29bbef40ca00f5f2d521bc8",
+   "title": "OpenAI is sticking more ads in ChatGPT",
+   "summary": "OpenAI's latest ad format will put images of sponsored products and services on your screen. The ads, which OpenAI will begin testing in the US later this month",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1004655/openai-chatgpt-visual-ads",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:09",
+   "ts": 1791205788
+  },
+  {
    "id": "92bc1921ee7ad0b57ba1b479331f5c89",
    "title": "Saints vs. Falcons SGP: 'Monday Night Football' same-game parlay picks, bets, props from SportsLine AI",
    "summary": "SportsLine's Machine Learning Model AI reveals its 'Monday Night Football' SGP for Atlanta vs. New Orleans",
@@ -212,7 +445,7 @@
   {
    "id": "083392d8ed5932345aeb8dbe80da12ff",
    "title": "David Ellison Unveils Skydance Team Who Will Run Paramount-Warner Bros. Empire",
-   "summary": "The C-suite will be a mix of Warners insiders like Casey Bloys and JB Perrette along with Paramount film chiefs Dana Goldberg and Josh Greenstein and TV exec Ge",
+   "summary": "The C-suite will be a mix of Warners insiders like Mark Thompson, Casey Bloys and JB Perrette along with Paramount film chiefs Dana Goldberg and Josh Greenstein",
    "link": "https://www.hollywoodreporter.com/business/business-news/skydance-executive-team-set-david-ellison-deal-close-1236722100/",
    "source": "好莱坞报道",
    "channel": "娱乐·影视",
@@ -353,9 +586,22 @@
    "ts": 1791205200
   },
   {
+   "id": "ac66378ff424fd9c4056afc015aabccc",
+   "title": "Star Wars Zero Company Gets Its First Big Discount at Amazon Ahead of Prime Big Deal Days",
+   "summary": "Star Wars Zero Company has dropped to a new low price at Amazon ahead of the retailer's Prime Big Deal Days sale event, with a 20% discount across PS5 and Xbox ",
+   "link": "https://www.ign.com/articles/star-wars-zero-company-gets-its-first-big-discount-at-amazon-ahead-of-prime-big-deal-days",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:59",
+   "ts": 1791205168
+  },
+  {
    "id": "55c62611979d517cbd5d218dfbc4a5ae",
    "title": "Gitframes",
-   "summary": "Article URL: https://github.com/gatewai-dev/gitframes\nComments URL: https://news.ycombinator.com/item?id=49964265\nPoints: 5\n# Comments: 4",
+   "summary": "Article URL: https://github.com/gatewai-dev/gitframes\nComments URL: https://news.ycombinator.com/item?id=49964265\nPoints: 16\n# Comments: 7",
    "link": "https://github.com/gatewai-dev/gitframes",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -390,19 +636,6 @@
    "urgent": false,
    "fetched_at": "10-05 20:54",
    "ts": 1791204869
-  },
-  {
-   "id": "d130146b09d023271c43d3df1d419b18",
-   "title": "Ranking the NBA's best starting fives: 76ers look great on paper, but champion Knicks hold No. 1 spot",
-   "summary": "With the 2026-27 NBA season fast approaching, we're ranking the five best starting units in the league",
-   "link": "https://www.cbssports.com/nba/news/ranking-nba-best-starting-fives-76ers-knicks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:52",
-   "ts": 1791204751
   },
   {
    "id": "f68b1ad1cebd228e08d91eefce6af185",
@@ -455,19 +688,6 @@
    "urgent": false,
    "fetched_at": "10-05 20:44",
    "ts": 1791204288
-  },
-  {
-   "id": "f2998b792d6b965accd642885c3ea7d0",
-   "title": "Saints vs. Falcons prediction, odds, time: Week 4 'Monday Night Football' picks from proven model",
-   "summary": "SportsLine's model has revealed its Atlanta Falcons vs. New Orleans Saints picks for 'Monday Night Football'",
-   "link": "https://www.cbssports.com/betting/news/saints-vs-falcons-prediction-odds-time-week-4-monday-night-football-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:42",
-   "ts": 1791204173
   },
   {
    "id": "08fc08b339fff1a21048374e13ff563c",
@@ -639,19 +859,6 @@
    "ts": 1791203012
   },
   {
-   "id": "ef2940ab5dc06b9ae4184886ba748904",
-   "title": "手游《恋与深空》国际服官方账号分享“鸡尾酒配方”，因其中使用有毒植物作为装饰引发争议",
-   "summary": "IT之家 10 月 5 日消息，据外媒 kotaku 报道，近期手游《恋与深空》国际服官方社交账号因分享“有毒鸡尾酒配方”陷入争议。据报道，《恋与深空》国际服官方社交账号本周发布了 5 款以游戏内物品为灵感的鸡尾酒配方，这些饮品大多为无酒精饮料，基础配方包括桃汁、蜂蜜、糖浆和明胶片等，本身并没有太大问题。真正引发争议的",
-   "link": "https://www.ithome.com/1/009/866.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:21",
-   "ts": 1791202894
-  },
-  {
    "id": "40a92f321fe7fdaa22ab24c402d6c74f",
    "title": "STAT+: Vaxcyte claims success in bid to beat Pfizer and Merck in lucrative vaccine market",
    "summary": "Vaxcyte said its experimental pneumococcal vaccine hit the primary endpoints in a Phase 3 clinical trial, setting up the biotech to compete with Pfizer and Merc",
@@ -715,19 +922,6 @@
    "urgent": false,
    "fetched_at": "10-05 20:02",
    "ts": 1791201761
-  },
-  {
-   "id": "baeb03ee997439de57b4b66ed4f2c25e",
-   "title": "NFL Week 5 early odds: Bears favorites at Lambeau, Bills underdogs to Rams",
-   "summary": "Los Angeles is a slight favorite against Buffalo in a potential Super Bowl preview, while Chicago enters Lambeau Field favored over Green Bay",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-5-odds-lines-spreads-betting-2026/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:01",
-   "ts": 1791201664
   },
   {
    "id": "ce52987e3cb4b1282942c1ea129c9c63",
@@ -845,19 +1039,6 @@
    "urgent": false,
    "fetched_at": "10-05 20:00",
    "ts": 1791201600
-  },
-  {
-   "id": "4966f401c0f9a7879349f24ca22dee4d",
-   "title": "中国铁路：所有第三方平台自身不产生任何“票源”，其“抢票”行为的尽头都是 12306",
-   "summary": "IT之家 10 月 5 日消息，中国铁路官方今日发文，称警惕第三方平台的“抢票”套路，不仅有附加收费、捆绑销售、虚假营销、退票改签不便、个人信息泄露等风险，还可能造成经济损失，请旅客朋友注意识别与防范。与此同时，官方还公布了具体案例（IT之家注：详见文末）。中国铁路强调，所有第三方平台自身不产生任何“票源”，其“抢票”",
-   "link": "https://www.ithome.com/1/009/865.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:53",
-   "ts": 1791201195
   },
   {
    "id": "36d8d88650831f3ceccaea142e237e64",
@@ -1042,19 +1223,6 @@
    "ts": 1791197226
   },
   {
-   "id": "aaf24589811f215dbfb1b6f7961cd747",
-   "title": "France’s Canal+ Threatens to Pull $1.1 Billion Cinema Deal Over French Tax Hike",
-   "summary": "Canal+ Group chairman Maxime Saada has warned that the pay TV banner could pull out of its €1 billion ($1.1 billion) investment deal with the French film indust",
-   "link": "https://variety.com/2026/film/global/frances-canal-1-1-billion-cinema-deal-tax-hike-1236898925/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:43",
-   "ts": 1791196988
-  },
-  {
    "id": "b2558d25d8c55278379e43035354737e",
    "title": "刚刚，诺贝尔奖颁给光遗传学！",
    "summary": "从绿藻里的光开关，到控制神经元",
@@ -1070,7 +1238,7 @@
   {
    "id": "75cb8a66c04957898938155783d505d2",
    "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-   "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49963094\nPoints: 57\n# Comments: 1",
+   "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49963094\nPoints: 60\n# Comments: 1",
    "link": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1135,7 +1303,7 @@
   {
    "id": "5b7ae3f4d353c7d7288399122933be2c",
    "title": "Apple and a Hacker's Future",
-   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 92\n# Comments: 70",
+   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 101\n# Comments: 78",
    "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1144,32 +1312,6 @@
    "urgent": false,
    "fetched_at": "10-05 18:05",
    "ts": 1791194702
-  },
-  {
-   "id": "ae9fbda56466af633c9786bc6af7ad8c",
-   "title": "Google is downgrading Gemini for users on budget plans",
-   "summary": "Starting October 9, Google is cutting access to newer Gemini models for free and AI Plus subscribers.",
-   "link": "https://www.androidauthority.com/google-gemini-free-ai-plus-usage-limits-3719012/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:03",
-   "ts": 1791194588
-  },
-  {
-   "id": "c0db5a5a7add4ee08264d437c74b022a",
-   "title": "5 Android phones you should buy instead of the iPhone 18 Pro Max",
-   "summary": "Apple isn't the only tempting option.",
-   "link": "https://www.androidauthority.com/iphone-18-pro-max-android-alternatives-3717855/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:00",
-   "ts": 1791194413
   },
   {
    "id": "0974caae931afd978857cc454f5d18cb",
@@ -1198,19 +1340,6 @@
    "ts": 1791194400
   },
   {
-   "id": "3f5a854ffd4c0e51852dbead814d10ad",
-   "title": "Google says some Googlebooks have better Android app support than others, and here’s why",
-   "summary": "Google says the vast majority of Android apps run fine on Googlebooks, but a few apps don't play nicely with Intel laptops.",
-   "link": "https://www.androidauthority.com/googlebooks-android-app-support-complicated-3718943/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:57",
-   "ts": 1791194225
-  },
-  {
    "id": "dc57b0abebece188aa16cd0c7f0681c3",
    "title": "'What a pass!' - Jokic pulls off OUTRAGEOUS behind-the-back dime across court!",
    "summary": "Nikola Jokic reminded everyone of his extraordinary playmaking ability in Sunday's preseason opener, whipping a sensational behind-the-back crosscourt assist to",
@@ -1235,19 +1364,6 @@
    "urgent": false,
    "fetched_at": "10-05 17:39",
    "ts": 1791193142
-  },
-  {
-   "id": "82e6b286ab2f6afe8378b60a9bce624e",
-   "title": "Andrew Mountbatten-Windsor Taking Legal Action Against Police Over Search Warrants in Arrest",
-   "summary": "Andrew Mountbatten-Windsor, the former prince and King Charles&#8217; brother, is taking legal action against the Thames Valley Police over search warrants rela",
-   "link": "https://variety.com/2026/global/news/former-prince-andrew-legal-action-police-arrest-1236898938/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:31",
-   "ts": 1791192669
   },
   {
    "id": "bec490379e3cda1359d22c340414548c",
@@ -1421,7 +1537,7 @@
   {
    "id": "f3d78edab88a060c1d1eeb190a672a1a",
    "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 98\n# Com",
+   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 100\n# Co",
    "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1456,19 +1572,6 @@
    "urgent": false,
    "fetched_at": "10-05 15:00",
    "ts": 1791183600
-  },
-  {
-   "id": "1650a52774abe9da02e4871b4c2d641f",
-   "title": "Scotland's next golf star? Scott surges to top 100 after back-to-back wins",
-   "summary": "Sandy Scott&#8217;s remarkable rise continued on Sunday as the Scot, who has battled back from a career-threatening wrist injury, clinched his second straight K",
-   "link": "https://www.skysports.com/golf/news/12040/13595226/korn-ferry-tour-sandy-scott-breaks-into-top-100-with-back-to-back-wins-after-career-threatening-injury",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 14:52",
-   "ts": 1791183120
   },
   {
    "id": "9cd34b17130cad0e14183e093a2ef7aa",
@@ -1640,45 +1743,6 @@
    "ts": 1791161905
   },
   {
-   "id": "dd04eaad30409f47d35b926f772fe5f0",
-   "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light: live updates",
-   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03091-2Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology ",
-   "link": "https://www.nature.com/articles/d41586-026-03091-2",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-05 08:00",
-   "ts": 1791158400
-  },
-  {
-   "id": "a06000fb863533e0e0a482adfd6949a5",
-   "title": "How big tech is building a military–industrial complex in the age of AI",
-   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03134-8Two books explore how warfare is being reshaped, with influence shifting from states to",
-   "link": "https://www.nature.com/articles/d41586-026-03134-8",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-05 08:00",
-   "ts": 1791158400
-  },
-  {
-   "id": "7312eacd1cd3f8f15b5b158e784c7395",
-   "title": "AI biohazard hype must not divert attention from the real risks we face now",
-   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03135-7Twenty-five years after the US anthrax attacks, fears around AI are distracting people ",
-   "link": "https://www.nature.com/articles/d41586-026-03135-7",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-05 08:00",
-   "ts": 1791158400
-  },
-  {
    "id": "fc1cf557572c4b37d59fbeb791144269",
    "title": "Mighty Mike Plays Dad Says He Owns 'Like 12 Companies,' Promises Refunds for AI Shirts",
    "summary": "Mighty Mike Plays dad Dave has promised refunds and issued a lengthy explanation after the internet demanded more information about the YouTube ads allegedly pu",
@@ -1690,19 +1754,6 @@
    "urgent": false,
    "fetched_at": "10-05 07:48",
    "ts": 1791157687
-  },
-  {
-   "id": "99b91b5e1e7691489e373d220b2846ee",
-   "title": "Zoe Kazan on Honoring Steinbeck’s ‘East of Eden’ for Netflix Series While Rethinking Its Characters",
-   "summary": "The series creator explains her decision to build the adaptation around a love story, between brothers, rereading Cathy Ames and how she updated Steinbeck's nov",
-   "link": "https://www.hollywoodreporter.com/tv/tv-features/netflix-east-of-eden-creator-interview-adapting-steinbeck-1236713934/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:30",
-   "ts": 1791156600
   },
   {
    "id": "8d3987a3587e6998053c571f4ad3bdeb",
@@ -1770,19 +1821,6 @@
    "ts": 1791148414
   },
   {
-   "id": "52332bad0e31b129e390a60d7bed90ba",
-   "title": "Blade Director Defends 'Good Dude' Kevin Feige After Marvel Scrapped Mahershala Ali's 1920s Vampire Movie",
-   "summary": "Blade director Bassam Tariq said he felt like a \"failure\" after exiting the Mahershala Ali-led Marvel movie, but he doesn't blame MCU mastermind Kevin Feige for",
-   "link": "https://www.ign.com/articles/blade-director-defends-good-dude-kevin-feige-after-marvel-scrapped-mahershala-alis-1920s-vampire-movie",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 05:11",
-   "ts": 1791148299
-  },
-  {
    "id": "4fad2de2c2ac8944f601fca3b2180494",
    "title": "The new Fitbit Edge leaks",
    "summary": "We don't know a ton about the Fitbit Edge, but it appears to be a successor to the midrange Charge line. It had leaked previously, but we can clearly see in the",
@@ -1798,7 +1836,7 @@
   {
    "id": "2e52209d54610fcee4461e07dfed5f5a",
    "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 179\n# Comments: 20",
+   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 181\n# Comments: 20",
    "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2030,19 +2068,6 @@
    "ts": 1791126900
   },
   {
-   "id": "d1c298efdaa52f813c2d0235d32b1af8",
-   "title": "This toolless modular lever-action wallet is the coolest I’ve stuck to my phone",
-   "summary": "This toolless modular lever-action wallet is the coolest I've stuck to my phone. Remember when I tested the ultra-thin and convenient OhSnap Snap Grip Stand and",
-   "link": "https://www.theverge.com/gadgets/1004360/this-toolless-modular-lever-action-wallet-is-the-coolest-ive-stuck-to-my-phone",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 23:00",
-   "ts": 1791126000
-  },
-  {
    "id": "7e3d99afa535e29126100897c53f750f",
    "title": "一家游戏博物馆的非意外死亡 | 在广州，说说“万物破元”的故事",
    "summary": "本期时间轴制作：猪猪米这期节目录制于深圳核聚变之前。在广州，我见到老朋友也是中国独立游戏界的老前辈“拼命玩三郎”和机核老听众盲灯。我与两位老师坐在一起，说了一一些历史话题：曾经在国内闻名遐迩的\"万物破元\"游戏博物馆是怎样建立，又是如何告别的？游戏人文与内容的火种和精神在不同年代的玩家身上，会如何呈现和传递？",
@@ -2095,19 +2120,6 @@
    "ts": 1791124884
   },
   {
-   "id": "89c91cfea6a2cb7bfb8f9cf66a1e9708",
-   "title": "Redesigned MacBook Pro with OLED to feature ‘significantly lighter’ design: report",
-   "summary": "Apple’s major MacBook Pro overhaul is just around the corner, and should debut within a month or so. It’ll be the first touchscreen MacBook, as well as the firs",
-   "link": "https://9to5mac.com/2026/10/04/apple-macbook-pro-redesign-to-be-much-lighter-report/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 22:11",
-   "ts": 1791123061
-  },
-  {
    "id": "77f2f4e1bb3ec5552a2063cb48ae4f19",
    "title": "Strings and Character Data in Python",
    "summary": "Work with Python strings using a rich set of operators and functions: string literals, the str() function, and the methods you'll use most.",
@@ -2145,19 +2157,6 @@
    "urgent": false,
    "fetched_at": "10-04 21:48",
    "ts": 1791121734
-  },
-  {
-   "id": "f98d3c206b611ce62591c48d970cab58",
-   "title": "The AirPods Pro 3 are a fantastic deal at $179",
-   "summary": "It’s been a while since we’ve seen a good discount on the Apple AirPods Pro 3, but like the latest iPad Mini and the M5 MacBook Airs, a great one is happening n",
-   "link": "https://www.theverge.com/gadgets/1004242/airpods-pro-3-amazon-october-prime-day-deal-sale",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 21:00",
-   "ts": 1791118800
   },
   {
    "id": "27e2b61afaf29310d01ddc904838ea60",
@@ -2249,19 +2248,6 @@
    "urgent": false,
    "fetched_at": "10-04 19:42",
    "ts": 1791114120
-  },
-  {
-   "id": "6afc29803bdd833845fc7538df0ca9b6",
-   "title": "AirPods Pro 3 hit low $179 price just weeks after adding new features",
-   "summary": "We are touching down to let folks know the Amazon fall Prime Day sale is getting a head start today – AirPods Pro 3 have now dropped down to one of the lowest p",
-   "link": "https://9to5mac.com/2026/10/04/airpods-pro-3-prime-day-deal/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 18:24",
-   "ts": 1791109441
   },
   {
    "id": "2dc7528a8b598676b88d09a155e4844d",
@@ -2511,19 +2497,6 @@
    "ts": 1791036000
   },
   {
-   "id": "51ed306d53043d028f0e546be227a3c4",
-   "title": "Spotify billionaire’s body scan startup has come to America",
-   "summary": "Farooq Abbasi, an investor in Neko Health, talked to Equity about the hot health tech company and what's next for it.",
-   "link": "https://techcrunch.com/2026/10/03/spotify-billionaires-body-scan-startup-has-come-to-america/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 22:00",
-   "ts": 1791036000
-  },
-  {
    "id": "e61917a7d65fe6eabf9fcb4dd42655b8",
    "title": "11 Beginner Tips for Learning Python Programming",
    "summary": "Python tips for beginners: the learning strategies and habits that take you from your first script to code you're proud of.",
@@ -2613,6 +2586,32 @@
    "urgent": false,
    "fetched_at": "10-03 20:48",
    "ts": 1791031686
+  },
+  {
+   "id": "425aa844cf154db9d0c3cd2e6ed00e13",
+   "title": "从美光财报谈谈市场需要什么预期",
+   "summary": "",
+   "link": "http://xueqiu.com/5332385101/411250110",
+   "source": "雪球",
+   "channel": "财经",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 20:47",
+   "ts": 1791031679
+  },
+  {
+   "id": "b37cb5146ca805dea98999576e724232",
+   "title": "View Photos of the 1978 Subaru Wagon Through Baja",
+   "summary": "See photos of the 1978 Subaru wagon through Baja from every angle.",
+   "link": "https://www.caranddriver.com/photos/a73963655/1978-subaru-wagon-through-baja-archive-feature-gallery/",
+   "source": "Car and Driver",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-03 20:47",
+   "ts": 1791031635
   }
  ]
 }
