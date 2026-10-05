@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05 13:43",
+ "updated_at": "2026-10-05 14:07",
  "total": 259,
  "channels": [
   "AI·科技",
@@ -15,17 +15,56 @@
  ],
  "items": [
   {
-   "id": "c8ca07a9362cfb03f099656bb53a4e19",
-   "title": "Humphries savours 'special' win after ending run of major near-misses",
-   "summary": "Luke Humphries was relieved to end his run of near-misses in TV major finals after delivering a sensational comeback victory over Gerwyn Price at the World Gran",
-   "link": "https://www.skysports.com/darts/news/12040/13595111/world-grand-prix-darts-luke-humphries-relieved-to-end-losing-streak-in-major-finals-after-comeback-win-over-gerwyn-price",
+   "id": "79519ea3942ee9314cb663840a5c5d92",
+   "title": "Zhuri chases a first success at Yarmouth",
+   "summary": "We have a busy day&#8217;s racing on Monday with flat action from Wolverhampton and Yarmouth, live on Sky Sports Racing...",
+   "link": "https://www.skysports.com/racing/news/12040/13594924/today-on-sky-sports-racing-wolverhampton-and-yarmouth",
    "source": "Sky Sports",
    "channel": "体育",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-05 14:15",
-   "ts": 1791180900
+   "fetched_at": "10-05 15:00",
+   "ts": 1791183600
+  },
+  {
+   "id": "7860de7033445c8c076703d590168e1e",
+   "title": "Gihan Arnolda: Britain's first black trainer hoping to inspire next generation",
+   "summary": "Gihan Arnolda is believed to be the first Black or Asian licenced trainer in Britain. He's based at Cadland Cottage Stables in Newmarket and sent out his first ",
+   "link": "https://www.skysports.com/watch/video/13594019/gihan-arnolda-britains-first-black-trainer-hoping-to-inspire-next-generation",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 15:00",
+   "ts": 1791183600
+  },
+  {
+   "id": "1ef3297f01087a712bdddeb3e3d38818",
+   "title": "Rapidus 宣布成立协作开放快速生态系统，率先构建设计解决方案联盟",
+   "summary": "IT之家 10 月 5 日消息，日本先进半导体制造企业 Rapidus 当地时间今日宣布成立 Rapidus &nbsp;Collaborative Open Rapid Ecosystem（协作开放快速生态系统）。这一全球性框架旨在支持尖端半导体的开发和大规模生产。Rapidus 表示，半导体开发现在需要的不仅仅是制",
+   "link": "https://www.ithome.com/1/009/804.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:07",
+   "ts": 1791180430
+  },
+  {
+   "id": "1948ea649d9c08efe651f49550dac20b",
+   "title": "海信 Vidda 推出大眼睛 M2 Pro 旗舰版投影仪：1800 CVIA 亮度，5499 元",
+   "summary": "IT之家 10 月 5 日消息，海信 Vidda 现已推出大眼睛 M2 Pro 旗舰版投影仪，目前皓月白配色已经开售，太空银配色需要预约，售价 5499 元，限时补贴到手价 4949 元。这款三色激光投影仪主打 1800 CVIA 亮度，采用 0.47 英寸 DMD 芯片 + QuaLas42 激光器，相比常见的 0.",
+   "link": "https://www.ithome.com/1/009/803.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:05",
+   "ts": 1791180354
   },
   {
    "id": "97900eed23a2e29d1578f1e93d341238",
@@ -41,6 +80,19 @@
    "ts": 1791180300
   },
   {
+   "id": "fbdf0dac1497d1e993a3a564f17f2db6",
+   "title": "国产抗日游戏《抵抗者》将进入日本市场：正针对日本玩家推进本地化适配工作，在大战场之外还将加入潜行与小规模交战",
+   "summary": "IT之家 10 月 5 日消息，国产抗日题材 FPS 新作《抵抗者》计划打入日本市场，制作团队正针对日本玩家推进本地化工作。日本媒体 Game*Spark 今日放出了在 2026 年科隆游戏展期间对于游戏制作人孔宇恒的邮件采访内容。孔宇恒介绍了游戏选择中国抗日战争作为背景的原因，并透露了潜行、小规模交战等玩法细节。首先",
+   "link": "https://www.ithome.com/1/009/802.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:04",
+   "ts": 1791180298
+  },
+  {
    "id": "ce4e3154d19a7fdc1b180c190869b371",
    "title": "Singapore GP: Sprint weekend schedule and how to watch",
    "summary": "Formula 1 concludes its Asian triple-header with a Sprint weekend at the Singapore Grand Prix.",
@@ -48,6 +100,19 @@
    "source": "Sky Sports",
    "channel": "体育",
    "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:00",
+   "ts": 1791180000
+  },
+  {
+   "id": "64e83eb528f391e38664d8d821e7e43f",
+   "title": "Harvey Keitel Plays Acting Teacher in Gaurav Bhardwaj’s Debut Feature ‘The Method’ (EXCLUSIVE)",
+   "summary": "Harvey Keitel stars as a celebrated acting teacher in &#8220;The Method,&#8221; the first feature from director and co-writer Gaurav Bhardwaj, produced by &#822",
+   "link": "https://variety.com/2026/film/news/harvey-keitel-stars-new-york-acting-drama-method-1236898849/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
    "weight": 2,
    "urgent": false,
    "fetched_at": "10-05 14:00",
@@ -197,21 +262,8 @@
    "ts": 1791174647
   },
   {
-   "id": "79412f6eba569f50c1ff8ad028bea20d",
-   "title": "Kagi Ends Orion Browser Development for Linux, Will Open-Source It",
-   "summary": "Article URL: https://linuxiac.com/kagi-ends-orion-browser-development-for-linux-will-open-source-it/\nComments URL: https://news.ycombinator.com/item?id=49960628",
-   "link": "https://linuxiac.com/kagi-ends-orion-browser-development-for-linux-will-open-source-it/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 12:18",
-   "ts": 1791173919
-  },
-  {
-   "id": "5de586a6f55d9ab2ff3785263bcaaf9e",
-   "title": "This is the Fitbit Edge: Google’s next fitness tracker finally spills its secrets",
+   "id": "0b6a6b7e6feb6459cf889754d3d20a07",
+   "title": "Fitbit Edge leaks in full: Google’s new fitness tracker finally spills its secrets",
    "summary": "The perfect middle ground between Fitbit Air and Pixel Watch 5?",
    "link": "https://www.androidauthority.com/google-fitbit-edge-leak-3718856/",
    "source": "Android Authority",
@@ -221,19 +273,6 @@
    "urgent": false,
    "fetched_at": "10-05 12:11",
    "ts": 1791173481
-  },
-  {
-   "id": "edc2270b9be32ce809bf1d6c77660e39",
-   "title": "德国电力公司推出游戏玩家专属电价套餐：瞄准高耗电家庭，电力 100% 来自可再生能源",
-   "summary": "IT之家 10 月 5 日消息，德国公用事业与电力零售企业 SWK Energie 推出了一项面向游戏玩家的全新营销策略。据 ComputerBase 报道，这项名为 meinGAMING 的业务围绕游戏玩家展开大量营销宣传，例如将供电的稳定性比作“你最喜爱的游戏服务器”，还邀约 Limcube 这类游戏主播开展网红推",
-   "link": "https://www.ithome.com/1/009/790.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 12:01",
-   "ts": 1791172905
   },
   {
    "id": "50e2243f4437278f492f79b2e045af5e",
@@ -260,32 +299,6 @@
    "urgent": false,
    "fetched_at": "10-05 11:53",
    "ts": 1791172416
-  },
-  {
-   "id": "ce17f2be7132147689acc923907cef91",
-   "title": "美国造车新势力 Rivian 第三季度交付 19248 辆，同比增长 46%",
-   "summary": "IT之家 10 月 5 日消息，当地时间 10 月 2 日，美国造车新势力 Rivian 公布了截至 2026 年 9 月 30 日的季度产量与交付量数据。本季度，该公司位于美国伊利诺伊州诺默尔的生产工厂共生产汽车 19,751 辆，同期完成交付 19,248 辆（同比增长 46%）。Rivian 曾在今年早些时候上调",
-   "link": "https://www.ithome.com/1/009/788.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 11:50",
-   "ts": 1791172249
-  },
-  {
-   "id": "8fa53ddfd2f46d5d03f7a8e6ff2443dd",
-   "title": "纽约时报：石油大国闹油荒，俄罗斯人抢购中国电动汽车",
-   "summary": "北京时间 10 月 5 日，《纽约时报》发文称，随着乌克兰越来越多地将战火带到俄罗斯，俄罗斯出现了燃料短缺的情况，这促使俄罗斯人开始抢购中国电动汽车。俄罗斯加油站排起长队谢尔盖 · 采利科夫 (Sergei Tselikov) 是俄罗斯首屈一指的汽车行业专家，先后拥有过 20 多辆车，包括沃尔沃、大众和路虎。这些车全都",
-   "link": "https://www.ithome.com/1/009/787.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 11:44",
-   "ts": 1791171872
   },
   {
    "id": "ab46034d3cba9c434bf9219f7b94b59b",
@@ -485,7 +498,7 @@
   {
    "id": "e5f1789defb27862d3b2b1792d982eb8",
    "title": "A 40ms Go garbage collector pause caused by swap",
-   "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 34\n# Comments: 8",
+   "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 40\n# Comments: 11",
    "link": "https://frn.sh/go-gc/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -680,7 +693,7 @@
   {
    "id": "a61705551fcaf05aa19a7aeaf36d5d7a",
    "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-   "summary": "Article URL: https://getartcraft.com/apps\nComments URL: https://news.ycombinator.com/item?id=49958850\nPoints: 67\n# Comments: 71",
+   "summary": "Article URL: https://getartcraft.com/apps\nComments URL: https://news.ycombinator.com/item?id=49958850\nPoints: 76\n# Comments: 75",
    "link": "https://getartcraft.com/apps",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -717,19 +730,6 @@
    "ts": 1791154590
   },
   {
-   "id": "7ebf7fd09bf336aa6b7ff9cfbb3ab044",
-   "title": "Fox One Offering Free Trial, Bundle Discount for NFL Streaming Coverage Online",
-   "summary": "The 2026-27 NFL season is underway, and fans who want to watch the games from home can now take advantage of a Fox One offer, which gets you a free trial to the",
-   "link": "https://variety.com/2026/shopping/athletes/get-fox-one-app-free-trial-streaming-offer-online-deal-1236779147/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 06:41",
-   "ts": 1791153660
-  },
-  {
    "id": "162e19031d027729e2b44c5a6bcac4d9",
    "title": "Mardle: Humphries can do it against anyone from any position",
    "summary": "Sky Sports Darts pundit Wayne Mardle reflects on Luke Humphries becoming a two-time World Grand Prix champion after 'Cool Hand' rallied from 3-0 down against Ge",
@@ -758,7 +758,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 106\n# Comments: 30",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 108\n# Comments: 30",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -875,7 +875,7 @@
   {
    "id": "2e52209d54610fcee4461e07dfed5f5a",
    "title": "In the wake of closure, a digital archive of animated materials appears online",
-   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 86\n# Comments: 8",
+   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 92\n# Comments: 9",
    "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -966,7 +966,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 475\n# Comments: 298",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 483\n# Comments: 302",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1005,7 +1005,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 147\n# Comments: 54",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 150\n# Comments: 56",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1096,7 +1096,7 @@
   {
    "id": "43161bc160eba8fb8a2b5d2546227999",
    "title": "All I wanted was a custom domain email",
-   "summary": "Article URL: https://jacobg.co/emails-at-jacobg-co/\nComments URL: https://news.ycombinator.com/item?id=49956092\nPoints: 46\n# Comments: 65",
+   "summary": "Article URL: https://jacobg.co/emails-at-jacobg-co/\nComments URL: https://news.ycombinator.com/item?id=49956092\nPoints: 48\n# Comments: 67",
    "link": "https://jacobg.co/emails-at-jacobg-co/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1105,6 +1105,19 @@
    "urgent": false,
    "fetched_at": "10-05 01:47",
    "ts": 1791136041
+  },
+  {
+   "id": "d0549b40cf18c06783f4fb0f5d660e7f",
+   "title": "Xray-core concealed a certificate verification bypass vulnerability",
+   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 71\n# Comments: 9",
+   "link": "https://github.com/net4people/bbs/issues/672",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 01:38",
+   "ts": 1791135534
   },
   {
    "id": "62a4e9e53f35953f07982161814b58db",
@@ -1196,19 +1209,6 @@
    "urgent": false,
    "fetched_at": "10-05 00:41",
    "ts": 1791132118
-  },
-  {
-   "id": "049e5e278e21cffe512af6004a83e2d0",
-   "title": "'He's a real champion!' | Graffard hails Arc hero Daryz",
-   "summary": "Francis-Henri Graffard lauded the achievements of Daryz after he retained his Prix de l'Arc de Triomphe crown at ParisLongchamp.",
-   "link": "https://www.skysports.com/watch/video/13595065/hes-a-real-champion-graffard-hails-arc-hero-daryz",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 00:24",
-   "ts": 1791131040
   },
   {
    "id": "5b6a5aec16e4a2e461a9efc7c9707de6",
