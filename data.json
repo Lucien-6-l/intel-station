@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05 10:40",
+ "updated_at": "2026-10-05 11:04",
  "total": 258,
  "channels": [
   "AI·科技",
@@ -14,6 +14,84 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "e171af19b6ad8b2e5e17e00c92552494",
+   "title": "Chiefs very interested in a Tyreek Hill reunion amid injuries at receiver, per report",
+   "summary": "Kansas City has reportedly reached out to Hill's agent",
+   "link": "https://www.cbssports.com/nfl/news/chiefs-interested-tyreek-hill-reunion-amid-injuries-at-receiver/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:54",
+   "ts": 1791168876
+  },
+  {
+   "id": "ed1f83fd03bc0f029de212abb9146c97",
+   "title": "Linux 7.3-rc6 发布：Torvalds 称进入“AI 新常态”，稳定版预计 10 月中旬发布",
+   "summary": "IT之家 10 月 5 日消息，Linus Torvalds 于当地时间 10 月 4 日发布了 Linux 7.3-rc6 测试版。相比前一周较为特殊的代码变更统计，本周整体恢复正常，驱动修复重新占据大头。不过，Torvalds 也特别提到，随着 AI 和大语言模型（LLM）的参与，这种“AI 新常态”已经成为当前 ",
+   "link": "https://www.ithome.com/1/009/781.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 10:54",
+   "ts": 1791168843
+  },
+  {
+   "id": "185156729ce0e30218b339e80e920a06",
+   "title": "我国沙漠最大油田，6000 米之下超深油气产量突破 2600 万吨",
+   "summary": "IT之家 10 月 5 日消息，据央视新闻今日从中国石油获悉，我国沙漠最大油田，哈得－富满油田已从 6000 米之下采出油气突破 2600 万吨。塔里木盆地超深地层油气储量丰厚，是我国油气增储上产重要潜力区。我国在塔里木盆地已探明油气储量超过 50 亿吨，其中，超过一半来自超深地层。IT之家从报道获悉，近年来，塔里木油",
+   "link": "https://www.ithome.com/1/009/780.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 10:53",
+   "ts": 1791168834
+  },
+  {
+   "id": "7d60c4279d6b82007584bf02a72754a1",
+   "title": "AI 生成的跨游戏混搭模组兴起，资深制作者集体表达不满",
+   "summary": "IT之家 10 月 5 日消息，资深游戏模组（mod）制作者们对互联网模组圈子新近兴起的风潮深感不满，也就是由 AI 生成、所谓的“氛围编码（vibe‑coded）”模组。据 IGN 报道，如今反对的声音正在持续发酵：不少模组制作者（其中一部分人坦然承认自己会使用生成式 AI 辅助编写模组）公开讨论一类混搭模组，这类模",
+   "link": "https://www.ithome.com/1/009/779.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:52",
+   "ts": 1791168724
+  },
+  {
+   "id": "d2576ef49edf4f48ad1167cd6737d7b9",
+   "title": "迈从公布 A7 V3-X 中大手鼠标：雾透渐变配色，nRF54L + PAW3955，日常价 459 元",
+   "summary": "IT之家 10 月 5 日消息，迈从 (MCHOSE) 今日宣布，其中大手三模鼠标新品 A7 V3-X 现已登陆迈从线下门店。该款可选浮影 / 幻樱 2 种雾透渐变配色，日常价 459 元。A7 V3-X 三维 125.8 × 63.2 × 39.7 (mm)，内置 500mAh 电池，覆盖 Super Glide 玻",
+   "link": "https://www.ithome.com/1/009/778.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:43",
+   "ts": 1791168234
+  },
+  {
+   "id": "10c8b5003b96a1e6aef146a5e2bea93c",
+   "title": "一汽丰田：“一汽丰田或将彻底退出历史舞台”“丰田大降价”等均为不实言论",
+   "summary": "IT之家 10 月 5 日消息，一汽丰田汽车销售有限公司今日发布《针对近期网络上出现的有关一汽丰田不实言论的声明》。IT之家附声明全文如下：针对近期网络上出现的有关一汽丰田不实言论的声明近期，中国第一汽车集团有限公司与广州汽车工业集团有限公司签署战略合作框架协议，引发行业及消费者广泛关注。一汽丰田深耕国内市场 23 年",
+   "link": "https://www.ithome.com/1/009/776.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:41",
+   "ts": 1791168100
+  },
   {
    "id": "7a3eb24ae0f5193bb7fbe28d91457f8e",
    "title": "JEDEC 发布首份全行业硅光子学（SiPh）可靠性标准 JESD264",
@@ -39,6 +117,32 @@
    "urgent": false,
    "fetched_at": "10-05 10:32",
    "ts": 1791167521
+  },
+  {
+   "id": "5bc5e640d1d724687c5e0b50f2bc37e4",
+   "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
+   "summary": "Article URL: https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857\nComments URL: https:",
+   "link": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:31",
+   "ts": 1791167505
+  },
+  {
+   "id": "b30870ed0f57a515beafa035f50696af",
+   "title": "NFL reviewing heated exchange between referee, Vikings' Eric Wilson",
+   "summary": "The league is looking into two separate incidents involving a player and an official during Week 4",
+   "link": "https://www.cbssports.com/nfl/news/nfl-reviews-heated-exchange-referee-vikings-eric-wilson/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:29",
+   "ts": 1791167387
   },
   {
    "id": "26e353ad5dc07baddb39ebeeaa4e303f",
@@ -106,58 +210,6 @@
    "ts": 1791166322
   },
   {
-   "id": "e8b0a73e05d78146bf9704b07d70a11c",
-   "title": "谷歌 Fitbit Edge 健身手环曝光：续航七天，内置 GPS 与高度计",
-   "summary": "IT之家 10 月 5 日消息，关于 Fitbit Edge 外界目前掌握的信息还不算多，但这款产品看上去是中端 Charge 系列的继任机型。此前就曾出现过相关泄露消息，而在 Android Headlines 发布的最新图片当中，可以清晰看到这款传闻已久的谷歌健身手环定位介于 Pixel 手表与 Fitbit Ai",
-   "link": "https://www.ithome.com/1/009/767.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:06",
-   "ts": 1791165979
-  },
-  {
-   "id": "48665541908183636cbce0e92df8b284",
-   "title": "vivo Y600k Turbo 手机开售：第四代骁龙 7s，12GB+256GB 售价 2799 元",
-   "summary": "IT之家 10 月 5 日消息，vivo Y600k Turbo 手机现已在官网开售，搭载第四代骁龙 7s，有电光蓝、千禧粉、沙丘金三种颜色可选，12GB+256GB 售价 2799 元。vivo Y600k Turbo 手机搭载第四代骁龙 7s 移动平台，12GB LPDDR4X 双通道内存，256GB UFS3.1",
-   "link": "https://www.ithome.com/1/009/766.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:05",
-   "ts": 1791165924
-  },
-  {
-   "id": "88e3d6321207af7750cda0afbd5f8e6b",
-   "title": "消息称 Reflection 等多家西方企业本月将推出开放权重 AI 模型",
-   "summary": "IT之家 10 月 5 日消息，外媒 Axios 当地时间 4 日报道称，Reflection 等多家西方企业本月将推出开放权重 AI 模型，人工智能模型领域的竞争将进一步升级。开放权重模型的一大好处是其支持客户本地部署，这对微调和推理数据安全有着严格要求的部分行业来说是一项关键性优势。报道表示，Reflection ",
-   "link": "https://www.ithome.com/1/009/765.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-05 10:02",
-   "ts": 1791165725
-  },
-  {
-   "id": "816ce3e86888371894e0df9021caae72",
-   "title": "跨越百年的代言：斯凯孚用 AI“复活”已故女星葛丽泰 · 嘉宝拍广告",
-   "summary": "IT之家 10 月 5 日消息，“开拍了吗？”由人工智能生成的好莱坞三十年代影星葛丽泰 · 嘉宝（Greta Garbo）的形象柔声问道。这是一则看起来颇出人意料的广告，广告的投放方是瑞典滚珠轴承制造商斯凯孚（SKF）。据路透社报道，这则广告引发了热议，收获赞许的同时也遭到嘲讽。这件事也凸显出，技术日趋成熟的人工智能正",
-   "link": "https://www.ithome.com/1/009/764.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:00",
-   "ts": 1791165614
-  },
-  {
    "id": "3b4971f743786ddcdbe9ffd25f7f8e90",
    "title": "Beats 360 review",
    "summary": "The Beats 360 are the newest pair of headphones from Apple-owned Beats by Dre, and are aimed specifically at those looking for a pair of headphones to use durin",
@@ -169,6 +221,19 @@
    "urgent": false,
    "fetched_at": "10-05 10:00",
    "ts": 1791165602
+  },
+  {
+   "id": "0c1c6977a952f8d70066348d0bb7b067",
+   "title": "Lanterns Season 1 Finale Review & Recap",
+   "summary": "Though most of the twists can be seen coming well in advance, Lanterns Episode 8 manages to wrap up the season on an emotionally satisfying note.",
+   "link": "https://www.ign.com/articles/lanterns-season-1-finale-review-recap",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:00",
+   "ts": 1791165600
   },
   {
    "id": "1417de4fef9a482454b2f963509594a6",
@@ -223,17 +288,17 @@
    "ts": 1791165248
   },
   {
-   "id": "0bc42e5083cd3c5f1b6a8023f1038ab9",
-   "title": "消息称 Wayve 将为大众供应自动驾驶解决方案",
-   "summary": "IT之家 10 月 5 日消息，德媒 Donaukurier 当地时间本月 2 日报道称，英国具身智能初创企业 Wayve 从诸多竞争者中胜出，将同大众汽车集团旗下软件公司 CARIAD 合作为大众供应自动驾驶解决方案。Wayve 将开发自动驾驶人工智能软件，CARIAD 则负责软件与大众-博世联合开发硬件的系统集成工",
-   "link": "https://www.ithome.com/1/009/762.htm",
-   "source": "IT之家",
+   "id": "62c1f496cc96e2ff187d6338c2482e8b",
+   "title": "A tribute to one of the best games on the Atari 2600",
+   "summary": "Article URL: https://plicerin.github.io/riverraid-rom-port/\nComments URL: https://news.ycombinator.com/item?id=49959865\nPoints: 5\n# Comments: 1",
+   "link": "https://plicerin.github.io/riverraid-rom-port/",
+   "source": "Hacker News",
    "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-05 09:48",
-   "ts": 1791164899
+   "fetched_at": "10-05 09:54",
+   "ts": 1791165240
   },
   {
    "id": "3e6e4ef824e8b39c4593cd0e39cb1f06",
@@ -247,19 +312,6 @@
    "urgent": false,
    "fetched_at": "10-05 09:13",
    "ts": 1791162802
-  },
-  {
-   "id": "ab46034d3cba9c434bf9219f7b94b59b",
-   "title": "NLDS Game 2 winners and losers: Brewers magic strikes again in walk-off win; Mason Miller implodes",
-   "summary": "Milwaukee worked three walks against the Padres closer in the ninth inning before Jackson Chourio called game",
-   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoffs-nlds-game-2-winners-losers/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:05",
-   "ts": 1791162347
   },
   {
    "id": "ba138ea226597b284485fc2b68aa8cac",
@@ -470,19 +522,6 @@
    "ts": 1791156600
   },
   {
-   "id": "0747c473fe4aeb9484dc4faa5837d594",
-   "title": "Panthers vs. Lions predictions, odds, time: Week 4 'Sunday Night Football' picks by proven model",
-   "summary": "SportsLine's model has revealed its Detroit Lions vs. Carolina Panthers picks for 'Sunday Night Football'",
-   "link": "https://www.cbssports.com/betting/news/panthers-lions-predictions-odds-time-spread-week-4-sunday-night-football-picks-nfl-best-bets/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:25",
-   "ts": 1791156304
-  },
-  {
    "id": "8d3987a3587e6998053c571f4ad3bdeb",
    "title": "Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner",
    "summary": "Professional Tekken 8 player SuperBrine is going viral after reaching God of Destruction using Alisa while completely blindfolded with a sleep mask.",
@@ -563,7 +602,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 73\n# Comments: 19",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 76\n# Comments: 20",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -810,7 +849,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 390\n# Comments: 256",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 398\n# Comments: 264",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -849,7 +888,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 98\n# Comments: 40",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 101\n# Comments: 43",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -966,7 +1005,7 @@
   {
    "id": "d0549b40cf18c06783f4fb0f5d660e7f",
    "title": "Xray-core concealed a certificate verification bypass vulnerability",
-   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 60\n# Comments: 2",
+   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 61\n# Comments: 2",
    "link": "https://github.com/net4people/bbs/issues/672",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1369,7 +1408,7 @@
   {
    "id": "b2f4a7c23b312ad1f2de434faa293b99",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 628\n# Comments: 296",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 634\n# Comments: 296",
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1417,19 +1456,6 @@
    "urgent": false,
    "fetched_at": "10-04 20:31",
    "ts": 1791117061
-  },
-  {
-   "id": "6c0c163721146c3be48644c9ffb10866",
-   "title": "Bill Draper has died",
-   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 83\n# Comments: 20",
-   "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 20:21",
-   "ts": 1791116495
   },
   {
    "id": "a1bee9fa41825175870bfe40d4011228",
@@ -1573,19 +1599,6 @@
    "urgent": false,
    "fetched_at": "10-04 17:30",
    "ts": 1791106250
-  },
-  {
-   "id": "2de3b1ecfa3eaada8f4abe79355cd62d",
-   "title": "Show HN: AI search for every photo and every frame of video on macOS",
-   "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 141\n# Comments: 66",
-   "link": "https://github.com/allenv0/SCM",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 17:24",
-   "ts": 1791105892
   },
   {
    "id": "3ad299ecdad5305419938dd8ec010297",
@@ -1846,19 +1859,6 @@
    "urgent": false,
    "fetched_at": "10-04 04:00",
    "ts": 1791057641
-  },
-  {
-   "id": "84c027315a22c801fc2e2283de89bc09",
-   "title": "Fourth RuneScape MMO Built With Unreal Engine in the Works, Jagex Announces RuneScape Animation With MoistCr1TiKaL",
-   "summary": "Developer Jagex has announced a fourth MMO in the long-running RuneScape franchise, as well as an animated adaptation.",
-   "link": "https://www.ign.com/articles/runescape-4-mmo-jagex-animation-series-moistcr1tikal",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 04:00",
-   "ts": 1791057622
   },
   {
    "id": "b87ae2a69fb38c238e47ed8ba6855325",
