@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 23:07",
- "total": 264,
+ "updated_at": "2026-10-05 23:42",
+ "total": 263,
  "channels": [
   "AI·科技",
   "体育",
@@ -14,6 +14,175 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "e25abd64cf64417770bddf7fd30b83c9",
+   "title": "Dominga Sotomayor’s Cannes’ Directors Fortnight Film ‘La Perra’ Sells Internationally",
+   "summary": "Dominga Sotomayor’s “La Perra,” which premiered at Cannes&#8217; Directors’ Fortnight and won the Palm Dog Award, has scored a raft of international sales for P",
+   "link": "https://variety.com/2026/film/global/dominga-sotomayor-cannes-directors-fortnight-la-perra-1236899156/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:41",
+   "ts": 1791214875
+  },
+  {
+   "id": "3dcdce975d9f8b4385ab8b71bab4a681",
+   "title": "Gas cars fall below 50% of global new car sales for the first time",
+   "summary": "Gas cars are now a minority of the world’s new car sales. Gasoline-only vehicles made up 49% of global new-vehicle sales in the first half of 2026, down from 73",
+   "link": "https://electrek.co/2026/10/05/gas-cars-fall-below-50-percent-global-new-car-sales/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:37",
+   "ts": 1791214621
+  },
+  {
+   "id": "7ead160eab26c22bccc3c8ed42852f15",
+   "title": "iCloud+ just rolled out an improved perk for subscribers",
+   "summary": "iCloud+ includes a lot more than additional storage, and one of the service’s perks for subscribers—custom email domains—just got even better.\n\n\n\n more…",
+   "link": "https://9to5mac.com/2026/10/05/icloud-just-rolled-out-an-improved-perk-for-subscribers/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:35",
+   "ts": 1791214511
+  },
+  {
+   "id": "7172c9a213429d8e86ad1fccedad7115",
+   "title": "Amazon Alexa won’t stop saying ‘lalala’ and users are creeped out",
+   "summary": "La, la, la, la, la...",
+   "link": "https://www.androidauthority.com/amazon-alexa-la-la-la-3719167/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:34",
+   "ts": 1791214475
+  },
+  {
+   "id": "772f68ea2bfef3af4aad6cf42c934685",
+   "title": "Bryce Young shines again: How former No. 1 pick went from benched to leading NFL in passing",
+   "summary": "Down two of his top wide receivers, Young threw for 329 yards and two scores on 'Sunday Night Football' vs. the Lions",
+   "link": "https://www.cbssports.com/nfl/news/panthers-bryce-young-shines-again-breaking-down-hot-start/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:33",
+   "ts": 1791214382
+  },
+  {
+   "id": "8f65d4d22caf5e43f26d9ad00f9e5bbe",
+   "title": "Apple’s AirPods Pro 3 fall to $179 in an early Amazon Prime Day deal",
+   "summary": "Save $70 on Apple AirPods Pro 3 at Amazon and get MagSafe charging, Find My support, and upgraded audio features.",
+   "link": "https://www.androidauthority.com/airpods-pro-3-prime-day-3719195/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:27",
+   "ts": 1791214020
+  },
+  {
+   "id": "2d689976c10a4bff1af4e835351bbf4f",
+   "title": "Extraordinary moment Medvedev disqualified after hitting spectator with ball",
+   "summary": "Daniil Medvedev was defaulted against Novak Djokovic during the China Open after hitting a ball at a spectator.",
+   "link": "https://www.skysports.com/watch/video/13595449/daniil-medvedev-defaulted-extraordinary-moment-medvedev-disqualified-after-hitting-spectator",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:24",
+   "ts": 1791213840
+  },
+  {
+   "id": "76c30a6a33b7697ddbe85da7f9c53b82",
+   "title": "2026《英雄联盟》S16 全球总决赛 10 月 16 日开赛，11 月 15 日冠亚军决赛",
+   "summary": "IT之家 10 月 5 日消息，今日，《英雄联盟》发布 2026 年全球总决赛（S16）观赛指南。全球总决赛由三个阶段组成：分别是入围赛阶段（10 月 16 日至 19 日）、瑞士轮赛阶段（10 月 24 日至 11 月 1 日）和淘汰赛阶段（11 月 4 日至 15 日），以上日期均为北京时间。入围赛阶段（Bo5） ",
+   "link": "https://www.ithome.com/1/009/902.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:23",
+   "ts": 1791213793
+  },
+  {
+   "id": "b69a6efcbd9582581d285eef64624ba4",
+   "title": "OpenAI launches visual ads that appear alongside image generation results",
+   "summary": "OpenAI said the new visual ads will show up after your image generation results appear in the U.S. only for now.",
+   "link": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 23:14",
+   "ts": 1791213264
+  },
+  {
+   "id": "de05d55bc387509004ac58ee3f3e554e",
+   "title": "Deals: AirPods Pro 3, AirPods Max 2 $120 off, M6 Mac mini $150 off, Series 12, Ultra 4, more",
+   "summary": "The fall Prime Day Apple are seriously kicking off early today folks. We have AirPods Pro 3 at one of the lowest prices ever and AirPods Max 2 at $120 off joine",
+   "link": "https://9to5mac.com/2026/10/05/deals-airpods-pro-3-airpods-max-2-mac-mini-series-12/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:13",
+   "ts": 1791213216
+  },
+  {
+   "id": "45ab4bb1eaf570394e63cee0f9acc09e",
+   "title": "Jim Harbaugh defends Mike McDaniel despite 0-4 start, Justin Herbert earns ugly Chargers honor",
+   "summary": "Los Angeles is struggling on offense and its franchise quarterback is a shell of himself",
+   "link": "https://www.cbssports.com/nfl/news/chargers-jim-harbaugh-defends-mike-mcdaniel-despite-0-4-start/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:13",
+   "ts": 1791213193
+  },
+  {
+   "id": "ddd1af72b13a505146d1f3c742ff7cd4",
+   "title": "Apple’s new M6 Mac Mini is over $100 off",
+   "summary": "Really the only negative associated with the new M6-powered Mac Mini is its high price. While the last-gen model debuted at just $599, the faster, but mostly un",
+   "link": "https://www.theverge.com/gadgets/1004772/apple-mac-mini-m6-deal-october-prime-day-deal-sale",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:08",
+   "ts": 1791212911
+  },
+  {
+   "id": "b69f8b719676f45f279cd8e6262c9b5c",
+   "title": "College football teams in panic mode: Colorado is unfixable, Michigan running low on time for turnaround",
+   "summary": "From coaching hot seats in Columbia and College Park to offensive meltdowns in Boulder, we assess the alarm level for underachieving programs facing pivotal wee",
+   "link": "https://www.cbssports.com/college-football/news/college-football-panic-meter-teams-colorado-michigan-2026-season/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:05",
+   "ts": 1791212742
+  },
   {
    "id": "527c8d4dfa21ccc2f3abd711470502e9",
    "title": "Riley Keough and Director Clay Tweel Board First Responder Psychedelic Therapy Doc ‘Under Fire’ as Executive Producers (EXCLUSIVE)",
@@ -107,7 +276,7 @@
   },
   {
    "id": "c301be9ba2a38e79d14579d0fc0d4e3b",
-   "title": "Medvedev defaulted for hitting spectator with ball as Djokovic makes Beijing final",
+   "title": "Medvedev defaulted for hitting spectator with ball in defeat to Djokovic",
    "summary": "Daniil Medvedev was defaulted for hitting a spectator with a ball as Novak Djokovic took his impeccable record at the China Open to 33-0 and moved one win away ",
    "link": "https://www.skysports.com/tennis/news/12040/13595259/daniil-medvedev-defaulted-for-hitting-spectator-with-ball-as-novak-djokovic-reaches-another-china-open-final",
    "source": "Sky Sports",
@@ -158,6 +327,19 @@
    "ts": 1791212400
   },
   {
+   "id": "392e2cdeaf0a6a286926874d495c3ef9",
+   "title": "2026 Fantasy Baseball: What you missed after football started, from late breakouts to prospect call-ups",
+   "summary": "Jared Jones, Ronald Acuña and Fernando Tatis were among the players who surged late, while several top prospects made their MLB debuts",
+   "link": "https://www.cbssports.com/fantasy/baseball/news/2026-fantasy-baseball-what-you-missed-after-football-started/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:59",
+   "ts": 1791212386
+  },
+  {
    "id": "4c5a6f630ee51bbbe970213e9670c910",
    "title": "Hackers steal 8 million citizens’ records from Danish government database",
    "summary": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased",
@@ -195,6 +377,19 @@
    "urgent": true,
    "fetched_at": "10-05 22:54",
    "ts": 1791212073
+  },
+  {
+   "id": "533a115ef386ed45abb0e6108b3eeb67",
+   "title": "What's wrong with Washington? Tougher schedule, pedestrian QB play have Huskies off to disappointing start",
+   "summary": "The Huskies have faltered after leaving the 2025 season with serious momentum",
+   "link": "https://www.cbssports.com/college-football/news/washington-analysis-jedd-fisch-demond-williams-jr-big-ten/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:50",
+   "ts": 1791211828
   },
   {
    "id": "632c8570837ce50b0711e46a987324c7",
@@ -236,6 +431,19 @@
    "ts": 1791211539
   },
   {
+   "id": "05d4b9b4d5b34cf117d866ab5bf59f22",
+   "title": "Lionel Messi farewell: Argentina superstar still one of the best as he preps for final national team match",
+   "summary": "Tuesday's friendly against Benin in Buenos Aires brings a curtain down on a legendary international career that delivered two Copa America titles, a World Cup a",
+   "link": "https://www.cbssports.com/soccer/news/lionel-messi-farewell-argentina-superstar-final-national-team-match/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:43",
+   "ts": 1791211427
+  },
+  {
    "id": "5d64a8e01f9fcc5c5f45b2f09f9ddb25",
    "title": "CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance",
    "summary": "CNN CEO Mark Thompson will remain at the head of the news network when Paramount's $110 billion Warner Bros. Discovery acquisition closes this week. Thompson wr",
@@ -260,6 +468,19 @@
    "urgent": false,
    "fetched_at": "10-05 22:41",
    "ts": 1791211260
+  },
+  {
+   "id": "64355733974cc80e850e62cddc5895db",
+   "title": "\"I'm Embarrassed on Behalf of the Tech Industry\"",
+   "summary": "Article URL: https://blog.jim-nielsen.com/2026/embarrassed-by-tech/\nComments URL: https://news.ycombinator.com/item?id=49965497\nPoints: 37\n# Comments: 14",
+   "link": "https://blog.jim-nielsen.com/2026/embarrassed-by-tech/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:39",
+   "ts": 1791211175
   },
   {
    "id": "d256a2a1e0ee4c20355bd170dc10638a",
@@ -353,6 +574,19 @@
    "ts": 1791210840
   },
   {
+   "id": "2eaa2cb9851e8310f847d5cfc5078029",
+   "title": "2026 UFC event schedule: Alexander Volkanovski vs. Movsar Evloev, Ciryl Gane vs. Josh Hokit on tap",
+   "summary": "Check out a complete list of UFC pay-per-view and Fight Night events scheduled for 2026",
+   "link": "https://www.cbssports.com/ufc/news/2026-ufc-event-schedule-alexander-volkanovski-movsar-evloev-ciryl-gane-josh-hokit/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:33",
+   "ts": 1791210832
+  },
+  {
    "id": "76be671ffffdcc5c48de00f8f971c7ce",
    "title": "View Exterior Photos of the 2027 Chevrolet Corvette Grand Sport X",
    "summary": "See the exterior of the 2027 Chevrolet Corvette Grand Sport X from every angle.",
@@ -364,6 +598,19 @@
    "urgent": false,
    "fetched_at": "10-05 22:33",
    "ts": 1791210794
+  },
+  {
+   "id": "def056561b43831aa113cd0cc6dbf13b",
+   "title": "Borgata Sportsbook promo code 2026: Bet $20, get $100 instantly in bonus bets",
+   "summary": "Borgata Sportsbook promo code for new users: CBS100 to bet $20, get $100 instantly in bonus bets",
+   "link": "https://www.cbssports.com/betting/news/borgata-promo-code/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:31",
+   "ts": 1791210709
   },
   {
    "id": "ea355735cd3072977490ec1380d5331f",
@@ -407,7 +654,7 @@
   {
    "id": "a9c3e211d4ff43e92dac37daf5715b4c",
    "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
-   "summary": "Today, I’m talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees with oversight into tech and AI: intellectua",
+   "summary": "Today, I’m talking with Sen. Adam Schiff, a Democrat from California. Schiff sits on a number of committees with oversight into tech and AI: intellectual proper",
    "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
    "source": "The Verge",
    "channel": "AI·科技",
@@ -483,6 +730,19 @@
    "ts": 1791210277
   },
   {
+   "id": "7243e4d735a6a3231371fac465231860",
+   "title": "Making a GTK application in Haskell, part 1",
+   "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/\nComments URL: https://news.ycombinator.com/item?id=49965308\nPoints: 7\n# Comments",
+   "link": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:23",
+   "ts": 1791210227
+  },
+  {
    "id": "219f6a26662b6155dbfa418f968dc96a",
    "title": "Looking at Smart Home Deals for Amazon Prime Day? Here Are 4 Picks I Use in My Own Home",
    "summary": "Amazon Prime Days are the time to adopt new smart devices to save time and money. Here’s what I’ve found most useful.",
@@ -494,6 +754,19 @@
    "urgent": false,
    "fetched_at": "10-05 22:21",
    "ts": 1791210075
+  },
+  {
+   "id": "fb12a117d4ce5f6ee0125dfd8d234875",
+   "title": "Falcons vs. Saints odds, predictions, start time, betting preview: Monday Night Football picks, best bets",
+   "summary": "Best bets and betting preview for Falcons vs. Saints on Monday Night Football",
+   "link": "https://www.cbssports.com/betting/news/falcons-vs-saints-odds-predictions-start-time-betting-preview-monday-night-football-picks-best-bets/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:18",
+   "ts": 1791209922
   },
   {
    "id": "fcee0dc589b010c47577d1e6c8647554",
@@ -533,6 +806,19 @@
    "urgent": false,
    "fetched_at": "10-05 22:16",
    "ts": 1791209792
+  },
+  {
+   "id": "3d2331375eca17ef07a368739f1b781b",
+   "title": "NFL Week 4 injury panic meter: Concern for Ja'Marr Chase as Lamar Jackson gets good news",
+   "summary": "We assess the latest injury news surrounding Lamar Jackson, Ja'Marr Chase, Saquon Barkley and the other prominent players hurt in Week 4",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-injuries-updates-on-lamar-jackson-jamarr-chase/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:15",
+   "ts": 1791209750
   },
   {
    "id": "7dde4618cedb051e0a5857ce425a4fbc",
@@ -730,19 +1016,6 @@
    "ts": 1791208745
   },
   {
-   "id": "e415be7d74f426ef347ad9d8f4606778",
-   "title": "Shohei Ohtani still struggling at the plate: Can the Dodgers survive with this version of their superstar?",
-   "summary": "Ohtani's second half was devastated by injuries and he's just 2 for 8 with no extra-base hits or walks in the NLDS so far",
-   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoffs-dodgers-shohei-ohtani-offense-nlds-braves/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:56",
-   "ts": 1791208613
-  },
-  {
    "id": "1a86b658ebe348db32af290e2eb83ee2",
    "title": "RISION Magic series thermal cameras are what you need to find air leaks and cold spots at home",
    "summary": "Make your winter maintenance easier.",
@@ -780,19 +1053,6 @@
    "urgent": false,
    "fetched_at": "10-05 21:54",
    "ts": 1791208444
-  },
-  {
-   "id": "80d57863442604f653546eac09c502e1",
-   "title": "NFL DFS, Saints vs. Falcons: Top daily Fantasy picks, lineup advice for 'Monday Night Football'",
-   "summary": "DFS millionaire Mike McClure shares his top daily Fantasy picks and lineups for Atlanta vs. New Orleans on 'Monday Night Football'",
-   "link": "https://www.cbssports.com/betting/news/nfl-dfs-saints-falcons-daily-fantasy-picks-fanduel-draftkings-lineups-monday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:53",
-   "ts": 1791208425
   },
   {
    "id": "5b63448d0b2508dc5ca025c1d1b6abab",
@@ -873,19 +1133,6 @@
    "ts": 1791207900
   },
   {
-   "id": "f11e43055741a0810d8efbebabb07597",
-   "title": "Saints vs. Falcons picks, player props: Expert's best bets for Monday Night Football in NFL Week 4",
-   "summary": "Target a high-scoring NFC South clash in New Orleans with top player props for Bijan Robinson and Chris Olave, plus value on anytime touchdowns",
-   "link": "https://www.cbssports.com/betting/news/saints-vs-falcons-picks-player-props-experts-best-bets-for-monday-night-football-in-nfl-week-4/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:44",
-   "ts": 1791207851
-  },
-  {
    "id": "bf25801833e93f0aac8573410cec838f",
    "title": "精粤发布 B650 扩展卡 Xscale.io，提供 4 个 M.2、2.5GbE RJ-45 与 USB",
    "summary": "IT之家 10 月 5 日消息，精粤 (JGINYUE) 今日正式发布了其基于 AMD B650 芯片组 \"Promontory 21\" 的扩展卡产品 Xscale.io。该产品共有 4 个 M.2 SSD 盘位，正面两个均为 PCIe Gen4 ×4、反面两个分别为 PCIe Gen3 ×2 和 PCIe Gen3 ",
@@ -923,32 +1170,6 @@
    "urgent": false,
    "fetched_at": "10-05 21:36",
    "ts": 1791207392
-  },
-  {
-   "id": "335cda2276a35b87869bbbbc4cb37e2a",
-   "title": "Saints vs. Falcons where to watch: Michael Penix Jr. leads Atlanta into New Orleans",
-   "summary": "The NFC South rivals meet Monday night in New Orleans as Michael Penix Jr. and the Falcons look to build on their first win of the season",
-   "link": "https://www.cbssports.com/nfl/news/saints-vs-falcons-how-to-watch-tv-channel-live-stream-kickoff-time-prediction/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:34",
-   "ts": 1791207248
-  },
-  {
-   "id": "da2fdb35d84464c7755af2078f16453a",
-   "title": "Yankees vs. Rays ALDS Game 2 parlay, MLB picks: Runs likely at a premium behind Cam Schlittler, Freddy Peralta",
-   "summary": "It's a pair of standout pitchers on the mound tonight when the Yankees try to avoid a 2-0 ALDS hole at the Rays",
-   "link": "https://www.cbssports.com/betting/news/yankees-vs-rays-alds-game-2-parlay-mlb-picks-runs-likely-at-a-premium-behind-cam-schlittler-freddy-peralta/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:31",
-   "ts": 1791207093
   },
   {
    "id": "51bfa1ece23d686a8c2515679aaf8703",
@@ -990,19 +1211,6 @@
    "ts": 1791206739
   },
   {
-   "id": "9776cb95b76e43cc94c565cf25d3b5a5",
-   "title": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-   "summary": "Article URL: https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a\nComments URL: https://news.ycombinator.com/item?id=49964537\nPoints: 38",
-   "link": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:22",
-   "ts": 1791206551
-  },
-  {
    "id": "d09295ce046fd51de92225a75cc823a4",
    "title": "‘Bowie80’ to Celebrate David Bowie’s 80th Birthday With Events, Exhibits, Releases and More Throughout 2027",
    "summary": "The late, legendary musician David Bowie will have his 80th birthday celebrated with a series of events, exhibits, releases, collaborations and experiences begi",
@@ -1027,19 +1235,6 @@
    "urgent": false,
    "fetched_at": "10-05 21:21",
    "ts": 1791206462
-  },
-  {
-   "id": "ff33755258077ddaa2d7fcf07687e596",
-   "title": "2026 MLB playoff bracket: Schedule, scores, where to watch with Division Series underway",
-   "summary": "Eight teams remain in the 2026 MLB playoffs, with the best-of-five LDS round underway",
-   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:17",
-   "ts": 1791206268
   },
   {
    "id": "1329968ea5372365e5ab1b030ef50f09",
@@ -1094,19 +1289,6 @@
    "ts": 1791205788
   },
   {
-   "id": "92bc1921ee7ad0b57ba1b479331f5c89",
-   "title": "Saints vs. Falcons SGP: 'Monday Night Football' same-game parlay picks, bets, props from SportsLine AI",
-   "summary": "SportsLine's Machine Learning Model AI reveals its 'Monday Night Football' SGP for Atlanta vs. New Orleans",
-   "link": "https://www.cbssports.com/betting/news/saints-falcons-sgp-monday-night-football-same-game-parlay-picks-bets-props/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:09",
-   "ts": 1791205769
-  },
-  {
    "id": "d3c0ea9aa37e9e4169f7a2139786b4a9",
    "title": "Mark Thompson to Remain at CNN Following Skydance’s Warner Buy",
    "summary": "Mark Thompson said Monday that he would remain in charge of CNN following the purchase of the new giant&#8217;s parent, Warner Bros. Discovery, by Skydance, a m",
@@ -1131,58 +1313,6 @@
    "urgent": false,
    "fetched_at": "10-05 21:08",
    "ts": 1791205694
-  },
-  {
-   "id": "fa51c2a95897ed75d55419a8df608edc",
-   "title": "VGN 推出 V87Pro V2 三模机械键盘，支持“双”8kHz 回报率",
-   "summary": "IT之家 10 月 5 日消息，VGN 近日推出了 V87 V2 三模机械键盘的 Pro 版本。其升级支持 USB-C 和 2.4GHz 下的 8kHz 回报率，最低延迟降至 0.08ms。V87Pro V2 采用带旋钮的 80% (TKL) 配列，内部为 5 层填充 Gasket 固定结构，支持全键热插拔、全键无冲。",
-   "link": "https://www.ithome.com/1/009/875.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:08",
-   "ts": 1791205691
-  },
-  {
-   "id": "8c97e52af0c09b4e9c6be3e178d58c3b",
-   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Falcons vs. Saints Monday Night Football",
-   "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Saints vs. Falcons, Monday Night Football",
-   "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-falcons-vs-saints-monday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:07",
-   "ts": 1791205678
-  },
-  {
-   "id": "fa4143c00f6c80795a3ab360e3a3629c",
-   "title": "David Ellison Names Skydance Corp.’s New Leadership Team for Movies, TV, Streaming and More",
-   "summary": "David Ellison, on the eve of officially closing the Paramount-Warner Bros. Discovery merger to form Skydance Corp., has announced his picks for the senior execs",
-   "link": "https://variety.com/2026/film/news/david-ellison-skydance-new-leadership-team-1236898983/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:05",
-   "ts": 1791205528
-  },
-  {
-   "id": "251389ede51ff9874486642993778aba",
-   "title": "Superstar injury updates from NFL Week 4; Alabama, Florida CFP paths diverge",
-   "summary": "Plus, winners and losers from MLB and WNBA playoffs",
-   "link": "https://www.cbssports.com/nfl/news/superstar-injury-updates-from-nfl-week-4-alabama-florida-cfp-paths-diverge/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:04",
-   "ts": 1791205456
   },
   {
    "id": "6c1f99162ea54f7ac1b4a07580ab51a3",
@@ -1265,7 +1395,7 @@
   {
    "id": "55c62611979d517cbd5d218dfbc4a5ae",
    "title": "Gitframes",
-   "summary": "Article URL: https://github.com/gatewai-dev/gitframes\nComments URL: https://news.ycombinator.com/item?id=49964265\nPoints: 45\n# Comments: 22",
+   "summary": "Article URL: https://github.com/gatewai-dev/gitframes\nComments URL: https://news.ycombinator.com/item?id=49964265\nPoints: 52\n# Comments: 27",
    "link": "https://github.com/gatewai-dev/gitframes",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1274,19 +1404,6 @@
    "urgent": false,
    "fetched_at": "10-05 20:59",
    "ts": 1791205154
-  },
-  {
-   "id": "f109098ff6de2ea27a4a3e1fa6eb0aa9",
-   "title": "'Monday Night Football' prediction, odds, spread, time: Falcons vs. Saints picks from expert on 22-12 run",
-   "summary": "Larry Hartstein reveals his picks for Atlanta Falcons vs. New Orleans Saints in the 2026 Week 4 'Monday Night Football' matchup",
-   "link": "https://www.cbssports.com/betting/news/monday-night-football-prediction-odds-spread-time-falcons-saints-expert-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:54",
-   "ts": 1791204869
   },
   {
    "id": "7d525eca9a206f3a50c2311a8c608fd3",
@@ -1419,19 +1536,6 @@
    "ts": 1791203012
   },
   {
-   "id": "8a1c0fb36ec8de7fee62a03149e18f66",
-   "title": "Anthropic wants your thoughts on AI",
-   "summary": "Article URL: https://www.anthropic.com/research/your-thoughts-on-ai\nComments URL: https://news.ycombinator.com/item?id=49963895\nPoints: 9\n# Comments: 15",
-   "link": "https://www.anthropic.com/research/your-thoughts-on-ai",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:21",
-   "ts": 1791202862
-  },
-  {
    "id": "40a92f321fe7fdaa22ab24c402d6c74f",
    "title": "STAT+: Vaxcyte claims success in bid to beat Pfizer and Merck in lucrative vaccine market",
    "summary": "Vaxcyte said its experimental pneumococcal vaccine hit the primary endpoints in a Phase 3 clinical trial, setting up the biotech to compete with Pfizer and Merc",
@@ -1443,32 +1547,6 @@
    "urgent": false,
    "fetched_at": "10-05 20:19",
    "ts": 1791202751
-  },
-  {
-   "id": "ce69eeff43a596862797f84015f9d401",
-   "title": "Pixel 11’s new Pixel Search app could be coming to older Pixels",
-   "summary": "You might still need to be on Android 17 QPR2 to use the app, which could be bad news for the Pixel 6 and 6 Pro.",
-   "link": "https://www.androidauthority.com/pixel-search-app-older-pixels-apk-teardown-3719097/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:16",
-   "ts": 1791202601
-  },
-  {
-   "id": "338fd01d0cd8bb94f543168333256d67",
-   "title": "Pixel Search could soon get a Gemini-powered upgrade along with privacy improvements",
-   "summary": "The new \"Privacy &#038; Permissions\" section lets you opt out of data collection.",
-   "link": "https://www.androidauthority.com/pixel-search-gemini-suggestions-apk-teardown-3719102/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:11",
-   "ts": 1791202296
   },
   {
    "id": "40e14afc475ee5dae3acdb3b6e3d3efd",
@@ -1668,7 +1746,7 @@
   {
    "id": "3312239b96eedb90cb913ac372ca3f79",
    "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
-   "summary": "Article URL: https://github.com/rui314/mold/releases/tag/v3.0.0\nComments URL: https://news.ycombinator.com/item?id=49963385\nPoints: 9\n# Comments: 0",
+   "summary": "Article URL: https://github.com/rui314/mold/releases/tag/v3.0.0\nComments URL: https://news.ycombinator.com/item?id=49963385\nPoints: 32\n# Comments: 12",
    "link": "https://github.com/rui314/mold/releases/tag/v3.0.0",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1772,7 +1850,7 @@
   {
    "id": "75cb8a66c04957898938155783d505d2",
    "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-   "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49963094\nPoints: 83\n# Comments: 2",
+   "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49963094\nPoints: 107\n# Comments: ",
    "link": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1811,7 +1889,7 @@
   {
    "id": "5b7ae3f4d353c7d7288399122933be2c",
    "title": "Apple and a Hacker's Future",
-   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 121\n# Comments: 105",
+   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 132\n# Comments: 119",
    "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1885,19 +1963,6 @@
    "urgent": false,
    "fetched_at": "10-05 17:27",
    "ts": 1791192478
-  },
-  {
-   "id": "bb7fd934980af39eddaa51d7453526b7",
-   "title": "Connor out, Lewis in - England's World Cup squad confirmed",
-   "summary": "Brian McDermott has named his 23-player England squad for the 2026 Rugby League World Cup, with Mikey Lewis selected ahead of Jake Connor.",
-   "link": "https://www.skysports.com/rugby-league/news/12040/13595250/rugby-league-world-cup-2026-england-coach-brian-mcdermott-names-23-player-squad-as-leeds-star-jake-connor-misses-out",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:00",
-   "ts": 1791190800
   },
   {
    "id": "b63b4b5b8231331089d2f9f65072a2de",
@@ -2134,19 +2199,6 @@
    "ts": 1791158400
   },
   {
-   "id": "0d2ec806a8110175d7e42c110ee1800c",
-   "title": "iPhone Duo shows what the future of smartphones could look like",
-   "summary": "Since the unveiling of iPhone Duo, the idea of all major interface navigation elements being accessible from your thumb has been really interesting. Apple re-in",
-   "link": "https://9to5mac.com/2026/10/04/iphone-duo-shows-what-the-future-of-smartphones-could-look-like/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 05:32",
-   "ts": 1791149520
-  },
-  {
    "id": "260d39a8ab112b1b9c041dc72ae086e7",
    "title": "Weekly poll: are you interested in the vivo X Fold6?",
    "summary": "The vivo X Fold6 launched on July 1 in China and is now starting its worldwide tour – it’s already available in Europe and is expected to launch in India next w",
@@ -2197,32 +2249,6 @@
    "urgent": false,
    "fetched_at": "10-05 04:08",
    "ts": 1791144514
-  },
-  {
-   "id": "f793c1ca4bd18f5eed5d94e474da6311",
-   "title": "Prick’s theatrical industrial punk is perfect for spooky season",
-   "summary": "While deep in the recording process for The Downward Spiral, Trent Reznor lent some of his production talents to old friend Kevin McMahon, from the new wave ban",
-   "link": "https://www.theverge.com/entertainment/1004595/prick-industrial-glam-punk-album-review",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 04:00",
-   "ts": 1791144000
-  },
-  {
-   "id": "dd1929a961d381687e79a1e73c22a716",
-   "title": "This is my biggest AirPods complaint, and it’s not necessarily about the hardware",
-   "summary": "AirPods are one of Apple’s most interesting products. The demand for them was largely invented by the fact that the company removed the headphone jack 10 years ",
-   "link": "https://9to5mac.com/2026/10/04/this-is-my-biggest-airpods-complaint/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 03:09",
-   "ts": 1791140974
   },
   {
    "id": "45a566f2607bf005247a52bd2e7ab260",
@@ -2587,32 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-04 14:05",
    "ts": 1791093935
-  },
-  {
-   "id": "9dc4dbceacc1b655d2b0703c9d04e345",
-   "title": "光通信：FCC光模块规则可能没有市场担忧的那么糟，对中国头部厂商也可能比你想象的更有利",
-   "summary": "",
-   "link": "http://xueqiu.com/8141527616/411256227",
-   "source": "雪球",
-   "channel": "财经",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 11:51",
-   "ts": 1791085892
-  },
-  {
-   "id": "85c49f91c8457ecfb6d1fa0d1eceb05c",
-   "title": "关于当前油运的一些判断及信息梳理",
-   "summary": "",
-   "link": "http://xueqiu.com/4531216350/411266459",
-   "source": "雪球",
-   "channel": "财经",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 11:51",
-   "ts": 1791085884
   }
  ]
 }
