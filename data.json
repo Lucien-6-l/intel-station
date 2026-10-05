@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06 00:41",
+ "updated_at": "2026-10-06 01:03",
  "total": 265,
  "channels": [
   "AI·科技",
@@ -15,9 +15,243 @@
  ],
  "items": [
   {
+   "id": "a7efc2f8dacafa2e00374bd2d0cf2652",
+   "title": "SCAD Savannah Film Fest: ‘Ink’ Helmer Danny Boyle Will Receive Maverick Director Award, Guest on Live Episode of THR’s ‘Awards Chatter’ Pod",
+   "summary": "The Oscar-winning filmmaker, best known for 'Trainspotting' and 'Slumdog Millionaire,' will be feted on Oct. 25.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/savannah-film-fest-danny-boyle-awards-chatter-pod-1236721956/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:03",
+   "ts": 1791219819
+  },
+  {
+   "id": "482d3f02c441dfec4f57567f2521e806",
+   "title": "Gerhard Zeiler, Warner Bros. President of International, Likely to Leave Studio as He Enters Politics in Austria",
+   "summary": "Gerhard Zeiler, president of international for Warner Bros. Discovery, looks likely to leave the company ahead of the merger with Paramount after he declared hi",
+   "link": "https://variety.com/2026/biz/global/gerhard-zeiler-warner-bros-discovery-politics-austria-1236899218/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:02",
+   "ts": 1791219772
+  },
+  {
+   "id": "fe0a2141f06f466e6df8490eb60d69ea",
+   "title": "MGM+ to Premiere Docuseries on the History of New Wave Music in November (EXCLUSIVE)",
+   "summary": "Put on your fishnets and grab the Aqua-Net: &#8220;New Wave,&#8221; a new docuseries about the history of the influential rock movement of the &#8217;70s and &#",
+   "link": "https://variety.com/2026/music/news/new-wave-music-series-mgm-1236897943/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:00",
+   "ts": 1791219600
+  },
+  {
+   "id": "1eebe94fe2cdf03e358a1e53403c2564",
+   "title": "Marisa Tomei and Rosanna Arquette to Star in ‘This Is Crazy’ NAMI Benefit in Memory of Chris Huvane",
+   "summary": "Marisa Tomei and Rosanna Arquette will headline the West Coast debut of “This Is Crazy.” The one-night-only performance of the V (formerly Eve Ensler) play bene",
+   "link": "https://variety.com/2026/film/columns/marisa-tomei-rosanna-arquette-this-is-crazy-nami-chris-huvane-1236899152/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:00",
+   "ts": 1791219600
+  },
+  {
+   "id": "bcd8017dd2f8c3a4be8f5d15db068daf",
+   "title": "Marisa Tomei, Rob Morrow, Rosanna Arquette, Lois Smith and Rudy Pankow to Headline ‘This is Crazy!’ Benefit for NAMI in Honor of Chris Huvane",
+   "summary": "The play, mounted as a benefit production for NAMI, comes from V, the Tony Award-winning playwright formerly known as Eve Ensler, as a tribute to late talent ma",
+   "link": "https://www.hollywoodreporter.com/lifestyle/arts/marisa-tomei-rudy-pankow-headline-this-is-crazy-play-1236721438/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:00",
+   "ts": 1791219600
+  },
+  {
+   "id": "ef231ce8e672304a5ee9fd2bfc25d8f3",
+   "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
+   "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicid",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:55",
+   "ts": 1791219342
+  },
+  {
+   "id": "9792bbb5e248cb3bf2dae0b3e5c5e196",
+   "title": "Patriots' Mike Vrabel fires back at Bills' C.J. Gardner-Johnson for jab at Efton Chism III",
+   "summary": "Gardner-Johnson called Chism a 'practice squad player' and suggested the Patriots receiver could not replicate his spectacular game-winning catch",
+   "link": "https://www.cbssports.com/nfl/news/patriots-mike-vrabel-efton-chism-c-j-gardner-johnson/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:55",
+   "ts": 1791219300
+  },
+  {
+   "id": "cd796f92310c0e4cf6f6ebe407f200fd",
+   "title": "Gaza Documentary ‘NAZA’ Sparks IDF Counter Film to Rebut Venice Winner",
+   "summary": "‘NAZA: The Real Story’ by Israeli director Roi Danino is looking to pull the narrative back from fellow filmmakers Yuval Abraham and Rachel Szor and producer Jo",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/naza-sparks-idf-counter-film-1236722408/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:54",
+   "ts": 1791219296
+  },
+  {
+   "id": "90748bd59b1298ab80399dec9cd0e006",
+   "title": "Jamey Eisenberg's Week 4 Fantasy stock watch: Malik Nabers shines while Jalen Hurts searches for answers",
+   "summary": "Nabers re-establishes WR1 status with a needed bounce-back performance, while Hurts is testing fantasy managers' patience amid mounting offensive injuries in Ph",
+   "link": "https://www.cbssports.com/fantasy/football/news/jamey-eisenbergs-week-4-fantasy-stock-watch-malik-nabers-shines-while-jalen-hurts-searches-for-answers/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:47",
+   "ts": 1791218844
+  },
+  {
+   "id": "3d2331375eca17ef07a368739f1b781b",
+   "title": "NFL Week 4 injury panic meter: Concern for Ja'Marr Chase as Lamar Jackson gets good news",
+   "summary": "We assess the latest injury news surrounding Lamar Jackson, Ja'Marr Chase, Saquon Barkley and the other prominent players hurt in Week 4",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-injuries-updates-on-lamar-jackson-jamarr-chase/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:47",
+   "ts": 1791218833
+  },
+  {
+   "id": "4426ebd5c6b51c8cf8c65907b3751236",
+   "title": "View Photos of the 1992 Lotus Elan",
+   "summary": "See the interior and exterior of the 1992 Lotus Elan from every angle.",
+   "link": "https://www.caranddriver.com/photos/a73997786/1992-lotus-elan-archive-test-gallery/",
+   "source": "Car and Driver",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:45",
+   "ts": 1791218720
+  },
+  {
+   "id": "a07dbdc2e05531872970e9a207fe9425",
+   "title": "Front-Wheel-Drive Heresy? We Test the 1992 Lotus Elan",
+   "summary": "Tradition bites the dust.",
+   "link": "https://www.caranddriver.com/reviews/a73958972/1992-lotus-elan-archive-test/",
+   "source": "Car and Driver",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:45",
+   "ts": 1791218714
+  },
+  {
+   "id": "1f6dee6e185be20671f6e5ace15d4873",
+   "title": "Ford Recalls Expedition and Heavy-Duty Trucks for Faulty Front Lights",
+   "summary": "The Expedition, along with the F-250, F-350, F-450, and F-550, could all suffer from a contaminated LED chip in the headlight assembly.",
+   "link": "https://www.caranddriver.com/news/a74030736/ford-expedition-hd-pickup-front-lights-recall/",
+   "source": "Car and Driver",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:45",
+   "ts": 1791218700
+  },
+  {
+   "id": "5d9338481a2eef50644ed337f558471f",
+   "title": "Is Polymarket Legal in California? October 2026 Status",
+   "summary": "Find out if Polymarket is legal in California, how it's regulated, and what you can trade there in 2026.",
+   "link": "https://www.cbssports.com/prediction/news/polymarket-california/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:44",
+   "ts": 1791218664
+  },
+  {
+   "id": "5cdb1ddac634ad1510fc758bc5c219d4",
+   "title": "Sam Altman says ‘some bad things&#8217; will happen but AI is totally worth it",
+   "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hac",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:44",
+   "ts": 1791218661
+  },
+  {
+   "id": "4cd35904654dda1c8021a2a89cc544ee",
+   "title": "HackerRank’s AI interviewer offers a glimpse into what job interviews could become",
+   "summary": "HackerRank’s AI interviewer has already conducted more than 500,000 interviews, with Snowflake, Snorkel, and Capgemini among its early testers.",
+   "link": "https://techcrunch.com/2026/10/05/hackerranks-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-become/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:43",
+   "ts": 1791218615
+  },
+  {
+   "id": "d4db366c1fbc57be422d4348987bfc56",
+   "title": "Legendary Japanese Solid Snake Actor Wants 'New Metal Gear Game', But 'Won't Do One Without Kojima'",
+   "summary": "Solid Snake's legendary Japanese actor is keen to return for a new game, though feels conflicted about any fresh entry without the involvement of creator Hideo ",
+   "link": "https://www.ign.com/articles/legendary-japanese-solid-snake-actor-wants-new-metal-gear-game-but-wont-do-one-without-kojima",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:43",
+   "ts": 1791218612
+  },
+  {
+   "id": "758f166f2867a9d7961536e2c30a4c92",
+   "title": "'Monday Night Football' prediction, odds, spread, time: Falcons vs. Saints picks from expert on 22-12 run",
+   "summary": "Larry Hartstein reveals his picks for Atlanta Falcons vs. New Orleans Saints in the 2026 Week 4 'Monday Night Football' matchup",
+   "link": "https://www.cbssports.com/betting/news/monday-night-football-prediction-odds-line-spread-time-falcons-saints-expert-picks/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:41",
+   "ts": 1791218507
+  },
+  {
    "id": "74205deff0edd902c3b09326a3574e2b",
    "title": "Banijay America Confirms Ben Samek as CEO, Post-Merger With All3Media",
-   "summary": "As expected, Ben Samek has been named CEO of Banijay America, the combined structure across the Americas created following Banijay Entertainment’s recent merger",
+   "summary": "As expected, Ben Samek has been named CEO of Banijay America, the combined structure created following Banijay Entertainment’s recent merger with All3Media. Sam",
    "link": "https://variety.com/2026/tv/news/banijay-america-confirms-ben-samek-ceo-merger-all3media-1236899206/",
    "source": "Variety",
    "channel": "娱乐·影视",
@@ -26,6 +260,19 @@
    "urgent": false,
    "fetched_at": "10-06 00:40",
    "ts": 1791218448
+  },
+  {
+   "id": "8f94dd1479d005fac79182d58f4418eb",
+   "title": "Sicario 3 Will Reunite Emily Blunt With Benicio del Toro and Josh Brolin",
+   "summary": "Sicario 3 is reportedly moving forward with Emily Blunt, Josh Brolin, and Benicio del Toro signed on to return.",
+   "link": "https://www.ign.com/articles/sicario-3-will-reunite-emily-blunt-with-benicio-del-toro-and-josh-brolin",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:40",
+   "ts": 1791218424
   },
   {
    "id": "37bbc3b8308da3f6e3c58206c2cf26f7",
@@ -39,6 +286,58 @@
    "urgent": false,
    "fetched_at": "10-06 00:38",
    "ts": 1791218288
+  },
+  {
+   "id": "3b9ffbee42d4af2b58b2d0c97724a1eb",
+   "title": "Karl-Anthony Towns says extension negotiations with Knicks 'don't look good' as two sides remain apart on deal",
+   "summary": "Towns said he expected a contract to be worked out easily after his playoff showcase",
+   "link": "https://www.cbssports.com/nba/news/karl-anthony-towns-knicks-extension-negotiations/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:37",
+   "ts": 1791218272
+  },
+  {
+   "id": "14de129e4e5d467badf6b239951b6d5e",
+   "title": "God Packs are Officially Coming to Magic: The Gathering",
+   "summary": "Magic: The Gathering booster packs have gone through a lot of changes in the last decade, some of which have been awful. But Wizards of the Coast are introducin",
+   "link": "https://www.ign.com/articles/god-packs-are-officially-coming-to-magic-the-gathering",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:35",
+   "ts": 1791218100
+  },
+  {
+   "id": "eb60d2f0dcc14a544fcec632f390d02f",
+   "title": "SportsLine Newsletter Monday, October 5, 2026",
+   "summary": "Today's best bets + Parlay of the Day + White Sox-Guardians Game 2 + Falcons-Saints MNF",
+   "link": "https://www.cbssports.com/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:34",
+   "ts": 1791218044
+  },
+  {
+   "id": "cc99d1ebd85216ac711b779e8714ea31",
+   "title": "The Meta Quest 3 512GB VR Headset Is 30% Off at eBay, Beats Any Amazon Prime Day Deal",
+   "summary": "With this deal, it's considerably cheaper than the Quest 3's msrp even before the price hike.",
+   "link": "https://www.ign.com/articles/best-meta-quest-3-deal-amazon-october-prime-day-sale",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:30",
+   "ts": 1791217800
   },
   {
    "id": "0c19b62d3c42f45d97853ea70ced4ef7",
@@ -106,6 +405,19 @@
    "ts": 1791217523
   },
   {
+   "id": "b83949d5deea71d58a05f9e3a7114e54",
+   "title": "Classic Board Games Are Dropping to All-Time Low Prices Ahead of Amazon's Prime Day Sale",
+   "summary": "",
+   "link": "https://www.ign.com/articles/best-board-game-deals-amazon-october-prime-day-2026",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:23",
+   "ts": 1791217416
+  },
+  {
    "id": "d9b16a6398aac5aa5122e7b7fc031b8a",
    "title": "Sebastian Stan Challenges Audiences to Question Their Own ‘Belief Systems’ at ‘Fjord’ Premiere: ‘There’s More to Just Simply Being Right’",
    "summary": "Sebastian Stan stars in “Fjord” as a conservative Romanian father who faces religious discrimination after moving with his family to his wife’s (Renate Reinsve)",
@@ -130,6 +442,19 @@
    "urgent": false,
    "fetched_at": "10-06 00:21",
    "ts": 1791217271
+  },
+  {
+   "id": "7b0fba4339908144189a6f92b889fe27",
+   "title": "Lanterns Cast and Crew on the New Green Lantern Oath and Season 1's Emotional Finale",
+   "summary": "Get the full scoop on Lantern's emotionally charged Season 1 finale and the origin of the DCU's new Green Lantern oath.",
+   "link": "https://www.ign.com/articles/lanterns-season-1-interview-oath-finale-hal-jordan-killer",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:20",
+   "ts": 1791217214
   },
   {
    "id": "dbca56669fca06ad1c9ad46fa0d5bc41",
@@ -171,6 +496,19 @@
    "ts": 1791217080
   },
   {
+   "id": "4f0035aa3c600a8e28d28b9079bb7722",
+   "title": "Arc Raiders and The Finals Are Getting Adapted Into Films and TV Shows",
+   "summary": "Hollywood is mining Arc Raiders and The Finals for its next big video game adaptations, as the two franchises will be turned into films and TV shows.",
+   "link": "https://www.ign.com/articles/arc-raiders-and-the-finals-are-getting-adapted-into-films-and-tv-shows",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:17",
+   "ts": 1791217044
+  },
+  {
    "id": "2ca2e260776cc8696c7ad1625727293a",
    "title": "Jamie Foxx Does Not Want to Be Canceled Over New Hulu Stand-up Special: “After That Kevin Hart Roast, I Had to Cut Everything”",
    "summary": "The comedian tells THR how he really felt about that George Floyd joke, why he won't go on Shannon Sharpe's 'Club Shay Shay' podcast and why he's not chasing la",
@@ -210,19 +548,6 @@
    "ts": 1791216608
   },
   {
-   "id": "1dab521055068705b5aa5570909d1b76",
-   "title": "Dan Campbell 'not talking about' defensive overhaul. Without one Lions are wasting their Super Bowl window",
-   "summary": "With the defense bottoming out in 2026, Campbell needs to make changes in order to take his team back to the championship conversation",
-   "link": "https://www.cbssports.com/nfl/news/dan-campbell-lions-wasting-super-bowl-window-defensive-overhaul/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:09",
-   "ts": 1791216585
-  },
-  {
    "id": "5dcb0202244915b24c7ee094cd2293c6",
    "title": "纳指盘中再创历史新高：SpaceX 涨逾 5%，英伟达涨超 1% 再度逼近历史新高",
    "summary": "IT之家 10 月 6 日消息，美股纳斯达克指数周一（当地时间 10 月 5 日）创下盘中历史新高，多数大型股和成长股上涨。IT之家注意到，英伟达盘中最高上涨 1.65%，再度逼近历史新高。Meta、微软和特斯拉股价均上涨超过 1%。SpaceX 盘中股价最高涨超 5%，是近三个月来的历史新高。",
@@ -234,19 +559,6 @@
    "urgent": false,
    "fetched_at": "10-06 00:08",
    "ts": 1791216514
-  },
-  {
-   "id": "8637bbff59dd67ef50094095f6ab82b1",
-   "title": "Use DraftKings promo code to claim $150 in bonus bets by targeting Falcons vs. Saints on Monday Night Football",
-   "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for Falcons vs. Saints on Monday Night Football",
-   "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-claim-150-bonus-bets-falcons-vs-saints-monday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:07",
-   "ts": 1791216460
   },
   {
    "id": "b2fb7f2486c7c0b2950073195d94ba3a",
@@ -288,6 +600,45 @@
    "ts": 1791216008
   },
   {
+   "id": "385be668ca901ca2ce1ae7f484813062",
+   "title": "Dungeons and Dragons: World of Warcraft – Everything You Need to Know",
+   "summary": "Dungeons and Dragons: World of Warcraft was announced way back in July, as the first Universes Beyond release for the storied tabletop RPG. And just like the MM",
+   "link": "https://www.ign.com/articles/dungeons-and-dragons-world-of-warcraft-everything-you-need-to-know",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:00",
+   "ts": 1791216000
+  },
+  {
+   "id": "2a3a13f99cbaa28407972c1aa82ca162",
+   "title": "The Apple AirPods Pro 3 Wireless Noise Canceling Earbuds Drops to $179 for Amazon Prime Day",
+   "summary": "Lowest price in months.",
+   "link": "https://www.ign.com/articles/apple-airpods-pro-3-deal-amazon-october-prime-day-sale",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:00",
+   "ts": 1791216000
+  },
+  {
+   "id": "62f95f40827fea091227fe6c571ac892",
+   "title": "Why Fizz Is a Great Option for Phone Service Across Canada",
+   "summary": "",
+   "link": "https://www.ign.com/articles/why-fizz-is-a-great-option-for-phone-service-across-canada",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 00:00",
+   "ts": 1791216000
+  },
+  {
    "id": "b40cc8f0d23a149b9789c93087ce4e5e",
    "title": "As WME’s Literary Media Department Turns 10, It Aims to Keep Pace With How Books Are Adapted: ‘Our Culture Is Shifting’",
    "summary": "The WME literary media department, responsible for working with authors and shepherding screen adaptations of their literary works, is marking its tenth anniver",
@@ -305,19 +656,6 @@
    "title": "‘I Play Rocky,’ ‘Paper Tiger’ and ‘Josephine’ Among Coronado Island Film Festival 2026 Lineup",
    "summary": "“I Play Rocky,” “Paper Tiger” and “Josephine” are among the 140 narrative features, documentaries and short films set to screen during the Coronado Island Film ",
    "link": "https://variety.com/2026/film/news/coronado-island-film-festival-i-play-rocky-paper-tiger-1236898862/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:00",
-   "ts": 1791216000
-  },
-  {
-   "id": "016887b0d93b6d9ea530cc93f63d2e9e",
-   "title": "‘ARC Raiders,’ ‘The Finals’ Video Games Set TV Series and Film Adaptations at Chernin Entertainment",
-   "summary": "Hit video games &#8220;ARC Raiders&#8221; and &#8220;The Finals&#8221; are both getting adapted for TV and film in new projects set up with Chernin Entertainmen",
-   "link": "https://variety.com/2026/tv/news/arc-raiders-the-finals-tv-series-movies-chernin-1236899094/",
    "source": "Variety",
    "channel": "娱乐·影视",
    "category": "资讯",
@@ -351,19 +689,6 @@
    "urgent": false,
    "fetched_at": "10-06 00:00",
    "ts": 1791216000
-  },
-  {
-   "id": "c11678622bfa728107c6be3262b47240",
-   "title": "Jackson Koivun, 21, continues TGL youth movement after stellar rookie season as league expands",
-   "summary": "Koivun is now the youngest player on a TGL roster as the simulator league adds a team led by Brooks Koepka",
-   "link": "https://www.cbssports.com/golf/news/jackson-koivun-signs-tgl-brooks-koepka/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:59",
-   "ts": 1791215999
   },
   {
    "id": "35abda6c7065be65b6990df564e54246",
@@ -457,71 +782,6 @@
    "ts": 1791214993
   },
   {
-   "id": "5cda91ef1dbf1645cfcb7bef2156e5ab",
-   "title": "Alexander Ovechkin announces this will be his last NHL season: 'Let's have fun'",
-   "summary": "The Capitals legend is planning to hang up his skates once this season reaches its conclusion",
-   "link": "https://www.cbssports.com/nhl/news/alexander-ovechkin-retirement-announcement-final-nhl-season/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-05 23:42",
-   "ts": 1791214963
-  },
-  {
-   "id": "e25abd64cf64417770bddf7fd30b83c9",
-   "title": "Dominga Sotomayor’s Cannes’ Directors Fortnight Film ‘La Perra’ Sells Internationally",
-   "summary": "Dominga Sotomayor’s “La Perra,” which premiered at Cannes&#8217; Directors’ Fortnight and won the Palm Dog Award, has scored a raft of international sales for P",
-   "link": "https://variety.com/2026/film/global/dominga-sotomayor-cannes-directors-fortnight-la-perra-1236899156/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:41",
-   "ts": 1791214875
-  },
-  {
-   "id": "860ac10b7961cfe6df589c653f41a2c0",
-   "title": "Travis Kelce closing in on NFL history, could climb to No. 5 on all-time receptions list in coming weeks",
-   "summary": "Kelce is tied with Tim Brown for seventh in NFL history and needs nine catches to take sole possession of fifth place",
-   "link": "https://www.cbssports.com/nfl/news/travis-kelce-career-receptions-chiefs-nfl-2026/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:40",
-   "ts": 1791214841
-  },
-  {
-   "id": "57ccd7100b7920d219aa20f1e65d579b",
-   "title": "Get 2 Months of the Paramount+ Premium (Ad-Free) Subscription for Just $1 Per Month",
-   "summary": "Gain access to Paramount's new fall lineup including Avatar: Seven Havens, Dexter: Resurrection, and more.",
-   "link": "https://www.ign.com/articles/paramount-plus-subscription-deal-october-2026",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:40",
-   "ts": 1791214800
-  },
-  {
-   "id": "7418097dcc86e03f16abde6e9b955ee2",
-   "title": "The Amazon October Prime Day Audible Deal Is Now Live: Pay $0.99 Per Month and Get $20 in Audible Credit",
-   "summary": "This time it appears to be for both Amazon Prime and non-Prime members.",
-   "link": "https://www.ign.com/articles/amazon-october-prime-day-sale-2026-audible-deal",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:40",
-   "ts": 1791214800
-  },
-  {
    "id": "3dcdce975d9f8b4385ab8b71bab4a681",
    "title": "Gas cars fall below 50% of global new car sales for the first time",
    "summary": "Gas cars are now a minority of the world’s new car sales. Gasoline-only vehicles made up 49% of global new-vehicle sales in the first half of 2026, down from 73",
@@ -533,19 +793,6 @@
    "urgent": false,
    "fetched_at": "10-05 23:37",
    "ts": 1791214621
-  },
-  {
-   "id": "d08fe5518239ecc1db4155914de66f71",
-   "title": "Lanterns Season 2 in Early Development Ahead of Official Green Light at HBO, Co-Creator Says",
-   "summary": "Lanterns Season 2 is in early development while it awaits an official green light at HBO, co-creator Damon Lindelof has confirmed.",
-   "link": "https://www.ign.com/articles/lanterns-season-2-in-early-development-ahead-of-official-green-light-at-hbo-co-creator-says",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:36",
-   "ts": 1791214591
   },
   {
    "id": "7ead160eab26c22bccc3c8ed42852f15",
@@ -561,19 +808,6 @@
    "ts": 1791214511
   },
   {
-   "id": "250ebcdb1145f28f0dde19721be7a0bb",
-   "title": "Falcons-Saints NFL betting promos: Collect nearly $3,000 in bonuses from top online betting apps, sportsbooks",
-   "summary": "Top Week 4 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
-   "link": "https://www.cbssports.com/nfl/news/falcons-saints-nfl-betting-promos-collect-nearly-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:34",
-   "ts": 1791214498
-  },
-  {
    "id": "7172c9a213429d8e86ad1fccedad7115",
    "title": "Amazon Alexa won’t stop saying ‘lalala’ and users are creeped out",
    "summary": "La, la, la, la, la...",
@@ -587,48 +821,9 @@
    "ts": 1791214475
   },
   {
-   "id": "9b13aa06bd2d10edad94f7da01edbb23",
-   "title": "Marvel Unlimited Shutting Down, Will Be Replaced by 'Marvel Comics Powered by Webtoon'",
-   "summary": "Marvel Unlimited, the company's subscription app for comics, will be shuttering on December 17, 2026, after about 19 years of service.",
-   "link": "https://www.ign.com/articles/marvel-unlimited-shutting-down-will-be-replaced-by-marvel-comics-powered-by-webtoon",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:33",
-   "ts": 1791214399
-  },
-  {
-   "id": "c3904ac1b391f90b62854bcc15adea25",
-   "title": "How the Samsung Galaxy Z Fold8 has been optimised for large-screen entertainment, multitasking and all-day battery life",
-   "summary": "",
-   "link": "https://www.ign.com/articles/how-the-samsung-galaxy-z-fold8-has-been-optimised-for-large-screen-entertainment-multitasking-and-all-day-battery-life",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:32",
-   "ts": 1791214366
-  },
-  {
-   "id": "d5c182ed02922ac1ccb6861d5b98fcc9",
-   "title": "Z Fold8 vs previous Samsung foldables: how battery performance, efficiency and display experience have evolved",
-   "summary": "",
-   "link": "https://www.ign.com/articles/z-fold8-vs-previous-samsung-foldables-how-battery-performance-efficiency-and-display-experience-have-evolved",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:32",
-   "ts": 1791214345
-  },
-  {
    "id": "dd7471b0aeb45d5a072ab7618bb4d18b",
    "title": "The future of independence is interdependence",
-   "summary": "Article URL: https://onlys.ky/independence-is-interdependence/\nComments URL: https://news.ycombinator.com/item?id=49966163\nPoints: 9\n# Comments: 3",
+   "summary": "Article URL: https://onlys.ky/independence-is-interdependence/\nComments URL: https://news.ycombinator.com/item?id=49966163\nPoints: 13\n# Comments: 6",
    "link": "https://onlys.ky/independence-is-interdependence/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -637,19 +832,6 @@
    "urgent": false,
    "fetched_at": "10-05 23:30",
    "ts": 1791214208
-  },
-  {
-   "id": "d82a21c58d467a66b71cfba0683e3507",
-   "title": "Today’s Best Deals: LEGO Sets, AirPods, Star Wars Zero Company, and More",
-   "summary": "Enjoy tons of incredible discounts ahead of Amazon’s Prime Big Deal Days tomorrow.",
-   "link": "https://www.ign.com/articles/best-deals-for-october-5-2026",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:30",
-   "ts": 1791214200
   },
   {
    "id": "8f65d4d22caf5e43f26d9ad00f9e5bbe",
@@ -717,35 +899,9 @@
    "ts": 1791213216
   },
   {
-   "id": "45ab4bb1eaf570394e63cee0f9acc09e",
-   "title": "Jim Harbaugh defends Mike McDaniel despite 0-4 start, Justin Herbert earns ugly Chargers honor",
-   "summary": "Los Angeles is struggling on offense and its franchise quarterback is a shell of himself",
-   "link": "https://www.cbssports.com/nfl/news/chargers-jim-harbaugh-defends-mike-mcdaniel-despite-0-4-start/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:13",
-   "ts": 1791213193
-  },
-  {
-   "id": "1cec28a26e5c1b346934bfda17b77ab1",
-   "title": "Florida woman arrested for allegedly making threats in an AI chat",
-   "summary": "Article URL: https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat\nComments URL: https:/",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:11",
-   "ts": 1791213096
-  },
-  {
    "id": "2792218ac71de41470524fc80453d942",
    "title": "Borland Turbo Basic",
-   "summary": "Article URL: https://dosdays.co.uk/topics/Software/borland_turbo_basic.php\nComments URL: https://news.ycombinator.com/item?id=49965894\nPoints: 51\n# Comments: 19",
+   "summary": "Article URL: https://dosdays.co.uk/topics/Software/borland_turbo_basic.php\nComments URL: https://news.ycombinator.com/item?id=49965894\nPoints: 63\n# Comments: 32",
    "link": "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -767,32 +923,6 @@
    "urgent": false,
    "fetched_at": "10-05 23:08",
    "ts": 1791212911
-  },
-  {
-   "id": "87bdeb44215fc9eb2cbf278ca26aa042",
-   "title": "Resident Evil Requiem Hits New Low of $50 at Amazon, Beating Its June Prime Day Price",
-   "summary": "Resident Evil Requiem - on PS5, Nintendo Switch 2, and Xbox Series X - has dropped to $50 at Amazon ahead of Prime Big Deal Days. This marks a new low price for",
-   "link": "https://www.ign.com/articles/resident-evil-requiem-hits-new-low-of-50-at-amazon-beating-its-june-prime-day-price",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:06",
-   "ts": 1791212819
-  },
-  {
-   "id": "527c8d4dfa21ccc2f3abd711470502e9",
-   "title": "Riley Keough and Director Clay Tweel Board First Responder Psychedelic Therapy Doc ‘Under Fire’ as Executive Producers (EXCLUSIVE)",
-   "summary": "Riley Keough and Clay Tweel have joined Brandon Kapelow’s documentary “Under Fire” as executive producers. “Under Fire” follows Rob, a veteran Idaho fire captai",
-   "link": "https://variety.com/2026/film/columns/riley-keough-clay-tweel-first-responder-psychedelic-therapy-documentary-under-fire-executive-producers-1236898220/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:05",
-   "ts": 1791212700
   },
   {
    "id": "36f55c8bcb6800dbf52b619d886bf386",
@@ -849,7 +979,7 @@
   {
    "id": "5feff81ee32e1cfaeb83b0a3b5c4ca58",
    "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
-   "summary": "Lola Vision Systems is one of TechCrunch's Battlefield 200 Companies",
+   "summary": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco.",
    "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
    "source": "TechCrunch",
    "channel": "AI·科技",
@@ -866,32 +996,6 @@
    "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
    "source": "TechCrunch",
    "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:00",
-   "ts": 1791212400
-  },
-  {
-   "id": "d3898e963a77b4c8aac2da69668bd0f0",
-   "title": "Funko's Avengers: Doomsday Pop! Figures Include Multiple Versions of Doctor Doom",
-   "summary": "Funko has revealed a mighty lineup of Avengers: Doomsday Pop! figures, including multiple versions of Doctor Doom himself.",
-   "link": "https://www.ign.com/articles/funkos-avengers-doomsday-pop-figures-include-multiple-versions-of-doctor-doom",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:00",
-   "ts": 1791212400
-  },
-  {
-   "id": "409a974116e108d7f426dc50fb37198b",
-   "title": "Prometheus Graft Is a Murder Mystery Starring Frankenstein's Monster",
-   "summary": "What happens when Frankenstein's Monster becomes Europe's most preeminent detective? Find out in this exclusive preview of Prometheus Graft: The Slayings at Dea",
-   "link": "https://www.ign.com/articles/prometheus-graft-is-a-murder-mystery-starring-frankensteins-monster",
-   "source": "IGN",
-   "channel": "游戏",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
@@ -1133,19 +1237,6 @@
    "ts": 1791210652
   },
   {
-   "id": "96007cd5c45fe5dc91faae07f9baaff3",
-   "title": "‘The Flight’: After Iran Shot Down Ukraine Plane, Doc Follows Victims’ Families Fight for Justice",
-   "summary": "Soran Mardookhi's feature documentary debuting in Vancouver goes beyond casualty numbers to humanize lost loved ones, as grieving relatives campaign to hold Ira",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/the-flight-doc-iran-shot-down-ukraine-plane-1236717197/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 22:30",
-   "ts": 1791210621
-  },
-  {
    "id": "1580b4ef99b41b28e3858a467f9d84c4",
    "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
    "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, an",
@@ -1226,7 +1317,7 @@
   {
    "id": "7243e4d735a6a3231371fac465231860",
    "title": "Making a GTK application in Haskell, part 1",
-   "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/\nComments URL: https://news.ycombinator.com/item?id=49965308\nPoints: 35\n# Comment",
+   "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/\nComments URL: https://news.ycombinator.com/item?id=49965308\nPoints: 45\n# Comment",
    "link": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1302,19 +1393,6 @@
    "ts": 1791209664
   },
   {
-   "id": "58a63f9a9bbf6e5e78a9155455ed25a6",
-   "title": "Golf Media Company Pro Shop Raises $24 Million In Expansion Push (Exclusive)",
-   "summary": "Arthur Blank's family office, Causeway Partners and Ares Capital are among the new investors in the company, founded by Chad Mumm and Joe Purzycki.",
-   "link": "https://www.hollywoodreporter.com/business/business-news/golf-media-company-pro-shop-raises-series-b-1236720861/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 22:10",
-   "ts": 1791209456
-  },
-  {
    "id": "f9a23262fc3bc3d9b17960c9ca1d2dac",
    "title": "The best early October Prime Day deals happening now",
    "summary": "Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on th",
@@ -1343,7 +1421,7 @@
   {
    "id": "5116a159e846f1c968ec92897323663e",
    "title": "Picard 3.0",
-   "summary": "Article URL: https://blog.metabrainz.org/2026/10/04/picard-3-0-released/\nComments URL: https://news.ycombinator.com/item?id=49965047\nPoints: 37\n# Comments: 19",
+   "summary": "Article URL: https://blog.metabrainz.org/2026/10/04/picard-3-0-released/\nComments URL: https://news.ycombinator.com/item?id=49965047\nPoints: 42\n# Comments: 25",
    "link": "https://blog.metabrainz.org/2026/10/04/picard-3-0-released/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1352,19 +1430,6 @@
    "urgent": false,
    "fetched_at": "10-05 22:03",
    "ts": 1791208981
-  },
-  {
-   "id": "cbca2883baecb51d8162a63265869c22",
-   "title": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-   "summary": "Article URL: https://www.youtube.com/watch?v=RFTfANuLBF4\nComments URL: https://news.ycombinator.com/item?id=49965042\nPoints: 22\n# Comments: 39",
-   "link": "https://www.youtube.com/watch?v=RFTfANuLBF4",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 22:02",
-   "ts": 1791208958
   },
   {
    "id": "660709c0bd058485d9de6a841340a5fc",
@@ -1482,19 +1547,6 @@
    "urgent": false,
    "fetched_at": "10-05 21:51",
    "ts": 1791208290
-  },
-  {
-   "id": "d82fb57cdd64c6a5066d7992e6efd085",
-   "title": "Former White House Press Secretary Karoline Leavitt Joins Fox News",
-   "summary": "Leavitt will act as a contributor, a few months after she left the White House.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/white-house-press-secretary-karoline-leavitt-joins-fox-news-1236722251/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:51",
-   "ts": 1791208263
   },
   {
    "id": "b551e6d26032c31261ce45ca82777c72",
@@ -1967,7 +2019,7 @@
   {
    "id": "3312239b96eedb90cb913ac372ca3f79",
    "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
-   "summary": "Article URL: https://github.com/rui314/mold/releases/tag/v3.0.0\nComments URL: https://news.ycombinator.com/item?id=49963385\nPoints: 82\n# Comments: 23",
+   "summary": "Article URL: https://github.com/rui314/mold/releases/tag/v3.0.0\nComments URL: https://news.ycombinator.com/item?id=49963385\nPoints: 94\n# Comments: 35",
    "link": "https://github.com/rui314/mold/releases/tag/v3.0.0",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2002,19 +2054,6 @@
    "urgent": false,
    "fetched_at": "10-05 19:11",
    "ts": 1791198661
-  },
-  {
-   "id": "2c3cae3be58f41de96bc3c442160528e",
-   "title": "Google admits not every Android app runs great on Intel Googlebooks",
-   "summary": "Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps. Before now",
-   "link": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:58",
-   "ts": 1791197902
   },
   {
    "id": "2326586d101702105ad140679ea979c7",
@@ -2108,6 +2147,19 @@
    "ts": 1791195122
   },
   {
+   "id": "5b7ae3f4d353c7d7288399122933be2c",
+   "title": "Apple and a Hacker's Future",
+   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 147\n# Comments: 141",
+   "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:05",
+   "ts": 1791194702
+  },
+  {
    "id": "0974caae931afd978857cc454f5d18cb",
    "title": "2026 Nobel Prize in Medicine awarded for brain research tool called optogenetics",
    "summary": "Karl Deisseroth, Peter Hegemann, and Georg Nagel are the joint recipients of the 2026 Nobel Prize in Physiology or Medicine “for their discoveries concerning li",
@@ -2121,19 +2173,6 @@
    "ts": 1791194411
   },
   {
-   "id": "38f20d16e1e8ed07ac14a4af8d142a6f",
-   "title": "Our minds aren’t equipped to handle AI",
-   "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflec",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:00",
-   "ts": 1791194400
-  },
-  {
    "id": "9316d3514042d3e4f9f95f77ada48fdc",
    "title": "Oppo F35 Pro hands-on",
    "summary": "The Oppo F35 series launched in India in two flavors - F35 Pro and a non-Pro F35. We had the chance to play around with the Pro version, which is a feature-pack",
@@ -2145,6 +2184,19 @@
    "urgent": false,
    "fetched_at": "10-05 17:39",
    "ts": 1791193142
+  },
+  {
+   "id": "6c33b3fd15bc85c234177b37412d294a",
+   "title": "2026 Nobel Prize in Physiology or Medicine: Deisseroth, Hegemann, Nagel",
+   "summary": "https://www.nobelprize.org/prizes/medicine/2026/press-releas...\n\nComments URL: https://news.ycombinator.com/item?id=49962572\nPoints: 26\n# Comments: 29",
+   "link": "https://www.nobelprize.org/prizes/medicine/2026/summary/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:33",
+   "ts": 1791192793
   },
   {
    "id": "ae6dfd268fbc151cb0f8a38a1e0ea704",
@@ -2472,19 +2524,6 @@
    "ts": 1791129787
   },
   {
-   "id": "0b0744a440fd71f27f89546a9e22a293",
-   "title": "Trump unveils his new Super Intelligence Force",
-   "summary": "This new task force is Trump's latest response to the debate over AI safety.",
-   "link": "https://techcrunch.com/2026/10/04/trump-unveils-his-new-super-intelligence-force/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 23:15",
-   "ts": 1791126910
-  },
-  {
    "id": "39c4958d7057d419005b39c9c4118acb",
    "title": "Tough times for Audi, VW, and Porsche could make October a great time to buy",
    "summary": "Volkswagen Group is going through some tough times these days. Labor disputes, increased competition in China, and a few market misses on big swings are all pla",
@@ -2574,45 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-04 22:00",
    "ts": 1791122400
-  },
-  {
-   "id": "9c3883536690cdb59a3503f6d60a5481",
-   "title": "Autonomous Orange: YMX adds self-driving tech to its electric yard trucks",
-   "summary": "The logistics experts at 3PL provider YMX know a thing or three about running an efficient fleet, but even they are feeling the nationwide shortage of qualified",
-   "link": "https://electrek.co/2026/10/04/autonomous-orange-ymx-adds-outrider-self-driving-tech-to-its-electric-yard-trucks/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 21:48",
-   "ts": 1791121734
-  },
-  {
-   "id": "27e2b61afaf29310d01ddc904838ea60",
-   "title": "Mazda CX-6e Is an EV That Lets You Yell Profanities at People in Traffic",
-   "summary": "Fitting an electric car with an external speaker for safety reasons turns out to have some potential drawbacks.",
-   "link": "https://www.caranddriver.com/news/a74009089/mazda-cx-6e-external-speaker-profanity-japan/",
-   "source": "Car and Driver",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 21:00",
-   "ts": 1791118800
-  },
-  {
-   "id": "a1bee9fa41825175870bfe40d4011228",
-   "title": "How to Avoid JNI Crashes by Managing Local and Global References Correctly",
-   "summary": "Most JNI crashes don't come from complicated logic. They come from a small set of mistakes around object references: holding on to a reference after it has beco",
-   "link": "https://www.freecodecamp.org/news/how-to-avoid-jni-crashes-by-managing-local-and-global-references-correctly/",
-   "source": "freeCodeCamp",
-   "channel": "教程",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 20:14",
-   "ts": 1791116055
   }
  ]
 }
