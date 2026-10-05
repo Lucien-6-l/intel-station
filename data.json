@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05 10:03",
+ "updated_at": "2026-10-05 10:40",
  "total": 258,
  "channels": [
   "AI·科技",
@@ -14,6 +14,123 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "7a3eb24ae0f5193bb7fbe28d91457f8e",
+   "title": "JEDEC 发布首份全行业硅光子学（SiPh）可靠性标准 JESD264",
+   "summary": "IT之家 10 月 5 日消息，JEDEC 固态技术协会美国当地时间本月 1 日发布了 JESD264 硅光子学 (SiPh) 器件认证和可靠性要求，这是首份全行业级别的硅光器件统一认证和可靠性实践规范。硅光领域此前缺乏标准化的、行业通用的可靠性所有权和验证框架，导致整个供应链存在不确定性。JESD264 通过建立测试",
+   "link": "https://www.ithome.com/1/009/775.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "教程",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 10:34",
+   "ts": 1791167696
+  },
+  {
+   "id": "2baeb2a81a6f6bc7598da80b686a83db",
+   "title": "iQOO 16 手机首销情况曝光：同期约为 iQOO 15 的 50%、iQOO 13 的 100%",
+   "summary": "IT之家 10 月 5 日消息，长期关注国内手机市场份额的数码博主 @RD观测 今日爆料了 iQOO 16 手机的首销情况（Sell out）。以首销当天（20:30 开售）+ 后三天为标准iQOO 16 同期约为 iQOO 15 的 50%、iQOO 13 的 100%▲ IT之家开箱：iQOO 16「赛道」配色图赏",
+   "link": "https://www.ithome.com/1/009/774.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:32",
+   "ts": 1791167521
+  },
+  {
+   "id": "26e353ad5dc07baddb39ebeeaa4e303f",
+   "title": "《GTA6》开发初期曾考虑四主角设定，R 星担心玩家不够代入而选择聚焦杰森与露西亚",
+   "summary": "IT之家 10 月 5 日消息，Rockstar North 联合负责人罗布 · 尼尔森（Rob Nelson）在接受 IGN 等媒体采访时透露，《GTA6》开发初期曾考虑加入四名可操作主角，但最终放弃了这一方案。他表示，团队曾讨论过如何延续《GTA5》的三主角结构，甚至考虑进一步增加至四名角色，但担心玩家分配给每名角",
+   "link": "https://www.ithome.com/1/009/773.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:23",
+   "ts": 1791167009
+  },
+  {
+   "id": "e6ae7009483a1aa3a93990fa7fd57929",
+   "title": "长安汽车米梦冬谈阿维塔 9 系设计：可以讨论、可以期待，最终还是让产品说话",
+   "summary": "IT之家 10 月 5 日消息，长安汽车副总裁、总法律顾问、新闻发言人米梦冬今日发布长文，谈及阿维塔 9 系设计，并表示“可以讨论，可以期待，最终还是让产品说话。”他表示，对于一款旗舰产品而言，最怕的不是有人喜欢、有人争论，而是没有自己的表达。阿维塔从诞生起，就没有选择最安全、最熟悉的路。米梦冬还称，真正的独特，不是永",
+   "link": "https://www.ithome.com/1/009/772.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:22",
+   "ts": 1791166976
+  },
+  {
+   "id": "fecf52b0a229eb1fc050cc8743564cd2",
+   "title": "华擎 DeskSlim X600 / B760 台式机支持英伟达 RTX PRO Blackwell 显卡",
+   "summary": "IT之家 10 月 5 日消息，华擎 (ASRock) 本月 2 日宣布，其 5L 级紧凑型台式机 DeskSlim X600（AMD)） / B760（英特尔）正式支持 NVIDIA（英伟达）RTX PRO 4000 Blackwell SFF Edition 与 RTX PRO 2000 Blackwell 专业显",
+   "link": "https://www.ithome.com/1/009/771.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:21",
+   "ts": 1791166884
+  },
+  {
+   "id": "32a1f8cc74d6e7133f2a9819734d1759",
+   "title": "Anthropic 前研究员将出席纽约 AI 听证会作证，曾警告 AI 或毁灭人类",
+   "summary": "IT之家 10 月 5 日消息，据知情人士向彭博新闻社透露，Anthropic 前研究员雅各布 · 考克斯顿（Jacob Coxon）将出席纽约市一场关于人工智能的听证会并作证。报道称，考克斯恩将应纽约市议会议长朱莉 · 梅宁的要求出席作证。朱莉 · 梅宁敦促人工智能举报人出庭作证，与此同时，市议员们正在审议一揽子法案",
+   "link": "https://www.ithome.com/1/009/769.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:14",
+   "ts": 1791166480
+  },
+  {
+   "id": "d8f03fedbaf257d7c228f076b3c83823",
+   "title": "南亚科技布局晶圆级封测，将在屏东科学园区投资设厂",
+   "summary": "IT之家 10 月 5 日消息，DRAM 内存芯片与模组制造商南亚科技 (Nanya Technology) 本月 1 日宣布，将在屏东科学园区投资设立 3D 晶圆封装测试厂。这座先进封测设施将导入 TSV（硅通孔）、晶圆堆叠等 3D IC 先进技术，布局晶圆级 (Wafer Level) 封装与测试的专业制造整合能力",
+   "link": "https://www.ithome.com/1/009/768.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:12",
+   "ts": 1791166322
+  },
+  {
+   "id": "e8b0a73e05d78146bf9704b07d70a11c",
+   "title": "谷歌 Fitbit Edge 健身手环曝光：续航七天，内置 GPS 与高度计",
+   "summary": "IT之家 10 月 5 日消息，关于 Fitbit Edge 外界目前掌握的信息还不算多，但这款产品看上去是中端 Charge 系列的继任机型。此前就曾出现过相关泄露消息，而在 Android Headlines 发布的最新图片当中，可以清晰看到这款传闻已久的谷歌健身手环定位介于 Pixel 手表与 Fitbit Ai",
+   "link": "https://www.ithome.com/1/009/767.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:06",
+   "ts": 1791165979
+  },
+  {
+   "id": "48665541908183636cbce0e92df8b284",
+   "title": "vivo Y600k Turbo 手机开售：第四代骁龙 7s，12GB+256GB 售价 2799 元",
+   "summary": "IT之家 10 月 5 日消息，vivo Y600k Turbo 手机现已在官网开售，搭载第四代骁龙 7s，有电光蓝、千禧粉、沙丘金三种颜色可选，12GB+256GB 售价 2799 元。vivo Y600k Turbo 手机搭载第四代骁龙 7s 移动平台，12GB LPDDR4X 双通道内存，256GB UFS3.1",
+   "link": "https://www.ithome.com/1/009/766.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:05",
+   "ts": 1791165924
+  },
   {
    "id": "88e3d6321207af7750cda0afbd5f8e6b",
    "title": "消息称 Reflection 等多家西方企业本月将推出开放权重 AI 模型",
@@ -39,6 +156,19 @@
    "urgent": false,
    "fetched_at": "10-05 10:00",
    "ts": 1791165614
+  },
+  {
+   "id": "3b4971f743786ddcdbe9ffd25f7f8e90",
+   "title": "Beats 360 review",
+   "summary": "The Beats 360 are the newest pair of headphones from Apple-owned Beats by Dre, and are aimed specifically at those looking for a pair of headphones to use durin",
+   "link": "https://www.gsmarena.com/beats_360_review-news-74894.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 10:00",
+   "ts": 1791165602
   },
   {
    "id": "1417de4fef9a482454b2f963509594a6",
@@ -67,6 +197,32 @@
    "ts": 1791165600
   },
   {
+   "id": "bb7c3972f21d7984b8949fd8eabefab4",
+   "title": "NFL reviewing incident between official and Cardinals' Trey McBride, NFLPA issues statement",
+   "summary": "The altercation between the two went viral following New York's win over Arizona",
+   "link": "https://www.cbssports.com/nfl/news/nfl-reviewing-incident-between-official-cardinals-trey-mcbride/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:59",
+   "ts": 1791165570
+  },
+  {
+   "id": "26a02a56311cdd1c221325b1e7333dc4",
+   "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+   "summary": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/\nComments U",
+   "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:54",
+   "ts": 1791165248
+  },
+  {
    "id": "0bc42e5083cd3c5f1b6a8023f1038ab9",
    "title": "消息称 Wayve 将为大众供应自动驾驶解决方案",
    "summary": "IT之家 10 月 5 日消息，德媒 Donaukurier 当地时间本月 2 日报道称，英国具身智能初创企业 Wayve 从诸多竞争者中胜出，将同大众汽车集团旗下软件公司 CARIAD 合作为大众供应自动驾驶解决方案。Wayve 将开发自动驾驶人工智能软件，CARIAD 则负责软件与大众-博世联合开发硬件的系统集成工",
@@ -80,84 +236,6 @@
    "ts": 1791164899
   },
   {
-   "id": "03134b93beb96396e9f5c6ec279070be",
-   "title": "OpenAI 宣布“28 天计划”：Codex、Work 日进一步或“重置”",
-   "summary": "IT之家 10 月 5 日消息，OpenAI 核心产品与平台负责人 Thibault Sottiaux 今日在 X 上发文，透露团队将在未来 28 天持续推进 Codex 和 ChatGPT Work 相关改进。他表示，OpenAI 接下来每天都会发布一项“对大多数 Codex / Work 用户而言有明显改善且具备实",
-   "link": "https://www.ithome.com/1/009/761.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:47",
-   "ts": 1791164847
-  },
-  {
-   "id": "5adaba759ce1b69035c8b394d99a9e66",
-   "title": "Tyquan Thornton exits with gruesome ankle injury after monster game for Chiefs",
-   "summary": "Thornton had already established career highs in receiving yards and touchdowns before exiting late in the fourth quarter",
-   "link": "https://www.cbssports.com/nfl/news/chiefs-tyquan-thornton-ankle-injury-raiders/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:46",
-   "ts": 1791164818
-  },
-  {
-   "id": "e441a92ae5ee0f77b1fc37941f05412c",
-   "title": "iQOO Pad Ultra 小平板开售：第六代骁龙 8 超级至尊版，首销价 5999 元起",
-   "summary": "IT之家 10 月 5 日消息，iQOO Pad Ultra 小平板于 9 月 29 日正式发布，10 月 5 日 10:00 全渠道正式开售，首销价 5999 元起：12GB+256GB：6499 元，首销优惠价 5999 元，国补后 5499 元16GB+256GB：7199 元16GB+512GB：7999 元1",
-   "link": "https://www.ithome.com/1/009/760.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:39",
-   "ts": 1791164354
-  },
-  {
-   "id": "1062c33a407ee30cf9dba653f433ed53",
-   "title": "更大容量选项：SUNEAST 预告 2TB microSD Express 存储卡",
-   "summary": "IT之家 10 月 5 日消息，日本存储与配件制造商旭东 (SUNEAST) 此前已推出了 128GB / 256GB / 512GB / 1TB 四种容量的 microSD Express 存储卡。而根据其官网上的宣传资料，该企业还将推出 2TB 版本的 microSD Express 卡。该卡获得 U3、V30、A",
-   "link": "https://www.ithome.com/1/009/759.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:38",
-   "ts": 1791164316
-  },
-  {
-   "id": "8aead6d560b2bb06ad065cfdf6741077",
-   "title": "软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁",
-   "summary": "IT之家 10 月 5 日消息，据彭博社报道，软银集团创始人孙正义一直被视为人工智能最坚定的拥护者之一。然而他近日坦言，随着 AI 能力的突飞猛进，就连他也对伴随而来的安全风险深感担忧。周日，在日本京都举行的“科学与技术在社会中的作用”论坛期间，孙正义在与白宫科技政策顾问迈克尔 · 克拉齐奥斯（Michael Krat",
-   "link": "https://www.ithome.com/1/009/758.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:21",
-   "ts": 1791163303
-  },
-  {
-   "id": "dca83a7da24b66d6025fea5ca3f5ada8",
-   "title": "365 米超埃菲尔铁塔，德国建造全球最高风力发电机",
-   "summary": "IT之家 10 月 5 日消息，一台被开发方称作全球最高的风力发电机现已矗立在德国东部人口稀疏的旷野之上，整机高度达到 365 米，已经超过埃菲尔铁塔。这台巨型风机落户于柏林东南方向的卢萨蒂亚地区一座已有的风电场内。该地区曾经是褐煤开采的核心地带，近些年来正逐步转向发展可再生能源。这台原型机组于上周完成全部高度建设，预",
-   "link": "https://www.ithome.com/1/009/757.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:16",
-   "ts": 1791163007
-  },
-  {
    "id": "3e6e4ef824e8b39c4593cd0e39cb1f06",
    "title": "Korean Directors Rally Behind ‘The Assassin(s)’ as Political Firestorm Turns on Its Makers",
    "summary": "The Directors Guild of Korea (DGK) has come out in support of the team behind &#8220;The Assassin(s),&#8221; Hur Jin-ho&#8217;s thriller about the 1974 shooting",
@@ -169,19 +247,6 @@
    "urgent": false,
    "fetched_at": "10-05 09:13",
    "ts": 1791162802
-  },
-  {
-   "id": "1cbc71a0e444d4bab5c8b2ad2f584662",
-   "title": "Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案",
-   "summary": "IT之家 10 月 5 日消息，Meta 的全新个人助手 Muse 已经迅速走红，数百万用户下载了这款人工智能智能体，把它和自己的银行账户、消息软件或者健康数据进行绑定，交由它代为完成各项事务。不过就在 Muse 在普通消费者群体当中迅速普及之际，来自应用内部的数据，也让外界得以窥见这款产品整理、向用户展示信息的运行逻",
-   "link": "https://www.ithome.com/1/009/755.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:08",
-   "ts": 1791162507
   },
   {
    "id": "ab46034d3cba9c434bf9219f7b94b59b",
@@ -223,19 +288,6 @@
    "ts": 1791162278
   },
   {
-   "id": "4c689b6cab4131d86e6944f02220867c",
-   "title": "OpenAI 奥尔特曼：人工智能的巨大效益值得承担部分风险",
-   "summary": "IT之家 10 月 5 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）近日在接受《Decoded》栏目专访时表示，他的公司与竞争对手 Anthropic 在人工智能监管问题上，仍然存在根本性的世界观分歧。奥尔特曼指出，AI 技术所带来的巨大效益完全值得社会承担部分风险，且这项技术应当继续面向",
-   "link": "https://www.ithome.com/1/009/754.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:02",
-   "ts": 1791162126
-  },
-  {
    "id": "2a880db7c08f33f9eadd27cc6e031b53",
    "title": "Falcons vs. Saints predictions, odds, time: Week 4 'Monday Night Football' picks from proven model",
    "summary": "SportsLine's model has revealed its Atlanta Falcons vs. New Orleans Saints picks for 'Monday Night Football'",
@@ -275,19 +327,6 @@
    "ts": 1791162000
   },
   {
-   "id": "cea05880e12febcf3539928beec12363",
-   "title": "格力技工学校首届新生开学：董明珠任校长，机电与制冷方向最热门",
-   "summary": "IT之家 10 月 5 日消息，据“中国珠海发布”，由格力电器牵头打造、董明珠亲自担任校长的珠海市格力技工学校，10 月 4 日正式迎来建校后的首批新生入学报到。迎新当天，校园里“人人皆可成才人人尽展其才”的横幅标语格外醒目，新生和陪同家长在学生志愿者的引导下有序核验信息、办理入住，整个报到流程顺畅井然。据北京日报、澎",
-   "link": "https://www.ithome.com/1/009/753.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 08:58",
-   "ts": 1791161921
-  },
-  {
    "id": "878f13df42feb03f2760afaa780373e6",
    "title": "Reggie McFadden, Actor-Comedian Known for ‘Def Comedy Jam’ and ‘In Living Color,’ Dies at 57",
    "summary": "He also appeared on ‘Martin,’ ‘Hangin’ With Mr. Cooper,’ ‘Moesha,’ ‘Coach’ and 'Curb Your Enthusiasm.’",
@@ -299,19 +338,6 @@
    "urgent": false,
    "fetched_at": "10-05 08:58",
    "ts": 1791161905
-  },
-  {
-   "id": "adfebe999f9ec349c31494411efb4123",
-   "title": "古尔曼：苹果 CEO 特努斯深度介入设计业务，每周多次亲临设计工作室",
-   "summary": "IT之家 10 月 5 日消息，自乔纳森 · 伊夫（Jony Ive）2019 年离开苹果之后，这家公司就一直没有一位真正的首席设计负责人。此前一段时间，由前首席运营官杰夫 · 威廉姆斯（Jeff Williams）接管设计业务，直至他去年离职。彭博社的马克 · 古尔曼（Mark Gurman）称，自杰夫 · 威廉姆斯",
-   "link": "https://www.ithome.com/1/009/752.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 08:56",
-   "ts": 1791161812
   },
   {
    "id": "50e2243f4437278f492f79b2e045af5e",
@@ -364,19 +390,6 @@
    "urgent": false,
    "fetched_at": "10-05 07:59",
    "ts": 1791158360
-  },
-  {
-   "id": "bb7c3972f21d7984b8949fd8eabefab4",
-   "title": "NFL reviewing incident between official and Cardinals' Trey McBride, NFLPA issues statement",
-   "summary": "The altercation between the two went viral following New York's win over Arizona",
-   "link": "https://www.cbssports.com/nfl/news/nfl-reviewing-incident-between-official-cardinals-trey-mcbride/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:55",
-   "ts": 1791158139
   },
   {
    "id": "5a487b29dc877d8da13725655644b739",
@@ -457,6 +470,19 @@
    "ts": 1791156600
   },
   {
+   "id": "0747c473fe4aeb9484dc4faa5837d594",
+   "title": "Panthers vs. Lions predictions, odds, time: Week 4 'Sunday Night Football' picks by proven model",
+   "summary": "SportsLine's model has revealed its Detroit Lions vs. Carolina Panthers picks for 'Sunday Night Football'",
+   "link": "https://www.cbssports.com/betting/news/panthers-lions-predictions-odds-time-spread-week-4-sunday-night-football-picks-nfl-best-bets/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 07:25",
+   "ts": 1791156304
+  },
+  {
    "id": "8d3987a3587e6998053c571f4ad3bdeb",
    "title": "Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner",
    "summary": "Professional Tekken 8 player SuperBrine is going viral after reaching God of Destruction using Alisa while completely blindfolded with a sleep mask.",
@@ -468,19 +494,6 @@
    "urgent": false,
    "fetched_at": "10-05 07:04",
    "ts": 1791155075
-  },
-  {
-   "id": "a61705551fcaf05aa19a7aeaf36d5d7a",
-   "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-   "summary": "Article URL: https://getartcraft.com/apps\nComments URL: https://news.ycombinator.com/item?id=49958850\nPoints: 32\n# Comments: 30",
-   "link": "https://getartcraft.com/apps",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:02",
-   "ts": 1791154963
   },
   {
    "id": "6786dc0269b725193b51b43d02ce72f9",
@@ -550,7 +563,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 65\n# Comments: 16",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 73\n# Comments: 19",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -797,7 +810,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 367\n# Comments: 225",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 390\n# Comments: 256",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -834,22 +847,9 @@
    "ts": 1791140974
   },
   {
-   "id": "e995aa25b74aad156905e264df1c0015",
-   "title": "Show HN: Build with Python – a beginner course where your code draws",
-   "summary": "Hi HN, I built this because I watched my daughter struggle at learning Python. I made something that runs only in the browser with visuals rather than relying o",
-   "link": "https://scimigo.com/en/learn/build-with-python/01-draw-with-python",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 02:59",
-   "ts": 1791140365
-  },
-  {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 93\n# Comments: 33",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 98\n# Comments: 40",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -953,7 +953,7 @@
   {
    "id": "e49cb76f32a7dde56f80586a82cabdc8",
    "title": "Incentives in Academic Research",
-   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 38\n# Comments: 3",
+   "summary": "Article URL: https://www.msoos.org/2026/10/incentives-in-academic-research/\nComments URL: https://news.ycombinator.com/item?id=49956035\nPoints: 42\n# Comments: 3",
    "link": "https://www.msoos.org/2026/10/incentives-in-academic-research/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -966,7 +966,7 @@
   {
    "id": "d0549b40cf18c06783f4fb0f5d660e7f",
    "title": "Xray-core concealed a certificate verification bypass vulnerability",
-   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 52\n# Comments: 2",
+   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 60\n# Comments: 2",
    "link": "https://github.com/net4people/bbs/issues/672",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1369,7 +1369,7 @@
   {
    "id": "b2f4a7c23b312ad1f2de434faa293b99",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 617\n# Comments: 289",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 628\n# Comments: 296",
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1421,7 +1421,7 @@
   {
    "id": "6c0c163721146c3be48644c9ffb10866",
    "title": "Bill Draper has died",
-   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 81\n# Comments: 19",
+   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 83\n# Comments: 20",
    "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1573,6 +1573,19 @@
    "urgent": false,
    "fetched_at": "10-04 17:30",
    "ts": 1791106250
+  },
+  {
+   "id": "2de3b1ecfa3eaada8f4abe79355cd62d",
+   "title": "Show HN: AI search for every photo and every frame of video on macOS",
+   "summary": "Article URL: https://github.com/allenv0/SCM\nComments URL: https://news.ycombinator.com/item?id=49952111\nPoints: 141\n# Comments: 66",
+   "link": "https://github.com/allenv0/SCM",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-04 17:24",
+   "ts": 1791105892
   },
   {
    "id": "3ad299ecdad5305419938dd8ec010297",
@@ -1976,19 +1989,6 @@
    "urgent": false,
    "fetched_at": "10-04 00:30",
    "ts": 1791045001
-  },
-  {
-   "id": "ccd072f5b590bf14bf5346b4ca67c78a",
-   "title": "vivo teases the X Fold6 in India along with an MR headset",
-   "summary": "Last week, vivo announced it would unveil the V80 on October 6 in India. Later, the company said it would also unveil the S2 FE that day. Now, the brand has pos",
-   "link": "https://www.gsmarena.com/vivo_x_fold6_vivo_vision_india_launch_teaser-news-74891.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 23:31",
-   "ts": 1791041462
   },
   {
    "id": "00b350dcf87c541f8e2d4a5f854de956",
