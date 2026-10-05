@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 14:07",
- "total": 259,
+ "updated_at": "2026-10-05 14:50",
+ "total": 258,
  "channels": [
   "AI·科技",
   "体育",
@@ -41,6 +41,136 @@
    "ts": 1791183600
   },
   {
+   "id": "f271341277fa4658c536dce29d8b6bd0",
+   "title": "HMD Slate Tab 5G 平板完整规格曝光：10.6 英寸 2K 90Hz 面板、骁龙 7s Gen 2 + 8G + 128G",
+   "summary": "IT之家 10 月 5 日消息，外媒 nokianews 现已曝光了 HMD Slate Tab 5G 平板电脑完整规格信息。该机使用 Fabula 设计，灵感来自于诺基亚 Lumia 2520 平板。正面配备一块 10.6 英寸 2000x1200 分辨率 90Hz IPS LCD 面板，外覆大猩猩玻璃 3，匹配 8",
+   "link": "https://www.ithome.com/1/009/816.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:47",
+   "ts": 1791182836
+  },
+  {
+   "id": "1e5b33f944c2206c03a6ef4f5a1dc45d",
+   "title": "消息某厂商 2 亿像素三摄旗舰机被砍，预计为小米 18 Ultra",
+   "summary": "IT之家 10 月 5 日消息，博主 @数码闲聊站 发文，曝光了一款未能量产的旗舰手机，该机计划采用 1mm 级四等边直屏、配备三颗 2 亿像素摄像头（包括 1/1.12 英寸 LOFIC 主摄、1/1.56 英寸超广角，以及 1/1.28 英寸 LOFIC 连续光学变焦潜望长焦），搭载高端旗舰芯片，跑分超过 500 ",
+   "link": "https://www.ithome.com/1/009/815.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:41",
+   "ts": 1791182489
+  },
+  {
+   "id": "fa5e5924c701ba8834f3a857395cd1ef",
+   "title": "Netflix 土耳其区时隔一年半再次涨价：最低 259.99 里拉涨幅约 36.8%，约合 35.5 元人民币每月",
+   "summary": "IT之家 10 月 5 日消息，Netflix 土耳其区 10 月 3 日左右再次上调了三档订阅套餐的月费，涨幅约在 31.6% 至 36.8% 之间，具体来看：基础套餐月费从 189.99 里拉升至 259.99 里拉（IT之家注：现汇率约合 35.5 元人民币），上涨 70 里拉，涨幅约 36.8%；标准套餐从 2",
+   "link": "https://www.ithome.com/1/009/813.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:39",
+   "ts": 1791182372
+  },
+  {
+   "id": "4bee12cc7d981ce16a67bfcce204ce92",
+   "title": "泰坦军团旗下“P2510H ULTRA”24.5 英寸显示器发售：1080P 310Hz，632 元",
+   "summary": "IT之家 10 月 5 日消息，泰坦军团旗下“P2510H ULTRA”24.5 英寸显示器现已在京东发售，该机主打 1080P 310Hz，定价为 632 元，部分地区国补后低至 568.8 元。京东泰坦军团“P2510H ULTRA”显示器 632 元直达链接该机配备一块 1920x1080 分辨率 310Hz 刷",
+   "link": "https://www.ithome.com/1/009/812.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:36",
+   "ts": 1791182215
+  },
+  {
+   "id": "7e4bfd125bd46b809914659b08ad9bdc",
+   "title": "圆刚推出 AI 降噪麦克风 A113，工作温度范围达 -25℃ 至 +60℃",
+   "summary": "IT之家 10 月 5 日消息，圆刚 (AVerMedia) 近日推出了 AIClear Mic (A113) 麦克风。这一型号面向工业应用，工作温度范围达 -25℃ 至 +60℃、存放温度范围达 -40℃ 至 +85℃。AIClear Mic 支持人工智能驱动的降噪功能，可为边缘应用清除音频环境中的环境噪声，使语音识",
+   "link": "https://www.ithome.com/1/009/811.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:33",
+   "ts": 1791182008
+  },
+  {
+   "id": "bc3d5c39b43fbfec940d4ce62bd36b4a",
+   "title": "消息称索尼计划对外授权沉寂的 PlayStation 经典 IP，交由第三方工作室开发",
+   "summary": "IT之家 10 月 5 日消息，据传 PlayStation 目前正在寻找机会重启旗下一批经典 IP。不过由于索尼旗下绝大多数内部工作室都已经忙于正在开发的新作项目，因此索尼打算采取对外授权开发这条路径。实际上坊间消息称，索尼现在已经开始接收外部团队提交的游戏策划提案。多年以来，玩家一直希望能够看到诸多标志性 IP 重",
+   "link": "https://www.ithome.com/1/009/810.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:31",
+   "ts": 1791181904
+  },
+  {
+   "id": "f6f91fcb193d742f21bb93669c347516",
+   "title": "上汽荣威家越 07 预售两周订单超三万台，13.78 万元起",
+   "summary": "IT之家 10 月 5 日消息，上汽荣威今日宣布，家越 07 预售 2 周，订单（小订）超三万台。据IT之家此前报道，上汽荣威家越 07 于 9 月 21 日开启预售，行业首搭豆包座舱助手，共推出三款车型，预售价 13.78 万元起。220 激光雷达版 13.78 万元320 激光雷达版 14.58 万元320 激光雷",
+   "link": "https://www.ithome.com/1/009/809.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:27",
+   "ts": 1791181677
+  },
+  {
+   "id": "8767303b8fab2640392d5a250bca1f86",
+   "title": "台达将基于英伟达 Hyperion 平台开发下一代自动驾驶技术",
+   "summary": "IT之家 10 月 5 日消息，台达 (Delta) 上月末宣布将与 NVIDIA（英伟达）合作，利用 NVIDIA Hyperion 平台加速下代智能、高效、安全自动驾驶系统的开发。此番合作结合了 NVIDIA Hyperion 平台、Halos 安全系统，以及台达在汽车能源管理、电动汽车动力系统、车载高性能计算方面",
+   "link": "https://www.ithome.com/1/009/808.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:20",
+   "ts": 1791181206
+  },
+  {
+   "id": "1e3c32f79185637a789de84ac7847dfb",
+   "title": "华为与高通宣布达成广泛专利许可协议，覆盖 5G、AI、计算及网络技术领域",
+   "summary": "IT之家 10 月 5 日消息，华为与高通今日宣布达成一项长期、广泛的专利许可协议，该协议包含双方在 5G、计算、人工智能、网络等多个技术领域的专利组合交叉许可，同时高通将收购华为在计算、人工智能、网络及其他技术领域的部分美国专利。这是华为与高通之间首份涵盖 5G 技术的专利许可协议。华为称，该交易完成之后，公司全部专",
+   "link": "https://www.ithome.com/1/009/806.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:18",
+   "ts": 1791181121
+  },
+  {
+   "id": "4065c00e9fa0b42475f4a2ae1bb7505c",
+   "title": "施耐德电气宣布以 226 亿美元收购 PTC，拓展人工智能业务",
+   "summary": "IT之家 10 月 5 日消息，施耐德电气（Schneider Electric SE）宣布将以约 226 亿美元（IT之家注：现汇率约合 1,516.54 亿元人民币）收购美国软件公司 PTC，进一步扩充自身工业软件以及人工智能赋能业务的产品版图。这家法国综合性集团将以每股 205 美元（现汇率约合 1,376 元人",
+   "link": "https://www.ithome.com/1/009/805.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 14:07",
+   "ts": 1791180455
+  },
+  {
    "id": "1ef3297f01087a712bdddeb3e3d38818",
    "title": "Rapidus 宣布成立协作开放快速生态系统，率先构建设计解决方案联盟",
    "summary": "IT之家 10 月 5 日消息，日本先进半导体制造企业 Rapidus 当地时间今日宣布成立 Rapidus &nbsp;Collaborative Open Rapid Ecosystem（协作开放快速生态系统）。这一全球性框架旨在支持尖端半导体的开发和大规模生产。Rapidus 表示，半导体开发现在需要的不仅仅是制",
@@ -67,6 +197,19 @@
    "ts": 1791180354
   },
   {
+   "id": "9cd34b17130cad0e14183e093a2ef7aa",
+   "title": "Here's your first look at Google's next fitness tracker, the Fitbit Edge",
+   "summary": "Back in August, Google Australia accidentally revealed an upcoming Fitbit device in official promo images during the Pixel 11 series launch. Now, a new report h",
+   "link": "https://www.gsmarena.com/heres_your_first_look_at_googles_next_fitness_tracker_the_fitbit_edge-news-74895.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:05",
+   "ts": 1791180302
+  },
+  {
    "id": "97900eed23a2e29d1578f1e93d341238",
    "title": "F1 Sprint format: How does it work in 2026?",
    "summary": "Everything you need to know about Formula 1's Sprint weekend format for the 2026 F1 season.",
@@ -78,19 +221,6 @@
    "urgent": false,
    "fetched_at": "10-05 14:05",
    "ts": 1791180300
-  },
-  {
-   "id": "fbdf0dac1497d1e993a3a564f17f2db6",
-   "title": "国产抗日游戏《抵抗者》将进入日本市场：正针对日本玩家推进本地化适配工作，在大战场之外还将加入潜行与小规模交战",
-   "summary": "IT之家 10 月 5 日消息，国产抗日题材 FPS 新作《抵抗者》计划打入日本市场，制作团队正针对日本玩家推进本地化工作。日本媒体 Game*Spark 今日放出了在 2026 年科隆游戏展期间对于游戏制作人孔宇恒的邮件采访内容。孔宇恒介绍了游戏选择中国抗日战争作为背景的原因，并透露了潜行、小规模交战等玩法细节。首先",
-   "link": "https://www.ithome.com/1/009/802.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 14:04",
-   "ts": 1791180298
   },
   {
    "id": "ce4e3154d19a7fdc1b180c190869b371",
@@ -119,43 +249,17 @@
    "ts": 1791180000
   },
   {
-   "id": "8b5783279dd19754be5e188edaeb14e6",
-   "title": "联想推出 23.8 英寸 FHD 100Hz 来酷 M2460 办公显示器，599 元",
-   "summary": "IT之家 10 月 5 日消息，联想新推出了一款 23.8 英寸的办公显示器，隶属于来酷（Lecoo）品牌，型号为 M2460，定价为 599 元。京东 Lecoo 联想办公显示器 M246023.8 英寸 FHD 100Hz 高刷 IPS 低蓝光不闪屏 599 元直达链接这款显示器搭载 23.8 英寸 IPS 面板，",
-   "link": "https://www.ithome.com/1/009/801.htm",
-   "source": "IT之家",
+   "id": "5e9de31643e8f72b0dc7e5a5c0adc079",
+   "title": "Anthropic reported diary entry to police, woman faces felony charge",
+   "summary": "Article URL: https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html\nComments URL: https://news.ycombinator.com/item?",
+   "link": "https://www.techspot.com/news/114091-florida-woman-used-claude-diary-anthropic-reported-shoot.html",
+   "source": "Hacker News",
    "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-05 13:43",
-   "ts": 1791179000
-  },
-  {
-   "id": "2c5d93612f172de61aebc9bb9fdd3e50",
-   "title": "泰坦军团 V27MQ7 MAX 显示器开售：27 英寸 2K 565Hz 双模，5555 元",
-   "summary": "IT之家 10 月 5 日消息，泰坦军团 V27MQ7 MAX 显示器现已开售，标价 5555 元，国补到手价 4999.5 元。这款显示器搭载了一块 27 英寸 QD-Mini LED + HFS 第二代氧化物面板，拥有 2304 分区，搭载区域调光（5 档可调）与光晕控制（100 档可调）算法；搭载内外双层纳米 L",
-   "link": "https://www.ithome.com/1/009/799.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 13:41",
-   "ts": 1791178860
-  },
-  {
-   "id": "8b436ce66fcfcbda99645bc95f9f7698",
-   "title": "隐私担忧发酵：荷兰大型眼镜连锁企业 Hans Anders 暂停销售 Meta 雷朋智能眼镜",
-   "summary": "IT之家 10 月 5 日消息，荷兰规模最大的眼镜零售连锁企业之一汉斯 · 安德斯（Hans Anders）于当地时间上周五宣布，鉴于隐私方面的担忧持续发酵，该企业已经暂停在荷兰与比利时销售 Meta 的雷朋智能眼镜，这也是零售商当中较早采取此类行动的案例。汉斯 · 安德斯连锁的一名发言人表示：“作出这项决定，是因为社",
-   "link": "https://www.ithome.com/1/009/798.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 13:40",
-   "ts": 1791178833
+   "fetched_at": "10-05 13:37",
+   "ts": 1791178660
   },
   {
    "id": "ff2e03762f875f40248f2b0a0177a398",
@@ -171,56 +275,17 @@
    "ts": 1791178306
   },
   {
-   "id": "9b6c0deabc165e97db51047c8e1f627d",
-   "title": "哈啰顺风车司机提前收高速费却拖到免费时段才下高速：拒不退款，平台介入",
-   "summary": "IT之家 10 月 5 日消息，湖南一名网友 10 月 4 日发帖称，其 9 月 30 日晚通过哈啰平台预约了一辆从湘潭前往益阳的顺风车，订单车费为 161.7 元，同行共两位乘客。上车后，司机向两人提前收取高速通行费，每人 30 元，合计 60 元。该网友表示，司机途中以电动汽车需要充电为由驶入服务区停留，随后行驶速",
-   "link": "https://www.ithome.com/1/009/797.htm",
-   "source": "IT之家",
+   "id": "51ff97dab6bb1ce0f06918ce5eeeeb95",
+   "title": "Replacement of Petroleum Based Products with Plant-Based Materials",
+   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 28\n# Comments: 1",
+   "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
+   "source": "Hacker News",
    "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-05 13:20",
-   "ts": 1791177628
-  },
-  {
-   "id": "a8eab768a7f3fd455df757beabb41ed2",
-   "title": "纪录片《缅北电诈覆灭纪实》今晚 18 点开播，公安部和中央广播电视总台联合摄制",
-   "summary": "IT之家 10 月 5 日消息，央视新闻今日宣布，10 月 5 日至 7 日，由公安部和中央广播电视总台联合摄制的纪录片《缅北电诈覆灭纪实》，每晚 18 点在央视综合频道首播，当晚央视新闻频道 21:30 分重播。IT之家获悉，纪录片以真实案例揭露缅北犯罪生态，共分《利剑出鞘》《犁庭扫穴》《共筑天网》三集，全面展现了彻",
-   "link": "https://www.ithome.com/1/009/796.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 13:13",
-   "ts": 1791177237
-  },
-  {
-   "id": "06297aab87e39de4c5975cbddc66d8f1",
-   "title": "美国佛州一女子把 AI 当“日记本”用，Claude 识别到枪击威胁后上报给 Anthropic 人工审核并报警",
-   "summary": "IT之家 10 月 5 日消息，美国佛罗里达州李县（Lee County）一名 30 岁女子因涉嫌在与 Anthropic 旗下聊天机器人 Claude 的对话中写下针对当地警长办公室的暴力威胁而被捕。据当地警方通报，邦尼塔斯普林斯居民卡莉 · 米歇尔 · 赫勒（Carli Michelle Heller）于 9 月 ",
-   "link": "https://www.ithome.com/1/009/795.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 13:00",
-   "ts": 1791176425
-  },
-  {
-   "id": "687b763b0d920ddb4f882238d3778f33",
-   "title": "华米 Amazfit 智能手表 T-Rex Dual Solar 上架：双面太阳能充电系统，4499 元",
-   "summary": "IT之家 10 月 5 日消息，华米 Amazfit 智能手表 T-Rex Dual Solar 现已上架电商平台，标价 4499 元。该产品搭载双面太阳能充电系统，为长距离多日户外探险设计；典型使用场景续航可达 25 天，在每日 3 小时 50000lux 光照条件下，续航天数可提升至 34 天（正面接触光照） / ",
-   "link": "https://www.ithome.com/1/009/794.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 12:55",
-   "ts": 1791176125
+   "fetched_at": "10-05 13:09",
+   "ts": 1791176983
   },
   {
    "id": "dbd6c3c753a9db76701c9bfe5f5f9b2d",
@@ -236,30 +301,17 @@
    "ts": 1791175741
   },
   {
-   "id": "abef624a81dc871619a118fd52e528d1",
-   "title": "特朗普宣布成立超级智能工作组，谋求维持美国技术领先地位",
-   "summary": "IT之家 10 月 5 日消息，正如此前所承诺的，美国总统唐纳德 · 特朗普已经宣布成立全新的超级智能工作组（Super Intelligence Force）。他表示，该机构将由美国国家情报总监杰伊 · 克莱顿（Jay Clayton）以及本届政府的其他官员牵头负责。特朗普当地时间上周日上午在自己的社交平台“真实社交",
-   "link": "https://www.ithome.com/1/009/792.htm",
-   "source": "IT之家",
+   "id": "f00a225f9533e8e4cfd8af016247d7b0",
+   "title": "刚刚，Hinton发了首篇RSI论文",
+   "summary": "AI已经开始真正进入「造下一代AI」的流水线",
+   "link": "https://www.qbitai.com/2026/10/501705.html",
+   "source": "量子位",
    "channel": "AI·科技",
    "category": "资讯",
-   "weight": 2,
+   "weight": 3,
    "urgent": false,
-   "fetched_at": "10-05 12:39",
-   "ts": 1791175172
-  },
-  {
-   "id": "58c70722b227b08d3eba75beb0da4b44",
-   "title": "迪士尼宣布《复仇者联盟 4》重映后反超《阿凡达》再登全球影史票房冠军，漫威电影累计超 350 亿美元",
-   "summary": "IT之家 10 月 5 日消息，漫威影业今日宣布，《复仇者联盟 4：终局之战》再次夺回全球影史票房冠军。这也意味着，漫威影业出品的 38 部院线电影全球票房累计超 350 亿美元（现汇率约合 2,348.63 亿元人民币），使漫威电影宇宙成为影史上最成功的电影系列。迪士尼当地时间 10 月 4 日公布的数据显示，《复仇",
-   "link": "https://www.ithome.com/1/009/791.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 12:30",
-   "ts": 1791174647
+   "fetched_at": "10-05 12:42",
+   "ts": 1791175372
   },
   {
    "id": "0b6a6b7e6feb6459cf889754d3d20a07",
@@ -498,7 +550,7 @@
   {
    "id": "e5f1789defb27862d3b2b1792d982eb8",
    "title": "A 40ms Go garbage collector pause caused by swap",
-   "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 40\n# Comments: 11",
+   "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 57\n# Comments: 19",
    "link": "https://frn.sh/go-gc/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -693,7 +745,7 @@
   {
    "id": "a61705551fcaf05aa19a7aeaf36d5d7a",
    "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-   "summary": "Article URL: https://getartcraft.com/apps\nComments URL: https://news.ycombinator.com/item?id=49958850\nPoints: 76\n# Comments: 75",
+   "summary": "Article URL: https://getartcraft.com/apps\nComments URL: https://news.ycombinator.com/item?id=49958850\nPoints: 96\n# Comments: 94",
    "link": "https://getartcraft.com/apps",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -758,7 +810,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 108\n# Comments: 30",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 119\n# Comments: 30",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -875,7 +927,7 @@
   {
    "id": "2e52209d54610fcee4461e07dfed5f5a",
    "title": "In the wake of closure, a digital archive of animated materials appears online",
-   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 92\n# Comments: 9",
+   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 107\n# Comments: 10",
    "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -966,7 +1018,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 483\n# Comments: 302",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 507\n# Comments: 317",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1005,7 +1057,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 150\n# Comments: 56",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 165\n# Comments: 63",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1092,32 +1144,6 @@
    "urgent": false,
    "fetched_at": "10-05 02:00",
    "ts": 1791136800
-  },
-  {
-   "id": "43161bc160eba8fb8a2b5d2546227999",
-   "title": "All I wanted was a custom domain email",
-   "summary": "Article URL: https://jacobg.co/emails-at-jacobg-co/\nComments URL: https://news.ycombinator.com/item?id=49956092\nPoints: 48\n# Comments: 67",
-   "link": "https://jacobg.co/emails-at-jacobg-co/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 01:47",
-   "ts": 1791136041
-  },
-  {
-   "id": "d0549b40cf18c06783f4fb0f5d660e7f",
-   "title": "Xray-core concealed a certificate verification bypass vulnerability",
-   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 71\n# Comments: 9",
-   "link": "https://github.com/net4people/bbs/issues/672",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 01:38",
-   "ts": 1791135534
   },
   {
    "id": "62a4e9e53f35953f07982161814b58db",
@@ -1978,19 +2004,6 @@
    "ts": 1791053037
   },
   {
-   "id": "2641bc9671a244448954d2b33ffea58d",
-   "title": "Samsung Galaxy S25 series receiving One UI 9 stable update in the US",
-   "summary": "Samsung released the Android 17-based One UI 9 stable update for the Galaxy S25 series a few days ago, but the rollout was limited to South Korea. Well, the rol",
-   "link": "https://www.gsmarena.com/samsung_galaxy_s25_series_one_ui_9_stable_update_usa-news-74890.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 02:31",
-   "ts": 1791052261
-  },
-  {
    "id": "6977edd898b71aa45b2a0c3d01b21f5f",
    "title": "Ezra Dyer: Let Me Tell You About My (Friend’s) Ferrari F40",
    "summary": "The Ferrari F40 conundrum: What do you do when the best car you own is the worst car for your life?",
@@ -2600,19 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-03 03:59",
    "ts": 1790971147
-  },
-  {
-   "id": "66c959d5c7f17a49d11da5691466a6f4",
-   "title": "Ford backs a big new solar farm for its Michigan factories",
-   "summary": "Detroit-based energy company DTE Energy has completed construction of a 100-megawatt (MW) solar farm near Coldwater, Michigan, that will help Ford power its hom",
-   "link": "https://electrek.co/2026/10/02/ford-backs-a-big-new-solar-farm-for-its-michigan-factories/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:52",
-   "ts": 1790970723
   }
  ]
 }
