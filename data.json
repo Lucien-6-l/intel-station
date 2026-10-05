@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06 05:39",
+ "updated_at": "2026-10-06 06:04",
  "total": 265,
  "channels": [
   "AI·科技",
@@ -15,6 +15,19 @@
  ],
  "items": [
   {
+   "id": "2edbf1d99e50f3250a798bc978e82ead",
+   "title": "Prime Video Debuts First Look at ‘Bloodaxe’ Series From ‘Vikings’ Creator (TV News Roundup)",
+   "summary": "Prime Video debuted first look images for “Bloodaxe,” a new original series from “Vikings” creator Michael Hirst and Horatio Hirst. “Bloodaxe” Season 1 follows ",
+   "link": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-october-5-1236899406/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 06:00",
+   "ts": 1791237612
+  },
+  {
    "id": "cc0b99ec3dd80a8fbcf617d61d42f1e6",
    "title": "Mamardashvili's late penalty save denies Northern Ireland win vs Georgia",
    "summary": "Isaac Price missed a late penalty as Northern Ireland were held to a goalless draw by Georgia which nevertheless keeps them top of their Nations League group.",
@@ -26,6 +39,110 @@
    "urgent": false,
    "fetched_at": "10-06 06:00",
    "ts": 1791237600
+  },
+  {
+   "id": "8a63e3f54a399581615243b2a3389ca2",
+   "title": "OpenAI is adding visual ads to ChatGPT",
+   "summary": "OpenAI introduced ads for free and Go users of ChatGPT back in February. Those were pretty simple ads that appeared between chat messages. Now the company is ad",
+   "link": "https://www.gsmarena.com/openai_is_adding_visual_ads_to_chatgpt-news-74908.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 05:58",
+   "ts": 1791237482
+  },
+  {
+   "id": "e4beb5b2fa8056bc3287a785878819a5",
+   "title": "Lucid Motors’ EV output falls to lowest level in almost two years",
+   "summary": "The company is deliberately limiting production after years of struggling to find mass-market demand for its EVs.",
+   "link": "https://techcrunch.com/2026/10/05/lucid-motors-ev-output-falls-to-lowest-level-in-almost-two-years/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 05:54",
+   "ts": 1791237241
+  },
+  {
+   "id": "6c2558282d64fa020f057f05564721be",
+   "title": "Robert Kelker-Kelly, ‘Days of Our Lives’ and ‘General Hospital’ Star, Dies at 62",
+   "summary": "He also starred in the soap operas 'Another World' and 'Port Charles.'",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/robert-kelker-kelly-dead-days-of-our-lives-general-hospital-1236722795/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 05:51",
+   "ts": 1791237083
+  },
+  {
+   "id": "0dc77ca65b7355e17850f493b851b616",
+   "title": "André DeShields, Brandon Dirden, Jasmine Cephas Jones and Cheryl Wills Named AAFCA Goes to Broadway Honorees (EXCLUSIVE)",
+   "summary": "The African American Film Critics Association has set the lineup for its fifth AAFCA Goes to Broadway Luncheon. Tony winner André DeShields, Tony nominee Brando",
+   "link": "https://variety.com/2026/legit/news/aafca-broadway-luncheon-andre-deshields-brandon-dirden-jasmine-cephas-jones-cheryl-wills-1236899466/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 05:48",
+   "ts": 1791236939
+  },
+  {
+   "id": "dfa5bfbaf3016b0ddd0d72855876b38b",
+   "title": "‘Outlander: Blood of My Blood’ Star Harriet Slater on Ellen’s ‘Home Alone’ — With Knives! — Adventure",
+   "summary": "The star of the Starz historical romantic drama, joined by executive producers Matthew B. Roberts and Maril Davis, explains how the future mother of Jamie Frase",
+   "link": "https://www.hollywoodreporter.com/tv/tv-features/outlander-blood-of-my-blood-ellen-harriet-slater-interview-1236722849/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 05:47",
+   "ts": 1791236830
+  },
+  {
+   "id": "c85ef7edbdc6459f07c7746a65f6c371",
+   "title": "Amangiri, Casa Cipriani, Bel-Air Hotel Make 2026 Michelin Key List of Best Properties In the World",
+   "summary": "A spinoff of the popular Michelin Star award given annually to restaurants, this year's list includes 15 U.S. properties earning the coveted three-key rating.",
+   "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/michelin-keys-2026-best-hotels-in-the-world-usa-list-guide-1236722132/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 05:46",
+   "ts": 1791236766
+  },
+  {
+   "id": "cdd3cf69997b52052561c7b6d703e983",
+   "title": "‘The Social Reckoning’ First Reactions: A ‘Solid Sequel,’ ‘Good, Just Not Great Film’ and a ‘Harsh Assessment of Zuckerberg’",
+   "summary": "Aaron Sorkin&#8217;s &#8220;The Social Reckoning&#8221; has been unveiled to members of the film press, who are calling the follow-up to &#8220;The Social Netwo",
+   "link": "https://variety.com/2026/film/news/social-reckoning-first-reactions-facebook-zuckerberg-1236878038/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 05:41",
+   "ts": 1791236514
+  },
+  {
+   "id": "2416c09f0a1312d348114c8167f1ec63",
+   "title": "Get 6.6ft 240W USB Type-C Cables for Less Than $3 Apiece During the Amazon Prime Day Sale",
+   "summary": "Universal cables perfect for your Nintendo Switch 2, Steam Deck, iPhone 17, or laptop.",
+   "link": "https://www.ign.com/articles/usb-cable-deals-amazon-october-prime-day-sale-2026",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 05:40",
+   "ts": 1791236400
   },
   {
    "id": "5d3cff631a31a16fc2dc3eed8b16ec10",
@@ -91,6 +208,32 @@
    "urgent": false,
    "fetched_at": "10-06 05:31",
    "ts": 1791235862
+  },
+  {
+   "id": "50ce5f5fa0e81935fd7de0dba36ea8cc",
+   "title": "The Gorgeous 27\" Acer Nitro QD-OLED Gaming Monitor With 240Hz Refresh Rate Drops to $269 at Walmart",
+   "summary": "You'll be hard-pressed to find a better deal on a comparable monitor for Prime Day.",
+   "link": "https://www.ign.com/articles/acer-nitro-qd-oled-gaming-monitor-deal-october-2026",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 05:30",
+   "ts": 1791235800
+  },
+  {
+   "id": "0f51ae0b8eb9a632ac0c836a90926236",
+   "title": "How to Disable Apple Intelligence on Your iPhone or Mac and Reclaim Valuable Space",
+   "summary": "The new Siri AI could be taking up a lot of storage on your device.",
+   "link": "https://www.cnet.com/tech/services-and-software/disable-apple-intelligence-save-space/",
+   "source": "CNET",
+   "channel": "数码",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 05:25",
+   "ts": 1791235518
   },
   {
    "id": "a2a4e40e0d11312bcdde3ae0c1323049",
@@ -169,6 +312,19 @@
    "urgent": false,
    "fetched_at": "10-06 05:15",
    "ts": 1791234927
+  },
+  {
+   "id": "b12f26b2c27403ff92371d875a858d25",
+   "title": "Dust: Pretraining Transformers Without Backpropagation",
+   "summary": "Article URL: https://qlabs.sh/research/dust\nComments URL: https://news.ycombinator.com/item?id=49970871\nPoints: 10\n# Comments: 0",
+   "link": "https://qlabs.sh/research/dust",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 05:15",
+   "ts": 1791234907
   },
   {
    "id": "e35e701509d14feb6041e6edfc3f384a",
@@ -264,7 +420,7 @@
   {
    "id": "1ad31c2d866b0a88f0567e6c4107551d",
    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-   "summary": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors\nComments URL: https://news.ycombinator.com/item?id=49970667\nPoints: 67\n# Comment",
+   "summary": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors\nComments URL: https://news.ycombinator.com/item?id=49970667\nPoints: 89\n# Comment",
    "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -314,6 +470,19 @@
    "ts": 1791233783
   },
   {
+   "id": "8257e546611e64ef493cfd66705347a7",
+   "title": "Infinity Ward Details Call of Duty: Modern Warfare 4's Extraction Mode, DMZ",
+   "summary": "Call of Duty: Modern Warfare 4's ambitious new extraction mode, DMZ, has gotten a massive deep dive from Infinity Ward.",
+   "link": "https://www.ign.com/articles/infinity-ward-details-call-of-duty-modern-warfare-4s-extraction-mode-dmz",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 04:51",
+   "ts": 1791233469
+  },
+  {
    "id": "5f6326e0b01dc355c40ef6e17fb92730",
    "title": "This is Apple Music’s new logo, probably",
    "summary": "Apple Music seems to be rolling out a new logo, as spotted in several places including iOS 27 beta 3.\n\n\n\n more…",
@@ -328,7 +497,7 @@
   },
   {
    "id": "d42a79a1915e5c3c6117b450863fb784",
-   "title": "WSL containers is now generally available – Windows Developer Blog",
+   "title": "WSL containers is now generally available",
    "summary": "Article URL: https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/\nComments URL: https://news.ycombinator.com/item?id=49",
    "link": "https://blogs.windows.com/windowsdeveloper/2026/09/29/wsl-containers-now-generally-available/",
    "source": "Hacker News",
@@ -563,7 +732,7 @@
   {
    "id": "606f1545960336bb16e4587451d31900",
    "title": "A third way of using Linux",
-   "summary": "Article URL: https://hisvirusness.com/third-is-the-way\nComments URL: https://news.ycombinator.com/item?id=49970073\nPoints: 5\n# Comments: 1",
+   "summary": "Article URL: https://hisvirusness.com/third-is-the-way\nComments URL: https://news.ycombinator.com/item?id=49970073\nPoints: 9\n# Comments: 6",
    "link": "https://hisvirusness.com/third-is-the-way",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -615,7 +784,7 @@
   {
    "id": "c007ace3389875e35cafecbfd34b3d30",
    "title": "Incident with Actions",
-   "summary": "Article URL: https://www.githubstatus.com/incidents/3q1yb5m7ltvb\nComments URL: https://news.ycombinator.com/item?id=49969961\nPoints: 73\n# Comments: 47",
+   "summary": "Article URL: https://www.githubstatus.com/incidents/3q1yb5m7ltvb\nComments URL: https://news.ycombinator.com/item?id=49969961\nPoints: 75\n# Comments: 50",
    "link": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -717,19 +886,6 @@
    "ts": 1791230220
   },
   {
-   "id": "f644c5402b20d651e18d385dd37d9aab",
-   "title": "Whether Tailgating or Watching the Big Game from Home, JBL Speakers Deliver Top-Tier Sound to Keep the Party Going",
-   "summary": "As football (and tailgate) season officially kicks off, it’s essential to have all the right gear to keep the party going, whether you’re cheering on your favor",
-   "link": "https://variety.com/2026/shopping/news/jbl-speakers-best-buy-discount-shop-online-1236897979/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 03:56",
-   "ts": 1791230179
-  },
-  {
    "id": "94e74599f677cb269b13dc0e76f47499",
    "title": "Best horse racing betting sites: Where to bet on 2026 horse racing",
    "summary": "Discover the best horse racing betting sites for 2026, plus how to bet on horse racing online, bet types, and expert tips.",
@@ -741,19 +897,6 @@
    "urgent": false,
    "fetched_at": "10-06 03:55",
    "ts": 1791230147
-  },
-  {
-   "id": "e9a0cb301622798874ab483a4e8203c1",
-   "title": "Robert Kelker-Kelly, ‘Days of Our Lives’ Actor, Dies at 62",
-   "summary": "Robert Kelker-Kelly, who played Bo Brady on &#8220;Days of Our Lives,” died on Saturday in St. Peters, Missouri. He was 62. The St. Peters Police Department sai",
-   "link": "https://variety.com/2026/tv/people-news/robert-kelker-kelly-dead-days-of-our-lives-1236899324/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 03:53",
-   "ts": 1791229986
   },
   {
    "id": "0afd17856e33f555d26106954e17ca1c",
@@ -886,19 +1029,6 @@
    "ts": 1791228833
   },
   {
-   "id": "77de5170c73bf88d846e274665a51720",
-   "title": "David Zaslav Bids Farewell to Warner Bros. Employees in Video on Eve of Skydance Merger Close: ‘It’s Been a Great Honor to Be Alongside All of You’",
-   "summary": "David Zaslav, four and a half years after closing the debt-burdened deal that formed Warner Bros. Discovery, is bidding farewell to the company&#8217;s employee",
-   "link": "https://variety.com/2026/film/news/david-zaslav-farewell-video-warner-bros-discovery-employees-1236899350/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 03:32",
-   "ts": 1791228735
-  },
-  {
    "id": "eb86a6049f139cccfe57fc9f2f001921",
    "title": "After bankruptcy, he was banned from sports betting sites. Then he found Kalshi",
    "summary": "Article URL: https://www.npr.org/2026/10/02/nx-s1-5981420/kalshi-betting-prediction-markets-gambling-addiction\nComments URL: https://news.ycombinator.com/item?i",
@@ -951,22 +1081,9 @@
    "ts": 1791228475
   },
   {
-   "id": "14ff2fd86b58211329fa179f61c5b2b3",
-   "title": "Harlan Coben Previews ‘Final Twist’ Season 2, “Bonkers” First Episode and How His Onscreen Work Has Evolved",
-   "summary": "\"Fiction has to follow rules. Reality doesn't,\" the busy bestseller author tells THR and explains what criteria true-crime cases featured in the CBS and Paramou",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/harlan-coben-interview-final-twist-season-2-cbs-first-episode-1236722500/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 03:27",
-   "ts": 1791228456
-  },
-  {
    "id": "0aa202d473d6f145cff9b73e2a2b2a51",
    "title": "The Future of Mathematics",
-   "summary": "Article URL: https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/\nComments URL: https://news.ycombinator.com/item?id=49969256\nPoints: 40\n# Comme",
+   "summary": "Article URL: https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/\nComments URL: https://news.ycombinator.com/item?id=49969256\nPoints: 50\n# Comme",
    "link": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -979,7 +1096,7 @@
   {
    "id": "a4e0da46e8952145a2a5d11a7bc1acee",
    "title": "Beam: Reflection's 501B open-weight model",
-   "summary": "Article URL: https://reflection.ai/blog/introducing-beam\nComments URL: https://news.ycombinator.com/item?id=49969183\nPoints: 181\n# Comments: 54",
+   "summary": "Article URL: https://reflection.ai/blog/introducing-beam\nComments URL: https://news.ycombinator.com/item?id=49969183\nPoints: 189\n# Comments: 55",
    "link": "https://reflection.ai/blog/introducing-beam",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1027,19 +1144,6 @@
    "urgent": false,
    "fetched_at": "10-06 03:06",
    "ts": 1791227199
-  },
-  {
-   "id": "7bdf5160f1d10c887cba5c450275a9c5",
-   "title": "One person can now be a quorum at the SEC",
-   "summary": "Article URL: https://www.ft.com/content/3120782c-1ea0-4fdc-9462-0a4b4658f70f\nComments URL: https://news.ycombinator.com/item?id=49969070\nPoints: 85\n# Comments: ",
-   "link": "https://www.ft.com/content/3120782c-1ea0-4fdc-9462-0a4b4658f70f",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 03:06",
-   "ts": 1791227197
   },
   {
    "id": "5ff8575c32dc6fb5d6b742173102fe0d",
@@ -1094,32 +1198,6 @@
    "ts": 1791226855
   },
   {
-   "id": "d734843951b2160ff5b1828cf4580814",
-   "title": "Gina Prince-Bythewood and Reggie Rock Bythewood Return to Urbanworld as Ambassadors of 30th Anniversary Festival",
-   "summary": "A special spotlight during the festival will celebrate Prince-Bythewood's upcoming film 'Children of Blood and Bone.'",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/gina-prince-bythewood-reggie-rock-urbanworld-1236722558/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 03:00",
-   "ts": 1791226800
-  },
-  {
-   "id": "22089278602578e3d33ddeea69937395",
-   "title": "CAA Hires Top NFL Executive as Chief Operating Officer",
-   "summary": "Dasha Smith was most recently executive VP and chief administrative officer of the NFL, where she was a top deputy to Roger Goodell.",
-   "link": "https://www.hollywoodreporter.com/business/business-news/caa-names-nfl-exec-dasha-smith-coo-1236722581/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 03:00",
-   "ts": 1791226800
-  },
-  {
    "id": "4e22141c4ee1146613294456e77b5d62",
    "title": "Instinct brings its AI agent to group chats, even for friends without an account",
    "summary": "Instinct is launching group chats that let friends use its AI agent together for tasks like planning trips, organizing carpools, and coordinating events. The co",
@@ -1131,19 +1209,6 @@
    "urgent": false,
    "fetched_at": "10-06 02:54",
    "ts": 1791226470
-  },
-  {
-   "id": "c0373b7c6e985b8a022562b84cd1d984",
-   "title": "Physint Update: Hideo Kojima Shares New Info on His Upcoming Metal Gear Spiritual Successor",
-   "summary": "Renowned game director Hideo Kojima revived his Koji10 podcast after a year and shared casting, story, and development updates on Physint, his upcoming next-gen",
-   "link": "https://www.ign.com/articles/physint-update-hideo-kojima-shares-new-info-on-his-upcoming-metal-gear-spiritual-successor",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 02:42",
-   "ts": 1791225762
   },
   {
    "id": "dfddca8a31b8eeb144d12db5d193322a",
@@ -1248,19 +1313,6 @@
    "urgent": false,
    "fetched_at": "10-06 02:35",
    "ts": 1791225326
-  },
-  {
-   "id": "55bb3d9644b09ef62f9c5fb94be8349b",
-   "title": "Save 50% Off One of the Best Budget Gaming Chairs During the Amazon Prime Day Sale",
-   "summary": "Inexpensive all-day comfort for your gaming marathons.",
-   "link": "https://www.ign.com/articles/best-budget-gaming-chair-deal-amazon-october-prime-day-2026",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 02:35",
-   "ts": 1791225300
   },
   {
    "id": "86def48a2bea1e7cee03670037d7a494",
@@ -1404,19 +1456,6 @@
    "urgent": false,
    "fetched_at": "10-06 02:11",
    "ts": 1791223914
-  },
-  {
-   "id": "dff59be8999a11bd6cd5ba665bfff63e",
-   "title": "Walmart Has the First GeForce RTX 5060 Ti Prebuilt Gaming PC Under $1,000 That I've Seen in Months",
-   "summary": "This is an excellent PC for 1080p gaming.",
-   "link": "https://www.ign.com/articles/msi-codex-z2c-rtx-5060-ti-gaming-pc-october-2026",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 02:10",
-   "ts": 1791223800
   },
   {
    "id": "ba3e6e465fbfecc2f8412f6437f33e2c",
@@ -1785,7 +1824,7 @@
   {
    "id": "ef9f5b1fac4c6685cdc3c3d825972f07",
    "title": "Our approach to EU text provenance rules",
-   "summary": "Article URL: https://openai.com/index/eu-text-provenance/\nComments URL: https://news.ycombinator.com/item?id=49966293\nPoints: 54\n# Comments: 34",
+   "summary": "Article URL: https://openai.com/index/eu-text-provenance/\nComments URL: https://news.ycombinator.com/item?id=49966293\nPoints: 55\n# Comments: 39",
    "link": "https://openai.com/index/eu-text-provenance/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1885,19 +1924,6 @@
    "urgent": false,
    "fetched_at": "10-05 23:01",
    "ts": 1791212462
-  },
-  {
-   "id": "5feff81ee32e1cfaeb83b0a3b5c4ca58",
-   "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
-   "summary": "Lola Vision Systems is one of the Startup Battlefield 200 companies battling it out at TechCrunch Disrupt, taking place October 13-15 in San Francisco.",
-   "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:00",
-   "ts": 1791212400
   },
   {
    "id": "c301be9ba2a38e79d14579d0fc0d4e3b",
@@ -2524,19 +2550,6 @@
    "ts": 1791188356
   },
   {
-   "id": "9cd34b17130cad0e14183e093a2ef7aa",
-   "title": "Here's your first look at Google's next fitness tracker, the Fitbit Edge",
-   "summary": "Back in August, Google Australia accidentally revealed an upcoming Fitbit device in official promo images during the Pixel 11 series launch. Now, a new report h",
-   "link": "https://www.gsmarena.com/heres_your_first_look_at_googles_next_fitness_tracker_the_fitbit_edge-news-74895.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 14:05",
-   "ts": 1791180302
-  },
-  {
    "id": "f00a225f9533e8e4cfd8af016247d7b0",
    "title": "刚刚，Hinton发了首篇RSI论文",
    "summary": "AI已经开始真正进入「造下一代AI」的流水线",
@@ -2593,19 +2606,6 @@
    "title": "‘What took them so long?’ This year’s medicine Nobel winner is overdue",
    "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03094-zNature’s senior biology reporter Ewen Callaway reflects on today’s prize for optogeneti",
    "link": "https://www.nature.com/articles/d41586-026-03094-z",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-05 08:00",
-   "ts": 1791158400
-  },
-  {
-   "id": "dd04eaad30409f47d35b926f772fe5f0",
-   "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light",
-   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03091-2Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology ",
-   "link": "https://www.nature.com/articles/d41586-026-03091-2",
    "source": "Nature",
    "channel": "科学",
    "category": "资讯",
