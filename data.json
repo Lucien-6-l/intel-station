@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-06 02:05",
- "total": 265,
+ "updated_at": "2026-10-06 02:45",
+ "total": 253,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,10 +10,217 @@
   "数码",
   "汽车",
   "游戏",
-  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "b188ce6b4d894b2db847d5e3d76be1d0",
+   "title": "Iraola's early impact: Big calls, foundations to thrill – and lift-off vs Man City?",
+   "summary": "Andoni Iraola has made an unbeaten start as Liverpool boss &#8211; but will he get lift-off at Anfield in the huge clash with Manchester City on Sunday?",
+   "link": "https://www.skysports.com/football/news/12040/13595435/liverpool-andoni-iraolas-early-impact-at-anfield-assessed-ahead-of-huge-super-sunday-showdown-with-man-city",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 03:30",
+   "ts": 1791228600
+  },
+  {
+   "id": "02c273cfda8f0fc7d7ba39fb278cccc9",
+   "title": "Skydance’s High-Wire Act Begins: Wall Street Scrutinizes Strategy for Juggling $80 Billion in Debt  and a Three-Year Runway to Chop it Down",
+   "summary": "David Ellison moved mountains and fought off many detractors in his quest to acquire Warner Bros. Discovery. Now, as the transition is set to formally close on ",
+   "link": "https://variety.com/2026/biz/news/skydance-debt-cash-flow-ellison-sp-moodys-creditsights-1236899331/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:42",
+   "ts": 1791225730
+  },
+  {
+   "id": "123b635c03fdd40f489b4b355e1532b5",
+   "title": "Mike Leigh’s ‘Tender Loving Care’ to Compete as Comedy at Golden Globes (EXCLUSIVE)",
+   "summary": "Mike Leigh is bringing love and care to the Golden Globes’ comedy race. Bleecker Street will submit “Tender Loving Care,” Leigh’s likely final film, in the musi",
+   "link": "https://variety.com/2026/film/awards/tender-loving-care-golden-globes-comedy-mike-leigh-1236899279/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:40",
+   "ts": 1791225600
+  },
+  {
+   "id": "7228c838bdfb3c2783805555f92af421",
+   "title": "苹果 watchOS 27.2 开发者预览版 Beta 3 发布",
+   "summary": "【点此直达升级教程】  IT之家 10 月 6 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 开发者预览版 Beta 3 更新（内部版本号：24S5101f），本次更新距离上次发布 Beta/RC 间隔 14 天。    如何升级 iOS / iPadOS / watchOS / m",
+   "link": "https://www.ithome.com/1/009/908.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "教程",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 02:38",
+   "ts": 1791225495
+  },
+  {
+   "id": "549dc06cc0c5b3b4bff313f5ea72cc88",
+   "title": "苹果 visionOS 27.2 开发者预览版 Beta 3 发布",
+   "summary": "IT之家 10 月 6 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 3 更新（内部版本号：24N5103f），本次更新距离上次发布 Beta/RC 间隔 14 天。    需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有",
+   "link": "https://www.ithome.com/1/009/907.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 02:38",
+   "ts": 1791225495
+  },
+  {
+   "id": "6bd4a91d5fa36525bf2f94bad4075714",
+   "title": "苹果 macOS 27.2 开发者预览版 Beta 3 发布",
+   "summary": "IT之家 10 月 6 日消息，苹果今日向 Mac 电脑用户推送了 macOS 27.2 开发者预览版 Beta 3 更新（内部版本号：26B5101f），本次更新距离上次发布 Beta/RC 间隔 14 天。    如何升级 iOS / iPadOS / watchOS / macOS 开发版和公测版？• 公开测试版",
+   "link": "https://www.ithome.com/1/009/906.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 02:38",
+   "ts": 1791225494
+  },
+  {
+   "id": "47202a94179bbb107dc737d22a3f2617",
+   "title": "苹果 iOS/iPadOS 27.2 开发者预览版 Beta 3 发布",
+   "summary": "【点此直达升级教程】  IT之家 10 月 6 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS/iPadOS 27.2 开发者预览版 Beta 3 更新（内部版本号：24B5099f），本次更新距离上次发布 Beta/RC 间隔 14 天。    如何升级 iOS / iPadOS / watchO",
+   "link": "https://www.ithome.com/1/009/905.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "教程",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 02:38",
+   "ts": 1791225494
+  },
+  {
+   "id": "f04f3ad73c451b132b2678c840e7fba7",
+   "title": "Upgrade to Apple Watch Series 12 or Ultra 4? Here’s how to get the most out of it",
+   "summary": "Upgrade to a new Apple Watch Series 12 or Ultra 4? Apple Watch Series 12 and Ultra 4 bring upgraded performance and new health sensing features.\n\n\n\nStill, they ",
+   "link": "https://9to5mac.com/2026/10/05/upgrade-to-apple-watch-series-12-or-ultra-4-heres-how-to-get-the-most-out-of-it/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:35",
+   "ts": 1791225326
+  },
+  {
+   "id": "86def48a2bea1e7cee03670037d7a494",
+   "title": "STAT+: New Trump regulations would clean up health care pricing disclosures",
+   "summary": "The Trump administration is continuing its effort to bring more transparency to the cost of health care.",
+   "link": "https://www.statnews.com/2026/10/05/trump-kennedy-transparency-in-coverage-regulations-health-care-prices-disclosure/?utm_campaign=rss",
+   "source": "STAT News",
+   "channel": "健康",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:33",
+   "ts": 1791225237
+  },
+  {
+   "id": "335cda2276a35b87869bbbbc4cb37e2a",
+   "title": "Saints vs. Falcons prediction: Michael Penix Jr. leads Atlanta into New Orleans",
+   "summary": "The NFC South rivals meet Monday night in New Orleans as Michael Penix Jr. and the Falcons look to build on their first win of the season",
+   "link": "https://www.cbssports.com/nfl/news/saints-vs-falcons-how-to-watch-tv-channel-live-stream-kickoff-time-prediction/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:31",
+   "ts": 1791225094
+  },
+  {
+   "id": "176c124a7b6ff3f256eb70190b3233a1",
+   "title": "iOS 27 upgrades Messages app with key new features for RCS",
+   "summary": "iOS 27 includes several welcome additions to the Messages app, including two key upgrades for RCS conversations. Here’s what’s new.\n\n\n\n more…",
+   "link": "https://9to5mac.com/2026/10/05/ios-27-upgrades-messages-app-with-key-new-features-for-rcs/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:31",
+   "ts": 1791225091
+  },
+  {
+   "id": "dd9c0054d7bcb24d926d69c6ee876c8a",
+   "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+   "summary": "TikTok describes its new Shopping Assistant as a conversational AI agent designed to help users discover and purchase products.",
+   "link": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:29",
+   "ts": 1791224940
+  },
+  {
+   "id": "1308a8db09b8b31b97cd18c07f1e1355",
+   "title": "Emily Blunt, Benicio Del Toro, Josh Brolin Board ‘Sicario 3’",
+   "summary": "Black Label Media and Thunder Road have Padraic McKinley attached to direct the long-awaited sequel and Steven Knight writing a script.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/sicario-3-emily-blunt-benicio-del-toro-josh-brolin-1236722522/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:25",
+   "ts": 1791224730
+  },
+  {
+   "id": "c14562c521654cc9f764efc719c13515",
+   "title": "The Googlebooks include a file transfer trick you probably didn’t know about",
+   "summary": "Quick Access lets you seamlessly transfer files to and from a Googlebook and Android phone.",
+   "link": "https://www.androidauthority.com/googlebooks-ai-files-app-quick-access-3719161/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:23",
+   "ts": 1791224584
+  },
+  {
+   "id": "95749d4f8f37dc0a2d0d2fa5ba55c646",
+   "title": "Apple releases beta 3 for iPadOS 27.2, watchOS 27.2, and more",
+   "summary": "Apple is now rolling out new beta software for developers, including beta 3 for iPadOS 27.2, tvOS 27.2, and more.\n\n\n\n more…",
+   "link": "https://9to5mac.com/2026/10/05/apple-releases-beta-3-for-ipados-27-2-watchos-27-2-and-more/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 02:22",
+   "ts": 1791224533
+  },
+  {
+   "id": "d4121d935944d759dd5a2ad1ad983354",
+   "title": "macOS 27.2 Golden Gate beta 3 now available, here’s what to expect",
+   "summary": "Apple is rolling out the third developer beta of macOS 27.2 Golden Gate, ahead of its official rollout in the coming weeks. Here’s what’s coming.\n\n\n\n more…",
+   "link": "https://9to5mac.com/2026/10/05/macos-27-2-golden-gate-beta-3-now-available-heres-what-to-expect/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:22",
+   "ts": 1791224520
+  },
   {
    "id": "5f1bf97a43aeb280a9f62ebd772baeac",
    "title": "Littler beaten in semi-finals of World Youth Championship",
@@ -26,6 +233,110 @@
    "urgent": false,
    "fetched_at": "10-06 02:21",
    "ts": 1791224460
+  },
+  {
+   "id": "0bf3cb50c9ea08a8184567d38c4130c7",
+   "title": "Apple releases third iOS 27.2 developer beta for iPhone",
+   "summary": "Apple has released the third iOS 27.2 developer beta for iPhone. The update follows the release of iOS 27 to everyone. It also leaps over iOS 27.1, which Apple ",
+   "link": "https://9to5mac.com/2026/10/05/apple-releases-third-ios-27-2-developer-beta-for-iphone/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 02:18",
+   "ts": 1791224330
+  },
+  {
+   "id": "76fa996f3dc5d0b8151cd6dde71cccfe",
+   "title": "Kalshi cricket 2026: How to trade on cricket prediction markets",
+   "summary": "You can use Kalshi prediction markets to trade event contracts during cricket matches",
+   "link": "https://www.cbssports.com/prediction/news/kalshi-cricket/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:18",
+   "ts": 1791224281
+  },
+  {
+   "id": "b024406fadd550edfc6f7f74e6968b7f",
+   "title": "MagSafe Monday: Pelican’s MagSafe Wallet is my go-to wallet for the fall",
+   "summary": "As the weather cools off and the fall outdoor season ramps up, I tend to tweak my everyday carry list to match how I ams spending my time. The Pelican MagSafe W",
+   "link": "https://9to5mac.com/2026/10/05/magsafe-monday-pelicans-magsafe-wallet-is-my-go-to-wallet-for-the-fall/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:17",
+   "ts": 1791224220
+  },
+  {
+   "id": "462fb8abfcd3f651e65c5850059c0653",
+   "title": "‘Awards Chatter’ Pod: Penélope Cruz on Singing and Dancing in ‘La Bola Negra,’ Reteaming with Bardem in ‘Bunker’ and Making ’Em Laugh in ‘The Invite’",
+   "summary": "The most celebrated Spanish film actress returns to the podcast to discuss her life, career and incredible 2026.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/awards-chatter-penelope-cruz-la-bola-negra-bunker-invite-1236712733/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:13",
+   "ts": 1791223997
+  },
+  {
+   "id": "6bb34b9aa7348889faaf2ccd56e6f50f",
+   "title": "2027 Chevy Corvette’s New 6.7-Liter V-8 May Leak Oil, but GM Has a Fix",
+   "summary": "GM says a pair of seals is responsible for oil leaks in some brand-new Corvettes, but addressing the issue sounds relatively simple.",
+   "link": "https://www.caranddriver.com/news/a74034656/2027-chevrolet-corvette-6-7-liter-v8-leaking-oil/",
+   "source": "Car and Driver",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:11",
+   "ts": 1791223914
+  },
+  {
+   "id": "2355cdf50572f1225e491f3f6862ef80",
+   "title": "‘I, Addict’ Creator Javier Giner Unpacks ‘This Solitude,’ a Film ‘About ‘Those Who Keep Functioning While Something Inside Them Is Falling Apart’",
+   "summary": "Basque director Javier Giner&#8217;s &#8220;This Solitude&#8221; (&#8220;Esta Soledad&#8221;) recently premiered at the San Sebastián Film Festival&#8217;s New ",
+   "link": "https://variety.com/2026/film/global/i-addict-javier-giner-this-solitude-oriol-pla-filmax-1236893579/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:09",
+   "ts": 1791223761
+  },
+  {
+   "id": "ba3e6e465fbfecc2f8412f6437f33e2c",
+   "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
+   "summary": "An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its ",
+   "link": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:08",
+   "ts": 1791223719
+  },
+  {
+   "id": "5c1eea9aa0648fd21c0fd764e12e1244",
+   "title": "At 19, founder raises $11M for Ghost, maker of a $3,499 computer for personal AI",
+   "summary": "Ghost announced Monday its official emergence from stealth and an $11 million seed round led by Andreessen Horowitz.",
+   "link": "https://techcrunch.com/2026/10/05/at-19-ghost-founder-raises-11-million-to-build-a-3499-computer-for-your-personal-ai/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:07",
+   "ts": 1791223627
   },
   {
    "id": "ea4c0a22309475aff8064dcf88807dd2",
@@ -52,6 +363,19 @@
    "urgent": false,
    "fetched_at": "10-06 02:02",
    "ts": 1791223369
+  },
+  {
+   "id": "29a236fb71e72909cedd160519b4827e",
+   "title": "Is Oklahoma likely to mix it up at QB in Red River vs. Texas? Brent Venables evaluating John Mateer, options",
+   "summary": "Backups Bowe Bentley and Whitt Newbauer are getting extra bye-week reps as the Sooners rank last in the SEC in total offense ahead of a showdown with No. 1 Texa",
+   "link": "https://www.cbssports.com/college-football/news/oklahoma-qb-struggles-john-mateer-red-river-rivalry-texas/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:00",
+   "ts": 1791223221
   },
   {
    "id": "bbeabbd79762dae5e7ec74d531903986",
@@ -132,6 +456,19 @@
    "ts": 1791223111
   },
   {
+   "id": "7156d9e223e210b5f038a4aba37aebee",
+   "title": "Caleb Williams to miss Bears' Week 5 rivalry game against Packers, Tyson Bagent set for second start",
+   "summary": "The Bears are unbeaten without Williams in the starting lineup",
+   "link": "https://www.cbssports.com/nfl/news/caleb-williams-to-miss-bears-week-5-rivalry-packers-tyson-bagent/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:54",
+   "ts": 1791222895
+  },
+  {
    "id": "27241a09ac8855816d1f41cdb12287fc",
    "title": "Iberseries Takeaways: Woody Allen on His New Film, Los Javis Pact With HBO Max, the Tales of Cachou the Brown Bear and More",
    "summary": "When the going gets tough, the tough get going to places like Iberseries &#38; Platino Industria. Its 6th edition, also a pre-Mipcom warm-up, ran over Sept.29-O",
@@ -145,6 +482,32 @@
    "ts": 1791222874
   },
   {
+   "id": "e9d11b99bd8dec3fa1c86605d7f1f329",
+   "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+   "summary": "Article URL: https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/\nComments URL: https://news.ycombinator.com/item?id",
+   "link": "https://diff.wikimedia.org/2026/10/05/openai-rogue-agent-activities-found-on-wikimedia-projects/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:53",
+   "ts": 1791222815
+  },
+  {
+   "id": "9f3e89ec9dae2ddea6d77b9ede194b5d",
+   "title": "NFL DFS, Saints vs. Falcons: Top daily Fantasy picks, lineup advice for 'Monday Night Football'",
+   "summary": "DFS millionaire Mike McClure shares his top daily Fantasy picks and lineups for Atlanta vs. New Orleans on 'Monday Night Football'",
+   "link": "https://www.cbssports.com/betting/news/nfl-dfs-saints-falcons-daily-fantasy-top-picks-fanduel-draftkings-lineups-monday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:52",
+   "ts": 1791222772
+  },
+  {
    "id": "afcc19693eb7afc5061aa5988b385414",
    "title": "Inside JJ Gabriel's Man Utd future and why he was in first-team squad photo",
    "summary": "JJ Gabriel is still expected to leave Manchester United despite featuring in the club's squad photo for the 2026/27 season.",
@@ -156,6 +519,19 @@
    "urgent": false,
    "fetched_at": "10-06 01:52",
    "ts": 1791222720
+  },
+  {
+   "id": "d93d2b8d1c1bf73d5f324776622c518b",
+   "title": "Footy Fix: Cavan Sullivan opens his USMNT account; Lionel Messi's last game for Argentina",
+   "summary": "Elsewhere on the Golazo Starting XI newsletter, Canada up next for America",
+   "link": "https://www.cbssports.com/soccer/news/footy-fix-cavan-sullivan-opens-his-usmnt-account-lionel-messis-last-game-for-argentina/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:48",
+   "ts": 1791222489
   },
   {
    "id": "373fb0e295b05bedd1d84984b682e0ef",
@@ -379,19 +755,6 @@
    "ts": 1791221362
   },
   {
-   "id": "f3ef00bba1be7b846de21a1f20a4d31a",
-   "title": "Aaron Sorkin on Why Mark Zuckerberg Isn’t a Villain in ‘The Social Reckoning,’ Despite That “He’s Making Bad Decisions That Are Hurting Us”",
-   "summary": "Sorkin joined stars Mikey Madison, Jeremy Allen White and Jeremy Strong at the NYC premiere of his 'Social Network' follow-up on Sunday.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/aaron-sorkin-mark-zuckerberg-villain-social-reckoning-1236722367/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 01:28",
-   "ts": 1791221284
-  },
-  {
    "id": "2b169b77592f76d9e17f910ba729a2e8",
    "title": "5 startups that caught VCs’ attention at the latest PearX demo day",
    "summary": "TechCrunch attended Pear’s latest  demo day and discovered which startups generated the most buzz, from spatial models to chips for local AI.",
@@ -416,19 +779,6 @@
    "urgent": false,
    "fetched_at": "10-06 01:18",
    "ts": 1791220730
-  },
-  {
-   "id": "bef7bca27bd4c7a5e29d0ac66fa5c064",
-   "title": "‘The Batman Part II’ Production Paused as Filmmaker Matt Reeves Steps Away for “Family Matter”",
-   "summary": "DC Studios said in a statement: \"Matt has the full support of DC Studios and we look forward to continuing the journey soon.\"",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/the-batman-part-ii-paused-as-filmmaker-matt-reeves-1236722514/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 01:17",
-   "ts": 1791220676
   },
   {
    "id": "e18a4595563cd7bc2ec1f85b2bdf9b3d",
@@ -483,19 +833,6 @@
    "ts": 1791220006
   },
   {
-   "id": "01e05a061b21f23e4106ad4a78934e21",
-   "title": "Chris Wayland to Succeed Valari Staab as President of NBCUniversal Local",
-   "summary": "Chris Wayland will succeed veteran Valari Staab as president of NBCUniversal&#8217;s local-media operations, elevating the head of the company&#8217;s Boston po",
-   "link": "https://variety.com/2026/tv/news/chris-wayland-succeed-valari-staab-president-nbcu-local-1236899214/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 01:05",
-   "ts": 1791219900
-  },
-  {
    "id": "a9a22d508e34d29bde679585f31f0647",
    "title": "Saints vs. Falcons SGP: 'Monday Night Football' same-game parlay picks, bets, props from SportsLine AI",
    "summary": "SportsLine's Machine Learning Model AI reveals its 'Monday Night Football' SGP for Atlanta vs. New Orleans",
@@ -507,32 +844,6 @@
    "urgent": false,
    "fetched_at": "10-06 01:03",
    "ts": 1791219838
-  },
-  {
-   "id": "482d3f02c441dfec4f57567f2521e806",
-   "title": "Gerhard Zeiler, Warner Bros. President of International, Likely to Leave Studio as He Enters Politics in Austria",
-   "summary": "Gerhard Zeiler, president of international for Warner Bros. Discovery, looks likely to leave the company ahead of the merger with Paramount after he declared hi",
-   "link": "https://variety.com/2026/biz/global/gerhard-zeiler-warner-bros-discovery-politics-austria-1236899218/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 01:02",
-   "ts": 1791219772
-  },
-  {
-   "id": "7397904a521c501b426cef5e4eb2dbcd",
-   "title": "Daniil Medvedev DQ'd against Novak Djokovic at China Open for hitting a fan in the head with a ball",
-   "summary": "Medvedev said he's 'terribly sorry' about the incident that lead to a default",
-   "link": "https://www.cbssports.com/tennis/news/daniil-medvedev-dq-novak-djokovic-china-open-hitting-fan-ball/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 01:01",
-   "ts": 1791219693
   },
   {
    "id": "577089cbcf1ed30cc89aa3463dff048b",
@@ -548,32 +859,6 @@
    "ts": 1791219687
   },
   {
-   "id": "edfe22956cff0311d3d8a6d32f4afc7b",
-   "title": "NWSL Team of the Week: Jaedyn Shaw and Lindsey Heaps stand out ahead of USWNT camps",
-   "summary": "The Attacking Third crew picked their best XI from the past week's NWSL action",
-   "link": "https://www.cbssports.com/soccer/news/nwsl-team-of-the-week-jaedyn-shaw-lindsey-heaps-uswnt/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 01:00",
-   "ts": 1791219634
-  },
-  {
-   "id": "fe0a2141f06f466e6df8490eb60d69ea",
-   "title": "MGM+ to Premiere Docuseries on the History of New Wave Music in November (EXCLUSIVE)",
-   "summary": "Put on your fishnets and grab the Aqua-Net: &#8220;New Wave,&#8221; a new docuseries about the history of the influential rock movement of the &#8217;70s and &#",
-   "link": "https://variety.com/2026/music/news/new-wave-music-series-mgm-1236897943/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 01:00",
-   "ts": 1791219600
-  },
-  {
    "id": "ef231ce8e672304a5ee9fd2bfc25d8f3",
    "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
    "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicid",
@@ -585,32 +870,6 @@
    "urgent": false,
    "fetched_at": "10-06 00:55",
    "ts": 1791219342
-  },
-  {
-   "id": "90748bd59b1298ab80399dec9cd0e006",
-   "title": "Jamey Eisenberg's Week 4 Fantasy stock watch: Malik Nabers shines while Jalen Hurts searches for answers",
-   "summary": "Nabers re-establishes WR1 status with a needed bounce-back performance, while Hurts is testing fantasy managers' patience amid mounting offensive injuries in Ph",
-   "link": "https://www.cbssports.com/fantasy/football/news/jamey-eisenbergs-week-4-fantasy-stock-watch-malik-nabers-shines-while-jalen-hurts-searches-for-answers/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:47",
-   "ts": 1791218844
-  },
-  {
-   "id": "3d2331375eca17ef07a368739f1b781b",
-   "title": "NFL Week 4 injury panic meter: Concern for Ja'Marr Chase as Lamar Jackson gets good news",
-   "summary": "We assess the latest injury news surrounding Lamar Jackson, Ja'Marr Chase, Saquon Barkley and the other prominent players hurt in Week 4",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-injuries-updates-on-lamar-jackson-jamarr-chase/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:47",
-   "ts": 1791218833
   },
   {
    "id": "4426ebd5c6b51c8cf8c65907b3751236",
@@ -652,21 +911,8 @@
    "ts": 1791218700
   },
   {
-   "id": "5d9338481a2eef50644ed337f558471f",
-   "title": "Is Polymarket Legal in California? October 2026 Status",
-   "summary": "Find out if Polymarket is legal in California, how it's regulated, and what you can trade there in 2026.",
-   "link": "https://www.cbssports.com/prediction/news/polymarket-california/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:44",
-   "ts": 1791218664
-  },
-  {
    "id": "5cdb1ddac634ad1510fc758bc5c219d4",
-   "title": "Sam Altman says ‘some bad things&#8217; will happen but AI is totally worth it",
+   "title": "Sam Altman says ‘some bad things&#8217; will happen, but AI is totally worth it",
    "summary": "Sam Altman thinks that the benefits of AI will be so great that \"the world should accept some bad things happening\" along the way. The OpenAI CEO pointed to hac",
    "link": "https://www.theverge.com/ai-artificial-intelligence/1004811/openai-altman-bad-things-ai-tradeoff",
    "source": "The Verge",
@@ -702,19 +948,6 @@
    "urgent": false,
    "fetched_at": "10-06 00:43",
    "ts": 1791218612
-  },
-  {
-   "id": "758f166f2867a9d7961536e2c30a4c92",
-   "title": "'Monday Night Football' prediction, odds, spread, time: Falcons vs. Saints picks from expert on 22-12 run",
-   "summary": "Larry Hartstein reveals his picks for Atlanta Falcons vs. New Orleans Saints in the 2026 Week 4 'Monday Night Football' matchup",
-   "link": "https://www.cbssports.com/betting/news/monday-night-football-prediction-odds-line-spread-time-falcons-saints-expert-picks/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:41",
-   "ts": 1791218507
   },
   {
    "id": "8f94dd1479d005fac79182d58f4418eb",
@@ -953,7 +1186,7 @@
   {
    "id": "ef9f5b1fac4c6685cdc3c3d825972f07",
    "title": "Our approach to EU text provenance rules",
-   "summary": "Article URL: https://openai.com/index/eu-text-provenance/\nComments URL: https://news.ycombinator.com/item?id=49966293\nPoints: 27\n# Comments: 3",
+   "summary": "Article URL: https://openai.com/index/eu-text-provenance/\nComments URL: https://news.ycombinator.com/item?id=49966293\nPoints: 34\n# Comments: 12",
    "link": "https://openai.com/index/eu-text-provenance/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1005,7 +1238,7 @@
   {
    "id": "dd7471b0aeb45d5a072ab7618bb4d18b",
    "title": "The future of independence is interdependence",
-   "summary": "Article URL: https://onlys.ky/independence-is-interdependence/\nComments URL: https://news.ycombinator.com/item?id=49966163\nPoints: 41\n# Comments: 22",
+   "summary": "Article URL: https://onlys.ky/independence-is-interdependence/\nComments URL: https://news.ycombinator.com/item?id=49966163\nPoints: 75\n# Comments: 37",
    "link": "https://onlys.ky/independence-is-interdependence/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1068,19 +1301,6 @@
    "ts": 1791213216
   },
   {
-   "id": "2792218ac71de41470524fc80453d942",
-   "title": "Borland Turbo Basic",
-   "summary": "Article URL: https://dosdays.co.uk/topics/Software/borland_turbo_basic.php\nComments URL: https://news.ycombinator.com/item?id=49965894\nPoints: 87\n# Comments: 49",
-   "link": "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:11",
-   "ts": 1791213091
-  },
-  {
    "id": "ddd1af72b13a505146d1f3c742ff7cd4",
    "title": "Apple’s new M6 Mac Mini is over $100 off",
    "summary": "Really the only negative associated with the new M6-powered Mac Mini is its high price. While the last-gen model debuted at just $599, the faster, but mostly un",
@@ -1092,19 +1312,6 @@
    "urgent": false,
    "fetched_at": "10-05 23:08",
    "ts": 1791212911
-  },
-  {
-   "id": "cc21d3e6313ad15f0f1315de505dc661",
-   "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
-   "summary": "Article URL: https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election\nComments URL: https://news.ycombinator.com/item?id=49965833\nPoints: 34\n# ",
-   "link": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:06",
-   "ts": 1791212787
   },
   {
    "id": "530128f0d984408dc4f4ef0a6c0fd475",
@@ -1248,6 +1455,19 @@
    "urgent": false,
    "fetched_at": "10-05 22:45",
    "ts": 1791211539
+  },
+  {
+   "id": "b5377c539455e5c45c51cb8b22a46208",
+   "title": "API Authentication & Authorization: An Engineering Deep Dive into Mechanisms, Trade-offs, and Failure Modes",
+   "summary": "Every API has some form of authentication. But having authentication and getting it right are two completely different things. I've reviewed production systems ",
+   "link": "https://www.freecodecamp.org/news/api-authentication-authorization-mechanisms-trade-offs-and-failure-modes/",
+   "source": "freeCodeCamp",
+   "channel": "教程",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:43",
+   "ts": 1791211423
   },
   {
    "id": "5d64a8e01f9fcc5c5f45b2f09f9ddb25",
@@ -1460,7 +1680,7 @@
   {
    "id": "7243e4d735a6a3231371fac465231860",
    "title": "Making a GTK application in Haskell, part 1",
-   "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/\nComments URL: https://news.ycombinator.com/item?id=49965308\nPoints: 72\n# Comment",
+   "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/\nComments URL: https://news.ycombinator.com/item?id=49965308\nPoints: 89\n# Comment",
    "link": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1538,7 +1758,7 @@
   {
    "id": "757d6176735651e4dc12268735ccca8e",
    "title": "The designer lamps in my house",
-   "summary": "Article URL: https://arslan.io/2026/10/05/the-lamps-in-my-house/\nComments URL: https://news.ycombinator.com/item?id=49965152\nPoints: 18\n# Comments: 6",
+   "summary": "Article URL: https://arslan.io/2026/10/05/the-lamps-in-my-house/\nComments URL: https://news.ycombinator.com/item?id=49965152\nPoints: 24\n# Comments: 12",
    "link": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1564,7 +1784,7 @@
   {
    "id": "b200c17c112c7f1e095bea95ab92c588",
    "title": "Linux containers in 500 lines of code",
-   "summary": "Article URL: https://blog.lizzie.io/linux-containers-in-500-loc.html\nComments URL: https://news.ycombinator.com/item?id=49965118\nPoints: 10\n# Comments: 1",
+   "summary": "Article URL: https://blog.lizzie.io/linux-containers-in-500-loc.html\nComments URL: https://news.ycombinator.com/item?id=49965118\nPoints: 21\n# Comments: 6",
    "link": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1575,22 +1795,9 @@
    "ts": 1791209355
   },
   {
-   "id": "c44b253556dbf4f6a58b8a3d9e8c6ca7",
-   "title": "卡普空开源 RE:Dox 结构化数据引擎，JSON 反序列化最高提速 2.84 倍",
-   "summary": "IT之家 10 月 5 日消息，卡普空宣布，将旗下最新的数据处理及序列化基础库“RE:Dox”以开源软件（OSS）形式公开。该项目是卡普空次世代游戏引擎计划 REX（RE neXt ENGINE）的基础技术之一，开发者可以自由使用。卡普空早在 2023 年 10 月便公布了 REX 引擎计划，目标是针对 RE ENGI",
-   "link": "https://www.ithome.com/1/009/886.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-05 22:08",
-   "ts": 1791209333
-  },
-  {
    "id": "5116a159e846f1c968ec92897323663e",
    "title": "Picard 3.0",
-   "summary": "Article URL: https://blog.metabrainz.org/2026/10/04/picard-3-0-released/\nComments URL: https://news.ycombinator.com/item?id=49965047\nPoints: 72\n# Comments: 31",
+   "summary": "Article URL: https://blog.metabrainz.org/2026/10/04/picard-3-0-released/\nComments URL: https://news.ycombinator.com/item?id=49965047\nPoints: 85\n# Comments: 34",
    "link": "https://blog.metabrainz.org/2026/10/04/picard-3-0-released/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1599,19 +1806,6 @@
    "urgent": false,
    "fetched_at": "10-05 22:03",
    "ts": 1791208981
-  },
-  {
-   "id": "660709c0bd058485d9de6a841340a5fc",
-   "title": "玩家“魔改”12V-2×6：引入额外 2 组 8Pin 分流供电，减负效果显著",
-   "summary": "IT之家 10 月 5 日消息，Reddit 网友 @DallasGrave 近日展示了其 12V-2×6 的修改方案：该玩家为显卡的 12+4 Pin 接口补充了 2 组 PCIe 8Pin 供电，达成分流减负的效果。▲ 该卡为微星 GeForce RTX 5090 32G VENTUS 3X OC@DallasGr",
-   "link": "https://www.ithome.com/1/009/880.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 22:00",
-   "ts": 1791208838
   },
   {
    "id": "92fdbe004e3119daaa3ff0446eba73bb",
@@ -1679,58 +1873,6 @@
    "ts": 1791208541
   },
   {
-   "id": "1497279169a2e6b14d04571c6a672bd5",
-   "title": "乔布斯逝世 15 周年，苹果两任 CEO 特努斯、库克发文缅怀",
-   "summary": "IT之家 10 月 5 日消息，今天是乔布斯逝世 15 周年，苹果新任 CEO 约翰 · 特努斯、前任 CEO 蒂姆 · 库克分别发文缅怀。约翰 · 特努斯：Steve 教会了我们用心对待每一个细节、每一份体验和每一个人，这份教益至今依然指引我们的工作。永怀感激。The way Steve taught us to c",
-   "link": "https://www.ithome.com/1/009/879.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:54",
-   "ts": 1791208444
-  },
-  {
-   "id": "5b63448d0b2508dc5ca025c1d1b6abab",
-   "title": "I turned my phone into a thermal camera with the RISION Magic Pro",
-   "summary": "Make any phone a surprisingly capable thermal camera with this simple USB-C accessory.",
-   "link": "https://www.androidauthority.com/rision-magic-pro-review-3717389/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:52",
-   "ts": 1791208342
-  },
-  {
-   "id": "94f3df590ec6de760097d2c9026c4b7b",
-   "title": "Apple event is reportedly happening next week, per Mark Gurman",
-   "summary": "Apple is expected to launch several new products next week on October 13, and per Bloomberg’s Mark Gurman, the product unveilings will happen at “an event.” Her",
-   "link": "https://9to5mac.com/2026/10/05/apple-event-is-reportedly-happening-next-week-per-mark-gurman/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:51",
-   "ts": 1791208290
-  },
-  {
-   "id": "b551e6d26032c31261ce45ca82777c72",
-   "title": "Full Disk Access on Mac: Here’s what Apple must, and must not, do",
-   "summary": "We’ve seen a number of examples of why giving Meta’s Muse app full disk access to your Mac is a very bad idea, and yet another major privacy issue has recently ",
-   "link": "https://9to5mac.com/2026/10/05/full-disk-access-on-mac-heres-what-apple-must-and-must-not-do/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:48",
-   "ts": 1791208092
-  },
-  {
    "id": "6f36ff95ade1d2ab88bae3506813bb62",
    "title": "An open-source tool lets you delete 12GB of Apple Intelligence data on macOS",
    "summary": "Getting some extra storage space on your Mac could be as easy as deleting Apple's AI features with a new open-source command line tool called RemoveMacAI. There",
@@ -1755,19 +1897,6 @@
    "urgent": false,
    "fetched_at": "10-05 21:45",
    "ts": 1791207900
-  },
-  {
-   "id": "bf25801833e93f0aac8573410cec838f",
-   "title": "精粤发布 B650 扩展卡 Xscale.io，提供 4 个 M.2、2.5GbE RJ-45 与 USB",
-   "summary": "IT之家 10 月 5 日消息，精粤 (JGINYUE) 今日正式发布了其基于 AMD B650 芯片组 \"Promontory 21\" 的扩展卡产品 Xscale.io。该产品共有 4 个 M.2 SSD 盘位，正面两个均为 PCIe Gen4 ×4、反面两个分别为 PCIe Gen3 ×2 和 PCIe Gen3 ",
-   "link": "https://www.ithome.com/1/009/878.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-05 21:40",
-   "ts": 1791207636
   },
   {
    "id": "0b113aa7edd3793d244aa868fcf9c342",
@@ -1807,19 +1936,6 @@
    "urgent": false,
    "fetched_at": "10-05 21:21",
    "ts": 1791206462
-  },
-  {
-   "id": "1329968ea5372365e5ab1b030ef50f09",
-   "title": "John Ternus writes post celebrating Steve Jobs on anniversary of passing",
-   "summary": "Apple CEO John Ternus, as well as former CEO Tim Cook, have shared posts in remembrance of Steve Jobs today on the 15th anniversary of his passing. Here’s what ",
-   "link": "https://9to5mac.com/2026/10/05/john-ternus-writes-post-celebrating-steve-jobs-on-anniversary-of-passing/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:13",
-   "ts": 1791206025
   },
   {
    "id": "10b370d4576e985e93280b4e9f6e660c",
@@ -1874,19 +1990,6 @@
    "ts": 1791205345
   },
   {
-   "id": "ceebcf431bfb9400834f9dec38cce542",
-   "title": "15 years after his passing, nobody is ‘The Next Steve Jobs’",
-   "summary": "Today marks 15 years since Steve Jobs passed away after a long battle with pancreatic cancer. Every year, memories come flooding back, and this one is no differ",
-   "link": "https://9to5mac.com/2026/10/05/15-years-after-his-passing-nobody-is-the-next-steve-jobs/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:00",
-   "ts": 1791205242
-  },
-  {
    "id": "94faaa609252e1045d461107a0f29e72",
    "title": "白话三国 第十回 文丑扎营延津渡",
    "summary": "本期时间轴制作: 老斧子文丑带大军回到黄河渡口为颜良复仇，这回在阵上又会遇到什么人呢？曹孟德摇人的本领还在不在？",
@@ -1911,19 +2014,6 @@
    "urgent": false,
    "fetched_at": "10-05 21:00",
    "ts": 1791205200
-  },
-  {
-   "id": "08fc08b339fff1a21048374e13ff563c",
-   "title": "Apple TV doc All of Us shows how iPads enable inclusive learning in a unique school",
-   "summary": "A new documentary available on Apple TV, All of Us, tells the story of a public elementary school that has taken a unique approach to how education works for st",
-   "link": "https://9to5mac.com/2026/10/05/apple-tv-doc-all-of-us-shows-how-ipads-enable-inclusive-learning-in-a-unique-school/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:40",
-   "ts": 1791204004
   },
   {
    "id": "c18a121b9a7cf7a7c9f9575984fdc142",
@@ -1952,19 +2042,6 @@
    "ts": 1791203700
   },
   {
-   "id": "cfaa1eb30bb75da79766bd73a8b7a917",
-   "title": "Prime Day Mac deals start early: New Mac mini $150 off, MacBook Air $200 off, much more",
-   "summary": "Just after catching AirPods Pro 3 dropping to one of the lowest prices to date, the fall Prime Day deals are starting to flood in on the latest Mac releases. We",
-   "link": "https://9to5mac.com/2026/10/05/prime-day-mac-deals-start-early-new-mac-mini-150-off-macbook-air-200-off-much-more/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:23",
-   "ts": 1791203012
-  },
-  {
    "id": "40a92f321fe7fdaa22ab24c402d6c74f",
    "title": "STAT+: Vaxcyte claims success in bid to beat Pfizer and Merck in lucrative vaccine market",
    "summary": "Vaxcyte said its experimental pneumococcal vaccine hit the primary endpoints in a Phase 3 clinical trial, setting up the biotech to compete with Pfizer and Merc",
@@ -1991,19 +2068,6 @@
    "ts": 1791202142
   },
   {
-   "id": "62d27209a8aec03e6cf539c85b2927cd",
-   "title": "TCL’s paperlike OLED phone made me more excited for the iPhone Duo",
-   "summary": "I've spent most of the last couple weeks using an otherwise unexceptional midrange Android phone with one amazing feature: a matte OLED display. That screen is ",
-   "link": "https://www.theverge.com/tech/1004079/tcl-p80-ultra-nxtpaper-matte-display-iphone-duo",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:02",
-   "ts": 1791201761
-  },
-  {
    "id": "ce52987e3cb4b1282942c1ea129c9c63",
    "title": "Could we one day vaccinate against every cancer?",
    "summary": "What science says so far about which cancers can be beat by vaccines — and which will require more creative approaches.",
@@ -2015,19 +2079,6 @@
    "urgent": false,
    "fetched_at": "10-05 20:00",
    "ts": 1791201651
-  },
-  {
-   "id": "0080b9ce745ba70d22e6c3892e54fca8",
-   "title": "Can Safeworld convince people that GenAI robots won’t hurt them?",
-   "summary": "Safeworld is building digital humans to make sure robots don't hurt the real ones.",
-   "link": "https://techcrunch.com/2026/10/05/can-safeworld-convince-people-that-gen-ai-robots-wont-hurt-them/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:00",
-   "ts": 1791201600
   },
   {
    "id": "9297a2b6221d306bff5460cf9996455f",
@@ -2047,19 +2098,6 @@
    "title": "Humphries ready to win another World title - and wants Littler in the final",
    "summary": "Luke Humphries says his World Grand Prix triumph has left him feeling ready to win a second World Championship - and hopes to face Luke Littler in the final.",
    "link": "https://www.skysports.com/darts/news/12040/13595292/luke-humphries-hoping-to-face-luke-littler-in-world-championship-final-after-ending-major-drought-at-world-grand-prix",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:00",
-   "ts": 1791201600
-  },
-  {
-   "id": "c05653a3bc8cb8f4dc68dfbdd298ed73",
-   "title": "Why Verstappen's 'special' Malaysia win was so significant",
-   "summary": "Max Verstappen says his victory at the Bahrain Grand Prix in Malaysia was a &#8220;really special and emotional moment&#8221; after Red Bull claimed their first",
-   "link": "https://www.skysports.com/f1/news/12040/13595198/max-verstappen-why-red-bull-drivers-victory-at-bahrain-grand-prix-in-malaysia-was-so-special",
    "source": "Sky Sports",
    "channel": "体育",
    "category": "资讯",
@@ -2134,22 +2172,9 @@
    "ts": 1791200340
   },
   {
-   "id": "4793d78e21b542087413e5fff90c11b5",
-   "title": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
-   "summary": "A successor project to my previous attempt at building a temporal graph database (https://news.ycombinator.com/item?id=23455516). This one builds on its predece",
-   "link": "https://github.com/project-minigraf/minigraf",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:18",
-   "ts": 1791199098
-  },
-  {
    "id": "3312239b96eedb90cb913ac372ca3f79",
    "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
-   "summary": "Article URL: https://github.com/rui314/mold/releases/tag/v3.0.0\nComments URL: https://news.ycombinator.com/item?id=49963385\nPoints: 141\n# Comments: 64",
+   "summary": "Article URL: https://github.com/rui314/mold/releases/tag/v3.0.0\nComments URL: https://news.ycombinator.com/item?id=49963385\nPoints: 167\n# Comments: 90",
    "link": "https://github.com/rui314/mold/releases/tag/v3.0.0",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2158,6 +2183,19 @@
    "urgent": false,
    "fetched_at": "10-05 19:17",
    "ts": 1791199038
+  },
+  {
+   "id": "f898c1256e38758a2ff98c4c1f835bd3",
+   "title": "Germany’s RobCo hits $1B valuation",
+   "summary": "Article URL: https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/\nComments URL: https://news.ycombinator.com/item?id=49963",
+   "link": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 19:13",
+   "ts": 1791198831
   },
   {
    "id": "52156ce365f9569eb10cebc67ed6bace",
@@ -2197,6 +2235,19 @@
    "urgent": false,
    "fetched_at": "10-05 18:54",
    "ts": 1791197680
+  },
+  {
+   "id": "cdc0640cf0c674ee2720f80f1fbc61b3",
+   "title": "Web Search API",
+   "summary": "Article URL: https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/\nComments URL: https://news.ycombinator.com/item?id=49963171",
+   "link": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:47",
+   "ts": 1791197226
   },
   {
    "id": "b2558d25d8c55278379e43035354737e",
@@ -2316,19 +2367,6 @@
    "ts": 1791189000
   },
   {
-   "id": "fdeaa6dd30b20bcd0e35f95f655d23c1",
-   "title": "Opinion: Energy drinks’ new college sports partnerships make them more dangerous than ever",
-   "summary": "“In the absence of population-based evidence, the energy drink cabal is having an easy time of it,” writes Kent Sepkowitz.",
-   "link": "https://www.statnews.com/2026/10/05/energy-drinks-public-health-college-sports-partnerships-research/?utm_campaign=rss",
-   "source": "STAT News",
-   "channel": "健康",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 16:30",
-   "ts": 1791189000
-  },
-  {
    "id": "fd6e9c68ace5f1f8462ed457afa8d812",
    "title": "WF2026首次曝光INART《影之刃零》主角魂1:1雕像",
    "summary": "在刚刚落幕的WF2026上海展会上，INART展台首次对外展出了国产武侠动作游戏《影之刃零》主角魂的1:1与1:3比例雕像。展会现场人流量巨大，这组雕像也成为展位当中的热门看点之一，实物雕像从整体呈现到细节展示，都给到场的观众带来了很强的视觉冲击。\n\n\n\n《影之刃零》3D美术负责人王琛也在个人微博放出了雕像更多的实拍照",
@@ -2407,58 +2445,6 @@
    "ts": 1791165602
   },
   {
-   "id": "5e7a279a7cd85585c3918dc1efb9d044",
-   "title": "‘What took them so long?’ This year’s medicine Nobel winner is overdue",
-   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03094-zNature’s senior biology reporter Ewen Callaway reflects on today’s prize for optogeneti",
-   "link": "https://www.nature.com/articles/d41586-026-03094-z",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-05 08:00",
-   "ts": 1791158400
-  },
-  {
-   "id": "dd04eaad30409f47d35b926f772fe5f0",
-   "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light",
-   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03091-2Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology ",
-   "link": "https://www.nature.com/articles/d41586-026-03091-2",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-05 08:00",
-   "ts": 1791158400
-  },
-  {
-   "id": "a06000fb863533e0e0a482adfd6949a5",
-   "title": "How big tech is building a military–industrial complex in the age of AI",
-   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03134-8Two books explore how warfare is being reshaped, with influence shifting from states to",
-   "link": "https://www.nature.com/articles/d41586-026-03134-8",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-05 08:00",
-   "ts": 1791158400
-  },
-  {
-   "id": "7312eacd1cd3f8f15b5b158e784c7395",
-   "title": "AI biohazard hype must not divert attention from the real risks we face now",
-   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03135-7Twenty-five years after the US anthrax attacks, fears around AI are distracting people ",
-   "link": "https://www.nature.com/articles/d41586-026-03135-7",
-   "source": "Nature",
-   "channel": "科学",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-05 08:00",
-   "ts": 1791158400
-  },
-  {
    "id": "260d39a8ab112b1b9c041dc72ae086e7",
    "title": "Weekly poll: are you interested in the vivo X Fold6?",
    "summary": "The vivo X Fold6 launched on July 1 in China and is now starting its worldwide tour – it’s already available in Europe and is expected to launch in India next w",
@@ -2470,19 +2456,6 @@
    "urgent": false,
    "fetched_at": "10-05 05:31",
    "ts": 1791149462
-  },
-  {
-   "id": "7e35cbc7b690a7993342a00d9e6210ce",
-   "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
-   "summary": "AI slop seems to be overwhelming bug bounty programs.",
-   "link": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 04:31",
-   "ts": 1791145867
   },
   {
    "id": "de00533785426c407cf26dcefebc3fb0",
@@ -2613,6 +2586,32 @@
    "urgent": false,
    "fetched_at": "10-04 22:41",
    "ts": 1791124884
+  },
+  {
+   "id": "f6ad535a0b4d45120b04e48abfe760e3",
+   "title": "How to Install Python on Your System: A Guide",
+   "summary": "Learn how to install Python on Windows, macOS, and Linux, check your version, and pick the best installation method for your system.",
+   "link": "https://realpython.com/installing-python/",
+   "source": "Real Python",
+   "channel": "教程",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-04 22:00",
+   "ts": 1791122400
+  },
+  {
+   "id": "77f2f4e1bb3ec5552a2063cb48ae4f19",
+   "title": "Strings and Character Data in Python",
+   "summary": "Work with Python strings using a rich set of operators and functions: string literals, the str() function, and the methods you'll use most.",
+   "link": "https://realpython.com/python-strings/",
+   "source": "Real Python",
+   "channel": "教程",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-04 22:00",
+   "ts": 1791122400
   }
  ]
 }
