@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06 01:39",
+ "updated_at": "2026-10-06 02:05",
  "total": 265,
  "channels": [
   "AI·科技",
@@ -14,6 +14,201 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "5f1bf97a43aeb280a9f62ebd772baeac",
+   "title": "Littler beaten in semi-finals of World Youth Championship",
+   "summary": "Luke Littler lost to Cam Crabtree in the semi-finals of the World Youth Championship.",
+   "link": "https://www.skysports.com/darts/news/12040/13595523/luke-littler-beaten-by-cam-crabtree-in-semi-finals-of-world-youth-championship",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:21",
+   "ts": 1791224460
+  },
+  {
+   "id": "ea4c0a22309475aff8064dcf88807dd2",
+   "title": "Versailles Gives ‘Marie Antoinette’ (and Sofia Coppola) the Royal Treatment 20 Years Later",
+   "summary": "A lavish new exhibition at the Sun King’s château pays tribute the divisive classic that influenced everything from female storytelling to pastry design.",
+   "link": "https://www.hollywoodreporter.com/lifestyle/arts/versailles-marie-antoinette-sofia-coppola-exhibition-1236722552/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:05",
+   "ts": 1791223530
+  },
+  {
+   "id": "f95ffb939b475c4f94b7609df2f8660b",
+   "title": "Velotric Summit 2 mixed-terrain e-bike first discount, Lectric XPeak 2 off-road e-bike new $1,299 low, Segway e-bikes $2,200 savings, more",
+   "summary": "We’ve got a bunch of official Prime Day sales packed into today’s weekly Green Deals kickoff, starting with the Velotric Fall Prime Day Sale with up to $550 e-b",
+   "link": "https://electrek.co/2026/10/05/velotric-summit-2-mixed-terrain-e-bike-lectric-xpeak-2-e-bike-segway-e-bikes-more/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:02",
+   "ts": 1791223369
+  },
+  {
+   "id": "bbeabbd79762dae5e7ec74d531903986",
+   "title": "Brundle on Bahrain GP software 'chaos' and how Sepang surface tricked teams",
+   "summary": "The Bahrain GP in Malaysia was one of the crazier races I've seen in F1. Eventually, this collaboration of lateral thinking which ensured a Grand Prix took plac",
+   "link": "https://www.skysports.com/f1/news/12040/13595289/martin-brundles-verdict-on-bahrain-gp-software-chaos-and-how-track-tricked-ferrari-and-mclaren-into-wrong-tyre-choice",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:00",
+   "ts": 1791223200
+  },
+  {
+   "id": "3267f129ca1504274d121c5deb293a71",
+   "title": "‘Tulsa King’ Renewed for New York-Set Season 5 as Four Join Cast",
+   "summary": "&#8220;Tulsa King&#8221; is heading to New York. The Sylvester Stallone series has been renewed for a fifth season at Paramount+ as the production migrates from",
+   "link": "https://variety.com/2026/tv/news/tulsa-king-renewed-season-5-new-york-cast-1236899136/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:00",
+   "ts": 1791223200
+  },
+  {
+   "id": "33c573f543b346a86335eb418a10cc4f",
+   "title": "‘Imperfect Women’ Renewed for Season 2 at Apple TV With Kerry Washington Returning",
+   "summary": "&#8220;Imperfect Women&#8221; has been renewed for Season 2 at Apple TV, Variety has learned. Season 1 star Kerry Washington will return to lead the second seas",
+   "link": "https://variety.com/2026/tv/news/imperfect-women-renewed-season-2-apple-tv-kerry-washington-1236899254/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:00",
+   "ts": 1791223200
+  },
+  {
+   "id": "626c1fa44e4c0e8bce323fbdb9c87b95",
+   "title": "‘Tulsa King’ Renewed for Season 5, Moving to New York City",
+   "summary": "'Tulsa King' becomes the first Taylor Sheridan show to shoot a season in NYC, as Kathy Hochul's administration takes a victory lap. Also, Scarlet Rose Stallone ",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/tulsa-king-season-5-renewed-new-york-city-1236722299/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:00",
+   "ts": 1791223200
+  },
+  {
+   "id": "5f6e60b0a72d5612b88f986354128377",
+   "title": "‘Imperfect Women’ Renewed for Second Season at Apple TV",
+   "summary": "Kerry Washington will reprise her role in the no longer limited series, and Justin Hillian joins as co-showrunner with Annie Weisman.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/imperfect-women-renewed-season-2-apple-tv-1236722392/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 02:00",
+   "ts": 1791223200
+  },
+  {
+   "id": "1b74b3bf446e83c2954baed1af844bad",
+   "title": "I Was Humiliated, Spooned and Kissed on the Lips at L.A.’s Strangest Sold-Out Show",
+   "summary": "Candle House Collective’s buzzy ‘The Pineapple’ puts one audience member at a time through 60 minutes of disorientation, humiliation and startling intimacy. The",
+   "link": "https://www.hollywoodreporter.com/lifestyle/arts/pineapple-humiliated-spooned-kissed-candle-house-theater-1236722319/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:58",
+   "ts": 1791223111
+  },
+  {
+   "id": "27241a09ac8855816d1f41cdb12287fc",
+   "title": "Iberseries Takeaways: Woody Allen on His New Film, Los Javis Pact With HBO Max, the Tales of Cachou the Brown Bear and More",
+   "summary": "When the going gets tough, the tough get going to places like Iberseries &#38; Platino Industria. Its 6th edition, also a pre-Mipcom warm-up, ran over Sept.29-O",
+   "link": "https://variety.com/2026/tv/global/iberseries-takes-woody-allen-los-javis-and-hbo-max-and-more-1236899264/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:54",
+   "ts": 1791222874
+  },
+  {
+   "id": "afcc19693eb7afc5061aa5988b385414",
+   "title": "Inside JJ Gabriel's Man Utd future and why he was in first-team squad photo",
+   "summary": "JJ Gabriel is still expected to leave Manchester United despite featuring in the club's squad photo for the 2026/27 season.",
+   "link": "https://www.skysports.com/football/news/12040/13595519/jj-gabriel-man-utd-prodigy-still-expected-to-leave-despite-first-team-photo-inclusion-this-is-how-it-unfolded",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:52",
+   "ts": 1791222720
+  },
+  {
+   "id": "373fb0e295b05bedd1d84984b682e0ef",
+   "title": "Forget booking restaurant reservations — Gemini could soon call your mom for you",
+   "summary": "Gemini could expand from annoying businesses on the phone to annoying your friends.",
+   "link": "https://www.androidauthority.com/gemini-call-for-me-personal-contacts-3719183/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:45",
+   "ts": 1791222358
+  },
+  {
+   "id": "7ac5b16a683a9fd1b06de503b3aff299",
+   "title": "Fantasy football Week 4 fallout: Tucker Kraft rises while the Jeremiyah Love train comes to a screeching halt",
+   "summary": "Tucker Kraft solidifies his starting TE status and Rhamondre Stevenson locks down key backfield touches in New England",
+   "link": "https://www.cbssports.com/fantasy/football/news/fantasy-football-week-4-fallout-tucker-kraft-rises/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:42",
+   "ts": 1791222134
+  },
+  {
+   "id": "e174d5f10047d4e6acc2d4488cb9ae1f",
+   "title": "Samsung makes its Galaxy A series devices more expensive in the US too",
+   "summary": "Last week, Samsung hiked the prices of its high-end devices in the US (along with Europe and India), and today the company has raised the prices of its low-end ",
+   "link": "https://www.gsmarena.com/samsung_makes_its_galaxy_a_series_devices_more_expensive_in_the_us_too-news-74909.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:39",
+   "ts": 1791221942
+  },
+  {
+   "id": "fd9b71d49078c1248dde67603390177a",
+   "title": "Big Ten expert picks: Projected order of finish, preseason predictions, top players to watch, starting lineups",
+   "summary": "How many teams will receive bids to the NCAA Tournament from the Big Ten in 2026?",
+   "link": "https://www.cbssports.com/college-basketball/news/big-ten-expert-picks-projected-order-of-finish-preseason-predictions-top-players-to-watch-starting-lineups/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:37",
+   "ts": 1791221844
+  },
   {
    "id": "b662dbc4af340ed5aab53e200bc547fb",
    "title": "‘The Batman 2’ Pauses Production as Director Matt Reeves Steps Away for a ‘Family Matter’",
@@ -93,6 +288,19 @@
    "ts": 1791221563
   },
   {
+   "id": "0098eef23a9e6143e368ca6ac310fdad",
+   "title": "Kingdom Come: Deliverance Dev Calls Out RPGs 'for Teenagers' That Just Focus on 'Power Fantasy'",
+   "summary": "Kingdom Come: Deliverance studio co-founder Martin Klima is \"bored and tired\" of RPGs that are just \"power fantasy\" trips \"for teenagers.\"",
+   "link": "https://www.ign.com/articles/kingdom-come-deliverance-dev-calls-out-rpgs-for-teenagers-that-just-focus-on-power-fantasy",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:32",
+   "ts": 1791221536
+  },
+  {
    "id": "d48bb19d2cd165c6cc3733b2385d1aef",
    "title": "AirPods Pro 3 vs AirPods Pro 2: Three reasons to upgrade",
    "summary": "Apple released AirPods Pro 3 last year, bringing several big updates to its in-ear headphones. If you’re currently using AirPods Pro 2, there are three key reas",
@@ -104,6 +312,19 @@
    "urgent": false,
    "fetched_at": "10-06 01:31",
    "ts": 1791221501
+  },
+  {
+   "id": "f3cdf633405e6bd0d9f4f409688a0785",
+   "title": "Golazo 10/5/2026",
+   "summary": "Elsewhere on the Golazo Starting XI newsletter",
+   "link": "https://www.cbssports.com/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:31",
+   "ts": 1791221489
   },
   {
    "id": "fa2cb3d7d544a5130167e50100f15a40",
@@ -130,6 +351,19 @@
    "urgent": false,
    "fetched_at": "10-06 01:30",
    "ts": 1791221400
+  },
+  {
+   "id": "0894ba24b2b81752d088c2b1beff82ec",
+   "title": "Gears of War: E-Day Runs Smoothly on Xbox Series S By Using SSD as RAM",
+   "summary": "The Coalition was able to work some magic on the Xbox Series S by tapping into the SSD to increase performance.",
+   "link": "https://www.ign.com/articles/gears-of-war-e-day-runs-smoothly-on-xbox-series-s-by-using-ssd-as-ram",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 01:29",
+   "ts": 1791221382
   },
   {
    "id": "99b92ab69f62f2dec54f89b62b4a9b48",
@@ -197,17 +431,17 @@
    "ts": 1791220676
   },
   {
-   "id": "b4b12f1ed3d68c55ab48605d751d35bf",
-   "title": "Oscars: Pakistan Picks ‘Hanging by a Wire’ for Best International Feature Film Race",
-   "summary": "Mohammed ali Naqvi’s film about an August 2023 cable car emergency is the first documentary selected as the country’s entry at the Academy Awards.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/pakistan-hanging-by-a-wire-oscars-international-feature-1236722466/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
+   "id": "e18a4595563cd7bc2ec1f85b2bdf9b3d",
+   "title": "The Batman Part 2 Halts Production as Matt Reeves Steps Away for Personal Reasons",
+   "summary": "Production on The Batman Part 2 has come to an unexpected halt as director Matt Reeves steps away for personal reasons.",
+   "link": "https://www.ign.com/articles/the-batman-part-2-halts-production-as-matt-reeves-steps-away-for-personal-reasons",
+   "source": "IGN",
+   "channel": "游戏",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-06 01:15",
-   "ts": 1791220504
+   "fetched_at": "10-06 01:17",
+   "ts": 1791220659
   },
   {
    "id": "b6bdcc467340607369e99d792a73831a",
@@ -234,19 +468,6 @@
    "urgent": false,
    "fetched_at": "10-06 01:11",
    "ts": 1791220312
-  },
-  {
-   "id": "3b9ffbee42d4af2b58b2d0c97724a1eb",
-   "title": "Karl-Anthony Towns says extension negotiations with Knicks 'don't look good' as two sides remain apart on deal",
-   "summary": "Towns expected a contract to be quickly worked out easily after his playoff showcase, but it's now clear that will not come before the season begins",
-   "link": "https://www.cbssports.com/nba/news/karl-anthony-towns-knicks-extension-negotiations/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 01:08",
-   "ts": 1791220115
   },
   {
    "id": "63e176b3c0593511517bd5ca5338077f",
@@ -286,19 +507,6 @@
    "urgent": false,
    "fetched_at": "10-06 01:03",
    "ts": 1791219838
-  },
-  {
-   "id": "a7efc2f8dacafa2e00374bd2d0cf2652",
-   "title": "SCAD Savannah Film Fest: ‘Ink’ Helmer Danny Boyle Will Receive Maverick Director Award, Guest on Live Episode of THR’s ‘Awards Chatter’ Pod",
-   "summary": "The Oscar-winning filmmaker, best known for 'Trainspotting' and 'Slumdog Millionaire,' will be feted on Oct. 25.",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/savannah-film-fest-danny-boyle-awards-chatter-pod-1236721956/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 01:03",
-   "ts": 1791219819
   },
   {
    "id": "482d3f02c441dfec4f57567f2521e806",
@@ -366,32 +574,6 @@
    "ts": 1791219600
   },
   {
-   "id": "1eebe94fe2cdf03e358a1e53403c2564",
-   "title": "Marisa Tomei and Rosanna Arquette to Star in ‘This Is Crazy’ NAMI Benefit in Memory of Chris Huvane",
-   "summary": "Marisa Tomei and Rosanna Arquette will headline the West Coast debut of “This Is Crazy.” The one-night-only performance of the V (formerly Eve Ensler) play bene",
-   "link": "https://variety.com/2026/film/columns/marisa-tomei-rosanna-arquette-this-is-crazy-nami-chris-huvane-1236899152/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 01:00",
-   "ts": 1791219600
-  },
-  {
-   "id": "bcd8017dd2f8c3a4be8f5d15db068daf",
-   "title": "Marisa Tomei, Rob Morrow, Rosanna Arquette, Lois Smith and Rudy Pankow to Headline ‘This is Crazy!’ Benefit for NAMI in Honor of Chris Huvane",
-   "summary": "The play, mounted as a benefit production for NAMI, comes from V, the Tony Award-winning playwright formerly known as Eve Ensler, as a tribute to late talent ma",
-   "link": "https://www.hollywoodreporter.com/lifestyle/arts/marisa-tomei-rudy-pankow-headline-this-is-crazy-play-1236721438/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 01:00",
-   "ts": 1791219600
-  },
-  {
    "id": "ef231ce8e672304a5ee9fd2bfc25d8f3",
    "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
    "summary": "An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicid",
@@ -403,32 +585,6 @@
    "urgent": false,
    "fetched_at": "10-06 00:55",
    "ts": 1791219342
-  },
-  {
-   "id": "9792bbb5e248cb3bf2dae0b3e5c5e196",
-   "title": "Patriots' Mike Vrabel fires back at Bills' C.J. Gardner-Johnson for jab at Efton Chism III",
-   "summary": "Gardner-Johnson called Chism a 'practice squad player' and suggested the Patriots receiver could not replicate his spectacular game-winning catch",
-   "link": "https://www.cbssports.com/nfl/news/patriots-mike-vrabel-efton-chism-c-j-gardner-johnson/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:55",
-   "ts": 1791219300
-  },
-  {
-   "id": "cd796f92310c0e4cf6f6ebe407f200fd",
-   "title": "Gaza Documentary ‘NAZA’ Sparks IDF Counter Film to Rebut Venice Winner",
-   "summary": "‘NAZA: The Real Story’ by Israeli director Roi Danino is looking to pull the narrative back from fellow filmmakers Yuval Abraham and Rachel Szor and producer Jo",
-   "link": "https://www.hollywoodreporter.com/movies/movie-news/naza-sparks-idf-counter-film-1236722408/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:54",
-   "ts": 1791219296
   },
   {
    "id": "90748bd59b1298ab80399dec9cd0e006",
@@ -536,7 +692,7 @@
   },
   {
    "id": "d4db366c1fbc57be422d4348987bfc56",
-   "title": "Legendary Japanese Solid Snake Actor Wants 'New Metal Gear Game', But 'Won't Do One Without Kojima'",
+   "title": "Legendary Japanese Solid Snake Actor Wants 'New Metal Gear Game,' But 'Won't Do One Without Kojima'",
    "summary": "Solid Snake's legendary Japanese actor is keen to return for a new game, though feels conflicted about any fresh entry without the involvement of creator Hideo ",
    "link": "https://www.ign.com/articles/legendary-japanese-solid-snake-actor-wants-new-metal-gear-game-but-wont-do-one-without-kojima",
    "source": "IGN",
@@ -559,19 +715,6 @@
    "urgent": false,
    "fetched_at": "10-06 00:41",
    "ts": 1791218507
-  },
-  {
-   "id": "74205deff0edd902c3b09326a3574e2b",
-   "title": "Banijay America Confirms Ben Samek as CEO, Post-Merger With All3Media",
-   "summary": "As expected, Ben Samek has been named CEO of Banijay America, the combined structure created following Banijay Entertainment’s recent merger with All3Media. Sam",
-   "link": "https://variety.com/2026/tv/news/banijay-america-confirms-ben-samek-ceo-merger-all3media-1236899206/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:40",
-   "ts": 1791218448
   },
   {
    "id": "8f94dd1479d005fac79182d58f4418eb",
@@ -602,7 +745,7 @@
   {
    "id": "14de129e4e5d467badf6b239951b6d5e",
    "title": "God Packs are Officially Coming to Magic: The Gathering",
-   "summary": "Magic: The Gathering booster packs have gone through a lot of changes in the last decade, some of which have been awful. But Wizards of the Coast are introducin",
+   "summary": "Magic: The Gathering booster packs have gone through a lot of changes in the last decade, some of which have been awful. But Wizards of the Coast is introducing",
    "link": "https://www.ign.com/articles/god-packs-are-officially-coming-to-magic-the-gathering",
    "source": "IGN",
    "channel": "游戏",
@@ -611,19 +754,6 @@
    "urgent": false,
    "fetched_at": "10-06 00:35",
    "ts": 1791218100
-  },
-  {
-   "id": "eb60d2f0dcc14a544fcec632f390d02f",
-   "title": "SportsLine Newsletter Monday, October 5, 2026",
-   "summary": "Today's best bets + Parlay of the Day + White Sox-Guardians Game 2 + Falcons-Saints MNF",
-   "link": "https://www.cbssports.com/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:34",
-   "ts": 1791218044
   },
   {
    "id": "cc99d1ebd85216ac711b779e8714ea31",
@@ -639,19 +769,6 @@
    "ts": 1791217800
   },
   {
-   "id": "fa23a8133409a1aba1cc8fa3e56ce157",
-   "title": "Explained: What other PL clubs expect to happen after Man City rule breaches",
-   "summary": "Kaveh Solhekol explains how the other Premier League clubs are reacting to Manchester City's rule breaches ahead of the appeal process",
-   "link": "https://www.skysports.com/watch/video/13595484/manchester-city-what-do-other-pl-clubs-expect-to-happen-after-man-city-rule-breaches",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:26",
-   "ts": 1791217560
-  },
-  {
    "id": "b83949d5deea71d58a05f9e3a7114e54",
    "title": "Classic Board Games Are Dropping to All-Time Low Prices Ahead of Amazon's Prime Day Sale",
    "summary": "",
@@ -663,19 +780,6 @@
    "urgent": false,
    "fetched_at": "10-06 00:23",
    "ts": 1791217416
-  },
-  {
-   "id": "d9b16a6398aac5aa5122e7b7fc031b8a",
-   "title": "Sebastian Stan Challenges Audiences to Question Their Own ‘Belief Systems’ at ‘Fjord’ Premiere: ‘There’s More to Just Simply Being Right’",
-   "summary": "Sebastian Stan stars in “Fjord” as a conservative Romanian father who faces religious discrimination after moving with his family to his wife’s (Renate Reinsve)",
-   "link": "https://variety.com/2026/film/news/sebastian-stan-fjord-question-belief-systems-nyff-1236899165/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:23",
-   "ts": 1791217391
   },
   {
    "id": "7b0fba4339908144189a6f92b889fe27",
@@ -795,19 +899,6 @@
    "ts": 1791216000
   },
   {
-   "id": "62f95f40827fea091227fe6c571ac892",
-   "title": "Why Fizz Is a Great Option for Phone Service Across Canada",
-   "summary": "",
-   "link": "https://www.ign.com/articles/why-fizz-is-a-great-option-for-phone-service-across-canada",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 00:00",
-   "ts": 1791216000
-  },
-  {
    "id": "35abda6c7065be65b6990df564e54246",
    "title": "OpenAI 将在欧盟为 ChatGPT 和 Codex 文本输出添加隐形水印",
    "summary": "IT之家 10 月 5 日消息，OpenAI 今日宣布，为配合《欧盟人工智能法案》的内容透明要求，未来几周将在欧盟地区符合条件的 ChatGPT 和 Codex 文本输出中加入机器可识别的隐形水印。据介绍，文本水印技术名为 textGrain（文本粒水印），会在模型选词过程中嵌入不可见的统计信号。检测器通过识别该信号，",
@@ -832,32 +923,6 @@
    "urgent": false,
    "fetched_at": "10-05 23:57",
    "ts": 1791215826
-  },
-  {
-   "id": "0cfd94df06b578d44e6d95835549c563",
-   "title": "NBA 2K25 Is Getting Delisted After Just 2 Years, and Single Player Story Mode Will Become Unplayable",
-   "summary": "NBA 2K25 is being delisted after just two years, and players will soon no longer be able to play the game's single player story mode.",
-   "link": "https://www.ign.com/articles/nba-2k25-is-getting-delisted-after-just-2-years-and-single-player-story-mode-will-become-unplayable",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:46",
-   "ts": 1791215214
-  },
-  {
-   "id": "df5c90b1356126880799d4a667fabde7",
-   "title": "Fortnite Has Updated In-Game Art After Fans Discovered a Google Gemini AI Image Watermark",
-   "summary": "Fortnite has quietly replaced a piece of in-game artwork after fans spotted its original version contained a Google Gemini AI watermark.",
-   "link": "https://www.ign.com/articles/fortnite-has-updated-in-game-art-after-fans-discovered-a-google-gemini-ai-image-watermark",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:43",
-   "ts": 1791215035
   },
   {
    "id": "07089349342e20e74e52a23a7eaae190",
@@ -888,7 +953,7 @@
   {
    "id": "ef9f5b1fac4c6685cdc3c3d825972f07",
    "title": "Our approach to EU text provenance rules",
-   "summary": "Article URL: https://openai.com/index/eu-text-provenance/\nComments URL: https://news.ycombinator.com/item?id=49966293\nPoints: 12\n# Comments: 0",
+   "summary": "Article URL: https://openai.com/index/eu-text-provenance/\nComments URL: https://news.ycombinator.com/item?id=49966293\nPoints: 27\n# Comments: 3",
    "link": "https://openai.com/index/eu-text-provenance/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -940,7 +1005,7 @@
   {
    "id": "dd7471b0aeb45d5a072ab7618bb4d18b",
    "title": "The future of independence is interdependence",
-   "summary": "Article URL: https://onlys.ky/independence-is-interdependence/\nComments URL: https://news.ycombinator.com/item?id=49966163\nPoints: 26\n# Comments: 17",
+   "summary": "Article URL: https://onlys.ky/independence-is-interdependence/\nComments URL: https://news.ycombinator.com/item?id=49966163\nPoints: 41\n# Comments: 22",
    "link": "https://onlys.ky/independence-is-interdependence/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -962,19 +1027,6 @@
    "urgent": false,
    "fetched_at": "10-05 23:27",
    "ts": 1791214020
-  },
-  {
-   "id": "2d689976c10a4bff1af4e835351bbf4f",
-   "title": "Extraordinary moment Medvedev disqualified after hitting spectator with ball",
-   "summary": "Daniil Medvedev was defaulted against Novak Djokovic during the China Open after hitting a ball at a spectator.",
-   "link": "https://www.skysports.com/watch/video/13595449/daniil-medvedev-defaulted-extraordinary-moment-medvedev-disqualified-after-hitting-spectator",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:24",
-   "ts": 1791213840
   },
   {
    "id": "76c30a6a33b7697ddbe85da7f9c53b82",
@@ -1018,7 +1070,7 @@
   {
    "id": "2792218ac71de41470524fc80453d942",
    "title": "Borland Turbo Basic",
-   "summary": "Article URL: https://dosdays.co.uk/topics/Software/borland_turbo_basic.php\nComments URL: https://news.ycombinator.com/item?id=49965894\nPoints: 84\n# Comments: 47",
+   "summary": "Article URL: https://dosdays.co.uk/topics/Software/borland_turbo_basic.php\nComments URL: https://news.ycombinator.com/item?id=49965894\nPoints: 87\n# Comments: 49",
    "link": "https://dosdays.co.uk/topics/Software/borland_turbo_basic.php",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1044,7 +1096,7 @@
   {
    "id": "cc21d3e6313ad15f0f1315de505dc661",
    "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
-   "summary": "Article URL: https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election\nComments URL: https://news.ycombinator.com/item?id=49965833\nPoints: 17\n# ",
+   "summary": "Article URL: https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election\nComments URL: https://news.ycombinator.com/item?id=49965833\nPoints: 34\n# ",
    "link": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1222,19 +1274,6 @@
    "urgent": false,
    "fetched_at": "10-05 22:41",
    "ts": 1791211260
-  },
-  {
-   "id": "d256a2a1e0ee4c20355bd170dc10638a",
-   "title": "Bottas cycling 250 miles from Sepang to Marina Bay ahead of Singapore GP",
-   "summary": "Cadillac's Valtteri Bottas is cycling 250 miles from Sepang to Marina Bay ahead of Singapore GP.",
-   "link": "https://www.skysports.com/watch/video/13595420/formula-1-valtteri-bottas-cycling-250-miles-from-sepang-to-marina-bay-ahead-of-singapore-gp",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 22:37",
-   "ts": 1791211020
   },
   {
    "id": "781968f8d41e2e4752d061888fe163d7",
@@ -1421,7 +1460,7 @@
   {
    "id": "7243e4d735a6a3231371fac465231860",
    "title": "Making a GTK application in Haskell, part 1",
-   "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/\nComments URL: https://news.ycombinator.com/item?id=49965308\nPoints: 55\n# Comment",
+   "summary": "Article URL: https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/\nComments URL: https://news.ycombinator.com/item?id=49965308\nPoints: 72\n# Comment",
    "link": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1499,7 +1538,7 @@
   {
    "id": "757d6176735651e4dc12268735ccca8e",
    "title": "The designer lamps in my house",
-   "summary": "Article URL: https://arslan.io/2026/10/05/the-lamps-in-my-house/\nComments URL: https://news.ycombinator.com/item?id=49965152\nPoints: 4\n# Comments: 1",
+   "summary": "Article URL: https://arslan.io/2026/10/05/the-lamps-in-my-house/\nComments URL: https://news.ycombinator.com/item?id=49965152\nPoints: 18\n# Comments: 6",
    "link": "https://arslan.io/2026/10/05/the-lamps-in-my-house/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1523,6 +1562,19 @@
    "ts": 1791209419
   },
   {
+   "id": "b200c17c112c7f1e095bea95ab92c588",
+   "title": "Linux containers in 500 lines of code",
+   "summary": "Article URL: https://blog.lizzie.io/linux-containers-in-500-loc.html\nComments URL: https://news.ycombinator.com/item?id=49965118\nPoints: 10\n# Comments: 1",
+   "link": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:09",
+   "ts": 1791209355
+  },
+  {
    "id": "c44b253556dbf4f6a58b8a3d9e8c6ca7",
    "title": "卡普空开源 RE:Dox 结构化数据引擎，JSON 反序列化最高提速 2.84 倍",
    "summary": "IT之家 10 月 5 日消息，卡普空宣布，将旗下最新的数据处理及序列化基础库“RE:Dox”以开源软件（OSS）形式公开。该项目是卡普空次世代游戏引擎计划 REX（RE neXt ENGINE）的基础技术之一，开发者可以自由使用。卡普空早在 2023 年 10 月便公布了 REX 引擎计划，目标是针对 RE ENGI",
@@ -1538,7 +1590,7 @@
   {
    "id": "5116a159e846f1c968ec92897323663e",
    "title": "Picard 3.0",
-   "summary": "Article URL: https://blog.metabrainz.org/2026/10/04/picard-3-0-released/\nComments URL: https://news.ycombinator.com/item?id=49965047\nPoints: 63\n# Comments: 28",
+   "summary": "Article URL: https://blog.metabrainz.org/2026/10/04/picard-3-0-released/\nComments URL: https://news.ycombinator.com/item?id=49965047\nPoints: 72\n# Comments: 31",
    "link": "https://blog.metabrainz.org/2026/10/04/picard-3-0-released/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1861,19 +1913,6 @@
    "ts": 1791205200
   },
   {
-   "id": "7d525eca9a206f3a50c2311a8c608fd3",
-   "title": "Galaxy S27 Ultra colors leak, and Samsung could be breaking up with purple (Update: Special color)",
-   "summary": "Samsung may be picking a color it hasn't used directly on the Ultra for ages.",
-   "link": "https://www.androidauthority.com/galaxy-s27-ultra-colors-leak-3719062/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:50",
-   "ts": 1791204645
-  },
-  {
    "id": "08fc08b339fff1a21048374e13ff563c",
    "title": "Apple TV doc All of Us shows how iPads enable inclusive learning in a unique school",
    "summary": "A new documentary available on Apple TV, All of Us, tells the story of a public elementary school that has taken a unique approach to how education works for st",
@@ -2110,7 +2149,7 @@
   {
    "id": "3312239b96eedb90cb913ac372ca3f79",
    "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
-   "summary": "Article URL: https://github.com/rui314/mold/releases/tag/v3.0.0\nComments URL: https://news.ycombinator.com/item?id=49963385\nPoints: 118\n# Comments: 50",
+   "summary": "Article URL: https://github.com/rui314/mold/releases/tag/v3.0.0\nComments URL: https://news.ycombinator.com/item?id=49963385\nPoints: 141\n# Comments: 64",
    "link": "https://github.com/rui314/mold/releases/tag/v3.0.0",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2119,19 +2158,6 @@
    "urgent": false,
    "fetched_at": "10-05 19:17",
    "ts": 1791199038
-  },
-  {
-   "id": "f898c1256e38758a2ff98c4c1f835bd3",
-   "title": "Germany’s RobCo hits $1B valuation",
-   "summary": "Article URL: https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/\nComments URL: https://news.ycombinator.com/item?id=49963",
-   "link": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:13",
-   "ts": 1791198831
   },
   {
    "id": "52156ce365f9569eb10cebc67ed6bace",
@@ -2395,7 +2421,7 @@
   },
   {
    "id": "dd04eaad30409f47d35b926f772fe5f0",
-   "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light: live updates",
+   "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light",
    "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03091-2Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology ",
    "link": "https://www.nature.com/articles/d41586-026-03091-2",
    "source": "Nature",
@@ -2457,19 +2483,6 @@
    "urgent": false,
    "fetched_at": "10-05 04:31",
    "ts": 1791145867
-  },
-  {
-   "id": "45a566f2607bf005247a52bd2e7ab260",
-   "title": "Deals: here's how to avoid the Galaxy S26 series price hike",
-   "summary": "In case you missed it, Samsung increased the Galaxy S26 prices globally – in the US, they are $100 higher than they were at launch seven months ago. And even ba",
-   "link": "https://www.gsmarena.com/deals_heres_how_to_avoid_the_galaxy_s26_series_price_hike-news-74871.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 02:31",
-   "ts": 1791138661
   },
   {
    "id": "de00533785426c407cf26dcefebc3fb0",
@@ -2600,19 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-04 22:41",
    "ts": 1791124884
-  },
-  {
-   "id": "f6ad535a0b4d45120b04e48abfe760e3",
-   "title": "How to Install Python on Your System: A Guide",
-   "summary": "Learn how to install Python on Windows, macOS, and Linux, check your version, and pick the best installation method for your system.",
-   "link": "https://realpython.com/installing-python/",
-   "source": "Real Python",
-   "channel": "教程",
-   "category": "教程",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 22:00",
-   "ts": 1791122400
   }
  ]
 }
