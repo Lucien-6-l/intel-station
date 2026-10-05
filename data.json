@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05 16:05",
+ "updated_at": "2026-10-05 16:42",
  "total": 258,
  "channels": [
   "AI·科技",
@@ -15,9 +15,22 @@
  ],
  "items": [
   {
-   "id": "b6248608bfccb8d15957838659306cb4",
-   "title": "McDermott names England World Cup squad",
-   "summary": "Brian McDermott has named his 23-player England squad for the 2026 Rugby League World Cup and confirmed that Leeds Rhinos star Jake Connor has been omitted from",
+   "id": "f9e57f0369390b4e18863abf411e5b61",
+   "title": "Scott withdraws from England and could miss 'several weeks'",
+   "summary": "Alex Scott is withdrawing from the England squad after picking up a tendon injury in the 7-0 win over Croatia.",
+   "link": "https://www.skysports.com/football/news/12040/13595264/alex-scott-bournemouth-midfielder-withdraws-from-england-duty-and-could-miss-several-weeks-with-tendon-injury",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:16",
+   "ts": 1791191760
+  },
+  {
+   "id": "bb7fd934980af39eddaa51d7453526b7",
+   "title": "Connor out, Lewis in - England's World Cup squad confirmed",
+   "summary": "Brian McDermott has named his 23-player England squad for the 2026 Rugby League World Cup, with Mikey Lewis selected ahead of Jake Connor.",
    "link": "https://www.skysports.com/rugby-league/news/12040/13595250/rugby-league-world-cup-2026-england-coach-brian-mcdermott-names-23-player-squad-as-leeds-star-jake-connor-misses-out",
    "source": "Sky Sports",
    "channel": "体育",
@@ -26,6 +39,123 @@
    "urgent": false,
    "fetched_at": "10-05 17:00",
    "ts": 1791190800
+  },
+  {
+   "id": "b5a093cfd23e3f70729f3b7d016924cc",
+   "title": "台电推出 M60 平板电脑：搭 12 英寸 2K 面板、紫光展锐 T7250 处理器，899 元",
+   "summary": "IT之家 10 月 5 日消息，台电现已在京东上架一款 M60 平板电脑，该机配备一块 12 英寸 2K 面板，定价为 899 元，部分地区国补后低至 755.65 元。京东台电 M60 平板电脑 899 元直达链接该机使用冰川蓝配色，正面配备一块 2000x1200 分辨率 IPS LCD 面板，匹配 5Mp 自拍摄",
+   "link": "https://www.ithome.com/1/009/842.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 16:40",
+   "ts": 1791189614
+  },
+  {
+   "id": "b63b4b5b8231331089d2f9f65072a2de",
+   "title": "‘The Social Reckoning’ Is an Even Bigger Burn on Mark Zuckerberg Than You Think",
+   "summary": "Aaron Sorkin's film takes on a sitting mogul in a way Hollywood rarely attempts",
+   "link": "https://www.hollywoodreporter.com/business/digital/social-reckoning-mark-zuckerberg-villain-jeremy-theaters-1236722195/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 16:31",
+   "ts": 1791189101
+  },
+  {
+   "id": "d1fd7701233adbd742e2b0a90506fd35",
+   "title": "倍思 MC2 NC 降噪耳夹耳机发售：12mm 动圈、-50dB 降噪，783 元（国补后 598 元）",
+   "summary": "IT之家 10 月 5 日消息，倍思旗下 MC2 NC 降噪耳夹耳机现已在京东发售，定价为 783 元，部分地区国补后低至 598 元。京东倍思 MC2 NC 蓝牙耳黑 783 元点此访问该耳机拥有 IP67 认证，提供星际黑、星月米两种配色，其采用超长宽弧 C 桥与单耳 4 点承托设计，可减少 90% 耳部受力。单耳",
+   "link": "https://www.ithome.com/1/009/841.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 16:31",
+   "ts": 1791189091
+  },
+  {
+   "id": "baf433efda20807aad92c0932271ff51",
+   "title": "交警提醒千万不能把“智驾”当成“代驾”，一男子被吊销驾驶证",
+   "summary": "IT之家 10 月 5 日消息，据央视新闻今日报道，假日期间，亲朋好友间的聚会增多，交管部门提醒广大驾驶人，开车不喝酒，喝酒不开车。如今，汽车的智能辅助驾驶功能越来越普及，部分车主可能会有“开启智驾后，不需要驾驶人干预车子就能安全自动驾驶”的错误认知，交警提醒，千万不能把“智驾”当成“代驾”。从公共场所视频可以看到，凌",
+   "link": "https://www.ithome.com/1/009/840.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 16:31",
+   "ts": 1791189088
+  },
+  {
+   "id": "ae6dfd268fbc151cb0f8a38a1e0ea704",
+   "title": "STAT+: Are stem cells the next peptides? These advocates think RFK Jr. could make it happen",
+   "summary": "Peptides gained legitimacy at the FDA after being embraced by MAHA. Advocates hope stem cell treatments will follow the same path.",
+   "link": "https://www.statnews.com/2026/10/05/stem-cell-industry-seeks-fda-regulation-like-peptides/?utm_campaign=rss",
+   "source": "STAT News",
+   "channel": "健康",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 16:30",
+   "ts": 1791189000
+  },
+  {
+   "id": "bc933edbb354cd56cd463257a1ac3c62",
+   "title": "Opinion: Will Claude ever win a Nobel Prize for medicine?",
+   "summary": "“Are we entering a world in which some (or all) Nobels will be awarded to Claude, ChatGPT, or their AI successors, rather than human scientists?” asks Jeffrey F",
+   "link": "https://www.statnews.com/2026/10/05/could-ai-win-nobel-prize-medicine/?utm_campaign=rss",
+   "source": "STAT News",
+   "channel": "健康",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 16:30",
+   "ts": 1791189000
+  },
+  {
+   "id": "150e6b1f7580727973ef1bd97a4509a8",
+   "title": "STAT+: Divergent trial results on cancer vaccines have the field grappling with hard questions",
+   "summary": "A melanoma vaccine succeeded in a late-stage clinical trial. The question now is whether other cancer vaccines will work — and whether mRNA is up to the task.",
+   "link": "https://www.statnews.com/2026/10/05/cancer-vaccines-mrna-clinical-trials/?utm_campaign=rss",
+   "source": "STAT News",
+   "channel": "健康",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 16:30",
+   "ts": 1791189000
+  },
+  {
+   "id": "73ec748283faa743f04d572f82db70e4",
+   "title": "Hospital and pharmaceutical prices are smothering America’s businesses",
+   "summary": "Workers and employers are drowning in their health insurance premiums. The reason for that deluge: the health care industry’s high and inscrutable prices.",
+   "link": "https://www.statnews.com/2026/10/05/hospital-bills-drug-prices-insurance-premiums-spiral-part-5-out-of-pocket-series/?utm_campaign=rss",
+   "source": "STAT News",
+   "channel": "健康",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 16:30",
+   "ts": 1791189000
+  },
+  {
+   "id": "fdeaa6dd30b20bcd0e35f95f655d23c1",
+   "title": "Opinion: Energy drinks’ new college sports partnerships make them more dangerous than ever",
+   "summary": "“In the absence of population-based evidence, the energy drink cabal is having an easy time of it,” writes Kent Sepkowitz.",
+   "link": "https://www.statnews.com/2026/10/05/energy-drinks-public-health-college-sports-partnerships-research/?utm_campaign=rss",
+   "source": "STAT News",
+   "channel": "健康",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 16:30",
+   "ts": 1791189000
   },
   {
    "id": "ddf45e1e007c0d53ec25a9db89a94ee2",
@@ -39,6 +169,58 @@
    "urgent": false,
    "fetched_at": "10-05 16:25",
    "ts": 1791188700
+  },
+  {
+   "id": "fd6e9c68ace5f1f8462ed457afa8d812",
+   "title": "WF2026首次曝光INART《影之刃零》主角魂1:1雕像",
+   "summary": "在刚刚落幕的WF2026上海展会上，INART展台首次对外展出了国产武侠动作游戏《影之刃零》主角魂的1:1与1:3比例雕像。展会现场人流量巨大，这组雕像也成为展位当中的热门看点之一，实物雕像从整体呈现到细节展示，都给到场的观众带来了很强的视觉冲击。\n\n《影之刃零》3D美术负责人王琛也在个人微博放出了雕像更多的实拍照片，",
+   "link": "https://www.gcores.com/articles/220527",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-05 16:19",
+   "ts": 1791188356
+  },
+  {
+   "id": "4a7a1de5bf1d983b5dc7129783c57519",
+   "title": "森海塞尔 HDB 630 头戴式无线耳机新增“月光银”配色，4098 元",
+   "summary": "IT之家 10 月 5 日消息，森海塞尔宣布为旗下 HDB 630 头戴式无线高保真耳机新增一款“月光银”配色，定价为 4098 元。灵感源自月光映照下的银色光泽，以全新色彩，诠释高保真之声。该耳机继承 MOMENTUM 4 的外部框架并融合人体工程学设计与定制声学系统，耳垫采用 IDEATEX 日本蛋白皮革材质，配备",
+   "link": "https://www.ithome.com/1/009/838.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 16:14",
+   "ts": 1791188096
+  },
+  {
+   "id": "92e294e817b320dcb47fb8e2a10351ec",
+   "title": "鸿海 9 月销售额 1.16 万亿元新台币创新高，同比增长 38.4％",
+   "summary": "IT之家 10 月 5 日消息，鸿海今日公布财务数据显示，9 月单月营收 1.16 万亿元新台币（IT之家注：现汇率约合 2,441.8 亿元人民币），同比增长 38.4％，这也是历年单月最高表现。第三季度营收约为 3.027 万亿元新台币（现汇率约合 6,371.84 亿元人民币），同比增长 47%。从累计数据来看，",
+   "link": "https://www.ithome.com/1/009/837.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 16:14",
+   "ts": 1791188095
+  },
+  {
+   "id": "50066c0fc2a5f98bf9efb7c5b2bc6da9",
+   "title": "Googlebooks have unlockable bootloader support, and there’s also good news for Magisk",
+   "summary": "Support documents confirm easy bootloader unlocking, and Magisk developer has teased Magisk coming soon for the platform.",
+   "link": "https://www.androidauthority.com/googlebook-bootloader-unlock-magisk-root-3718930/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 16:12",
+   "ts": 1791187947
   },
   {
    "id": "7f0931de34f2cbd1f1f19a434a13c229",
@@ -132,6 +314,19 @@
    "ts": 1791186870
   },
   {
+   "id": "aa48723b53d3cdd1b4ad217d9b15b391",
+   "title": "Sales of sub-€25,000 electric car models set to rise sevenfold",
+   "summary": "Article URL: https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-ri",
+   "link": "https://www.transportenvironment.org/articles/wave-of-affordable-electric-cars-is-boosting-consumers-choice-sales-of-sub-eur25-000-models-set-to-rise-sevenfold",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 15:51",
+   "ts": 1791186674
+  },
+  {
    "id": "cf65cd667d9771b7d84ca1a311fafce7",
    "title": "索尼向 Meta 转让 419 项 XR 专利，或缩减相关硬件业务",
    "summary": "IT之家 10 月 5 日消息，据韩媒 ZDNET Korea 今日报道，索尼向 Meta 转让了 419 项（该媒体此前报道为 418 项，后更正为 419 项）扩展现实 XR 专利。外界分析认为，索尼此举意在缩减其 XR 硬件业务，Meta 则借此进一步扩充了自身的专利组合。IT之家注意到，据美国专利商标局 10 ",
@@ -143,6 +338,19 @@
    "urgent": false,
    "fetched_at": "10-05 15:47",
    "ts": 1791186466
+  },
+  {
+   "id": "f3d78edab88a060c1d1eeb190a672a1a",
+   "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 15\n# Com",
+   "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 15:46",
+   "ts": 1791186370
   },
   {
    "id": "ee7bf32d0de6d6c1ebc16d6a2bebd8ce",
@@ -184,19 +392,6 @@
    "ts": 1791185662
   },
   {
-   "id": "a6cc7d57129f06d709aa479b0c23d63a",
-   "title": "德国第二大城市汉堡计划为公交地铁引入信用卡“拍卡乘车”机制，预计 2030 年前后准备就绪",
-   "summary": "IT之家 10 月 5 日消息，据外媒 golem 报道，德国第二大城市汉堡（Hamburg）公共交通运营商汉堡高架铁路公司（Hochbahn）计划未来允许乘客直接使用信用卡乘坐公交地铁，无需额外购买实体或电子车票。Hochbahn 财务董事 Merle Schmidt-Brunn 表示，预计该系统最早将在 2030 ",
-   "link": "https://www.ithome.com/1/009/828.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:33",
-   "ts": 1791185602
-  },
-  {
    "id": "094c62e2fd82d5d0981d8335ff27d6da",
    "title": "Hallgrimsson urges UEFA to keep Ireland and Israel apart in future",
    "summary": "Heimir Hallgrimsson has called on UEFA to keep Ireland and Israel apart in future.",
@@ -234,58 +429,6 @@
    "urgent": false,
    "fetched_at": "10-05 15:30",
    "ts": 1791185400
-  },
-  {
-   "id": "52c44ccc0cee9204ae2572059b90f6a1",
-   "title": "本田研发无线供电道路系统：可为行驶中电动汽车进行非接触充电，后续将开展高速公路实测",
-   "summary": "IT之家 10 月 5 日消息，本田今日宣布，旗下研发子公司本田技术研究所，与大成建设、大成道路技术三方共同研发出可对行驶中电动汽车进行非接触充电的“磁耦合方式无线供电道路系统”（以下简称“无线供电道路系统”）基础核心技术。三方计划于 2027 财年（IT之家注：2026 年 4 月 1 日～2027 年 3 月 31",
-   "link": "https://www.ithome.com/1/009/827.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:27",
-   "ts": 1791185230
-  },
-  {
-   "id": "27c2f411b93bf9f1baafca6c7bf66f75",
-   "title": "曜越推出光透 View 590 TG ARGB 斜侧进风海景房机箱：预装五把风扇，黑白双色均售 899 元",
-   "summary": "IT之家 10 月 5 日消息，曜越现已在京东上架光透 View 590 TG ARGB 机箱，该产品采用海景房设计，附送 5 把无限镜灯效风扇，定价为 899 元。京东曜越推出光透 View 590 TG ARGB 机箱 899 元直达链接该机箱整体尺寸为 473 x 290 x 477mm，提供黑白配色可选，采用侧",
-   "link": "https://www.ithome.com/1/009/826.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:25",
-   "ts": 1791185130
-  },
-  {
-   "id": "7898ecee2cff0b77d79a7483e74c91a7",
-   "title": "红魔散热器 8 Pro 暗区突围限定版上市：36W 功率散热，229 元",
-   "summary": "IT之家 10 月 5 日消息，红魔散热器 8 Pro 暗区突围限定版现已上市，到手价 229 元。新品采用银色搭配黄色的外观，仿碳纤维纹理设计，配赠暗区突围专属贴纸。IT之家从官方介绍获悉，80°C 极限温差降温，面对暗区突围长时间搜刮、交火、多局连续作战，快速带走机身累积热量，规避高温锁性能，手机、平板对战全程冷静",
-   "link": "https://www.ithome.com/1/009/825.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-05 15:21",
-   "ts": 1791184876
-  },
-  {
-   "id": "7773ca71f216db9bb67ab2dacaaa4f71",
-   "title": "映众推出 AGS-6220V2 双路服务器：6U 机架，提供 8 条 PCIe 插槽",
-   "summary": "IT之家 10 月 5 日消息，映众 (INNO3D) 今日宣布推出 GPU 服务器 AGS-6220V2。其采用机架式部署设计，高度达到 6U，支持 2 颗第五代英特尔至强处理器 \"Emeralds Rapid SP\"。AGS-6220V2 上的每颗处理器均支持 8 通道 2DPC 内存，共有 32 条 RDIMM ",
-   "link": "https://www.ithome.com/1/009/824.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:12",
-   "ts": 1791184341
   },
   {
    "id": "828aa9c97937b8d05bf295b1d477feed",
@@ -394,7 +537,7 @@
   {
    "id": "51ff97dab6bb1ce0f06918ce5eeeeb95",
    "title": "Replacement of petroleum based products with plant-based materials (2025)",
-   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 46\n# Comments: 18",
+   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 52\n# Comments: 20",
    "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -548,19 +691,6 @@
    "ts": 1791168646
   },
   {
-   "id": "5bc5e640d1d724687c5e0b50f2bc37e4",
-   "title": "Nearly 200 people under observation after Irkutsk lab worker dies from plague",
-   "summary": "Article URL: https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857\nComments URL: https:",
-   "link": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:31",
-   "ts": 1791167505
-  },
-  {
    "id": "b30870ed0f57a515beafa035f50696af",
    "title": "NFL reviewing heated exchange between referee, Vikings' Eric Wilson",
    "summary": "The league is looking into two separate incidents involving a player and an official during Week 4",
@@ -667,7 +797,7 @@
   {
    "id": "e5f1789defb27862d3b2b1792d982eb8",
    "title": "A 40ms Go garbage collector pause caused by swap",
-   "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 78\n# Comments: 48",
+   "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 83\n# Comments: 63",
    "link": "https://frn.sh/go-gc/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -862,7 +992,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 127\n# Comments: 31",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 131\n# Comments: 31",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -900,7 +1030,7 @@
   },
   {
    "id": "60d10ab8fc48689c129fd66094de9a52",
-   "title": "'Harry Potter did well, didn't he!?' - Humphries savours Grand Prix success",
+   "title": "'Harry Potter did well, didn't he!?' - Humphries triumphs after 'torrid' time",
    "summary": "",
    "link": "https://www.skysports.com/darts/live-blog/12040/13595086/world-grand-prix-darts-final-luke-humphries-beats-gerwyn-price-6-4-after-epic-comeback-from-3-0-down-in-leicester",
    "source": "Sky Sports",
@@ -979,7 +1109,7 @@
   {
    "id": "2e52209d54610fcee4461e07dfed5f5a",
    "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 118\n# Comments: 14",
+   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 125\n# Comments: 13",
    "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1057,7 +1187,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 534\n# Comments: 350",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 550\n# Comments: 369",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1109,7 +1239,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 189\n# Comments: 66",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 202\n# Comments: 67",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1133,19 +1263,6 @@
    "ts": 1791139617
   },
   {
-   "id": "11996ef70e0b9586922bdc4e677aae5d",
-   "title": "NFL results: Maye fires Patriots past Bills as Rams comeback downs Eagles",
-   "summary": "",
-   "link": "https://www.skysports.com/nfl/live-blog/12040/13595110/nfl-2026-results-and-highlights-drake-maye-fires-new-england-patriots-past-buffalo-bills-as-los-angeles-rams-clinch-late-comeback-win",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 02:41",
-   "ts": 1791139260
-  },
-  {
    "id": "45a566f2607bf005247a52bd2e7ab260",
    "title": "Deals: here's how to avoid the Galaxy S26 series price hike",
    "summary": "In case you missed it, Samsung increased the Galaxy S26 prices globally – in the US, they are $100 higher than they were at launch seven months ago. And even ba",
@@ -1157,19 +1274,6 @@
    "urgent": false,
    "fetched_at": "10-05 02:31",
    "ts": 1791138661
-  },
-  {
-   "id": "4fc6256d6deb5c7015f22b72dd426799",
-   "title": "Zach Bryan Breaks Gillette Stadium’s Attendance Record While Wearing “Free Palestine” Shirt",
-   "summary": "The singer's performance came weeks after Gillette Stadium owner Robert Kraft's controversy with Macklemore, who was dropped from Ed Sheeran's tour over his pro",
-   "link": "https://www.hollywoodreporter.com/music/music-news/zach-bryan-breaks-gillette-stadium-record-free-palestine-shirt-1236721893/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 02:19",
-   "ts": 1791137969
   },
   {
    "id": "de00533785426c407cf26dcefebc3fb0",
@@ -1187,7 +1291,7 @@
   {
    "id": "d0549b40cf18c06783f4fb0f5d660e7f",
    "title": "Xray-core concealed a certificate verification bypass vulnerability",
-   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 77\n# Comments: 10",
+   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 80\n# Comments: 10",
    "link": "https://github.com/net4people/bbs/issues/672",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1265,7 +1369,7 @@
   {
    "id": "843e77235e9cadcbc74250264ec4bf8a",
    "title": "Blindsight (Watts Novel)",
-   "summary": "Article URL: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)\nComments URL: https://news.ycombinator.com/item?id=49955297\nPoints: 79\n# Comments: 73",
+   "summary": "Article URL: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)\nComments URL: https://news.ycombinator.com/item?id=49955297\nPoints: 80\n# Comments: 78",
    "link": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1534,19 +1638,6 @@
    "urgent": false,
    "fetched_at": "10-04 21:00",
    "ts": 1791118800
-  },
-  {
-   "id": "b2f4a7c23b312ad1f2de434faa293b99",
-   "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 765\n# Comments: 341",
-   "link": "https://github.com/Niko1221/Strata",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 20:51",
-   "ts": 1791118313
   },
   {
    "id": "e63a993205e5992659754025231a5486",
@@ -2407,19 +2498,6 @@
    "ts": 1791021605
   },
   {
-   "id": "31e6689ad9ec8164e6d6eb616883da86",
-   "title": "I hate when Android brands copy Apple — but the iPhone Duo is the exception",
-   "summary": "The iPhone Duo could make Android foldables much better.",
-   "link": "https://www.androidauthority.com/hate-when-android-copies-apple-iphone-duo-exception-3716696/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 17:30",
-   "ts": 1791019840
-  },
-  {
    "id": "bde9121888d80eca31f2454c4624ff3d",
    "title": "DeepSeek扩招！弹性计算团队大量HC，尤其需要资深工程师",
    "summary": "岗位JD甩了篇技术报告",
@@ -2535,84 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-03 07:19",
    "ts": 1790983183
-  },
-  {
-   "id": "52f1a1c1dee3d82b37dc6e84309316f9",
-   "title": "iPhone 18 Pro Max Can’t Make a Call on AT&#038;T? Apple Says It Will Replace It for Free",
-   "summary": "A software and carrier settings update should prevent future problems, but people who have been affected will need a replacement phone.",
-   "link": "https://www.cnet.com/tech/mobile/iphone-18-pro-max-att-cant-make-call-free-replacement/",
-   "source": "CNET",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 06:37",
-   "ts": 1790980663
-  },
-  {
-   "id": "0b7222dc1d5c1c342eaf583683cfc997",
-   "title": "Maximizing Privacy? New Apple Home Security Cameras Reportedly Won’t Record Video",
-   "summary": "Instead of a watchable video stream, you’ll get text descriptions or alerts about detected people, pets or activity.",
-   "link": "https://www.cnet.com/home/security/privacy-new-apple-home-security-cameras-wont-record-video/",
-   "source": "CNET",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 06:25",
-   "ts": 1790979949
-  },
-  {
-   "id": "a88688ada7554ec2d42e5b9b7cb9e158",
-   "title": "California Legalized Plug-In Balcony Solar Panels, but Don’t Buy Any Just Yet",
-   "summary": "Units that comply with the new law are expected by spring.",
-   "link": "https://www.cnet.com/home/energy-and-utilities/california-plug-in-balcony-solar-panels-legal/",
-   "source": "CNET",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 06:24",
-   "ts": 1790979873
-  },
-  {
-   "id": "d74aff60047cc46fb360229e55cad41d",
-   "title": "Kia sweetens EV deals with up to $10,000 off",
-   "summary": "With the new EV3 now arriving at dealerships, Kia is throwing some extra savings into the mix with up to $10,000 off in customer cash on select EVs.\n\n\n\n more…",
-   "link": "https://electrek.co/2026/10/02/kia-sweetens-ev-deals-10000-off/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 05:06",
-   "ts": 1790975194
-  },
-  {
-   "id": "19ecd380fe9c2177dec54a14a8d4f84e",
-   "title": "Tesla Makes the Model 3 Quicker and Gives It a Bigger Screen",
-   "summary": "Several incremental changes arrive on the Model 3, from a new screen to an extra 18 horsepower for the Performance model.",
-   "link": "https://www.caranddriver.com/news/a73998953/tesla-model-3-updates-quicker-bigger-screen/",
-   "source": "Car and Driver",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 04:03",
-   "ts": 1790971412
-  },
-  {
-   "id": "6572e0b1e5f6054dd5a357f3c1a44caf",
-   "title": "NIH rolling out streamlined website to help public find information more easily",
-   "summary": "The redesign is intended to streamline what was a sprawling and fractured information ecosystem, requiring users to understand NIH's organizational structure",
-   "link": "https://www.statnews.com/2026/10/02/nih-launching-streamlined-website-to-help-public-find-information/?utm_campaign=rss",
-   "source": "STAT News",
-   "channel": "健康",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 03:59",
-   "ts": 1790971147
   }
  ]
 }
