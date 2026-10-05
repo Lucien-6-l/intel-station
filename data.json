@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 22:07",
- "total": 244,
+ "updated_at": "2026-10-05 22:42",
+ "total": 256,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,6 +10,7 @@
   "数码",
   "汽车",
   "游戏",
+  "科学",
   "财经"
  ],
  "items": [
@@ -27,6 +28,292 @@
    "ts": 1791212400
   },
   {
+   "id": "ef5f04b9756233258de33927d6dac818",
+   "title": "Slegers can no longer hide behind 'fine margins' in defence of Arsenal",
+   "summary": "Sky Sports columnist Laura Hunter analyses the big talking points from the second round of Women's Super League matches, bringing you closer to the key stories ",
+   "link": "https://www.skysports.com/football/news/12040/13595352/arsenal-must-be-accountable-for-their-own-failings-in-faltering-womens-super-league-season",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:00",
+   "ts": 1791212400
+  },
+  {
+   "id": "a99b0622c069c33b40d6e3999b37ad0b",
+   "title": "Man City's rivals do not expect them to be in Premier League next season",
+   "summary": "Sympathy is in short supply at other clubs after an independent commission laid bare the scale of Manchester City's rule breaking across nine seasons in a devas",
+   "link": "https://www.skysports.com/football/news/12040/13595428/man-city-charges-premier-league-clubs-do-not-expect-city-to-be-in-premier-league-next-season-if-appeal-fails",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:41",
+   "ts": 1791211260
+  },
+  {
+   "id": "d256a2a1e0ee4c20355bd170dc10638a",
+   "title": "Bottas cycling 250 miles from Sepang to Marina Bay ahead of Singapore GP",
+   "summary": "Cadillac's Valtteri Bottas is cycling 250 miles from Sepang to Marina Bay ahead of Singapore GP.",
+   "link": "https://www.skysports.com/watch/video/13595420/formula-1-valtteri-bottas-cycling-250-miles-from-sepang-to-marina-bay-ahead-of-singapore-gp",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:37",
+   "ts": 1791211020
+  },
+  {
+   "id": "781968f8d41e2e4752d061888fe163d7",
+   "title": "Researchers are tracking a Chinese AI ‘agent fleet’",
+   "summary": "Independent researchers discovered an agent swarm that seems to be running on Tencent's infrastructure and targeting Alibaba's map service, Amap.",
+   "link": "https://techcrunch.com/2026/10/05/researchers-are-tracking-a-chinese-ai-agent-fleet/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:35",
+   "ts": 1791210909
+  },
+  {
+   "id": "ca13c110903349874d8e6dffa8fb8555",
+   "title": "This app gives Wear OS the Pixel music feature Apple already copied",
+   "summary": "A new Wear OS app puts Pixel’s Now Playing where it always belonged.",
+   "link": "https://www.androidauthority.com/pixel-now-playing-wear-os-now-on-wrist-3719130/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:35",
+   "ts": 1791210906
+  },
+  {
+   "id": "04899ed371b7ae503a5aeb3f0a55e5d9",
+   "title": "View Interior Photos of the 2027 Chevrolet Corvette Grand Sport X",
+   "summary": "See the interior of the 2027 Chevrolet Corvette Grand Sport X from every angle.",
+   "link": "https://www.caranddriver.com/photos/a73980245/2027-chevrolet-corvette-grand-sport-x-test-interior-gallery/",
+   "source": "Car and Driver",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:34",
+   "ts": 1791210874
+  },
+  {
+   "id": "563f885e54f94ab2b8cbf7a133319ce6",
+   "title": "Tested: 2027 Chevrolet Corvette Grand Sport X Brings the Heat",
+   "summary": "Take a 535-hp LS6 V-8 and stir in the 186-hp electric assistance from a ZR1X, and you get 721 horses of Grand Sport X goodness.",
+   "link": "https://www.caranddriver.com/reviews/a73591474/2027-chevrolet-corvette-grand-sport-x-drive/",
+   "source": "Car and Driver",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:34",
+   "ts": 1791210840
+  },
+  {
+   "id": "76be671ffffdcc5c48de00f8f971c7ce",
+   "title": "View Exterior Photos of the 2027 Chevrolet Corvette Grand Sport X",
+   "summary": "See the exterior of the 2027 Chevrolet Corvette Grand Sport X from every angle.",
+   "link": "https://www.caranddriver.com/photos/a73979955/2027-chevrolet-corvette-grand-sport-x-test-exterior-gallery/",
+   "source": "Car and Driver",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:33",
+   "ts": 1791210794
+  },
+  {
+   "id": "ea355735cd3072977490ec1380d5331f",
+   "title": "香蕉派推出 BPI-CM7 核心板：全志 H618 + LPDDR4 + eMMC",
+   "summary": "IT之家 10 月 5 日消息，香蕉派 (Banana Pi) 上月末推出了 BPI-CM7。这一核心板基于全志 (Allwinner) H618 芯片，拥有 4 个 Arm Cortex-A53 CPU 核心、Arm Mali-G31 GPU。BPI-CM7 板载 2GB LPDDR4 内存、32GB eMMC 闪存",
+   "link": "https://www.ithome.com/1/009/900.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:30",
+   "ts": 1791210652
+  },
+  {
+   "id": "96007cd5c45fe5dc91faae07f9baaff3",
+   "title": "‘The Flight’: After Iran Shot Down Ukraine Plane, Doc Follows Victims’ Families Fight for Justice",
+   "summary": "Soran Mardookhi's feature documentary debuting in Vancouver goes beyond casualty numbers to humanize lost loved ones, as grieving relatives campaign to hold Ira",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/the-flight-doc-iran-shot-down-ukraine-plane-1236717197/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:30",
+   "ts": 1791210621
+  },
+  {
+   "id": "1580b4ef99b41b28e3858a467f9d84c4",
+   "title": "Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch Disrupt 2026",
+   "summary": "Meet the final five Startup Battlefield judges who'll decide who wins the pitch competition at TechCrunch Disrupt 2026. Get your pass now to save up to $100, an",
+   "link": "https://techcrunch.com/2026/10/05/meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:30",
+   "ts": 1791210600
+  },
+  {
+   "id": "a9c3e211d4ff43e92dac37daf5715b4c",
+   "title": "Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time",
+   "summary": "Today, I’m talking with Senator Adam Schiff, a Democrat from California. Sen. Schiff sits on a number of committees with oversight into tech and AI: intellectua",
+   "link": "https://www.theverge.com/podcast/1004286/senator-adam-schiff-ai-trump-regulation-corruption",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:30",
+   "ts": 1791210600
+  },
+  {
+   "id": "54e05ae3c5cb22380999f48f8297a768",
+   "title": "国庆假期返程将至，10 月 6 日 79 个高速服务区预计充电特别繁忙",
+   "summary": "IT之家 10 月 5 日消息，据交通运输部动态研判，10 月 6 日，全国高速公路预计有 79 个服务区充电特别繁忙，主要集中在湖南、河北、广东等省份，大家可通过“e 路畅通”微信小程序查询服务区充电桩运行状态。IT之家整理如下：序号省份所在城市服务区名称编号方向1湖南长沙市横市服务区S71益阳-娄底2湖南长沙市横市",
+   "link": "https://www.ithome.com/1/009/899.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:29",
+   "ts": 1791210552
+  },
+  {
+   "id": "69a438b8b5b3ecf13d3330d2803c6916",
+   "title": "You’ll miss a lot of Googlebook features without an Android 17 phone",
+   "summary": "There's bad news if you just ordered a Googlebook but don't have Android 17 on your phone.",
+   "link": "https://www.androidauthority.com/googlebooks-android-limitation-cross-device-3719146/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:27",
+   "ts": 1791210478
+  },
+  {
+   "id": "ee92321645588e7ea7181c1c37729e69",
+   "title": "Sony WH-1000XM6 falls to $378 ahead of Prime Day sale",
+   "summary": "Save $82 on the Sony WH-1000XM6 at Amazon and get top-tier noise canceling, foldable design, and great call quality.",
+   "link": "https://www.androidauthority.com/sony-wh-1000xm6-headphones-amazon-deal-3717623/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:24",
+   "ts": 1791210277
+  },
+  {
+   "id": "fcee0dc589b010c47577d1e6c8647554",
+   "title": "Grab a $70 discount on the Sony LinkBuds Clip open-ear earbuds",
+   "summary": "Sony LinkBuds Clip fall to $1578 at Amazon, their best price this year for open-ear listening and all-day wear.",
+   "link": "https://www.androidauthority.com/sony-linkbuds-clip-deal-3717619/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:17",
+   "ts": 1791209877
+  },
+  {
+   "id": "3f218b1f4b8c84bd92ae4256a59b3274",
+   "title": "海外消费者网购下单两次 AMD 锐龙 7 9850X3D 处理器，均被调包成十年前的酷睿 i3-3000 系列产品",
+   "summary": "IT之家 10 月 5 日消息，近日一名海外网友在亚马逊连续两次购买 AMD 锐龙 7 9850X3D 处理器，结果其购买的处理器均遭到调包，被换成了酷睿 i3-3000 系列处理器，引发社区热议。据报道，Reddit 网友 BitProfessional3792 最初通过亚马逊官方商店购买了一颗 AMD 锐龙 7 9",
+   "link": "https://www.ithome.com/1/009/898.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:17",
+   "ts": 1791209829
+  },
+  {
+   "id": "ed1c341d99a69552b93155f163d2e878",
+   "title": "SANWA 推出 62g 轻量化立式人体工学鼠标，较竞品减重约 4 成",
+   "summary": "IT之家 10 月 5 日消息，日本外设制造商 SANWA（山业）本月 1 日宣布轻量化右手立式（垂直）人体工学鼠标 MA-EBBS536BL / MA-EWBS536BL。其仅有 62g，相较同类产品动辄 100g 乃至更大的质量显著减重。MA-EBBS536BL / MA-EWBS536BL 三维 126×70×7",
+   "link": "https://www.ithome.com/1/009/897.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:16",
+   "ts": 1791209792
+  },
+  {
+   "id": "26c52597f8502f5a94ad22cdefbe6ee3",
+   "title": "Hyundai’s electric hatch goes on sale with up to 308 miles of range, starting at about $25,000",
+   "summary": "The IONIQ 3 has received more interest than any Hyundai vehicle in the UK ever. Starting at about $25,000, Hyundai’s electric hatch undercuts much of the compet",
+   "link": "https://electrek.co/2026/10/05/hyundai-ioniq-3-offers-308-miles-range-starts-at-25000/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:14",
+   "ts": 1791209664
+  },
+  {
+   "id": "58a63f9a9bbf6e5e78a9155455ed25a6",
+   "title": "Golf Media Company Pro Shop Raises $24 Million In Expansion Push (Exclusive)",
+   "summary": "Arthur Blank's family office, Causeway Partners and Ares Capital are among the new investors in the company, founded by Chad Mumm and Joe Purzycki.",
+   "link": "https://www.hollywoodreporter.com/business/business-news/golf-media-company-pro-shop-raises-series-b-1236720861/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:10",
+   "ts": 1791209456
+  },
+  {
+   "id": "f9a23262fc3bc3d9b17960c9ca1d2dac",
+   "title": "The best early October Prime Day deals happening now",
+   "summary": "Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on th",
+   "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:10",
+   "ts": 1791209419
+  },
+  {
+   "id": "c44b253556dbf4f6a58b8a3d9e8c6ca7",
+   "title": "卡普空开源 RE:Dox 结构化数据引擎，JSON 反序列化最高提速 2.84 倍",
+   "summary": "IT之家 10 月 5 日消息，卡普空宣布，将旗下最新的数据处理及序列化基础库“RE:Dox”以开源软件（OSS）形式公开。该项目是卡普空次世代游戏引擎计划 REX（RE neXt ENGINE）的基础技术之一，开发者可以自由使用。卡普空早在 2023 年 10 月便公布了 REX 引擎计划，目标是针对 RE ENGI",
+   "link": "https://www.ithome.com/1/009/886.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 22:08",
+   "ts": 1791209333
+  },
+  {
    "id": "c5fe393761ab5aeaef7afe380e20de45",
    "title": "Oscars: Syria Selects Doc ‘The Other Side of the Sun’ for International Feature Race, Marking First Entry Since Fall of Assad Regime",
    "summary": "Tawfik Sabouni’s documentary “The Other Side of the Sun,&#8221; which world premiered as part of the Panorama section of this year’s Berlinale, has been chosen ",
@@ -38,6 +325,32 @@
    "urgent": false,
    "fetched_at": "10-05 22:04",
    "ts": 1791209065
+  },
+  {
+   "id": "cbca2883baecb51d8162a63265869c22",
+   "title": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
+   "summary": "Article URL: https://www.youtube.com/watch?v=RFTfANuLBF4\nComments URL: https://news.ycombinator.com/item?id=49965042\nPoints: 3\n# Comments: 0",
+   "link": "https://www.youtube.com/watch?v=RFTfANuLBF4",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:02",
+   "ts": 1791208958
+  },
+  {
+   "id": "f6bfb65152abff594b006464f997ba22",
+   "title": "Use FanDuel promo code to claim $250 bonus bets by targeting Falcons vs. Saints Monday Night Football",
+   "summary": "Sign up and bet with the latest FanDuel promo code on Monday to get your bonus bets",
+   "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-claim-250-bonus-bets-falcons-vs-saints-monday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:01",
+   "ts": 1791208906
   },
   {
    "id": "660709c0bd058485d9de6a841340a5fc",
@@ -79,6 +392,19 @@
    "ts": 1791208800
   },
   {
+   "id": "16e755417522960453060867e56e2cce",
+   "title": "Python 3.15 Gets a Surprise RC3 and Other Python News for October 2026",
+   "summary": "Python 3.15 gets a surprise RC3, the first Packaging Council is elected, Polars 2.0 and SQLAlchemy 2.1 arrive, and AI APIs break Python code again.",
+   "link": "https://realpython.com/python-news-october-2026/",
+   "source": "Real Python",
+   "channel": "教程",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:00",
+   "ts": 1791208800
+  },
+  {
    "id": "37711f229c57dc55f30fef75838f00ac",
    "title": "Is the ‘Trump Curse’ Real? See the Overwhelming Evidence",
    "summary": "When Jaxson Dart, the New York Giants’ hot young quarterback, went down in Week 2 with a brutal, season-ending knee injury on the team’s opening drive against t",
@@ -90,6 +416,19 @@
    "urgent": false,
    "fetched_at": "10-05 22:00",
    "ts": 1791208800
+  },
+  {
+   "id": "19955fe399c0fb3f4d7e02f0cac975d1",
+   "title": "CBS Sports 138: Alabama joins Texas, Georgia in top four as SEC teams headline college football rankings",
+   "summary": "The SEC claims three of the top four spots, while a massive logjam complicates the middle of our comprehensive FBS rankings",
+   "link": "https://www.cbssports.com/college-football/news/cbs-sports-138-college-football-rankings-alabama-sec-teams/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:59",
+   "ts": 1791208779
   },
   {
    "id": "e415be7d74f426ef347ad9d8f4606778",
@@ -324,6 +663,19 @@
    "urgent": false,
    "fetched_at": "10-05 21:25",
    "ts": 1791206739
+  },
+  {
+   "id": "9776cb95b76e43cc94c565cf25d3b5a5",
+   "title": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
+   "summary": "Article URL: https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a\nComments URL: https://news.ycombinator.com/item?id=49964537\nPoints: 28",
+   "link": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:22",
+   "ts": 1791206551
   },
   {
    "id": "d09295ce046fd51de92225a75cc823a4",
@@ -601,7 +953,7 @@
   {
    "id": "55c62611979d517cbd5d218dfbc4a5ae",
    "title": "Gitframes",
-   "summary": "Article URL: https://github.com/gatewai-dev/gitframes\nComments URL: https://news.ycombinator.com/item?id=49964265\nPoints: 16\n# Comments: 7",
+   "summary": "Article URL: https://github.com/gatewai-dev/gitframes\nComments URL: https://news.ycombinator.com/item?id=49964265\nPoints: 37\n# Comments: 18",
    "link": "https://github.com/gatewai-dev/gitframes",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -610,19 +962,6 @@
    "urgent": false,
    "fetched_at": "10-05 20:59",
    "ts": 1791205154
-  },
-  {
-   "id": "9a39219029078c465d5ce824f9fb6360",
-   "title": "消息称三星 Galaxy S27 Ultra 手机将提供“罗兰紫”特殊配色，预计作为官网专属颜色提供",
-   "summary": "IT之家 10 月 5 日消息，消息源 @i冰宇宙 发文，透露三星 Galaxy S27 Ultra 除了提供蓝色、黑色、浅粉色、白色四款基础配色可选，同时还拥有一款“罗兰紫”特殊配色，预计该配色可能作为三星官网专属配色提供。此前消息显示，三星 Galaxy S27 系列手机预计将在 2027 年初正式发布，其中 Pr",
-   "link": "https://www.ithome.com/1/009/871.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:56",
-   "ts": 1791204991
   },
   {
    "id": "f109098ff6de2ea27a4a3e1fa6eb0aa9",
@@ -638,19 +977,6 @@
    "ts": 1791204869
   },
   {
-   "id": "f68b1ad1cebd228e08d91eefce6af185",
-   "title": "Cristiano Ronaldo Portugal crisis: Timeline of events as 41-year-old star gets benched and leaves team",
-   "summary": "Tensions boiled over after the 41-year-old was benched for 90 minutes against Norway, sparking emergency crisis talks with the federation president before an ab",
-   "link": "https://www.cbssports.com/soccer/news/cristiano-ronaldo-portugal-crisis-timeline-benched-leaves-team/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:52",
-   "ts": 1791204720
-  },
-  {
    "id": "7d525eca9a206f3a50c2311a8c608fd3",
    "title": "Galaxy S27 Ultra colors leak, and Samsung could be breaking up with purple (Update: Special color)",
    "summary": "Samsung may be picking a color it hasn't used directly on the Ultra for ages.",
@@ -662,32 +988,6 @@
    "urgent": false,
    "fetched_at": "10-05 20:50",
    "ts": 1791204645
-  },
-  {
-   "id": "c84d62ee7c2151d6958d25a2f36f7194",
-   "title": "《GTA 6》投入专门团队打造 NPC 路人对话：玩家可鲜明感知游戏世界社会文化风采",
-   "summary": "IT之家 10 月 5 日消息，Rockstar Games 近日公布了更多《GTA 6》细节，强调开发人员对“NPC 路人的背景对话”进行了精心设计。Rockstar Games 叙事部门高级副总裁 Rupert Humphries 在接受 LOVE 杂志采访时透露，在玩家探索罪恶城的过程中，很容易因为急于完成目标而",
-   "link": "https://www.ithome.com/1/009/870.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:46",
-   "ts": 1791204367
-  },
-  {
-   "id": "2a9248c8f6378e222fec45a0396fc76d",
-   "title": "Superstar injury updates from NFL Week 4 | Alabama, Florida on opposite CFP paths",
-   "summary": "Plus, winners and losers from MLB and WNBA playoffs",
-   "link": "https://www.cbssports.com/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:44",
-   "ts": 1791204288
   },
   {
    "id": "08fc08b339fff1a21048374e13ff563c",
@@ -768,19 +1068,6 @@
    "ts": 1791203595
   },
   {
-   "id": "58e019bbc8d59d0fbffa5c3e4283506b",
-   "title": "苹果悄悄提升 iCloud 邮箱别名创建上限：从 3 个增至 9 个",
-   "summary": "IT之家 10 月 5 日消息，据外媒 MacRumors 报道，苹果近期悄悄提高了 iCloud 邮箱别名的创建上限，从此前的 3 个提升至 9 个。iCloud 邮箱别名允许用户在不创建全新 iCloud 邮箱账户的情况下，额外生成不同的 @iCloud.com 邮箱地址。用户可以使用这些别名收发邮件，将其用于不同",
-   "link": "https://www.ithome.com/1/009/869.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:31",
-   "ts": 1791203486
-  },
-  {
    "id": "8a43d91f016c6911170c3fcf48bc925c",
    "title": "'We Have a Strong Desire to Further Develop the Character of Bayonetta' — PlatinumGames Isn't Done With the Gun Witch",
    "summary": "PlatinumGames CEO Atsushi Inaba said he isn’t done with Bayonetta, the studio’s character action series featuring a witch equipped with gun shoes and weaponized",
@@ -807,19 +1094,6 @@
    "ts": 1791203275
   },
   {
-   "id": "dce741039c7155ea12e8e1c603bd0645",
-   "title": "珠海拱北海关查获旅客人身绑藏旧手机 79 台",
-   "summary": "IT之家 10 月 5 日消息，据“海关发布”公众号，拱北海关所属港珠澳大桥海关 9 月 4 日在进境随车厅查获 2 名旅客人身绑藏走私旧手机 79 台。▲ 图源“海关发布”公众号（下同）当日 23 时许，海关关员在进境随车厅监管时，发现两名推着婴儿车的旅客步伐沉重、行为异常，存在人身绑藏走私物品嫌疑。经询问，婴儿车内",
-   "link": "https://www.ithome.com/1/009/868.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:25",
-   "ts": 1791203150
-  },
-  {
    "id": "cef15992d9239f04787f8756ce73d73a",
    "title": "'I'm Still Here': Marvel Star Mark Ruffalo Says He's Still Playing The Hulk Despite Political Advocacy",
    "summary": "Marvel star Mark Ruffalo has said he'll \"Hulk out\" over political attempts to disrupt voting in the upcoming U.S. midterm elections.",
@@ -831,19 +1105,6 @@
    "urgent": false,
    "fetched_at": "10-05 20:25",
    "ts": 1791203135
-  },
-  {
-   "id": "8b0776e3a4deb7c0286c6454fd584239",
-   "title": "三星 Galaxy S27 Ultra 基础颜色选项曝光：黑色、蓝色、浅粉色、白色",
-   "summary": "IT之家 10 月 5 日消息，博主 @i冰宇宙 今日曝光三星 Galaxy S27 Ultra 基础颜色选项，分别为黑色、蓝色、浅粉色、白色。三星 Galaxy S27 系列预计将包含 4 款机型，分别为 6.27 英寸的 Galaxy S27、6.66 英寸的 Galaxy S27+、6.47 英寸的 Galaxy",
-   "link": "https://www.ithome.com/1/009/867.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:23",
-   "ts": 1791203018
   },
   {
    "id": "cfaa1eb30bb75da79766bd73a8b7a917",
@@ -1106,17 +1367,17 @@
    "ts": 1791199800
   },
   {
-   "id": "98f67984aaa9d40d90b3631bf003ac5e",
-   "title": "Android Auto could soon stop working on millions of phones",
-   "summary": "Android 10 users are starting to see warnings that support will end soon.",
-   "link": "https://www.androidauthority.com/android-auto-android-10-support-ending-3719043/",
-   "source": "Android Authority",
-   "channel": "数码",
+   "id": "88cc03060dc4f11ea16869045c8edebf",
+   "title": "Knockout blow for Russell title challenge in Sepang? | The Verdict",
+   "summary": "Craig Slater gives his verdict on the Bahrain GP in Malaysia, where a late retirement for George Russell might mean his title challenge could be over?",
+   "link": "https://www.skysports.com/watch/video/13595314/formula-1-knockout-blow-for-russell-title-challenge-in-sepang-the-verdict",
+   "source": "Sky Sports",
+   "channel": "体育",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-05 19:22",
-   "ts": 1791199354
+   "fetched_at": "10-05 19:26",
+   "ts": 1791199560
   },
   {
    "id": "f8fec38f92a67b83f1f3723e5c237b52",
@@ -1169,19 +1430,6 @@
    "urgent": false,
    "fetched_at": "10-05 19:01",
    "ts": 1791198112
-  },
-  {
-   "id": "8a41f2a7c6e2abb581b5e6535e94f4c6",
-   "title": "Some iPhone 18 Pro Max units are losing cell service, but the good news is you get a new phone (again)",
-   "summary": "Apple has already rolled out a bug fixing update to prevent other iPhone 18 Pro Max models from being impacted.",
-   "link": "https://www.androidauthority.com/apple-iphone-18-pro-max-att-cellular-issues-3719002/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:58",
-   "ts": 1791197923
   },
   {
    "id": "2c3cae3be58f41de96bc3c442160528e",
@@ -1238,7 +1486,7 @@
   {
    "id": "75cb8a66c04957898938155783d505d2",
    "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-   "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49963094\nPoints: 60\n# Comments: 1",
+   "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49963094\nPoints: 78\n# Comments: 2",
    "link": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1262,32 +1510,6 @@
    "ts": 1791196535
   },
   {
-   "id": "9623cd4a370f47b1b351f75527f0bfe3",
-   "title": "Apple’s rumored smart display is a serious threat to Google Home — if it gets these things right",
-   "summary": "Google should be terrified of Apple actually taking the smart home seriously.",
-   "link": "https://www.androidauthority.com/apple-smart-display-google-home-3718655/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:30",
-   "ts": 1791196214
-  },
-  {
-   "id": "5ea5fae7534edc4d4869f2aa676c2834",
-   "title": "First look: Gemini in Android Auto could get a new animation",
-   "summary": "Gemini in Android Auto could get a Neural Expressive makeover.",
-   "link": "https://www.androidauthority.com/gemini-android-auto-new-animation-apk-teardown-3719046/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:30",
-   "ts": 1791196202
-  },
-  {
    "id": "99027ef3e41874447f70e891db3ce417",
    "title": "Oppo F35 and F35 Pro debut with 8,000mAh batteries and 50MP selfie cameras",
    "summary": "Right on schedule, Oppo unveiled the F35 series in India. They’ve grown heavier compared to their predecessors, the F33 and F33 Pro, since they bring bigger bat",
@@ -1303,7 +1525,7 @@
   {
    "id": "5b7ae3f4d353c7d7288399122933be2c",
    "title": "Apple and a Hacker's Future",
-   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 101\n# Comments: 78",
+   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 115\n# Comments: 98",
    "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1483,19 +1705,6 @@
    "ts": 1791188940
   },
   {
-   "id": "ddf45e1e007c0d53ec25a9db89a94ee2",
-   "title": "F1 2026 team-mate head-to-heads after Bahrain GP in Malaysia",
-   "summary": "The 2026 Formula 1 head-to-heads with all of the latest Qualifying, Sprint and Grand Prix scores in each of the 11 teams.",
-   "link": "https://www.skysports.com/f1/news/12040/13516662/f1-team-mate-2026-head-to-head-qualifying-race-sprint-latest-scores-results-from-formula-1-season",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 16:25",
-   "ts": 1791188700
-  },
-  {
    "id": "fd6e9c68ace5f1f8462ed457afa8d812",
    "title": "WF2026首次曝光INART《影之刃零》主角魂1:1雕像",
    "summary": "在刚刚落幕的WF2026上海展会上，INART展台首次对外展出了国产武侠动作游戏《影之刃零》主角魂的1:1与1:3比例雕像。展会现场人流量巨大，这组雕像也成为展位当中的热门看点之一，实物雕像从整体呈现到细节展示，都给到场的观众带来了很强的视觉冲击。\n\n\n\n《影之刃零》3D美术负责人王琛也在个人微博放出了雕像更多的实拍照",
@@ -1537,7 +1746,7 @@
   {
    "id": "f3d78edab88a060c1d1eeb190a672a1a",
    "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 100\n# Co",
+   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 106\n# Co",
    "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1546,19 +1755,6 @@
    "urgent": false,
    "fetched_at": "10-05 15:46",
    "ts": 1791186370
-  },
-  {
-   "id": "094c62e2fd82d5d0981d8335ff27d6da",
-   "title": "Hallgrimsson urges UEFA to keep Ireland and Israel apart in future",
-   "summary": "Heimir Hallgrimsson has called on UEFA to keep Ireland and Israel apart in future.",
-   "link": "https://www.skysports.com/football/news/12040/13595235/republic-of-ireland-heimir-hallgrimsson-calls-on-uefa-to-keep-ireland-and-israel-apart-in-future-after-tense-draw",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:32",
-   "ts": 1791185520
   },
   {
    "id": "79519ea3942ee9314cb663840a5c5d92",
@@ -1585,19 +1781,6 @@
    "urgent": false,
    "fetched_at": "10-05 14:05",
    "ts": 1791180302
-  },
-  {
-   "id": "97900eed23a2e29d1578f1e93d341238",
-   "title": "F1 Sprint format: How does it work in 2026?",
-   "summary": "Everything you need to know about Formula 1's Sprint weekend format for the 2026 F1 season.",
-   "link": "https://www.skysports.com/f1/news/12040/13518235/f1-sprint-schedule-points-results-format-explained-qualifying-race-and-venues-for-2026-season",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 14:05",
-   "ts": 1791180300
   },
   {
    "id": "ff2e03762f875f40248f2b0a0177a398",
@@ -1704,43 +1887,43 @@
    "ts": 1791165600
   },
   {
-   "id": "26a02a56311cdd1c221325b1e7333dc4",
-   "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-   "summary": "Article URL: https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/\nComments U",
-   "link": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
+   "id": "dd04eaad30409f47d35b926f772fe5f0",
+   "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light: live updates",
+   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03091-2Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology ",
+   "link": "https://www.nature.com/articles/d41586-026-03091-2",
+   "source": "Nature",
+   "channel": "科学",
    "category": "资讯",
-   "weight": 2,
+   "weight": 3,
    "urgent": false,
-   "fetched_at": "10-05 09:54",
-   "ts": 1791165248
+   "fetched_at": "10-05 08:00",
+   "ts": 1791158400
   },
   {
-   "id": "1bb3eb28183baf3aa2cb77a727800747",
-   "title": "So Long, Kody & Robyn: Where to Watch ‘Sister Wives’ Season 21 for Free Online Featuring Only the OG Spouses",
-   "summary": "The newest season premieres on Sunday, Oct. 4, and specifically revolves around Meri, Janelle and Christine's lives.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/where-to-watch-sister-wives-season-21-free-online-1236717631/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
+   "id": "a06000fb863533e0e0a482adfd6949a5",
+   "title": "How big tech is building a military–industrial complex in the age of AI",
+   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03134-8Two books explore how warfare is being reshaped, with influence shifting from states to",
+   "link": "https://www.nature.com/articles/d41586-026-03134-8",
+   "source": "Nature",
+   "channel": "科学",
    "category": "资讯",
-   "weight": 2,
+   "weight": 3,
    "urgent": false,
-   "fetched_at": "10-05 09:00",
-   "ts": 1791162000
+   "fetched_at": "10-05 08:00",
+   "ts": 1791158400
   },
   {
-   "id": "878f13df42feb03f2760afaa780373e6",
-   "title": "Reggie McFadden, Actor-Comedian Known for ‘Def Comedy Jam’ and ‘In Living Color,’ Dies at 57",
-   "summary": "He also appeared on ‘Martin,’ ‘Hangin’ With Mr. Cooper,’ ‘Moesha,’ ‘Coach’ and 'Curb Your Enthusiasm.’",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/reggie-mcfadden-dead-def-comedy-jam-in-living-color-1236722079/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
+   "id": "7312eacd1cd3f8f15b5b158e784c7395",
+   "title": "AI biohazard hype must not divert attention from the real risks we face now",
+   "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03135-7Twenty-five years after the US anthrax attacks, fears around AI are distracting people ",
+   "link": "https://www.nature.com/articles/d41586-026-03135-7",
+   "source": "Nature",
+   "channel": "科学",
    "category": "资讯",
-   "weight": 2,
+   "weight": 3,
    "urgent": false,
-   "fetched_at": "10-05 08:58",
-   "ts": 1791161905
+   "fetched_at": "10-05 08:00",
+   "ts": 1791158400
   },
   {
    "id": "fc1cf557572c4b37d59fbeb791144269",
@@ -1767,19 +1950,6 @@
    "urgent": false,
    "fetched_at": "10-05 07:04",
    "ts": 1791155075
-  },
-  {
-   "id": "64ac32f4d993cbe9ea88e1d9eac241ad",
-   "title": "Republic of Ireland draw with Israel in second Nations League meeting",
-   "summary": "The Republic of Ireland drew 1-1 with Israel in the second controversial Nations League fixture between the sides.",
-   "link": "https://www.skysports.com/football/republic-of-ireland-vs-israel/report/554064",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 05:51",
-   "ts": 1791150660
   },
   {
    "id": "0d2ec806a8110175d7e42c110ee1800c",
@@ -1832,19 +2002,6 @@
    "urgent": false,
    "fetched_at": "10-05 05:02",
    "ts": 1791147729
-  },
-  {
-   "id": "2e52209d54610fcee4461e07dfed5f5a",
-   "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 181\n# Comments: 20",
-   "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 05:01",
-   "ts": 1791147688
   },
   {
    "id": "7e35cbc7b690a7993342a00d9e6210ce",
@@ -1925,19 +2082,6 @@
    "ts": 1791136800
   },
   {
-   "id": "f9a23262fc3bc3d9b17960c9ca1d2dac",
-   "title": "The best early October Prime Day deals happening now",
-   "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’",
-   "link": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 01:18",
-   "ts": 1791134280
-  },
-  {
    "id": "999670218561d3f8638f9b1be38c5b2a",
    "title": "Trump announces $90 payments for seniors’ Medicare premium costs ahead of midterm elections",
    "summary": "President Trump is promising more payments to voters just ahead of the Nov. 3 midterm elections — this time for seniors' Medicare Part B premiums",
@@ -2014,19 +2158,6 @@
    "urgent": false,
    "fetched_at": "10-04 23:26",
    "ts": 1791127574
-  },
-  {
-   "id": "bdfe26e6c88946c010fd28a4e2b783b9",
-   "title": "An AI couldn’t beat humans at StarCraft, so it decided to cheat",
-   "summary": "StarSkirmish pits AI-made StarCraft-playing bots against one another, as well as against human-made bots. OpenAI's GPT-6 Astra and Claude Opus 5.5 were essentia",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1004543/openai-gpt-cheat-starcraft",
-   "source": "The Verge",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 23:21",
-   "ts": 1791127319
   },
   {
    "id": "4fd01b951b06c43659d118867ea38565",
@@ -2120,19 +2251,6 @@
    "ts": 1791124884
   },
   {
-   "id": "77f2f4e1bb3ec5552a2063cb48ae4f19",
-   "title": "Strings and Character Data in Python",
-   "summary": "Work with Python strings using a rich set of operators and functions: string literals, the str() function, and the methods you'll use most.",
-   "link": "https://realpython.com/python-strings/",
-   "source": "Real Python",
-   "channel": "教程",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 22:00",
-   "ts": 1791122400
-  },
-  {
    "id": "f6ad535a0b4d45120b04e48abfe760e3",
    "title": "How to Install Python on Your System: A Guide",
    "summary": "Learn how to install Python on Windows, macOS, and Linux, check your version, and pick the best installation method for your system.",
@@ -2140,6 +2258,19 @@
    "source": "Real Python",
    "channel": "教程",
    "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-04 22:00",
+   "ts": 1791122400
+  },
+  {
+   "id": "77f2f4e1bb3ec5552a2063cb48ae4f19",
+   "title": "Strings and Character Data in Python",
+   "summary": "Work with Python strings using a rich set of operators and functions: string literals, the str() function, and the methods you'll use most.",
+   "link": "https://realpython.com/python-strings/",
+   "source": "Real Python",
+   "channel": "教程",
+   "category": "资讯",
    "weight": 2,
    "urgent": false,
    "fetched_at": "10-04 22:00",
@@ -2458,19 +2589,6 @@
    "ts": 1791039600
   },
   {
-   "id": "36917c9bd5f0c95baf706c2da9d03bd3",
-   "title": "Vessev built an electric ferry that almost flies",
-   "summary": "Vessev hopes its electric hydrofoil ferry will change the way people and cities think about boats.",
-   "link": "https://techcrunch.com/2026/10/03/vessev-built-an-electric-ferry-that-almost-flies/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 22:42",
-   "ts": 1791038520
-  },
-  {
    "id": "c09f565bb2b33b454d80a5801ebf677d",
    "title": "Musk explains why Tesla Robotaxi is not running at night, and lidar is the answer",
    "summary": "Elon Musk says the main thing holding back Tesla Robotaxi’s night hours is that the cars have a hard time seeing pets in the dark. His example was “grey kittens",
@@ -2484,32 +2602,6 @@
    "ts": 1791038219
   },
   {
-   "id": "4a6c3ff413b0f91044428087873759c5",
-   "title": "All the AI agents that can live in your text messages",
-   "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-   "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 22:00",
-   "ts": 1791036000
-  },
-  {
-   "id": "e61917a7d65fe6eabf9fcb4dd42655b8",
-   "title": "11 Beginner Tips for Learning Python Programming",
-   "summary": "Python tips for beginners: the learning strategies and habits that take you from your first script to code you're proud of.",
-   "link": "https://realpython.com/python-beginner-tips/",
-   "source": "Real Python",
-   "channel": "教程",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 22:00",
-   "ts": 1791036000
-  },
-  {
    "id": "9c70fb59e63624c0b0e5e4699c474df9",
    "title": "Basic Data Types in Python: A Quick Exploration",
    "summary": "Explore the Python basic data types built into the language: numbers, strings, bytes, and Booleans, and how each one behaves.",
@@ -2521,97 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-03 22:00",
    "ts": 1791036000
-  },
-  {
-   "id": "94489ddfe6e45ee92dd00fa2a73d88e3",
-   "title": "I tried taking the budget-priced Ride1Up Roadster V3 e-bike off-roading. Here’s what happened next",
-   "summary": "The Ride1Up Roadster V3 is, for all intents and purposes, is a budget-focused daily driver urban bike. It’s not really a gravel bike. Maybe if you stand back a ",
-   "link": "https://electrek.co/2026/10/03/i-took-the-budget-priced-ride1up-roadster-v3-e-bike-offroading-heres-what-happened-next/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 21:26",
-   "ts": 1791034012
-  },
-  {
-   "id": "fcb3d14ace430834b929664719b6610f",
-   "title": "This $100 Power Washer Whupped My More Expensive Model. I Was as Shocked as Anyone",
-   "summary": "Electric power washers range in price from $100 to $400. I tested one at each end of the price spectrum to see how they compare.",
-   "link": "https://www.cnet.com/home/yard-and-outdoors/power-washer-test-lawnmaster-lt506-vs-ar-blue-clean/",
-   "source": "CNET",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 21:00",
-   "ts": 1791032400
-  },
-  {
-   "id": "c4699ec536c4165cd793eb3d23f94bf6",
-   "title": "This Vintage Porsche 944 Conversion Is Way Cooler Than a New 911",
-   "summary": "German tuner CarPoint will turn your transaxle-era Porsche into a stylish shooting brake.",
-   "link": "https://www.caranddriver.com/news/a74001537/carpoint-porsche-944-conversion-details/",
-   "source": "Car and Driver",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 21:00",
-   "ts": 1791032400
-  },
-  {
-   "id": "2da3e42369defa232770491d80b1ca5c",
-   "title": "FedEx believes $300M electric truck spend will save them $800M in diesel",
-   "summary": "In a record-setting commercial truck deal, international shipping giant FedEx has placed an order for 2,000 all-electric box trucks from American startup Harbin",
-   "link": "https://electrek.co/2026/10/03/fedex-believes-300m-electric-truck-spend-will-save-them-800m-in-diesel/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 20:54",
-   "ts": 1791032050
-  },
-  {
-   "id": "347564f491370010d8d26a5f578e34e0",
-   "title": "普通人投资的出路到底在哪儿",
-   "summary": "",
-   "link": "http://xueqiu.com/1433550277/411255785",
-   "source": "雪球",
-   "channel": "财经",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 20:48",
-   "ts": 1791031686
-  },
-  {
-   "id": "425aa844cf154db9d0c3cd2e6ed00e13",
-   "title": "从美光财报谈谈市场需要什么预期",
-   "summary": "",
-   "link": "http://xueqiu.com/5332385101/411250110",
-   "source": "雪球",
-   "channel": "财经",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 20:47",
-   "ts": 1791031679
-  },
-  {
-   "id": "b37cb5146ca805dea98999576e724232",
-   "title": "View Photos of the 1978 Subaru Wagon Through Baja",
-   "summary": "See photos of the 1978 Subaru wagon through Baja from every angle.",
-   "link": "https://www.caranddriver.com/photos/a73963655/1978-subaru-wagon-through-baja-archive-feature-gallery/",
-   "source": "Car and Driver",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 20:47",
-   "ts": 1791031635
   }
  ]
 }
