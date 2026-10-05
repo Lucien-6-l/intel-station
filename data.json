@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 18:40",
- "total": 258,
+ "updated_at": "2026-10-05 19:05",
+ "total": 248,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,10 +10,113 @@
   "数码",
   "汽车",
   "游戏",
-  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "bcc087cdb5ca88d0342ba3b52d998090",
+   "title": "Humphries ready to win another World title - and wants Littler in the final",
+   "summary": "Luke Humphries says his World Grand Prix triumph has left him feeling ready to win a second World Championship - and hopes to face Luke Littler in the final.",
+   "link": "https://www.skysports.com/darts/news/12040/13595292/luke-humphries-hoping-to-face-luke-littler-in-world-championship-final-after-ending-major-drought-at-world-grand-prix",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:00",
+   "ts": 1791201600
+  },
+  {
+   "id": "d0ddc55cd9417d305ca429c5120c4ccb",
+   "title": "Alcaraz fights back against Munar to book spot in Japan Open final",
+   "summary": "Highlights from Carlos Alcaraz's semi-final clash against Juame Munar at the Japan Open.",
+   "link": "https://www.skysports.com/watch/video/13595305/carlos-alcaraz-vs-jaume-munar-japan-open-highlights",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 19:11",
+   "ts": 1791198660
+  },
+  {
+   "id": "5e821e49e6615b034b04567c1c82b536",
+   "title": "‘NAZA’ Rebuttal Doc Surfaces Online, Made by IDF Reserve Members",
+   "summary": "Just as hot-button Gaza documentary “NAZA&#8221; — which recently won a special jury prize at the Venice Film Festival — gains international visibility and medi",
+   "link": "https://variety.com/2026/film/global/naza-rebuttal-doc-idf-reserve-members-1236898918/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 19:01",
+   "ts": 1791198112
+  },
+  {
+   "id": "f32249e279b55d0f14b8e4b6f4ae0564",
+   "title": "Guardians vs. White Sox prediction, odds, time: 2026 ALDS Game 2 picks by proven model",
+   "summary": "SportsLine's model simulated White Sox vs. Guardians in the American League Divisional Series as the 2026 MLB playoffs continue on Monday",
+   "link": "https://www.cbssports.com/betting/news/guardians-white-sox-prediction-odds-time-2026-alds-game-2-mlb-playoff-picks/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 19:00",
+   "ts": 1791198021
+  },
+  {
+   "id": "8a41f2a7c6e2abb581b5e6535e94f4c6",
+   "title": "Some iPhone 18 Pro Max units are losing cell service, but the good news is you get a new phone (again)",
+   "summary": "Apple has already rolled out a bug fixing update to prevent other iPhone 18 Pro Max models from being impacted.",
+   "link": "https://www.androidauthority.com/apple-iphone-18-pro-max-att-cellular-issues-3719002/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:58",
+   "ts": 1791197923
+  },
+  {
+   "id": "cd5f43595a77897148499a8cb44853f1",
+   "title": "Focus Modes are another way Apple has adapted iOS 27 for the iPhone Duo",
+   "summary": "The unique form factor of the iPhone Duo led Apple to adapt iOS 27 in a number of ways to take full advantage of the upcoming new phone. This includes the iPhon",
+   "link": "https://9to5mac.com/2026/10/05/focus-modes-are-another-way-apple-has-adapted-ios-27-for-the-iphone-duo/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:54",
+   "ts": 1791197693
+  },
+  {
+   "id": "4c69db1580155441701231c012f97db7",
+   "title": "Spotify 提前泄露《GTA 6》原声带艺人信息：Cardi B 与 Fuerza Regida 确认加入阵容",
+   "summary": "IT之家 10 月 5 日消息，随着《GTA 6》发售日期临近，游戏原声带的更多信息也陆续曝光。Spotify 近日提前泄露了两名将参与《GTA 6》原声带的音乐艺人信息 Cardi B 和 Fuerza Regida，引发玩家讨论。目前 Rockstar Games 仅正式公布了 34 首歌曲中的 6 首，剩余 28",
+   "link": "https://www.ithome.com/1/009/861.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:44",
+   "ts": 1791197079
+  },
+  {
+   "id": "aaf24589811f215dbfb1b6f7961cd747",
+   "title": "France’s Canal+ Threatens to Pull $1.1 Billion Cinema Deal Over French Tax Hike",
+   "summary": "Canal+ Group chairman Maxime Saada has warned that the pay TV banner could pull out of its €1 billion ($1.1 billion) investment deal with the French film indust",
+   "link": "https://variety.com/2026/film/global/frances-canal-1-1-billion-cinema-deal-tax-hike-1236898925/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:43",
+   "ts": 1791196988
+  },
   {
    "id": "f479003d2e20c1221842e54e13a62892",
    "title": "通用汽车推出 2027 款雪佛兰 Silverado 1500/GMC Sierra 1500 车型，将 CarPlay / Android Auto 整合入自家车机卡片",
@@ -67,6 +170,19 @@
    "ts": 1791196202
   },
   {
+   "id": "36ab5d06695ece049b47a0ef86610890",
+   "title": "College football odds, picks, predictions for Week 6, 2026: Computer likes Arkansas, Nebraska",
+   "summary": "SportsLine's model has revealed its 2026 Week 6 college football picks for matchups such as Alabama vs. Georgia, Oregon vs. UCLA and LSU vs. Kentucky",
+   "link": "https://www.cbssports.com/betting/news/college-football-odds-picks-predictions-week-6-2026/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 18:24",
+   "ts": 1791195877
+  },
+  {
    "id": "fa3e35db7f7cb3f8b951d8d217524560",
    "title": "《黎明杀机》开发商 Behaviour Interactive 发布“高级技术动画师”招募信息，意外曝光旗下神秘 3A 大作",
    "summary": "IT之家 10 月 5 日消息，据外媒 Insider Gaming 报道，《黎明杀机》开发商 Behaviour Interactive 近日发布了一则高级技术动画师（Senior Technical Animator）招聘信息，岗位隶属于该公司位于加拿大蒙特利尔的工作室。根据职位描述，该动画师将参与 Behavio",
@@ -108,7 +224,7 @@
   {
    "id": "5b7ae3f4d353c7d7288399122933be2c",
    "title": "Apple and a Hacker's Future",
-   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 5\n# Comments: 0",
+   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 24\n# Comments: 7",
    "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -156,19 +272,6 @@
    "urgent": false,
    "fetched_at": "10-05 18:00",
    "ts": 1791194411
-  },
-  {
-   "id": "9bd27413adf975dd2ceb2f2b69b7c65c",
-   "title": "Messi lauded as Ronaldo involved in bitter dispute - a fitting finale?",
-   "summary": "Maybe it was inevitable, given how entwined their careers have been. But the comparison is irresistible. As Lionel Messi is lauded in Argentina during his farew",
-   "link": "https://www.skysports.com/football/news/12040/13594313/cristiano-ronaldos-portugal-dispute-happening-against-the-backdrop-of-lionel-messis-argentina-farewell-feels-fitting",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:00",
-   "ts": 1791194400
   },
   {
    "id": "b5a17009a86938829e7731fa78932fb6",
@@ -238,7 +341,7 @@
   {
    "id": "a37501930336cfc277be5e9a4c9036bd",
    "title": "高通与华为达成逻辑折叠芯片技术相关专利授权，韬定律加速出海",
-   "summary": "IT之家 10 月 5 日消息，彭博社今日发布报道《Qualcomm Licenses Patents on Huawei' s LogicFolding Chip Tech》，高通公司已同意获得支撑华为技术有限公司新型逻辑折叠芯片制造技术的专利许可，这对华为及其在海外 AI 市场的推动力来说是一笔胜利（Qualcom",
+   "summary": "IT之家 10 月 5 日消息，彭博社今日发布报道《Qualcomm Licenses Patents on Huawei' s LogicFolding Chip Tech》，高通公司已同意获得支撑华为技术有限公司新型逻辑折叠芯片制造技术的专利许可，这对华为及其在海外 AI 市场的推动力来说是一笔胜利（原文为 Qua",
    "link": "https://www.ithome.com/1/009/852.htm",
    "source": "IT之家",
    "channel": "AI·科技",
@@ -379,19 +482,6 @@
    "ts": 1791192017
   },
   {
-   "id": "4e4a9bcc00726529999f50076a477f36",
-   "title": "阿里千问 AI 耳夹式耳机上架预约：Bose 调音，支持 89 种语言翻译",
-   "summary": "IT之家 10 月 5 日消息，阿里千问 AI 耳夹式耳机现已上架电商平台并开启预约，具体价格暂未公布。这款耳机有深空蓝、星光色、极光紫三种颜色可选，不分左右耳，支持 IP55 级防尘防泼溅，至多可配对 8 台设备，支持双设备同时连接；耳机续航 9 小时，配合充电仓 40 小时，支持无线充电。这款耳机搭载 0.5mm ",
-   "link": "https://www.ithome.com/1/009/846.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:18",
-   "ts": 1791191926
-  },
-  {
    "id": "ae54002f1ca506663c22dd8ccb8a2cdc",
    "title": "I love the Pixel 11 Pro, but Google has 3 big problems to fix for the Pixel 12 Pro",
    "summary": "Google, this is what you need to do.",
@@ -496,8 +586,8 @@
    "ts": 1791189000
   },
   {
-   "id": "73ec748283faa743f04d572f82db70e4",
-   "title": "Hospital and pharmaceutical prices are smothering America’s businesses",
+   "id": "35e5102885996812c3f6000680dfe97c",
+   "title": "STAT+: Hospital and pharmaceutical prices are smothering America’s businesses",
    "summary": "Workers and employers are drowning in their health insurance premiums. The reason for that deluge: the health care industry’s high and inscrutable prices.",
    "link": "https://www.statnews.com/2026/10/05/hospital-bills-drug-prices-insurance-premiums-spiral-part-5-out-of-pocket-series/?utm_campaign=rss",
    "source": "STAT News",
@@ -613,22 +703,9 @@
    "ts": 1791187200
   },
   {
-   "id": "862f5655c1445d88359e450e184d0222",
-   "title": "Googlebook key features detailed: Here’s what you get with Glowbar, Game Controls, and more",
-   "summary": "Google also explains the built-in PDF and document editor along with setup and troubleshooting tips.",
-   "link": "https://www.androidauthority.com/googlebook-glowbar-game-control-feature-3718891/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:54",
-   "ts": 1791186881
-  },
-  {
    "id": "f3d78edab88a060c1d1eeb190a672a1a",
    "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 68\n# Com",
+   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 72\n# Com",
    "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -771,7 +848,7 @@
   {
    "id": "51ff97dab6bb1ce0f06918ce5eeeeb95",
    "title": "Replacement of petroleum based products with plant-based materials (2025)",
-   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 69\n# Comments: 34",
+   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 70\n# Comments: 36",
    "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -951,19 +1028,6 @@
    "ts": 1791165600
   },
   {
-   "id": "1417de4fef9a482454b2f963509594a6",
-   "title": "‘Lanterns’ Finale: Hal Jordan’s Killer and Manhunter Revealed, Sinestro Creates [SPOILER], John Stewart Powers Up for ‘Superman’ Sequel",
-   "summary": "SPOILER ALERT: This article contains spoilers for the &#8220;Lanterns&#8221; finale, now streaming on HBO Max. Have no fear, the &#8220;Lanterns&#8221; finale i",
-   "link": "https://variety.com/2026/tv/news/lanterns-finale-hal-killer-manhunter-sinestro-yellow-lantern-1236897626/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:00",
-   "ts": 1791165600
-  },
-  {
    "id": "d286b4ad84c09497bac295efd3b3b086",
    "title": "‘Lanterns’ Team Breaks Down Finale’s Emotional Gamble, Hal Jordan’s Ultimate Fate and John Stewart’s Future",
    "summary": "Some viewers might take issue with one major swing, but the team sees it as \"remixing\" rather than \"rewriting\" Green Lantern canon.",
@@ -1001,19 +1065,6 @@
    "urgent": false,
    "fetched_at": "10-05 09:54",
    "ts": 1791165248
-  },
-  {
-   "id": "3e6e4ef824e8b39c4593cd0e39cb1f06",
-   "title": "Korean Directors Rally Behind ‘The Assassin(s)’ as Political Firestorm Turns on Its Makers",
-   "summary": "The Directors Guild of Korea (DGK) has come out in support of the team behind &#8220;The Assassin(s),&#8221; Hur Jin-ho&#8217;s thriller about the 1974 shooting",
-   "link": "https://variety.com/2026/film/news/the-assassins-korea-directors-guild-1236898817/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:13",
-   "ts": 1791162802
   },
   {
    "id": "d537da20dcee6f92f90863f18f4b61ec",
@@ -1094,32 +1145,6 @@
    "ts": 1791158689
   },
   {
-   "id": "de0c2a61ddfad859e8347caac127a4d4",
-   "title": "Lions vs. Panthers odds, predictions, betting preview, start time: Sunday Night Football picks, best bets",
-   "summary": "Best bets and betting preview for Lions vs. Panthers on Sunday Night Football",
-   "link": "https://www.cbssports.com/betting/news/lions-vs-panthers-odds-predictions-betting-preview-start-time-sunday-night-football-picks-best-bets/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:59",
-   "ts": 1791158360
-  },
-  {
-   "id": "5a487b29dc877d8da13725655644b739",
-   "title": "Week 4 overreactions: Should Rams still be Super Bowl favorites? Cowboys to win NFC East?",
-   "summary": "Plus, why Ben Johnson won't win Coach of the Year",
-   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-overreactions-rams-jaguars-cowboys-win-nfc-east/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:53",
-   "ts": 1791158002
-  },
-  {
    "id": "fc1cf557572c4b37d59fbeb791144269",
    "title": "Mighty Mike Plays Dad Says He Owns 'Like 12 Companies,' Promises Refunds for AI Shirts",
    "summary": "Mighty Mike Plays dad Dave has promised refunds and issued a lengthy explanation after the internet demanded more information about the YouTube ads allegedly pu",
@@ -1174,7 +1199,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 143\n# Comments: 32",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 147\n# Comments: 32",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1291,7 +1316,7 @@
   {
    "id": "2e52209d54610fcee4461e07dfed5f5a",
    "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 144\n# Comments: 17",
+   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 146\n# Comments: 17",
    "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1369,7 +1394,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 587\n# Comments: 402",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 597\n# Comments: 411",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1408,7 +1433,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 249\n# Comments: 86",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 258\n# Comments: 88",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1772,7 +1797,7 @@
   {
    "id": "b2f4a7c23b312ad1f2de434faa293b99",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 812\n# Comments: 358",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 819\n# Comments: 361",
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1824,7 +1849,7 @@
   {
    "id": "6c0c163721146c3be48644c9ffb10866",
    "title": "Bill Draper has died",
-   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 122\n# Comments: 38",
+   "summary": "https://archive.ph/YRgDY\n\nComments URL: https://news.ycombinator.com/item?id=49953288\nPoints: 123\n# Comments: 38",
    "link": "https://www.nytimes.com/2026/09/30/technology/william-draper-dead.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -2108,19 +2133,6 @@
    "ts": 1791062792
   },
   {
-   "id": "a805ec71882f9fbddbcad0b9b0238a71",
-   "title": "Fixtures set for 2027 season as Netball Super Cup heads to Nottingham",
-   "summary": "The fixtures for the 2027 Netball Super League have been set with the Netball Super Cup to be held on February 27.",
-   "link": "https://www.skysports.com/netball/news/12040/13594826/netball-super-league-fixtures-set-for-2027-season-with-netball-super-cup-heading-to-nottinghams-motorpoint-arena",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 04:11",
-   "ts": 1791058260
-  },
-  {
    "id": "b87ae2a69fb38c238e47ed8ba6855325",
    "title": "Watch F1 on Apple TV tonight, free for everyone in the US",
    "summary": "The Bahrain Grand Prix is streaming for free on Apple TV this weekend, subscription not required. Rather amusingly, the location of the Bahrain Grand Prix is ac",
@@ -2340,19 +2352,6 @@
    "urgent": false,
    "fetched_at": "10-03 22:00",
    "ts": 1791036000
-  },
-  {
-   "id": "ee3f46a1b4f1cff3868dc4dc656fab68",
-   "title": "Apple @ Work: The numbers on AI trust for IT are not great, and one company is trying to fix it",
-   "summary": "Apple @ Work is exclusively brought to you by Mosyle, the only Apple Unified Platform. Mosyle is the only solution that integrates in a single professional grad",
-   "link": "https://9to5mac.com/2026/10/03/macpaw-leebry/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 21:45",
-   "ts": 1791035100
   },
   {
    "id": "94489ddfe6e45ee92dd00fa2a73d88e3",
