@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05 11:04",
+ "updated_at": "2026-10-05 11:41",
  "total": 258,
  "channels": [
   "AI·科技",
@@ -14,6 +14,97 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "8267988ef1cc1679f8ee5f3f54b02844",
+   "title": "Thrustmaster 推出《跑车浪漫旅 7》授权直驱方向盘套装 T-GT III",
+   "summary": "IT之家 10 月 5 日消息，Thrustmaster（图马思特）近日宣布推出直驱方向盘 T-GT III。这一套装得到《跑车浪漫旅 7》(Gran Turismo 7) 与 PlayStation 官方授权。T-GT III 是首款专为《跑车浪漫旅》设计的直驱方向盘套装，也是首款原生集成力传感器踏板组的方向盘。其可",
+   "link": "https://www.ithome.com/1/009/786.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 11:39",
+   "ts": 1791171564
+  },
+  {
+   "id": "8a2633ff8168acd5b3763f08a122169c",
+   "title": "联想来酷推出 N27 Pro 一体台式机：酷睿 i5-13420H，4499 元起",
+   "summary": "IT之家 10 月 5 日消息，联想来酷现已推出 N27 Pro 一体台式机，搭载酷睿 i5-13420H 处理器，售价 4499 元起：16GB+512GB：4499 元16GB+1TB：4999 元IT之家获悉，这款新品提供云翎黑、雪羽白两种配色可选，配备 27 英寸 2.5K（2560×1440） 100Hz 高",
+   "link": "https://www.ithome.com/1/009/785.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 11:30",
+   "ts": 1791171053
+  },
+  {
+   "id": "0556a5a4ab8203bd315e454d9aebe195",
+   "title": "Akasa 发布 5.2L 无风扇 ITX 机箱 Euler MX2，兼容多代 35W 英特尔处理器",
+   "summary": "IT之家 10 月 5 日消息，Akasa（爱克生）英国当地时间本月 2 日发布了其无风扇机箱新品 Euler MX2。这一型号兼容 35W TDP 的多代英特尔处理器。Euler MX2 机身由阳极氧化铝材构成，三维 272.6 × 205 ×92.6 (mm)，体积 5.2L。其支持英特尔 Socket V/H 平",
+   "link": "https://www.ithome.com/1/009/784.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 11:27",
+   "ts": 1791170833
+  },
+  {
+   "id": "ab46034d3cba9c434bf9219f7b94b59b",
+   "title": "NLDS Game 2 winners and losers: Brewers magic strikes again in walk-off win; Braves put on pitching clinic",
+   "summary": "The Brewers took a 2-0 series lead over the Padres, while the Braves evened their own series against the Dodgers",
+   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoffs-nlds-game-2-winners-losers/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 11:22",
+   "ts": 1791170560
+  },
+  {
+   "id": "ff33755258077ddaa2d7fcf07687e596",
+   "title": "2026 MLB playoff bracket: Schedule, scores, where to watch with Division Series underway",
+   "summary": "Eight teams remain in the 2026 MLB playoffs, with the best-of-five LDS round underway",
+   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 11:22",
+   "ts": 1791170525
+  },
+  {
+   "id": "1ed8ce94bac3289c481f9214c22bbd29",
+   "title": "微软发布 Win11 26H2 组策略模板，方便企业管理员调整配置",
+   "summary": "IT之家 10 月 5 日消息，Neowin 今日发现，微软 9 月底发布了一份面向企业管理员的 Windows 11 2026 更新（26H2）配套管理工具，方便 IT 管理员在部署新版本系统前检查现有组策略配置，并管理 26H2 新增及调整的策略。此次发布的 Administrative Templates（ADM",
+   "link": "https://www.ithome.com/1/009/783.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 11:16",
+   "ts": 1791170210
+  },
+  {
+   "id": "4b123fba93f92da78cdef936b6ec095b",
+   "title": "瓦尔基里公布 VK 99 V2 机械键盘：AI 创想灯效，长至 12000hr 无线续航",
+   "summary": "IT之家 10 月 5 日消息，瓦尔基里 (Valkyrie, Vk) 今日公布了 VK 99 V2 系列三模机械键盘的完整参数表。其价格情况尚未公开。VK 99 V2 整体采用 2U0 的 98 配列，集成天际光廊贯穿式灯柱与下灯位 RGB 背光，支持人工智能驱动的 AI 创想灯效、音乐律动，内部包含竖向音量旋钮。其",
+   "link": "https://www.ithome.com/1/009/782.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 11:08",
+   "ts": 1791169711
+  },
   {
    "id": "e171af19b6ad8b2e5e17e00c92552494",
    "title": "Chiefs very interested in a Tyreek Hill reunion amid injuries at receiver, per report",
@@ -145,71 +236,6 @@
    "ts": 1791167387
   },
   {
-   "id": "26e353ad5dc07baddb39ebeeaa4e303f",
-   "title": "《GTA6》开发初期曾考虑四主角设定，R 星担心玩家不够代入而选择聚焦杰森与露西亚",
-   "summary": "IT之家 10 月 5 日消息，Rockstar North 联合负责人罗布 · 尼尔森（Rob Nelson）在接受 IGN 等媒体采访时透露，《GTA6》开发初期曾考虑加入四名可操作主角，但最终放弃了这一方案。他表示，团队曾讨论过如何延续《GTA5》的三主角结构，甚至考虑进一步增加至四名角色，但担心玩家分配给每名角",
-   "link": "https://www.ithome.com/1/009/773.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:23",
-   "ts": 1791167009
-  },
-  {
-   "id": "e6ae7009483a1aa3a93990fa7fd57929",
-   "title": "长安汽车米梦冬谈阿维塔 9 系设计：可以讨论、可以期待，最终还是让产品说话",
-   "summary": "IT之家 10 月 5 日消息，长安汽车副总裁、总法律顾问、新闻发言人米梦冬今日发布长文，谈及阿维塔 9 系设计，并表示“可以讨论，可以期待，最终还是让产品说话。”他表示，对于一款旗舰产品而言，最怕的不是有人喜欢、有人争论，而是没有自己的表达。阿维塔从诞生起，就没有选择最安全、最熟悉的路。米梦冬还称，真正的独特，不是永",
-   "link": "https://www.ithome.com/1/009/772.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:22",
-   "ts": 1791166976
-  },
-  {
-   "id": "fecf52b0a229eb1fc050cc8743564cd2",
-   "title": "华擎 DeskSlim X600 / B760 台式机支持英伟达 RTX PRO Blackwell 显卡",
-   "summary": "IT之家 10 月 5 日消息，华擎 (ASRock) 本月 2 日宣布，其 5L 级紧凑型台式机 DeskSlim X600（AMD)） / B760（英特尔）正式支持 NVIDIA（英伟达）RTX PRO 4000 Blackwell SFF Edition 与 RTX PRO 2000 Blackwell 专业显",
-   "link": "https://www.ithome.com/1/009/771.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:21",
-   "ts": 1791166884
-  },
-  {
-   "id": "32a1f8cc74d6e7133f2a9819734d1759",
-   "title": "Anthropic 前研究员将出席纽约 AI 听证会作证，曾警告 AI 或毁灭人类",
-   "summary": "IT之家 10 月 5 日消息，据知情人士向彭博新闻社透露，Anthropic 前研究员雅各布 · 考克斯顿（Jacob Coxon）将出席纽约市一场关于人工智能的听证会并作证。报道称，考克斯恩将应纽约市议会议长朱莉 · 梅宁的要求出席作证。朱莉 · 梅宁敦促人工智能举报人出庭作证，与此同时，市议员们正在审议一揽子法案",
-   "link": "https://www.ithome.com/1/009/769.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:14",
-   "ts": 1791166480
-  },
-  {
-   "id": "d8f03fedbaf257d7c228f076b3c83823",
-   "title": "南亚科技布局晶圆级封测，将在屏东科学园区投资设厂",
-   "summary": "IT之家 10 月 5 日消息，DRAM 内存芯片与模组制造商南亚科技 (Nanya Technology) 本月 1 日宣布，将在屏东科学园区投资设立 3D 晶圆封装测试厂。这座先进封测设施将导入 TSV（硅通孔）、晶圆堆叠等 3D IC 先进技术，布局晶圆级 (Wafer Level) 封装与测试的专业制造整合能力",
-   "link": "https://www.ithome.com/1/009/768.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:12",
-   "ts": 1791166322
-  },
-  {
    "id": "3b4971f743786ddcdbe9ffd25f7f8e90",
    "title": "Beats 360 review",
    "summary": "The Beats 360 are the newest pair of headphones from Apple-owned Beats by Dre, and are aimed specifically at those looking for a pair of headphones to use durin",
@@ -290,7 +316,7 @@
   {
    "id": "62c1f496cc96e2ff187d6338c2482e8b",
    "title": "A tribute to one of the best games on the Atari 2600",
-   "summary": "Article URL: https://plicerin.github.io/riverraid-rom-port/\nComments URL: https://news.ycombinator.com/item?id=49959865\nPoints: 5\n# Comments: 1",
+   "summary": "Article URL: https://plicerin.github.io/riverraid-rom-port/\nComments URL: https://news.ycombinator.com/item?id=49959865\nPoints: 13\n# Comments: 4",
    "link": "https://plicerin.github.io/riverraid-rom-port/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -483,32 +509,6 @@
    "ts": 1791157621
   },
   {
-   "id": "7d8eb8fa65e3b59871212efb5c8dd077",
-   "title": "2026 WNBA playoffs bracket, schedule, where to watch: Liberty and Aces both fall in Game 1 of semifinals",
-   "summary": "The Dream beat the Liberty and the Valkyries stifled the Aces on Sunday",
-   "link": "https://www.cbssports.com/wnba/news/2026-wnba-playoffs-bracket-schedule/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:43",
-   "ts": 1791157419
-  },
-  {
-   "id": "db38767efaded0386bc28d4eda456c79",
-   "title": "Use DraftKings promo code to get $150 bonus bets by targeting Lions-Panthers, NFL Week 4 Sunday Night Football",
-   "summary": "DraftKings offers $150 in bonus bets after your first $5 wager for NFL betting on Sunday",
-   "link": "https://www.cbssports.com/betting/news/use-draftkings-promo-code-to-get-150-bonus-bets-lions-vs-panthers-nfl-week-4-sunday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:39",
-   "ts": 1791157194
-  },
-  {
    "id": "99b91b5e1e7691489e373d220b2846ee",
    "title": "Zoe Kazan on Honoring Steinbeck’s ‘East of Eden’ for Netflix Series While Rethinking Its Characters",
    "summary": "The series creator explains her decision to build the adaptation around a love story, between brothers, rereading Cathy Ames and how she updated Steinbeck's nov",
@@ -602,7 +602,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 76\n# Comments: 20",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 87\n# Comments: 22",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -849,7 +849,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 398\n# Comments: 264",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 421\n# Comments: 270",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -888,7 +888,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 101\n# Comments: 43",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 111\n# Comments: 46",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1005,7 +1005,7 @@
   {
    "id": "d0549b40cf18c06783f4fb0f5d660e7f",
    "title": "Xray-core concealed a certificate verification bypass vulnerability",
-   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 61\n# Comments: 2",
+   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 62\n# Comments: 2",
    "link": "https://github.com/net4people/bbs/issues/672",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1408,7 +1408,7 @@
   {
    "id": "b2f4a7c23b312ad1f2de434faa293b99",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 634\n# Comments: 296",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 647\n# Comments: 303",
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "channel": "AI·科技",
