@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 22:42",
- "total": 256,
+ "updated_at": "2026-10-05 23:07",
+ "total": 264,
  "channels": [
   "AI·科技",
   "体育",
@@ -14,6 +14,97 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "527c8d4dfa21ccc2f3abd711470502e9",
+   "title": "Riley Keough and Director Clay Tweel Board First Responder Psychedelic Therapy Doc ‘Under Fire’ as Executive Producers (EXCLUSIVE)",
+   "summary": "Riley Keough and Clay Tweel have joined Brandon Kapelow’s documentary “Under Fire” as executive producers. “Under Fire” follows Rob, a veteran Idaho fire captai",
+   "link": "https://variety.com/2026/film/columns/riley-keough-clay-tweel-first-responder-psychedelic-therapy-documentary-under-fire-executive-producers-1236898220/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:05",
+   "ts": 1791212700
+  },
+  {
+   "id": "36f55c8bcb6800dbf52b619d886bf386",
+   "title": "Gillian Anderson Responds to Backlash Over Telling Superfans to Stop Sitting in Front Row",
+   "summary": "\"It'll drive me mad,\" she said. The actress then clarified her comments after a video of the confrontation went viral.",
+   "link": "https://www.hollywoodreporter.com/news/general-news/gillian-anderson-virginia-woolf-fans-front-row-video-1236722252/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:03",
+   "ts": 1791212618
+  },
+  {
+   "id": "0a06d5a80af609066c94d809003cd57f",
+   "title": "Prime Video’s ‘Things We Never Got Over’ Adaptation Adds Sean Teale, Sarah Jeffery and More",
+   "summary": "The series is based on Lucy Score's novel of the same name, the first in her 'Knockemout' trilogy.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/things-we-never-got-over-prime-video-adds-six-cast-1236722300/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:03",
+   "ts": 1791212584
+  },
+  {
+   "id": "530128f0d984408dc4f4ef0a6c0fd475",
+   "title": "OpenAI 将在 ChatGPT 中推出全新图片广告形式，不会影响生成结果",
+   "summary": "IT之家 10 月 5 日消息，OpenAI 今日宣布，将在 ChatGPT 中推出全新的图片广告形式，扩充广告效果衡量工具与合作生态，并研发新方案用于评估品牌适配性。IT之家从官方介绍获悉，ChatGPT 每周覆盖 12 亿用户，是全球规模最大的原生 AI 消费平台。这款全新图片广告形式，能够帮助用户想象产品与服务如",
+   "link": "https://www.ithome.com/1/009/901.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:01",
+   "ts": 1791212519
+  },
+  {
+   "id": "d2bfc610e7f14f59ad0da3ce02a9957f",
+   "title": "Infinix Smart 20E leaks in four colors, some specs outed too",
+   "summary": "Infinix launched the Smart 20 in March, and now it's apparently working on a companion device in the same family, called the Smart 20E. This has been leaked tod",
+   "link": "https://www.gsmarena.com/infinix_smart_20e_leaks_in_four_colors_some_specs_outed_too-news-74905.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:01",
+   "ts": 1791212462
+  },
+  {
+   "id": "5feff81ee32e1cfaeb83b0a3b5c4ca58",
+   "title": "Lola Vision Systems is trying to make it easier to run AI models on chips",
+   "summary": "Lola Vision Systems is one of TechCrunch's Battlefield 200 Companies",
+   "link": "https://techcrunch.com/2026/10/05/lola-vision-systems-is-trying-to-make-it-easier-to-run-ai-models-on-chips/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:00",
+   "ts": 1791212400
+  },
+  {
+   "id": "bc167419190d156d7d0761c863382ad6",
+   "title": "Open or closed AI? How founders are choosing what to build on at TechCrunch Disrupt 2026",
+   "summary": "Learn how founders are choosing between building on open or closed AI at TechCrunch Disrupt 2026. Register now to save up to $100 and get a second pass at 50% o",
+   "link": "https://techcrunch.com/2026/10/05/open-or-closed-ai-how-founders-are-choosing-what-to-build-on-at-techcrunch-disrupt-2026/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:00",
+   "ts": 1791212400
+  },
   {
    "id": "c301be9ba2a38e79d14579d0fc0d4e3b",
    "title": "Medvedev defaulted for hitting spectator with ball as Djokovic makes Beijing final",
@@ -39,6 +130,123 @@
    "urgent": false,
    "fetched_at": "10-05 23:00",
    "ts": 1791212400
+  },
+  {
+   "id": "4e754c20547df6bba32b3a17b51a616c",
+   "title": "Jay-Z, Megan Thee Stallion, Keke Palmer, Gina Prince-Bythewood and NY Knicks Champs Named to Ebony Power 100 List (EXCLUSIVE)",
+   "summary": "Jay-Z, Megan Thee Stallion, Keke Palmer, Gina Prince-Bythewood and the New York Knicks champs Jalen Brunson, Josh Hart, Karl-Anthony Towns, OG Anunoby and Mikal",
+   "link": "https://variety.com/2026/scene/news/ebony-power-100-jay-z-keke-palmer-ny-knicks-1236894919/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:00",
+   "ts": 1791212400
+  },
+  {
+   "id": "b01f4bf8d8f41d62ca210eb6e0e7d1ff",
+   "title": "‘Things We Never Got Over’ Amazon Series Adds Six to Cast",
+   "summary": "The Amazon series adaptation of the Lucy Score novel &#8220;Things We Never Got Over&#8221; has added six new cast members. The new additions to the Prime Video",
+   "link": "https://variety.com/2026/tv/news/things-we-never-got-over-amazon-series-cast-1236899122/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 23:00",
+   "ts": 1791212400
+  },
+  {
+   "id": "4c5a6f630ee51bbbe970213e9670c910",
+   "title": "Hackers steal 8 million citizens’ records from Danish government database",
+   "summary": "The Danish government said the breach of names, addresses, and state-issued ID numbers affects 8 million people, including people living abroad and the deceased",
+   "link": "https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database/",
+   "source": "TechCrunch",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:58",
+   "ts": 1791212322
+  },
+  {
+   "id": "51cc08e913ef5f4ae4b83372c6544587",
+   "title": "Sony ULT WEAR deal knocks $117 off these bass-heavy headphones",
+   "summary": "Save 47% on Sony ULT WEAR headphones at Amazon, with bass boost, noise canceling, and multipoint Bluetooth.",
+   "link": "https://www.androidauthority.com/sony-ult-wear-deal-3717633/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:56",
+   "ts": 1791212197
+  },
+  {
+   "id": "b98c191d1fd80ea6e31a9f34639b6efc",
+   "title": "New Apple TV 4K launches next week with two major upgrades",
+   "summary": "New Apple products are reportedly launching on October 13, including an updated Apple TV 4K. Here are the two major upgrades rumored for the new Apple TV.\n\n\n\n m",
+   "link": "https://9to5mac.com/2026/10/05/new-apple-tv-4k-launches-next-week-with-two-major-upgrades/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-05 22:54",
+   "ts": 1791212073
+  },
+  {
+   "id": "632c8570837ce50b0711e46a987324c7",
+   "title": "‘Digger’ Down: 5 Takeaways After Tom Cruise Suffers One of His Biggest Box Office Bombs",
+   "summary": "Moviegoers didn&#8217;t dig &#8220;Digger,&#8221; to put it mildly. Saddled with terrible reviews and negative word-of-mouth, Tom Cruise&#8217;s absurdist dark ",
+   "link": "https://variety.com/2026/film/box-office/digger-box-office-explained-why-tom-cruise-flopped-1236898687/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:49",
+   "ts": 1791211750
+  },
+  {
+   "id": "3ab624df7cddb512c14370d20dafcb90",
+   "title": "macOS 27 just fixed the most annoying problem for third-party HDR displays",
+   "summary": "I’m in the middle of testing Dell’s 32-inch UltraSharp U3226Q, and my thoughts so far are extremely positive. The picture quality of this OLED panel is impressi",
+   "link": "https://9to5mac.com/2026/10/05/macos-27-just-fixed-the-most-annoying-problem-for-third-party-hdr-displays/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:47",
+   "ts": 1791211658
+  },
+  {
+   "id": "700190b6c39055937a3995a06fcadd6f",
+   "title": "科学家识别出三种叫声最响亮的鸟",
+   "summary": "生物学家在巴西识别出三种叫声最响亮的鸟。至于这些鸟如何演化出最响亮的叫声则仍然是个迷。白钟雀（white bellbird）叫声能达到 125 分贝，裸喉钟雀（bare-throated bellbird）和红腿叫鹤（red-legged seriema）叫声都超过 120 分贝。三种鸟类有着共同的生理特征：即宽大的喙",
+   "link": "https://www.solidot.org/story?sid=85539",
+   "source": "Solidot",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:45",
+   "ts": 1791211539
+  },
+  {
+   "id": "5d64a8e01f9fcc5c5f45b2f09f9ddb25",
+   "title": "CNN&#8217;s boss will remain as Paramount and WBD merge into Skydance",
+   "summary": "CNN CEO Mark Thompson will remain at the head of the news network when Paramount's $110 billion Warner Bros. Discovery acquisition closes this week. Thompson wr",
+   "link": "https://www.theverge.com/entertainment/1004734/cnn-ceo-mark-thompson-paramount-warner-bros",
+   "source": "The Verge",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:42",
+   "ts": 1791211354
   },
   {
    "id": "a99b0622c069c33b40d6e3999b37ad0b",
@@ -91,6 +299,32 @@
    "urgent": false,
    "fetched_at": "10-05 22:35",
    "ts": 1791210906
+  },
+  {
+   "id": "e2a4f9191d7e9ecc758729d2cba40a2f",
+   "title": "Macklin: Does Whittaker have the toughness to win a world title?",
+   "summary": "Ben Whittaker's recent scare against Conor Wallace has raised questions about whether he has the attributes needed to win a world title, says Sky Sports expert ",
+   "link": "https://www.skysports.com/boxing/news/12040/13595418/ben-whittaker-conor-wallace-scare-raises-questions-over-light-heavyweights-title-credentials-says-matthew-macklin",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:35",
+   "ts": 1791210900
+  },
+  {
+   "id": "dee785bd277faa10e089c1870e09c18e",
+   "title": "Lucid’s $50,000 Cosmos spotted testing in California after 2027 delay",
+   "summary": "The Lucid Cosmos is out testing in California traffic. A camouflaged prototype of the midsize SUV was photographed on Highway 101 in Morgan Hill, about 40 miles",
+   "link": "https://electrek.co/2026/10/05/lucid-cosmos-prototype-spotted-california-highway-101/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:34",
+   "ts": 1791210879
   },
   {
    "id": "04899ed371b7ae503a5aeb3f0a55e5d9",
@@ -210,6 +444,32 @@
    "ts": 1791210478
   },
   {
+   "id": "2c4b12a145a58bf57f8d6ac465d87488",
+   "title": "因涌入大量 AI 报告 Google 冻结其 Bug 悬赏计划",
+   "summary": "因涌入大量无效的 AI bug 报告，Google 宣布冻结其 Bug 悬赏计划 Open Source Software Vulnerability Reward Program (OSS VRP)，该决定于 10 月 1 日生效。Google 承诺将于 2027 年第一季度提供相关更新，期间将对该项目进行调整。Go",
+   "link": "https://www.solidot.org/story?sid=85538",
+   "source": "Solidot",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:27",
+   "ts": 1791210472
+  },
+  {
+   "id": "d06a88bae1b8891bb8c3f3aa95366372",
+   "title": "Modder Turns Diablo 2 Resurrected Into a VR Game, But You Probably Can't Play It",
+   "summary": "Diablo 2 is already a game you could lose thousands of hours to, but what if you could truly lose yourself in the world via VR? Well, a modder found a way to tr",
+   "link": "https://www.ign.com/articles/modder-turns-diablo-2-resurrected-into-a-vr-game",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:25",
+   "ts": 1791210341
+  },
+  {
    "id": "ee92321645588e7ea7181c1c37729e69",
    "title": "Sony WH-1000XM6 falls to $378 ahead of Prime Day sale",
    "summary": "Save $82 on the Sony WH-1000XM6 at Amazon and get top-tier noise canceling, foldable design, and great call quality.",
@@ -221,6 +481,19 @@
    "urgent": false,
    "fetched_at": "10-05 22:24",
    "ts": 1791210277
+  },
+  {
+   "id": "219f6a26662b6155dbfa418f968dc96a",
+   "title": "Looking at Smart Home Deals for Amazon Prime Day? Here Are 4 Picks I Use in My Own Home",
+   "summary": "Amazon Prime Days are the time to adopt new smart devices to save time and money. Here’s what I’ve found most useful.",
+   "link": "https://www.cnet.com/home/smart-home/amazon-prime-day-smart-home-deals/",
+   "source": "CNET",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:21",
+   "ts": 1791210075
   },
   {
    "id": "fcee0dc589b010c47577d1e6c8647554",
@@ -260,6 +533,19 @@
    "urgent": false,
    "fetched_at": "10-05 22:16",
    "ts": 1791209792
+  },
+  {
+   "id": "7dde4618cedb051e0a5857ce425a4fbc",
+   "title": "'It’s Incredibly Sad Knowing That We Won’t Get to Finish What We Were Working on' — Hellblade Staff Bid Farewell to Ninja Theory as Layoffs Begin",
+   "summary": "After Xbox announced its intention to close Hellblade developer Ninja Theory, staff have started saying their farewells as layoffs begin.",
+   "link": "https://www.ign.com/articles/ninja-theory-layoffs",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:14",
+   "ts": 1791209681
   },
   {
    "id": "26c52597f8502f5a94ad22cdefbe6ee3",
@@ -327,19 +613,6 @@
    "ts": 1791209065
   },
   {
-   "id": "cbca2883baecb51d8162a63265869c22",
-   "title": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-   "summary": "Article URL: https://www.youtube.com/watch?v=RFTfANuLBF4\nComments URL: https://news.ycombinator.com/item?id=49965042\nPoints: 3\n# Comments: 0",
-   "link": "https://www.youtube.com/watch?v=RFTfANuLBF4",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 22:02",
-   "ts": 1791208958
-  },
-  {
    "id": "f6bfb65152abff594b006464f997ba22",
    "title": "Use FanDuel promo code to claim $250 bonus bets by targeting Falcons vs. Saints Monday Night Football",
    "summary": "Sign up and bet with the latest FanDuel promo code on Monday to get your bonus bets",
@@ -405,6 +678,19 @@
    "ts": 1791208800
   },
   {
+   "id": "1a8bff84108f105e6cd8a1f7079c0f78",
+   "title": "3 New Batman LEGO Sets Announced, Including Wall Art of an Iconic Joker Comic Cover",
+   "summary": "LEGO has announced three new Batman sets, including two Batmobiles and a wall art recreation of Jock's classic Joker comic cover.",
+   "link": "https://www.ign.com/articles/3-new-batman-lego-sets-announced-including-wall-art-of-an-iconic-joker-comic-cover",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 22:00",
+   "ts": 1791208800
+  },
+  {
    "id": "37711f229c57dc55f30fef75838f00ac",
    "title": "Is the ‘Trump Curse’ Real? See the Overwhelming Evidence",
    "summary": "When Jaxson Dart, the New York Giants’ hot young quarterback, went down in Week 2 with a brutal, season-ending knee injury on the team’s opening drive against t",
@@ -429,6 +715,19 @@
    "urgent": false,
    "fetched_at": "10-05 21:59",
    "ts": 1791208779
+  },
+  {
+   "id": "2902c1ba70223003f6e2a36a8be41b91",
+   "title": "Avengers Star Anthony Mackie Says He'll Film Secret Wars When He's Done on Broadway Playing Macbeth — a Run That Lasts Until July 2027",
+   "summary": "Marvel star Anthony Mackie has sparked further speculation on the production schedule for Avengers: Secret Wars, which looks set to film — and also release — ne",
+   "link": "https://www.ign.com/articles/avengers-star-anthony-mackie-says-hell-film-secret-wars-when-hes-done-on-broadway-playing-macbeth-a-run-that-lasts-until-july-2027",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:59",
+   "ts": 1791208745
   },
   {
    "id": "e415be7d74f426ef347ad9d8f4606778",
@@ -600,6 +899,19 @@
    "ts": 1791207636
   },
   {
+   "id": "0b113aa7edd3793d244aa868fcf9c342",
+   "title": "2026 年诺贝尔生理学或医学奖授予了三位研究光遗传学的科学家",
+   "summary": "2026 年诺贝尔生理学或医学奖授予了美国斯坦福-霍华德·休斯医学研究所的 Karl Deisseroth、德国柏林洪堡大学的 Peter Hegemann 和维尔茨堡大学的 Georg Nagel，以表彰他们在光门控离子通道和光遗传学方面的发现。大脑如何掌管情感、行为和身体功能，长期以来一直是个谜。20世纪，研究人员",
+   "link": "https://www.solidot.org/story?sid=85537",
+   "source": "Solidot",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:37",
+   "ts": 1791207468
+  },
+  {
    "id": "cdee21a1387ccacec39312a2be64234a",
    "title": "宝马首款纯电 M3 伪装官图公布，新世代设计语言",
    "summary": "IT之家 10 月 5 日消息，今日，宝马发布了即将问世的纯电 M3 最新官图，这批图片的曝光度为迄今最高，即便车身覆盖伪装，也可以清晰窥见新车的设计走向。IT之家注意到，新车的设计思路与今年 6 月亮相的概念车高度相近，量产版本收敛了概念车上的激进设计，保留了概念车充满力量感的整车姿态，但空气动力学套件有所收敛，取消",
@@ -652,6 +964,19 @@
    "ts": 1791207081
   },
   {
+   "id": "0276ca173b1a0fac935f358887cef665",
+   "title": "Riot Games 否认根据 CPU 封禁玩家",
+   "summary": "一位玩家声称在购买了一块二手 CPU Ryzen 7 5800X3D 之后，因前拥有者有作弊行为这块 CPU 被列入了封禁黑名单，导致 Riot Games 旗下的所有游戏都无法启动。Riot Games 工作室负责反作弊的高管 Phillip Koskinas 通过社交媒体否认了这一说法， 他称没有找到相关记录，该公",
+   "link": "https://www.solidot.org/story?sid=85536",
+   "source": "Solidot",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 21:27",
+   "ts": 1791206866
+  },
+  {
    "id": "ea5471af44d18112da2aab4629978f10",
    "title": "蓝宝石为其 AMD Radeon RX 7000 系列显卡推送固件更新，包含安全改进",
    "summary": "IT之家 10 月 5 日消息，蓝宝石科技 (SAPPHIRE) 近日为其 AMD Radeon RX 7000 系列独立显卡推送固件更新。IT之家注意到，此次更新覆盖 Radeon RX 7900 XTX / 7900 XT / 7900 GRE / 7800 XT / 7700 XT / 7650 GRE / 76",
@@ -667,7 +992,7 @@
   {
    "id": "9776cb95b76e43cc94c565cf25d3b5a5",
    "title": "Spending on AI Is Becoming Almost Impossible for Businesses to Budget",
-   "summary": "Article URL: https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a\nComments URL: https://news.ycombinator.com/item?id=49964537\nPoints: 28",
+   "summary": "Article URL: https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a\nComments URL: https://news.ycombinator.com/item?id=49964537\nPoints: 38",
    "link": "https://www.wsj.com/tech/personal-tech/ai-token-spending-businesses-431ee94a",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -886,19 +1211,6 @@
    "ts": 1791205242
   },
   {
-   "id": "4021d561686b3a0d8285f188a1185ea1",
-   "title": "英伟达 RTX Spark 笔记本 OLED 屏幕供应商曝光：三星六款、LG 一款",
-   "summary": "IT之家 10 月 5 日消息，据 thelec 今日援引行业消息，基于英伟达 RTX Spark 平台、搭载 OLED 屏的 7 款主流 AI 笔记本，全部采用三星显示与 LG 显示的面板。其中三星显示供应 6 款机型，LG 显示供应 1 款。三星显示面板应用于惠普 OmniBook Ultra 16、OmniBoo",
-   "link": "https://www.ithome.com/1/009/872.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 21:00",
-   "ts": 1791205213
-  },
-  {
    "id": "94faaa609252e1045d461107a0f29e72",
    "title": "白话三国 第十回 文丑扎营延津渡",
    "summary": "本期时间轴制作: 老斧子文丑带大军回到黄河渡口为颜良复仇，这回在阵上又会遇到什么人呢？曹孟德摇人的本领还在不在？",
@@ -953,7 +1265,7 @@
   {
    "id": "55c62611979d517cbd5d218dfbc4a5ae",
    "title": "Gitframes",
-   "summary": "Article URL: https://github.com/gatewai-dev/gitframes\nComments URL: https://news.ycombinator.com/item?id=49964265\nPoints: 37\n# Comments: 18",
+   "summary": "Article URL: https://github.com/gatewai-dev/gitframes\nComments URL: https://news.ycombinator.com/item?id=49964265\nPoints: 45\n# Comments: 22",
    "link": "https://github.com/gatewai-dev/gitframes",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1081,19 +1393,6 @@
    "ts": 1791203365
   },
   {
-   "id": "df03c90bd354ba99eeceadd49e7290ea",
-   "title": "Sam Altman Says ‘Artificial’ Filmed Outside His House and He Waved at Andrew Garfield: ‘He Did Walk Like Me … I Felt I Was in Some Weird Glitch of the Simulation’",
-   "summary": "OpenAI CEO Sam Altman has never met Andrew Garfield — who is portraying him in Luca Guadagnino&#8217;s upcoming film &#8220;Artificial&#8221; — but he did wave ",
-   "link": "https://variety.com/2026/film/news/sam-altman-artificial-filmed-outside-house-waved-andrew-garfield-1236899020/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:27",
-   "ts": 1791203275
-  },
-  {
    "id": "cef15992d9239f04787f8756ce73d73a",
    "title": "'I'm Still Here': Marvel Star Mark Ruffalo Says He's Still Playing The Hulk Despite Political Advocacy",
    "summary": "Marvel star Mark Ruffalo has said he'll \"Hulk out\" over political attempts to disrupt voting in the upcoming U.S. midterm elections.",
@@ -1118,6 +1417,19 @@
    "urgent": false,
    "fetched_at": "10-05 20:23",
    "ts": 1791203012
+  },
+  {
+   "id": "8a1c0fb36ec8de7fee62a03149e18f66",
+   "title": "Anthropic wants your thoughts on AI",
+   "summary": "Article URL: https://www.anthropic.com/research/your-thoughts-on-ai\nComments URL: https://news.ycombinator.com/item?id=49963895\nPoints: 9\n# Comments: 15",
+   "link": "https://www.anthropic.com/research/your-thoughts-on-ai",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 20:21",
+   "ts": 1791202862
   },
   {
    "id": "40a92f321fe7fdaa22ab24c402d6c74f",
@@ -1196,19 +1508,6 @@
    "urgent": false,
    "fetched_at": "10-05 20:00",
    "ts": 1791201651
-  },
-  {
-   "id": "f9b1aa90e830ed5f808e604021beb59e",
-   "title": "Want cheaper flights? Google says this is the best time to book one",
-   "summary": "Cheap flights care more about timing than Tuesdays.",
-   "link": "https://www.androidauthority.com/google-flights-data-for-cheapest-flights-3719064/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 20:00",
-   "ts": 1791201639
   },
   {
    "id": "0080b9ce745ba70d22e6c3892e54fca8",
@@ -1328,19 +1627,6 @@
    "ts": 1791201034
   },
   {
-   "id": "3e1a011e20a3caf6644a4ae932802d0e",
-   "title": "Mark Ruffalo Tells Trump ‘Hands Off Our F—ing Vote’ or ‘I’m Gonna Hulk Out’: ‘You Won’t Like Me When I’m Angry’",
-   "summary": "Mark Ruffalo made a passionate speech at a Hands Off Our Vote event in New York City on Sunday night, slamming U.S. President Donald Trump and saying he&#8217;s",
-   "link": "https://variety.com/2026/film/news/mark-ruffalo-slams-trump-voting-rights-hulk-out-1236898975/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:44",
-   "ts": 1791200647
-  },
-  {
    "id": "da8b5c9d28a112b3956ff93d999b1cc6",
    "title": "It’s now easier than ever to get your motorcycle license on an electric bike",
    "summary": "LiveWire’s smallest electric motorcycle is about to take on a new role, and it could prove to be one of the most important ones yet. The LiveWire S4 Honcho Stre",
@@ -1354,19 +1640,6 @@
    "ts": 1791200340
   },
   {
-   "id": "1c746a9896cdcaf37c25ae2a8aeb0e19",
-   "title": "Jack O’Connell and Odessa A’zion to Play Flat-Earthers in ‘The End of the World as We Know It’ for Studiocanal, Working Title and ‘An Irish Goodbye’ Oscar Winners (EXCLUSIVE)",
-   "summary": "Ross White and Tom Berkeley, the filmmaking duo behind the Oscar and BAFTA winning short film &#8220;An Irish Goodbye,&#8221; have teamed up with Studiocanal, W",
-   "link": "https://variety.com/2026/film/global/jack-oconnell-odessa-azion-tend-of-the-world-as-we-know-it-1236897026/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:30",
-   "ts": 1791199800
-  },
-  {
    "id": "88cc03060dc4f11ea16869045c8edebf",
    "title": "Knockout blow for Russell title challenge in Sepang? | The Verdict",
    "summary": "Craig Slater gives his verdict on the Bahrain GP in Malaysia, where a late retirement for George Russell might mean his title challenge could be over?",
@@ -1378,6 +1651,32 @@
    "urgent": false,
    "fetched_at": "10-05 19:26",
    "ts": 1791199560
+  },
+  {
+   "id": "4793d78e21b542087413e5fff90c11b5",
+   "title": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
+   "summary": "A successor project to my previous attempt at building a temporal graph database (https://news.ycombinator.com/item?id=23455516). This one builds on its predece",
+   "link": "https://github.com/project-minigraf/minigraf",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 19:18",
+   "ts": 1791199098
+  },
+  {
+   "id": "3312239b96eedb90cb913ac372ca3f79",
+   "title": "Mold Linker Version 3.0.0 Release – Rewritten in Rust",
+   "summary": "Article URL: https://github.com/rui314/mold/releases/tag/v3.0.0\nComments URL: https://news.ycombinator.com/item?id=49963385\nPoints: 9\n# Comments: 0",
+   "link": "https://github.com/rui314/mold/releases/tag/v3.0.0",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 19:17",
+   "ts": 1791199038
   },
   {
    "id": "f8fec38f92a67b83f1f3723e5c237b52",
@@ -1417,19 +1716,6 @@
    "urgent": false,
    "fetched_at": "10-05 19:10",
    "ts": 1791198638
-  },
-  {
-   "id": "5e821e49e6615b034b04567c1c82b536",
-   "title": "‘NAZA’ Rebuttal Doc Surfaces Online, Made by IDF Reserve Members",
-   "summary": "Just as hot-button Gaza documentary “NAZA&#8221; — which recently won a special jury prize at the Venice Film Festival — gains international visibility and medi",
-   "link": "https://variety.com/2026/film/global/naza-rebuttal-doc-idf-reserve-members-1236898918/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:01",
-   "ts": 1791198112
   },
   {
    "id": "2c3cae3be58f41de96bc3c442160528e",
@@ -1486,7 +1772,7 @@
   {
    "id": "75cb8a66c04957898938155783d505d2",
    "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-   "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49963094\nPoints: 78\n# Comments: 2",
+   "summary": "Article URL: https://www.nobelprize.org/prizes/medicine/2026/press-release/\nComments URL: https://news.ycombinator.com/item?id=49963094\nPoints: 83\n# Comments: 2",
    "link": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1525,7 +1811,7 @@
   {
    "id": "5b7ae3f4d353c7d7288399122933be2c",
    "title": "Apple and a Hacker's Future",
-   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 115\n# Comments: 98",
+   "summary": "Article URL: https://stratechery.com/2026/apple-and-a-hackers-future/\nComments URL: https://news.ycombinator.com/item?id=49962857\nPoints: 121\n# Comments: 105",
    "link": "https://stratechery.com/2026/apple-and-a-hackers-future/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1718,19 +2004,6 @@
    "ts": 1791188356
   },
   {
-   "id": "c30c8592e5cfd474e1ad5ddea370b486",
-   "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-   "summary": "Article URL: https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger\nComments URL: https://news.ycombinator.",
-   "link": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 16:09",
-   "ts": 1791187776
-  },
-  {
    "id": "4cf3d8b81ba1deb2402d0e7e94eacc8d",
    "title": "Movies With “Real Political Messages” Underneath the Surface, Animation and More: What Not to Miss at London Film Fest",
    "summary": "Kristy Matheson previews key highlights and stars featured in the 70th edition and why she doesn't agree with people having \"a grumble about how it doesn't seem",
@@ -1744,32 +2017,6 @@
    "ts": 1791187200
   },
   {
-   "id": "f3d78edab88a060c1d1eeb190a672a1a",
-   "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 106\n# Co",
-   "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:46",
-   "ts": 1791186370
-  },
-  {
-   "id": "79519ea3942ee9314cb663840a5c5d92",
-   "title": "Zhuri chases a first success at Yarmouth",
-   "summary": "We have a busy day&#8217;s racing on Monday with flat action from Wolverhampton and Yarmouth, live on Sky Sports Racing...",
-   "link": "https://www.skysports.com/racing/news/12040/13594924/today-on-sky-sports-racing-wolverhampton-and-yarmouth",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:00",
-   "ts": 1791183600
-  },
-  {
    "id": "9cd34b17130cad0e14183e093a2ef7aa",
    "title": "Here's your first look at Google's next fitness tracker, the Fitbit Edge",
    "summary": "Back in August, Google Australia accidentally revealed an upcoming Fitbit device in official promo images during the Pixel 11 series launch. Now, a new report h",
@@ -1781,19 +2028,6 @@
    "urgent": false,
    "fetched_at": "10-05 14:05",
    "ts": 1791180302
-  },
-  {
-   "id": "ff2e03762f875f40248f2b0a0177a398",
-   "title": "John Oliver Has Re-Acquired Russell Crowe’s Iconic Jock Strap",
-   "summary": "This marks the third time the undergarment, which Crowe wore in 2005's 'Cinderella Man,' has been in the possession of the 'Last Week Tonight' host.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/john-oliver-russell-crowe-jock-strap-1236722165/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 13:31",
-   "ts": 1791178306
   },
   {
    "id": "f00a225f9533e8e4cfd8af016247d7b0",
@@ -1861,32 +2095,6 @@
    "ts": 1791165602
   },
   {
-   "id": "0c1c6977a952f8d70066348d0bb7b067",
-   "title": "Lanterns Season 1 Finale Review & Recap",
-   "summary": "Though most of the twists can be seen coming well in advance, Lanterns Episode 8 manages to wrap up the season on an emotionally satisfying note.",
-   "link": "https://www.ign.com/articles/lanterns-season-1-finale-review-recap",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:00",
-   "ts": 1791165600
-  },
-  {
-   "id": "d286b4ad84c09497bac295efd3b3b086",
-   "title": "‘Lanterns’ Team Breaks Down Finale’s Emotional Gamble, Hal Jordan’s Ultimate Fate and John Stewart’s Future",
-   "summary": "Some viewers might take issue with one major swing, but the team sees it as \"remixing\" rather than \"rewriting\" Green Lantern canon.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-features/lanterns-finale-john-stewart-hal-jordan-1236721962/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:00",
-   "ts": 1791165600
-  },
-  {
    "id": "dd04eaad30409f47d35b926f772fe5f0",
    "title": "Medicine Nobel awarded for brain ‘switch’ that controls neurons with light: live updates",
    "summary": "Nature, Published online: 05 October 2026; doi:10.1038/d41586-026-03091-2Karl Deisseroth, Peter Hegemann and Georg Nagel win the 2026 Nobel Prize in Physiology ",
@@ -1926,32 +2134,6 @@
    "ts": 1791158400
   },
   {
-   "id": "fc1cf557572c4b37d59fbeb791144269",
-   "title": "Mighty Mike Plays Dad Says He Owns 'Like 12 Companies,' Promises Refunds for AI Shirts",
-   "summary": "Mighty Mike Plays dad Dave has promised refunds and issued a lengthy explanation after the internet demanded more information about the YouTube ads allegedly pu",
-   "link": "https://www.ign.com/articles/mighty-mike-plays-dad-says-he-owns-like-12-companies-promises-refunds-for-ai-shirts",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:48",
-   "ts": 1791157687
-  },
-  {
-   "id": "8d3987a3587e6998053c571f4ad3bdeb",
-   "title": "Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner",
-   "summary": "Professional Tekken 8 player SuperBrine is going viral after reaching God of Destruction using Alisa while completely blindfolded with a sleep mask.",
-   "link": "https://www.ign.com/articles/blindfolded-tekken-8-player-achieves-one-of-the-games-top-ranks-from-beginner",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:04",
-   "ts": 1791155075
-  },
-  {
    "id": "0d2ec806a8110175d7e42c110ee1800c",
    "title": "iPhone Duo shows what the future of smartphones could look like",
    "summary": "Since the unveiling of iPhone Duo, the idea of all major interface navigation elements being accessible from your thumb has been really interesting. Apple re-in",
@@ -1976,19 +2158,6 @@
    "urgent": false,
    "fetched_at": "10-05 05:31",
    "ts": 1791149462
-  },
-  {
-   "id": "a2a0b75dd253014cc0b7c9bb7a93e5ef",
-   "title": "The Best Deals Today: Star Wars Zero Company, AirPods Pro 3, Trails in the Sky 1st Chapter, and More",
-   "summary": "",
-   "link": "https://www.ign.com/articles/best-deals-for-october-4-2026",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 05:13",
-   "ts": 1791148414
   },
   {
    "id": "4fad2de2c2ac8944f601fca3b2180494",
@@ -2082,6 +2251,19 @@
    "ts": 1791136800
   },
   {
+   "id": "b0c4785e7b7c6c07df377e6dc55addc4",
+   "title": "太阳系可能没有以前认为的能存在千亿年",
+   "summary": "太阳已有 46 亿年历史，大约 50 亿年后，随着氢燃料的耗尽，太阳外层将会膨胀转变为红巨星，它会吞噬水星和金星，甚至可能包括地球。太阳系外围的气体巨行星预计会幸免，随着太阳光芒的熄灭，太阳系的残余行星预计还能存在一千亿年。然而发表在《The Astrophysical Journal Letters》期刊上的一项研究",
+   "link": "https://www.solidot.org/story?sid=85535",
+   "source": "Solidot",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 01:14",
+   "ts": 1791134072
+  },
+  {
    "id": "999670218561d3f8638f9b1be38c5b2a",
    "title": "Trump announces $90 payments for seniors’ Medicare premium costs ahead of midterm elections",
    "summary": "President Trump is promising more payments to voters just ahead of the Nov. 3 midterm elections — this time for seniors' Medicare Part B premiums",
@@ -2108,17 +2290,17 @@
    "ts": 1791132118
   },
   {
-   "id": "5b6a5aec16e4a2e461a9efc7c9707de6",
-   "title": "NJ’s former Lt Gov is using AI to say he’s innocent of sexual harassment",
-   "summary": "New Jersey's lieutenant governor Dale Caldwell was forced to resign on September 25th after an investigation found he had sexually harassed a staffer and repeat",
-   "link": "https://www.theverge.com/ai-artificial-intelligence/1004549/well-if-ai-said-it-it-must-be-true",
-   "source": "The Verge",
+   "id": "0d13077e8f9b0ddae36c94e0f0e60b2a",
+   "title": "AI 聊天机器人会成为意识形态回音室",
+   "summary": "巴西国立坎皮纳斯州立大学（UNICAMP）的研究人员发现，当你给聊天机器人输入不同政治观点时，机器人会改变其回答。研究人员警告称，用户可能会将这种迎合性的附和，误认为是中立的客观评估，从而可能加剧社会极化。研究人员测试了若干模型，让它们针对112项陈述进行“同意\"或者“不同意”的判断。测试内容共涉及巴西政治七大领域（包",
+   "link": "https://www.solidot.org/story?sid=85534",
+   "source": "Solidot",
    "channel": "AI·科技",
-   "category": "资讯",
+   "category": "发布/大事件",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-05 00:16",
-   "ts": 1791130564
+   "fetched_at": "10-05 00:10",
+   "ts": 1791130202
   },
   {
    "id": "faac6fb8fe99f4e0c3af42d1a9085329",
@@ -2134,6 +2316,19 @@
    "ts": 1791129900
   },
   {
+   "id": "062a24f938d7498871d46c5c78524202",
+   "title": "新冠康复者或疫苗接种者能对类似冠状病毒产生免疫力",
+   "summary": "新冠康复者或疫苗接种者能对类似冠状病毒产生免疫力。研究人员分析了 15 种有代表性的蝙蝠冠状病毒刺突蛋白与 34 个物种的 ACE2 受体库结合的可能性。新冠病毒的刺突蛋白就是通过与 ACE2 受体进入人体。研究结果显示，能与多种 ACE2 受体结合实现跨物种传播的蝙蝠冠状病毒都是与新冠病毒 SARS-CoV-2 有密",
+   "link": "https://www.solidot.org/story?sid=85533",
+   "source": "Solidot",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 00:03",
+   "ts": 1791129787
+  },
+  {
    "id": "5dde12017a2d1be53cdc77539a091ceb",
    "title": "Weekly poll results: pricing will decide the fate of the Xiaomi 18 Pro and Xiaomi 18 Pro Max",
    "summary": "Last week, we asked you for your thoughts on Xiaomi’s 18 Pro series in light of the news that the series is going global. Xiaomi is still mum on the details, bu",
@@ -2145,32 +2340,6 @@
    "urgent": false,
    "fetched_at": "10-04 23:31",
    "ts": 1791127862
-  },
-  {
-   "id": "2696b7d229b558368d35d0419ff5e7e7",
-   "title": "Apple weekend deals: AirPods Pro 3 $179, MacBook Air $200 off, AirTag 2, Prime Day HomeKit discounts, more",
-   "summary": "Update 10/4: \n\n\n\n\nAmazon just dropped AirPods Pro 3 down to $179, delivering one of the lowest prices ever. \n\n\n\nAmazon is also now delivering almost all M5 MacB",
-   "link": "https://9to5mac.com/2026/10/04/apple-weekend-deals-macbook-discounts/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 23:26",
-   "ts": 1791127574
-  },
-  {
-   "id": "4fd01b951b06c43659d118867ea38565",
-   "title": "John Ternus is taking a more ‘hands-on’ role in Apple’s design teams as CEO: report",
-   "summary": "Since Jony Ive’s departure from Apple in 2019, the company hasn’t had much of a true design lead. For a while, former COO Jeff Williams was in charge of design,",
-   "link": "https://9to5mac.com/2026/10/04/john-ternus-is-taking-a-more-hands-on-role-in-apples-design-teams-as-ceo-report/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 23:15",
-   "ts": 1791126915
   },
   {
    "id": "0b0744a440fd71f27f89546a9e22a293",
@@ -2301,19 +2470,6 @@
    "urgent": false,
    "fetched_at": "10-04 21:00",
    "ts": 1791118800
-  },
-  {
-   "id": "1c7d871c1178ddc255598e81c81c9c63",
-   "title": "Our Redmi Note 17 4G battery life and charging tests are ready",
-   "summary": "Does a market for 4G phones still exist? Xiaomi thinks so, so it released the Redmi Note 17 4G. We’ve already looked at the battery life and charging tests of i",
-   "link": "https://www.gsmarena.com/our_redmi_note_17_4g_battery_life_and_charging_tests_are_ready-news-74823.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 20:31",
-   "ts": 1791117061
   },
   {
    "id": "a1bee9fa41825175870bfe40d4011228",
@@ -2457,162 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-04 11:51",
    "ts": 1791085884
-  },
-  {
-   "id": "b3b5ff75f328a78fc5fd07dba764edfe",
-   "title": "一个反直觉的视角：“去宁德化”反而可能强化宁德时代的消费者心智和市场份额",
-   "summary": "",
-   "link": "http://xueqiu.com/3549373056/411273328",
-   "source": "雪球",
-   "channel": "财经",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 11:51",
-   "ts": 1791085872
-  },
-  {
-   "id": "a381069c81907b95157eae2459ba32dc",
-   "title": "如何选择一家真正优秀的公司",
-   "summary": "",
-   "link": "http://xueqiu.com/1641200866/411267980",
-   "source": "雪球",
-   "channel": "财经",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 11:51",
-   "ts": 1791085862
-  },
-  {
-   "id": "719c19facc963981a80b71b6f1ab6af2",
-   "title": "GPT-6要“吃掉”3D公司？这家公司不到2年ARR翻百倍，破1亿美元",
-   "summary": "专业3D模型反而更稀缺了",
-   "link": "https://www.qbitai.com/2026/10/501451.html",
-   "source": "量子位",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-04 08:53",
-   "ts": 1791075209
-  },
-  {
-   "id": "576adbf735ce9f0dc10efdfb3fd452ed",
-   "title": "Federal judge calls Flock ‘indiscriminate mass surveillance’",
-   "summary": "A federal judge ruled that a sheriff’s deputy violated a woman’s Fourth Amendment rights when using Flock to search for her license plate without a warrant.",
-   "link": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 03:33",
-   "ts": 1791055995
-  },
-  {
-   "id": "9d43e2481cb1cb4a295501fe33f4f350",
-   "title": "Hasta la vista, baby – Figure F.02 humanoid robots decommissioned, T2-style",
-   "summary": "Decommissioning humanoid robots that are packed with proprietary tech is a tricky thing – you want to make sure none of the expensive raw material goes to waste",
-   "link": "https://electrek.co/2026/10/03/hasta-la-vista-baby-figure-f-02-humanoid-robots-decommissioned-t2-style/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 03:31",
-   "ts": 1791055873
-  },
-  {
-   "id": "4bb32ef4c4807792090365833b41eea7",
-   "title": "Amazon responds to data center backlash, says it no longer uses NDAs",
-   "summary": "The CEO of Amazon Web Services tried to push back against widespread suspicion of data centers.",
-   "link": "https://techcrunch.com/2026/10/03/amazon-responds-to-data-center-backlash-says-it-no-longer-uses-ndas/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 02:43",
-   "ts": 1791053037
-  },
-  {
-   "id": "6977edd898b71aa45b2a0c3d01b21f5f",
-   "title": "Ezra Dyer: Let Me Tell You About My (Friend’s) Ferrari F40",
-   "summary": "The Ferrari F40 conundrum: What do you do when the best car you own is the worst car for your life?",
-   "link": "https://www.caranddriver.com/features/columns/a73929551/ezra-dyer-friend-ferrari-f40/",
-   "source": "Car and Driver",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 02:00",
-   "ts": 1791050400
-  },
-  {
-   "id": "2fced6aea36e89e565f8ea4aa893b92b",
-   "title": "OpenAI safety employee resigns, claiming the company’s ‘culture is broken’",
-   "summary": "By his own admission, David Robinson is “something of a cliché”: an employee at a leading AI company who issues a dire warning while resigning from their job.",
-   "link": "https://techcrunch.com/2026/10/03/openai-safety-employee-resigns-claiming-the-companys-culture-is-broken/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 00:30",
-   "ts": 1791045001
-  },
-  {
-   "id": "00b350dcf87c541f8e2d4a5f854de956",
-   "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
-   "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-   "link": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
-   "source": "TechCrunch",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 23:02",
-   "ts": 1791039721
-  },
-  {
-   "id": "90cd4ad50e768d5bfdee45480fd17d92",
-   "title": "This 1963 Falcon Ranchero on BaT Was Ford’s Original Small Pickup",
-   "summary": "It has an undeniable simple charm.",
-   "link": "https://www.caranddriver.com/news/a73992894/1963-ford-falcon-ranchero-bring-a-trailer-auction/",
-   "source": "Car and Driver",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 23:00",
-   "ts": 1791039600
-  },
-  {
-   "id": "c09f565bb2b33b454d80a5801ebf677d",
-   "title": "Musk explains why Tesla Robotaxi is not running at night, and lidar is the answer",
-   "summary": "Elon Musk says the main thing holding back Tesla Robotaxi’s night hours is that the cars have a hard time seeing pets in the dark. His example was “grey kittens",
-   "link": "https://electrek.co/2026/10/03/tesla-robotaxi-pets-night-musk-lidar/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 22:36",
-   "ts": 1791038219
-  },
-  {
-   "id": "9c70fb59e63624c0b0e5e4699c474df9",
-   "title": "Basic Data Types in Python: A Quick Exploration",
-   "summary": "Explore the Python basic data types built into the language: numbers, strings, bytes, and Booleans, and how each one behaves.",
-   "link": "https://realpython.com/python-data-types/",
-   "source": "Real Python",
-   "channel": "教程",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-03 22:00",
-   "ts": 1791036000
   }
  ]
 }
