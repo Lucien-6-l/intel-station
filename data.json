@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 09:07",
- "total": 249,
+ "updated_at": "2026-10-05 09:38",
+ "total": 258,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,9 +10,75 @@
   "数码",
   "汽车",
   "游戏",
+  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "8aead6d560b2bb06ad065cfdf6741077",
+   "title": "软银集团孙正义罕见发出 AI 安全警告，呼吁各国携手应对威胁",
+   "summary": "IT之家 10 月 5 日消息，据彭博社报道，软银集团创始人孙正义一直被视为人工智能最坚定的拥护者之一。然而他近日坦言，随着 AI 能力的突飞猛进，就连他也对伴随而来的安全风险深感担忧。周日，在日本京都举行的“科学与技术在社会中的作用”论坛期间，孙正义在与白宫科技政策顾问迈克尔 · 克拉齐奥斯（Michael Krat",
+   "link": "https://www.ithome.com/1/009/758.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:21",
+   "ts": 1791163303
+  },
+  {
+   "id": "dca83a7da24b66d6025fea5ca3f5ada8",
+   "title": "365 米超埃菲尔铁塔，德国建造全球最高风力发电机",
+   "summary": "IT之家 10 月 5 日消息，一台被开发方称作全球最高的风力发电机现已矗立在德国东部人口稀疏的旷野之上，整机高度达到 365 米，已经超过埃菲尔铁塔。这台巨型风机落户于柏林东南方向的卢萨蒂亚地区一座已有的风电场内。该地区曾经是褐煤开采的核心地带，近些年来正逐步转向发展可再生能源。这台原型机组于上周完成全部高度建设，预",
+   "link": "https://www.ithome.com/1/009/757.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:16",
+   "ts": 1791163007
+  },
+  {
+   "id": "3e6e4ef824e8b39c4593cd0e39cb1f06",
+   "title": "Korean Directors Rally Behind ‘The Assassin(s)’ as Political Firestorm Turns on Its Makers",
+   "summary": "The Directors Guild of Korea (DGK) has come out in support of the team behind &#8220;The Assassin(s),&#8221; Hur Jin-ho&#8217;s thriller about the 1974 shooting",
+   "link": "https://variety.com/2026/film/news/the-assassins-korea-directors-guild-1236898817/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:13",
+   "ts": 1791162802
+  },
+  {
+   "id": "1cbc71a0e444d4bab5c8b2ad2f584662",
+   "title": "Meta 的 AI 助手 Muse 被曝可深度分析用户社交关系，并为每位联系人建立个人档案",
+   "summary": "IT之家 10 月 5 日消息，Meta 的全新个人助手 Muse 已经迅速走红，数百万用户下载了这款人工智能智能体，把它和自己的银行账户、消息软件或者健康数据进行绑定，交由它代为完成各项事务。不过就在 Muse 在普通消费者群体当中迅速普及之际，来自应用内部的数据，也让外界得以窥见这款产品整理、向用户展示信息的运行逻",
+   "link": "https://www.ithome.com/1/009/755.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:08",
+   "ts": 1791162507
+  },
+  {
+   "id": "ab46034d3cba9c434bf9219f7b94b59b",
+   "title": "NLDS Game 2 winners and losers: Brewers magic strikes again in walk-off win; Mason Miller implodes",
+   "summary": "Milwaukee worked three walks against the Padres closer in the ninth inning before Jackson Chourio called game",
+   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoffs-nlds-game-2-winners-losers/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:05",
+   "ts": 1791162347
+  },
   {
    "id": "ba138ea226597b284485fc2b68aa8cac",
    "title": "Korea Box Office: ‘The Assassin(s)’ Holds Admissions Lead as ‘Chiikawa’ Generates Top Weekend Gross",
@@ -27,6 +93,19 @@
    "ts": 1791162337
   },
   {
+   "id": "d537da20dcee6f92f90863f18f4b61ec",
+   "title": "Eagles' offense completely collapses vs. Rams: Who's to blame and what needs to change",
+   "summary": "The offensive meltdown after having the chance to deliver the knockout punch to Los Angeles highlights an uncomfortable truth in Philadelphia",
+   "link": "https://www.cbssports.com/nfl/news/eagles-collapse-vs-rams-whos-to-blame-nick-sirianni-jalen-hurts/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:04",
+   "ts": 1791162278
+  },
+  {
    "id": "4c689b6cab4131d86e6944f02220867c",
    "title": "OpenAI 奥尔特曼：人工智能的巨大效益值得承担部分风险",
    "summary": "IT之家 10 月 5 日消息，OpenAI 首席执行官萨姆 · 奥尔特曼（Sam Altman）近日在接受《Decoded》栏目专访时表示，他的公司与竞争对手 Anthropic 在人工智能监管问题上，仍然存在根本性的世界观分歧。奥尔特曼指出，AI 技术所带来的巨大效益完全值得社会承担部分风险，且这项技术应当继续面向",
@@ -38,6 +117,32 @@
    "urgent": false,
    "fetched_at": "10-05 09:02",
    "ts": 1791162126
+  },
+  {
+   "id": "2a880db7c08f33f9eadd27cc6e031b53",
+   "title": "Falcons vs. Saints predictions, odds, time: Week 4 'Monday Night Football' picks from proven model",
+   "summary": "SportsLine's model has revealed its Atlanta Falcons vs. New Orleans Saints picks for 'Monday Night Football'",
+   "link": "https://www.cbssports.com/betting/news/falcons-saints-predictions-odds-time-week-4-monday-night-football-picks/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:01",
+   "ts": 1791162090
+  },
+  {
+   "id": "b0336b39f9951ee958a4010dee008129",
+   "title": "Week 4 Fantasy Football panic meter: Early Week 5 waiver wire adds, Keon Coleman emerging as post-hype sleeper",
+   "summary": "There's nothing quite like the overreactions from Fantasy Football managers that pour in after every Sunday, so let's try and parse through what actually matter",
+   "link": "https://www.cbssports.com/fantasy/football/news/week-4-fantasy-football-panic-meter-early-week-5-waiver-wire-adds-keon-coleman-emerging-as-post-hype-sleeper/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 09:00",
+   "ts": 1791162053
   },
   {
    "id": "1bb3eb28183baf3aa2cb77a727800747",
@@ -209,19 +314,6 @@
    "ts": 1791159163
   },
   {
-   "id": "a88cff8c25ac12828de37fd18f985c01",
-   "title": "TypeSafe AI 决策模型 Jev 日处理量达 1 万亿 Token，硅谷巨头火速跟进复刻",
-   "summary": "IT之家 10 月 5 日消息，据《华尔街日报》报道，一款仅问世三周的人工智能模型 Jev 已经在硅谷圈子引发热议，人们开始探讨大语言模型之外的替代路线，同时这款模型也已经催生出不少跟风仿制产品。初创企业 TypeSafe AI 于当地时间 9 月 15 日发布了 Jev。该模型的运行方式不同于聊天机器人，它并不生成文",
-   "link": "https://www.ithome.com/1/009/744.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-05 08:06",
-   "ts": 1791158808
-  },
-  {
    "id": "f516cc84587a465132dfe03d28941e72",
    "title": "NFL Week 4 winners and losers: Drake Maye delivers, Texans' season slips away",
    "summary": "Maye rediscovered his 2025 form against the Bills, while Houston's latest loss left its playoff hopes hanging by a thread",
@@ -235,19 +327,6 @@
    "ts": 1791158689
   },
   {
-   "id": "0ea545b5f727e24402ea01e2d32fcbed",
-   "title": "人人都能有自己的智能体设备：Meta 开源 Muse Gadgets，用 ESP32 和树莓派打造自定义 AI 硬件",
-   "summary": "IT之家 10 月 5 日消息，Meta 于当地时间 10 月 2 日宣布推出开源项目 Muse Gadgets，允许开发者为旗下个人 AI 智能体 Muse 打造自定义硬件。Meta 同时也已经在 GitHub 上按照 Apache 2.0 许可发布了 ESP32 固件和 Linux 设备 SDK。开发者可以将低成本",
-   "link": "https://www.ithome.com/1/009/743.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-05 08:00",
-   "ts": 1791158433
-  },
-  {
    "id": "de0c2a61ddfad859e8347caac127a4d4",
    "title": "Lions vs. Panthers odds, predictions, betting preview, start time: Sunday Night Football picks, best bets",
    "summary": "Best bets and betting preview for Lions vs. Panthers on Sunday Night Football",
@@ -259,19 +338,6 @@
    "urgent": false,
    "fetched_at": "10-05 07:59",
    "ts": 1791158360
-  },
-  {
-   "id": "ab46034d3cba9c434bf9219f7b94b59b",
-   "title": "NLDS Game 2 winners and losers: Brewers magic strikes again in walk-off win; Mason Miller implodes",
-   "summary": "Milwaukee worked three walks against the Padres closer in the ninth inning before Jackson Chourio called game",
-   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoffs-nlds-game-2-winners-losers/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:57",
-   "ts": 1791158231
   },
   {
    "id": "bb7c3972f21d7984b8949fd8eabefab4",
@@ -311,19 +377,6 @@
    "urgent": false,
    "fetched_at": "10-05 07:52",
    "ts": 1791157956
-  },
-  {
-   "id": "2faeed3007d9f9d483149b6ec27d260a",
-   "title": "IT早报 1005：乐山大佛“掏耳朵”视频系 AI 合成；央视曝光外卖“明厨亮灶”造假；余承东称华为已量产 381 款 τ 芯片；马斯克确认 SpaceXAI 将更名 SpaceXSI...",
-   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 5 日星期一，今天的重要科技资讯有：1. 乐山大佛景区回应网传“掏耳朵”养护作业视频：系 AI 合成，佛耳内并无所谓“杂物”网传视频显示文保工人给大佛掏耳朵、掏鼻孔，还出现猴子抢安全帽等离谱画面。乐山大佛管委会回应称该视频系他人 AI 生成，并非真实场景。202",
-   "link": "https://www.ithome.com/1/009/742.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:49",
-   "ts": 1791157762
   },
   {
    "id": "fc1cf557572c4b37d59fbeb791144269",
@@ -391,45 +444,6 @@
    "ts": 1791156600
   },
   {
-   "id": "0747c473fe4aeb9484dc4faa5837d594",
-   "title": "Panthers vs. Lions predictions, odds, time: Week 4 'Sunday Night Football' picks by proven model",
-   "summary": "SportsLine's model has revealed its Detroit Lions vs. Carolina Panthers picks for 'Sunday Night Football'",
-   "link": "https://www.cbssports.com/betting/news/panthers-lions-predictions-odds-time-spread-week-4-sunday-night-football-picks-nfl-best-bets/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:25",
-   "ts": 1791156304
-  },
-  {
-   "id": "ff33755258077ddaa2d7fcf07687e596",
-   "title": "2026 MLB playoff bracket: Schedule, scores, where to watch with Division Series underway",
-   "summary": "Eight teams remain in the 2026 MLB playoffs, with the best-of-five LDS round underway",
-   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:24",
-   "ts": 1791156284
-  },
-  {
-   "id": "b8ab3bb613c6a825bbad3c3ce2bd9cca",
-   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Lions vs. Panthers Sunday Night Football",
-   "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for NFL on Sunday",
-   "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-lions-vs-panthers-sunday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:23",
-   "ts": 1791156207
-  },
-  {
    "id": "8d3987a3587e6998053c571f4ad3bdeb",
    "title": "Blindfolded Tekken 8 Player Achieves One of the Game’s Top Ranks from Beginner",
    "summary": "Professional Tekken 8 player SuperBrine is going viral after reaching God of Destruction using Alisa while completely blindfolded with a sleep mask.",
@@ -445,7 +459,7 @@
   {
    "id": "a61705551fcaf05aa19a7aeaf36d5d7a",
    "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-   "summary": "Article URL: https://getartcraft.com/apps\nComments URL: https://news.ycombinator.com/item?id=49958850\nPoints: 13\n# Comments: 1",
+   "summary": "Article URL: https://getartcraft.com/apps\nComments URL: https://news.ycombinator.com/item?id=49958850\nPoints: 29\n# Comments: 18",
    "link": "https://getartcraft.com/apps",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -523,7 +537,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 49\n# Comments: 11",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 59\n# Comments: 12",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -768,19 +782,6 @@
    "ts": 1791143426
   },
   {
-   "id": "1ecbd283fb029617d28723a055e1ca8b",
-   "title": "James Gunn Confirms He’s ‘Already’ Writing His Next Film Ahead of ‘Superman: Man of Tomorrow’",
-   "summary": "James Gunn announced on Threads that he is actively working on writing his next film ahead of the release of &#8220;Superman: Man of Tomorrow,&#8221; due in the",
-   "link": "https://variety.com/2026/film/news/james-gunn-next-project-superman-man-of-tomorrow-1236898696/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 03:46",
-   "ts": 1791143188
-  },
-  {
    "id": "b71aff21427c0a99633e23c11066b2b8",
    "title": "Homa: The end of TCP for AI clusters [video]",
    "summary": "Paper: \nhttps://www.usenix.org/system/files/atc21-ousterhout.pdfRelated: https://lwn.net/Articles/1003059/, https://www.theregister.com/networks/2026/10/01/stan",
@@ -796,7 +797,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 336\n# Comments: 211",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 356\n# Comments: 222",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -848,7 +849,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 72\n# Comments: 24",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 87\n# Comments: 27",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -965,7 +966,7 @@
   {
    "id": "d0549b40cf18c06783f4fb0f5d660e7f",
    "title": "Xray-core concealed a certificate verification bypass vulnerability",
-   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 49\n# Comments: 2",
+   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 52\n# Comments: 2",
    "link": "https://github.com/net4people/bbs/issues/672",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1381,7 +1382,7 @@
   {
    "id": "b2f4a7c23b312ad1f2de434faa293b99",
    "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 599\n# Comments: 280",
+   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 612\n# Comments: 285",
    "link": "https://github.com/Niko1221/Strata",
    "source": "Hacker News",
    "channel": "AI·科技",
