@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-05 14:50",
+ "updated_at": "2026-10-05 15:10",
  "total": 258,
  "channels": [
   "AI·科技",
@@ -14,6 +14,58 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "1e8e37a2aa5c82541acccb259ca38195",
+   "title": "台积电股价收涨 3% 创历史新高：市值换算人民币超 14 万亿元，台股加权指数逼近 5 万点大关",
+   "summary": "IT之家 10 月 5 日消息，台积电今日在中国台湾股市创出历史新高。台积电早盘最高冲上 2580 新台币，13:30 收盘价定在 2575 新台币，上涨 75 元，涨幅 3%，市值升至约 66.78 万亿新台币（IT之家注：现汇率约合 14.06 万亿元人民币）。今日台股大盘同步创下历史新高。台湾加权股价指数终场收在",
+   "link": "https://www.ithome.com/1/009/822.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 15:09",
+   "ts": 1791184192
+  },
+  {
+   "id": "8bb59313ef145927676514a5bb2ab968",
+   "title": "蓝色起源公布 20 米高动力塔，可为月球基地提供超 10 千瓦电力",
+   "summary": "IT之家 10 月 5 日消息，蓝色起源（Blue Origin）刚刚对外公布了名为“动力塔（Power Tower）”的设备，这套装置旨在为未来的月球基地提供太阳能电力。IT之家注意到，由亿万富翁杰夫 · 贝索斯创立的这家航天企业，于当地时间 9 月 25 日在社交平台 X 上发布了一段该塔的演示动画。动画展示这套硬",
+   "link": "https://www.ithome.com/1/009/820.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 15:08",
+   "ts": 1791184122
+  },
+  {
+   "id": "828aa9c97937b8d05bf295b1d477feed",
+   "title": "La Oreja de Van Gogh Songs Set to Power an Ambitious Romantic Musical From Fernando González Molina (EXCLUSIVE)",
+   "summary": "The songs of pop group phenomenon La Oreja de Van Gogh, which has just become the only Spanish band with a song in Spotify’s Billions Club, are heading for the ",
+   "link": "https://variety.com/2026/film/global/la-oreja-de-van-gogh-fernando-gonzalez-molina-1236898493/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 15:04",
+   "ts": 1791183868
+  },
+  {
+   "id": "0fb95c15f03676f23a98e9da1307fc80",
+   "title": "爱好者自制天气时钟：基于 Freenove FNK0103S 开发板、可选装人在传感器",
+   "summary": "IT之家 10 月 5 日消息，据外媒 XDA 报道，一位爱好者 sudu1988 在 Reddit 发帖，展示了自己打造的天气时钟，该机可以从 Open-Meteo 获取天气数据，并显示当前时间、实时天气以及未来天气预报。硬件方面，该机基于 Freenove FNK0103S 开发板，搭载 ESP32-WROOM-3",
+   "link": "https://www.ithome.com/1/009/819.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 15:04",
+   "ts": 1791183858
+  },
   {
    "id": "79519ea3942ee9314cb663840a5c5d92",
    "title": "Zhuri chases a first success at Yarmouth",
@@ -39,6 +91,45 @@
    "urgent": false,
    "fetched_at": "10-05 15:00",
    "ts": 1791183600
+  },
+  {
+   "id": "bb4c8b14751882594a3bb8b1c21a311b",
+   "title": "Talent Agency Cosmic Opens London Office, Led by Gabrielle de Cevins",
+   "summary": "Cosmic Talents, which represents leading international heads of department, is opening a London office. It will be led by Gabrielle de Cevins, who joins Cosmic ",
+   "link": "https://variety.com/2026/film/global/cosmic-london-gabrielle-de-cevins-1236894598/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 15:00",
+   "ts": 1791183600
+  },
+  {
+   "id": "3a49c33e13fa8927789be5440ac4d471",
+   "title": "10 月 5 日全国铁路预计发送旅客 2105 万人次，计划加开 1463 列",
+   "summary": "IT之家 10 月 5 日消息，据中国铁路官方，10 月 4 日，全国铁路发送旅客 2032 万人次，运输安全平稳有序。10 月 5 日，铁路客流保持高位运行，中短途客流持续攀升，全国铁路预计发送旅客 2105 万人次，计划加开旅客列车 1463 列。IT之家从公告获悉，从铁路 12306 预售情况来看，今日热门出发城",
+   "link": "https://www.ithome.com/1/009/818.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:59",
+   "ts": 1791183553
+  },
+  {
+   "id": "64a38a8390722324523719bd72aad0e4",
+   "title": "日本大和证券内部数据外泄：官方通报称“外部服务提供商遭黑客入侵”，约 22 万条信息泄露",
+   "summary": "IT之家 10 月 5 日消息，据外媒 itmedia 报道，日本大和证券于今天通报公司内部数据遭外泄，涉及约 22 万条信息，其中包括约 11 万名客户的姓名、电子邮箱地址、证券账户号码、咨询记录等内容。大和证券表示，本次安全事件系公司外部服务提供商“斯卡拉通信”的服务器于 10 月 2 日 20 时 33 分左右至",
+   "link": "https://www.ithome.com/1/009/817.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:56",
+   "ts": 1791183384
   },
   {
    "id": "f271341277fa4658c536dce29d8b6bd0",
@@ -132,71 +223,6 @@
    "ts": 1791181677
   },
   {
-   "id": "8767303b8fab2640392d5a250bca1f86",
-   "title": "台达将基于英伟达 Hyperion 平台开发下一代自动驾驶技术",
-   "summary": "IT之家 10 月 5 日消息，台达 (Delta) 上月末宣布将与 NVIDIA（英伟达）合作，利用 NVIDIA Hyperion 平台加速下代智能、高效、安全自动驾驶系统的开发。此番合作结合了 NVIDIA Hyperion 平台、Halos 安全系统，以及台达在汽车能源管理、电动汽车动力系统、车载高性能计算方面",
-   "link": "https://www.ithome.com/1/009/808.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 14:20",
-   "ts": 1791181206
-  },
-  {
-   "id": "1e3c32f79185637a789de84ac7847dfb",
-   "title": "华为与高通宣布达成广泛专利许可协议，覆盖 5G、AI、计算及网络技术领域",
-   "summary": "IT之家 10 月 5 日消息，华为与高通今日宣布达成一项长期、广泛的专利许可协议，该协议包含双方在 5G、计算、人工智能、网络等多个技术领域的专利组合交叉许可，同时高通将收购华为在计算、人工智能、网络及其他技术领域的部分美国专利。这是华为与高通之间首份涵盖 5G 技术的专利许可协议。华为称，该交易完成之后，公司全部专",
-   "link": "https://www.ithome.com/1/009/806.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 14:18",
-   "ts": 1791181121
-  },
-  {
-   "id": "4065c00e9fa0b42475f4a2ae1bb7505c",
-   "title": "施耐德电气宣布以 226 亿美元收购 PTC，拓展人工智能业务",
-   "summary": "IT之家 10 月 5 日消息，施耐德电气（Schneider Electric SE）宣布将以约 226 亿美元（IT之家注：现汇率约合 1,516.54 亿元人民币）收购美国软件公司 PTC，进一步扩充自身工业软件以及人工智能赋能业务的产品版图。这家法国综合性集团将以每股 205 美元（现汇率约合 1,376 元人",
-   "link": "https://www.ithome.com/1/009/805.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-05 14:07",
-   "ts": 1791180455
-  },
-  {
-   "id": "1ef3297f01087a712bdddeb3e3d38818",
-   "title": "Rapidus 宣布成立协作开放快速生态系统，率先构建设计解决方案联盟",
-   "summary": "IT之家 10 月 5 日消息，日本先进半导体制造企业 Rapidus 当地时间今日宣布成立 Rapidus &nbsp;Collaborative Open Rapid Ecosystem（协作开放快速生态系统）。这一全球性框架旨在支持尖端半导体的开发和大规模生产。Rapidus 表示，半导体开发现在需要的不仅仅是制",
-   "link": "https://www.ithome.com/1/009/804.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 14:07",
-   "ts": 1791180430
-  },
-  {
-   "id": "1948ea649d9c08efe651f49550dac20b",
-   "title": "海信 Vidda 推出大眼睛 M2 Pro 旗舰版投影仪：1800 CVIA 亮度，5499 元",
-   "summary": "IT之家 10 月 5 日消息，海信 Vidda 现已推出大眼睛 M2 Pro 旗舰版投影仪，目前皓月白配色已经开售，太空银配色需要预约，售价 5499 元，限时补贴到手价 4949 元。这款三色激光投影仪主打 1800 CVIA 亮度，采用 0.47 英寸 DMD 芯片 + QuaLas42 激光器，相比常见的 0.",
-   "link": "https://www.ithome.com/1/009/803.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 14:05",
-   "ts": 1791180354
-  },
-  {
    "id": "9cd34b17130cad0e14183e093a2ef7aa",
    "title": "Here's your first look at Google's next fitness tracker, the Fitbit Edge",
    "summary": "Back in August, Google Australia accidentally revealed an upcoming Fitbit device in official promo images during the Pixel 11 series launch. Now, a new report h",
@@ -230,6 +256,19 @@
    "source": "Sky Sports",
    "channel": "体育",
    "category": "教程",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 14:00",
+   "ts": 1791180000
+  },
+  {
+   "id": "09de7c27cbb8b625636c2d4f00ea3f81",
+   "title": "The Chiefs stay perfect thanks to new hero - NFL Sunday Review",
+   "summary": "",
+   "link": "https://www.skysports.com/nfl/news/12040/13595160/kenneth-walker-has-transformed-kansas-city-chiefs-and-unlocked-patrick-mahomes-as-andy-reids-side-stay-perfect-nfl-sunday-review",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
    "weight": 2,
    "urgent": false,
    "fetched_at": "10-05 14:00",
@@ -276,8 +315,8 @@
   },
   {
    "id": "51ff97dab6bb1ce0f06918ce5eeeeb95",
-   "title": "Replacement of Petroleum Based Products with Plant-Based Materials",
-   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 28\n# Comments: 1",
+   "title": "Replacement of petroleum based products with plant-based materials (2025)",
+   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 33\n# Comments: 4",
    "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -550,7 +589,7 @@
   {
    "id": "e5f1789defb27862d3b2b1792d982eb8",
    "title": "A 40ms Go garbage collector pause caused by swap",
-   "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 57\n# Comments: 19",
+   "summary": "Article URL: https://frn.sh/go-gc/\nComments URL: https://news.ycombinator.com/item?id=49959654\nPoints: 62\n# Comments: 27",
    "link": "https://frn.sh/go-gc/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -743,45 +782,6 @@
    "ts": 1791155075
   },
   {
-   "id": "a61705551fcaf05aa19a7aeaf36d5d7a",
-   "title": "ArtCraft Apps – open-source Adobe compatible suite written in Rust",
-   "summary": "Article URL: https://getartcraft.com/apps\nComments URL: https://news.ycombinator.com/item?id=49958850\nPoints: 96\n# Comments: 94",
-   "link": "https://getartcraft.com/apps",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:02",
-   "ts": 1791154963
-  },
-  {
-   "id": "6786dc0269b725193b51b43d02ce72f9",
-   "title": "Marvel Canceled ‘Blade,’ But the Gory Vampire Brawler ‘Half’ Will Thrill Genre Fans",
-   "summary": "Marvel mastermind Kevin Feige has made some of the shrewdest financial decisions in Hollywood history, but he sure dropped the bag when he didn’t make a new “Bl",
-   "link": "https://variety.com/2026/film/features/half-vampire-action-movie-india-blade-1236898106/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 07:00",
-   "ts": 1791154800
-  },
-  {
-   "id": "7e6ccb54d67b1593f484df478ad61eb2",
-   "title": "Is ‘Rubber Soul’ the Beatles’ Best Album? The Answer to That is as Malleable as the Shifting Track Lists, but This ‘Super Deluxe’ Is Super Essential: Boxed Set Review",
-   "summary": "What is the Beatles&#8217; best album? &#8220;The one you&#8217;re listening to right now&#8221; is always the correct answer, of course, and that could encompa",
-   "link": "https://variety.com/2026/music/album-reviews/beatles-rubber-soul-super-deluxe-boxed-set-review-1236898774/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 06:56",
-   "ts": 1791154590
-  },
-  {
    "id": "162e19031d027729e2b44c5a6bcac4d9",
    "title": "Mardle: Humphries can do it against anyone from any position",
    "summary": "Sky Sports Darts pundit Wayne Mardle reflects on Luke Humphries becoming a two-time World Grand Prix champion after 'Cool Hand' rallied from 3-0 down against Ge",
@@ -810,7 +810,7 @@
   {
    "id": "283a544198b28b13622046a7284a2021",
    "title": "Self-hosted HTTP tunnels with SSH and Nginx",
-   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 119\n# Comments: 30",
+   "summary": "Article URL: https://vincent.bernat.ch/en/blog/2026-http-over-ssh\nComments URL: https://news.ycombinator.com/item?id=49958569\nPoints: 121\n# Comments: 30",
    "link": "https://vincent.bernat.ch/en/blog/2026-http-over-ssh",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -927,7 +927,7 @@
   {
    "id": "2e52209d54610fcee4461e07dfed5f5a",
    "title": "In the wake of closure, a digital archive of animated materials appears online",
-   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 107\n# Comments: 10",
+   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 109\n# Comments: 11",
    "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1018,7 +1018,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 507\n# Comments: 317",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 515\n# Comments: 322",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1057,7 +1057,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 165\n# Comments: 63",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 166\n# Comments: 63",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1146,6 +1146,19 @@
    "ts": 1791136800
   },
   {
+   "id": "43161bc160eba8fb8a2b5d2546227999",
+   "title": "All I wanted was a custom domain email",
+   "summary": "Article URL: https://jacobg.co/emails-at-jacobg-co/\nComments URL: https://news.ycombinator.com/item?id=49956092\nPoints: 59\n# Comments: 78",
+   "link": "https://jacobg.co/emails-at-jacobg-co/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 01:47",
+   "ts": 1791136041
+  },
+  {
    "id": "62a4e9e53f35953f07982161814b58db",
    "title": "Avengers: Endgame Beats Avatar to Become the Highest-Grossing Movie of All Time (Again)",
    "summary": "Marvel Studios' Encore re-release has helped Avengers: Endgame beat Avatar to become the highest-grossing movie at the box office of all time…again.",
@@ -1196,19 +1209,6 @@
    "urgent": false,
    "fetched_at": "10-05 01:00",
    "ts": 1791133258
-  },
-  {
-   "id": "bfab401cc8b801f0430b698600cefdb5",
-   "title": "Labuschagne hits timely ton as Australia warm up for South Africa Tests",
-   "summary": "Marnus Labuschagne scored a speedy, and timely, century in Australia's sole warm-up match before the three-Test series in South Africa from Friday, live on Sky ",
-   "link": "https://www.skysports.com/cricket/news/12040/13595073/australias-marnus-labuschagne-hits-timely-hundred-ahead-of-south-africa-test-series-live-on-sky-sports-from-friday",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 01:00",
-   "ts": 1791133200
   },
   {
    "id": "999670218561d3f8638f9b1be38c5b2a",
@@ -1536,6 +1536,19 @@
    "ts": 1791117061
   },
   {
+   "id": "f52481f8308b494470722d6dc87f07ac",
+   "title": "How did Lewis recover from P18 to the podium?! SkyPad ANALYSIS reveals all...",
+   "summary": "SkyPad ANALYSIS of Lewis Hamilton's P15 to podium recovery drive!",
+   "link": "https://www.skysports.com/watch/video/13594995/skypad-analysis-of-lewis-hamiltons-p15-to-podium-recovery-drive",
+   "source": "Sky Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-04 20:23",
+   "ts": 1791116580
+  },
+  {
    "id": "a1bee9fa41825175870bfe40d4011228",
    "title": "How to Avoid JNI Crashes by Managing Local and Global References Correctly",
    "summary": "Most JNI crashes don't come from complicated logic. They come from a small set of mistakes around object references: holding on to a reference after it has beco",
@@ -1612,19 +1625,6 @@
    "urgent": false,
    "fetched_at": "10-04 19:42",
    "ts": 1791114120
-  },
-  {
-   "id": "101fa450bf2d1dcfa85646b0b24731cd",
-   "title": "Taylor stars as Colts cruise past Commanders in NFL's return to London",
-   "summary": "Jonathan Taylor scored twice as Indianapolis Colts overcame Washington Commanders 30-13 at the Tottenham Hotspur Stadium to open this year's triple-header of NF",
-   "link": "https://www.skysports.com/nfl/news/12040/13594955/nfl-in-london-indianapolis-colts-beat-washington-commanders-30-13-at-tottenham-hotspur-stadium",
-   "source": "Sky Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 18:59",
-   "ts": 1791111540
   },
   {
    "id": "6afc29803bdd833845fc7538df0ca9b6",
