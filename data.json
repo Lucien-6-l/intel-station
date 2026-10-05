@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-05 17:06",
- "total": 249,
+ "updated_at": "2026-10-05 17:42",
+ "total": 258,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,6 +10,7 @@
   "数码",
   "汽车",
   "游戏",
+  "科学",
   "财经"
  ],
  "items": [
@@ -28,7 +29,7 @@
   },
   {
    "id": "dc57b0abebece188aa16cd0c7f0681c3",
-   "title": "'What a pass!' - Jokic pulls off outrageous behind-the-back dime across court",
+   "title": "'What a pass!' - Jokic pulls off OUTRAGEOUS behind-the-back dime across court!",
    "summary": "Nikola Jokic reminded everyone of his extraordinary playmaking ability in Sunday's preseason opener, whipping a sensational behind-the-back crosscourt assist to",
    "link": "https://www.skysports.com/watch/video/13595270/nikola-jokic-stuns-with-outrageous-behind-the-back-assist-in-nuggets-preseason-opener",
    "source": "Sky Sports",
@@ -38,6 +39,123 @@
    "urgent": false,
    "fetched_at": "10-05 17:41",
    "ts": 1791193260
+  },
+  {
+   "id": "a37501930336cfc277be5e9a4c9036bd",
+   "title": "高通与华为达成逻辑折叠芯片技术相关专利授权，韬定律加速出海",
+   "summary": "IT之家 10 月 5 日消息，彭博社今日发布报道《Qualcomm Licenses Patents on Huawei' s LogicFolding Chip Tech》，高通公司已同意授权华为技术公司的逻辑折叠芯片制造技术的专利，这对华为及其在海外 AI 市场的推动力来说是一笔胜利（Qualcomm Inc. ",
+   "link": "https://www.ithome.com/1/009/852.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:40",
+   "ts": 1791193218
+  },
+  {
+   "id": "4adfcbb2fc09bdce4f639117c65aa0c2",
+   "title": "2026 诺贝尔奖生理学或医学奖授予三学者：表彰三人在“光控离子通道和光遗传学”领域发现",
+   "summary": "IT之家 10 月 5 日消息，即日起，一年一度的诺贝尔奖“开奖周”正式拉开帷幕，六大奖项将逐次揭晓。IT之家后续将为大家带来每天的详细报道。今日，诺贝尔奖基金会宣布将 2026 年诺贝尔生理学或医学奖授予以下三人，以表彰他们在“光控离子通道和光遗传学”领域的发现：美国霍华德 · 休斯医学研究所及斯坦福大学的 Karl",
+   "link": "https://www.ithome.com/1/009/851.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:36",
+   "ts": 1791192993
+  },
+  {
+   "id": "82e6b286ab2f6afe8378b60a9bce624e",
+   "title": "Andrew Mountbatten-Windsor Taking Legal Action Against Police Over Search Warrants in Arrest",
+   "summary": "Andrew Mountbatten-Windsor, the former prince and King Charles&#8217; brother, is taking legal action against the Thames Valley Police over search warrants rela",
+   "link": "https://variety.com/2026/global/news/former-prince-andrew-legal-action-police-arrest-1236898938/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:31",
+   "ts": 1791192669
+  },
+  {
+   "id": "29ed9ed8093d7960e78a8b7aaca05579",
+   "title": "We’re witnessing a critical moment for Amazon Kindles",
+   "summary": "Two steps forward, one step back.",
+   "link": "https://www.androidauthority.com/critical-moment-for-amazon-kindle-2026-3718411/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:30",
+   "ts": 1791192621
+  },
+  {
+   "id": "9dda841f8ca9e077e2c4e2d09f6d8f47",
+   "title": "荣耀 WIN 小平板上架：搭 8.4 英寸 240Hz OLED 挖孔屏，有望 10 月 15 日发售",
+   "summary": "IT之家 10 月 5 日消息，荣耀 WIN 小平板现已在京东上架，页面显示该机有望于 10 月 15 日发售。京东荣耀 WIN 平板待发布直达链接此前消息显示，该机拥有黑 / 银两种配色，搭载 8.4 英寸 240Hz OLED 挖孔屏，搭载骁龙 8E5（第五代骁龙 8 至尊版处理器）+ 主动散热风扇，不过没有 5G",
+   "link": "https://www.ithome.com/1/009/850.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:28",
+   "ts": 1791192499
+  },
+  {
+   "id": "5374b5b0a24a3f96ec3c2c0586848dd2",
+   "title": "荣耀 MagicOS 11 新增自定义充电上限功能，充多少自己决定",
+   "summary": "IT之家 10 月 5 日消息，据荣耀客服，荣耀 MagicOS 11 新增自定义充电上限功能，帮用户更科学地管理电池健康，延长电池使用寿命。具体路径：设置 &gt; 电池 &gt; 电池健康 &gt; 自定义充电上限。若偶尔需将电量充至 100%，无需调整设置，在下拉系统弹窗中点击“本次充满”即可。官方此前已经公布 ",
+   "link": "https://www.ithome.com/1/009/849.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:26",
+   "ts": 1791192404
+  },
+  {
+   "id": "71b17eb3ee007e8a38742b93b8314117",
+   "title": "苹果招募“iCup 供应专员”，负责保障园区员工咖啡供应",
+   "summary": "IT之家 10 月 5 日消息，苹果近日发布了一则颇为特别的招聘信息，正在招聘一名“iCup Supply Specialist”（iCup 供应专员），主要负责确保“所有苹果员工都能在休息室喝到现煮咖啡”。▲ 苹果 Apple Park 向发布会来宾提供的饮品根据此次招聘信息，新员工需要在苹果不同办公地点之间驾驶车辆",
+   "link": "https://www.ithome.com/1/009/848.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:23",
+   "ts": 1791192239
+  },
+  {
+   "id": "16e0fd2926ff8be2f1af8eb8fdef7f5e",
+   "title": "This Android flagship won our best iPhone 18 Pro alternative survey by a landslide",
+   "summary": "The latest Pixel plays second fiddle to its biggest Android rival.",
+   "link": "https://www.androidauthority.com/best-iphone-18-pro-alternative-poll-results-3718944/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:20",
+   "ts": 1791192017
+  },
+  {
+   "id": "4e4a9bcc00726529999f50076a477f36",
+   "title": "阿里千问 AI 耳夹式耳机上架预约：Bose 调音，支持 89 种语言翻译",
+   "summary": "IT之家 10 月 5 日消息，阿里千问 AI 耳夹式耳机现已上架电商平台并开启预约，具体价格暂未公布。这款耳机有深空蓝、星光色、极光紫三种颜色可选，不分左右耳，支持 IP55 级防尘防泼溅，至多可配对 8 台设备，支持双设备同时连接；耳机续航 9 小时，配合充电仓 40 小时，支持无线充电。这款耳机搭载 0.5mm ",
+   "link": "https://www.ithome.com/1/009/846.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:18",
+   "ts": 1791191926
   },
   {
    "id": "f9e57f0369390b4e18863abf411e5b61",
@@ -51,6 +169,19 @@
    "urgent": false,
    "fetched_at": "10-05 17:16",
    "ts": 1791191760
+  },
+  {
+   "id": "d2cbb008cefa1f05a67ac54ea48f5a55",
+   "title": "游改电影《生化危机：爆发夜》今日上映：时隔九年重返内地大银幕，票房已破 5000 万",
+   "summary": "IT之家 10 月 5 日消息，游改真人电影《生化危机：爆发夜》今日上映，累计票房破 5000 万。这也是《生化危机》系列时隔九年，重返内地大银幕。这部惊悚片此前已经在海外上映，在烂番茄上首映获得 96% 的新鲜度，成为有史以来评分最高的电子游戏改编电影作品。全球首周票房 1.08 亿美元（IT之家注：现汇率约合 7.",
+   "link": "https://www.ithome.com/1/009/845.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-05 17:07",
+   "ts": 1791191252
   },
   {
    "id": "ae54002f1ca506663c22dd8ccb8a2cdc",
@@ -146,7 +277,7 @@
   {
    "id": "b63b4b5b8231331089d2f9f65072a2de",
    "title": "‘The Social Reckoning’ Is an Even Bigger Burn on Mark Zuckerberg Than You Think",
-   "summary": "Aaron Sorkin's film takes on a sitting mogul in a way Hollywood rarely attempts",
+   "summary": "Aaron Sorkin's film takes on a sitting mogul in a way Hollywood rarely attempts.",
    "link": "https://www.hollywoodreporter.com/business/digital/social-reckoning-mark-zuckerberg-villain-jeremy-theaters-1236722195/",
    "source": "好莱坞报道",
    "channel": "娱乐·影视",
@@ -287,32 +418,6 @@
    "ts": 1791188356
   },
   {
-   "id": "4a7a1de5bf1d983b5dc7129783c57519",
-   "title": "森海塞尔 HDB 630 头戴式无线耳机新增“月光银”配色，4098 元",
-   "summary": "IT之家 10 月 5 日消息，森海塞尔宣布为旗下 HDB 630 头戴式无线高保真耳机新增一款“月光银”配色，定价为 4098 元。灵感源自月光映照下的银色光泽，以全新色彩，诠释高保真之声。该耳机继承 MOMENTUM 4 的外部框架并融合人体工程学设计与定制声学系统，耳垫采用 IDEATEX 日本蛋白皮革材质，配备",
-   "link": "https://www.ithome.com/1/009/838.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 16:14",
-   "ts": 1791188096
-  },
-  {
-   "id": "92e294e817b320dcb47fb8e2a10351ec",
-   "title": "鸿海 9 月销售额 1.16 万亿元新台币创新高，同比增长 38.4％",
-   "summary": "IT之家 10 月 5 日消息，鸿海今日公布财务数据显示，9 月单月营收 1.16 万亿元新台币（IT之家注：现汇率约合 2,441.8 亿元人民币），同比增长 38.4％，这也是历年单月最高表现。第三季度营收约为 3.027 万亿元新台币（现汇率约合 6,371.84 亿元人民币），同比增长 47%。从累计数据来看，",
-   "link": "https://www.ithome.com/1/009/837.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 16:14",
-   "ts": 1791188095
-  },
-  {
    "id": "50066c0fc2a5f98bf9efb7c5b2bc6da9",
    "title": "Googlebooks have unlockable bootloader support, and there’s also good news for Magisk",
    "summary": "Support documents confirm easy bootloader unlocking, and Magisk developer has teased Magisk coming soon for the platform.",
@@ -326,17 +431,17 @@
    "ts": 1791187947
   },
   {
-   "id": "7f0931de34f2cbd1f1f19a434a13c229",
-   "title": "安钛克推出 HCG PRO Platinum 系列电源：提供 850/1000/1200W 功率、十年质保，1019 元起",
-   "summary": "IT之家 10 月 5 日消息，安钛克现已在京东上架 HCG PRO Platinum 系列电源，系列产品提供十年质保服务，可选 850W、1000W 和 1200W 功率，定价为 1019 元起，IT之家整理价格如下：850W：1019 元1000W：1229 元1200W：1409 元京东安钛克 HCG PRO P",
-   "link": "https://www.ithome.com/1/009/836.htm",
-   "source": "IT之家",
+   "id": "c30c8592e5cfd474e1ad5ddea370b486",
+   "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+   "summary": "Article URL: https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger\nComments URL: https://news.ycombinator.",
+   "link": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+   "source": "Hacker News",
    "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-05 16:03",
-   "ts": 1791187430
+   "fetched_at": "10-05 16:09",
+   "ts": 1791187776
   },
   {
    "id": "f6c6397c0a0cf32c19cfac972f4464d3",
@@ -365,32 +470,6 @@
    "ts": 1791187200
   },
   {
-   "id": "44e35218838df82e63ef86291c827b00",
-   "title": "消息称本月 3 台高通第六代骁龙 8 超级至尊版新机登场，至高 10000mAh 电池",
-   "summary": "IT之家 10 月 5 日消息，博主 @数码闲聊站 今日爆料，10 月有 3 台高通第六代骁龙 8 超级至尊版新机登场，电池容量分别是 8400mAh、9000mAh、10000mAh±，全支持 100W/120W 百瓦有线充 + 满血无线充。据其爆料，10 月还有一堆次旗舰性能机登场，骁龙 8 至尊版、第五代骁龙 8",
-   "link": "https://www.ithome.com/1/009/834.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:58",
-   "ts": 1791187081
-  },
-  {
-   "id": "41fce0b6443b5735261b84685bd0cd23",
-   "title": "交通运输部：10 月 4 日全社会跨区域人员流动量 30539 万人次，同比增长 1.3%",
-   "summary": "IT之家 10 月 5 日消息，交通运输部今日公布的最新数据显示，2026 年 10 月 4 日（国庆假期第 4 日），全社会跨区域人员流动量 30539 万人次，环比增长 0.6%，比 2025 年同期（10 月 4 日，中秋国庆假期第 4 日，下同）增长 1.3%。IT之家附 2026 年 10 月 4 日具体数据",
-   "link": "https://www.ithome.com/1/009/833.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:56",
-   "ts": 1791186983
-  },
-  {
    "id": "862f5655c1445d88359e450e184d0222",
    "title": "Googlebook key features detailed: Here’s what you get with Glowbar, Game Controls, and more",
    "summary": "Google also explains the built-in PDF and document editor along with setup and troubleshooting tips.",
@@ -402,19 +481,6 @@
    "urgent": false,
    "fetched_at": "10-05 15:54",
    "ts": 1791186881
-  },
-  {
-   "id": "8c81779369908a9a27f7ab4cc03cd0af",
-   "title": "开发者自制 ForceWare 382.69 非官方驱动，让 32 位 Windows XP 系统支持英伟达 GTX 10 系 Pascal 架构显卡",
-   "summary": "IT之家 10 月 5 日消息，据外媒 Tweaktown 报道，一款名为 ForceWare 382.69 的非官方驱动近日引发业界关注，该驱动可以让 32 位 Windows XP 系统支持包括英伟达 GeForce GTX 1080 Ti 在内的 Pascal 架构显卡。IT之家获悉，该驱动由开发者 SupraG",
-   "link": "https://www.ithome.com/1/009/832.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:54",
-   "ts": 1791186870
   },
   {
    "id": "aa48723b53d3cdd1b4ad217d9b15b391",
@@ -430,22 +496,9 @@
    "ts": 1791186674
   },
   {
-   "id": "cf65cd667d9771b7d84ca1a311fafce7",
-   "title": "索尼向 Meta 转让 419 项 XR 专利，或缩减相关硬件业务",
-   "summary": "IT之家 10 月 5 日消息，据韩媒 ZDNET Korea 今日报道，索尼向 Meta 转让了 419 项（该媒体此前报道为 418 项，后更正为 419 项）扩展现实 XR 专利。外界分析认为，索尼此举意在缩减其 XR 硬件业务，Meta 则借此进一步扩充了自身的专利组合。IT之家注意到，据美国专利商标局 10 ",
-   "link": "https://www.ithome.com/1/009/831.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 15:47",
-   "ts": 1791186466
-  },
-  {
    "id": "f3d78edab88a060c1d1eeb190a672a1a",
    "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 30\n# Com",
+   "summary": "Article URL: https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement\nComments URL: https://news.ycombinator.com/item?id=49961861\nPoints: 46\n# Com",
    "link": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -614,7 +667,7 @@
   {
    "id": "51ff97dab6bb1ce0f06918ce5eeeeb95",
    "title": "Replacement of petroleum based products with plant-based materials (2025)",
-   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 59\n# Comments: 22",
+   "summary": "Article URL: https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108\nComments URL: https://news.ycombinator.com/item?id=49960901\nPoints: 63\n# Comments: 25",
    "link": "https://onlinelibrary.wiley.com/doi/10.1002/eng2.70108",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -870,19 +923,6 @@
    "urgent": false,
    "fetched_at": "10-05 09:13",
    "ts": 1791162802
-  },
-  {
-   "id": "ba138ea226597b284485fc2b68aa8cac",
-   "title": "Korea Box Office: ‘The Assassin(s)’ Holds Admissions Lead as ‘Chiikawa’ Generates Top Weekend Gross",
-   "summary": "Director Hur Jin-ho&#8217;s political crime thriller &#8220;The Assassin(s)&#8221; held the top position at the South Korean box office in admissions over the w",
-   "link": "https://variety.com/2026/film/box-office/korea-box-office-the-assassins-admissions-lead-1236898809/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 09:05",
-   "ts": 1791162337
   },
   {
    "id": "d537da20dcee6f92f90863f18f4b61ec",
@@ -1160,7 +1200,7 @@
   {
    "id": "2e52209d54610fcee4461e07dfed5f5a",
    "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 130\n# Comments: 14",
+   "summary": "https://archive.org/details/tippett-archive/\n\nComments URL: https://news.ycombinator.com/item?id=49957812\nPoints: 133\n# Comments: 16",
    "link": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1238,7 +1278,7 @@
   {
    "id": "42d1ad500220192635b03238c099c52f",
    "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 561\n# Comments: 375",
+   "summary": "Article URL: https://github.com/omlahore/RemoveMacAI\nComments URL: https://news.ycombinator.com/item?id=49957116\nPoints: 567\n# Comments: 379",
    "link": "https://github.com/omlahore/RemoveMacAI",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1277,7 +1317,7 @@
   {
    "id": "4d417d1d1d55e2460abb701debf3c3eb",
    "title": "A browser-native classic Visual Basic VB6 IDE",
-   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 219\n# Comments: 71",
+   "summary": "Article URL: https://wieslawsoltes.github.io/VB6/\nComments URL: https://news.ycombinator.com/item?id=49956681\nPoints: 232\n# Comments: 72",
    "link": "https://wieslawsoltes.github.io/VB6/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1329,7 +1369,7 @@
   {
    "id": "d0549b40cf18c06783f4fb0f5d660e7f",
    "title": "Xray-core concealed a certificate verification bypass vulnerability",
-   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 80\n# Comments: 10",
+   "summary": "Article URL: https://github.com/net4people/bbs/issues/672\nComments URL: https://news.ycombinator.com/item?id=49956003\nPoints: 82\n# Comments: 10",
    "link": "https://github.com/net4people/bbs/issues/672",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1407,7 +1447,7 @@
   {
    "id": "843e77235e9cadcbc74250264ec4bf8a",
    "title": "Blindsight (Watts Novel)",
-   "summary": "Article URL: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)\nComments URL: https://news.ycombinator.com/item?id=49955297\nPoints: 83\n# Comments: 80",
+   "summary": "Article URL: https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)\nComments URL: https://news.ycombinator.com/item?id=49955297\nPoints: 87\n# Comments: 87",
    "link": "https://en.wikipedia.org/wiki/Blindsight_(Watts_novel)",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1678,19 +1718,6 @@
    "ts": 1791118800
   },
   {
-   "id": "b2f4a7c23b312ad1f2de434faa293b99",
-   "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-   "summary": "Article URL: https://github.com/Niko1221/Strata\nComments URL: https://news.ycombinator.com/item?id=49953495\nPoints: 788\n# Comments: 352",
-   "link": "https://github.com/Niko1221/Strata",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 20:51",
-   "ts": 1791118313
-  },
-  {
    "id": "e63a993205e5992659754025231a5486",
    "title": "The MacBook Air M5 is $200 off for the first time in months",
    "summary": "Amazon’s October Prime Day has effectively chopped off Apple’s June price increases. Usually $1,299, the 13-inch MacBook Air with the M5 chip and 512GB of stora",
@@ -1858,32 +1885,6 @@
    "urgent": false,
    "fetched_at": "10-04 17:31",
    "ts": 1791106262
-  },
-  {
-   "id": "3628f6bb14fab8f0d000575a4d3ffd84",
-   "title": "I tried Duolingo for the first time in a year, and it’s worse than I thought",
-   "summary": "This isn't the Duolingo I remember.",
-   "link": "https://www.androidauthority.com/using-duolingo-after-one-year-bad-alternatives-3717701/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 17:30",
-   "ts": 1791106250
-  },
-  {
-   "id": "3ad299ecdad5305419938dd8ec010297",
-   "title": "After a month with the Galaxy Z Fold 8, every other Android phone feels wrong",
-   "summary": "A month with the Galaxy Z Fold 8 has quietly ruined every other phone for me.",
-   "link": "https://www.androidauthority.com/samsung-galaxy-z-fold-8-one-monther-later-3710165/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-04 17:00",
-   "ts": 1791104427
   },
   {
    "id": "2dc7528a8b598676b88d09a155e4844d",
