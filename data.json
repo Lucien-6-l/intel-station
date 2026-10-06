@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06 12:05",
+ "updated_at": "2026-10-06 12:39",
  "total": 258,
  "channels": [
   "AI·科技",
@@ -15,6 +15,84 @@
  ],
  "items": [
   {
+   "id": "c69d7f256edce0b0928b2c6a86fc8e0b",
+   "title": "余承东回应苹果入局折叠屏：欢迎同行加入竞争，iPhone Duo 发布后华为 Pura X Max 销量大增 76%",
+   "summary": "IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。有记者询问华为 Mate XT 2 三折叠手机的具体销售",
+   "link": "https://www.ithome.com/1/009/976.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 12:39",
+   "ts": 1791261543
+  },
+  {
+   "id": "7cd713c5318fbb9c7d5db355d2c6122f",
+   "title": "Wood Tape (2004)",
+   "summary": "Article URL: http://gamesbyemail.com/WoodTape/Default.htm\nComments URL: https://news.ycombinator.com/item?id=49974173\nPoints: 3\n# Comments: 1",
+   "link": "http://gamesbyemail.com/WoodTape/Default.htm",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 12:25",
+   "ts": 1791260741
+  },
+  {
+   "id": "40d686a65fc5a1edf9bbba7de26c89d6",
+   "title": "消息称希捷与东芝竞购 TDK 硬盘磁头业务，争夺 AI 存储供应链关键环节",
+   "summary": "IT之家 10 月 6 日消息，据彭博社报道，希捷科技控股以及东芝公司正在争夺 TDK 的硬盘磁头业务。两家竞争对手都希望借此跟上 AI 数据中心存储设备的旺盛需求。知情人士称，东芝于今年春季率先同 TDK 开启收购谈判；随后希捷在夏季提出了更高的报价。由于相关磋商仍处于保密阶段，消息人士要求匿名，并表示这笔收购交易的",
+   "link": "https://www.ithome.com/1/009/975.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 12:23",
+   "ts": 1791260619
+  },
+  {
+   "id": "d73964d67b9e6ee1b4a761171c3423b5",
+   "title": "华为余承东官宣鸿蒙出海：正在考虑未来逐步将 HarmonyOS 推向全球市场",
+   "summary": "IT之家 10 月 6 日消息，华为海外 X 账号今日（10 月 6 日）发布了 9 月 29 日的国际媒体圆桌会议摘要。华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东与多家国际媒体的记者就华为消费者业务及 HarmonyOS 生态系统进行了交流。余承东表示，自己于 1993 年加入华为，那是 33 年",
+   "link": "https://www.ithome.com/1/009/974.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 12:20",
+   "ts": 1791260414
+  },
+  {
+   "id": "b563f74c6bba6d4b1211ef33e05b3c07",
+   "title": "Yankees commit four errors in ALDS Game 2 as familiar problem pushes their season to the brink vs. Rays",
+   "summary": "The Yankees made three of their four errors in the first inning on an ugly night for the New York defense",
+   "link": "https://www.cbssports.com/mlb/news/yankees-first-inning-errors-alds-game-2-rays/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 12:12",
+   "ts": 1791259969
+  },
+  {
+   "id": "a379c3fb1366a5831865ed653357b5e9",
+   "title": "vivo Y32 quietly launches with an 8,000 mAh battery",
+   "summary": "vivo has quietly listed the Y32 on its website in Bangladesh. The phone is obviously not to be confused with the Y32 from 2021 - we're not sure why the company ",
+   "link": "https://www.gsmarena.com/vivo_y32_quietly_launches_with_an_8000_mah_battery-news-74912.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 12:01",
+   "ts": 1791259262
+  },
+  {
    "id": "6a9d848095d7afb6f3d0701684934d43",
    "title": "Jon Stewart’s ‘Daily Show’ Skips David Ellison-Skydance News to Take on AI",
    "summary": "On Sunday night, John Oliver dedicated the majority of his Emmy-winning show “Last Week Tonight” to the Secret Service’s failings in recent years while declinin",
@@ -26,6 +104,32 @@
    "urgent": false,
    "fetched_at": "10-06 11:59",
    "ts": 1791259156
+  },
+  {
+   "id": "7172c9a213429d8e86ad1fccedad7115",
+   "title": "Amazon Alexa won’t stop saying ‘lalala’ and users are creeped out (Updated: Fix incoming)",
+   "summary": "La, la, la, la, la...",
+   "link": "https://www.androidauthority.com/amazon-alexa-la-la-la-3719167/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 11:56",
+   "ts": 1791258995
+  },
+  {
+   "id": "50e2243f4437278f492f79b2e045af5e",
+   "title": "NFL Week 4 grades for all 32 teams: Falcons earn 'A+' for destroying Saints; Bengals slip again",
+   "summary": "We're handing out grades for every Week 4 game",
+   "link": "https://www.cbssports.com/nfl/news/nfl-week-4-grades-for-all-32-teams-bears-bengals-patriots-rams/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 11:43",
+   "ts": 1791258235
   },
   {
    "id": "a8321e2a7bb61ccdbfe3472b3b3ac0c9",
@@ -52,6 +156,19 @@
    "urgent": false,
    "fetched_at": "10-06 11:40",
    "ts": 1791258041
+  },
+  {
+   "id": "7a7cc6c6b92929158fdb07a6379f36a6",
+   "title": "Resurrecting iChat Audio and Video Conferencing",
+   "summary": "Article URL: https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/\nComments URL: https://news.ycombinator.com/item?id=49973878",
+   "link": "https://blog.pipetogrep.org/2026/09/11/resurrecting-ichat-audio-and-video-conferencing/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 11:39",
+   "ts": 1791257941
   },
   {
    "id": "57265351292366df14f6cbc5c5733fc0",
@@ -117,6 +234,19 @@
    "urgent": false,
    "fetched_at": "10-06 11:31",
    "ts": 1791257493
+  },
+  {
+   "id": "5393d06dd8300ac2fc460ab6a24d6d31",
+   "title": "MLB playoff winners and losers: Yankees can't handle Rays' pressure, White Sox trade keeps paying off",
+   "summary": "The Yankees committed four errors in a Game 2 loss, while the White Sox stayed perfect",
+   "link": "https://www.cbssports.com/mlb/news/mlb-playoff-winners-losers-alds-game-2-yankees-rays-white-sox/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 11:31",
+   "ts": 1791257477
   },
   {
    "id": "6927f4d43d27d0fd0f66f47fd5e85100",
@@ -197,6 +327,19 @@
    "ts": 1791255148
   },
   {
+   "id": "0fa32b08a3e009ede1c673283d38cd0e",
+   "title": "Why Common Lisp Is Now the Best Programming Language",
+   "summary": "Article URL: https://www.vivienhenz.com/common-lisp\nComments URL: https://news.ycombinator.com/item?id=49973598\nPoints: 27\n# Comments: 19",
+   "link": "https://www.vivienhenz.com/common-lisp",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 10:51",
+   "ts": 1791255111
+  },
+  {
    "id": "b2a94cdaba7b4f699b02d7f7e7b34320",
    "title": "消息称苹果 10 月推 2 波新品上市：M6 iMac、首款触控 MacBook 等",
    "summary": "IT之家 10 月 6 日消息，科技媒体 MacRumors 今天（10 月 6 日）发布博文，报道称苹果公司本月（2026 年 10 月）有望分 2 波推出诸多新产品，第一波聚焦智能家居产品，第二波主角是 Mac 系列，预估为 10 月最后 1 周。IT之家此前援引彭博社马克 · 古尔曼（Mark Gurman）报道",
@@ -224,7 +367,7 @@
   },
   {
    "id": "fa016f0f6d40d2f755550dd690ac7ec8",
-   "title": "Andrew Garfield Says OpenAI’s Sam Altman Seemed ‘F—ing Great’ Before Playing Him in ‘Artificial’: And Then You Learn More About a Person’",
+   "title": "Andrew Garfield Says OpenAI’s Sam Altman Seemed ‘F—ing Great’ Before Playing Him in ‘Artificial’: ‘And Then You Learn More About a Person’",
    "summary": "Andrew Garfield admits he was initially charmed by Sam Altman before he portrayed the controversial CEO of OpenAI in director Luca Guadagnino&#8217;s new film &",
    "link": "https://variety.com/2026/film/news/andrew-garfield-sam-altman-movie-artificial-nyff-premiere-luca-guadagnino-1236894719/",
    "source": "Variety",
@@ -249,19 +392,6 @@
    "ts": 1791254303
   },
   {
-   "id": "88b71f046173773362cc606e4b5d13ff",
-   "title": "微软 Win11 逐步淘汰传统打印机驱动，旧设备恐面临兼容性挑战",
-   "summary": "IT之家 10 月 6 日消息，科技媒体 hardwareluxx 昨日（10 月 5 日）发布博文，报道称在 Windows 11 系统中，微软正在推进 Windows Ready Print，可能会导致部分老式 USB 打印机、以及依赖专用驱动的多功能设备出现兼容性故障。IT之家曾于今年 6 月报道，自 Windo",
-   "link": "https://www.ithome.com/1/009/962.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 10:30",
-   "ts": 1791253833
-  },
-  {
    "id": "7bc482319806005d55c734f9be1f4af4",
    "title": "Watch the vivo V80 announcement live here",
    "summary": "After announcing the V80 Lite at the start of September, vivo started teasing the V80 with promises of a phone that can capture “cinematic moments”. The date wa",
@@ -275,19 +405,6 @@
    "ts": 1791253801
   },
   {
-   "id": "3af3b9abd4b68276bc08f7fa4091587d",
-   "title": "消息称 OpenAI 洽谈 300 亿美元融资，阿联酋基金、贝莱德入局磋商",
-   "summary": "IT之家 10 月 6 日消息，据彭博社报道，知情人士透露，OpenAI 正在与来自阿联酋的多家投资基金（总部位于阿布扎比的 MGX 也在其中）展开磋商，希望由这些基金作为基石投资方，助力这家 ChatGPT 开发商完成一轮规模 300 亿美元（IT之家注：现汇率约合 2,014.34 亿元人民币）的融资。其中一位知情",
-   "link": "https://www.ithome.com/1/009/961.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-06 10:29",
-   "ts": 1791253746
-  },
-  {
    "id": "d6db843c8aef2d2572e8d441a7afdddb",
    "title": "Dante Moore returns to Oregon practice ahead of Ducks' top-25 clash with UCLA",
    "summary": "The star quarterback was knocked out of Oregon's Sept. 26 win over USC with a concussion, but could be in line to play this Saturday after the Ducks' bye week",
@@ -299,19 +416,6 @@
    "urgent": false,
    "fetched_at": "10-06 10:23",
    "ts": 1791253409
-  },
-  {
-   "id": "278b6dd4ea2af54ea961fc25ab32ae47",
-   "title": "Groq 遭起诉：被控与英伟达 200 亿美元“类收购”交易牺牲少数股东权益",
-   "summary": "IT之家 10 月 6 日消息，综合 CNBC 与《金融时报》报道，Groq 当地时间本周二被告上美国特拉华州衡平法院，被指控在与 NVIDIA（英伟达）的“类收购”非独家授权交易中牺牲了少数股东的权益。原告 Joshua Rubin 和 Benjamin Serebrin 曾是 Groq 的员工，但在与 NVIDIA",
-   "link": "https://www.ithome.com/1/009/960.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-06 10:18",
-   "ts": 1791253087
   },
   {
    "id": "e3a2c278562f75af14b503eb5858b1a1",
@@ -377,19 +481,6 @@
    "urgent": false,
    "fetched_at": "10-06 09:38",
    "ts": 1791250687
-  },
-  {
-   "id": "b563f74c6bba6d4b1211ef33e05b3c07",
-   "title": "Yankees commit three first-inning errors in ugly start to ALDS Game 2 vs. Rays",
-   "summary": "For the first time in team history, the Yankees committed three errors in one inning on Monday night",
-   "link": "https://www.cbssports.com/mlb/news/yankees-first-inning-errors-alds-game-2-rays/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 09:37",
-   "ts": 1791250673
   },
   {
    "id": "7a405998252ab6a3cec6d3ae37d9d5d1",
@@ -485,7 +576,7 @@
   {
    "id": "ffeb069596cc1312ca33a86164273111",
    "title": "Photopea creator weighs in on Photosuite project",
-   "summary": "Article URL: https://github.com/eolix/photosuite/issues/77\nComments URL: https://news.ycombinator.com/item?id=49972730\nPoints: 49\n# Comments: 23",
+   "summary": "Article URL: https://github.com/eolix/photosuite/issues/77\nComments URL: https://news.ycombinator.com/item?id=49972730\nPoints: 74\n# Comments: 36",
    "link": "https://github.com/eolix/photosuite/issues/77",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -550,7 +641,7 @@
   {
    "id": "b31a2e51417da6819b1e26e2b2b580d1",
    "title": "AI tutoring with Khanmigo in a two-year school experiment",
-   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 48\n# Comments: 35",
+   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 53\n# Comments: 37",
    "link": "https://edworkingpapers.com/ai26-1551",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -602,7 +693,7 @@
   {
    "id": "1de8f2d7f0abd7c338333f68dd283af7",
    "title": "Samon: Designing a Zen Garden Raking Puzzle",
-   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 27\n# Comments: 8",
+   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 28\n# Comments: 9",
    "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -717,19 +808,6 @@
    "ts": 1791241839
   },
   {
-   "id": "f0a46265f787260d316a0d7b874fc280",
-   "title": "Fueled by Sean Payton's 'disrespect,' 49ers' Dre Greenlaw dominates Broncos and lets former coach know",
-   "summary": "The linebacker led San Francisco with 12 tackles in Sunday's win before opening up about feeling ignored and disrespected during his lone season in Denver",
-   "link": "https://www.cbssports.com/nfl/news/sean-paytons-disrespect-49ers-dre-greenlaw-dominates-broncos/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 07:10",
-   "ts": 1791241823
-  },
-  {
    "id": "c0077324f440060dae2b8b9f6c6fd0c9",
    "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
    "summary": "Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports f",
@@ -771,7 +849,7 @@
   {
    "id": "0deeb402ed9d8059d7f5621ae248ba51",
    "title": "Ephemeral Testing",
-   "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 37\n# Comments: 13",
+   "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 39\n# Comments: 13",
    "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -808,19 +886,6 @@
    "ts": 1791241505
   },
   {
-   "id": "803c74df6637283854727826888e7999",
-   "title": "Saints vs. Falcons picks, player props: Expert's best bets for NFL Week 4 Monday Night Football",
-   "summary": "Target a high-scoring NFC South clash in New Orleans with top player props for Bijan Robinson and Chris Olave, plus value on anytime touchdowns",
-   "link": "https://www.cbssports.com/betting/news/saints-vs-falcons-picks-player-props-experts-best-bets-for-nfl-week-4-monday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 07:01",
-   "ts": 1791241282
-  },
-  {
    "id": "7ff580fd1a613307c9178e84efbb23bd",
    "title": "This tool frees up Apple Intelligence storage on macOS, but think twice before using it",
    "summary": "A new open-source tool is going viral over its promise to let users who aren’t interested in Apple Intelligence reclaim 12GB or more of storage on their Macs. H",
@@ -836,7 +901,7 @@
   {
    "id": "9a599dc855536688121514bf3da41ee6",
    "title": "Example.com just launched the biggest redesign in decades",
-   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 119\n# Comments:",
+   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 126\n# Comments:",
    "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -901,7 +966,7 @@
   {
    "id": "a2761a73b2e3f39b07bda986fe995f67",
    "title": "Global Solar Atlas: summary of solar power potential globally",
-   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 25\n# Comments: 16",
+   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 32\n# Comments: 16",
    "link": "https://globalsolaratlas.info/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -914,7 +979,7 @@
   {
    "id": "3c66b6ae885a384eb8f30be85aa7b5fb",
    "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
-   "summary": "Article URL: https://almostimplemented.github.io/jazz-pianist-style/\nComments URL: https://news.ycombinator.com/item?id=49971726\nPoints: 33\n# Comments: 4",
+   "summary": "Article URL: https://almostimplemented.github.io/jazz-pianist-style/\nComments URL: https://news.ycombinator.com/item?id=49971726\nPoints: 35\n# Comments: 7",
    "link": "https://almostimplemented.github.io/jazz-pianist-style/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -938,19 +1003,6 @@
    "ts": 1791239446
   },
   {
-   "id": "147dbac58dfd86cb10c7c0448d20440b",
-   "title": "Friendship ended with Deno, now Node is my best friend",
-   "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/\nComments URL: https://news.ycombinator.com/item?id=49971719\nPoints: 92\n# Comments: 35",
-   "link": "https://dbushell.com/2026/10/03/deno-to-node/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:30",
-   "ts": 1791239402
-  },
-  {
    "id": "8243d7879c3f8a6c0342b0e84aded74d",
    "title": "HeyPolo gives parents real-time visibility into how their teen is driving, all inside one app",
    "summary": "Do you remember the first time you backed out of the driveway on your own? It was pure freedom. For your parents? It was probably one of the most terrifying tim",
@@ -962,19 +1014,6 @@
    "urgent": false,
    "fetched_at": "10-06 06:30",
    "ts": 1791239400
-  },
-  {
-   "id": "faf77ea10960cd55a0837d15466ebf3b",
-   "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
-   "summary": "Article URL: https://nivdayan.github.io/dostoevsky.pdf\nComments URL: https://news.ycombinator.com/item?id=49971678\nPoints: 24\n# Comments: 0",
-   "link": "https://nivdayan.github.io/dostoevsky.pdf",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:25",
-   "ts": 1791239147
   },
   {
    "id": "5bc26b5bc6a771d67817c761e4189cc8",
@@ -1001,19 +1040,6 @@
    "urgent": false,
    "fetched_at": "10-06 06:10",
    "ts": 1791238250
-  },
-  {
-   "id": "c3373e5b55b11df4a0331ca0e4b439bc",
-   "title": "Texas city demands $2M for public records on Flock usage",
-   "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/\nComments URL: https://news.ycombinator.com/ite",
-   "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:05",
-   "ts": 1791237957
   },
   {
    "id": "a58aa1dc5d50a8609df348f30d6c8a57",
@@ -2069,19 +2095,6 @@
    "ts": 1791214621
   },
   {
-   "id": "7172c9a213429d8e86ad1fccedad7115",
-   "title": "Amazon Alexa won’t stop saying ‘lalala’ and users are creeped out",
-   "summary": "La, la, la, la, la...",
-   "link": "https://www.androidauthority.com/amazon-alexa-la-la-la-3719167/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 23:34",
-   "ts": 1791214475
-  },
-  {
    "id": "8f65d4d22caf5e43f26d9ad00f9e5bbe",
    "title": "Apple’s AirPods Pro 3 fall to $179 in an early Amazon Prime Day deal",
    "summary": "Save $70 on Apple AirPods Pro 3 at Amazon and get MagSafe charging, Find My support, and upgraded audio features.",
@@ -2418,19 +2431,6 @@
    "urgent": false,
    "fetched_at": "10-05 20:19",
    "ts": 1791202751
-  },
-  {
-   "id": "40e14afc475ee5dae3acdb3b6e3d3efd",
-   "title": "Gurman: touchscreen MacBook Pros are launching next month",
-   "summary": "The touchscreen MacBook has earned mythical creature status over the years, and we’re closing in on its debut, according to Bloomberg’s Mark Gurman. Apple is ex",
-   "link": "https://www.gsmarena.com/gurman_touchscreen_macbook_pros_are_launching_next_month_-news-74897.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-05 20:09",
-   "ts": 1791202142
   },
   {
    "id": "ce52987e3cb4b1282942c1ea129c9c63",
