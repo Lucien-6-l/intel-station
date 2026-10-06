@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-06 10:39",
- "total": 258,
+ "updated_at": "2026-10-06 11:04",
+ "total": 253,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,10 +10,74 @@
   "数码",
   "汽车",
   "游戏",
-  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "ef07b3a37d59e47090e3a60f3e7f02cc",
+   "title": "任天堂《超级马力欧兄弟：惊奇》游戏被原生移植到 Windows，无需模拟器几乎完美运行",
+   "summary": "IT之家 10 月 6 日消息，开发者 Belmante 上周展示了任天堂《超级马力欧兄弟：惊奇》的原生 Windows 移植版。在未使用模拟器的情况下，RTX 3050 笔记本运行《超级马力欧兄弟：惊奇》的帧率达到约 60 帧，几乎可以完美运行，只是偶尔存在轻微的图形故障和帧率下降。该项目使用重新编译的 C++ 代码",
+   "link": "https://www.ithome.com/1/009/968.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 10:59",
+   "ts": 1791255565
+  },
+  {
+   "id": "8a60c17e82747d28e7997ddd4536521f",
+   "title": "散热制造商 Dynatron 确认 AMD EPYC \"Verano\" 处理器采用 SB1 插槽",
+   "summary": "IT之家 10 月 6 日消息，散热制造商 Dynatron（传达）此前已在其官网上线了 SB1-4U-ACTIVE 风冷散热器。该型号支持 Socket SB1 平台上的 AMD \"Zen 6\" 微架构 EPYC 9006 LP \"Verano\" 处理器。EPYC \"Verano\" 瞄准 AI 加速器头节点应用场景，",
+   "link": "https://www.ithome.com/1/009/967.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 10:52",
+   "ts": 1791255148
+  },
+  {
+   "id": "b2a94cdaba7b4f699b02d7f7e7b34320",
+   "title": "消息称苹果 10 月推 2 波新品上市：M6 iMac、首款触控 MacBook 等",
+   "summary": "IT之家 10 月 6 日消息，科技媒体 MacRumors 今天（10 月 6 日）发布博文，报道称苹果公司本月（2026 年 10 月）有望分 2 波推出诸多新产品，第一波聚焦智能家居产品，第二波主角是 Mac 系列，预估为 10 月最后 1 周。IT之家此前援引彭博社马克 · 古尔曼（Mark Gurman）报道",
+   "link": "https://www.ithome.com/1/009/965.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 10:43",
+   "ts": 1791254616
+  },
+  {
+   "id": "2880cbb951923b79edc50e1c53e872f9",
+   "title": "消息称快手旗下可灵 AI 已选定投行筹备赴港 IPO，拟募资至少 10 亿美元",
+   "summary": "IT之家 10 月 6 日消息，据彭博社报道，知情人士透露，快手科技旗下的可灵 AI（Kling AI）已经选定承销银行，筹备赴香港开展首次公开募股，此次 IPO 募资规模至少可达 10 亿美元（IT之家注：现汇率约合 67.14 亿元人民币）。知情人士称，这家人工智能视频服务提供商目前正与中金公司、高盛集团以及瑞银集",
+   "link": "https://www.ithome.com/1/009/964.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 10:41",
+   "ts": 1791254501
+  },
+  {
+   "id": "fa016f0f6d40d2f755550dd690ac7ec8",
+   "title": "Andrew Garfield Says OpenAI’s Sam Altman Seemed ‘F—ing Great’ Before Playing Him in ‘Artificial’: And Then You Learn More About a Person’",
+   "summary": "Andrew Garfield admits he was initially charmed by Sam Altman before he portrayed the controversial CEO of OpenAI in director Luca Guadagnino&#8217;s new film &",
+   "link": "https://variety.com/2026/film/news/andrew-garfield-sam-altman-movie-artificial-nyff-premiere-luca-guadagnino-1236894719/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 10:39",
+   "ts": 1791254386
+  },
   {
    "id": "3adc233a3ca825acbdb9a3102f84a3ff",
    "title": "华硕推出 XG32UQDS 显示器：31.5\" UHD 180Hz QD-OLED 面板",
@@ -158,45 +222,6 @@
    "ts": 1791251994
   },
   {
-   "id": "244b399648fcd6bc200a1091d583388d",
-   "title": "微软工程师回应“Win10/Win11 不适合开发”论调，称其开发者规模超 macOS / Linux",
-   "summary": "IT之家 10 月 6 日消息，科技媒体 Windows Latest 昨日（10 月 5 日）发布博文，报道称微软杰出工程师大卫 · 福勒（David Fowler）回应“Windows 系统不适合开发者”论调，称使用 Windows 10/Windows 11 等 Windows 系统的开发者多于其他操作系统。创业",
-   "link": "https://www.ithome.com/1/009/954.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 09:59",
-   "ts": 1791251969
-  },
-  {
-   "id": "c0f29118e6f4b6311be232fe3d006623",
-   "title": "英伟达黄仁勋“世界巡演”AI 视频海内外爆火，马斯克调侃“内存涨价的原因找到了”",
-   "summary": "IT之家 10 月 6 日消息，近期有关迈克尔 · 杰克逊演唱会的二创视频在国内视频平台爆火，网友们将舞台上的迈克尔 · 杰克逊和台下的观众替换为各种知名人物。B站 UP 主“王与也行”10 月 4 日发布的一段“黄仁勋 世界巡演”AI 视频已收获超百万播放量，甚至火到了海外，引来埃隆 · 马斯克的调侃：这就是内存价格",
-   "link": "https://www.ithome.com/1/009/953.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 09:51",
-   "ts": 1791251515
-  },
-  {
-   "id": "7b2dea6f4c54eed256fe77b2d90bda8a",
-   "title": "LG 电子将为北美超 5GW 人工智能数据中心供应冷水机组",
-   "summary": "IT之家 10 月 6 日消息，LG 电子当地时间昨日宣布，其北美分支与暖通空调服务企业 AIR Control Concepts 达成一项涉及超 5GW 规模的人工智能数据中心 (AIDC) 先进冷水机组长期供应协议。AIR 负责北美主要数据中心枢纽的超大型基础设施项目，其主要客户是全球领先的数据中心运营商。这份长期",
-   "link": "https://www.ithome.com/1/009/949.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 09:50",
-   "ts": 1791251426
-  },
-  {
    "id": "8210cffe4a695a8d2da0bf6b74f3e453",
    "title": "Apple accuses OpenAI of improperly adding new arguments to trade secrets case",
    "summary": "A few days ago, OpenAI accused Apple of improperly adding new evidence to its trade secrets case. Today, Apple fired back with its own accusation that OpenAI we",
@@ -221,19 +246,6 @@
    "urgent": false,
    "fetched_at": "10-06 09:42",
    "ts": 1791250951
-  },
-  {
-   "id": "ecf8a4a4c2d12d4efeddd8f95f630c0b",
-   "title": "微软 XBOX Elite 控制器（第三代）规格曝光：霍尔效应摇杆、VCA 触觉电机等",
-   "summary": "IT之家 10 月 6 日消息，网友 u/esketitethan 今天（10 月 6 日）在 Reddit 社区发帖，反馈称通过抓取微软官方 XBOX Design Lab 后端 API 数据，发现了 XBOX Elite 控制器（第三代）的相关规格信息。IT之家发稿前访问相关链接，发现链接已经失效，不过 Windo",
-   "link": "https://www.ithome.com/1/009/948.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 09:40",
-   "ts": 1791250846
   },
   {
    "id": "69208bf3c93673107db5df5375c83fe8",
@@ -342,7 +354,7 @@
   {
    "id": "ffeb069596cc1312ca33a86164273111",
    "title": "Photopea creator weighs in on Photosuite project",
-   "summary": "Article URL: https://github.com/eolix/photosuite/issues/77\nComments URL: https://news.ycombinator.com/item?id=49972730\nPoints: 5\n# Comments: 0",
+   "summary": "Article URL: https://github.com/eolix/photosuite/issues/77\nComments URL: https://news.ycombinator.com/item?id=49972730\nPoints: 20\n# Comments: 8",
    "link": "https://github.com/eolix/photosuite/issues/77",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -419,8 +431,8 @@
   },
   {
    "id": "b31a2e51417da6819b1e26e2b2b580d1",
-   "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 33\n# Comments: 23",
+   "title": "AI tutoring with Khanmigo in a two-year school experiment",
+   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 39\n# Comments: 27",
    "link": "https://edworkingpapers.com/ai26-1551",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -472,7 +484,7 @@
   {
    "id": "1de8f2d7f0abd7c338333f68dd283af7",
    "title": "Samon: Designing a Zen Garden Raking Puzzle",
-   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 20\n# Comments: 7",
+   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 25\n# Comments: 7",
    "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -641,7 +653,7 @@
   {
    "id": "0deeb402ed9d8059d7f5621ae248ba51",
    "title": "Ephemeral Testing",
-   "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 35\n# Comments: 13",
+   "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 37\n# Comments: 13",
    "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -693,7 +705,7 @@
   {
    "id": "2368a8eed5c8f6baa0fcadbde069cb21",
    "title": "Worth Building",
-   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 39\n# Comments: 30",
+   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 45\n# Comments: 32",
    "link": "https://armstr.ng/writing/worth-building",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -718,14 +730,14 @@
   },
   {
    "id": "9a599dc855536688121514bf3da41ee6",
-   "title": "Example.com Just Launched the Biggest Redesign in Decades",
-   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 94\n# Comments: ",
+   "title": "Example.com just launched the biggest redesign in decades",
+   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 98\n# Comments: ",
    "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
    "source": "Hacker News",
    "channel": "AI·科技",
    "category": "发布/大事件",
    "weight": 2,
-   "urgent": false,
+   "urgent": true,
    "fetched_at": "10-06 06:55",
    "ts": 1791240911
   },
@@ -823,7 +835,7 @@
   {
    "id": "a2761a73b2e3f39b07bda986fe995f67",
    "title": "Global Solar Atlas: summary of solar power potential globally",
-   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 14\n# Comments: 10",
+   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 17\n# Comments: 10",
    "link": "https://globalsolaratlas.info/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -849,7 +861,7 @@
   {
    "id": "3c66b6ae885a384eb8f30be85aa7b5fb",
    "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
-   "summary": "Article URL: https://almostimplemented.github.io/jazz-pianist-style/\nComments URL: https://news.ycombinator.com/item?id=49971726\nPoints: 21\n# Comments: 2",
+   "summary": "Article URL: https://almostimplemented.github.io/jazz-pianist-style/\nComments URL: https://news.ycombinator.com/item?id=49971726\nPoints: 26\n# Comments: 2",
    "link": "https://almostimplemented.github.io/jazz-pianist-style/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -875,7 +887,7 @@
   {
    "id": "147dbac58dfd86cb10c7c0448d20440b",
    "title": "Friendship ended with Deno, now Node is my best friend",
-   "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/\nComments URL: https://news.ycombinator.com/item?id=49971719\nPoints: 70\n# Comments: 15",
+   "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/\nComments URL: https://news.ycombinator.com/item?id=49971719\nPoints: 80\n# Comments: 21",
    "link": "https://dbushell.com/2026/10/03/deno-to-node/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -914,7 +926,7 @@
   {
    "id": "faf77ea10960cd55a0837d15466ebf3b",
    "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
-   "summary": "Article URL: https://nivdayan.github.io/dostoevsky.pdf\nComments URL: https://news.ycombinator.com/item?id=49971678\nPoints: 18\n# Comments: 0",
+   "summary": "Article URL: https://nivdayan.github.io/dostoevsky.pdf\nComments URL: https://news.ycombinator.com/item?id=49971678\nPoints: 22\n# Comments: 0",
    "link": "https://nivdayan.github.io/dostoevsky.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1027,19 +1039,6 @@
    "urgent": false,
    "fetched_at": "10-06 05:54",
    "ts": 1791237241
-  },
-  {
-   "id": "0dc77ca65b7355e17850f493b851b616",
-   "title": "André DeShields, Brandon Dirden, Jasmine Cephas Jones and Cheryl Wills Named AAFCA Goes to Broadway Honorees (EXCLUSIVE)",
-   "summary": "The African American Film Critics Association has set the lineup for its fifth AAFCA Goes to Broadway Luncheon. Tony winner André DeShields, Tony nominee Brando",
-   "link": "https://variety.com/2026/legit/news/aafca-broadway-luncheon-andre-deshields-brandon-dirden-jasmine-cephas-jones-cheryl-wills-1236899466/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:48",
-   "ts": 1791236939
   },
   {
    "id": "2416c09f0a1312d348114c8167f1ec63",
