@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06 08:03",
+ "updated_at": "2026-10-06 08:48",
  "total": 258,
  "channels": [
   "AI·科技",
@@ -14,6 +14,123 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "6e2d6633c697b30f234ca9e43d232eed",
+   "title": "John Leguizamo on ‘The Odyssey,’ Non-Traditional Casting and Being Uninvited From ‘Spider-Man: Homecoming’",
+   "summary": "The trailblazing actor and outspoken activist for Latino representation in Hollywood could land the first Oscar nomination of his career.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/john-leguizamo-odyssey-non-traditonal-casting-spider-man-1236721343/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:47",
+   "ts": 1791247676
+  },
+  {
+   "id": "76c69ede51ab32aab2bfe4198d3a095d",
+   "title": "《魔兽世界》：“无限”国服 Beta 测试今日开启，购买 388 元礼包可抢先体验",
+   "summary": "IT之家 10 月 6 日消息，《魔兽世界》：“无限”国服 Beta 测试今日（10 月 6 日）正式开启。10 月 6 日-10 月 26 日测试期间，多个开测狂欢活动上线。购买天裔史诗礼包（388 元），即可解锁国服 Beta 测试资格，并获取诸多奖励收藏。需要注意的是，本次测试为删档测试，测试结束后，所有测试角色",
+   "link": "https://www.ithome.com/1/009/934.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:45",
+   "ts": 1791247548
+  },
+  {
+   "id": "0f41fba6b5c68d6a42d64a52aca2c62f",
+   "title": "苹果 iOS 27.2 引入新 Apple Music LOGO：加粗字体，全小写排版",
+   "summary": "IT之家 10 月 6 日消息，科技媒体 9to5Mac 今天（10 月 6 日）发布博文，报道称在 iOS 27.2、macOS 27.2 等系统第 3 个开发者 Beta 测试版中，苹果公司正为 Apple Music 应用测试新 LOGO。苹果公司上月（2026 年 9 月）宣布开设 Apple Music Ha",
+   "link": "https://www.ithome.com/1/009/933.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:43",
+   "ts": 1791247417
+  },
+  {
+   "id": "711df4f0577a4ff9f60c10fa3383757f",
+   "title": "对标中国 AI 模型：英伟达投资的 Reflection AI 发布旗下首款开放权重模型 Beam",
+   "summary": "IT之家 10 月 6 日消息，由英伟达投资的初创企业 Reflection AI 于当地时间周一推出了自家首款开放权重大模型 Beam。这家初创公司希望在代码编写与智能体任务领域，同 DeepSeek、Kimi 等中国 AI 模型展开竞争。Reflection AI 表示，Beam 在性能上可以对标中国 AI 初创企",
+   "link": "https://www.ithome.com/1/009/932.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 08:42",
+   "ts": 1791247340
+  },
+  {
+   "id": "ad96deb70e936476befc78bd4ed19530",
+   "title": "Casey Bloys Signs New Multiyear Deal to Continue Overseeing HBO Max and Paramount+ As He Assumes His New Role at Skydance",
+   "summary": "Having just been named to the hefty position of co-chair and chief content officer for Skydance DTC — overseeing both HBO Max and Paramount+, Casey Bloys is sta",
+   "link": "https://variety.com/2026/tv/news/casey-bloys-new-deal-hbo-max-paramount-skydance-1236899664/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:33",
+   "ts": 1791246799
+  },
+  {
+   "id": "850c825f7f9b319f5e2a511c23e5f2c9",
+   "title": "苹果 macOS 27 优化支持第三方显示器，可同时开启 HDR 与 2560×1440 分辨率",
+   "summary": "IT之家 10 月 6 日消息，科技媒体 9to5Mac 昨日（10 月 5 日）发布博文，报道称在 macOS 27 Golden Gate 系统中，苹果修复了在连接第三方 HDR 显示器之后，系统无法在 2560×1440 分辨率下启用 HDR 的问题。IT之家注：HDR 是指高动态范围（High Dynamic ",
+   "link": "https://www.ithome.com/1/009/931.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:26",
+   "ts": 1791246362
+  },
+  {
+   "id": "bce2c72267cf9ecc10ce1c95920317a9",
+   "title": "育碧 CEO：《看门狗》仍是重要 IP，但暂无新作在开发",
+   "summary": "IT之家 10 月 6 日消息，短期内不要指望育碧会推出新款《看门狗》游戏。据游戏媒体 Game File 报道，有投资者向育碧首席执行官伊夫 · 吉勒莫特（Yves Guillemot）询问《看门狗》IP 的后续发展。这位首席执行官表示，育碧认为该 IP“是面向未来的重要品牌”，但并没有进一步说明具体规划。Game ",
+   "link": "https://www.ithome.com/1/009/930.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:13",
+   "ts": 1791245608
+  },
+  {
+   "id": "79f4351236d208333c1172174ac48dbf",
+   "title": "时隔 3 年多，苹果向 2 米 MagSafe 3 连接线推送 3.2.0 新固件",
+   "summary": "IT之家 10 月 6 日消息，科技媒体 MacRumors 昨日（10 月 5 日）发布博文，报道称苹果面向 USB-C 转 MagSafe 3 连接线（2 米），推送 3.2.0 版本固件，系自 2023 年 2 月以来首次对该线缆推送固件。IT之家附上官方对这款充电线（点此前往苹果官网选购）的介绍：这款 2 米长",
+   "link": "https://www.ithome.com/1/009/929.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:13",
+   "ts": 1791245594
+  },
+  {
+   "id": "47d407491dfc7a61dcdefb0cd85a69f6",
+   "title": "Trump Says He’ll Pay for ‘Patriotic Ads’ Himself Following Controversy Around Taxpayer-Funded TV Spots",
+   "summary": "After controversy erupted over Donald Trump&#8217;s administration buying TV ad time (with taxpayer dollars) to air advertisements endorsing the president, Trum",
+   "link": "https://variety.com/2026/tv/news/trump-pay-for-political-ads-himself-1236899674/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:04",
+   "ts": 1791245096
+  },
   {
    "id": "f2783ad41b11dee02ad65ca13aa41e76",
    "title": "苹果在 Safari 中测试代码，追踪谷歌推广 Chrome 的行为",
@@ -54,6 +171,19 @@
    "ts": 1791244846
   },
   {
+   "id": "b31a2e51417da6819b1e26e2b2b580d1",
+   "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
+   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 11\n# Comments: 2",
+   "link": "https://edworkingpapers.com/ai26-1551",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:00",
+   "ts": 1791244845
+  },
+  {
    "id": "0a9ea80c7df059ae907fa25c447035aa",
    "title": "IT早报 1006：华为与高通专利许可落地高通成净支出方；一汽丰田辟谣将退出历史舞台；2026 诺贝尔生理学或医学奖揭晓；中国铁路称抢票的尽头都是 12306...",
    "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 6 日星期二，今天的重要科技资讯有：1. 华为与高通宣布达成广泛专利许可协议，覆盖 5G、AI、计算及网络技术领域双方达成首份涵盖 5G 技术的交叉许可协议，高通将收购华为部分美国专利，交易完成后华为专利许可累计总金额超 69 亿美元，华为知识产权业务早已实现正",
@@ -78,6 +208,19 @@
    "urgent": false,
    "fetched_at": "10-06 07:55",
    "ts": 1791244559
+  },
+  {
+   "id": "7a9d959b66a66d612de47ba83671de54",
+   "title": "Sean McVay addresses Rams assistant coaches' viral interaction with Eagles fans",
+   "summary": "McVay said he addressed the fourth-quarter exchange with Philadelphia fans and promised the coaching staff will handle high-emotion moments with more composure ",
+   "link": "https://www.cbssports.com/nfl/news/sean-mcvay-addresses-rams-assistant-coaches-viral-interaction-eagles-fans/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:49",
+   "ts": 1791244191
   },
   {
    "id": "56e1c36da1606b3afb5ba52ea8bf4ac7",
@@ -106,17 +249,17 @@
    "ts": 1791243957
   },
   {
-   "id": "fd2c59477c1273e352d11220c32e2fe2",
-   "title": "谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话",
-   "summary": "IT之家 10 月 6 日消息，有多少通电话，仅仅因为要跟其他人沟通实在太过麻烦，你就一拖再拖？人工智能早已承诺，会帮我们把生活里大量费力不讨好的杂事实现自动化。对于一部分人来说，其中最有吸引力的设想或许就是由 AI 替我们打电话。谷歌刚刚在 Pixel 11 系列手机上推出了“代我通话（Call for Me）”功能",
-   "link": "https://www.ithome.com/1/009/921.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
+   "id": "7af7a48cd0a7b78030a98bdc14f4d04f",
+   "title": "Use FanDuel promo code to get $250 in bonus bets by targeting Falcons vs. Saints, Monday Night Football",
+   "summary": "Sign up and bet on Falcons vs. Saints NFL Week 4 MNF with the latest FanDuel promo code",
+   "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-falcons-vs-saints-monday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-06 07:37",
-   "ts": 1791243471
+   "fetched_at": "10-06 07:40",
+   "ts": 1791243637
   },
   {
    "id": "dea2a3989956e47de6fe37487aab3327",
@@ -132,6 +275,19 @@
    "ts": 1791243433
   },
   {
+   "id": "1de8f2d7f0abd7c338333f68dd283af7",
+   "title": "Samon: Designing a Zen Garden Raking Puzzle",
+   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 6\n# Comments: 1",
+   "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:35",
+   "ts": 1791243335
+  },
+  {
    "id": "22a1c6c2adeea43745f6a041660db7c8",
    "title": "Not sold on Tesla Powerwall? There are great battery alternatives out there [update]",
    "summary": "Between increasingly extreme weather, rising electricity demands, and the rapid expansion of data centers, energy independence is starting to look less like a t",
@@ -143,19 +299,6 @@
    "urgent": false,
    "fetched_at": "10-06 07:35",
    "ts": 1791243300
-  },
-  {
-   "id": "36e778557831c097845b8835252a7dfa",
-   "title": "tvOS 27.2 代码显示苹果 Apple TV 4K（第四代）将支持 Siri AI 和 Apple Intelligence",
-   "summary": "IT之家 10 月 6 日消息，科技媒体 MacRumors 昨日（10 月 5 日）发布博文，通过挖掘 tvOS 27.2 Beta 3 更新代码，发现新的线索，表明苹果 Apple TV 4K（第四代）将支持 Siri AI 与 Apple Intelligence。代码显示，系统设置应用中新增“改进 Siri 与",
-   "link": "https://www.ithome.com/1/009/920.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 07:33",
-   "ts": 1791243209
   },
   {
    "id": "9b1254fa87b656b560fad06745072179",
@@ -184,43 +327,30 @@
    "ts": 1791243000
   },
   {
-   "id": "0c2217434bb8bdb376483a60c9726372",
-   "title": "丰田联合五十铃推出新款 Sora 氢燃料电池巴士，续航突破 300 公里",
-   "summary": "IT之家 10 月 6 日消息，丰田汽车于当地时间周一宣布，将推出新款 Sora 氢燃料电池巴士，续航里程超过 300 公里，相比老款车型提升约 100 公里。据IT之家了解，丰田从 2018 年开始投放 Sora 巴士。新款车型由丰田与五十铃汽车联合开发，采用五十铃研发的巴士底盘平台，搭载丰田的燃料电池系统。新款巴士",
-   "link": "https://www.ithome.com/1/009/919.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-06 07:24",
-   "ts": 1791242678
-  },
-  {
-   "id": "5c1ec7979a3b9610f8468168d39364b3",
-   "title": "苹果 macOS 27.2 Beta 测试触控手势代码，有望为触屏 MacBook 铺路",
-   "summary": "IT之家 10 月 6 日消息，科技媒体 MacRumors 今天（10 月 6 日）发布博文，通过挖掘 macOS 27.2 Beta 3 更新代码，发现苹果可能为其首款触控 MacBook（上市后预估名为 MacBook Ultra）做准备。IT之家援引博文介绍，该媒体发现苹果可能已着手准备软件适配工作，在 Saf",
-   "link": "https://www.ithome.com/1/009/918.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 07:23",
-   "ts": 1791242614
-  },
-  {
-   "id": "14a5214b680a78650f1d18f8995a6651",
-   "title": "SpaceX 股价大涨 7.6%，马斯克身家重回 1 万亿美元",
-   "summary": "IT之家 10 月 6 日消息，美东时间周一，SpaceX 股价大涨 7.6%，升至 6 月中旬以来最高水平，推动马斯克的身家重新超过 1 万亿美元（IT之家注：现汇率约合 6.71 万亿元人民币），较上周五增加了 306 亿美元（现汇率约合 2,053.37 亿元人民币）。这巩固了马斯克作为全球首富的地位，亚马逊创始",
-   "link": "https://www.ithome.com/1/009/916.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
+   "id": "d2b6ae158e4cc65196d54aea4921be36",
+   "title": "Use BetMGM bonus code CBSSPORTS to get $1,500 bonus bets by targeting Falcons vs Saints, Monday Night Football",
+   "summary": "Use the latest MGM promo code CBSSPORTS to get $1,500 in bonus bets if your first bet loses for Saints vs. Falcons, Monday Night Football",
+   "link": "https://www.cbssports.com/betting/news/use-betmgm-bonus-code-cbssports-to-get-1500-bonus-bets-falcons-vs-saints-on-monday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-06 07:18",
-   "ts": 1791242307
+   "fetched_at": "10-06 07:25",
+   "ts": 1791242739
+  },
+  {
+   "id": "2557970971a4b0397532121ac3e229d2",
+   "title": "Saints-Falcons NFL betting promos: Collect nearly $3,000 in bonuses from top online betting apps, sportsbooks",
+   "summary": "Top Week 4 NFL betting apps include DraftKings, FanDuel, BetMGM, bet365, Caesars, Fanatics Sportsbook and Hard Rock Bet",
+   "link": "https://www.cbssports.com/nfl/news/saints-falcons-nfl-betting-promos-collect-nearly-3000-in-bonuses-from-top-online-betting-apps-sportsbooks/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:15",
+   "ts": 1791242142
   },
   {
    "id": "e0a650084422bfcfcc9fec9549fec708",
@@ -249,17 +379,30 @@
    "ts": 1791242100
   },
   {
-   "id": "e2393ece57b3c42aa2e13a6e8ab35a39",
-   "title": "比亚迪 Racco 电动微型车将走出日本，率先登陆斯里兰卡、中国澳门",
-   "summary": "IT之家 10 月 6 日消息，据日经亚洲报道，比亚迪于上周日对外表示，该公司将把面向日本市场推出的 Racco 电动微型车推向其他市场，首批计划在斯里兰卡与中国澳门开启销售。IT之家注意到，该计划是在神奈川县平冢市一家比亚迪经销门店举办的仪式上对外公布的，这场仪式临近东京，用于纪念比亚迪在日本市场的车辆交付量突破一万",
-   "link": "https://www.ithome.com/1/009/915.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
+   "id": "57dcc5d7c049070338b92ee68bb75132",
+   "title": "Use FanDuel promo code to get $250 bonus bets by targeting Falcons vs. Saints on Monday Night Football",
+   "summary": "Sign up and bet with the latest FanDuel promo code on Monday to get your bonus bets",
+   "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-falcons-vs-saints-on-monday-night-football/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
    "weight": 2,
    "urgent": false,
    "fetched_at": "10-06 07:10",
-   "ts": 1791241820
+   "ts": 1791241839
+  },
+  {
+   "id": "f0a46265f787260d316a0d7b874fc280",
+   "title": "Fueled by Sean Payton's 'disrespect,' 49ers' Dre Greenlaw dominates Broncos and lets former coach know",
+   "summary": "The linebacker led San Francisco with 12 tackles in Sunday's win before opening up about feeling ignored and disrespected during his lone season in Denver",
+   "link": "https://www.cbssports.com/nfl/news/sean-paytons-disrespect-49ers-dre-greenlaw-dominates-broncos/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:10",
+   "ts": 1791241823
   },
   {
    "id": "c0077324f440060dae2b8b9f6c6fd0c9",
@@ -303,7 +446,7 @@
   {
    "id": "0deeb402ed9d8059d7f5621ae248ba51",
    "title": "Ephemeral Testing",
-   "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 10\n# Comments: 0",
+   "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 19\n# Comments: 3",
    "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -355,7 +498,7 @@
   {
    "id": "2368a8eed5c8f6baa0fcadbde069cb21",
    "title": "Worth Building",
-   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 17\n# Comments: 5",
+   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 26\n# Comments: 14",
    "link": "https://armstr.ng/writing/worth-building",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -381,7 +524,7 @@
   {
    "id": "9a599dc855536688121514bf3da41ee6",
    "title": "Example.com Just Launched the Biggest Redesign in Decades",
-   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 33\n# Comments: ",
+   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 50\n# Comments: ",
    "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -511,7 +654,7 @@
   {
    "id": "a2761a73b2e3f39b07bda986fe995f67",
    "title": "Global Solar Atlas: summary of solar power potential globally",
-   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 7\n# Comments: 2",
+   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 8\n# Comments: 6",
    "link": "https://globalsolaratlas.info/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -535,6 +678,19 @@
    "ts": 1791239468
   },
   {
+   "id": "3c66b6ae885a384eb8f30be85aa7b5fb",
+   "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
+   "summary": "Article URL: https://almostimplemented.github.io/jazz-pianist-style/\nComments URL: https://news.ycombinator.com/item?id=49971726\nPoints: 9\n# Comments: 1",
+   "link": "https://almostimplemented.github.io/jazz-pianist-style/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 06:30",
+   "ts": 1791239452
+  },
+  {
    "id": "6c559719777d95d7fd4f60fd5c77b255",
    "title": "Department of War drafts EV battery factory into military drone duty with $75M grant",
    "summary": "As if to prove that there may not be money for universal childcare or nationalized healthcare but there is ALWAYS more money for war, the US Department of War h",
@@ -546,6 +702,19 @@
    "urgent": false,
    "fetched_at": "10-06 06:30",
    "ts": 1791239446
+  },
+  {
+   "id": "147dbac58dfd86cb10c7c0448d20440b",
+   "title": "Friendship ended with Deno, now Node is my best friend",
+   "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/\nComments URL: https://news.ycombinator.com/item?id=49971719\nPoints: 24\n# Comments: 0",
+   "link": "https://dbushell.com/2026/10/03/deno-to-node/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 06:30",
+   "ts": 1791239402
   },
   {
    "id": "8243d7879c3f8a6c0342b0e84aded74d",
@@ -576,7 +745,7 @@
   {
    "id": "faf77ea10960cd55a0837d15466ebf3b",
    "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
-   "summary": "Article URL: https://nivdayan.github.io/dostoevsky.pdf\nComments URL: https://news.ycombinator.com/item?id=49971678\nPoints: 6\n# Comments: 0",
+   "summary": "Article URL: https://nivdayan.github.io/dostoevsky.pdf\nComments URL: https://news.ycombinator.com/item?id=49971678\nPoints: 9\n# Comments: 0",
    "link": "https://nivdayan.github.io/dostoevsky.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -639,19 +808,6 @@
    "ts": 1791238250
   },
   {
-   "id": "4a2e46d9a0e2e7c9819af5d79171c65c",
-   "title": "Arkansas, Texas Tech boosters exchange jabs over funding: 'He's got oil, I've got chickens'",
-   "summary": "Razorbacks super booster John Tyson says he can't compete with Texas Tech's oil money, while Red Raiders billionaire donor Cody Campbell maintains 'football is ",
-   "link": "https://www.cbssports.com/college-football/news/arkansas-texas-tech-boosters-jab-nil-funding-oil-chickens/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:09",
-   "ts": 1791238169
-  },
-  {
    "id": "c3373e5b55b11df4a0331ca0e4b439bc",
    "title": "Texas city demands $2M for public records on Flock usage",
    "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/\nComments URL: https://news.ycombinator.com/ite",
@@ -676,19 +832,6 @@
    "urgent": false,
    "fetched_at": "10-06 06:04",
    "ts": 1791237869
-  },
-  {
-   "id": "8aeb296a2526ca5c7b934b8c24581f9f",
-   "title": "Yankees vs. Rays prediction, odds, time: 2026 ALDS Game 2 picks by proven model",
-   "summary": "SportsLine's model simulated Rays vs. Yankees in the AL Divisional Series as the 2026 MLB playoffs continue Monday",
-   "link": "https://www.cbssports.com/betting/news/yankees-rays-prediction-odds-time-2026-alds-game-2-mlb-playoff-picks-best-bets/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:00",
-   "ts": 1791237656
   },
   {
    "id": "2edbf1d99e50f3250a798bc978e82ead",
@@ -771,7 +914,7 @@
   {
    "id": "f2df964e17e26bd65ed89707bff428c7",
    "title": "Graphical UI",
-   "summary": "Article URL: https://www.graphicalui.com/\nComments URL: https://news.ycombinator.com/item?id=49971356\nPoints: 19\n# Comments: 0",
+   "summary": "Article URL: https://www.graphicalui.com/\nComments URL: https://news.ycombinator.com/item?id=49971356\nPoints: 26\n# Comments: 1",
    "link": "https://www.graphicalui.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -834,19 +977,6 @@
    "ts": 1791236514
   },
   {
-   "id": "e88b8b5c62879e9d6e67740fbae01f68",
-   "title": "Find the flattest route between any two points in SF",
-   "summary": "Article URL: https://flattensf.com/\nComments URL: https://news.ycombinator.com/item?id=49971230\nPoints: 77\n# Comments: 22",
-   "link": "https://flattensf.com/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:40",
-   "ts": 1791236450
-  },
-  {
    "id": "2416c09f0a1312d348114c8167f1ec63",
    "title": "Get 6.6ft 240W USB Type-C Cables for Less Than $3 Apiece During the Amazon Prime Day Sale",
    "summary": "Universal cables perfect for your Nintendo Switch 2, Steam Deck, iPhone 17, or laptop.",
@@ -886,19 +1016,6 @@
    "ts": 1791236131
   },
   {
-   "id": "4c2fed847e18532965953ce0b85ccafe",
-   "title": "Fantasy baseball catcher preview for 2027: Gabriel Moreno rises as Cal Raleigh looks to rebound",
-   "summary": "Catcher is deeper entering 2027, with Gabriel Moreno on the rise, Cal Raleigh seeking a rebound and Leo Bernal emerging",
-   "link": "https://www.cbssports.com/fantasy/baseball/news/fantasy-baseball-catcher-preview-for-2027/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:35",
-   "ts": 1791236122
-  },
-  {
    "id": "3af6fe43cdb396e583426f7f51cf1840",
    "title": "macOS 27.2 reveals new clues about Apple’s touchscreen MacBook Pro",
    "summary": "Apple is widely expected to release a new touchscreen MacBook Pro as soon as this month. This will mark the first-ever touchscreen Mac, and Apple is laying the ",
@@ -910,32 +1027,6 @@
    "urgent": false,
    "fetched_at": "10-06 05:34",
    "ts": 1791236088
-  },
-  {
-   "id": "0c8608bea8ebfc2e2ff95e4632c5a7a4",
-   "title": "Longshot Bid to Block Paramount-Warner Bros. Discovery Merger Filed to Supreme Court",
-   "summary": "Paramount subscribers say the deal should be stopped until the Supreme Court considers their case.",
-   "link": "https://www.hollywoodreporter.com/business/business-news/bid-block-paramount-warner-bros-merger-supreme-court-1236722830/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:32",
-   "ts": 1791235924
-  },
-  {
-   "id": "335cda2276a35b87869bbbbc4cb37e2a",
-   "title": "Saints vs. Falcons prediction: Michael Penix Jr. leads Atlanta into New Orleans",
-   "summary": "The NFC South rivals meet Monday night in New Orleans as Michael Penix Jr. and the Falcons look to build on their first win of the season",
-   "link": "https://www.cbssports.com/nfl/news/saints-vs-falcons-how-to-watch-tv-channel-live-stream-kickoff-time-prediction/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:31",
-   "ts": 1791235862
   },
   {
    "id": "50ce5f5fa0e81935fd7de0dba36ea8cc",
@@ -964,32 +1055,6 @@
    "ts": 1791235518
   },
   {
-   "id": "a2a4e40e0d11312bcdde3ae0c1323049",
-   "title": "‘Free Elizabeth Holmes’ Group Defends Convicted Theranos Founder at ‘You Can See Everything’ Doc Screening: She’s ‘Innocent and Needs to Be Free’",
-   "summary": "In the wild A24 documentary &#8220;You Can See Everything,&#8221; Elizabeth Holmes still maintains her innocence in her Theranos fraud case despite being senten",
-   "link": "https://variety.com/2026/film/news/elizabeth-holmes-innocent-you-can-see-everything-1236897075/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:20",
-   "ts": 1791235234
-  },
-  {
-   "id": "5962a33f0d60c41e49ee38e9ab53dc22",
-   "title": "Best Horror of October 2026: ‘Other Mommy’ Goes for the Heart, ‘Carrie’ Returns, Josh Hartnett Hunts for Sea Monsters and More",
-   "summary": "Welcome to Horror Explorer, a curated column showcasing the month’s best movies, series, books and everything else spooky worth checking out. I’m William Earl, ",
-   "link": "https://variety.com/lists/horror-movies-to-watch-october-2026/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:17",
-   "ts": 1791235076
-  },
-  {
    "id": "b4fdb6bc07a079295edcf1e8b8b1a8bd",
    "title": "Reverse-engineered games: All the news on video game decomps, recomps, VR and web and 3D ports",
    "summary": "It&#8217;s a wild time for retro gaming. Thanks to decompilations and recompilations of classic titles, those games are becoming unshackled from their proprieta",
@@ -1001,32 +1066,6 @@
    "urgent": false,
    "fetched_at": "10-06 05:17",
    "ts": 1791235065
-  },
-  {
-   "id": "5a8a4cdb2cb907481609bbd66f80fa7a",
-   "title": "The state of the catcher position ahead of 2027",
-   "summary": "10/5",
-   "link": "https://www.cbssports.com/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:15",
-   "ts": 1791234927
-  },
-  {
-   "id": "b12f26b2c27403ff92371d875a858d25",
-   "title": "Dust: Pretraining Transformers Without Backpropagation",
-   "summary": "Article URL: https://qlabs.sh/research/dust\nComments URL: https://news.ycombinator.com/item?id=49970871\nPoints: 74\n# Comments: 5",
-   "link": "https://qlabs.sh/research/dust",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:15",
-   "ts": 1791234907
   },
   {
    "id": "e35e701509d14feb6041e6edfc3f384a",
@@ -1066,32 +1105,6 @@
    "urgent": false,
    "fetched_at": "10-06 05:11",
    "ts": 1791234716
-  },
-  {
-   "id": "1ad31c2d866b0a88f0567e6c4107551d",
-   "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-   "summary": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors\nComments URL: https://news.ycombinator.com/item?id=49970667\nPoints: 173\n# Commen",
-   "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:00",
-   "ts": 1791234021
-  },
-  {
-   "id": "a81d493d001608dcc550970dfaa9c9ca",
-   "title": "Boxing schedule for 2026: When Canelo Alvarez, Isaac Cruz, Sebastian Fundora and more are set to return",
-   "summary": "The 2026 boxing calendar is hitting the fall with some great fights on the books",
-   "link": "https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-canelo-alvarez-sebastian-fundora/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 04:58",
-   "ts": 1791233932
   },
   {
    "id": "39e104e13ac10051c7638a9bda33ab72",
@@ -1313,19 +1326,6 @@
    "urgent": false,
    "fetched_at": "10-06 04:13",
    "ts": 1791231222
-  },
-  {
-   "id": "c007ace3389875e35cafecbfd34b3d30",
-   "title": "Incident with Actions",
-   "summary": "Article URL: https://www.githubstatus.com/incidents/3q1yb5m7ltvb\nComments URL: https://news.ycombinator.com/item?id=49969961\nPoints: 92\n# Comments: 63",
-   "link": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 04:09",
-   "ts": 1791230952
   },
   {
    "id": "14479c704d807e71da70d679e7430ebf",
