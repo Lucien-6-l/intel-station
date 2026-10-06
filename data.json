@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06 08:48",
+ "updated_at": "2026-10-06 09:06",
  "total": 258,
  "channels": [
   "AI·科技",
@@ -14,6 +14,123 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "6be22b2132ba9a46e13e3c9a769db399",
+   "title": "欧盟推行数字主权遇阻，微软 Teams 替代方案被某官员吐槽“绝对垃圾”",
+   "summary": "IT之家 10 月 6 日消息，Politico Europe 于 9 月 30 日发布博文，在倡导数字主权并减少对美国技术依赖的背景下，欧盟委员会正推动 Element Pro 来替代微软 Teams，不过初期反馈偏向负面，部分欧洲官员直言 Element Pro 为“绝对垃圾”。报道指出欧盟委员会计划 2026 年",
+   "link": "https://www.ithome.com/1/009/939.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 09:02",
+   "ts": 1791248561
+  },
+  {
+   "id": "c7410d67067066555bb47b2cc17d9b62",
+   "title": "高通澄清：与华为专利交叉授权协议“涉及逻辑折叠”并不准确",
+   "summary": "IT之家 10 月 6 日消息，根据 Creative Strategies 分析师 Max Weinbach 从高通处获得的声明，一位高通发言人表示，部分媒体宣称高通与华为近日达成的专利交叉授权协议“涉及逻辑折叠”的报道并不准确。高通发言人在声明中还提到，将该企业描述为许可协议净支付方的报道是不正确的。参考译文见下：",
+   "link": "https://www.ithome.com/1/009/938.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 09:01",
+   "ts": 1791248507
+  },
+  {
+   "id": "e3e357182498e0b7481f518a88f5d11d",
+   "title": "Another report says that the Xiaomi 18 Ultra has been canceled, reveals monster specs",
+   "summary": "After Xiaomi announced the Xiaomi 18 Pro and Xiaomi 18 Pro Max, it revealed that the two are headed for a global launch. That was a bit unusual, since the Xiaom",
+   "link": "https://www.gsmarena.com/another_report_says_that_the_xiaomi_18_ultra_has_been_canceled_reveals_monster_specs-news-74903.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 09:01",
+   "ts": 1791248462
+  },
+  {
+   "id": "6747ea9e383404b70667134a639b5660",
+   "title": "高盛上调台积电目标价至 3300 新台币，预示约 28% 上涨空间",
+   "summary": "IT之家 10 月 6 日消息，台积电 10 月 5 日在中国台湾股市创出历史新高，早盘最高冲上 2,580 新台币（IT之家注：现汇率约合 543.1 元人民币），13:30 收盘价定在 2,575 新台币（现汇率约合 542 元人民币），涨幅 3%，市值升至约 66.78 万亿新台币（现汇率约合 14.06 万亿元",
+   "link": "https://www.ithome.com/1/009/937.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:57",
+   "ts": 1791248271
+  },
+  {
+   "id": "d102cf6e7c7ccbbd0819ed9fae81caa3",
+   "title": "Why Sebastian Stan Turned Down ‘The Vampire Diaries’ Lead Role",
+   "summary": "The actor said he \"can't look back and go, 'Oh, what if?'\" on the missed opportunities.",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/sebastian-stan-turned-down-vampire-diaries-role-paul-wesley-1236722911/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:57",
+   "ts": 1791248237
+  },
+  {
+   "id": "51830c497ebf376a7ee19b52635a6ede",
+   "title": "Saquon Barkley injury update: Eagles star considered week-to-week, per report",
+   "summary": "The star running back seems to have avoided a long-term injury",
+   "link": "https://www.cbssports.com/nfl/news/saquon-barkley-hamstring-injury-eagles-week-4-rams/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:55",
+   "ts": 1791248108
+  },
+  {
+   "id": "5598bac36273efe3e6fa06ce49b047ea",
+   "title": "奥尔特曼：马斯克是个“霸凌者”，只尊重敢于回击他的人",
+   "summary": "IT之家 10 月 6 日消息，萨姆 · 奥尔特曼（Sam Altman）表示，如果希望他和埃隆 · 马斯克能够开展合作，大家就必须接受一定程度上的纷争。“我认为有些时候，你就得狠狠回击霸凌者。”奥尔特曼在接受《名利场》的深度专访时说道，“而且我还觉得，埃隆和很多喜欢欺压别人的人一样，只会尊重敢于还手的对手。”据IT之",
+   "link": "https://www.ithome.com/1/009/936.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:54",
+   "ts": 1791248065
+  },
+  {
+   "id": "5d299e745e0d5c3d0ea6f6f1cbf20c6a",
+   "title": "Apple invites developers to submit iPhone Duo-ready apps to the App Store",
+   "summary": "With the iPhone Duo launch fast approaching, Apple is now accepting submissions of iPhone Duo-optimized apps and games built with Xcode 27.1. Here are the detai",
+   "link": "https://9to5mac.com/2026/10/05/apple-invites-developers-to-submit-iphone-duo-ready-apps-to-the-app-store/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:52",
+   "ts": 1791247936
+  },
+  {
+   "id": "39a17567ad70c289ca247e4f8946505d",
+   "title": "‘Artificial’ First Reactions: Luca Guadagnino’s OpenAI Drama is ‘Provocative,’ ‘Downright Horrifying’ and His ‘Best Film in a Decade’",
+   "summary": "Luca Guadagnino’s “Artificial” premiered at the New York Film Festival Monday night, and early reviews have members of the film press championing the Sam Altman",
+   "link": "https://variety.com/2026/film/news/artificial-first-reactions-sam-altman-open-ai-1236899622/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:49",
+   "ts": 1791247788
+  },
   {
    "id": "6e2d6633c697b30f234ca9e43d232eed",
    "title": "John Leguizamo on ‘The Odyssey,’ Non-Traditional Casting and Being Uninvited From ‘Spider-Man: Homecoming’",
@@ -54,8 +171,8 @@
    "ts": 1791247417
   },
   {
-   "id": "711df4f0577a4ff9f60c10fa3383757f",
-   "title": "对标中国 AI 模型：英伟达投资的 Reflection AI 发布旗下首款开放权重模型 Beam",
+   "id": "f026b560796a583248d1c44ff37219e0",
+   "title": "叫板 DeepSeek、Kimi，英伟达投资的 Reflection AI 发布旗下首款开放权重 AI 模型 Beam",
    "summary": "IT之家 10 月 6 日消息，由英伟达投资的初创企业 Reflection AI 于当地时间周一推出了自家首款开放权重大模型 Beam。这家初创公司希望在代码编写与智能体任务领域，同 DeepSeek、Kimi 等中国 AI 模型展开竞争。Reflection AI 表示，Beam 在性能上可以对标中国 AI 初创企",
    "link": "https://www.ithome.com/1/009/932.htm",
    "source": "IT之家",
@@ -91,6 +208,19 @@
    "urgent": false,
    "fetched_at": "10-06 08:26",
    "ts": 1791246362
+  },
+  {
+   "id": "5393d06dd8300ac2fc460ab6a24d6d31",
+   "title": "MLB playoff winners and losers: White Sox one win from ALCS thanks to a trade from two years ago",
+   "summary": "The White Sox are now 4-0 this postseason, and they've pushed the Guardians to the brink of elimination",
+   "link": "https://www.cbssports.com/mlb/news/mlb-playoff-winners-losers-alds-game-2-yankees-rays-white-sox/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:21",
+   "ts": 1791246094
   },
   {
    "id": "bce2c72267cf9ecc10ce1c95920317a9",
@@ -173,7 +303,7 @@
   {
    "id": "b31a2e51417da6819b1e26e2b2b580d1",
    "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 11\n# Comments: 2",
+   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 15\n# Comments: 5",
    "link": "https://edworkingpapers.com/ai26-1551",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -182,32 +312,6 @@
    "urgent": false,
    "fetched_at": "10-06 08:00",
    "ts": 1791244845
-  },
-  {
-   "id": "0a9ea80c7df059ae907fa25c447035aa",
-   "title": "IT早报 1006：华为与高通专利许可落地高通成净支出方；一汽丰田辟谣将退出历史舞台；2026 诺贝尔生理学或医学奖揭晓；中国铁路称抢票的尽头都是 12306...",
-   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 6 日星期二，今天的重要科技资讯有：1. 华为与高通宣布达成广泛专利许可协议，覆盖 5G、AI、计算及网络技术领域双方达成首份涵盖 5G 技术的交叉许可协议，高通将收购华为部分美国专利，交易完成后华为专利许可累计总金额超 69 亿美元，华为知识产权业务早已实现正",
-   "link": "https://www.ithome.com/1/009/925.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 07:56",
-   "ts": 1791244585
-  },
-  {
-   "id": "77dd37bfda91ad19402184f760cdd5d3",
-   "title": "麦当劳在美遭集体诉讼，被指用 AI 系统非法操纵菜单价格",
-   "summary": "IT之家 10 月 6 日消息，据路透社报道，麦当劳已在芝加哥联邦法院被提起诉讼，这是一起拟议的全国性集体诉讼。原告指控这家快餐企业借助一套人工智能定价系统，非法协调其特许经营店和直营餐厅的菜单价格。IT之家注意到，这起诉讼于当地时间上周五提交。诉状称，麦当劳与独立特许经营商合谋，利用基于非公开数据训练的算法操纵价格，",
-   "link": "https://www.ithome.com/1/009/924.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 07:55",
-   "ts": 1791244559
   },
   {
    "id": "7a9d959b66a66d612de47ba83671de54",
@@ -221,32 +325,6 @@
    "urgent": false,
    "fetched_at": "10-06 07:49",
    "ts": 1791244191
-  },
-  {
-   "id": "56e1c36da1606b3afb5ba52ea8bf4ac7",
-   "title": "苹果首款折叠 iPhone Duo 锁屏将获极简专注模式，支持一键启用",
-   "summary": "IT之家 10 月 6 日消息，消息源 @itspdfu 于 10 月 4 日在 X 平台发布推文，分享了关于苹果首款折叠 iPhone Duo 的更多细节，包括重新设计了锁定屏幕上的专注控制。IT之家附上相关演示视频如下：消息源通过挖掘 iOS 27.1 测试版，发现苹果正针对 iPhone Duo 的外屏，调整专注",
-   "link": "https://www.ithome.com/1/009/923.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 07:48",
-   "ts": 1791244121
-  },
-  {
-   "id": "5064cb8767b127c2d8bbac2dcc9bff8a",
-   "title": "铃木首款电动 K-car e‑Sky 下月日本上市：定价低于比亚迪 Racco，续航达 310 公里",
-   "summary": "IT之家 10 月 6 日消息，铃木汽车新款电动 K‑car 微型小车预计将于下月在日本上市，售价 212 万日元（IT之家注：现汇率约合 90,204 元人民币）。该定价低于比亚迪 Racco，是同级别当中售价最低的车型，意在刺激电动汽车的市场需求。e‑Sky 将是铃木旗下首款 K‑car 乘用电动汽车。这款车的入门",
-   "link": "https://www.ithome.com/1/009/922.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "教程",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-06 07:45",
-   "ts": 1791243957
   },
   {
    "id": "7af7a48cd0a7b78030a98bdc14f4d04f",
@@ -277,7 +355,7 @@
   {
    "id": "1de8f2d7f0abd7c338333f68dd283af7",
    "title": "Samon: Designing a Zen Garden Raking Puzzle",
-   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 6\n# Comments: 1",
+   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 8\n# Comments: 1",
    "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -446,7 +524,7 @@
   {
    "id": "0deeb402ed9d8059d7f5621ae248ba51",
    "title": "Ephemeral Testing",
-   "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 19\n# Comments: 3",
+   "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 23\n# Comments: 3",
    "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -498,7 +576,7 @@
   {
    "id": "2368a8eed5c8f6baa0fcadbde069cb21",
    "title": "Worth Building",
-   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 26\n# Comments: 14",
+   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 29\n# Comments: 16",
    "link": "https://armstr.ng/writing/worth-building",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -524,7 +602,7 @@
   {
    "id": "9a599dc855536688121514bf3da41ee6",
    "title": "Example.com Just Launched the Biggest Redesign in Decades",
-   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 50\n# Comments: ",
+   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 58\n# Comments: ",
    "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -654,7 +732,7 @@
   {
    "id": "a2761a73b2e3f39b07bda986fe995f67",
    "title": "Global Solar Atlas: summary of solar power potential globally",
-   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 8\n# Comments: 6",
+   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 8\n# Comments: 7",
    "link": "https://globalsolaratlas.info/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -706,7 +784,7 @@
   {
    "id": "147dbac58dfd86cb10c7c0448d20440b",
    "title": "Friendship ended with Deno, now Node is my best friend",
-   "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/\nComments URL: https://news.ycombinator.com/item?id=49971719\nPoints: 24\n# Comments: 0",
+   "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/\nComments URL: https://news.ycombinator.com/item?id=49971719\nPoints: 36\n# Comments: 4",
    "link": "https://dbushell.com/2026/10/03/deno-to-node/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -745,7 +823,7 @@
   {
    "id": "faf77ea10960cd55a0837d15466ebf3b",
    "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
-   "summary": "Article URL: https://nivdayan.github.io/dostoevsky.pdf\nComments URL: https://news.ycombinator.com/item?id=49971678\nPoints: 9\n# Comments: 0",
+   "summary": "Article URL: https://nivdayan.github.io/dostoevsky.pdf\nComments URL: https://news.ycombinator.com/item?id=49971678\nPoints: 10\n# Comments: 0",
    "link": "https://nivdayan.github.io/dostoevsky.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -767,32 +845,6 @@
    "urgent": false,
    "fetched_at": "10-06 06:25",
    "ts": 1791239104
-  },
-  {
-   "id": "0a8cf863e88da5fb9c6b76416566a006",
-   "title": "NFL DFS, Saints vs. Falcons: Top daily Fantasy picks, lineup advice for 'Monday Night Football'",
-   "summary": "DFS millionaire Mike McClure shares his top daily Fantasy picks and lineups for Atlanta vs. New Orleans on 'Monday Night Football'",
-   "link": "https://www.cbssports.com/betting/news/nfl-dfs-saints-falcons-daily-fantasy-top-picks-fanduel-draftkings-lineups-advice-monday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:16",
-   "ts": 1791238614
-  },
-  {
-   "id": "ee71f1b0a8ede1327d683167be445001",
-   "title": "'Monday Night Football' prediction, odds, spread, time: Falcons vs. Saints picks from expert on 22-12 run",
-   "summary": "Larry Hartstein reveals his picks for Atlanta Falcons vs. New Orleans Saints in the 2026 Week 4 'Monday Night Football' matchup",
-   "link": "https://www.cbssports.com/betting/news/monday-night-football-prediction-odds-line-spread-time-falcons-saints-expert-picks-bets/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:12",
-   "ts": 1791238371
   },
   {
    "id": "8705fd004a358d958e45422069a47777",
@@ -912,19 +964,6 @@
    "ts": 1791237083
   },
   {
-   "id": "f2df964e17e26bd65ed89707bff428c7",
-   "title": "Graphical UI",
-   "summary": "Article URL: https://www.graphicalui.com/\nComments URL: https://news.ycombinator.com/item?id=49971356\nPoints: 26\n# Comments: 1",
-   "link": "https://www.graphicalui.com/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:51",
-   "ts": 1791237069
-  },
-  {
    "id": "0dc77ca65b7355e17850f493b851b616",
    "title": "André DeShields, Brandon Dirden, Jasmine Cephas Jones and Cheryl Wills Named AAFCA Goes to Broadway Honorees (EXCLUSIVE)",
    "summary": "The African American Film Critics Association has set the lineup for its fifth AAFCA Goes to Broadway Luncheon. Tony winner André DeShields, Tony nominee Brando",
@@ -951,19 +990,6 @@
    "ts": 1791236830
   },
   {
-   "id": "c85ef7edbdc6459f07c7746a65f6c371",
-   "title": "Amangiri, Casa Cipriani, Bel-Air Hotel Make 2026 Michelin Key List of Best Properties In the World",
-   "summary": "A spinoff of the popular Michelin Star award given annually to restaurants, this year's list includes 15 U.S. properties earning the coveted three-key rating.",
-   "link": "https://www.hollywoodreporter.com/lifestyle/lifestyle-news/michelin-keys-2026-best-hotels-in-the-world-usa-list-guide-1236722132/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:46",
-   "ts": 1791236766
-  },
-  {
    "id": "cdd3cf69997b52052561c7b6d703e983",
    "title": "‘The Social Reckoning’ First Reactions: A ‘Solid Sequel,’ ‘Good, Just Not Great Film’ and a ‘Harsh Assessment of Zuckerberg’",
    "summary": "Aaron Sorkin&#8217;s &#8220;The Social Reckoning&#8221; has been unveiled to members of the film press, who are calling the follow-up to &#8220;The Social Netwo",
@@ -975,6 +1001,19 @@
    "urgent": false,
    "fetched_at": "10-06 05:41",
    "ts": 1791236514
+  },
+  {
+   "id": "e88b8b5c62879e9d6e67740fbae01f68",
+   "title": "Find the flattest route between any two points in SF",
+   "summary": "Article URL: https://flattensf.com/\nComments URL: https://news.ycombinator.com/item?id=49971230\nPoints: 96\n# Comments: 29",
+   "link": "https://flattensf.com/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 05:40",
+   "ts": 1791236450
   },
   {
    "id": "2416c09f0a1312d348114c8167f1ec63",
@@ -1001,19 +1040,6 @@
    "urgent": false,
    "fetched_at": "10-06 05:40",
    "ts": 1791236400
-  },
-  {
-   "id": "83e4f0eca1b63e41451ec7376dc9e848",
-   "title": "Carey Mulligan and Marcus Mumford Raise $7.65 Million for Children in War Zones (EXCLUSIVE)",
-   "summary": "Carey Mulligan and Marcus Mumford raised $7.65 million on Sunday night in Los Angeles for Children in Conflict, a nonprofit organization dedicated to protecting",
-   "link": "https://variety.com/2026/global/columns/carey-mulligan-marcus-mumford-children-in-conflict-war-zones-1236899517/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:35",
-   "ts": 1791236131
   },
   {
    "id": "3af6fe43cdb396e583426f7f51cf1840",
@@ -1664,19 +1690,6 @@
    "urgent": true,
    "fetched_at": "10-06 02:22",
    "ts": 1791224533
-  },
-  {
-   "id": "d4121d935944d759dd5a2ad1ad983354",
-   "title": "macOS 27.2 Golden Gate beta 3 now available, here’s what to expect",
-   "summary": "Apple is rolling out the third developer beta of macOS 27.2 Golden Gate, ahead of its official rollout in the coming weeks. Here’s what’s coming.\n\n\n\n more…",
-   "link": "https://9to5mac.com/2026/10/05/macos-27-2-golden-gate-beta-3-now-available-heres-what-to-expect/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 02:22",
-   "ts": 1791224520
   },
   {
    "id": "5f1bf97a43aeb280a9f62ebd772baeac",
@@ -2509,19 +2522,6 @@
    "urgent": false,
    "fetched_at": "10-05 18:35",
    "ts": 1791196535
-  },
-  {
-   "id": "99027ef3e41874447f70e891db3ce417",
-   "title": "Oppo F35 and F35 Pro debut with 8,000mAh batteries and 50MP selfie cameras",
-   "summary": "Right on schedule, Oppo unveiled the F35 series in India. They’ve grown heavier compared to their predecessors, the F33 and F33 Pro, since they bring bigger bat",
-   "link": "https://www.gsmarena.com/oppo_f35_and_f35_pro_debut_with_8000mah_batteries_and_50mp_selfie_cameras-news-74898.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 18:12",
-   "ts": 1791195122
   },
   {
    "id": "0974caae931afd978857cc454f5d18cb",
