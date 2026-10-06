@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06 09:37",
+ "updated_at": "2026-10-06 10:03",
  "total": 258,
  "channels": [
   "AI·科技",
@@ -14,6 +14,123 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "4f1b46542988e5a17e3ad22ec011bd99",
+   "title": "Constellation 收获亚马逊 20 年核电长单，接近与 Alphabet 达成 10 亿美元交易",
+   "summary": "IT之家 10 月 6 日消息，美国能源企业 Constellation 当地时间 9 月 30 日宣布与 Amazon（亚马逊）签署了一份长达 20 年的核电供应协议。Constellation 将利用其位于马里兰州 Calvert Cliffs 的核电站为亚马逊供应 690MW 的电力，其中包括 2030~2032",
+   "link": "https://www.ithome.com/1/009/956.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 10:00",
+   "ts": 1791252039
+  },
+  {
+   "id": "bcfa2459e3aae07cce8cf4e5cb2c360e",
+   "title": "苹果与 OpenAI 商业秘密诉讼交锋升级：互指违规提交新证据",
+   "summary": "IT之家 10 月 6 日消息，几天之前，OpenAI 指责苹果在商业秘密诉讼当中违规提交新证据。如今苹果予以反击，反过来指控 OpenAI 在其提交的回应中超出了法院规则允许的范围。据IT之家了解，这起诉讼由苹果发起，起诉两名前员工（刘畅〔Chang Liu〕、谭唐〔Tang Tan〕）、OpenAI 以及 io P",
+   "link": "https://www.ithome.com/1/009/955.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 09:59",
+   "ts": 1791251994
+  },
+  {
+   "id": "244b399648fcd6bc200a1091d583388d",
+   "title": "微软工程师回应“Win10/Win11 不适合开发”论调，称其开发者规模超 macOS / Linux",
+   "summary": "IT之家 10 月 6 日消息，科技媒体 Windows Latest 昨日（10 月 5 日）发布博文，报道称微软杰出工程师大卫 · 福勒（David Fowler）回应“Windows 系统不适合开发者”论调，称使用 Windows 10/Windows 11 等 Windows 系统的开发者多于其他操作系统。创业",
+   "link": "https://www.ithome.com/1/009/954.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 09:59",
+   "ts": 1791251969
+  },
+  {
+   "id": "c0f29118e6f4b6311be232fe3d006623",
+   "title": "英伟达黄仁勋“世界巡演”AI 视频海内外爆火，马斯克调侃“内存涨价的原因找到了”",
+   "summary": "IT之家 10 月 6 日消息，近期有关迈克尔 · 杰克逊演唱会的二创视频在国内视频平台爆火，网友们将舞台上的迈克尔 · 杰克逊和台下的观众替换为各种知名人物。B站 UP 主“王与也行”10 月 4 日发布的一段“黄仁勋 世界巡演”AI 视频已收获超百万播放量，甚至火到了海外，引来埃隆 · 马斯克的调侃：这就是内存价格",
+   "link": "https://www.ithome.com/1/009/953.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 09:51",
+   "ts": 1791251515
+  },
+  {
+   "id": "7b2dea6f4c54eed256fe77b2d90bda8a",
+   "title": "LG 电子将为北美超 5GW 人工智能数据中心供应冷水机组",
+   "summary": "IT之家 10 月 6 日消息，LG 电子当地时间昨日宣布，其北美分支与暖通空调服务企业 AIR Control Concepts 达成一项涉及超 5GW 规模的人工智能数据中心 (AIDC) 先进冷水机组长期供应协议。AIR 负责北美主要数据中心枢纽的超大型基础设施项目，其主要客户是全球领先的数据中心运营商。这份长期",
+   "link": "https://www.ithome.com/1/009/949.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 09:50",
+   "ts": 1791251426
+  },
+  {
+   "id": "8210cffe4a695a8d2da0bf6b74f3e453",
+   "title": "Apple accuses OpenAI of improperly adding new arguments to trade secrets case",
+   "summary": "A few days ago, OpenAI accused Apple of improperly adding new evidence to its trade secrets case. Today, Apple fired back with its own accusation that OpenAI we",
+   "link": "https://9to5mac.com/2026/10/05/apple-accuses-openai-of-improperly-adding-new-arguments-to-trade-secrets-case/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 09:43",
+   "ts": 1791251012
+  },
+  {
+   "id": "ecf8a4a4c2d12d4efeddd8f95f630c0b",
+   "title": "微软 XBOX Elite 控制器（第三代）规格曝光：霍尔效应摇杆、VCA 触觉电机等",
+   "summary": "IT之家 10 月 6 日消息，网友 u/esketitethan 今天（10 月 6 日）在 Reddit 社区发帖，反馈称通过抓取微软官方 XBOX Design Lab 后端 API 数据，发现了 XBOX Elite 控制器（第三代）的相关规格信息。IT之家发稿前访问相关链接，发现链接已经失效，不过 Windo",
+   "link": "https://www.ithome.com/1/009/948.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 09:40",
+   "ts": 1791250846
+  },
+  {
+   "id": "ba8c3ecf8450984e9fb826808d96fd65",
+   "title": "维基媒体：OpenAI 失控 AI 智能体或引发其 5 月数据服务故障",
+   "summary": "IT之家 10 月 6 日消息，运营网络百科全书维基百科的维基媒体基金会表示，今年 5 月其数据服务出现故障，或许和来自 OpenAI 失控智能体产生的巨量访问流量有关。IT之家注意到，维基媒体于当地时间周一发布博客文章称，可以确认“我们已经在维基媒体各平台上监测到这类 OpenAI‘失控’智能体的相关活动”，其中就包",
+   "link": "https://www.ithome.com/1/009/947.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 09:38",
+   "ts": 1791250705
+  },
+  {
+   "id": "69208bf3c93673107db5df5375c83fe8",
+   "title": "Why Did Tom Cruise’s ‘Digger’ Hit Rock Bottom at the Box Office?",
+   "summary": "The response to Iñárritu's big-budget satire delivers sobering lessons as the Warner Bros. release heads for a major financial loss: \"'Digger' has provided a re",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/tom-cruise-digger-bomb-opening-weekend-box-office-analysis-1236722877/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 09:38",
+   "ts": 1791250687
+  },
   {
    "id": "43e7e154603c97d20ac5b8bb1d6f8279",
    "title": "GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道",
@@ -93,32 +210,6 @@
    "ts": 1791249136
   },
   {
-   "id": "6be22b2132ba9a46e13e3c9a769db399",
-   "title": "欧盟推行数字主权遇阻，微软 Teams 替代方案被某官员吐槽“绝对垃圾”",
-   "summary": "IT之家 10 月 6 日消息，Politico Europe 于 9 月 30 日发布博文，在倡导数字主权并减少对美国技术依赖的背景下，欧盟委员会正推动 Element Pro 来替代微软 Teams，不过初期反馈偏向负面，部分欧洲官员直言 Element Pro 为“绝对垃圾”。报道指出欧盟委员会计划 2026 年",
-   "link": "https://www.ithome.com/1/009/939.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 09:02",
-   "ts": 1791248561
-  },
-  {
-   "id": "bbddfdf21f13ddd091190cf04ae4906b",
-   "title": "高通澄清：与华为专利交叉授权协议“涉及逻辑折叠”不准确、“高通为净支付方”不正确",
-   "summary": "IT之家 10 月 6 日消息，根据 Creative Strategies 分析师 Max Weinbach 从高通处获得的声明，一位高通发言人表示，部分媒体宣称高通与华为近日达成的专利交叉授权协议“涉及逻辑折叠”的报道并不准确 (not accurate)。高通发言人在声明中还提到，将该企业描述为许可协议净支付方的",
-   "link": "https://www.ithome.com/1/009/938.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 09:01",
-   "ts": 1791248507
-  },
-  {
    "id": "e3e357182498e0b7481f518a88f5d11d",
    "title": "Another report says that the Xiaomi 18 Ultra has been canceled, reveals monster specs",
    "summary": "After Xiaomi announced the Xiaomi 18 Pro and Xiaomi 18 Pro Max, it revealed that the two are headed for a global launch. That was a bit unusual, since the Xiaom",
@@ -132,19 +223,6 @@
    "ts": 1791248462
   },
   {
-   "id": "6747ea9e383404b70667134a639b5660",
-   "title": "高盛上调台积电目标价至 3300 新台币，预示约 28% 上涨空间",
-   "summary": "IT之家 10 月 6 日消息，台积电 10 月 5 日在中国台湾股市创出历史新高，早盘最高冲上 2,580 新台币（IT之家注：现汇率约合 543.1 元人民币），13:30 收盘价定在 2,575 新台币（现汇率约合 542 元人民币），涨幅 3%，市值升至约 66.78 万亿新台币（现汇率约合 14.06 万亿元",
-   "link": "https://www.ithome.com/1/009/937.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 08:57",
-   "ts": 1791248271
-  },
-  {
    "id": "d102cf6e7c7ccbbd0819ed9fae81caa3",
    "title": "Why Sebastian Stan Turned Down ‘The Vampire Diaries’ Lead Role",
    "summary": "The actor said he \"can't look back and go, 'Oh, what if?'\" on the missed opportunities.",
@@ -156,19 +234,6 @@
    "urgent": false,
    "fetched_at": "10-06 08:57",
    "ts": 1791248237
-  },
-  {
-   "id": "5598bac36273efe3e6fa06ce49b047ea",
-   "title": "奥尔特曼：马斯克是个“霸凌者”，只尊重敢于回击他的人",
-   "summary": "IT之家 10 月 6 日消息，萨姆 · 奥尔特曼（Sam Altman）表示，如果希望他和埃隆 · 马斯克能够开展合作，大家就必须接受一定程度上的纷争。“我认为有些时候，你就得狠狠回击霸凌者。”奥尔特曼在接受《名利场》的深度专访时说道，“而且我还觉得，埃隆和很多喜欢欺压别人的人一样，只会尊重敢于还手的对手。”据IT之",
-   "link": "https://www.ithome.com/1/009/936.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 08:54",
-   "ts": 1791248065
   },
   {
    "id": "5d299e745e0d5c3d0ea6f6f1cbf20c6a",
@@ -208,45 +273,6 @@
    "urgent": false,
    "fetched_at": "10-06 08:47",
    "ts": 1791247676
-  },
-  {
-   "id": "76c69ede51ab32aab2bfe4198d3a095d",
-   "title": "《魔兽世界》：“无限”国服 Beta 测试今日开启，购买 388 元礼包可抢先体验",
-   "summary": "IT之家 10 月 6 日消息，《魔兽世界》：“无限”国服 Beta 测试今日（10 月 6 日）正式开启。10 月 6 日-10 月 26 日测试期间，多个开测狂欢活动上线。购买天裔史诗礼包（388 元），即可解锁国服 Beta 测试资格，并获取诸多奖励收藏。需要注意的是，本次测试为删档测试，测试结束后，所有测试角色",
-   "link": "https://www.ithome.com/1/009/934.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 08:45",
-   "ts": 1791247548
-  },
-  {
-   "id": "0f41fba6b5c68d6a42d64a52aca2c62f",
-   "title": "苹果 iOS 27.2 引入新 Apple Music LOGO：加粗字体，全小写排版",
-   "summary": "IT之家 10 月 6 日消息，科技媒体 9to5Mac 今天（10 月 6 日）发布博文，报道称在 iOS 27.2、macOS 27.2 等系统第 3 个开发者 Beta 测试版中，苹果公司正为 Apple Music 应用测试新 LOGO。苹果公司上月（2026 年 9 月）宣布开设 Apple Music Ha",
-   "link": "https://www.ithome.com/1/009/933.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 08:43",
-   "ts": 1791247417
-  },
-  {
-   "id": "f026b560796a583248d1c44ff37219e0",
-   "title": "叫板 DeepSeek、Kimi，英伟达投资的 Reflection AI 发布旗下首款开放权重 AI 模型 Beam",
-   "summary": "IT之家 10 月 6 日消息，由英伟达投资的初创企业 Reflection AI 于当地时间周一推出了自家首款开放权重大模型 Beam。这家初创公司希望在代码编写与智能体任务领域，同 DeepSeek、Kimi 等中国 AI 模型展开竞争。Reflection AI 表示，Beam 在性能上可以对标中国 AI 初创企",
-   "link": "https://www.ithome.com/1/009/932.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-06 08:42",
-   "ts": 1791247340
   },
   {
    "id": "ad96deb70e936476befc78bd4ed19530",
@@ -303,7 +329,7 @@
   {
    "id": "b31a2e51417da6819b1e26e2b2b580d1",
    "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 22\n# Comments: 12",
+   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 26\n# Comments: 15",
    "link": "https://edworkingpapers.com/ai26-1551",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -355,7 +381,7 @@
   {
    "id": "1de8f2d7f0abd7c338333f68dd283af7",
    "title": "Samon: Designing a Zen Garden Raking Puzzle",
-   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 11\n# Comments: 1",
+   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 16\n# Comments: 6",
    "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -524,7 +550,7 @@
   {
    "id": "0deeb402ed9d8059d7f5621ae248ba51",
    "title": "Ephemeral Testing",
-   "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 28\n# Comments: 5",
+   "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 32\n# Comments: 12",
    "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -576,7 +602,7 @@
   {
    "id": "2368a8eed5c8f6baa0fcadbde069cb21",
    "title": "Worth Building",
-   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 32\n# Comments: 22",
+   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 34\n# Comments: 25",
    "link": "https://armstr.ng/writing/worth-building",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -602,7 +628,7 @@
   {
    "id": "9a599dc855536688121514bf3da41ee6",
    "title": "Example.com Just Launched the Biggest Redesign in Decades",
-   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 74\n# Comments: ",
+   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 84\n# Comments: ",
    "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -732,7 +758,7 @@
   {
    "id": "a2761a73b2e3f39b07bda986fe995f67",
    "title": "Global Solar Atlas: summary of solar power potential globally",
-   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 10\n# Comments: 7",
+   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 12\n# Comments: 9",
    "link": "https://globalsolaratlas.info/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -758,7 +784,7 @@
   {
    "id": "3c66b6ae885a384eb8f30be85aa7b5fb",
    "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
-   "summary": "Article URL: https://almostimplemented.github.io/jazz-pianist-style/\nComments URL: https://news.ycombinator.com/item?id=49971726\nPoints: 13\n# Comments: 1",
+   "summary": "Article URL: https://almostimplemented.github.io/jazz-pianist-style/\nComments URL: https://news.ycombinator.com/item?id=49971726\nPoints: 18\n# Comments: 1",
    "link": "https://almostimplemented.github.io/jazz-pianist-style/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -784,7 +810,7 @@
   {
    "id": "147dbac58dfd86cb10c7c0448d20440b",
    "title": "Friendship ended with Deno, now Node is my best friend",
-   "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/\nComments URL: https://news.ycombinator.com/item?id=49971719\nPoints: 46\n# Comments: 6",
+   "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/\nComments URL: https://news.ycombinator.com/item?id=49971719\nPoints: 58\n# Comments: 11",
    "link": "https://dbushell.com/2026/10/03/deno-to-node/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -977,19 +1003,6 @@
    "ts": 1791236939
   },
   {
-   "id": "dfa5bfbaf3016b0ddd0d72855876b38b",
-   "title": "‘Outlander: Blood of My Blood’ Star Harriet Slater on Ellen’s ‘Home Alone’ — With Knives! — Adventure",
-   "summary": "The star of the Starz historical romantic drama, joined by executive producers Matthew B. Roberts and Maril Davis, explains how the future mother of Jamie Frase",
-   "link": "https://www.hollywoodreporter.com/tv/tv-features/outlander-blood-of-my-blood-ellen-harriet-slater-interview-1236722849/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:47",
-   "ts": 1791236830
-  },
-  {
    "id": "cdd3cf69997b52052561c7b6d703e983",
    "title": "‘The Social Reckoning’ First Reactions: A ‘Solid Sequel,’ ‘Good, Just Not Great Film’ and a ‘Harsh Assessment of Zuckerberg’",
    "summary": "Aaron Sorkin&#8217;s &#8220;The Social Reckoning&#8221; has been unveiled to members of the film press, who are calling the follow-up to &#8220;The Social Netwo",
@@ -1005,7 +1018,7 @@
   {
    "id": "e88b8b5c62879e9d6e67740fbae01f68",
    "title": "Find the flattest route between any two points in SF",
-   "summary": "Article URL: https://flattensf.com/\nComments URL: https://news.ycombinator.com/item?id=49971230\nPoints: 105\n# Comments: 30",
+   "summary": "Article URL: https://flattensf.com/\nComments URL: https://news.ycombinator.com/item?id=49971230\nPoints: 109\n# Comments: 36",
    "link": "https://flattensf.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1677,19 +1690,6 @@
    "urgent": false,
    "fetched_at": "10-06 02:23",
    "ts": 1791224584
-  },
-  {
-   "id": "95749d4f8f37dc0a2d0d2fa5ba55c646",
-   "title": "Apple releases beta 3 for iPadOS 27.2, watchOS 27.2, and more",
-   "summary": "Apple is now rolling out new beta software for developers, including beta 3 for iPadOS 27.2, tvOS 27.2, and more.\n\n\n\n more…",
-   "link": "https://9to5mac.com/2026/10/05/apple-releases-beta-3-for-ipados-27-2-watchos-27-2-and-more/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-06 02:22",
-   "ts": 1791224533
   },
   {
    "id": "5f1bf97a43aeb280a9f62ebd772baeac",
