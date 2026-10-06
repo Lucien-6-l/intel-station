@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-06 07:35",
- "total": 265,
+ "updated_at": "2026-10-06 08:03",
+ "total": 258,
  "channels": [
   "AI·科技",
   "体育",
@@ -15,6 +15,136 @@
  ],
  "items": [
   {
+   "id": "f2783ad41b11dee02ad65ca13aa41e76",
+   "title": "苹果在 Safari 中测试代码，追踪谷歌推广 Chrome 的行为",
+   "summary": "IT之家 10 月 6 日消息，苹果或许正准备追踪谷歌在用户使用 Safari 浏览器浏览网页时向用户推广 Chrome 或者谷歌应用的行为，同时记录用户对这类推广内容的反应。据 9to5Mac 报道，自 iOS 27.2 第二个测试版起，苹果已经开始在 Safari 当中测试一段代码。该代码可以识别谷歌是否在搜索页面",
+   "link": "https://www.ithome.com/1/009/927.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:02",
+   "ts": 1791244957
+  },
+  {
+   "id": "b7403274db416dd084968a4eb6dc601d",
+   "title": "苹果上调 iCloud 自定义电子邮件域名配额，个性化电子邮件地址数量从 3 个增加到 10 个",
+   "summary": "IT之家 10 月 6 日消息，科技媒体 MacRumors 昨日（10 月 5 日）发布博文，根据社区用户反馈，苹果悄然调整 iCloud 邮件（iCloud Mail）别名数量上限，从 3 个涨到 9 个，增幅 200%。IT之家注：iCloud 邮件别名（iCloud Mail Alias）支持用户基于单一 iC",
+   "link": "https://www.ithome.com/1/009/926.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:02",
+   "ts": 1791244922
+  },
+  {
+   "id": "e7ced2f03fd334c818f88ef2e59b35de",
+   "title": "Five Takeaways from Metallica’s “No Repeat Weekend” Sphere Shows",
+   "summary": "Night two mirrored the geometry of opening night without repeating a song, reached deep into the band's catalog and saved one spectacular “Enter Sandman” for la",
+   "link": "https://www.hollywoodreporter.com/music/music-news/five-takeaways-from-metallicas-sphere-residency-1236722909/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:00",
+   "ts": 1791244846
+  },
+  {
+   "id": "0a9ea80c7df059ae907fa25c447035aa",
+   "title": "IT早报 1006：华为与高通专利许可落地高通成净支出方；一汽丰田辟谣将退出历史舞台；2026 诺贝尔生理学或医学奖揭晓；中国铁路称抢票的尽头都是 12306...",
+   "summary": "“IT早报”时间，大家好，现在是 2026 年 10 月 6 日星期二，今天的重要科技资讯有：1. 华为与高通宣布达成广泛专利许可协议，覆盖 5G、AI、计算及网络技术领域双方达成首份涵盖 5G 技术的交叉许可协议，高通将收购华为部分美国专利，交易完成后华为专利许可累计总金额超 69 亿美元，华为知识产权业务早已实现正",
+   "link": "https://www.ithome.com/1/009/925.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:56",
+   "ts": 1791244585
+  },
+  {
+   "id": "77dd37bfda91ad19402184f760cdd5d3",
+   "title": "麦当劳在美遭集体诉讼，被指用 AI 系统非法操纵菜单价格",
+   "summary": "IT之家 10 月 6 日消息，据路透社报道，麦当劳已在芝加哥联邦法院被提起诉讼，这是一起拟议的全国性集体诉讼。原告指控这家快餐企业借助一套人工智能定价系统，非法协调其特许经营店和直营餐厅的菜单价格。IT之家注意到，这起诉讼于当地时间上周五提交。诉状称，麦当劳与独立特许经营商合谋，利用基于非公开数据训练的算法操纵价格，",
+   "link": "https://www.ithome.com/1/009/924.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:55",
+   "ts": 1791244559
+  },
+  {
+   "id": "56e1c36da1606b3afb5ba52ea8bf4ac7",
+   "title": "苹果首款折叠 iPhone Duo 锁屏将获极简专注模式，支持一键启用",
+   "summary": "IT之家 10 月 6 日消息，消息源 @itspdfu 于 10 月 4 日在 X 平台发布推文，分享了关于苹果首款折叠 iPhone Duo 的更多细节，包括重新设计了锁定屏幕上的专注控制。IT之家附上相关演示视频如下：消息源通过挖掘 iOS 27.1 测试版，发现苹果正针对 iPhone Duo 的外屏，调整专注",
+   "link": "https://www.ithome.com/1/009/923.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:48",
+   "ts": 1791244121
+  },
+  {
+   "id": "5064cb8767b127c2d8bbac2dcc9bff8a",
+   "title": "铃木首款电动 K-car e‑Sky 下月日本上市：定价低于比亚迪 Racco，续航达 310 公里",
+   "summary": "IT之家 10 月 6 日消息，铃木汽车新款电动 K‑car 微型小车预计将于下月在日本上市，售价 212 万日元（IT之家注：现汇率约合 90,204 元人民币）。该定价低于比亚迪 Racco，是同级别当中售价最低的车型，意在刺激电动汽车的市场需求。e‑Sky 将是铃木旗下首款 K‑car 乘用电动汽车。这款车的入门",
+   "link": "https://www.ithome.com/1/009/922.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "教程",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 07:45",
+   "ts": 1791243957
+  },
+  {
+   "id": "fd2c59477c1273e352d11220c32e2fe2",
+   "title": "谷歌有望升级 Call for Me 功能：Gemini 将支持代用户拨打私人亲友电话",
+   "summary": "IT之家 10 月 6 日消息，有多少通电话，仅仅因为要跟其他人沟通实在太过麻烦，你就一拖再拖？人工智能早已承诺，会帮我们把生活里大量费力不讨好的杂事实现自动化。对于一部分人来说，其中最有吸引力的设想或许就是由 AI 替我们打电话。谷歌刚刚在 Pixel 11 系列手机上推出了“代我通话（Call for Me）”功能",
+   "link": "https://www.ithome.com/1/009/921.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:37",
+   "ts": 1791243471
+  },
+  {
+   "id": "dea2a3989956e47de6fe37487aab3327",
+   "title": "‘Spider-Man: Brand New Day’ Heads to Streaming: Where to Watch the 2026 Blockbuster Online",
+   "summary": "Just 47 days after its theatrical release, Sony's superhero smash hit claimed the title of highest-grossing film in North American box office history. Here's ho",
+   "link": "https://www.hollywoodreporter.com/tv/tv-news/watch-spider-man-brand-new-day-streaming-release-date-2026-1236722722/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:37",
+   "ts": 1791243433
+  },
+  {
+   "id": "22a1c6c2adeea43745f6a041660db7c8",
+   "title": "Not sold on Tesla Powerwall? There are great battery alternatives out there [update]",
+   "summary": "Between increasingly extreme weather, rising electricity demands, and the rapid expansion of data centers, energy independence is starting to look less like a t",
+   "link": "https://electrek.co/2026/10/05/not-sold-on-tesla-powerwall-there-are-some-great-home-battery-alternatives-out-there/",
+   "source": "Electrek",
+   "channel": "汽车",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:35",
+   "ts": 1791243300
+  },
+  {
    "id": "36e778557831c097845b8835252a7dfa",
    "title": "tvOS 27.2 代码显示苹果 Apple TV 4K（第四代）将支持 Siri AI 和 Apple Intelligence",
    "summary": "IT之家 10 月 6 日消息，科技媒体 MacRumors 昨日（10 月 5 日）发布博文，通过挖掘 tvOS 27.2 Beta 3 更新代码，发现新的线索，表明苹果 Apple TV 4K（第四代）将支持 Siri AI 与 Apple Intelligence。代码显示，系统设置应用中新增“改进 Siri 与",
@@ -26,6 +156,19 @@
    "urgent": false,
    "fetched_at": "10-06 07:33",
    "ts": 1791243209
+  },
+  {
+   "id": "9b1254fa87b656b560fad06745072179",
+   "title": "Apple iPhone 18 Pro Max vs. iPhone 17 Pro Max",
+   "summary": "The new iPhone hit the shelves and the first order of business is to pit it against its predecessor. The Apple iPhone 18 Pro Max brings screen, performance, cam",
+   "link": "https://www.gsmarena.com/iphone_18_pro_max_vs_iphone_17_pro_max_battery_camera_price_compared-news-74787.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 07:31",
+   "ts": 1791243062
   },
   {
    "id": "b94be4ef237c1bb2e32ce087e4ca6898",
@@ -106,32 +249,6 @@
    "ts": 1791242100
   },
   {
-   "id": "57dcc5d7c049070338b92ee68bb75132",
-   "title": "Use FanDuel promo code to get $250 bonus bets by targeting Falcons vs. Saints on Monday Night Football",
-   "summary": "Sign up and bet with the latest FanDuel promo code on Monday to get your bonus bets",
-   "link": "https://www.cbssports.com/betting/news/use-fanduel-promo-code-to-get-250-bonus-bets-falcons-vs-saints-on-monday-night-football/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 07:10",
-   "ts": 1791241839
-  },
-  {
-   "id": "f0a46265f787260d316a0d7b874fc280",
-   "title": "Fueled by Sean Payton's 'disrespect,' 49ers' Dre Greenlaw dominates Broncos and lets former coach know",
-   "summary": "The linebacker led San Francisco with 12 tackles in Sunday's win before opening up about feeling ignored and disrespected during his lone season in Denver",
-   "link": "https://www.cbssports.com/nfl/news/sean-paytons-disrespect-49ers-dre-greenlaw-dominates-broncos/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 07:10",
-   "ts": 1791241823
-  },
-  {
    "id": "e2393ece57b3c42aa2e13a6e8ab35a39",
    "title": "比亚迪 Racco 电动微型车将走出日本，率先登陆斯里兰卡、中国澳门",
    "summary": "IT之家 10 月 6 日消息，据日经亚洲报道，比亚迪于上周日对外表示，该公司将把面向日本市场推出的 Racco 电动微型车推向其他市场，首批计划在斯里兰卡与中国澳门开启销售。IT之家注意到，该计划是在神奈川县平冢市一家比亚迪经销门店举办的仪式上对外公布的，这场仪式临近东京，用于纪念比亚迪在日本市场的车辆交付量突破一万",
@@ -184,17 +301,17 @@
    "ts": 1791241775
   },
   {
-   "id": "0b91244801684142e3a1c4b5ae1c3a62",
-   "title": "英伟达美股连续 3 天创历史新高，本月市值有望冲击 6 万亿美元",
-   "summary": "IT之家 10 月 6 日消息，英伟达股价于美国东部时间 10 月 5 日星期一再度刷新历史纪录，收盘报 238.90 美元（IT之家注：现汇率约合 1,603 元人民币），单日上涨 2.12%，连续第三个交易日以收盘价创历史新高。英伟达公司盘后交易进一步上行至约 239.54 美元（现汇率约合 1,607 元人民币）",
-   "link": "https://www.ithome.com/1/009/914.htm",
-   "source": "IT之家",
+   "id": "0deeb402ed9d8059d7f5621ae248ba51",
+   "title": "Ephemeral Testing",
+   "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 10\n# Comments: 0",
+   "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
+   "source": "Hacker News",
    "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-06 07:05",
-   "ts": 1791241542
+   "fetched_at": "10-06 07:06",
+   "ts": 1791241596
   },
   {
    "id": "69d37bbf8b88d0c218b2ce60e2832891",
@@ -236,22 +353,9 @@
    "ts": 1791241282
   },
   {
-   "id": "208d4055955baf74f1dc8de443029597",
-   "title": "历史性拐点！2026 上半年全球纯燃油车新车销量占比首次跌破 50%",
-   "summary": "IT之家 10 月 6 日消息，据日经亚洲报道，受中东地区冲突推高国际油价影响，今年 1‑6 月上半年，燃油车在全球新车销量中的占比已经下滑至 50% 以下。不含混合动力以及其他电气化车型在内的燃油车销量同比下降 10%，至 2025 万辆。这类车型在全球新车销量当中的份额下降 3 个百分点，达到 49%。仅仅五年时间",
-   "link": "https://www.ithome.com/1/009/913.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 07:00",
-   "ts": 1791241202
-  },
-  {
    "id": "2368a8eed5c8f6baa0fcadbde069cb21",
    "title": "Worth Building",
-   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 9\n# Comments: 0",
+   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 17\n# Comments: 5",
    "link": "https://armstr.ng/writing/worth-building",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -260,19 +364,6 @@
    "urgent": false,
    "fetched_at": "10-06 06:59",
    "ts": 1791241164
-  },
-  {
-   "id": "9204ad61807c09dd3ea9b9f6e41e79e8",
-   "title": "台积电股价昨日创历史新高：美股盘中触及 487.44 美元，市值超 2 万亿美元",
-   "summary": "IT之家 10 月 6 日消息，台积电股价在前一交易日（10 月 5 日）强势上涨，盘中最高触及 2,580 新台币，创历史新高；终场收报 2,575 新台币，上涨约 3%，同样刷新历史收盘纪录。从盘面看，台积电股价早盘走强，盘中一度升至 2,580 新台币（IT之家注：现汇率约合 543.1 元人民币）；截至收盘，涨",
-   "link": "https://www.ithome.com/1/009/912.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:57",
-   "ts": 1791241070
   },
   {
    "id": "7ff580fd1a613307c9178e84efbb23bd",
@@ -290,7 +381,7 @@
   {
    "id": "9a599dc855536688121514bf3da41ee6",
    "title": "Example.com Just Launched the Biggest Redesign in Decades",
-   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 17\n# Comments: ",
+   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 33\n# Comments: ",
    "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -301,30 +392,43 @@
    "ts": 1791240911
   },
   {
-   "id": "963a14a165d1754b90abcebfb0032cb3",
-   "title": "Food Atlas: Connections behind the dishes we love",
-   "summary": "Article URL: https://knowledgeartist.org/pages/food-atlas\nComments URL: https://news.ycombinator.com/item?id=49971895\nPoints: 3\n# Comments: 0",
-   "link": "https://knowledgeartist.org/pages/food-atlas",
+   "id": "f864ebad929dbcad0b78bf8346a5a318",
+   "title": "Hideo Kojima Says You'll See Him Cameo in a 'Big' Live-Action Movie — But Which One Is It?",
+   "summary": "Hideo Kojima teased that he's got a cameo in a \"big\" live-action movie, but he's not saying which one we'll see him in quite yet.",
+   "link": "https://www.ign.com/articles/hideo-kojima-says-youll-see-him-cameo-in-a-big-live-action-movie-but-which-one-is-it",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 06:55",
+   "ts": 1791240909
+  },
+  {
+   "id": "e00ff54977f4687ee0e4465aff826529",
+   "title": "Save 37% Off Fanttik T1 Max Cordless Soldering Iron Kit During the Amazon October Prime Day Sale",
+   "summary": "An essential tool for tinkering hobbyists.",
+   "link": "https://www.ign.com/articles/fanttik-t1-max-cordless-soldering-iron-deal-amazon-october-prime-day-sale-2026",
+   "source": "IGN",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 06:50",
+   "ts": 1791240600
+  },
+  {
+   "id": "ef3c7472fdf42c5e6404c58b4e9fb36a",
+   "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+   "summary": "Article URL: https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/\nComments URL: https://news.ycombinator",
+   "link": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
    "source": "Hacker News",
    "channel": "AI·科技",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-06 06:51",
-   "ts": 1791240717
-  },
-  {
-   "id": "bb377662ba811ee1195f6f75206800ff",
-   "title": "减产自救：美国豪华电动汽车制造商 Lucid 第三季度产量跌至近两年低点",
-   "summary": "IT之家 10 月 6 日消息，美国豪华电动汽车制造商 Lucid Motors 今年第三季度一共生产了 2954 辆电动汽车，同比下降 54%。原因是该公司主动控制产能，以此更好地匹配市场需求。这已经是 Lucid Motors 的汽车产量连续第三个季度出现下降，同时也是自 2025 年第一季度以来的最低季度产量。就",
-   "link": "https://www.ithome.com/1/009/911.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:49",
-   "ts": 1791240589
+   "fetched_at": "10-06 06:46",
+   "ts": 1791240405
   },
   {
    "id": "0f5780bf1dbe04faaa938c2a2230ae08",
@@ -405,6 +509,19 @@
    "ts": 1791239940
   },
   {
+   "id": "a2761a73b2e3f39b07bda986fe995f67",
+   "title": "Global Solar Atlas: summary of solar power potential globally",
+   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 7\n# Comments: 2",
+   "link": "https://globalsolaratlas.info/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 06:37",
+   "ts": 1791239878
+  },
+  {
    "id": "bbf1c65c8b283d75b77a75096ee89735",
    "title": "Tom Bateman’s Secret to Nailing ‘The Love Hypothesis’? Being Offline",
    "summary": "The actor is also set to lead Netflix's adaptation of the Harlan Coben novel 'The Woods.'",
@@ -455,6 +572,19 @@
    "urgent": false,
    "fetched_at": "10-06 06:25",
    "ts": 1791239151
+  },
+  {
+   "id": "faf77ea10960cd55a0837d15466ebf3b",
+   "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
+   "summary": "Article URL: https://nivdayan.github.io/dostoevsky.pdf\nComments URL: https://news.ycombinator.com/item?id=49971678\nPoints: 6\n# Comments: 0",
+   "link": "https://nivdayan.github.io/dostoevsky.pdf",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 06:25",
+   "ts": 1791239147
   },
   {
    "id": "5bc26b5bc6a771d67817c761e4189cc8",
@@ -628,7 +758,7 @@
   {
    "id": "6c2558282d64fa020f057f05564721be",
    "title": "Robert Kelker-Kelly, ‘Days of Our Lives’ and ‘General Hospital’ Star, Dies at 62",
-   "summary": "He also starred in the soap operas 'Another World' and 'Port Charles.'",
+   "summary": "He also appeared on two other soap operas, 'Another World' and 'Port Charles.'",
    "link": "https://www.hollywoodreporter.com/tv/tv-news/robert-kelker-kelly-dead-days-of-our-lives-general-hospital-1236722795/",
    "source": "好莱坞报道",
    "channel": "娱乐·影视",
@@ -641,7 +771,7 @@
   {
    "id": "f2df964e17e26bd65ed89707bff428c7",
    "title": "Graphical UI",
-   "summary": "Article URL: https://www.graphicalui.com/\nComments URL: https://news.ycombinator.com/item?id=49971356\nPoints: 6\n# Comments: 0",
+   "summary": "Article URL: https://www.graphicalui.com/\nComments URL: https://news.ycombinator.com/item?id=49971356\nPoints: 19\n# Comments: 0",
    "link": "https://www.graphicalui.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -706,7 +836,7 @@
   {
    "id": "e88b8b5c62879e9d6e67740fbae01f68",
    "title": "Find the flattest route between any two points in SF",
-   "summary": "Article URL: https://flattensf.com/\nComments URL: https://news.ycombinator.com/item?id=49971230\nPoints: 61\n# Comments: 16",
+   "summary": "Article URL: https://flattensf.com/\nComments URL: https://news.ycombinator.com/item?id=49971230\nPoints: 77\n# Comments: 22",
    "link": "https://flattensf.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -847,19 +977,6 @@
    "ts": 1791235234
   },
   {
-   "id": "39961500cf68ee1dbcb40642feed033b",
-   "title": "Panta Mosleh’s Queer Interfaith Comedy ‘Pass the Salt’ Nabs Early Season 2 Renewal (Exclusive)",
-   "summary": "Beyond ‘Heated Rivalry,’ a wave of gay, lesbian and trans comedies and rom-coms out of Canada is growing.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/pass-the-salt-season-2-renewal-1236722672/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:18",
-   "ts": 1791235080
-  },
-  {
    "id": "5962a33f0d60c41e49ee38e9ab53dc22",
    "title": "Best Horror of October 2026: ‘Other Mommy’ Goes for the Heart, ‘Carrie’ Returns, Josh Hartnett Hunts for Sea Monsters and More",
    "summary": "Welcome to Horror Explorer, a curated column showcasing the month’s best movies, series, books and everything else spooky worth checking out. I’m William Earl, ",
@@ -886,9 +1003,22 @@
    "ts": 1791235065
   },
   {
+   "id": "5a8a4cdb2cb907481609bbd66f80fa7a",
+   "title": "The state of the catcher position ahead of 2027",
+   "summary": "10/5",
+   "link": "https://www.cbssports.com/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 05:15",
+   "ts": 1791234927
+  },
+  {
    "id": "b12f26b2c27403ff92371d875a858d25",
    "title": "Dust: Pretraining Transformers Without Backpropagation",
-   "summary": "Article URL: https://qlabs.sh/research/dust\nComments URL: https://news.ycombinator.com/item?id=49970871\nPoints: 66\n# Comments: 3",
+   "summary": "Article URL: https://qlabs.sh/research/dust\nComments URL: https://news.ycombinator.com/item?id=49970871\nPoints: 74\n# Comments: 5",
    "link": "https://qlabs.sh/research/dust",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -910,19 +1040,6 @@
    "urgent": false,
    "fetched_at": "10-06 05:15",
    "ts": 1791234905
-  },
-  {
-   "id": "00ed20194cca4f4d3b2c795173cf25d4",
-   "title": "Mark Mortimer, Former ‘Another World’ Star, Dies at 59",
-   "summary": "After leaving acting, he went on to found a construction company in his home state of Illinois.",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/mark-mortimer-dead-another-world-1236722817/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:13",
-   "ts": 1791234832
   },
   {
    "id": "103111cf65ed5f274f1aa32f9837441e",
@@ -953,7 +1070,7 @@
   {
    "id": "1ad31c2d866b0a88f0567e6c4107551d",
    "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-   "summary": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors\nComments URL: https://news.ycombinator.com/item?id=49970667\nPoints: 156\n# Commen",
+   "summary": "Article URL: https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors\nComments URL: https://news.ycombinator.com/item?id=49970667\nPoints: 173\n# Commen",
    "link": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -962,6 +1079,19 @@
    "urgent": false,
    "fetched_at": "10-06 05:00",
    "ts": 1791234021
+  },
+  {
+   "id": "a81d493d001608dcc550970dfaa9c9ca",
+   "title": "Boxing schedule for 2026: When Canelo Alvarez, Isaac Cruz, Sebastian Fundora and more are set to return",
+   "summary": "The 2026 boxing calendar is hitting the fall with some great fights on the books",
+   "link": "https://www.cbssports.com/boxing/news/boxing-schedule-for-2026-dates-location-fights-canelo-alvarez-sebastian-fundora/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 04:58",
+   "ts": 1791233932
   },
   {
    "id": "39e104e13ac10051c7638a9bda33ab72",
@@ -1159,19 +1289,6 @@
    "ts": 1791231806
   },
   {
-   "id": "606f1545960336bb16e4587451d31900",
-   "title": "A third way of using Linux",
-   "summary": "Article URL: https://hisvirusness.com/third-is-the-way\nComments URL: https://news.ycombinator.com/item?id=49970073\nPoints: 22\n# Comments: 33",
-   "link": "https://hisvirusness.com/third-is-the-way",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 04:17",
-   "ts": 1791231427
-  },
-  {
    "id": "6ad362d8c8d5ca840204b58d33ba580c",
    "title": "This startup is issuing AI-generated acne prescriptions",
    "summary": "People in Utah can now use AI to get a prescription for acne treatment. On Monday, healthcare startup Nolla Health announced that users in the state can scan th",
@@ -1200,7 +1317,7 @@
   {
    "id": "c007ace3389875e35cafecbfd34b3d30",
    "title": "Incident with Actions",
-   "summary": "Article URL: https://www.githubstatus.com/incidents/3q1yb5m7ltvb\nComments URL: https://news.ycombinator.com/item?id=49969961\nPoints: 91\n# Comments: 61",
+   "summary": "Article URL: https://www.githubstatus.com/incidents/3q1yb5m7ltvb\nComments URL: https://news.ycombinator.com/item?id=49969961\nPoints: 92\n# Comments: 63",
    "link": "https://www.githubstatus.com/incidents/3q1yb5m7ltvb",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1235,19 +1352,6 @@
    "urgent": false,
    "fetched_at": "10-06 04:07",
    "ts": 1791230845
-  },
-  {
-   "id": "807ea07bebc0ce3b5cfb408ae0f9547a",
-   "title": "Get a Preowned Asus Xbox Ally X Ryzen Z2 Extreme Handheld Gaming PC for as Low as $790 at Best Buy",
-   "summary": "One of the most powerful gaming handhelds on the market, and hundreds of dollars cheaper than the competition.",
-   "link": "https://www.ign.com/articles/asus-rog-xbox-ally-x-handheld-gaming-pc-deal-october-2026",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 04:00",
-   "ts": 1791230400
   },
   {
    "id": "a547a2f1fc817ab4febda85c084e4de3",
@@ -1406,45 +1510,6 @@
    "ts": 1791228475
   },
   {
-   "id": "0aa202d473d6f145cff9b73e2a2b2a51",
-   "title": "The Future of Mathematics",
-   "summary": "Article URL: https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/\nComments URL: https://news.ycombinator.com/item?id=49969256\nPoints: 70\n# Comme",
-   "link": "https://terrytao.wordpress.com/2026/10/05/the-future-of-mathematics/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 03:22",
-   "ts": 1791228160
-  },
-  {
-   "id": "a4e0da46e8952145a2a5d11a7bc1acee",
-   "title": "Beam: Reflection's 501B open-weight model",
-   "summary": "Article URL: https://reflection.ai/blog/introducing-beam\nComments URL: https://news.ycombinator.com/item?id=49969183\nPoints: 253\n# Comments: 66",
-   "link": "https://reflection.ai/blog/introducing-beam",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 03:16",
-   "ts": 1791227795
-  },
-  {
-   "id": "1c9c8e636fac53a48852387e1e5d718d",
-   "title": "Save $200 Off the 2026 MacBook Air With New Apple M5 Chip During the Amazon October Prime Day Sale",
-   "summary": "First major drop since the price hike earlier this year.",
-   "link": "https://www.ign.com/articles/2026-apple-macbook-air-laptop-deal-amazon-october-prime-day-sale-2026",
-   "source": "IGN",
-   "channel": "游戏",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 03:10",
-   "ts": 1791227400
-  },
-  {
    "id": "2139e669051d351e0d71de318513c902",
    "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
    "summary": "Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"ca",
@@ -1521,45 +1586,6 @@
    "urgent": false,
    "fetched_at": "10-06 02:41",
    "ts": 1791225686
-  },
-  {
-   "id": "7228c838bdfb3c2783805555f92af421",
-   "title": "苹果 watchOS 27.2 开发者预览版 Beta 3 发布",
-   "summary": "【点此直达升级教程】  IT之家 10 月 6 日消息，苹果今日向 Apple Watch 用户推送了 watchOS 27.2 开发者预览版 Beta 3 更新（内部版本号：24S5101f），本次更新距离上次发布 Beta/RC 间隔 14 天。    如何升级 iOS / iPadOS / watchOS / m",
-   "link": "https://www.ithome.com/1/009/908.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "教程",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-06 02:38",
-   "ts": 1791225495
-  },
-  {
-   "id": "549dc06cc0c5b3b4bff313f5ea72cc88",
-   "title": "苹果 visionOS 27.2 开发者预览版 Beta 3 发布",
-   "summary": "IT之家 10 月 6 日消息，苹果今日向 Vision Pro 用户推送了 visionOS 27.2 开发者预览版 Beta 3 更新（内部版本号：24N5103f），本次更新距离上次发布 Beta/RC 间隔 14 天。    需要注意的是，因苹果各区域节点服务器配置缓存问题，可能有些地方探测到升级更新的时间略有",
-   "link": "https://www.ithome.com/1/009/907.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-06 02:38",
-   "ts": 1791225495
-  },
-  {
-   "id": "47202a94179bbb107dc737d22a3f2617",
-   "title": "苹果 iOS / iPadOS 27.2 开发者预览版 Beta 3 发布",
-   "summary": "【点此直达升级教程】IT之家 10 月 6 日消息，苹果今日向 iPhone 和 iPad 用户推送了 iOS / iPadOS 27.2 开发者预览版 Beta 3 更新（内部版本号：24B5099f），本次更新距离上次发布 Beta / RC 间隔 14 天。 IT之家附上官方更新日志，苹果公司并未介绍新版本带来的",
-   "link": "https://www.ithome.com/1/009/905.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "教程",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-06 02:38",
-   "ts": 1791225494
   },
   {
    "id": "f04f3ad73c451b132b2678c840e7fba7",
@@ -2186,19 +2212,6 @@
    "ts": 1791210075
   },
   {
-   "id": "26c52597f8502f5a94ad22cdefbe6ee3",
-   "title": "Hyundai’s electric hatch goes on sale with up to 308 miles of range, starting at about $25,000",
-   "summary": "The IONIQ 3 has received more interest than any Hyundai vehicle in the UK ever. Starting at about $25,000, Hyundai’s electric hatch undercuts much of the compet",
-   "link": "https://electrek.co/2026/10/05/hyundai-ioniq-3-offers-308-miles-range-starts-at-25000/",
-   "source": "Electrek",
-   "channel": "汽车",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 22:14",
-   "ts": 1791209664
-  },
-  {
    "id": "16e755417522960453060867e56e2cce",
    "title": "Python 3.15 Gets a Surprise RC3 and Other Python News for October 2026",
    "summary": "Python 3.15 gets a surprise RC3, the first Packaging Council is elected, Polars 2.0 and SQLAlchemy 2.1 arrive, and AI APIs break Python code again.",
@@ -2522,19 +2535,6 @@
    "urgent": false,
    "fetched_at": "10-05 18:00",
    "ts": 1791194411
-  },
-  {
-   "id": "9316d3514042d3e4f9f95f77ada48fdc",
-   "title": "Oppo F35 Pro hands-on",
-   "summary": "The Oppo F35 series launched in India in two flavors - F35 Pro and a non-Pro F35. We had the chance to play around with the Pro version, which is a feature-pack",
-   "link": "https://www.gsmarena.com/oppo_f35_pro_handson-news-74896.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 17:39",
-   "ts": 1791193142
   },
   {
    "id": "ae6dfd268fbc151cb0f8a38a1e0ea704",
