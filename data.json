@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06 09:06",
+ "updated_at": "2026-10-06 09:37",
  "total": 258,
  "channels": [
   "AI·科技",
@@ -15,6 +15,84 @@
  ],
  "items": [
   {
+   "id": "43e7e154603c97d20ac5b8bb1d6f8279",
+   "title": "GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道",
+   "summary": "IT之家 10 月 6 日消息，据《科创板日报》报道，亚马逊云科技（AWS）旗下大模型服务平台 Amazon Bedrock 今日接入智谱 GLM-5.3，AWS 基于模型调用量与智谱进行收入分成。报道称，除了 AWS 外，智谱近期与多家海外云厂商落地收入分成模式。此前智谱透露计划通过海外云平台收入分成增加一条具有规模",
+   "link": "https://www.ithome.com/1/009/946.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 09:34",
+   "ts": 1791250459
+  },
+  {
+   "id": "c9284f9b7c627b8b08fc1695864fb4d2",
+   "title": "挪威政府拟在部分敏感区域实施人工智能眼镜临时禁令",
+   "summary": "IT之家 10 月 6 日消息，挪威政府当地时间本月 5 日表示，计划尽快向议会提交临时禁止在部分敏感区域使用人工智能眼镜的草案，并为后续永久性立法设立专家咨询机构。这里的“敏感区域”可能包括公园、海滩、博物馆、购物中心、学校、幼儿园、游乐场、课外活动中心、医疗机构、设有更衣淋浴设施的健身场所。挪威政府还将评估该禁令的",
+   "link": "https://www.ithome.com/1/009/945.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 09:24",
+   "ts": 1791249898
+  },
+  {
+   "id": "e795889befd970adc55bfc2ef8228dd0",
+   "title": "我国海水淡化日处理能力突破 300 万吨",
+   "summary": "IT之家 10 月 6 日消息，据央视新闻今日报道，自然资源部数据显示，截至目前，我国海水淡化总规模已达到每日 307.7 万吨。目前，全国已建海水淡化工程总规模为 307.7 万吨 / 日，据不完全统计，拟建和在建总规模超过 100 万吨 / 日。IT之家注意到，今年 7 月，国家发展改革委、自然资源部、水利部联合发",
+   "link": "https://www.ithome.com/1/009/944.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 09:21",
+   "ts": 1791249668
+  },
+  {
+   "id": "1ecbea1d560cb1b13f8098483399a19a",
+   "title": "苹果开放 iPhone Duo 适配应用提交，明年 4 月起上架需提供折叠设备截图",
+   "summary": "IT之家 10 月 6 日消息，iPhone Duo 即将正式发售，苹果现已开放开发者提交入口，开发者可使用 Xcode 27.1 打包适配这款机型的应用与游戏。过去几周，苹果陆续推送了 Xcode 27.1 测试版，支持开发者为 iPhone Duo 开发、调试应用。今日苹果放出 Xcode 27.1 首个候选版本（",
+   "link": "https://www.ithome.com/1/009/942.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 09:18",
+   "ts": 1791249492
+  },
+  {
+   "id": "1e3208e9c76d2c20d3a7e328b7d1bf25",
+   "title": "我国应用下一代通信关键技术空心光纤，AI 算力时代给光信号造出“磁悬浮”高速轨道",
+   "summary": "IT之家 10 月 6 日消息，@央视新闻 昨日（10 月 5 日）发布微博，我国下一代通信关键技术“空心光纤”已率先在宁夏中卫的智算中心间投入商用，传输时延与损耗直降 30% 以上，在 AI 算力时代给光信号造出一条“磁悬浮”高速轨道。该光纤直径不足 0.4 毫米，内部嵌入 20 根微型玻璃圆柱，可为光信号提供低损耗",
+   "link": "https://www.ithome.com/1/009/941.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 09:16",
+   "ts": 1791249412
+  },
+  {
+   "id": "51830c497ebf376a7ee19b52635a6ede",
+   "title": "Saquon Barkley injury update: Eagles star considered week-to-week, per report",
+   "summary": "The star running back seems to have avoided a long-term injury",
+   "link": "https://www.cbssports.com/nfl/news/saquon-barkley-hamstring-injury-eagles-week-4-rams/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 09:12",
+   "ts": 1791249136
+  },
+  {
    "id": "6be22b2132ba9a46e13e3c9a769db399",
    "title": "欧盟推行数字主权遇阻，微软 Teams 替代方案被某官员吐槽“绝对垃圾”",
    "summary": "IT之家 10 月 6 日消息，Politico Europe 于 9 月 30 日发布博文，在倡导数字主权并减少对美国技术依赖的背景下，欧盟委员会正推动 Element Pro 来替代微软 Teams，不过初期反馈偏向负面，部分欧洲官员直言 Element Pro 为“绝对垃圾”。报道指出欧盟委员会计划 2026 年",
@@ -28,9 +106,9 @@
    "ts": 1791248561
   },
   {
-   "id": "c7410d67067066555bb47b2cc17d9b62",
-   "title": "高通澄清：与华为专利交叉授权协议“涉及逻辑折叠”并不准确",
-   "summary": "IT之家 10 月 6 日消息，根据 Creative Strategies 分析师 Max Weinbach 从高通处获得的声明，一位高通发言人表示，部分媒体宣称高通与华为近日达成的专利交叉授权协议“涉及逻辑折叠”的报道并不准确。高通发言人在声明中还提到，将该企业描述为许可协议净支付方的报道是不正确的。参考译文见下：",
+   "id": "bbddfdf21f13ddd091190cf04ae4906b",
+   "title": "高通澄清：与华为专利交叉授权协议“涉及逻辑折叠”不准确、“高通为净支付方”不正确",
+   "summary": "IT之家 10 月 6 日消息，根据 Creative Strategies 分析师 Max Weinbach 从高通处获得的声明，一位高通发言人表示，部分媒体宣称高通与华为近日达成的专利交叉授权协议“涉及逻辑折叠”的报道并不准确 (not accurate)。高通发言人在声明中还提到，将该企业描述为许可协议净支付方的",
    "link": "https://www.ithome.com/1/009/938.htm",
    "source": "IT之家",
    "channel": "AI·科技",
@@ -78,19 +156,6 @@
    "urgent": false,
    "fetched_at": "10-06 08:57",
    "ts": 1791248237
-  },
-  {
-   "id": "51830c497ebf376a7ee19b52635a6ede",
-   "title": "Saquon Barkley injury update: Eagles star considered week-to-week, per report",
-   "summary": "The star running back seems to have avoided a long-term injury",
-   "link": "https://www.cbssports.com/nfl/news/saquon-barkley-hamstring-injury-eagles-week-4-rams/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 08:55",
-   "ts": 1791248108
   },
   {
    "id": "5598bac36273efe3e6fa06ce49b047ea",
@@ -197,19 +262,6 @@
    "ts": 1791246799
   },
   {
-   "id": "850c825f7f9b319f5e2a511c23e5f2c9",
-   "title": "苹果 macOS 27 优化支持第三方显示器，可同时开启 HDR 与 2560×1440 分辨率",
-   "summary": "IT之家 10 月 6 日消息，科技媒体 9to5Mac 昨日（10 月 5 日）发布博文，报道称在 macOS 27 Golden Gate 系统中，苹果修复了在连接第三方 HDR 显示器之后，系统无法在 2560×1440 分辨率下启用 HDR 的问题。IT之家注：HDR 是指高动态范围（High Dynamic ",
-   "link": "https://www.ithome.com/1/009/931.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 08:26",
-   "ts": 1791246362
-  },
-  {
    "id": "5393d06dd8300ac2fc460ab6a24d6d31",
    "title": "MLB playoff winners and losers: White Sox one win from ALCS thanks to a trade from two years ago",
    "summary": "The White Sox are now 4-0 this postseason, and they've pushed the Guardians to the brink of elimination",
@@ -223,32 +275,6 @@
    "ts": 1791246094
   },
   {
-   "id": "bce2c72267cf9ecc10ce1c95920317a9",
-   "title": "育碧 CEO：《看门狗》仍是重要 IP，但暂无新作在开发",
-   "summary": "IT之家 10 月 6 日消息，短期内不要指望育碧会推出新款《看门狗》游戏。据游戏媒体 Game File 报道，有投资者向育碧首席执行官伊夫 · 吉勒莫特（Yves Guillemot）询问《看门狗》IP 的后续发展。这位首席执行官表示，育碧认为该 IP“是面向未来的重要品牌”，但并没有进一步说明具体规划。Game ",
-   "link": "https://www.ithome.com/1/009/930.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 08:13",
-   "ts": 1791245608
-  },
-  {
-   "id": "79f4351236d208333c1172174ac48dbf",
-   "title": "时隔 3 年多，苹果向 2 米 MagSafe 3 连接线推送 3.2.0 新固件",
-   "summary": "IT之家 10 月 6 日消息，科技媒体 MacRumors 昨日（10 月 5 日）发布博文，报道称苹果面向 USB-C 转 MagSafe 3 连接线（2 米），推送 3.2.0 版本固件，系自 2023 年 2 月以来首次对该线缆推送固件。IT之家附上官方对这款充电线（点此前往苹果官网选购）的介绍：这款 2 米长",
-   "link": "https://www.ithome.com/1/009/929.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 08:13",
-   "ts": 1791245594
-  },
-  {
    "id": "47d407491dfc7a61dcdefb0cd85a69f6",
    "title": "Trump Says He’ll Pay for ‘Patriotic Ads’ Himself Following Controversy Around Taxpayer-Funded TV Spots",
    "summary": "After controversy erupted over Donald Trump&#8217;s administration buying TV ad time (with taxpayer dollars) to air advertisements endorsing the president, Trum",
@@ -260,32 +286,6 @@
    "urgent": false,
    "fetched_at": "10-06 08:04",
    "ts": 1791245096
-  },
-  {
-   "id": "f2783ad41b11dee02ad65ca13aa41e76",
-   "title": "苹果在 Safari 中测试代码，追踪谷歌推广 Chrome 的行为",
-   "summary": "IT之家 10 月 6 日消息，苹果或许正准备追踪谷歌在用户使用 Safari 浏览器浏览网页时向用户推广 Chrome 或者谷歌应用的行为，同时记录用户对这类推广内容的反应。据 9to5Mac 报道，自 iOS 27.2 第二个测试版起，苹果已经开始在 Safari 当中测试一段代码。该代码可以识别谷歌是否在搜索页面",
-   "link": "https://www.ithome.com/1/009/927.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 08:02",
-   "ts": 1791244957
-  },
-  {
-   "id": "b7403274db416dd084968a4eb6dc601d",
-   "title": "苹果上调 iCloud 自定义电子邮件域名配额，个性化电子邮件地址数量从 3 个增加到 10 个",
-   "summary": "IT之家 10 月 6 日消息，科技媒体 MacRumors 昨日（10 月 5 日）发布博文，根据社区用户反馈，苹果悄然调整 iCloud 邮件（iCloud Mail）别名数量上限，从 3 个涨到 9 个，增幅 200%。IT之家注：iCloud 邮件别名（iCloud Mail Alias）支持用户基于单一 iC",
-   "link": "https://www.ithome.com/1/009/926.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 08:02",
-   "ts": 1791244922
   },
   {
    "id": "e7ced2f03fd334c818f88ef2e59b35de",
@@ -303,7 +303,7 @@
   {
    "id": "b31a2e51417da6819b1e26e2b2b580d1",
    "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 15\n# Comments: 5",
+   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 22\n# Comments: 12",
    "link": "https://edworkingpapers.com/ai26-1551",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -355,7 +355,7 @@
   {
    "id": "1de8f2d7f0abd7c338333f68dd283af7",
    "title": "Samon: Designing a Zen Garden Raking Puzzle",
-   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 8\n# Comments: 1",
+   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 11\n# Comments: 1",
    "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -524,7 +524,7 @@
   {
    "id": "0deeb402ed9d8059d7f5621ae248ba51",
    "title": "Ephemeral Testing",
-   "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 23\n# Comments: 3",
+   "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 28\n# Comments: 5",
    "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -576,7 +576,7 @@
   {
    "id": "2368a8eed5c8f6baa0fcadbde069cb21",
    "title": "Worth Building",
-   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 29\n# Comments: 16",
+   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 32\n# Comments: 22",
    "link": "https://armstr.ng/writing/worth-building",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -602,7 +602,7 @@
   {
    "id": "9a599dc855536688121514bf3da41ee6",
    "title": "Example.com Just Launched the Biggest Redesign in Decades",
-   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 58\n# Comments: ",
+   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 74\n# Comments: ",
    "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -732,7 +732,7 @@
   {
    "id": "a2761a73b2e3f39b07bda986fe995f67",
    "title": "Global Solar Atlas: summary of solar power potential globally",
-   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 8\n# Comments: 7",
+   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 10\n# Comments: 7",
    "link": "https://globalsolaratlas.info/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -758,7 +758,7 @@
   {
    "id": "3c66b6ae885a384eb8f30be85aa7b5fb",
    "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
-   "summary": "Article URL: https://almostimplemented.github.io/jazz-pianist-style/\nComments URL: https://news.ycombinator.com/item?id=49971726\nPoints: 9\n# Comments: 1",
+   "summary": "Article URL: https://almostimplemented.github.io/jazz-pianist-style/\nComments URL: https://news.ycombinator.com/item?id=49971726\nPoints: 13\n# Comments: 1",
    "link": "https://almostimplemented.github.io/jazz-pianist-style/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -784,7 +784,7 @@
   {
    "id": "147dbac58dfd86cb10c7c0448d20440b",
    "title": "Friendship ended with Deno, now Node is my best friend",
-   "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/\nComments URL: https://news.ycombinator.com/item?id=49971719\nPoints: 36\n# Comments: 4",
+   "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/\nComments URL: https://news.ycombinator.com/item?id=49971719\nPoints: 46\n# Comments: 6",
    "link": "https://dbushell.com/2026/10/03/deno-to-node/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -823,7 +823,7 @@
   {
    "id": "faf77ea10960cd55a0837d15466ebf3b",
    "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
-   "summary": "Article URL: https://nivdayan.github.io/dostoevsky.pdf\nComments URL: https://news.ycombinator.com/item?id=49971678\nPoints: 10\n# Comments: 0",
+   "summary": "Article URL: https://nivdayan.github.io/dostoevsky.pdf\nComments URL: https://news.ycombinator.com/item?id=49971678\nPoints: 15\n# Comments: 0",
    "link": "https://nivdayan.github.io/dostoevsky.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1005,7 +1005,7 @@
   {
    "id": "e88b8b5c62879e9d6e67740fbae01f68",
    "title": "Find the flattest route between any two points in SF",
-   "summary": "Article URL: https://flattensf.com/\nComments URL: https://news.ycombinator.com/item?id=49971230\nPoints: 96\n# Comments: 29",
+   "summary": "Article URL: https://flattensf.com/\nComments URL: https://news.ycombinator.com/item?id=49971230\nPoints: 105\n# Comments: 30",
    "link": "https://flattensf.com/",
    "source": "Hacker News",
    "channel": "AI·科技",
