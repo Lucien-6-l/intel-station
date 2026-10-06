@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06 11:40",
+ "updated_at": "2026-10-06 12:05",
  "total": 258,
  "channels": [
   "AI·科技",
@@ -14,6 +14,58 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "6a9d848095d7afb6f3d0701684934d43",
+   "title": "Jon Stewart’s ‘Daily Show’ Skips David Ellison-Skydance News to Take on AI",
+   "summary": "On Sunday night, John Oliver dedicated the majority of his Emmy-winning show “Last Week Tonight” to the Secret Service’s failings in recent years while declinin",
+   "link": "https://variety.com/2026/tv/news/jon-stewart-daily-show-skydance-david-ellison-ai-1236899825/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 11:59",
+   "ts": 1791259156
+  },
+  {
+   "id": "a8321e2a7bb61ccdbfe3472b3b3ac0c9",
+   "title": "‘Artificial’ Review: Luca Gaudagnino Has Made the Real Sequel to ‘The Social Network’ — a Brain-Spinning Tech-Geek Docudrama, Brilliantly Acted by Andrew Garfield and Yura Borisov",
+   "summary": "\"Artificial\" is a brilliant but playful docudrama, meticulously true to history, that focuses on the founders of OpenAI, notably its CEO Sam Altman (Andrew Garf",
+   "link": "https://variety.com/2026/film/reviews/artificial-review-andrew-garfield-luca-gaudagnino-1236898663/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 11:41",
+   "ts": 1791258101
+  },
+  {
+   "id": "558cd5bc74ade3aadbdcc26c948645f5",
+   "title": "微软安卓版 Microsoft Authenticator 应用备份 2027 年改用 Google One",
+   "summary": "IT之家 10 月 6 日消息，科技媒体 NeoWin 昨日（10 月 5 日）发布博文，报道称微软宣布将于 2027 年 7 月 1 日开始，调整安卓版 Microsoft Authenticator 应用备份机制，改由 Google One 提供备份入口。Microsoft Authenticator 是微软推出的",
+   "link": "https://www.ithome.com/1/009/972.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 11:40",
+   "ts": 1791258041
+  },
+  {
+   "id": "57265351292366df14f6cbc5c5733fc0",
+   "title": "ChatGPT users, your AI-written text will soon carry a hidden watermark",
+   "summary": "The days of using ChatGPT to write your assignments and reports may be coming to an end.",
+   "link": "https://www.androidauthority.com/chatgpt-text-watermarking-3719403/",
+   "source": "Android Authority",
+   "channel": "数码",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 11:38",
+   "ts": 1791257929
+  },
   {
    "id": "ae2e5d098df7f4d97ef2ab090e01c6c2",
    "title": "消息称月之暗面完成上市前最后一轮融资：估值约 500 亿美元，计划明年一季度赴港 IPO",
@@ -262,19 +314,6 @@
    "ts": 1791253087
   },
   {
-   "id": "3a1c8dad50e3d197a3a69016f208e26b",
-   "title": "防止 AI 胡编乱造：微软 Word Copilot 新增引用功能，可溯源查证",
-   "summary": "IT之家 10 月 6 日消息，科技媒体 Windows Central 昨日（10 月 5 日）发布博文，报道称在 Word 文档处理应用中，微软优化 Copilot AI 体验，新增引用功能，帮助用户溯源遏制 AI 幻觉。信息引用方面，Copilot 回复现在会附带来源链接，用户可直接点击跳转至原始网页或内部文档，",
-   "link": "https://www.ithome.com/1/009/958.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 10:12",
-   "ts": 1791252720
-  },
-  {
    "id": "e3a2c278562f75af14b503eb5858b1a1",
    "title": "Luca Guadagnino’s ‘Artificial’: First Reactions",
    "summary": "The biopic about OpenAI's Sam Altman, starring Andrew Garfield, Yura Borisov and Monica Barbaro, hits theaters on Dec. 25.",
@@ -351,6 +390,19 @@
    "urgent": false,
    "fetched_at": "10-06 09:37",
    "ts": 1791250673
+  },
+  {
+   "id": "7a405998252ab6a3cec6d3ae37d9d5d1",
+   "title": "番外篇03：人生不是刷题上班，游戏到底是浪费时间，还是人生解药feat.非正常营业",
+   "summary": "【进听友群+v Recallmikey】始于游戏，归于生活。欢迎收听《游戏开始｜Game Start》番外篇非常荣幸，我们的常驻主持人Even作为嘉宾，参与了【非正常营业】的线下节目录制，一起畅谈了游戏人生。对友台【非正常营业】感兴趣的伙伴，也欢迎订阅这档播客节目~从小到大，我们总被一句话规训：玩游戏=浪费时间、不务正",
+   "link": "https://www.gcores.com/radios/220537",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-06 09:36",
+   "ts": 1791250614
   },
   {
    "id": "51830c497ebf376a7ee19b52635a6ede",
@@ -433,7 +485,7 @@
   {
    "id": "ffeb069596cc1312ca33a86164273111",
    "title": "Photopea creator weighs in on Photosuite project",
-   "summary": "Article URL: https://github.com/eolix/photosuite/issues/77\nComments URL: https://news.ycombinator.com/item?id=49972730\nPoints: 31\n# Comments: 15",
+   "summary": "Article URL: https://github.com/eolix/photosuite/issues/77\nComments URL: https://news.ycombinator.com/item?id=49972730\nPoints: 49\n# Comments: 23",
    "link": "https://github.com/eolix/photosuite/issues/77",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -498,7 +550,7 @@
   {
    "id": "b31a2e51417da6819b1e26e2b2b580d1",
    "title": "AI tutoring with Khanmigo in a two-year school experiment",
-   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 44\n# Comments: 30",
+   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 48\n# Comments: 35",
    "link": "https://edworkingpapers.com/ai26-1551",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -550,7 +602,7 @@
   {
    "id": "1de8f2d7f0abd7c338333f68dd283af7",
    "title": "Samon: Designing a Zen Garden Raking Puzzle",
-   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 26\n# Comments: 7",
+   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 27\n# Comments: 8",
    "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -769,19 +821,6 @@
    "ts": 1791241282
   },
   {
-   "id": "2368a8eed5c8f6baa0fcadbde069cb21",
-   "title": "Worth Building",
-   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 48\n# Comments: 38",
-   "link": "https://armstr.ng/writing/worth-building",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:59",
-   "ts": 1791241164
-  },
-  {
    "id": "7ff580fd1a613307c9178e84efbb23bd",
    "title": "This tool frees up Apple Intelligence storage on macOS, but think twice before using it",
    "summary": "A new open-source tool is going viral over its promise to let users who aren’t interested in Apple Intelligence reclaim 12GB or more of storage on their Macs. H",
@@ -797,7 +836,7 @@
   {
    "id": "9a599dc855536688121514bf3da41ee6",
    "title": "Example.com just launched the biggest redesign in decades",
-   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 112\n# Comments:",
+   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 119\n# Comments:",
    "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -860,22 +899,9 @@
    "ts": 1791239999
   },
   {
-   "id": "b06276e3780e178e1ee01a658207f9d2",
-   "title": "‘The Voice’ Season 30 Premiere Hits 7.8 Million Viewers in Seven Days (EXCLUSIVE)",
-   "summary": "The Season 30 premiere of &#8220;The Voice&#8221; hit 7.8 million viewers in its first seven days of availability. That total comes from a combination of Nielse",
-   "link": "https://variety.com/2026/tv/news/the-voice-season-30-premiere-ratings-1236899438/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:39",
-   "ts": 1791239940
-  },
-  {
    "id": "a2761a73b2e3f39b07bda986fe995f67",
    "title": "Global Solar Atlas: summary of solar power potential globally",
-   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 18\n# Comments: 13",
+   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 25\n# Comments: 16",
    "link": "https://globalsolaratlas.info/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -888,7 +914,7 @@
   {
    "id": "3c66b6ae885a384eb8f30be85aa7b5fb",
    "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
-   "summary": "Article URL: https://almostimplemented.github.io/jazz-pianist-style/\nComments URL: https://news.ycombinator.com/item?id=49971726\nPoints: 30\n# Comments: 4",
+   "summary": "Article URL: https://almostimplemented.github.io/jazz-pianist-style/\nComments URL: https://news.ycombinator.com/item?id=49971726\nPoints: 33\n# Comments: 4",
    "link": "https://almostimplemented.github.io/jazz-pianist-style/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -914,7 +940,7 @@
   {
    "id": "147dbac58dfd86cb10c7c0448d20440b",
    "title": "Friendship ended with Deno, now Node is my best friend",
-   "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/\nComments URL: https://news.ycombinator.com/item?id=49971719\nPoints: 86\n# Comments: 26",
+   "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/\nComments URL: https://news.ycombinator.com/item?id=49971719\nPoints: 92\n# Comments: 35",
    "link": "https://dbushell.com/2026/10/03/deno-to-node/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -940,7 +966,7 @@
   {
    "id": "faf77ea10960cd55a0837d15466ebf3b",
    "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
-   "summary": "Article URL: https://nivdayan.github.io/dostoevsky.pdf\nComments URL: https://news.ycombinator.com/item?id=49971678\nPoints: 23\n# Comments: 0",
+   "summary": "Article URL: https://nivdayan.github.io/dostoevsky.pdf\nComments URL: https://news.ycombinator.com/item?id=49971678\nPoints: 24\n# Comments: 0",
    "link": "https://nivdayan.github.io/dostoevsky.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -977,6 +1003,19 @@
    "ts": 1791238250
   },
   {
+   "id": "c3373e5b55b11df4a0331ca0e4b439bc",
+   "title": "Texas city demands $2M for public records on Flock usage",
+   "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/\nComments URL: https://news.ycombinator.com/ite",
+   "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 06:05",
+   "ts": 1791237957
+  },
+  {
    "id": "a58aa1dc5d50a8609df348f30d6c8a57",
    "title": "Miami Vice: The Final Director’s Cut’s Ending Invites a Darker Reading of Michael Mann’s Cult Classic",
    "summary": "Miami Vice: The Director’s Final Cut’s rejiggered ending invites a slightly darker interpretation of the film than was evident in either of the past versions, e",
@@ -988,19 +1027,6 @@
    "urgent": false,
    "fetched_at": "10-06 06:04",
    "ts": 1791237869
-  },
-  {
-   "id": "2edbf1d99e50f3250a798bc978e82ead",
-   "title": "Prime Video Debuts First Look at ‘Bloodaxe’ Series From ‘Vikings’ Creator (TV News Roundup)",
-   "summary": "Prime Video debuted first look images for “Bloodaxe,” a new original series from “Vikings” creator Michael Hirst and Horatio Hirst. “Bloodaxe” Season 1 follows ",
-   "link": "https://variety.com/2026/tv/news/tv-news-roundup-week-of-october-5-1236899406/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:00",
-   "ts": 1791237612
   },
   {
    "id": "cc0b99ec3dd80a8fbcf617d61d42f1e6",
@@ -2121,19 +2147,6 @@
    "ts": 1791212400
   },
   {
-   "id": "51cc08e913ef5f4ae4b83372c6544587",
-   "title": "Sony ULT WEAR deal knocks $117 off these bass-heavy headphones",
-   "summary": "Save 47% on Sony ULT WEAR headphones at Amazon, with bass boost, noise canceling, and multipoint Bluetooth.",
-   "link": "https://www.androidauthority.com/sony-ult-wear-deal-3717633/",
-   "source": "Android Authority",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 22:56",
-   "ts": 1791212197
-  },
-  {
    "id": "700190b6c39055937a3995a06fcadd6f",
    "title": "科学家识别出三种叫声最响亮的鸟",
    "summary": "生物学家在巴西识别出三种叫声最响亮的鸟。至于这些鸟如何演化出最响亮的叫声则仍然是个迷。白钟雀（white bellbird）叫声能达到 125 分贝，裸喉钟雀（bare-throated bellbird）和红腿叫鹤（red-legged seriema）叫声都超过 120 分贝。三种鸟类有着共同的生理特征：即宽大的喙",
@@ -2262,6 +2275,32 @@
    "urgent": false,
    "fetched_at": "10-05 21:55",
    "ts": 1791208541
+  },
+  {
+   "id": "d9d1d11110f118d2d061e35edfc049e0",
+   "title": "她在时间之外，他在坟圈子之内 再荐茶社42",
+   "summary": "🐧👉《再荐茶社》更新通知QQ群：1055561149感谢大家一直以来的赞赏、订阅和支持，欢迎朋友们在评论中和我们一起分享游戏体验！- - - - - - - -03:38近期新闻雏选贝塞斯达接管黑曜石《逆转裁判5 VR》野间崇史GSC新作XBOX“神话成就”《绝地求生：黑域撤离》终止开发steam秋促22:39近期新游",
+   "link": "https://www.gcores.com/radios/220536",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-05 21:50",
+   "ts": 1791208204
+  },
+  {
+   "id": "589674a4d25ee4389e74803615d9d827",
+   "title": "她在时间之外，他在坟圈子之内 再荐茶社42",
+   "summary": "🐧👉《再荐茶社》更新通知QQ群：1055561149感谢大家一直以来的赞赏、订阅和支持，欢迎朋友们在评论中和我们一起分享游戏体验！- - - - - - - -03:38近期新闻雏选贝塞斯达接管黑曜石《逆转裁判5 VR》野间崇史GSC新作XBOX“神话成就”《绝地求生：黑域撤离》终止开发steam秋促22:39近期新游",
+   "link": "https://www.gcores.com/radios/220535",
+   "source": "机核网",
+   "channel": "游戏",
+   "category": "资讯",
+   "weight": 3,
+   "urgent": false,
+   "fetched_at": "10-05 21:50",
+   "ts": 1791208204
   },
   {
    "id": "0b113aa7edd3793d244aa868fcf9c342",
@@ -2574,45 +2613,6 @@
    "urgent": false,
    "fetched_at": "10-05 16:19",
    "ts": 1791188356
-  },
-  {
-   "id": "f00a225f9533e8e4cfd8af016247d7b0",
-   "title": "刚刚，Hinton发了首篇RSI论文",
-   "summary": "AI已经开始真正进入「造下一代AI」的流水线",
-   "link": "https://www.qbitai.com/2026/10/501705.html",
-   "source": "量子位",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-05 12:42",
-   "ts": 1791175372
-  },
-  {
-   "id": "2ba035e48aa5881aa952c1a6330f9883",
-   "title": "十个案例助你轻松上手 iOS 27 通知自动化",
-   "summary": "iOS 27 通知自动化改变了通知的处理方式，快捷指令也迎来了不少的新玩法。查看全文",
-   "link": "https://sspai.com/post/114536",
-   "source": "少数派",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 10:59",
-   "ts": 1791169164
-  },
-  {
-   "id": "5566a8ccad2390f8144cb2c1bbf6d2d8",
-   "title": "限时28天！OpenAI承诺没新功能就重置，网友：只想要Opus",
-   "summary": "有改进就体验，没改进就重置，横竖不亏。",
-   "link": "https://www.qbitai.com/2026/10/501700.html",
-   "source": "量子位",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 3,
-   "urgent": false,
-   "fetched_at": "10-05 10:50",
-   "ts": 1791168646
   }
  ]
 }
