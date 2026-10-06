@@ -1,5 +1,5 @@
 {
- "updated_at": "2026-10-06 10:03",
+ "updated_at": "2026-10-06 10:39",
  "total": 258,
  "channels": [
   "AI·科技",
@@ -14,6 +14,123 @@
   "财经"
  ],
  "items": [
+  {
+   "id": "3adc233a3ca825acbdb9a3102f84a3ff",
+   "title": "华硕推出 XG32UQDS 显示器：31.5\" UHD 180Hz QD-OLED 面板",
+   "summary": "IT之家 10 月 6 日消息，华硕 (ASUS) 近日推出了显示器新品 ROG Strix OLED XG32UQDS。这一型号基于 32\"(31.5\") 的 UHD (3840×2160) 180Hz QD-OLED 面板，覆盖 BlackShield 低反抗刮镀膜。XG32UQDS 采用了相对平价的 QD-OLE",
+   "link": "https://www.ithome.com/1/009/963.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 10:38",
+   "ts": 1791254303
+  },
+  {
+   "id": "88b71f046173773362cc606e4b5d13ff",
+   "title": "微软 Win11 逐步淘汰传统打印机驱动，旧设备恐面临兼容性挑战",
+   "summary": "IT之家 10 月 6 日消息，科技媒体 hardwareluxx 昨日（10 月 5 日）发布博文，报道称在 Windows 11 系统中，微软正在推进 Windows Ready Print，可能会导致部分老式 USB 打印机、以及依赖专用驱动的多功能设备出现兼容性故障。IT之家曾于今年 6 月报道，自 Windo",
+   "link": "https://www.ithome.com/1/009/962.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 10:30",
+   "ts": 1791253833
+  },
+  {
+   "id": "7bc482319806005d55c734f9be1f4af4",
+   "title": "Watch the vivo V80 announcement live here",
+   "summary": "After announcing the V80 Lite at the start of September, vivo started teasing the V80 with promises of a phone that can capture “cinematic moments”. The date wa",
+   "link": "https://www.gsmarena.com/watch_the_vivo_v80_announcement_live_here-news-74901.php",
+   "source": "GSMArena",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 10:30",
+   "ts": 1791253801
+  },
+  {
+   "id": "3af3b9abd4b68276bc08f7fa4091587d",
+   "title": "消息称 OpenAI 洽谈 300 亿美元融资，阿联酋基金、贝莱德入局磋商",
+   "summary": "IT之家 10 月 6 日消息，据彭博社报道，知情人士透露，OpenAI 正在与来自阿联酋的多家投资基金（总部位于阿布扎比的 MGX 也在其中）展开磋商，希望由这些基金作为基石投资方，助力这家 ChatGPT 开发商完成一轮规模 300 亿美元（IT之家注：现汇率约合 2,014.34 亿元人民币）的融资。其中一位知情",
+   "link": "https://www.ithome.com/1/009/961.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 10:29",
+   "ts": 1791253746
+  },
+  {
+   "id": "278b6dd4ea2af54ea961fc25ab32ae47",
+   "title": "Groq 遭起诉：被控与英伟达 200 亿美元“类收购”交易牺牲少数股东权益",
+   "summary": "IT之家 10 月 6 日消息，综合 CNBC 与《金融时报》报道，Groq 当地时间本周二被告上美国特拉华州衡平法院，被指控在与 NVIDIA（英伟达）的“类收购”非独家授权交易中牺牲了少数股东的权益。原告 Joshua Rubin 和 Benjamin Serebrin 曾是 Groq 的员工，但在与 NVIDIA",
+   "link": "https://www.ithome.com/1/009/960.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 10:18",
+   "ts": 1791253087
+  },
+  {
+   "id": "3a1c8dad50e3d197a3a69016f208e26b",
+   "title": "防止 AI 胡编乱造：微软 Word Copilot 新增引用功能，可溯源查证",
+   "summary": "IT之家 10 月 6 日消息，科技媒体 Windows Central 昨日（10 月 5 日）发布博文，报道称在 Word 文档处理应用中，微软优化 Copilot AI 体验，新增引用功能，帮助用户溯源遏制 AI 幻觉。信息引用方面，Copilot 回复现在会附带来源链接，用户可直接点击跳转至原始网页或内部文档，",
+   "link": "https://www.ithome.com/1/009/958.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 10:12",
+   "ts": 1791252720
+  },
+  {
+   "id": "e3a2c278562f75af14b503eb5858b1a1",
+   "title": "Luca Guadagnino’s ‘Artificial’: First Reactions",
+   "summary": "The biopic about OpenAI's Sam Altman, starring Andrew Garfield, Yura Borisov and Monica Barbaro, hits theaters on Dec. 25.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/luca-guadagnino-sam-altman-artificial-first-reactions-1236723007/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 10:11",
+   "ts": 1791252717
+  },
+  {
+   "id": "7f5e3d9aaa4028f4be4b71282f5a1097",
+   "title": "余承东详解华为手机“拼好网”：高铁视频通话卡顿减少 90%，Mate 90 系列首发",
+   "summary": "IT之家 10 月 6 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，详细介绍了华为 Mate 90 系列首发的多设备互助通信共享功能。余承东以水资源分配为例，只需要碰一碰，就能把几台华为设备的网络资源整合起来，按需分配。根据华为工程师实地测试，在京沪高铁上使用三台不同运营商网络的",
+   "link": "https://www.ithome.com/1/009/957.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 10:11",
+   "ts": 1791252700
+  },
+  {
+   "id": "c83489c3720df2ea42a968dea8dcc43e",
+   "title": "Skydance to Fully Reorganize International; Kevin MacLellan Will Not Lead Key Group",
+   "summary": "Reverberations from the historic combination of Skydance and Warner Bros. Discovery are now being felt overseas. Despite a Monday report claiming international ",
+   "link": "https://variety.com/2026/film/news/skydance-reorganize-international-kevin-maclellan-1236899732/",
+   "source": "Variety",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 10:10",
+   "ts": 1791252619
+  },
   {
    "id": "4f1b46542988e5a17e3ad22ec011bd99",
    "title": "Constellation 收获亚马逊 20 年核电长单，接近与 Alphabet 达成 10 亿美元交易",
@@ -93,6 +210,19 @@
    "ts": 1791251012
   },
   {
+   "id": "a44a6f1aa143df4551d6478c524e9c28",
+   "title": "Big Ten admits officiating error in game called by refs that worked controversial Michigan-WMU finish",
+   "summary": "Most of the same officiating crew from Saturday's Nebraska-Maryland game were at the center of Michigan's 'last-second' Hail Mary win over Western Michigan last",
+   "link": "https://www.cbssports.com/college-football/news/big-ten-officiating-error-crew-michigan-wmu-game/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 09:42",
+   "ts": 1791250951
+  },
+  {
    "id": "ecf8a4a4c2d12d4efeddd8f95f630c0b",
    "title": "微软 XBOX Elite 控制器（第三代）规格曝光：霍尔效应摇杆、VCA 触觉电机等",
    "summary": "IT之家 10 月 6 日消息，网友 u/esketitethan 今天（10 月 6 日）在 Reddit 社区发帖，反馈称通过抓取微软官方 XBOX Design Lab 后端 API 数据，发现了 XBOX Elite 控制器（第三代）的相关规格信息。IT之家发稿前访问相关链接，发现链接已经失效，不过 Windo",
@@ -104,19 +234,6 @@
    "urgent": false,
    "fetched_at": "10-06 09:40",
    "ts": 1791250846
-  },
-  {
-   "id": "ba8c3ecf8450984e9fb826808d96fd65",
-   "title": "维基媒体：OpenAI 失控 AI 智能体或引发其 5 月数据服务故障",
-   "summary": "IT之家 10 月 6 日消息，运营网络百科全书维基百科的维基媒体基金会表示，今年 5 月其数据服务出现故障，或许和来自 OpenAI 失控智能体产生的巨量访问流量有关。IT之家注意到，维基媒体于当地时间周一发布博客文章称，可以确认“我们已经在维基媒体各平台上监测到这类 OpenAI‘失控’智能体的相关活动”，其中就包",
-   "link": "https://www.ithome.com/1/009/947.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 09:38",
-   "ts": 1791250705
   },
   {
    "id": "69208bf3c93673107db5df5375c83fe8",
@@ -132,69 +249,17 @@
    "ts": 1791250687
   },
   {
-   "id": "43e7e154603c97d20ac5b8bb1d6f8279",
-   "title": "GLM-5.3 上架亚马逊 AWS 旗下大模型平台，智谱打开海外收入分成通道",
-   "summary": "IT之家 10 月 6 日消息，据《科创板日报》报道，亚马逊云科技（AWS）旗下大模型服务平台 Amazon Bedrock 今日接入智谱 GLM-5.3，AWS 基于模型调用量与智谱进行收入分成。报道称，除了 AWS 外，智谱近期与多家海外云厂商落地收入分成模式。此前智谱透露计划通过海外云平台收入分成增加一条具有规模",
-   "link": "https://www.ithome.com/1/009/946.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-06 09:34",
-   "ts": 1791250459
-  },
-  {
-   "id": "c9284f9b7c627b8b08fc1695864fb4d2",
-   "title": "挪威政府拟在部分敏感区域实施人工智能眼镜临时禁令",
-   "summary": "IT之家 10 月 6 日消息，挪威政府当地时间本月 5 日表示，计划尽快向议会提交临时禁止在部分敏感区域使用人工智能眼镜的草案，并为后续永久性立法设立专家咨询机构。这里的“敏感区域”可能包括公园、海滩、博物馆、购物中心、学校、幼儿园、游乐场、课外活动中心、医疗机构、设有更衣淋浴设施的健身场所。挪威政府还将评估该禁令的",
-   "link": "https://www.ithome.com/1/009/945.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
+   "id": "b563f74c6bba6d4b1211ef33e05b3c07",
+   "title": "Yankees commit three first-inning errors in ugly start to ALDS Game 2 vs. Rays",
+   "summary": "For the first time in team history, the Yankees committed three errors in one inning on Monday night",
+   "link": "https://www.cbssports.com/mlb/news/yankees-first-inning-errors-alds-game-2-rays/",
+   "source": "CBS Sports",
+   "channel": "体育",
    "category": "资讯",
    "weight": 2,
    "urgent": false,
-   "fetched_at": "10-06 09:24",
-   "ts": 1791249898
-  },
-  {
-   "id": "e795889befd970adc55bfc2ef8228dd0",
-   "title": "我国海水淡化日处理能力突破 300 万吨",
-   "summary": "IT之家 10 月 6 日消息，据央视新闻今日报道，自然资源部数据显示，截至目前，我国海水淡化总规模已达到每日 307.7 万吨。目前，全国已建海水淡化工程总规模为 307.7 万吨 / 日，据不完全统计，拟建和在建总规模超过 100 万吨 / 日。IT之家注意到，今年 7 月，国家发展改革委、自然资源部、水利部联合发",
-   "link": "https://www.ithome.com/1/009/944.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": true,
-   "fetched_at": "10-06 09:21",
-   "ts": 1791249668
-  },
-  {
-   "id": "1ecbea1d560cb1b13f8098483399a19a",
-   "title": "苹果开放 iPhone Duo 适配应用提交，明年 4 月起上架需提供折叠设备截图",
-   "summary": "IT之家 10 月 6 日消息，iPhone Duo 即将正式发售，苹果现已开放开发者提交入口，开发者可使用 Xcode 27.1 打包适配这款机型的应用与游戏。过去几周，苹果陆续推送了 Xcode 27.1 测试版，支持开发者为 iPhone Duo 开发、调试应用。今日苹果放出 Xcode 27.1 首个候选版本（",
-   "link": "https://www.ithome.com/1/009/942.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 09:18",
-   "ts": 1791249492
-  },
-  {
-   "id": "1e3208e9c76d2c20d3a7e328b7d1bf25",
-   "title": "我国应用下一代通信关键技术空心光纤，AI 算力时代给光信号造出“磁悬浮”高速轨道",
-   "summary": "IT之家 10 月 6 日消息，@央视新闻 昨日（10 月 5 日）发布微博，我国下一代通信关键技术“空心光纤”已率先在宁夏中卫的智算中心间投入商用，传输时延与损耗直降 30% 以上，在 AI 算力时代给光信号造出一条“磁悬浮”高速轨道。该光纤直径不足 0.4 毫米，内部嵌入 20 根微型玻璃圆柱，可为光信号提供低损耗",
-   "link": "https://www.ithome.com/1/009/941.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 09:16",
-   "ts": 1791249412
+   "fetched_at": "10-06 09:37",
+   "ts": 1791250673
   },
   {
    "id": "51830c497ebf376a7ee19b52635a6ede",
@@ -275,6 +340,19 @@
    "ts": 1791247676
   },
   {
+   "id": "ffeb069596cc1312ca33a86164273111",
+   "title": "Photopea creator weighs in on Photosuite project",
+   "summary": "Article URL: https://github.com/eolix/photosuite/issues/77\nComments URL: https://news.ycombinator.com/item?id=49972730\nPoints: 5\n# Comments: 0",
+   "link": "https://github.com/eolix/photosuite/issues/77",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:41",
+   "ts": 1791247304
+  },
+  {
    "id": "ad96deb70e936476befc78bd4ed19530",
    "title": "Casey Bloys Signs New Multiyear Deal to Continue Overseeing HBO Max and Paramount+ As He Assumes His New Role at Skydance",
    "summary": "Having just been named to the hefty position of co-chair and chief content officer for Skydance DTC — overseeing both HBO Max and Paramount+, Casey Bloys is sta",
@@ -286,6 +364,19 @@
    "urgent": false,
    "fetched_at": "10-06 08:33",
    "ts": 1791246799
+  },
+  {
+   "id": "df0064cc66b86960679196e7dd6fc397",
+   "title": "High Diesel Prices Bankrupted 16 Trucking Companies in Just 30 Days",
+   "summary": "Article URL: https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days\nComments URL: https://news.ycombinator.com/item?i",
+   "link": "https://www.thedrive.com/news/high-diesel-prices-bankrupted-16-trucking-companies-in-just-30-days",
+   "source": "Hacker News",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 08:24",
+   "ts": 1791246297
   },
   {
    "id": "5393d06dd8300ac2fc460ab6a24d6d31",
@@ -329,7 +420,7 @@
   {
    "id": "b31a2e51417da6819b1e26e2b2b580d1",
    "title": "AI Tutoring with Khanmigo in a Two-Year School Experiment",
-   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 26\n# Comments: 15",
+   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 33\n# Comments: 23",
    "link": "https://edworkingpapers.com/ai26-1551",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -381,7 +472,7 @@
   {
    "id": "1de8f2d7f0abd7c338333f68dd283af7",
    "title": "Samon: Designing a Zen Garden Raking Puzzle",
-   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 16\n# Comments: 6",
+   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 20\n# Comments: 7",
    "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -550,7 +641,7 @@
   {
    "id": "0deeb402ed9d8059d7f5621ae248ba51",
    "title": "Ephemeral Testing",
-   "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 32\n# Comments: 12",
+   "summary": "Article URL: https://lemire.me/blog/2026/10/05/ephemeral-testing/\nComments URL: https://news.ycombinator.com/item?id=49972008\nPoints: 35\n# Comments: 13",
    "link": "https://lemire.me/blog/2026/10/05/ephemeral-testing/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -602,7 +693,7 @@
   {
    "id": "2368a8eed5c8f6baa0fcadbde069cb21",
    "title": "Worth Building",
-   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 34\n# Comments: 25",
+   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 39\n# Comments: 30",
    "link": "https://armstr.ng/writing/worth-building",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -628,7 +719,7 @@
   {
    "id": "9a599dc855536688121514bf3da41ee6",
    "title": "Example.com Just Launched the Biggest Redesign in Decades",
-   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 84\n# Comments: ",
+   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 94\n# Comments: ",
    "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -704,32 +795,6 @@
    "ts": 1791240300
   },
   {
-   "id": "ce93ef1979d78ce4d0336470fd382f54",
-   "title": "Seahawks signing Joe Mixon to aid depleted RB room, per report",
-   "summary": "Mixon missed the entire 2025 season with a foot injury, but he ran over 1,000 yards and over 10 TD in 2024",
-   "link": "https://www.cbssports.com/nfl/news/seahawks-signing-veteran-rb-joe-mixon/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:40",
-   "ts": 1791240044
-  },
-  {
-   "id": "0423c68524315d460974a548b29d8bee",
-   "title": "Saints vs. Falcons odds, predictions, start time, betting preview: Monday Night Football picks, best bets",
-   "summary": "Best bets and betting preview for Falcons vs. Saints on Monday Night Football",
-   "link": "https://www.cbssports.com/betting/news/saints-vs-falcons-odds-predictions-start-time-betting-preview-monday-night-football-picks-best-bets/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:40",
-   "ts": 1791240044
-  },
-  {
    "id": "750272ad8eca880c198dab5b8aecf6a6",
    "title": "9to5Mac Daily: October 5, 2026 – macOS privacy changes, more",
    "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or t",
@@ -758,7 +823,7 @@
   {
    "id": "a2761a73b2e3f39b07bda986fe995f67",
    "title": "Global Solar Atlas: summary of solar power potential globally",
-   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 12\n# Comments: 9",
+   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 14\n# Comments: 10",
    "link": "https://globalsolaratlas.info/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -784,7 +849,7 @@
   {
    "id": "3c66b6ae885a384eb8f30be85aa7b5fb",
    "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
-   "summary": "Article URL: https://almostimplemented.github.io/jazz-pianist-style/\nComments URL: https://news.ycombinator.com/item?id=49971726\nPoints: 18\n# Comments: 1",
+   "summary": "Article URL: https://almostimplemented.github.io/jazz-pianist-style/\nComments URL: https://news.ycombinator.com/item?id=49971726\nPoints: 21\n# Comments: 2",
    "link": "https://almostimplemented.github.io/jazz-pianist-style/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -810,7 +875,7 @@
   {
    "id": "147dbac58dfd86cb10c7c0448d20440b",
    "title": "Friendship ended with Deno, now Node is my best friend",
-   "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/\nComments URL: https://news.ycombinator.com/item?id=49971719\nPoints: 58\n# Comments: 11",
+   "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/\nComments URL: https://news.ycombinator.com/item?id=49971719\nPoints: 70\n# Comments: 15",
    "link": "https://dbushell.com/2026/10/03/deno-to-node/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -849,7 +914,7 @@
   {
    "id": "faf77ea10960cd55a0837d15466ebf3b",
    "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
-   "summary": "Article URL: https://nivdayan.github.io/dostoevsky.pdf\nComments URL: https://news.ycombinator.com/item?id=49971678\nPoints: 15\n# Comments: 0",
+   "summary": "Article URL: https://nivdayan.github.io/dostoevsky.pdf\nComments URL: https://news.ycombinator.com/item?id=49971678\nPoints: 18\n# Comments: 0",
    "link": "https://nivdayan.github.io/dostoevsky.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -884,19 +949,6 @@
    "urgent": false,
    "fetched_at": "10-06 06:10",
    "ts": 1791238250
-  },
-  {
-   "id": "c3373e5b55b11df4a0331ca0e4b439bc",
-   "title": "Texas city demands $2M for public records on Flock usage",
-   "summary": "Article URL: https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/\nComments URL: https://news.ycombinator.com/ite",
-   "link": "https://arstechnica.com/tech-policy/2026/10/texas-city-demands-2m-for-public-records-on-flock-usage/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:05",
-   "ts": 1791237957
   },
   {
    "id": "a58aa1dc5d50a8609df348f30d6c8a57",
@@ -977,19 +1029,6 @@
    "ts": 1791237241
   },
   {
-   "id": "6c2558282d64fa020f057f05564721be",
-   "title": "Robert Kelker-Kelly, ‘Days of Our Lives’ and ‘General Hospital’ Star, Dies at 62",
-   "summary": "He also appeared on two other soap operas, 'Another World' and 'Port Charles.'",
-   "link": "https://www.hollywoodreporter.com/tv/tv-news/robert-kelker-kelly-dead-days-of-our-lives-general-hospital-1236722795/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:51",
-   "ts": 1791237083
-  },
-  {
    "id": "0dc77ca65b7355e17850f493b851b616",
    "title": "André DeShields, Brandon Dirden, Jasmine Cephas Jones and Cheryl Wills Named AAFCA Goes to Broadway Honorees (EXCLUSIVE)",
    "summary": "The African American Film Critics Association has set the lineup for its fifth AAFCA Goes to Broadway Luncheon. Tony winner André DeShields, Tony nominee Brando",
@@ -1001,32 +1040,6 @@
    "urgent": false,
    "fetched_at": "10-06 05:48",
    "ts": 1791236939
-  },
-  {
-   "id": "cdd3cf69997b52052561c7b6d703e983",
-   "title": "‘The Social Reckoning’ First Reactions: A ‘Solid Sequel,’ ‘Good, Just Not Great Film’ and a ‘Harsh Assessment of Zuckerberg’",
-   "summary": "Aaron Sorkin&#8217;s &#8220;The Social Reckoning&#8221; has been unveiled to members of the film press, who are calling the follow-up to &#8220;The Social Netwo",
-   "link": "https://variety.com/2026/film/news/social-reckoning-first-reactions-facebook-zuckerberg-1236878038/",
-   "source": "Variety",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:41",
-   "ts": 1791236514
-  },
-  {
-   "id": "e88b8b5c62879e9d6e67740fbae01f68",
-   "title": "Find the flattest route between any two points in SF",
-   "summary": "Article URL: https://flattensf.com/\nComments URL: https://news.ycombinator.com/item?id=49971230\nPoints: 109\n# Comments: 36",
-   "link": "https://flattensf.com/",
-   "source": "Hacker News",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 05:40",
-   "ts": 1791236450
   },
   {
    "id": "2416c09f0a1312d348114c8167f1ec63",
@@ -2457,19 +2470,6 @@
    "urgent": false,
    "fetched_at": "10-05 19:54",
    "ts": 1791201256
-  },
-  {
-   "id": "52156ce365f9569eb10cebc67ed6bace",
-   "title": "Realme P4s Lite goes official with a 7,000mAh battery",
-   "summary": "The Realme P4s, which launched in India in August, is now getting a new variant. Realme appears to have quietly unveiled the P4s Lite in the country, with sligh",
-   "link": "https://www.gsmarena.com/realme_p4s_lite_goes_official_with_a_7000mah_battery-news-74899.php",
-   "source": "GSMArena",
-   "channel": "数码",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-05 19:11",
-   "ts": 1791198661
   },
   {
    "id": "2326586d101702105ad140679ea979c7",
