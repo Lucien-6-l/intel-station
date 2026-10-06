@@ -1,6 +1,6 @@
 {
- "updated_at": "2026-10-06 11:04",
- "total": 253,
+ "updated_at": "2026-10-06 11:40",
+ "total": 258,
  "channels": [
   "AI·科技",
   "体育",
@@ -10,9 +10,114 @@
   "数码",
   "汽车",
   "游戏",
+  "科学",
   "财经"
  ],
  "items": [
+  {
+   "id": "ae2e5d098df7f4d97ef2ab090e01c6c2",
+   "title": "消息称月之暗面完成上市前最后一轮融资：估值约 500 亿美元，计划明年一季度赴港 IPO",
+   "summary": "IT之家 10 月 6 日消息，据彭博社报道，知情人士消息，月之暗面（Moonshot AI）已经完成上市前最后一轮私募融资，估值约 500 亿美元（IT之家注：现汇率约合 3,357.23 亿元人民币）；该公司计划于明年第一季度在香港进行首次公开募股（IPO）。部分知情人士称，这家国内头部人工智能企业已经开始筹备投资",
+   "link": "https://www.ithome.com/1/009/971.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 11:38",
+   "ts": 1791257927
+  },
+  {
+   "id": "7bec117877f09c4dffb96dd6d54aff88",
+   "title": "Slayyyter Announces New ‘Worst Girl in America’ “Brother Album” ‘Worst Man in America’",
+   "summary": "The new release will serve as a companion album to her project released earlier this year.",
+   "link": "https://www.hollywoodreporter.com/music/music-news/slayyyter-worst-man-in-america-album-announcement-1236723058/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 11:36",
+   "ts": 1791257781
+  },
+  {
+   "id": "f2b2c739ef484a8abb9a0123d728a452",
+   "title": "George Fenton, Oscar-Nominated Composer for ‘Cry Freedom’ and ‘Dangerous Liaisons,’ Dies at 76",
+   "summary": "He also worked on 'Groundhog Day,' 'You've Got Mail,' 'Hitch,' 'Fool's Gold' and 'Planet Earth,' among many others.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/george-fenton-dead-film-composer-1236723045/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 11:32",
+   "ts": 1791257540
+  },
+  {
+   "id": "9ccc6a35089eadf5bedcfa7b7c2b35a5",
+   "title": "iPhone 秒变“摄影机”，ShiftCam 与苹果合作推出全新 ProRig 套装",
+   "summary": "IT之家 10 月 6 日消息，苹果多年来一直将 iPhone 定位为专业的视频拍摄设备，官方每年的视频短片花絮中都能看到 iPhone 外挂各种专业影像设备的画面。现在，ShiftCam 与苹果合作，开发了一套用于 iPhone 的摄影配件，包括可用于手持、云台和三脚架拍摄的铝合金外壳“兔笼”，以及外挂的镜头、滤镜、",
+   "link": "https://www.ithome.com/1/009/970.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 11:31",
+   "ts": 1791257493
+  },
+  {
+   "id": "6927f4d43d27d0fd0f66f47fd5e85100",
+   "title": "Apple reportedly planning second wave of product announcements later this month",
+   "summary": "MacRumors reports that in addition to Apple’s expected event on October 13, the company is planning to unveil another batch of new products in the final week of",
+   "link": "https://9to5mac.com/2026/10/05/apple-reportedly-planning-second-wave-of-product-announcements-later-this-month/",
+   "source": "9to5Mac",
+   "channel": "数码",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": true,
+   "fetched_at": "10-06 11:25",
+   "ts": 1791257114
+  },
+  {
+   "id": "48c892f4622ebf0d446d04c3651621a3",
+   "title": "微软 Win11 五周年：全球超 10 亿用户背后，Win10 旧功能 / 特性回归、优化内存占用",
+   "summary": "IT之家 10 月 6 日消息，微软于 2021 年 10 月 5 日正式发布 Windows 11 系统，距今（2026 年 10 月 5 日）已满 5 周年，全球用户规模已突破 10 亿大关。在适配升级方面，微软 Windows 11 系统只用了 1,576 天，就解锁 10 亿用户规模里程碑。IT之家注：Wind",
+   "link": "https://www.ithome.com/1/009/969.htm",
+   "source": "IT之家",
+   "channel": "AI·科技",
+   "category": "发布/大事件",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 11:20",
+   "ts": 1791256807
+  },
+  {
+   "id": "ff33755258077ddaa2d7fcf07687e596",
+   "title": "2026 MLB playoff bracket: Schedule, scores, where to watch as Rays, White Sox take 2-0 ALDS leads",
+   "summary": "The White Sox, Rays and Brewers are all one win away from reaching the LCS round",
+   "link": "https://www.cbssports.com/mlb/news/2026-mlb-playoff-bracket-schedule-scores-results-how-to-watch/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 11:14",
+   "ts": 1791256494
+  },
+  {
+   "id": "8510523754ef8b183c83c5ae4fa182af",
+   "title": "Aaron Sorkin’s ‘The Social Reckoning’: First Reactions",
+   "summary": "The standalone sequel to 'The Social Network' hits theaters on Oct. 9.",
+   "link": "https://www.hollywoodreporter.com/movies/movie-news/aaron-sorkin-the-social-reckoning-first-reactions-1236723046/",
+   "source": "好莱坞报道",
+   "channel": "娱乐·影视",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 11:12",
+   "ts": 1791256342
+  },
   {
    "id": "ef07b3a37d59e47090e3a60f3e7f02cc",
    "title": "任天堂《超级马力欧兄弟：惊奇》游戏被原生移植到 Windows，无需模拟器几乎完美运行",
@@ -131,6 +236,19 @@
    "ts": 1791253746
   },
   {
+   "id": "d6db843c8aef2d2572e8d441a7afdddb",
+   "title": "Dante Moore returns to Oregon practice ahead of Ducks' top-25 clash with UCLA",
+   "summary": "The star quarterback was knocked out of Oregon's Sept. 26 win over USC with a concussion, but could be in line to play this Saturday after the Ducks' bye week",
+   "link": "https://www.cbssports.com/college-football/news/dante-moore-injury-oregon-concussion-dan-lanning-ucla/",
+   "source": "CBS Sports",
+   "channel": "体育",
+   "category": "资讯",
+   "weight": 2,
+   "urgent": false,
+   "fetched_at": "10-06 10:23",
+   "ts": 1791253409
+  },
+  {
    "id": "278b6dd4ea2af54ea961fc25ab32ae47",
    "title": "Groq 遭起诉：被控与英伟达 200 亿美元“类收购”交易牺牲少数股东权益",
    "summary": "IT之家 10 月 6 日消息，综合 CNBC 与《金融时报》报道，Groq 当地时间本周二被告上美国特拉华州衡平法院，被指控在与 NVIDIA（英伟达）的“类收购”非独家授权交易中牺牲了少数股东的权益。原告 Joshua Rubin 和 Benjamin Serebrin 曾是 Groq 的员工，但在与 NVIDIA",
@@ -170,19 +288,6 @@
    "ts": 1791252717
   },
   {
-   "id": "7f5e3d9aaa4028f4be4b71282f5a1097",
-   "title": "余承东详解华为手机“拼好网”：高铁视频通话卡顿减少 90%，Mate 90 系列首发",
-   "summary": "IT之家 10 月 6 日消息，华为常务董事、产品投资评审委员会主任、终端 BG 董事长余承东今日发布视频，详细介绍了华为 Mate 90 系列首发的多设备互助通信共享功能。余承东以水资源分配为例，只需要碰一碰，就能把几台华为设备的网络资源整合起来，按需分配。根据华为工程师实地测试，在京沪高铁上使用三台不同运营商网络的",
-   "link": "https://www.ithome.com/1/009/957.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "发布/大事件",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 10:11",
-   "ts": 1791252700
-  },
-  {
    "id": "c83489c3720df2ea42a968dea8dcc43e",
    "title": "Skydance to Fully Reorganize International; Kevin MacLellan Will Not Lead Key Group",
    "summary": "Reverberations from the historic combination of Skydance and Warner Bros. Discovery are now being felt overseas. Despite a Monday report claiming international ",
@@ -194,32 +299,6 @@
    "urgent": false,
    "fetched_at": "10-06 10:10",
    "ts": 1791252619
-  },
-  {
-   "id": "4f1b46542988e5a17e3ad22ec011bd99",
-   "title": "Constellation 收获亚马逊 20 年核电长单，接近与 Alphabet 达成 10 亿美元交易",
-   "summary": "IT之家 10 月 6 日消息，美国能源企业 Constellation 当地时间 9 月 30 日宣布与 Amazon（亚马逊）签署了一份长达 20 年的核电供应协议。Constellation 将利用其位于马里兰州 Calvert Cliffs 的核电站为亚马逊供应 690MW 的电力，其中包括 2030~2032",
-   "link": "https://www.ithome.com/1/009/956.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 10:00",
-   "ts": 1791252039
-  },
-  {
-   "id": "bcfa2459e3aae07cce8cf4e5cb2c360e",
-   "title": "苹果与 OpenAI 商业秘密诉讼交锋升级：互指违规提交新证据",
-   "summary": "IT之家 10 月 6 日消息，几天之前，OpenAI 指责苹果在商业秘密诉讼当中违规提交新证据。如今苹果予以反击，反过来指控 OpenAI 在其提交的回应中超出了法院规则允许的范围。据IT之家了解，这起诉讼由苹果发起，起诉两名前员工（刘畅〔Chang Liu〕、谭唐〔Tang Tan〕）、OpenAI 以及 io P",
-   "link": "https://www.ithome.com/1/009/955.htm",
-   "source": "IT之家",
-   "channel": "AI·科技",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 09:59",
-   "ts": 1791251994
   },
   {
    "id": "8210cffe4a695a8d2da0bf6b74f3e453",
@@ -354,7 +433,7 @@
   {
    "id": "ffeb069596cc1312ca33a86164273111",
    "title": "Photopea creator weighs in on Photosuite project",
-   "summary": "Article URL: https://github.com/eolix/photosuite/issues/77\nComments URL: https://news.ycombinator.com/item?id=49972730\nPoints: 20\n# Comments: 8",
+   "summary": "Article URL: https://github.com/eolix/photosuite/issues/77\nComments URL: https://news.ycombinator.com/item?id=49972730\nPoints: 31\n# Comments: 15",
    "link": "https://github.com/eolix/photosuite/issues/77",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -391,19 +470,6 @@
    "ts": 1791246297
   },
   {
-   "id": "5393d06dd8300ac2fc460ab6a24d6d31",
-   "title": "MLB playoff winners and losers: White Sox one win from ALCS thanks to a trade from two years ago",
-   "summary": "The White Sox are now 4-0 this postseason, and they've pushed the Guardians to the brink of elimination",
-   "link": "https://www.cbssports.com/mlb/news/mlb-playoff-winners-losers-alds-game-2-yankees-rays-white-sox/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 08:21",
-   "ts": 1791246094
-  },
-  {
    "id": "47d407491dfc7a61dcdefb0cd85a69f6",
    "title": "Trump Says He’ll Pay for ‘Patriotic Ads’ Himself Following Controversy Around Taxpayer-Funded TV Spots",
    "summary": "After controversy erupted over Donald Trump&#8217;s administration buying TV ad time (with taxpayer dollars) to air advertisements endorsing the president, Trum",
@@ -432,7 +498,7 @@
   {
    "id": "b31a2e51417da6819b1e26e2b2b580d1",
    "title": "AI tutoring with Khanmigo in a two-year school experiment",
-   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 39\n# Comments: 27",
+   "summary": "Article URL: https://edworkingpapers.com/ai26-1551\nComments URL: https://news.ycombinator.com/item?id=49972419\nPoints: 44\n# Comments: 30",
    "link": "https://edworkingpapers.com/ai26-1551",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -484,7 +550,7 @@
   {
    "id": "1de8f2d7f0abd7c338333f68dd283af7",
    "title": "Samon: Designing a Zen Garden Raking Puzzle",
-   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 25\n# Comments: 7",
+   "summary": "Article URL: https://gwern.net/doc/design/2026-10-03-gwern-samon.html\nComments URL: https://news.ycombinator.com/item?id=49972211\nPoints: 26\n# Comments: 7",
    "link": "https://gwern.net/doc/design/2026-10-03-gwern-samon.html",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -705,7 +771,7 @@
   {
    "id": "2368a8eed5c8f6baa0fcadbde069cb21",
    "title": "Worth Building",
-   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 45\n# Comments: 32",
+   "summary": "Article URL: https://armstr.ng/writing/worth-building\nComments URL: https://news.ycombinator.com/item?id=49971952\nPoints: 48\n# Comments: 38",
    "link": "https://armstr.ng/writing/worth-building",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -731,7 +797,7 @@
   {
    "id": "9a599dc855536688121514bf3da41ee6",
    "title": "Example.com just launched the biggest redesign in decades",
-   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 98\n# Comments: ",
+   "summary": "Article URL: https://www.debugbear.com/blog/example-dot-com-redesign-history\nComments URL: https://news.ycombinator.com/item?id=49971921\nPoints: 112\n# Comments:",
    "link": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -781,32 +847,6 @@
    "ts": 1791240405
   },
   {
-   "id": "0f5780bf1dbe04faaa938c2a2230ae08",
-   "title": "Yankees vs. Rays ALDS Game 2 parlay, MLB picks: Runs might be at premium behind Cam Schlittler, Freddy Peralta",
-   "summary": "It's a pair of standout pitchers on the mound tonight when the Yankees will try to avoid a 2-0 ALDS hole at the Rays",
-   "link": "https://www.cbssports.com/betting/news/yankees-vs-rays-alds-game-2-parlay-mlb-picks-runs-might-be-at-premium-behind-cam-schlittler-freddy-peralta/",
-   "source": "CBS Sports",
-   "channel": "体育",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:45",
-   "ts": 1791240344
-  },
-  {
-   "id": "783807377d225a749cf0c41376419dd6",
-   "title": "‘East of Eden’ Star Mike Faist on Male Ego, Love Triangles and Still Learning from Steven Spielberg",
-   "summary": "Faist also discusses the relationship between Cathy (Florence Pugh) and the Trask brothers, and the appeal of the triangular dynamics he’s explored in both 'Cha",
-   "link": "https://www.hollywoodreporter.com/tv/tv-features/east-of-eden-netflix-cathy-trask-brothers-mike-faist-1236717260/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:45",
-   "ts": 1791240300
-  },
-  {
    "id": "750272ad8eca880c198dab5b8aecf6a6",
    "title": "9to5Mac Daily: October 5, 2026 – macOS privacy changes, more",
    "summary": "Listen to a recap of the top stories of the day from 9to5Mac. 9to5Mac Daily is available on iTunes and Apple’s Podcasts app, Stitcher, TuneIn, Google Play, or t",
@@ -835,7 +875,7 @@
   {
    "id": "a2761a73b2e3f39b07bda986fe995f67",
    "title": "Global Solar Atlas: summary of solar power potential globally",
-   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 17\n# Comments: 10",
+   "summary": "Article URL: https://globalsolaratlas.info/\nComments URL: https://news.ycombinator.com/item?id=49971782\nPoints: 18\n# Comments: 13",
    "link": "https://globalsolaratlas.info/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -846,22 +886,9 @@
    "ts": 1791239878
   },
   {
-   "id": "bbf1c65c8b283d75b77a75096ee89735",
-   "title": "Tom Bateman’s Secret to Nailing ‘The Love Hypothesis’? Being Offline",
-   "summary": "The actor is also set to lead Netflix's adaptation of the Harlan Coben novel 'The Woods.'",
-   "link": "https://www.hollywoodreporter.com/tv/tv-features/tom-bateman-the-love-hypothesis-interview-1236716763/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:31",
-   "ts": 1791239468
-  },
-  {
    "id": "3c66b6ae885a384eb8f30be85aa7b5fb",
    "title": "Learning Jazz Pianist Style with Cross-Attention Conditioning",
-   "summary": "Article URL: https://almostimplemented.github.io/jazz-pianist-style/\nComments URL: https://news.ycombinator.com/item?id=49971726\nPoints: 26\n# Comments: 2",
+   "summary": "Article URL: https://almostimplemented.github.io/jazz-pianist-style/\nComments URL: https://news.ycombinator.com/item?id=49971726\nPoints: 30\n# Comments: 4",
    "link": "https://almostimplemented.github.io/jazz-pianist-style/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -887,7 +914,7 @@
   {
    "id": "147dbac58dfd86cb10c7c0448d20440b",
    "title": "Friendship ended with Deno, now Node is my best friend",
-   "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/\nComments URL: https://news.ycombinator.com/item?id=49971719\nPoints: 80\n# Comments: 21",
+   "summary": "Article URL: https://dbushell.com/2026/10/03/deno-to-node/\nComments URL: https://news.ycombinator.com/item?id=49971719\nPoints: 86\n# Comments: 26",
    "link": "https://dbushell.com/2026/10/03/deno-to-node/",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -911,22 +938,9 @@
    "ts": 1791239400
   },
   {
-   "id": "f1d555e5dd3d2e4037a16a8b5463af12",
-   "title": "Harry Potter Goes Grunge With a Surprisingly Wearable New Lifestyle Collection",
-   "summary": "Streetwear label Blvck Paris' limited-edition line includes hoodies, jeans, hats, accessories and more.",
-   "link": "https://www.hollywoodreporter.com/lifestyle/shopping/harry-potter-blvck-paris-clothing-merch-collection-2026-1236708827/",
-   "source": "好莱坞报道",
-   "channel": "娱乐·影视",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 06:25",
-   "ts": 1791239151
-  },
-  {
    "id": "faf77ea10960cd55a0837d15466ebf3b",
    "title": "Better Space-Time Trade-Offs for LSM-Tree Based Key-Value Stores [pdf]",
-   "summary": "Article URL: https://nivdayan.github.io/dostoevsky.pdf\nComments URL: https://news.ycombinator.com/item?id=49971678\nPoints: 22\n# Comments: 0",
+   "summary": "Article URL: https://nivdayan.github.io/dostoevsky.pdf\nComments URL: https://news.ycombinator.com/item?id=49971678\nPoints: 23\n# Comments: 0",
    "link": "https://nivdayan.github.io/dostoevsky.pdf",
    "source": "Hacker News",
    "channel": "AI·科技",
@@ -1663,19 +1677,6 @@
    "urgent": false,
    "fetched_at": "10-06 02:33",
    "ts": 1791225237
-  },
-  {
-   "id": "176c124a7b6ff3f256eb70190b3233a1",
-   "title": "iOS 27 upgrades Messages app with key new features for RCS",
-   "summary": "iOS 27 includes several welcome additions to the Messages app, including two key upgrades for RCS conversations. Here’s what’s new.\n\n\n\n more…",
-   "link": "https://9to5mac.com/2026/10/05/ios-27-upgrades-messages-app-with-key-new-features-for-rcs/",
-   "source": "9to5Mac",
-   "channel": "数码",
-   "category": "资讯",
-   "weight": 2,
-   "urgent": false,
-   "fetched_at": "10-06 02:31",
-   "ts": 1791225091
   },
   {
    "id": "dd9c0054d7bcb24d926d69c6ee876c8a",
